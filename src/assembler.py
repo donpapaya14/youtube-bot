@@ -75,11 +75,11 @@ def _process_clips(clips: list[str], work_dir: str) -> list[str]:
                 f"crop={WIDTH}:{HEIGHT}:{crop_x}:{crop_y},setsar=1,"
                 f"eq=brightness={bright}:saturation={sat}"
             ),
-            "-c:v", "libx264", "-preset", "fast", "-crf", str(random.randint(17, 19)),
-            "-an", "-r", "30", "-t", "20",
+            "-c:v", "libx264", "-preset", "ultrafast", "-crf", str(random.randint(19, 22)),
+            "-an", "-r", "30", "-t", "15",
             out,
         ]
-        result = subprocess.run(cmd, capture_output=True, text=True, timeout=120)
+        result = subprocess.run(cmd, capture_output=True, text=True, timeout=300)
         if result.returncode == 0:
             processed.append(out)
         else:
@@ -95,10 +95,10 @@ def _concat_clips(clips: list[str], output: str):
             f.write(f"file '{clip}'\n")
     cmd = [
         "ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", list_file,
-        "-c:v", "libx264", "-preset", "fast", "-crf", "18", "-r", "30",
+        "-c:v", "libx264", "-preset", "ultrafast", "-crf", "20", "-r", "30",
         output,
     ]
-    result = subprocess.run(cmd, capture_output=True, text=True, timeout=120)
+    result = subprocess.run(cmd, capture_output=True, text=True, timeout=300)
     if result.returncode != 0:
         raise RuntimeError(f"Error concatenando: {result.stderr[-300:]}")
 
@@ -215,7 +215,7 @@ def _compose_final(
         "-filter_complex", filter_str,
         "-map", last_label,
         *audio_map,
-        "-c:v", "libx264", "-preset", "medium", "-crf", "18",
+        "-c:v", "libx264", "-preset", "fast", "-crf", "20",
         "-c:a", "aac", "-b:a", "128k",
         "-r", "30",
         "-t", str(total_duration),
@@ -224,7 +224,7 @@ def _compose_final(
     ]
 
     log.info("FFmpeg compose: %d slides, %.0fs duración", len(slides), total_duration)
-    result = subprocess.run(cmd, capture_output=True, text=True, timeout=300)
+    result = subprocess.run(cmd, capture_output=True, text=True, timeout=600)
     if result.returncode != 0:
         log.error("FFmpeg stderr: %s", result.stderr[-800:])
         raise RuntimeError(f"Error en composición final: {result.stderr[-500:]}")
