@@ -167,7 +167,7 @@ EJEMPLO BUENO (canal IA):
 Responde SOLO JSON:
 {{
   "title": "titulo SEO max 60 chars con 1 emoji",
-  "description": "descripcion 3 lineas con keywords y CTA. Incluir link newsletter.",
+  "description": "descripcion 3 lineas con keywords, mencionar producto relevante de Amazon si aplica, y CTA.",
   "tags": ["tag1", "tag2", "tag3", "tag4", "tag5", "tag6", "tag7", "tag8"],
   "segments": [
     {{"voice": "texto voz natural", "text": "RESUMEN corto", "duration": 3}},

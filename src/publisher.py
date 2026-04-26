@@ -34,10 +34,20 @@ def upload_to_youtube(
 
     youtube = build("youtube", "v3", credentials=creds)
 
-    # Añadir CTA (newsletter, suscripción) al final de la descripción
+    # Añadir CTA (web, Amazon, newsletter) al final de la descripción
     cta = channel_config.get("cta", "")
     if cta:
         description = f"{description}\n\n{cta}"
+
+    # Añadir link Amazon basado en tags del video
+    amazon_tag = channel_config.get("amazon_tag", "vladys-21")
+    if tags:
+        search_kw = "+".join(tags[:3]).replace(" ", "+")
+        amazon_link = f"https://www.amazon.es/s?k={search_kw}&tag={amazon_tag}"
+        description = description.replace(
+            channel_config.get("amazon_search", ""),
+            "+".join(tags[:2]).replace(" ", "+")
+        ) if channel_config.get("amazon_search") else description
 
     body = {
         "snippet": {
