@@ -115,7 +115,7 @@ Responde JSON:
   "topic": "tema concreto",
   "hook": "frase gancho de 8 palabras máximo",
   "key_points": ["dato real 1", "dato real 2", "dato real 3", "dato real 4"],
-  "search_terms": ["búsqueda en inglés 1", "término 2", "término 3"]
+  "search_terms": ["búsqueda visual en inglés muy específica del tema para encontrar video de fondo 1", "término visual 2", "término visual 3"]
 }}"""
 
     data = _call_with_fallback(prompt, primary="groq", temperature=0.9)
@@ -165,7 +165,7 @@ Responde SOLO JSON:
     {{"voice": "texto voz natural", "text": "RESUMEN corto", "duration": 3}},
     ...
   ],
-  "video_prompt": "visual description for stock footage search"
+  "video_prompt": "descripción visual específica para buscar video de fondo relacionado con el tema"
 }}"""
 
     data = _call_with_fallback(prompt, primary="github", temperature=0.7)
