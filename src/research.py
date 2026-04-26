@@ -143,14 +143,15 @@ FORMATO: El Short tiene VOZ narrando + TEXTO en pantalla.
 - "text" = texto corto que aparece en pantalla (MÁXIMO 20 caracteres, resumen visual)
 
 REGLAS:
-1. 7-9 segmentos
-2. Voz natural, directa, como contándole algo a un amigo
-3. Texto en pantalla = resumen ultra corto de lo que dice la voz
+1. 7-8 segmentos
+2. Cada frase de voz: MÁXIMO 15 palabras. Cortas, directas, sin subordinadas
+3. Texto en pantalla = resumen ultra corto (máx 20 chars)
 4. PRIMER segmento = gancho que para el scroll
 5. ÚLTIMO segmento = "Sígueme para más tips"
-6. Sin emojis en el texto (se ven mal en video)
-7. Sin frases vacías. Cada segmento aporta INFO NUEVA
+6. Sin emojis en el texto
+7. CADA segmento aporta INFO NUEVA y CONCRETA
 8. Hablar de TÚ al espectador
+9. Duración total del video: 25-35 segundos MÁXIMO
 
 EJEMPLO BUENO (canal IA):
 [
