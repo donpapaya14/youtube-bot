@@ -27,20 +27,28 @@ from publisher import upload_to_youtube, notify_telegram
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 log = logging.getLogger(__name__)
 
-DEFAULT_FOLDER = os.path.expanduser("~/Descargas/videos-yt")
-DEFAULT_CHANNEL = "ia_explica"
+DEFAULT_FOLDER = os.path.expanduser("~/Downloads")
+DEFAULT_CHANNEL = "vida_sana_360"
 
 
-def generate_metadata(video_filename: str) -> dict:
-    """Genera título, descripción y tags con IA basándose en el nombre del archivo."""
-    prompt = f"""Genera metadata para un YouTube Short en español sobre IA/tecnología.
-El archivo de video se llama: {video_filename}
+def generate_metadata(video_filename: str, channel_config: dict) -> dict:
+    """Genera título, descripción y tags basándose en el nombre del archivo y el canal."""
+    niche = channel_config.get("niche", "")
+    name = channel_config.get("name", "")
+    cta = channel_config.get("cta", "")
 
-Genera contenido atractivo y SEO-optimizado.
+    prompt = f"""Genera metadata para un YouTube Short en español.
+Canal: {name}
+Nicho: {niche}
+Archivo de video: {video_filename}
+
+Interpreta el nombre del archivo para entender el tema del video.
+Genera título y descripción relevantes al NICHO del canal, NO menciones IA ni tecnología a menos que el canal sea de IA.
+
 Responde SOLO con JSON válido:
 {{
-  "title": "título SEO máx 70 chars con emoji",
-  "description": "descripción 3-4 líneas con keywords y CTA. Incluir: 📩 Suscríbete a la newsletter | 👍 Like y suscríbete | 🔔 Activa la campanita",
+  "title": "título SEO máx 60 chars con 1 emoji, relevante al nicho del canal",
+  "description": "descripción 3 líneas sobre el tema del video + hashtags\\n\\n{cta}",
   "tags": ["tag1", "tag2", "tag3", "tag4", "tag5", "tag6", "tag7", "tag8"]
 }}"""
     return _call_groq(prompt, temperature=0.8)
@@ -72,7 +80,7 @@ def upload_batch(folder: str, channel_name: str):
 
         try:
             # Generar metadata con IA
-            meta = generate_metadata(filename)
+            meta = generate_metadata(filename, channel_config)
             log.info("Título: %s", meta["title"])
 
             # Subir

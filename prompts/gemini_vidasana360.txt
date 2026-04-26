@@ -1,70 +1,74 @@
 ============================================================
-PROMPTS PARA GEMINI PRO — Canal VidaSana360
-Pega UNO de estos en gemini.google.com cada día.
-Gemini genera el video con Veo 2, tú lo descargas y subes a YouTube Studio.
+PROMPTS GEMINI PRO — VidaSana360
+Pega UN prompt en gemini.google.com → descarga video → sube a YouTube Studio
+IMPORTANTE: Gemini genera máx 8s por clip. Genera 4 clips por tema y súbelos todos.
 ============================================================
 
-=== PROMPT 1: PÉRDIDA DE PESO ===
+=== TEMA 1: SENTADILLAS QUEMAN MÁS QUE CORRER ===
 
-Crea un YouTube Short vertical (9:16) de 30 segundos sobre pérdida de peso.
+Genera 4 videos verticales (9:16) de 8 segundos cada uno para un YouTube Short sobre ejercicio.
 
-El video debe mostrar visualmente:
-- Persona haciendo ejercicio, comida saludable, transformación
-- Estilo cinematográfico, colores cálidos, movimiento dinámico
-- SIN texto en el video (yo lo pongo después)
+Video 1: Persona haciendo sentadillas con salto en un gimnasio moderno, cámara dinámica, iluminación dramática
+Video 2: Close-up de piernas durante ejercicio intenso, gotas de sudor, cámara lenta
+Video 3: Persona corriendo en cinta vs persona haciendo sentadillas, pantalla dividida
+Video 4: Persona sonriendo después del ejercicio, sensación de logro, luz dorada
 
-Tema: "El ejercicio que quema más calorías que correr: las sentadillas con salto"
-Incluir escenas de: persona haciendo sentadillas, cronómetro, gráfico de calorías
+Estilo: cinematográfico, colores cálidos, movimiento dinámico. SIN texto.
 
-=== PROMPT 2: NUTRICIÓN ===
+=== TEMA 2: ALIMENTOS QUE ACELERAN METABOLISMO ===
 
-Genera un video vertical 9:16 de 30 segundos con estilo documental sobre nutrición.
+Genera 4 videos verticales (9:16) de 8 segundos sobre nutrición saludable.
 
-Escenas: alimentos coloridos, persona cocinando, frutas, verduras, close-ups de comida saludable.
-Movimiento de cámara lento, iluminación natural, colores vibrantes.
-SIN texto. Formato cinematográfico profesional.
+Video 1: Close-up de jengibre, té verde, chile picante sobre mesa de madera, vapor subiendo
+Video 2: Persona cortando verduras frescas en cocina luminosa, movimiento fluido
+Video 3: Plato colorido con salmón, aguacate, espinacas, cámara girando alrededor
+Video 4: Persona bebiendo batido verde, sonriendo, cocina moderna con luz natural
 
-Tema visual: "Los 5 alimentos que aceleran tu metabolismo"
+Estilo: documental gastronómico premium, colores vibrantes. SIN texto.
 
-=== PROMPT 3: MITOS DE DIETAS ===
+=== TEMA 3: POR QUÉ LAS DIETAS FALLAN ===
 
-Crea un Short vertical 9:16 de 30 segundos con estilo dramático.
+Genera 4 videos verticales (9:16) de 8 segundos sobre dietas.
 
-Escenas: persona mirando la báscula, comida procesada vs natural, transformación antes/después.
-Estilo contrastado: oscuro al principio, luminoso al final.
-SIN texto en el video. Movimiento dinámico de cámara.
+Video 1: Mesa llena de comida procesada, iluminación fría y oscura, sensación negativa
+Video 2: Persona mirando báscula con frustración, plano medio
+Video 3: Transición: comida procesada se transforma en comida natural fresca
+Video 4: Persona comiendo ensalada con energía, sonriendo, luz cálida, ambiente positivo
 
-Tema visual: "Por qué las dietas de moda NO funcionan"
+Estilo: contraste dramático oscuro→luminoso. SIN texto.
 
-=== PROMPT 4: HÁBITOS SALUDABLES ===
+=== TEMA 4: RUTINA MATUTINA 5 MINUTOS ===
 
-Genera un video vertical 9:16 de 30 segundos sobre rutina matutina saludable.
+Genera 4 videos verticales (9:16) de 8 segundos sobre rutina matutina.
 
-Escenas: persona despertando, estirándose, bebiendo agua, desayuno saludable, saliendo a caminar.
-Luz dorada de amanecer, movimiento suave, sensación de energía.
-SIN texto. Cinematográfico, inspirador.
+Video 1: Amanecer, persona despertando con energía, estirándose en la cama
+Video 2: Persona bebiendo vaso de agua con limón, cocina con luz dorada de amanecer
+Video 3: Persona haciendo estiramientos/yoga al aire libre, naturaleza de fondo
+Video 4: Persona saliendo a caminar, sonrisa, energía, ciudad o parque de mañana
 
-Tema visual: "La rutina de 5 minutos que cambia tu metabolismo"
+Estilo: inspirador, luz dorada de amanecer, movimiento suave. SIN texto.
 
-=== PROMPT 5: CIENCIA Y PESO ===
+=== TEMA 5: AYUNO INTERMITENTE 16:8 ===
 
-Crea un Short vertical 9:16 de 30 segundos con estilo científico-visual.
+Genera 4 videos verticales (9:16) de 8 segundos sobre ayuno intermitente.
 
-Escenas: laboratorio, microscopio, células, cuerpo humano, intestinos (microbioma),
-gráficos científicos, transición a persona saludable.
-Colores azules y verdes, estilo documental premium.
-SIN texto.
+Video 1: Reloj marcando las horas, plato vacío transformándose en plato lleno
+Video 2: Persona bebiendo agua/café negro por la mañana, mirando por ventana
+Video 3: Comida abundante y saludable en una mesa, primera comida del día
+Video 4: Persona con energía haciendo ejercicio, reloj mostrando "ventana de alimentación"
 
-Tema visual: "Lo que la ciencia dice sobre tu microbioma y tu peso"
+Estilo: limpio, minimalista, colores neutros con toques verdes. SIN texto.
 
 ============================================================
-INSTRUCCIONES:
-1. Copia UN prompt → pega en gemini.google.com
-2. Espera que genere el video
-3. Descarga el video
-4. Abre YouTube Studio → VidaSana360 → Crear → Subir Short
-5. Título/descripción: usa lo que genera el bot automático como referencia
-6. Repite con otro prompt
+CÓMO USAR:
 
-Puedes hacer 3-5 videos al día con Gemini Pro.
+1. Copia UN tema completo → pega en gemini.google.com
+2. Gemini genera los 4 clips (8s cada uno)
+3. Descarga los 4 a ~/Downloads/
+4. En terminal: cd ~/Proyectos/youtube-bot && source venv/bin/activate
+5. python src/upload_gemini_videos.py --folder ~/Downloads --channel vida_sana_360
+6. El bot los sube, genera títulos SEO, y notifica por Telegram
+7. Videos movidos a ~/Downloads/subidos/
+
+PRÓXIMOS PROMPTS: Pídele a Claude que te genere más temas.
 ============================================================
