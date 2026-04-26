@@ -151,22 +151,27 @@ def _render_slide(
     img = Image.new("RGBA", (WIDTH, HEIGHT), (0, 0, 0, 0))
     draw = ImageDraw.Draw(img)
 
-    max_chars = max(14, int(WIDTH / (font_size * 0.52)))
+    # Limpiar emojis del texto (no renderizan bien en Linux)
+    text = _strip_emojis(text)
+
+    # Max 16 chars por línea → texto NUNCA se sale de la pantalla
+    max_chars = 16
     lines = _wrap_text(text, max_chars)
 
-    line_h = font_size + 22
-    block_h = len(lines) * line_h + 52
+    line_h = font_size + 24
+    block_h = len(lines) * line_h + 56
 
+    # Calcular ancho real del texto renderizado
     widths = []
     for line in lines:
         bbox = draw.textbbox((0, 0), line, font=font_bold)
         widths.append(bbox[2] - bbox[0])
-    block_w = max(widths) + 80 if widths else WIDTH // 2
-    block_w = min(block_w, WIDTH - 60)
+    block_w = max(widths) + 100 if widths else WIDTH // 2
+    # NUNCA exceder el 85% del ancho de pantalla
+    block_w = min(block_w, int(WIDTH * 0.85))
 
     box_x = (WIDTH - block_w) / 2
-    # Posicionar en el centro-inferior (más natural para Shorts)
-    box_y = HEIGHT * 0.42
+    box_y = HEIGHT * 0.40
 
     # Fondo con bordes redondeados
     draw.rounded_rectangle(
@@ -265,7 +270,20 @@ def _compose_final(
         raise RuntimeError(f"Error composición: {result.stderr[-500:]}")
 
 
-def _wrap_text(text: str, max_chars: int = 20) -> list[str]:
+def _strip_emojis(text: str) -> str:
+    """Elimina emojis del texto para evitar caracteres rotos en video."""
+    import re
+    emoji_pattern = re.compile(
+        "[\U0001F600-\U0001F64F\U0001F300-\U0001F5FF\U0001F680-\U0001F6FF"
+        "\U0001F1E0-\U0001F1FF\U00002702-\U000027B0\U000024C2-\U0001F251"
+        "\U0001f900-\U0001f9FF\U0001fa00-\U0001fa6f\U0001fa70-\U0001faff"
+        "\U00002600-\U000026FF\U0000FE0F]+",
+        flags=re.UNICODE,
+    )
+    return emoji_pattern.sub("", text).strip()
+
+
+def _wrap_text(text: str, max_chars: int = 16) -> list[str]:
     words = text.split()
     lines = []
     current = ""

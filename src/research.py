@@ -93,15 +93,17 @@ Tema: {topic_data['topic']}
 Gancho: {topic_data['hook']}
 Puntos clave: {json.dumps(topic_data['key_points'], ensure_ascii=False)}
 
-REGLAS PARA SHORTS VIRALES:
-1. Duración total: 25-35 segundos (sweet spot viral)
+REGLAS OBLIGATORIAS:
+1. Duración total: 25-35 segundos
 2. HOOK en slide 1: máx 8 palabras, que pare el scroll
-3. Cada slide: MÁXIMO 2-3 segundos, texto CORTO (máx 40 caracteres)
-4. Ritmo RÁPIDO — sin pausas, sin relleno
-5. Estructura: Hook → Tensión → Datos → Revelación → CTA loop
-6. Última slide debe conectar con la primera (loop = más reproducciones)
-7. Usar MAYÚSCULAS para palabras clave
-8. Emojis estratégicos (1-2 por slide máximo)
+3. Cada slide: 3-4 segundos, texto CORTO (MÁXIMO 30 caracteres por slide, esto es CRÍTICO)
+4. CADA slide debe dar INFORMACIÓN CONCRETA — NUNCA slides vacíos o genéricos
+5. Si el tema dice "5 cosas" → NOMBRA las 5 cosas en los slides
+6. Estructura: Hook → Dato 1 → Dato 2 → Dato 3 → Revelación → CTA
+7. Usar MAYÚSCULAS para 1-2 palabras clave por slide
+8. NO usar emojis en el texto de los slides (se renderizan mal en video)
+9. El título SÍ puede tener emojis, pero los slides NO
+10. Última slide: "Sígueme para más" o similar
 
 Responde SOLO con JSON válido:
 {{
@@ -109,11 +111,14 @@ Responde SOLO con JSON válido:
   "description": "descripción 3 líneas con keywords, CTA y hashtags",
   "tags": ["tag1", "tag2", "tag3", "tag4", "tag5", "tag6", "tag7", "tag8"],
   "text_slides": [
-    {{"text": "¿Sabías ESTO? 🤯", "duration": 2}},
-    {{"text": "Dato impactante", "duration": 2.5}},
-    {{"text": "Otro dato", "duration": 2.5}},
-    {{"text": "Revelación FINAL", "duration": 3}},
-    {{"text": "Sígueme para más 👆", "duration": 2}}
+    {{"text": "5 empleos que MORIRAN", "duration": 3}},
+    {{"text": "1. Cajeros de banco", "duration": 3}},
+    {{"text": "2. Teleoperadores", "duration": 3}},
+    {{"text": "3. Traductores", "duration": 3}},
+    {{"text": "4. Contadores", "duration": 3}},
+    {{"text": "5. Repartidores", "duration": 3}},
+    {{"text": "El tuyo esta a salvo?", "duration": 3}},
+    {{"text": "Sigueme para mas", "duration": 3}}
   ],
   "video_prompt": "dynamic cinematic shot, fast movement, vibrant colors, vertical 9:16..."
 }}"""
