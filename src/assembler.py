@@ -1,10 +1,6 @@
 """
-Ensamblaje de video final con FFmpeg + Pillow.
-- Concatena clips de video como fondo
-- Genera texto como imágenes PNG transparentes (Pillow)
-- Overlay directo de PNGs sobre fondo con enable=between() (sin drawtext)
-- Música de fondo opcional
-- Formato vertical 9:16 (1080x1920), máximo 60 segundos
+Ensamblaje de video VIRAL para YouTube Shorts.
+Optimizado para retención: ritmo rápido, zoom effects, transiciones dinámicas.
 """
 
 import logging
@@ -29,26 +25,25 @@ def assemble_video(
     output_path: str,
     music_path: str | None = None,
 ) -> str:
-    """Ensambla video final. Devuelve path al archivo generado."""
     work_dir = tempfile.mkdtemp(prefix="ytbot_")
 
-    # 1. Procesar clips a formato vertical
     processed = _process_clips(clips, work_dir)
     if not processed:
-        raise RuntimeError("No hay clips procesados para ensamblar")
+        raise RuntimeError("No hay clips procesados")
 
-    # 2. Concatenar clips de fondo
     concat_path = os.path.join(work_dir, "concat.mp4")
     _concat_clips(processed, concat_path)
 
-    # 3. Duración total de slides
     total_duration = sum(s["duration"] for s in text_slides)
-    total_duration = min(total_duration, 59)
+    # Sweet spot viral: 25-35s. Si slides suman menos, estirar proporcional
+    if total_duration < 25:
+        factor = 25 / total_duration
+        for s in text_slides:
+            s["duration"] = round(s["duration"] * factor, 1)
+        total_duration = sum(s["duration"] for s in text_slides)
+    total_duration = min(total_duration, 35)
 
-    # 4. Generar imágenes PNG para cada slide
     slide_pngs = _generate_slide_pngs(text_slides, style, work_dir)
-
-    # 5. Componer: fondo (looped) + overlay PNGs + audio
     _compose_final(concat_path, slide_pngs, text_slides, total_duration, output_path, music_path)
 
     size_kb = os.path.getsize(output_path) / 1024
@@ -57,38 +52,58 @@ def assemble_video(
 
 
 def _process_clips(clips: list[str], work_dir: str) -> list[str]:
-    """Redimensiona cada clip a 1080x1920, quita audio."""
+    """Procesa clips con zoom lento (Ken Burns effect) para dinamismo."""
     processed = []
     for i, clip in enumerate(clips):
         out = os.path.join(work_dir, f"proc_{i}.mp4")
-        # Anti-fingerprint: variaciones aleatorias imperceptibles
-        bright = round(random.uniform(-0.03, 0.03), 3)
-        sat = round(random.uniform(0.97, 1.03), 3)
-        crop_x = random.randint(0, 6)
-        crop_y = random.randint(0, 6)
-        scale_w = WIDTH + crop_x * 2
-        scale_h = HEIGHT + crop_y * 2
+
+        # Anti-fingerprint + Ken Burns zoom effect
+        bright = round(random.uniform(-0.02, 0.02), 3)
+        sat = round(random.uniform(0.98, 1.04), 3)
+
+        # Zoom lento: empezar al 100% y zoom in a 110% (o viceversa)
+        if random.random() > 0.5:
+            # Zoom in
+            zoom_filter = (
+                f"scale=1200:2132,zoompan=z='min(zoom+0.002,1.1)':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)'"
+                f":d=300:s={WIDTH}x{HEIGHT}:fps=30"
+            )
+        else:
+            # Pan horizontal lento
+            zoom_filter = (
+                f"scale=1300:2310:force_original_aspect_ratio=increase,"
+                f"crop={WIDTH}:{HEIGHT}:x='(iw-{WIDTH})*t/10':y='(ih-{HEIGHT})/2',"
+                f"setsar=1"
+            )
+
         cmd = [
             "ffmpeg", "-y", "-i", clip,
-            "-vf", (
-                f"scale={scale_w}:{scale_h}:force_original_aspect_ratio=increase,"
-                f"crop={WIDTH}:{HEIGHT}:{crop_x}:{crop_y},setsar=1,"
-                f"eq=brightness={bright}:saturation={sat}"
-            ),
+            "-vf", f"{zoom_filter},eq=brightness={bright}:saturation={sat}",
             "-c:v", "libx264", "-preset", "ultrafast", "-crf", str(random.randint(19, 22)),
-            "-an", "-r", "30", "-t", "15",
+            "-an", "-r", "30", "-t", "10",
             out,
         ]
         result = subprocess.run(cmd, capture_output=True, text=True, timeout=300)
         if result.returncode == 0:
             processed.append(out)
         else:
-            log.warning("Error procesando clip %d: %s", i, result.stderr[-200:])
+            # Fallback sin zoom si falla
+            cmd_simple = [
+                "ffmpeg", "-y", "-i", clip,
+                "-vf", f"scale={WIDTH}:{HEIGHT}:force_original_aspect_ratio=increase,crop={WIDTH}:{HEIGHT},setsar=1",
+                "-c:v", "libx264", "-preset", "ultrafast", "-crf", "20",
+                "-an", "-r", "30", "-t", "10",
+                out,
+            ]
+            result2 = subprocess.run(cmd_simple, capture_output=True, text=True, timeout=300)
+            if result2.returncode == 0:
+                processed.append(out)
+            else:
+                log.warning("Error clip %d: %s", i, result2.stderr[-200:])
     return processed
 
 
 def _concat_clips(clips: list[str], output: str):
-    """Concatena clips."""
     list_file = output + ".txt"
     with open(list_file, "w") as f:
         for clip in clips:
@@ -104,9 +119,8 @@ def _concat_clips(clips: list[str], output: str):
 
 
 def _generate_slide_pngs(slides: list[dict], style: dict, work_dir: str) -> list[str]:
-    """Genera PNG transparente por cada slide de texto."""
     font_path = _find_font()
-    font_size = style.get("font_size", 56)
+    font_size = style.get("font_size", 58)
     primary_color = style.get("primary_color", "#1A1A1A")
     text_color = style.get("text_color", "#FFFFFF")
     box_opacity = int(style.get("box_opacity", 0.85) * 255)
@@ -116,54 +130,78 @@ def _generate_slide_pngs(slides: list[dict], style: dict, work_dir: str) -> list
 
     try:
         font = ImageFont.truetype(font_path, font_size)
+        font_bold = ImageFont.truetype(font_path, font_size + 4)
     except Exception:
         font = ImageFont.load_default()
+        font_bold = font
 
     paths = []
     for i, slide in enumerate(slides):
         png_path = os.path.join(work_dir, f"slide_{i}.png")
-        _render_slide(slide["text"], font, font_size, bg_rgb, box_opacity, txt_rgb, png_path)
+        _render_slide(slide["text"], font, font_bold, font_size, bg_rgb, box_opacity, txt_rgb, png_path, i, len(slides))
         paths.append(png_path)
-
     return paths
 
 
-def _render_slide(text: str, font, font_size: int, bg_rgb: tuple, bg_opacity: int, txt_rgb: tuple, output: str):
-    """Renderiza un slide de texto como PNG con fondo transparente."""
+def _render_slide(
+    text: str, font, font_bold, font_size: int,
+    bg_rgb: tuple, bg_opacity: int, txt_rgb: tuple,
+    output: str, slide_idx: int, total_slides: int,
+):
     img = Image.new("RGBA", (WIDTH, HEIGHT), (0, 0, 0, 0))
     draw = ImageDraw.Draw(img)
 
     max_chars = max(14, int(WIDTH / (font_size * 0.52)))
     lines = _wrap_text(text, max_chars)
 
-    line_h = font_size + 20
-    block_h = len(lines) * line_h + 48
+    line_h = font_size + 22
+    block_h = len(lines) * line_h + 52
 
     widths = []
     for line in lines:
-        bbox = draw.textbbox((0, 0), line, font=font)
+        bbox = draw.textbbox((0, 0), line, font=font_bold)
         widths.append(bbox[2] - bbox[0])
-    block_w = max(widths) + 72 if widths else WIDTH // 2
+    block_w = max(widths) + 80 if widths else WIDTH // 2
+    block_w = min(block_w, WIDTH - 60)
 
     box_x = (WIDTH - block_w) / 2
-    box_y = (HEIGHT - block_h) / 2
+    # Posicionar en el centro-inferior (más natural para Shorts)
+    box_y = HEIGHT * 0.42
 
-    # Fondo semitransparente con esquinas redondeadas
+    # Fondo con bordes redondeados
     draw.rounded_rectangle(
         [box_x, box_y, box_x + block_w, box_y + block_h],
-        radius=24,
+        radius=28,
         fill=bg_rgb + (bg_opacity,),
     )
 
-    # Texto centrado con sombra
+    # Barra de progreso arriba (sutil)
+    progress = (slide_idx + 1) / total_slides
+    bar_w = int((WIDTH - 120) * progress)
+    draw.rounded_rectangle(
+        [60, 120, 60 + bar_w, 128],
+        radius=4,
+        fill=txt_rgb + (100,),
+    )
+    # Fondo barra
+    draw.rounded_rectangle(
+        [60, 120, WIDTH - 60, 128],
+        radius=4,
+        fill=(255, 255, 255, 30),
+    )
+
+    # Texto centrado con sombra fuerte
     for j, line in enumerate(lines):
-        bbox = draw.textbbox((0, 0), line, font=font)
+        bbox = draw.textbbox((0, 0), line, font=font_bold)
         tw = bbox[2] - bbox[0]
         tx = (WIDTH - tw) / 2
-        ty = box_y + 24 + j * line_h
+        ty = box_y + 26 + j * line_h
 
-        draw.text((tx + 3, ty + 3), line, font=font, fill=(0, 0, 0, 160))
-        draw.text((tx, ty), line, font=font, fill=txt_rgb + (255,))
+        # Sombra fuerte
+        draw.text((tx + 3, ty + 3), line, font=font_bold, fill=(0, 0, 0, 200))
+        draw.text((tx + 1, ty + 1), line, font=font_bold, fill=(0, 0, 0, 120))
+        # Texto principal
+        draw.text((tx, ty), line, font=font_bold, fill=txt_rgb + (255,))
 
     img.save(output, "PNG")
 
@@ -172,13 +210,10 @@ def _compose_final(
     bg_video: str, slide_pngs: list[str], slides: list[dict],
     total_duration: float, output: str, music_path: str | None,
 ):
-    """Compone video final: fondo en loop + overlay de PNGs por tiempo + audio."""
-    # Construir inputs: -stream_loop para fondo + cada PNG
     inputs = ["-stream_loop", "-1", "-i", bg_video]
     for png in slide_pngs:
         inputs += ["-i", png]
 
-    # Construir filter_complex: overlay secuencial con enable=between
     filters = []
     current_time = 0.0
 
@@ -199,14 +234,14 @@ def _compose_final(
     last_label = f"[v{len(slides)}]"
     filter_str = ";".join(filters)
 
-    # Añadir audio (música o silencio)
     if music_path and os.path.exists(music_path):
         audio_input_idx = len(slide_pngs) + 1
         inputs += ["-i", music_path]
-        filter_str += f";[{audio_input_idx}:a]volume=0.18,afade=t=out:st={total_duration-3}:d=3[aout]"
+        # Música más alta para Shorts (vol 0.3) + fade out
+        filter_str += f";[{audio_input_idx}:a]volume=0.30,afade=t=out:st={total_duration-2}:d=2[aout]"
         audio_map = ["-map", "[aout]"]
     else:
-        filter_str += f";anullsrc=r=44100:cl=stereo[aout]"
+        filter_str += ";anullsrc=r=44100:cl=stereo[aout]"
         audio_map = ["-map", "[aout]"]
 
     cmd = [
@@ -216,7 +251,7 @@ def _compose_final(
         "-map", last_label,
         *audio_map,
         "-c:v", "libx264", "-preset", "fast", "-crf", "20",
-        "-c:a", "aac", "-b:a", "128k",
+        "-c:a", "aac", "-b:a", "192k",
         "-r", "30",
         "-t", str(total_duration),
         "-movflags", "+faststart",
@@ -227,10 +262,10 @@ def _compose_final(
     result = subprocess.run(cmd, capture_output=True, text=True, timeout=600)
     if result.returncode != 0:
         log.error("FFmpeg stderr: %s", result.stderr[-800:])
-        raise RuntimeError(f"Error en composición final: {result.stderr[-500:]}")
+        raise RuntimeError(f"Error composición: {result.stderr[-500:]}")
 
 
-def _wrap_text(text: str, max_chars: int = 22) -> list[str]:
+def _wrap_text(text: str, max_chars: int = 20) -> list[str]:
     words = text.split()
     lines = []
     current = ""
@@ -258,13 +293,11 @@ def _find_font() -> str:
             "/System/Library/Fonts/Supplemental/Arial Bold.ttf",
             "/Library/Fonts/Arial Bold.ttf",
             "/System/Library/Fonts/Helvetica.ttc",
-            "/System/Library/Fonts/SFNS.ttf",
         ]
     else:
         candidates = [
             "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
             "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf",
-            "/usr/share/fonts/truetype/freefont/FreeSansBold.ttf",
         ]
     for p in candidates:
         if os.path.exists(p):

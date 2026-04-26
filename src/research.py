@@ -1,8 +1,9 @@
 """
-Investigación de tendencias y generación de contenido.
-- Groq (Llama 3.3 70B): investiga tendencias (rápido, creativo)
-- GitHub Models (DeepSeek-V3): genera contenido SEO (preciso, estructurado)
-- Fallback cruzado: si uno falla, usa el otro
+Investigación de tendencias y generación de contenido VIRAL.
+Optimizado para máxima retención en YouTube Shorts.
+- Groq (Llama 3.3 70B): investiga tendencias
+- GitHub Models (DeepSeek-V3): genera contenido SEO
+- Fallback cruzado
 """
 
 import json
@@ -24,7 +25,6 @@ GITHUB_MODEL = "DeepSeek-V3-0324"
 
 
 def _call_groq(prompt: str, temperature: float = 0.9) -> dict:
-    """Llama a Groq API y devuelve JSON parseado."""
     response = groq_client.chat.completions.create(
         model=GROQ_MODEL,
         messages=[{"role": "user", "content": prompt}],
@@ -35,15 +35,12 @@ def _call_groq(prompt: str, temperature: float = 0.9) -> dict:
 
 
 def _call_github(prompt: str, temperature: float = 0.8) -> dict:
-    """Llama a GitHub Models API y devuelve JSON parseado."""
     response = github_client.chat.completions.create(
         model=GITHUB_MODEL,
         messages=[{"role": "user", "content": prompt}],
         temperature=temperature,
     )
-    text = response.choices[0].message.content
-    # Limpiar posible markdown ```json ... ```
-    text = text.strip()
+    text = response.choices[0].message.content.strip()
     if text.startswith("```"):
         text = text.split("\n", 1)[1]
     if text.endswith("```"):
@@ -52,10 +49,8 @@ def _call_github(prompt: str, temperature: float = 0.8) -> dict:
 
 
 def _call_with_fallback(prompt: str, primary: str = "groq", temperature: float = 0.9) -> dict:
-    """Intenta con primary, si falla usa fallback."""
     funcs = {"groq": _call_groq, "github": _call_github}
     fallback = "github" if primary == "groq" else "groq"
-
     try:
         return funcs[primary](prompt, temperature)
     except Exception as e:
@@ -64,26 +59,25 @@ def _call_with_fallback(prompt: str, primary: str = "groq", temperature: float =
 
 
 def research_topic(channel: dict) -> dict:
-    """Investiga tema trending para el nicho del canal."""
-    prompt = f"""Eres un investigador de tendencias de YouTube en español.
+    """Investiga tema trending VIRAL para Shorts."""
+    prompt = f"""Eres un experto en YouTube Shorts virales en español.
 Canal: {channel['name']}
 Nicho: {channel['niche']}
 Tono: {channel['tone']}
 Temas posibles: {', '.join(channel['topics'])}
 
-Busca un tema que funcione como YouTube Short viral (vertical, máx 60 segundos).
-El tema debe:
-- Ser relevante y atractivo en 2026
-- Enganchar en los primeros 3 segundos
-- Poder explicarse en 5-7 frases cortas y potentes
-- NO repetir temas genéricos — busca ángulos únicos o datos sorprendentes
+IMPORTANTE — Esto es para un Short VIRAL. El tema debe:
+- Provocar reacción emocional INMEDIATA (sorpresa, curiosidad, indignación, "¡no sabía esto!")
+- Ser algo que la gente quiera compartir
+- Tener un ángulo polémico o dato IMPACTANTE
+- Funcionar con la fórmula: HOOK → TENSIÓN → REVELACIÓN
 
-Responde SOLO con JSON válido (sin markdown, sin explicaciones):
+Responde SOLO con JSON válido:
 {{
-  "topic": "tema concreto elegido",
-  "hook": "pregunta o dato impactante para los primeros 3 segundos",
-  "key_points": ["punto 1", "punto 2", "punto 3", "punto 4", "punto 5"],
-  "search_terms": ["término búsqueda video en inglés 1", "término 2", "término 3"]
+  "topic": "tema concreto con ángulo viral",
+  "hook": "frase GANCHO de máx 8 palabras que pare el scroll (pregunta provocadora o dato shocking)",
+  "key_points": ["dato 1 impactante", "dato 2", "dato 3", "dato 4", "conclusión memorable"],
+  "search_terms": ["búsqueda video en inglés 1", "término 2", "término 3"]
 }}"""
 
     data = _call_with_fallback(prompt, primary="groq", temperature=1.0)
@@ -92,34 +86,36 @@ Responde SOLO con JSON válido (sin markdown, sin explicaciones):
 
 
 def generate_content(channel: dict, topic_data: dict) -> dict:
-    """Genera título SEO, descripción, tags, slides de texto y prompt de video."""
-    prompt = f"""Genera contenido completo para un YouTube Short en español.
+    """Genera contenido optimizado para RETENCIÓN y viralidad."""
+    prompt = f"""Genera contenido para un YouTube Short VIRAL en español.
 Canal: {channel['name']} | Nicho: {channel['niche']} | Tono: {channel['tone']}
 Tema: {topic_data['topic']}
 Gancho: {topic_data['hook']}
 Puntos clave: {json.dumps(topic_data['key_points'], ensure_ascii=False)}
 
-Requisitos:
-- Título SEO: máximo 70 caracteres, con keywords, que genere curiosidad
-- Descripción: máximo 500 caracteres, con keywords naturales, incluir CTA
-- Tags: 8-12 tags relevantes en español
-- text_slides: 5-7 diapositivas de texto para superponer en el video
-  - Cada slide: texto corto (máx 60 caracteres), duración en segundos
-  - Primera slide = gancho (3-4 segundos)
-  - Última slide = CTA o reflexión final (4 segundos)
-  - Total duración entre 30-55 segundos
-- video_prompt: prompt en INGLÉS para generar video con IA (escena visual, no texto)
+REGLAS PARA SHORTS VIRALES:
+1. Duración total: 25-35 segundos (sweet spot viral)
+2. HOOK en slide 1: máx 8 palabras, que pare el scroll
+3. Cada slide: MÁXIMO 2-3 segundos, texto CORTO (máx 40 caracteres)
+4. Ritmo RÁPIDO — sin pausas, sin relleno
+5. Estructura: Hook → Tensión → Datos → Revelación → CTA loop
+6. Última slide debe conectar con la primera (loop = más reproducciones)
+7. Usar MAYÚSCULAS para palabras clave
+8. Emojis estratégicos (1-2 por slide máximo)
 
-Responde SOLO con JSON válido (sin markdown, sin explicaciones):
+Responde SOLO con JSON válido:
 {{
-  "title": "título SEO aquí",
-  "description": "descripción con keywords y CTA",
-  "tags": ["tag1", "tag2"],
+  "title": "título clickbait SEO máx 60 chars (con emoji + mayúsculas estratégicas)",
+  "description": "descripción 3 líneas con keywords, CTA y hashtags",
+  "tags": ["tag1", "tag2", "tag3", "tag4", "tag5", "tag6", "tag7", "tag8"],
   "text_slides": [
-    {{"text": "¿Sabías que...?", "duration": 4}},
-    {{"text": "Dato importante", "duration": 5}}
+    {{"text": "¿Sabías ESTO? 🤯", "duration": 2}},
+    {{"text": "Dato impactante", "duration": 2.5}},
+    {{"text": "Otro dato", "duration": 2.5}},
+    {{"text": "Revelación FINAL", "duration": 3}},
+    {{"text": "Sígueme para más 👆", "duration": 2}}
   ],
-  "video_prompt": "cinematic shot of..."
+  "video_prompt": "dynamic cinematic shot, fast movement, vibrant colors, vertical 9:16..."
 }}"""
 
     data = _call_with_fallback(prompt, primary="github", temperature=0.8)
