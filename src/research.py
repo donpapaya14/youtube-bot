@@ -1,9 +1,6 @@
 """
-Investigación de tendencias y generación de contenido VIRAL.
-Optimizado para máxima retención en YouTube Shorts.
-- Groq (Llama 3.3 70B): investiga tendencias
-- GitHub Models (DeepSeek-V3): genera contenido SEO
-- Fallback cruzado
+Investigación de tendencias y generación de contenido con VALOR REAL.
+Cada Short debe enseñar algo CONCRETO y ÚTIL que el espectador pueda aplicar.
 """
 
 import json
@@ -58,71 +55,148 @@ def _call_with_fallback(prompt: str, primary: str = "groq", temperature: float =
         return funcs[fallback](prompt, temperature)
 
 
+# Tipos de contenido con valor real, por nicho
+CONTENT_FORMULAS = {
+    "finanzas": [
+        "Tutorial: método concreto para ahorrar X€/mes (con números reales y pasos exactos)",
+        "Lista: 3 apps GRATUITAS con nombre real para gestionar dinero (nombre + qué hace cada una)",
+        "Hack: truco bancario específico que poca gente conoce (con ejemplo numérico)",
+        "Error: error financiero concreto con ejemplo de cuánto dinero pierdes",
+        "Comparativa: producto financiero A vs B con números reales",
+    ],
+    "legal": [
+        "Derecho: un derecho específico que tienes y no sabías (con artículo de ley)",
+        "Situación: qué hacer paso a paso si te pasa X (con acciones concretas)",
+        "Truco legal: cómo reclamar X con plantilla/modelo exacto",
+        "Error: error legal común y consecuencias reales con ejemplo",
+        "Plazo: plazos legales concretos que debes conocer (días exactos)",
+    ],
+    "ia": [
+        "Tutorial: herramienta de IA GRATUITA concreta con nombre real — qué hace y cómo usarla paso a paso",
+        "Hack: prompt exacto para ChatGPT/Gemini que resuelve un problema específico (escribir el prompt literal)",
+        "Lista: 3 herramientas IA gratuitas con NOMBRE REAL que reemplazan software de pago (nombrar cuáles)",
+        "Novedad: función nueva de una herramienta IA específica lanzada recientemente",
+        "Comparativa: herramienta A vs herramienta B para tarea específica (con nombres reales)",
+    ],
+    "salud": [
+        "Estudio: hallazgo científico concreto de universidad real (nombrar universidad y año)",
+        "Hábito: hábito específico con beneficio medible (ej: caminar 20 min reduce presión arterial 10%)",
+        "Alimento: alimento concreto con beneficio respaldado por ciencia (nombrar estudio)",
+        "Mito: mito de salud común desmontado con datos reales",
+        "Rutina: rutina de 5 minutos con pasos exactos para mejorar X",
+    ],
+    "negocio": [
+        "Caso real: persona real que logró X con método Y (nombre o ejemplo verificable)",
+        "Estrategia: táctica de ventas/marketing concreta con pasos numerados",
+        "Error: error de emprendedor con consecuencia real y cómo evitarlo",
+        "Herramienta: herramienta gratuita con nombre real para emprendedores",
+        "Número: dato económico concreto sobre un sector con fuente",
+    ],
+}
+
+NICHE_MAP = {
+    "finanzas_clara": "finanzas",
+    "mente_legal": "legal",
+    "ia_explica": "ia",
+    "salud_longevidad": "salud",
+    "mente_prospera": "negocio",
+}
+
+
 def research_topic(channel: dict) -> dict:
-    """Investiga tema trending VIRAL para Shorts."""
-    prompt = f"""Eres un experto en YouTube Shorts virales en español.
+    """Genera tema con VALOR REAL y contenido específico."""
+    import random
+
+    channel_key = channel.get("handle", "").replace("@", "").split("-")[0].lower()
+    # Detectar nicho desde config
+    niche_key = None
+    for key, niche in NICHE_MAP.items():
+        if key in channel.get("name", "").lower() or key in str(channel.get("niche", "")).lower():
+            niche_key = niche
+            break
+    if not niche_key:
+        niche_key = "ia"
+
+    formulas = CONTENT_FORMULAS.get(niche_key, CONTENT_FORMULAS["ia"])
+    formula = random.choice(formulas)
+
+    prompt = f"""Eres un creador de YouTube Shorts educativos en español con MILLONES de vistas.
 Canal: {channel['name']}
 Nicho: {channel['niche']}
 Tono: {channel['tone']}
-Temas posibles: {', '.join(channel['topics'])}
 
-IMPORTANTE — Esto es para un Short VIRAL. El tema debe:
-- Provocar reacción emocional INMEDIATA (sorpresa, curiosidad, indignación, "¡no sabía esto!")
-- Ser algo que la gente quiera compartir
-- Tener un ángulo polémico o dato IMPACTANTE
-- Funcionar con la fórmula: HOOK → TENSIÓN → REVELACIÓN
+TIPO DE VIDEO A CREAR: {formula}
+
+REGLAS CRÍTICAS:
+- Todo dato debe ser REAL y VERIFICABLE
+- Nombrar herramientas, leyes, estudios, personas REALES
+- Dar INFORMACIÓN CONCRETA que el espectador pueda USAR HOY
+- CERO frases genéricas tipo "la IA es muy potente" o "el dinero es importante"
+- Cada punto debe enseñar algo ESPECÍFICO y NUEVO
 
 Responde SOLO con JSON válido:
 {{
-  "topic": "tema concreto con ángulo viral",
-  "hook": "frase GANCHO de máx 8 palabras que pare el scroll (pregunta provocadora o dato shocking)",
-  "key_points": ["dato 1 impactante", "dato 2", "dato 3", "dato 4", "conclusión memorable"],
+  "topic": "tema específico y concreto",
+  "hook": "pregunta o dato CONCRETO que pare el scroll (máx 10 palabras)",
+  "key_points": [
+    "dato específico 1 con nombre/número real",
+    "dato específico 2",
+    "dato específico 3",
+    "dato específico 4",
+    "conclusión accionable"
+  ],
   "search_terms": ["búsqueda video en inglés 1", "término 2", "término 3"]
 }}"""
 
-    data = _call_with_fallback(prompt, primary="groq", temperature=1.0)
+    data = _call_with_fallback(prompt, primary="groq", temperature=0.9)
     log.info("Tema elegido: %s", data["topic"])
     return data
 
 
 def generate_content(channel: dict, topic_data: dict) -> dict:
-    """Genera contenido optimizado para RETENCIÓN y viralidad."""
-    prompt = f"""Genera contenido para un YouTube Short VIRAL en español.
+    """Genera slides con CONTENIDO REAL, no relleno."""
+    prompt = f"""Genera contenido para un YouTube Short educativo VIRAL en español.
 Canal: {channel['name']} | Nicho: {channel['niche']} | Tono: {channel['tone']}
 Tema: {topic_data['topic']}
 Gancho: {topic_data['hook']}
 Puntos clave: {json.dumps(topic_data['key_points'], ensure_ascii=False)}
 
-REGLAS OBLIGATORIAS:
-1. Duración total: 25-35 segundos
-2. HOOK en slide 1: máx 8 palabras, que pare el scroll
-3. Cada slide: 3-4 segundos, texto CORTO (MÁXIMO 30 caracteres por slide, esto es CRÍTICO)
-4. CADA slide debe dar INFORMACIÓN CONCRETA — NUNCA slides vacíos o genéricos
-5. Si el tema dice "5 cosas" → NOMBRA las 5 cosas en los slides
-6. Estructura: Hook → Dato 1 → Dato 2 → Dato 3 → Revelación → CTA
-7. Usar MAYÚSCULAS para 1-2 palabras clave por slide
-8. NO usar emojis en el texto de los slides (se renderizan mal en video)
-9. El título SÍ puede tener emojis, pero los slides NO
-10. Última slide: "Sígueme para más" o similar
+REGLAS OBLIGATORIAS PARA LOS SLIDES:
+1. MÁXIMO 25 caracteres por slide (esto es CRÍTICO, cuenta los caracteres)
+2. Cada slide = 3 segundos de duración
+3. 7-9 slides en total (25-30 segundos de video)
+4. NO usar emojis en los slides (se ven mal en video)
+5. CADA slide debe dar INFO CONCRETA — nombres, números, pasos
+6. NO slides genéricos como "Esto te sorprendera" → di QUÉ te sorprenderá
+7. Si el tema es "3 herramientas" → nombra las 3 en slides separados
+8. Último slide: "Sigueme para mas" (sin emoji)
+
+EJEMPLO DE SLIDES BUENOS (canal IA):
+- "Quita fondos GRATIS?"
+- "Se llama Remove.bg"
+- "Subes tu foto"
+- "En 2 segundos listo"
+- "100% gratis"
+- "Mejor que Photoshop"
+- "Sigueme para mas"
+
+EJEMPLO DE SLIDES MALOS (NO hacer esto):
+- "La IA es increible" ← vacío, no dice nada
+- "Esto cambiara todo" ← genérico
+- "No te lo vas a creer" ← relleno
 
 Responde SOLO con JSON válido:
 {{
-  "title": "título clickbait SEO máx 60 chars (con emoji + mayúsculas estratégicas)",
-  "description": "descripción 3 líneas con keywords, CTA y hashtags",
+  "title": "titulo SEO max 60 chars con 1 emoji al inicio",
+  "description": "descripcion 3 lineas con keywords y hashtags",
   "tags": ["tag1", "tag2", "tag3", "tag4", "tag5", "tag6", "tag7", "tag8"],
   "text_slides": [
-    {{"text": "5 empleos que MORIRAN", "duration": 3}},
-    {{"text": "1. Cajeros de banco", "duration": 3}},
-    {{"text": "2. Teleoperadores", "duration": 3}},
-    {{"text": "3. Traductores", "duration": 3}},
-    {{"text": "4. Contadores", "duration": 3}},
-    {{"text": "5. Repartidores", "duration": 3}},
-    {{"text": "El tuyo esta a salvo?", "duration": 3}},
-    {{"text": "Sigueme para mas", "duration": 3}}
+    {{"text": "Slide con info real", "duration": 3}},
+    {{"text": "Dato concreto", "duration": 3}}
   ],
-  "video_prompt": "dynamic cinematic shot, fast movement, vibrant colors, vertical 9:16..."
+  "video_prompt": "dynamic shot related to topic, vertical 9:16, vibrant colors"
 }}"""
 
-    data = _call_with_fallback(prompt, primary="github", temperature=0.8)
+    data = _call_with_fallback(prompt, primary="github", temperature=0.7)
     log.info("Título: %s", data["title"])
     return data
