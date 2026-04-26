@@ -76,21 +76,29 @@ def generate_metadata(video_filename: str, channel_config: dict) -> dict:
     # Limpiar nombre de archivo para interpretar tema
     clean_name = video_filename.replace("_", " ").replace("-", " ").replace(".mp4", "")
 
-    prompt = f"""Genera metadata para un YouTube Short en español.
-Canal: {name}
-Nicho: {niche}
-Tema del video (interpretar del nombre): {clean_name}
+    prompt = f"""Eres un experto en SEO de YouTube en español. Canal: {name} | Nicho: {niche}
 
-REGLAS:
-- Título clickbait pero real, máx 60 caracteres, con 1 emoji
-- Título debe ser sobre {niche}, NUNCA mencionar IA o tecnología
-- Descripción: 3 líneas con keywords del nicho + hashtags relevantes
-- Tags: 8 tags en español sobre {niche}
+El video trata sobre: {clean_name}
+
+Genera un título VIRAL para YouTube Short. El título debe:
+- Generar CURIOSIDAD o URGENCIA ("El secreto que...", "Nadie te dice esto sobre...", "Haz esto CADA mañana y...")
+- Incluir la PALABRA CLAVE principal del tema
+- Máximo 55 caracteres
+- 1 emoji al final
+- NUNCA títulos genéricos como "Pérdida de peso" o "Dieta efectiva"
+- SIEMPRE específico: "Pierde 3kg en 2 semanas con ESTE truco" > "Pérdida de peso"
+
+EJEMPLOS DE TÍTULOS BUENOS:
+- "Come ESTO antes de dormir y quema grasa 🔥"
+- "El error #1 que arruina tu dieta sin saberlo 😱"
+- "Haz esto 5 minutos al despertar y adelgaza 💪"
+- "NADIE te dice esto sobre las calorías 🤯"
+- "3 alimentos que DESTRUYEN tu metabolismo ❌"
 
 Responde SOLO JSON:
 {{
-  "title": "titulo relevante al nicho max 60 chars con emoji",
-  "description": "descripcion relevante\\n#hashtag1 #hashtag2\\n\\n{cta}",
+  "title": "título viral específico max 55 chars con emoji",
+  "description": "2 líneas sobre el tema + 5 hashtags\\n\\n{cta}",
   "tags": ["tag1", "tag2", "tag3", "tag4", "tag5", "tag6", "tag7", "tag8"]
 }}"""
     return _call_groq(prompt, temperature=0.8)
