@@ -2,14 +2,13 @@ name: YouTube Shorts Bot
 
 on:
   schedule:
-    # MAÑANA — 1 video por canal (5 uploads = 8,000 uds)
+    # 6 canales × 1 video/día = 9,600 uds (dentro de 10,000)
     - cron: '0 8 * * *'   # FinanzasClara
     - cron: '0 9 * * *'   # MenteLegal
     - cron: '0 10 * * *'  # IAExplica
     - cron: '0 11 * * *'  # SaludLongevidad
     - cron: '0 12 * * *'  # MentePróspera
-    # TARDE — 1 video extra rotativo (total 6 = 9,600 uds)
-    - cron: '30 16 * * *'  # Canal rotativo según día semana
+    - cron: '0 14 * * *'  # VidaSana360
   workflow_dispatch:
     inputs:
       channel:
@@ -22,6 +21,7 @@ on:
           - ia_explica
           - salud_longevidad
           - mente_prospera
+          - vida_sana_360
           - all
 
 jobs:
@@ -56,17 +56,7 @@ jobs:
               "0 10 * * *") echo "name=ia_explica" >> $GITHUB_OUTPUT ;;
               "0 11 * * *") echo "name=salud_longevidad" >> $GITHUB_OUTPUT ;;
               "0 12 * * *") echo "name=mente_prospera" >> $GITHUB_OUTPUT ;;
-              "30 16 * * *")
-                # Rotación: canal extra según día de la semana
-                DOW=$(date +%u)  # 1=Lun, 2=Mar, 3=Mié, 4=Jue, 5=Vie, 6=Sáb, 7=Dom
-                case $DOW in
-                  1|6) echo "name=finanzas_clara" >> $GITHUB_OUTPUT ;;
-                  2|7) echo "name=mente_legal" >> $GITHUB_OUTPUT ;;
-                  3)   echo "name=ia_explica" >> $GITHUB_OUTPUT ;;
-                  4)   echo "name=salud_longevidad" >> $GITHUB_OUTPUT ;;
-                  5)   echo "name=mente_prospera" >> $GITHUB_OUTPUT ;;
-                esac
-                ;;
+              "0 14 * * *") echo "name=vida_sana_360" >> $GITHUB_OUTPUT ;;
             esac
           fi
 
@@ -82,6 +72,7 @@ jobs:
           YT_TOKEN_IA: ${{ secrets.YT_TOKEN_IA }}
           YT_TOKEN_SALUD: ${{ secrets.YT_TOKEN_SALUD }}
           YT_TOKEN_PROSPERA: ${{ secrets.YT_TOKEN_PROSPERA }}
+          YT_TOKEN_PRINCIPAL: ${{ secrets.YT_TOKEN_PRINCIPAL }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
@@ -100,12 +91,13 @@ jobs:
           YT_TOKEN_IA: ${{ secrets.YT_TOKEN_IA }}
           YT_TOKEN_SALUD: ${{ secrets.YT_TOKEN_SALUD }}
           YT_TOKEN_PROSPERA: ${{ secrets.YT_TOKEN_PROSPERA }}
+          YT_TOKEN_PRINCIPAL: ${{ secrets.YT_TOKEN_PRINCIPAL }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GH_MODELS_TOKEN }}
         run: |
-          for channel in finanzas_clara mente_legal ia_explica salud_longevidad mente_prospera; do
+          for channel in finanzas_clara mente_legal ia_explica salud_longevidad mente_prospera vida_sana_360; do
             echo "=== Running $channel ==="
             python src/main.py --channel $channel || true
             sleep $((RANDOM % 120 + 60))

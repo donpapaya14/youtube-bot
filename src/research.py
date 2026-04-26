@@ -90,7 +90,14 @@ NICHE_MAP = {
     "IAExplica": "ia",
     "SaludLongevidad": "salud",
     "MentePróspera": "negocio",
+    "VidaSana360": "salud",
 }
+
+CONTENT_FORMULAS["salud"].extend([
+    "Un truco de pérdida de peso respaldado por un estudio real con nombre de universidad y cifra concreta",
+    "Un error de dieta muy común con explicación científica de por qué NO funciona y qué hacer en su lugar",
+    "Un ejercicio específico que quema más calorías que correr con datos medibles de un estudio real",
+])
 
 
 def research_topic(channel: dict) -> dict:

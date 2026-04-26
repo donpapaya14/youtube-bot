@@ -1,0 +1,21 @@
+{
+  "name": "VidaSana360",
+  "handle": "@VidaSana360",
+  "niche": "Salud, bajada de peso y bienestar basado en ciencia",
+  "tone": "Directo, motivador, con datos científicos reales. Como un entrenador personal que sabe de ciencia.",
+  "topics": [
+    "pérdida de peso con evidencia", "ayuno intermitente", "déficit calórico",
+    "ejercicios para quemar grasa", "alimentos que aceleran metabolismo",
+    "errores comunes en dietas", "rutinas de ejercicio en casa",
+    "suplementos con evidencia científica", "hábitos para perder peso",
+    "mitos de nutrición desmontados"
+  ],
+  "style": {
+    "primary_color": "#C62828",
+    "text_color": "#FFFFFF",
+    "box_opacity": 0.85,
+    "font_size": 58
+  },
+  "cta": "📩 Newsletter gratis: https://iaexplica.beehiiv.com/subscribe\n👍 Suscríbete y activa la 🔔",
+  "refresh_token_env": "YT_TOKEN_PRINCIPAL"
+}
