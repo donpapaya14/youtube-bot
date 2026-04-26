@@ -1,6 +1,6 @@
 """
 YouTube Shorts Bot — Orquestador principal.
-Genera y publica un Short para un canal específico.
+Pipeline: Tema → Guión → Voz → Video → Ensamblar → YouTube → Telegram
 
 Uso: python src/main.py --channel finanzas_clara
 """
@@ -14,14 +14,13 @@ import random
 import sys
 import tempfile
 
-# Asegurar imports desde src/
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 from dotenv import load_dotenv
-
 load_dotenv()
 
 from research import research_topic, generate_content
+from voice import generate_voice_segments
 from video_generator import generate_video
 from pexels_fallback import download_clips
 from assembler import assemble_video
@@ -35,8 +34,6 @@ log = logging.getLogger("main")
 
 
 def load_channel(name: str) -> dict:
-    """Carga configuración del canal desde channels/*.json."""
-    # Buscar en directorio channels/ relativo al proyecto
     project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     path = os.path.join(project_root, "channels", f"{name}.json")
     if not os.path.exists(path):
@@ -46,69 +43,68 @@ def load_channel(name: str) -> dict:
 
 
 def find_music(project_root: str) -> str | None:
-    """Busca un archivo de música aleatorio en assets/music/."""
     music_dir = os.path.join(project_root, "assets", "music")
     files = glob.glob(os.path.join(music_dir, "*.mp3"))
-    if files:
-        return random.choice(files)
-    return None
+    return random.choice(files) if files else None
 
 
 def run(channel_name: str):
-    """Pipeline completo para un canal."""
     project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     work_dir = tempfile.mkdtemp(prefix=f"ytbot_{channel_name}_")
 
     log.info("=" * 60)
     log.info("Canal: %s", channel_name)
-    log.info("Directorio temporal: %s", work_dir)
     log.info("=" * 60)
 
-    # 1. Cargar config del canal
+    # 1. Config
     channel = load_channel(channel_name)
-    log.info("Canal cargado: %s (%s)", channel["name"], channel["niche"])
+    log.info("Canal: %s (%s)", channel["name"], channel["niche"])
 
-    # 2. Investigar tema trending
-    log.info("Investigando tendencias...")
+    # 2. Investigar tema
+    log.info("Investigando tema...")
     topic_data = research_topic(channel)
     log.info("Tema: %s", topic_data["topic"])
 
-    # 3. Generar contenido (título, descripción, tags, slides, prompt video)
-    log.info("Generando contenido...")
+    # 3. Generar guión narrado
+    log.info("Generando guión...")
     content = generate_content(channel, topic_data)
     log.info("Título: %s", content["title"])
 
-    # 4. Intentar generar video con Veo 2
-    log.info("Intentando Veo 2...")
-    clips = generate_video(content["video_prompt"], work_dir)
+    # 4. Generar voz para cada segmento
+    log.info("Generando voz...")
+    segments = content.get("segments", [])
+    if not segments:
+        # Fallback si la IA devuelve text_slides en vez de segments
+        segments = [{"voice": s.get("voice", s.get("text", "")), "text": s.get("text", "")}
+                    for s in content.get("text_slides", [])]
 
-    # 5. Fallback a Pexels si Veo 2 falla
+    voiced_segments = generate_voice_segments(segments, work_dir, voice="male")
+    log.info("Voz generada: %d segmentos", len(voiced_segments))
+
+    # 5. Obtener clips de video
+    log.info("Obteniendo clips de video...")
+    clips = generate_video(content.get("video_prompt", ""), work_dir)
     if not clips:
-        log.info("Usando Pexels como fallback...")
-        search_terms = topic_data.get("search_terms", ["abstract background"])
-        clips = download_clips(search_terms, work_dir, num_clips=4)
+        search_terms = topic_data.get("search_terms", ["technology background"])
+        clips = download_clips(search_terms, work_dir, num_clips=5)
 
     if not clips:
         raise RuntimeError("No se pudo obtener ningún clip de video")
+    log.info("Clips: %d", len(clips))
 
-    log.info("Clips obtenidos: %d", len(clips))
-
-    # 6. Ensamblar video con FFmpeg
+    # 6. Ensamblar: clips + voz + texto + música
     log.info("Ensamblando video...")
     output_path = os.path.join(work_dir, "final_short.mp4")
     music = find_music(project_root)
-    if music:
-        log.info("Música: %s", os.path.basename(music))
 
     assemble_video(
         clips=clips,
-        text_slides=content["text_slides"],
+        voiced_segments=voiced_segments,
         style=channel["style"],
         output_path=output_path,
         music_path=music,
     )
 
-    # Verificar que el video existe y tiene tamaño razonable
     size_mb = os.path.getsize(output_path) / (1024 * 1024)
     log.info("Video final: %.1f MB", size_mb)
 
@@ -122,39 +118,32 @@ def run(channel_name: str):
         channel_config=channel,
     )
 
-    # 8. Notificar por Telegram
+    # 8. Telegram
     msg = (
         f"✅ <b>{channel['name']}</b>\n\n"
         f"📹 {content['title']}\n"
         f"🔗 {video_url}\n\n"
         f"📊 Tema: {topic_data['topic']}\n"
-        f"📦 Tamaño: {size_mb:.1f} MB"
+        f"📦 {size_mb:.1f} MB | {len(voiced_segments)} segmentos con voz"
     )
     notify_telegram(msg)
 
-    log.info("¡Completado! %s", video_url)
+    log.info("Completado: %s", video_url)
     return video_url
 
 
 def main():
     parser = argparse.ArgumentParser(description="YouTube Shorts Bot")
-    parser.add_argument(
-        "--channel",
-        required=True,
-        help="Nombre del canal (ej: finanzas_clara)",
-    )
+    parser.add_argument("--channel", required=True)
     args = parser.parse_args()
 
     try:
         url = run(args.channel)
-        print(f"\nVideo publicado: {url}")
+        print(f"\nVideo: {url}")
     except Exception as e:
-        log.error("Error fatal: %s", e, exc_info=True)
-        # Notificar error por Telegram
+        log.error("Error: %s", e, exc_info=True)
         try:
-            notify_telegram(
-                f"❌ <b>Error en {args.channel}</b>\n\n{str(e)[:500]}"
-            )
+            notify_telegram(f"❌ <b>Error en {args.channel}</b>\n\n{str(e)[:500]}")
         except Exception:
             pass
         sys.exit(1)
