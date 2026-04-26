@@ -2,18 +2,14 @@ name: YouTube Shorts Bot
 
 on:
   schedule:
-    # MAÑANA — Video 1 por canal
-    - cron: '0 8 * * *'   # FinanzasClara AM
-    - cron: '0 9 * * *'   # MenteLegal AM
-    - cron: '0 10 * * *'  # IAExplica AM
-    - cron: '0 11 * * *'  # SaludLongevidad AM
-    - cron: '0 12 * * *'  # MentePróspera AM
-    # TARDE — Video 2 por canal
-    - cron: '30 15 * * *'  # FinanzasClara PM
-    - cron: '30 16 * * *'  # MenteLegal PM
-    - cron: '30 17 * * *'  # IAExplica PM
-    - cron: '30 18 * * *'  # SaludLongevidad PM
-    - cron: '30 19 * * *'  # MentePróspera PM
+    # MAÑANA — 1 video por canal (5 uploads = 8,000 uds)
+    - cron: '0 8 * * *'   # FinanzasClara
+    - cron: '0 9 * * *'   # MenteLegal
+    - cron: '0 10 * * *'  # IAExplica
+    - cron: '0 11 * * *'  # SaludLongevidad
+    - cron: '0 12 * * *'  # MentePróspera
+    # TARDE — 1 video extra rotativo (total 6 = 9,600 uds)
+    - cron: '30 16 * * *'  # Canal rotativo según día semana
   workflow_dispatch:
     inputs:
       channel:
@@ -55,11 +51,22 @@ jobs:
             echo "name=${{ github.event.inputs.channel }}" >> $GITHUB_OUTPUT
           else
             case "${{ github.event.schedule }}" in
-              "0 8 * * *"|"30 15 * * *")   echo "name=finanzas_clara" >> $GITHUB_OUTPUT ;;
-              "0 9 * * *"|"30 16 * * *")   echo "name=mente_legal" >> $GITHUB_OUTPUT ;;
-              "0 10 * * *"|"30 17 * * *")  echo "name=ia_explica" >> $GITHUB_OUTPUT ;;
-              "0 11 * * *"|"30 18 * * *")  echo "name=salud_longevidad" >> $GITHUB_OUTPUT ;;
-              "0 12 * * *"|"30 19 * * *")  echo "name=mente_prospera" >> $GITHUB_OUTPUT ;;
+              "0 8 * * *")  echo "name=finanzas_clara" >> $GITHUB_OUTPUT ;;
+              "0 9 * * *")  echo "name=mente_legal" >> $GITHUB_OUTPUT ;;
+              "0 10 * * *") echo "name=ia_explica" >> $GITHUB_OUTPUT ;;
+              "0 11 * * *") echo "name=salud_longevidad" >> $GITHUB_OUTPUT ;;
+              "0 12 * * *") echo "name=mente_prospera" >> $GITHUB_OUTPUT ;;
+              "30 16 * * *")
+                # Rotación: canal extra según día de la semana
+                DOW=$(date +%u)  # 1=Lun, 2=Mar, 3=Mié, 4=Jue, 5=Vie, 6=Sáb, 7=Dom
+                case $DOW in
+                  1|6) echo "name=finanzas_clara" >> $GITHUB_OUTPUT ;;
+                  2|7) echo "name=mente_legal" >> $GITHUB_OUTPUT ;;
+                  3)   echo "name=ia_explica" >> $GITHUB_OUTPUT ;;
+                  4)   echo "name=salud_longevidad" >> $GITHUB_OUTPUT ;;
+                  5)   echo "name=mente_prospera" >> $GITHUB_OUTPUT ;;
+                esac
+                ;;
             esac
           fi
 
