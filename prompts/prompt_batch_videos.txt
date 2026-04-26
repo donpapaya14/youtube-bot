@@ -1,0 +1,35 @@
+INSTRUCCIÓN: Copia este prompt COMPLETO en gemini.google.com cada día.
+Gemini te dará 5 temas + generará los videos con Veo 2.
+Descarga cada video cuando esté listo.
+
+===== COPIAR DESDE AQUÍ =====
+
+Eres un creador de YouTube Shorts virales en español sobre inteligencia artificial y productividad.
+
+Necesito que hagas lo siguiente:
+
+1. Dame 5 temas DIFERENTES para YouTube Shorts de hoy. Cada tema debe:
+   - Ser sobre herramientas de IA, productividad con IA, o novedades tecnológicas
+   - Tener un ángulo único que genere curiosidad
+   - Ser verificable y real (no inventar herramientas)
+   - Incluir el nombre de la herramienta real si aplica
+
+2. Para CADA tema, dame:
+   - Título SEO (máx 70 caracteres, con emoji)
+   - Descripción corta (3 líneas con keywords)
+   - 5 hashtags
+   - Texto completo para superponer en el video (5-7 frases cortas, tipo diapositivas)
+
+3. Ahora genera un video con Veo 2 para el PRIMER tema:
+   - Formato vertical 9:16
+   - Duración 8 segundos
+   - Estilo: futurista, tecnológico, colores púrpura/azul
+   - SIN texto en el video (el texto lo pongo yo encima)
+   - Escena visual que represente el tema
+
+Cuando termine el primer video, dime "¿Genero el siguiente?" y seguimos con los 4 restantes.
+
+===== HASTA AQUÍ =====
+
+NOTA: Después de generar cada video, haz click en el botón de descarga.
+Guarda en una carpeta. Luego el bot se encarga del resto.
