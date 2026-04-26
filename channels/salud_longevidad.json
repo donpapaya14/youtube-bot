@@ -4,10 +4,16 @@
   "niche": "Salud, bienestar y longevidad basada en ciencia",
   "tone": "Informativo, riguroso pero accesible. Datos científicos explicados simple.",
   "topics": [
-    "hábitos de longevidad", "ayuno intermitente", "sueño y salud",
-    "alimentos antiinflamatorios", "ejercicio mínimo efectivo",
-    "estrés y cortisol", "suplementos con evidencia", "hidratación",
-    "microbioma intestinal", "envejecimiento saludable"
+    "hábitos de longevidad",
+    "ayuno intermitente",
+    "sueño y salud",
+    "alimentos antiinflamatorios",
+    "ejercicio mínimo efectivo",
+    "estrés y cortisol",
+    "suplementos con evidencia",
+    "hidratación",
+    "microbioma intestinal",
+    "envejecimiento saludable"
   ],
   "style": {
     "primary_color": "#009688",
@@ -15,6 +21,7 @@
     "box_opacity": 0.85,
     "font_size": 58
   },
-  "cta": "📩 Newsletter gratis: http://eepurl.com/c_iwJy-3pL\n👍 Suscríbete y activa la 🔔",
-  "refresh_token_env": "YT_TOKEN_SALUD"
+  "cta": "📖 Lee más en saludlongevidad-web.vercel.app\n📩 Newsletter gratis: http://eepurl.com/c_iwJy-3pL\n👍 Suscríbete y activa la 🔔",
+  "refresh_token_env": "YT_TOKEN_SALUD",
+  "web_url": "https://saludlongevidad-web.vercel.app"
 }

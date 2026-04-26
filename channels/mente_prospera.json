@@ -4,10 +4,16 @@
   "niche": "Emprendimiento y mentalidad de negocios",
   "tone": "Motivador, directo, con ejemplos reales. Sin humo, puro valor.",
   "topics": [
-    "errores de emprendedores", "mentalidad de abundancia", "primer negocio",
-    "productividad extrema", "ventas para introvertidos", "fracasos famosos",
-    "negocios con poca inversión", "hábitos de millonarios reales",
-    "networking efectivo", "escalar un negocio"
+    "errores de emprendedores",
+    "mentalidad de abundancia",
+    "primer negocio",
+    "productividad extrema",
+    "ventas para introvertidos",
+    "fracasos famosos",
+    "negocios con poca inversión",
+    "hábitos de millonarios reales",
+    "networking efectivo",
+    "escalar un negocio"
   ],
   "style": {
     "primary_color": "#E67E22",
@@ -15,6 +21,7 @@
     "box_opacity": 0.85,
     "font_size": 58
   },
-  "cta": "📩 Newsletter gratis: http://eepurl.com/c_iwJy-3pL\n👍 Suscríbete y activa la 🔔",
-  "refresh_token_env": "YT_TOKEN_PROSPERA"
+  "cta": "📖 Lee más en menteprospera-web.vercel.app\n📩 Newsletter gratis: http://eepurl.com/c_iwJy-3pL\n👍 Suscríbete y activa la 🔔",
+  "refresh_token_env": "YT_TOKEN_PROSPERA",
+  "web_url": "https://menteprospera-web.vercel.app"
 }

@@ -4,9 +4,15 @@
   "niche": "Finanzas personales y ahorro para hispanohablantes",
   "tone": "Cercano, práctico, sin tecnicismos. Como un amigo que sabe de dinero.",
   "topics": [
-    "ahorro doméstico", "inversión para principiantes", "salir de deudas",
-    "presupuesto mensual", "errores financieros comunes", "ingresos pasivos",
-    "ahorro hormiga", "tarjetas de crédito", "fondo de emergencia",
+    "ahorro doméstico",
+    "inversión para principiantes",
+    "salir de deudas",
+    "presupuesto mensual",
+    "errores financieros comunes",
+    "ingresos pasivos",
+    "ahorro hormiga",
+    "tarjetas de crédito",
+    "fondo de emergencia",
     "inflación y poder adquisitivo"
   ],
   "style": {
@@ -15,6 +21,7 @@
     "box_opacity": 0.85,
     "font_size": 58
   },
-  "cta": "📩 Newsletter gratis: http://eepurl.com/c_iwJy-3pL\n👍 Suscríbete y activa la 🔔",
-  "refresh_token_env": "YT_TOKEN_FINANZAS"
+  "cta": "📖 Lee más en finanzasclara-web.vercel.app\n📩 Newsletter gratis: http://eepurl.com/c_iwJy-3pL\n👍 Suscríbete y activa la 🔔",
+  "refresh_token_env": "YT_TOKEN_FINANZAS",
+  "web_url": "https://finanzasclara-web.vercel.app"
 }

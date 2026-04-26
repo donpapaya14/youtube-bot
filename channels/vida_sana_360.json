@@ -4,10 +4,15 @@
   "niche": "Salud, bajada de peso y bienestar basado en ciencia",
   "tone": "Directo, motivador, con datos científicos reales. Como un entrenador personal que sabe de ciencia.",
   "topics": [
-    "pérdida de peso con evidencia", "ayuno intermitente", "déficit calórico",
-    "ejercicios para quemar grasa", "alimentos que aceleran metabolismo",
-    "errores comunes en dietas", "rutinas de ejercicio en casa",
-    "suplementos con evidencia científica", "hábitos para perder peso",
+    "pérdida de peso con evidencia",
+    "ayuno intermitente",
+    "déficit calórico",
+    "ejercicios para quemar grasa",
+    "alimentos que aceleran metabolismo",
+    "errores comunes en dietas",
+    "rutinas de ejercicio en casa",
+    "suplementos con evidencia científica",
+    "hábitos para perder peso",
     "mitos de nutrición desmontados"
   ],
   "style": {
@@ -16,6 +21,7 @@
     "box_opacity": 0.85,
     "font_size": 58
   },
-  "cta": "📩 Newsletter gratis: http://eepurl.com/c_iwJy-3pL\n👍 Suscríbete y activa la 🔔",
-  "refresh_token_env": "YT_TOKEN_PRINCIPAL"
+  "cta": "📖 Lee más en vidasana360-web.vercel.app\n📩 Newsletter gratis: http://eepurl.com/c_iwJy-3pL\n👍 Suscríbete y activa la 🔔",
+  "refresh_token_env": "YT_TOKEN_PRINCIPAL",
+  "web_url": "https://vidasana360-web.vercel.app"
 }

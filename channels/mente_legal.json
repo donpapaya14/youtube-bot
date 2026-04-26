@@ -4,9 +4,15 @@
   "niche": "Consejos legales cotidianos en España y Latinoamérica",
   "tone": "Claro, accesible, sin jerga jurídica. Como un abogado amigo que te explica en simple.",
   "topics": [
-    "derechos del consumidor", "contratos de alquiler", "herencias básicas",
-    "reclamaciones", "derechos laborales", "multas injustas",
-    "devoluciones y garantías", "vecinos y comunidad", "despidos",
+    "derechos del consumidor",
+    "contratos de alquiler",
+    "herencias básicas",
+    "reclamaciones",
+    "derechos laborales",
+    "multas injustas",
+    "devoluciones y garantías",
+    "vecinos y comunidad",
+    "despidos",
     "estafas comunes y cómo protegerte"
   ],
   "style": {
@@ -15,6 +21,7 @@
     "box_opacity": 0.85,
     "font_size": 56
   },
-  "cta": "📩 Newsletter gratis: http://eepurl.com/c_iwJy-3pL\n👍 Suscríbete y activa la 🔔",
-  "refresh_token_env": "YT_TOKEN_LEGAL"
+  "cta": "📖 Lee más en mentelegal-web.vercel.app\n📩 Newsletter gratis: http://eepurl.com/c_iwJy-3pL\n👍 Suscríbete y activa la 🔔",
+  "refresh_token_env": "YT_TOKEN_LEGAL",
+  "web_url": "https://mentelegal-web.vercel.app"
 }
