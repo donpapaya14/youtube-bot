@@ -9,6 +9,7 @@ on:
     - cron: '0 11 * * *'  # SaludLongevidad
     - cron: '0 12 * * *'  # MentePróspera
     - cron: '0 14 * * *'  # VidaSana360
+    - cron: '0 10 * * 0'  # Newsletter dominical
   workflow_dispatch:
     inputs:
       channel:
@@ -22,6 +23,7 @@ on:
           - salud_longevidad
           - mente_prospera
           - vida_sana_360
+          - newsletter
           - all
 
 jobs:
@@ -57,11 +59,22 @@ jobs:
               "0 11 * * *") echo "name=salud_longevidad" >> $GITHUB_OUTPUT ;;
               "0 12 * * *") echo "name=mente_prospera" >> $GITHUB_OUTPUT ;;
               "0 14 * * *") echo "name=vida_sana_360" >> $GITHUB_OUTPUT ;;
+              "0 10 * * 0") echo "name=newsletter" >> $GITHUB_OUTPUT ;;
             esac
           fi
 
+      - name: Run newsletter
+        if: steps.channel.outputs.name == 'newsletter'
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          MAILCHIMP_API_KEY: ${{ secrets.MAILCHIMP_API_KEY }}
+          MAILCHIMP_LIST_ID: ${{ secrets.MAILCHIMP_LIST_ID }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python src/newsletter.py
+
       - name: Run bot
-        if: steps.channel.outputs.name != 'all'
+        if: steps.channel.outputs.name != 'all' && steps.channel.outputs.name != 'newsletter'
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
