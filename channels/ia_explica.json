@@ -1,0 +1,20 @@
+{
+  "name": "IAExplica",
+  "handle": "@IAExplica-c5c",
+  "niche": "Herramientas de IA y tecnología para no técnicos",
+  "tone": "Didáctico, curioso, entusiasta. Como un amigo tech que te muestra cosas increíbles.",
+  "topics": [
+    "herramientas IA gratuitas", "ChatGPT trucos", "IA para productividad",
+    "automatización con IA", "IA en el trabajo", "crear imágenes con IA",
+    "IA para estudiantes", "novedades IA 2026", "IA vs humanos",
+    "herramientas IA que no conocías"
+  ],
+  "style": {
+    "primary_color": "#9B59B6",
+    "text_color": "#FFFFFF",
+    "box_opacity": 0.85,
+    "font_size": 56
+  },
+  "cta": "📩 Newsletter gratis: [TU_LINK_NEWSLETTER]\n👍 Suscríbete y activa la 🔔",
+  "refresh_token_env": "YT_TOKEN_IA"
+}

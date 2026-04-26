@@ -1,0 +1,20 @@
+{
+  "name": "MentePróspera",
+  "handle": "@MentePróspera-i8j",
+  "niche": "Emprendimiento y mentalidad de negocios",
+  "tone": "Motivador, directo, con ejemplos reales. Sin humo, puro valor.",
+  "topics": [
+    "errores de emprendedores", "mentalidad de abundancia", "primer negocio",
+    "productividad extrema", "ventas para introvertidos", "fracasos famosos",
+    "negocios con poca inversión", "hábitos de millonarios reales",
+    "networking efectivo", "escalar un negocio"
+  ],
+  "style": {
+    "primary_color": "#E67E22",
+    "text_color": "#FFFFFF",
+    "box_opacity": 0.85,
+    "font_size": 58
+  },
+  "cta": "📩 Newsletter gratis: [TU_LINK_NEWSLETTER]\n👍 Suscríbete y activa la 🔔",
+  "refresh_token_env": "YT_TOKEN_PROSPERA"
+}

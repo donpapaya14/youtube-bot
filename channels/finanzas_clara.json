@@ -1,0 +1,20 @@
+{
+  "name": "FinanzasClara",
+  "handle": "@FinanzasClara-l3w",
+  "niche": "Finanzas personales y ahorro para hispanohablantes",
+  "tone": "Cercano, práctico, sin tecnicismos. Como un amigo que sabe de dinero.",
+  "topics": [
+    "ahorro doméstico", "inversión para principiantes", "salir de deudas",
+    "presupuesto mensual", "errores financieros comunes", "ingresos pasivos",
+    "ahorro hormiga", "tarjetas de crédito", "fondo de emergencia",
+    "inflación y poder adquisitivo"
+  ],
+  "style": {
+    "primary_color": "#2ECC71",
+    "text_color": "#FFFFFF",
+    "box_opacity": 0.85,
+    "font_size": 58
+  },
+  "cta": "📩 Newsletter gratis: [TU_LINK_NEWSLETTER]\n👍 Suscríbete y activa la 🔔",
+  "refresh_token_env": "YT_TOKEN_FINANZAS"
+}

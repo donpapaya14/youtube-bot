@@ -1,0 +1,102 @@
+name: YouTube Shorts Bot
+
+on:
+  schedule:
+    # MAÑANA — Video 1 por canal
+    - cron: '0 8 * * *'   # FinanzasClara AM
+    - cron: '0 9 * * *'   # MenteLegal AM
+    - cron: '0 10 * * *'  # IAExplica AM
+    - cron: '0 11 * * *'  # SaludLongevidad AM
+    - cron: '0 12 * * *'  # MentePróspera AM
+    # TARDE — Video 2 por canal
+    - cron: '30 15 * * *'  # FinanzasClara PM
+    - cron: '30 16 * * *'  # MenteLegal PM
+    - cron: '30 17 * * *'  # IAExplica PM
+    - cron: '30 18 * * *'  # SaludLongevidad PM
+    - cron: '30 19 * * *'  # MentePróspera PM
+  workflow_dispatch:
+    inputs:
+      channel:
+        description: 'Canal a ejecutar'
+        required: true
+        type: choice
+        options:
+          - finanzas_clara
+          - mente_legal
+          - ia_explica
+          - salud_longevidad
+          - mente_prospera
+          - all
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Determine channel
+        id: channel
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "name=${{ github.event.inputs.channel }}" >> $GITHUB_OUTPUT
+          else
+            case "${{ github.event.schedule }}" in
+              "0 8 * * *"|"30 15 * * *")   echo "name=finanzas_clara" >> $GITHUB_OUTPUT ;;
+              "0 9 * * *"|"30 16 * * *")   echo "name=mente_legal" >> $GITHUB_OUTPUT ;;
+              "0 10 * * *"|"30 17 * * *")  echo "name=ia_explica" >> $GITHUB_OUTPUT ;;
+              "0 11 * * *"|"30 18 * * *")  echo "name=salud_longevidad" >> $GITHUB_OUTPUT ;;
+              "0 12 * * *"|"30 19 * * *")  echo "name=mente_prospera" >> $GITHUB_OUTPUT ;;
+            esac
+          fi
+
+      - name: Run bot
+        if: steps.channel.outputs.name != 'all'
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+          YT_TOKEN_FINANZAS: ${{ secrets.YT_TOKEN_FINANZAS }}
+          YT_TOKEN_LEGAL: ${{ secrets.YT_TOKEN_LEGAL }}
+          YT_TOKEN_IA: ${{ secrets.YT_TOKEN_IA }}
+          YT_TOKEN_SALUD: ${{ secrets.YT_TOKEN_SALUD }}
+          YT_TOKEN_PROSPERA: ${{ secrets.YT_TOKEN_PROSPERA }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GH_MODELS_TOKEN }}
+        run: python src/main.py --channel ${{ steps.channel.outputs.name }}
+
+      - name: Run all channels
+        if: steps.channel.outputs.name == 'all'
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+          YT_TOKEN_FINANZAS: ${{ secrets.YT_TOKEN_FINANZAS }}
+          YT_TOKEN_LEGAL: ${{ secrets.YT_TOKEN_LEGAL }}
+          YT_TOKEN_IA: ${{ secrets.YT_TOKEN_IA }}
+          YT_TOKEN_SALUD: ${{ secrets.YT_TOKEN_SALUD }}
+          YT_TOKEN_PROSPERA: ${{ secrets.YT_TOKEN_PROSPERA }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GH_MODELS_TOKEN }}
+        run: |
+          for channel in finanzas_clara mente_legal ia_explica salud_longevidad mente_prospera; do
+            echo "=== Running $channel ==="
+            python src/main.py --channel $channel || true
+            sleep $((RANDOM % 120 + 60))
+          done
