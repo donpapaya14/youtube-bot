@@ -1,0 +1,70 @@
+============================================================
+PROMPTS PARA GEMINI PRO — Canal VidaSana360
+Pega UNO de estos en gemini.google.com cada día.
+Gemini genera el video con Veo 2, tú lo descargas y subes a YouTube Studio.
+============================================================
+
+=== PROMPT 1: PÉRDIDA DE PESO ===
+
+Crea un YouTube Short vertical (9:16) de 30 segundos sobre pérdida de peso.
+
+El video debe mostrar visualmente:
+- Persona haciendo ejercicio, comida saludable, transformación
+- Estilo cinematográfico, colores cálidos, movimiento dinámico
+- SIN texto en el video (yo lo pongo después)
+
+Tema: "El ejercicio que quema más calorías que correr: las sentadillas con salto"
+Incluir escenas de: persona haciendo sentadillas, cronómetro, gráfico de calorías
+
+=== PROMPT 2: NUTRICIÓN ===
+
+Genera un video vertical 9:16 de 30 segundos con estilo documental sobre nutrición.
+
+Escenas: alimentos coloridos, persona cocinando, frutas, verduras, close-ups de comida saludable.
+Movimiento de cámara lento, iluminación natural, colores vibrantes.
+SIN texto. Formato cinematográfico profesional.
+
+Tema visual: "Los 5 alimentos que aceleran tu metabolismo"
+
+=== PROMPT 3: MITOS DE DIETAS ===
+
+Crea un Short vertical 9:16 de 30 segundos con estilo dramático.
+
+Escenas: persona mirando la báscula, comida procesada vs natural, transformación antes/después.
+Estilo contrastado: oscuro al principio, luminoso al final.
+SIN texto en el video. Movimiento dinámico de cámara.
+
+Tema visual: "Por qué las dietas de moda NO funcionan"
+
+=== PROMPT 4: HÁBITOS SALUDABLES ===
+
+Genera un video vertical 9:16 de 30 segundos sobre rutina matutina saludable.
+
+Escenas: persona despertando, estirándose, bebiendo agua, desayuno saludable, saliendo a caminar.
+Luz dorada de amanecer, movimiento suave, sensación de energía.
+SIN texto. Cinematográfico, inspirador.
+
+Tema visual: "La rutina de 5 minutos que cambia tu metabolismo"
+
+=== PROMPT 5: CIENCIA Y PESO ===
+
+Crea un Short vertical 9:16 de 30 segundos con estilo científico-visual.
+
+Escenas: laboratorio, microscopio, células, cuerpo humano, intestinos (microbioma),
+gráficos científicos, transición a persona saludable.
+Colores azules y verdes, estilo documental premium.
+SIN texto.
+
+Tema visual: "Lo que la ciencia dice sobre tu microbioma y tu peso"
+
+============================================================
+INSTRUCCIONES:
+1. Copia UN prompt → pega en gemini.google.com
+2. Espera que genere el video
+3. Descarga el video
+4. Abre YouTube Studio → VidaSana360 → Crear → Subir Short
+5. Título/descripción: usa lo que genera el bot automático como referencia
+6. Repite con otro prompt
+
+Puedes hacer 3-5 videos al día con Gemini Pro.
+============================================================
