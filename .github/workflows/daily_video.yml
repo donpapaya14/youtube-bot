@@ -2,18 +2,19 @@ name: YouTube Shorts Bot
 
 on:
   schedule:
-    # 4 canales x3 = 12 videos/día (6 por cuenta Google)
+    # Cuenta 1: VidaSana×2 + SaludLong×2 + FinanzasClara×2 = 6 videos (9600 uds)
     - cron: '0 7 * * *'    # VidaSana360 1
+    - cron: '0 13 * * *'   # VidaSana360 2
     - cron: '0 8 * * *'    # SaludLongevidad 1
+    - cron: '0 14 * * *'   # SaludLongevidad 2
+    - cron: '0 11 * * *'   # FinanzasClara 1
+    - cron: '0 15 * * *'   # FinanzasClara 2
+    # Cuenta 2: CatBrothers×3 + HogarInteligente×3 = 6 videos (9600 uds)
     - cron: '0 9 * * *'    # CatBrothers 1
-    - cron: '0 10 * * *'   # HogarInteligente 1
-    - cron: '0 11 * * *'   # VidaSana360 2
-    - cron: '0 12 * * *'   # SaludLongevidad 2
-    - cron: '0 13 * * *'   # CatBrothers 2
-    - cron: '0 14 * * *'   # HogarInteligente 2
-    - cron: '0 15 * * *'   # VidaSana360 3
-    - cron: '0 16 * * *'   # SaludLongevidad 3
+    - cron: '0 12 * * *'   # CatBrothers 2
     - cron: '0 17 * * *'   # CatBrothers 3
+    - cron: '0 10 * * *'   # HogarInteligente 1
+    - cron: '0 16 * * *'   # HogarInteligente 2
     - cron: '0 18 * * *'   # HogarInteligente 3
     - cron: '0 10 * * 0'  # Newsletter dominical
   workflow_dispatch:
