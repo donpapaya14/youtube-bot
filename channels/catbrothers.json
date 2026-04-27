@@ -1,0 +1,23 @@
+{
+  "name": "CatBrothers",
+  "handle": "@CATBROTHERS2",
+  "niche": "Gatos: salud felina, juguetes, alimentación y comportamiento",
+  "tone": "Cercano, divertido, informativo. Como un amigo que ama los gatos y sabe mucho de ellos.",
+  "topics": [
+    "juguetes para gatos", "alimentación felina", "salud de gatos",
+    "comportamiento gatuno", "razas de gatos", "gatos graciosos",
+    "trucos para gatos", "cuidados veterinarios", "productos para gatos",
+    "convivencia con gatos"
+  ],
+  "style": {
+    "primary_color": "#FF9800",
+    "text_color": "#FFFFFF",
+    "box_opacity": 0.85,
+    "font_size": 58
+  },
+  "cta": "📖 Lee más en catbrothers-web.vercel.app\n🛒 Mejores productos para gatos: https://www.amazon.es/s?k=juguetes+gatos&tag=vladys-21\n👍 Suscríbete y activa la 🔔",
+  "refresh_token_env": "YT_TOKEN_CATBROTHERS",
+  "web_url": "https://catbrothers-web.vercel.app",
+  "amazon_tag": "vladys-21",
+  "amazon_search": "juguetes+gatos"
+}
