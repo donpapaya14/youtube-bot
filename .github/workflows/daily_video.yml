@@ -2,19 +2,15 @@ name: YouTube Shorts Bot
 
 on:
   schedule:
-    # 8 canales — cada hora única para distinguir en case
-    - cron: '0 7 * * *'    # CatBrothers 1
+    # 8 videos/día — 1 por canal
     - cron: '0 8 * * *'    # FinanzasClara
     - cron: '0 9 * * *'    # MenteLegal
     - cron: '0 10 * * *'   # IAExplica
     - cron: '0 11 * * *'   # SaludLongevidad
-    - cron: '0 12 * * *'   # CatBrothers 2
+    - cron: '0 12 * * *'   # CatBrothers
     - cron: '0 13 * * *'   # VidaSana360
-    - cron: '0 14 * * *'   # HogarInteligente 1
     - cron: '0 15 * * *'   # MentePróspera
-    - cron: '0 16 * * *'   # HogarInteligente 2
-    - cron: '0 17 * * *'   # CatBrothers 3
-    - cron: '0 18 * * *'   # HogarInteligente 3
+    - cron: '0 16 * * *'   # HogarInteligente
     - cron: '0 10 * * 0'  # Newsletter dominical
   workflow_dispatch:
     inputs:
