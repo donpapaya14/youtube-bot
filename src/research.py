@@ -7,23 +7,45 @@ import json
 import logging
 import os
 import random
+import re as _re
 from groq import Groq
 from openai import OpenAI
 
 log = logging.getLogger(__name__)
 
-groq_client = Groq(api_key=os.getenv("GROQ_API_KEY"))
-github_client = OpenAI(
-    base_url="https://models.inference.ai.azure.com",
-    api_key=os.getenv("GITHUB_TOKEN"),
-)
-
+NVIDIA_MODEL = "deepseek-ai/deepseek-v4-flash"
 GROQ_MODEL = "llama-3.3-70b-versatile"
 GITHUB_MODEL = "DeepSeek-V3-0324"
 
 
+def _call_nvidia(prompt: str, temperature: float = 0.9) -> dict:
+    key = os.getenv("NVIDIA_API_KEY")
+    if not key:
+        raise ValueError("NVIDIA_API_KEY no configurada")
+    client = OpenAI(base_url="https://integrate.api.nvidia.com/v1", api_key=key)
+    response = client.chat.completions.create(
+        model=NVIDIA_MODEL,
+        messages=[{"role": "user", "content": prompt}],
+        temperature=temperature,
+        max_tokens=4096,
+    )
+    text = response.choices[0].message.content.strip()
+    if text.startswith("```"):
+        text = text.split("\n", 1)[1] if "\n" in text else text[3:]
+    if text.endswith("```"):
+        text = text.rsplit("```", 1)[0]
+    text = text.strip()
+    if "<think>" in text:
+        text = _re.sub(r"<think>.*?</think>", "", text, flags=_re.DOTALL).strip()
+    return json.loads(text)
+
+
 def _call_groq(prompt: str, temperature: float = 0.9) -> dict:
-    response = groq_client.chat.completions.create(
+    key = os.getenv("GROQ_API_KEY")
+    if not key:
+        raise ValueError("GROQ_API_KEY no configurada")
+    client = Groq(api_key=key)
+    response = client.chat.completions.create(
         model=GROQ_MODEL,
         messages=[{"role": "user", "content": prompt}],
         response_format={"type": "json_object"},
@@ -33,7 +55,11 @@ def _call_groq(prompt: str, temperature: float = 0.9) -> dict:
 
 
 def _call_github(prompt: str, temperature: float = 0.8) -> dict:
-    response = github_client.chat.completions.create(
+    token = os.getenv("GITHUB_TOKEN")
+    if not token:
+        raise ValueError("GITHUB_TOKEN no configurado")
+    client = OpenAI(base_url="https://models.inference.ai.azure.com", api_key=token)
+    response = client.chat.completions.create(
         model=GITHUB_MODEL,
         messages=[{"role": "user", "content": prompt}],
         temperature=temperature,
@@ -46,14 +72,19 @@ def _call_github(prompt: str, temperature: float = 0.8) -> dict:
     return json.loads(text.strip())
 
 
-def _call_with_fallback(prompt: str, primary: str = "groq", temperature: float = 0.9) -> dict:
-    funcs = {"groq": _call_groq, "github": _call_github}
-    fallback = "github" if primary == "groq" else "groq"
-    try:
-        return funcs[primary](prompt, temperature)
-    except Exception as e:
-        log.warning("%s falló: %s. Intentando %s...", primary, e, fallback)
-        return funcs[fallback](prompt, temperature)
+def _call_with_fallback(prompt: str, primary: str = "nvidia", temperature: float = 0.9) -> dict:
+    """NVIDIA → Groq → GitHub Models."""
+    providers = [
+        ("nvidia", _call_nvidia),
+        ("groq", _call_groq),
+        ("github", _call_github),
+    ]
+    for name, func in providers:
+        try:
+            return func(prompt, temperature)
+        except Exception as e:
+            log.warning("%s falló: %s", name, str(e)[:80])
+    raise RuntimeError("Todos los proveedores AI fallaron")
 
 
 CONTENT_FORMULAS = {
