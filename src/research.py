@@ -91,7 +91,25 @@ NICHE_MAP = {
     "SaludLongevidad": "salud",
     "MentePróspera": "negocio",
     "VidaSana360": "salud",
+    "CatBrothers": "gatos",
+    "HogarInteligente": "hogar",
 }
+
+CONTENT_FORMULAS["gatos"] = [
+    "Un dato curioso sobre gatos que la mayoría no sabe, con fuente científica real",
+    "Una raza de gato poco conocida con características únicas y datos reales de la raza",
+    "Un comportamiento de gatos explicado científicamente: por qué hacen X",
+    "Un alimento que los gatos NO deben comer con nivel de toxicidad real según ASPCA",
+    "Un juguete casero para gatos con materiales de casa y por qué les encanta",
+]
+
+CONTENT_FORMULAS["hogar"] = [
+    "Un gadget de cocina de Amazon que resuelve un problema concreto con nombre y precio real",
+    "Un truco de limpieza del hogar con producto específico de Amazon que funciona",
+    "Un gadget tech para el hogar por menos de 30 euros con nombre real y para qué sirve",
+    "Un electrodoméstico pequeño que ahorra tiempo: nombre real, precio, cómo funciona",
+    "Un producto de organización de Amazon para resolver el desorden en casa",
+]
 
 CONTENT_FORMULAS["salud"].extend([
     "Un truco de pérdida de peso respaldado por un estudio real con nombre de universidad y cifra concreta",

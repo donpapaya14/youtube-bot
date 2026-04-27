@@ -2,13 +2,19 @@ name: YouTube Shorts Bot
 
 on:
   schedule:
-    # 6 canales x1 = 6 uploads = 9,600 uds (dentro de quota 10,000)
+    # 8 canales — cada hora única para distinguir en case
+    - cron: '0 7 * * *'    # CatBrothers 1
     - cron: '0 8 * * *'    # FinanzasClara
     - cron: '0 9 * * *'    # MenteLegal
     - cron: '0 10 * * *'   # IAExplica
     - cron: '0 11 * * *'   # SaludLongevidad
+    - cron: '0 12 * * *'   # CatBrothers 2
     - cron: '0 13 * * *'   # VidaSana360
+    - cron: '0 14 * * *'   # HogarInteligente 1
     - cron: '0 15 * * *'   # MentePróspera
+    - cron: '0 16 * * *'   # HogarInteligente 2
+    - cron: '0 17 * * *'   # CatBrothers 3
+    - cron: '0 18 * * *'   # HogarInteligente 3
     - cron: '0 10 * * 0'  # Newsletter dominical
   workflow_dispatch:
     inputs:
@@ -24,6 +30,7 @@ on:
           - mente_prospera
           - vida_sana_360
           - catbrothers
+          - hogarinteligente
           - newsletter
           - all
 
@@ -54,12 +61,18 @@ jobs:
             echo "name=${{ github.event.inputs.channel }}" >> $GITHUB_OUTPUT
           else
             case "${{ github.event.schedule }}" in
+              "0 7 * * *")  echo "name=catbrothers" >> $GITHUB_OUTPUT ;;
               "0 8 * * *")  echo "name=finanzas_clara" >> $GITHUB_OUTPUT ;;
               "0 9 * * *")  echo "name=mente_legal" >> $GITHUB_OUTPUT ;;
               "0 10 * * *") echo "name=ia_explica" >> $GITHUB_OUTPUT ;;
               "0 11 * * *") echo "name=salud_longevidad" >> $GITHUB_OUTPUT ;;
+              "0 12 * * *") echo "name=catbrothers" >> $GITHUB_OUTPUT ;;
               "0 13 * * *") echo "name=vida_sana_360" >> $GITHUB_OUTPUT ;;
+              "0 14 * * *") echo "name=hogarinteligente" >> $GITHUB_OUTPUT ;;
               "0 15 * * *") echo "name=mente_prospera" >> $GITHUB_OUTPUT ;;
+              "0 16 * * *") echo "name=hogarinteligente" >> $GITHUB_OUTPUT ;;
+              "0 17 * * *") echo "name=catbrothers" >> $GITHUB_OUTPUT ;;
+              "0 18 * * *") echo "name=hogarinteligente" >> $GITHUB_OUTPUT ;;
               "0 10 * * 0") echo "name=newsletter" >> $GITHUB_OUTPUT ;;
             esac
           fi

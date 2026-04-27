@@ -1,0 +1,22 @@
+{
+  "name": "HogarInteligente",
+  "handle": "@HogarInteligente",
+  "niche": "Gadgets, productos y tecnología para el hogar",
+  "tone": "Práctico, directo, como un amigo que prueba productos y te dice la verdad.",
+  "topics": [
+    "gadgets de cocina", "robots aspirador", "domótica", "organización hogar",
+    "productos de limpieza", "smart home", "electrodomésticos", "Amazon finds",
+    "trucos hogar", "ahorro energético"
+  ],
+  "style": {
+    "primary_color": "#1976D2",
+    "text_color": "#FFFFFF",
+    "box_opacity": 0.85,
+    "font_size": 58
+  },
+  "cta": "📖 Reviews completas: https://hogarinteligente-web.vercel.app\n🛒 Mejores gadgets: https://www.amazon.es/s?k=gadgets+hogar&tag=vladys-21\n👍 Suscríbete y activa la 🔔",
+  "refresh_token_env": "YT_TOKEN_HOGARINTELIGENTE",
+  "web_url": "https://hogarinteligente-web.vercel.app",
+  "amazon_tag": "vladys-21",
+  "amazon_search": "gadgets+hogar+cocina"
+}
