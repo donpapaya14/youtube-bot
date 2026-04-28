@@ -72,14 +72,18 @@ def _call_github(prompt: str, temperature: float = 0.8) -> dict:
     return json.loads(text.strip())
 
 
-def _call_with_fallback(prompt: str, primary: str = "nvidia", temperature: float = 0.9) -> dict:
-    """NVIDIA → Groq → GitHub Models."""
-    providers = [
-        ("nvidia", _call_nvidia),
-        ("groq", _call_groq),
-        ("github", _call_github),
-    ]
-    for name, func in providers:
+def _call_with_fallback(prompt: str, primary: str = "groq", temperature: float = 0.9) -> dict:
+    """Llama al proveedor primario y cae a los demás si falla."""
+    all_providers = {
+        "nvidia": _call_nvidia,
+        "groq": _call_groq,
+        "github": _call_github,
+    }
+    ordered = [(primary, all_providers[primary])]
+    for name, func in all_providers.items():
+        if name != primary:
+            ordered.append((name, func))
+    for name, func in ordered:
         try:
             return func(prompt, temperature)
         except Exception as e:
