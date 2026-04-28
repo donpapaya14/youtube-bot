@@ -62,18 +62,21 @@ jobs:
             echo "name=${{ github.event.inputs.channel }}" >> $GITHUB_OUTPUT
           else
             case "${{ github.event.schedule }}" in
-              "0 7 * * *")  echo "name=catbrothers" >> $GITHUB_OUTPUT ;;
-              "0 8 * * *")  echo "name=finanzas_clara" >> $GITHUB_OUTPUT ;;
-              "0 9 * * *")  echo "name=mente_legal" >> $GITHUB_OUTPUT ;;
-              "0 10 * * *") echo "name=ia_explica" >> $GITHUB_OUTPUT ;;
-              "0 11 * * *") echo "name=salud_longevidad" >> $GITHUB_OUTPUT ;;
-              "0 12 * * *") echo "name=catbrothers" >> $GITHUB_OUTPUT ;;
+              # Cuenta 1 (vladys.z96): VidaSana×2 + SaludLong×2 + Finanzas×2
+              "0 7 * * *")  echo "name=vida_sana_360" >> $GITHUB_OUTPUT ;;
+              "0 8 * * *")  echo "name=salud_longevidad" >> $GITHUB_OUTPUT ;;
+              "0 11 * * *") echo "name=finanzas_clara" >> $GITHUB_OUTPUT ;;
               "0 13 * * *") echo "name=vida_sana_360" >> $GITHUB_OUTPUT ;;
-              "0 14 * * *") echo "name=hogarinteligente" >> $GITHUB_OUTPUT ;;
-              "0 15 * * *") echo "name=mente_prospera" >> $GITHUB_OUTPUT ;;
+              "0 14 * * *") echo "name=salud_longevidad" >> $GITHUB_OUTPUT ;;
+              "0 15 * * *") echo "name=finanzas_clara" >> $GITHUB_OUTPUT ;;
+              # Cuenta 2: CatBrothers×3 + HogarInteligente×3
+              "0 9 * * *")  echo "name=catbrothers" >> $GITHUB_OUTPUT ;;
+              "0 10 * * *") echo "name=hogarinteligente" >> $GITHUB_OUTPUT ;;
+              "0 12 * * *") echo "name=catbrothers" >> $GITHUB_OUTPUT ;;
               "0 16 * * *") echo "name=hogarinteligente" >> $GITHUB_OUTPUT ;;
               "0 17 * * *") echo "name=catbrothers" >> $GITHUB_OUTPUT ;;
               "0 18 * * *") echo "name=hogarinteligente" >> $GITHUB_OUTPUT ;;
+              # Newsletter dominical
               "0 10 * * 0") echo "name=newsletter" >> $GITHUB_OUTPUT ;;
             esac
           fi
@@ -132,8 +135,8 @@ jobs:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GH_MODELS_TOKEN }}
         run: |
-          for channel in finanzas_clara mente_legal ia_explica salud_longevidad vida_sana_360 mente_prospera; do
+          for channel in vida_sana_360 salud_longevidad finanzas_clara catbrothers hogarinteligente; do
             echo "=== Running $channel ==="
             python src/main.py --channel $channel || true
-            sleep $((RANDOM % 120 + 60))
+            sleep $((RANDOM % 180 + 120))
           done
