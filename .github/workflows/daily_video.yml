@@ -2,21 +2,22 @@ name: YouTube Shorts Bot
 
 on:
   schedule:
-    # Cuenta 1: VidaSana×2 + SaludLong×2 + FinanzasClara×2 = 6 videos (9600 uds)
+    # Cuenta 1 (vladys.z96): VidaSana×2 + SaludLong×2 + FinanzasClara×2
     - cron: '0 7 * * *'    # VidaSana360 1
     - cron: '0 13 * * *'   # VidaSana360 2
     - cron: '0 8 * * *'    # SaludLongevidad 1
     - cron: '0 14 * * *'   # SaludLongevidad 2
     - cron: '0 11 * * *'   # FinanzasClara 1
     - cron: '0 15 * * *'   # FinanzasClara 2
-    # Cuenta 2: CatBrothers×3 + HogarInteligente×3 = 6 videos (9600 uds)
+    # Cuenta 2: CatBrothers×3 + HogarInteligente×3
     - cron: '0 9 * * *'    # CatBrothers 1
     - cron: '0 12 * * *'   # CatBrothers 2
     - cron: '0 17 * * *'   # CatBrothers 3
     - cron: '0 10 * * *'   # HogarInteligente 1
     - cron: '0 16 * * *'   # HogarInteligente 2
     - cron: '0 18 * * *'   # HogarInteligente 3
-    - cron: '0 10 * * 0'  # Newsletter dominical
+    # Newsletter
+    - cron: '0 10 * * 0'   # Newsletter dominical
   workflow_dispatch:
     inputs:
       channel:
@@ -24,12 +25,9 @@ on:
         required: true
         type: choice
         options:
-          - finanzas_clara
-          - mente_legal
-          - ia_explica
-          - salud_longevidad
-          - mente_prospera
           - vida_sana_360
+          - salud_longevidad
+          - finanzas_clara
           - catbrothers
           - hogarinteligente
           - newsletter
@@ -62,7 +60,7 @@ jobs:
             echo "name=${{ github.event.inputs.channel }}" >> $GITHUB_OUTPUT
           else
             case "${{ github.event.schedule }}" in
-              # Cuenta 1 (vladys.z96): VidaSana×2 + SaludLong×2 + Finanzas×2
+              # Cuenta 1: VidaSana×2 + SaludLong×2 + Finanzas×2
               "0 7 * * *")  echo "name=vida_sana_360" >> $GITHUB_OUTPUT ;;
               "0 8 * * *")  echo "name=salud_longevidad" >> $GITHUB_OUTPUT ;;
               "0 11 * * *") echo "name=finanzas_clara" >> $GITHUB_OUTPUT ;;
@@ -100,10 +98,7 @@ jobs:
           YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
           YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
           YT_TOKEN_FINANZAS: ${{ secrets.YT_TOKEN_FINANZAS }}
-          YT_TOKEN_LEGAL: ${{ secrets.YT_TOKEN_LEGAL }}
-          YT_TOKEN_IA: ${{ secrets.YT_TOKEN_IA }}
           YT_TOKEN_SALUD: ${{ secrets.YT_TOKEN_SALUD }}
-          YT_TOKEN_PROSPERA: ${{ secrets.YT_TOKEN_PROSPERA }}
           YT_TOKEN_PRINCIPAL: ${{ secrets.YT_TOKEN_PRINCIPAL }}
           YT_TOKEN_CATBROTHERS: ${{ secrets.YT_TOKEN_CATBROTHERS }}
           YT_TOKEN_HOGARINTELIGENTE: ${{ secrets.YT_TOKEN_HOGARINTELIGENTE }}
@@ -122,10 +117,7 @@ jobs:
           YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
           YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
           YT_TOKEN_FINANZAS: ${{ secrets.YT_TOKEN_FINANZAS }}
-          YT_TOKEN_LEGAL: ${{ secrets.YT_TOKEN_LEGAL }}
-          YT_TOKEN_IA: ${{ secrets.YT_TOKEN_IA }}
           YT_TOKEN_SALUD: ${{ secrets.YT_TOKEN_SALUD }}
-          YT_TOKEN_PROSPERA: ${{ secrets.YT_TOKEN_PROSPERA }}
           YT_TOKEN_PRINCIPAL: ${{ secrets.YT_TOKEN_PRINCIPAL }}
           YT_TOKEN_CATBROTHERS: ${{ secrets.YT_TOKEN_CATBROTHERS }}
           YT_TOKEN_HOGARINTELIGENTE: ${{ secrets.YT_TOKEN_HOGARINTELIGENTE }}
