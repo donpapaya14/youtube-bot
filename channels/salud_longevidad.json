@@ -21,9 +21,9 @@
     "box_opacity": 0.85,
     "font_size": 58
   },
-  "cta": "📖 Artículo completo: https://saludlongevidad-web.vercel.app\n🛒 Suplementos longevidad: https://www.amazon.es/s?k=suplementos+longevidad+antienvejecimiento&tag=vladys-21\n📩 Newsletter gratis: http://eepurl.com/c_iwJy-3pL\n👍 Suscríbete y activa la 🔔",
+  "cta": "📖 Artículo completo: https://saludlongevidad.org\n🛒 Suplementos longevidad: https://www.amazon.es/s?k=suplementos+longevidad+antienvejecimiento&tag=vladys-21\n📩 Newsletter gratis: http://eepurl.com/c_iwJy-3pL\n👍 Suscríbete y activa la 🔔",
   "refresh_token_env": "YT_TOKEN_SALUD",
-  "web_url": "https://saludlongevidad-web.vercel.app",
+  "web_url": "https://saludlongevidad.org",
   "amazon_tag": "vladys-21",
   "amazon_search": "suplementos+longevidad"
 }
