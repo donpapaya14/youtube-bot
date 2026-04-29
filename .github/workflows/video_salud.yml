@@ -1,0 +1,14 @@
+name: "Video: SaludLongevidad"
+
+on:
+  schedule:
+    - cron: '0 8 * * *'
+    - cron: '0 14 * * *'
+  workflow_dispatch:
+
+jobs:
+  video:
+    uses: ./.github/workflows/video_engine.yml
+    with:
+      channel: salud_longevidad
+    secrets: inherit

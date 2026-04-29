@@ -1,0 +1,14 @@
+name: "Video: VidaSana360"
+
+on:
+  schedule:
+    - cron: '0 7 * * *'
+    - cron: '0 13 * * *'
+  workflow_dispatch:
+
+jobs:
+  video:
+    uses: ./.github/workflows/video_engine.yml
+    with:
+      channel: vida_sana_360
+    secrets: inherit

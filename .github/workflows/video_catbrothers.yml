@@ -1,0 +1,15 @@
+name: "Video: CatBrothers"
+
+on:
+  schedule:
+    - cron: '0 9 * * *'
+    - cron: '0 12 * * *'
+    - cron: '0 17 * * *'
+  workflow_dispatch:
+
+jobs:
+  video:
+    uses: ./.github/workflows/video_engine.yml
+    with:
+      channel: catbrothers
+    secrets: inherit

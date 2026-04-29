@@ -1,23 +1,6 @@
-name: YouTube Shorts Bot
+name: YouTube Shorts Bot (Manual)
 
 on:
-  schedule:
-    # Cuenta 1 (vladys.z96): VidaSana×2 + SaludLong×2 + FinanzasClara×2
-    - cron: '0 7 * * *'    # VidaSana360 1
-    - cron: '0 13 * * *'   # VidaSana360 2
-    - cron: '0 8 * * *'    # SaludLongevidad 1
-    - cron: '0 14 * * *'   # SaludLongevidad 2
-    - cron: '0 11 * * *'   # FinanzasClara 1
-    - cron: '0 15 * * *'   # FinanzasClara 2
-    # Cuenta 2: CatBrothers×3 + HogarInteligente×3
-    - cron: '0 9 * * *'    # CatBrothers 1
-    - cron: '0 12 * * *'   # CatBrothers 2
-    - cron: '0 17 * * *'   # CatBrothers 3
-    - cron: '0 10 * * *'   # HogarInteligente 1
-    - cron: '0 16 * * *'   # HogarInteligente 2
-    - cron: '0 18 * * *'   # HogarInteligente 3
-    # Newsletter
-    - cron: '0 10 * * 0'   # Newsletter dominical
   workflow_dispatch:
     inputs:
       channel:
@@ -34,53 +17,27 @@ on:
           - all
 
 jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 45
+  single:
+    if: ${{ inputs.channel != 'all' && inputs.channel != 'newsletter' }}
+    uses: ./.github/workflows/video_engine.yml
+    with:
+      channel: ${{ inputs.channel }}
+    secrets: inherit
 
+  newsletter:
+    if: ${{ inputs.channel == 'newsletter' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
-
-      - name: Install FFmpeg
-        run: sudo apt-get update && sudo apt-get install -y ffmpeg
-
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
           cache: 'pip'
-
       - name: Install dependencies
         run: pip install -r requirements.txt
-
-      - name: Determine channel
-        id: channel
-        run: |
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            echo "name=${{ github.event.inputs.channel }}" >> $GITHUB_OUTPUT
-          else
-            case "${{ github.event.schedule }}" in
-              # Cuenta 1: VidaSana×2 + SaludLong×2 + Finanzas×2
-              "0 7 * * *")  echo "name=vida_sana_360" >> $GITHUB_OUTPUT ;;
-              "0 8 * * *")  echo "name=salud_longevidad" >> $GITHUB_OUTPUT ;;
-              "0 11 * * *") echo "name=finanzas_clara" >> $GITHUB_OUTPUT ;;
-              "0 13 * * *") echo "name=vida_sana_360" >> $GITHUB_OUTPUT ;;
-              "0 14 * * *") echo "name=salud_longevidad" >> $GITHUB_OUTPUT ;;
-              "0 15 * * *") echo "name=finanzas_clara" >> $GITHUB_OUTPUT ;;
-              # Cuenta 2: CatBrothers×3 + HogarInteligente×3
-              "0 9 * * *")  echo "name=catbrothers" >> $GITHUB_OUTPUT ;;
-              "0 10 * * *") echo "name=hogarinteligente" >> $GITHUB_OUTPUT ;;
-              "0 12 * * *") echo "name=catbrothers" >> $GITHUB_OUTPUT ;;
-              "0 16 * * *") echo "name=hogarinteligente" >> $GITHUB_OUTPUT ;;
-              "0 17 * * *") echo "name=catbrothers" >> $GITHUB_OUTPUT ;;
-              "0 18 * * *") echo "name=hogarinteligente" >> $GITHUB_OUTPUT ;;
-              # Newsletter dominical
-              "0 10 * * 0") echo "name=newsletter" >> $GITHUB_OUTPUT ;;
-            esac
-          fi
-
-      - name: Run newsletter
-        if: steps.channel.outputs.name == 'newsletter'
+      - name: Send newsletter
         env:
           NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
@@ -90,45 +47,13 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python src/newsletter.py
 
-      - name: Run bot
-        if: steps.channel.outputs.name != 'all' && steps.channel.outputs.name != 'newsletter'
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
-          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
-          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
-          YT_TOKEN_FINANZAS: ${{ secrets.YT_TOKEN_FINANZAS }}
-          YT_TOKEN_SALUD: ${{ secrets.YT_TOKEN_SALUD }}
-          YT_TOKEN_PRINCIPAL: ${{ secrets.YT_TOKEN_PRINCIPAL }}
-          YT_TOKEN_CATBROTHERS: ${{ secrets.YT_TOKEN_CATBROTHERS }}
-          YT_TOKEN_HOGARINTELIGENTE: ${{ secrets.YT_TOKEN_HOGARINTELIGENTE }}
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
-          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GH_MODELS_TOKEN }}
-        run: python src/main.py --channel ${{ steps.channel.outputs.name }}
-
-      - name: Run all channels
-        if: steps.channel.outputs.name == 'all'
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
-          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
-          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
-          YT_TOKEN_FINANZAS: ${{ secrets.YT_TOKEN_FINANZAS }}
-          YT_TOKEN_SALUD: ${{ secrets.YT_TOKEN_SALUD }}
-          YT_TOKEN_PRINCIPAL: ${{ secrets.YT_TOKEN_PRINCIPAL }}
-          YT_TOKEN_CATBROTHERS: ${{ secrets.YT_TOKEN_CATBROTHERS }}
-          YT_TOKEN_HOGARINTELIGENTE: ${{ secrets.YT_TOKEN_HOGARINTELIGENTE }}
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
-          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GH_MODELS_TOKEN }}
-        run: |
-          for channel in vida_sana_360 salud_longevidad finanzas_clara catbrothers hogarinteligente; do
-            echo "=== Running $channel ==="
-            python src/main.py --channel $channel || true
-            sleep $((RANDOM % 180 + 120))
-          done
+  all-channels:
+    if: ${{ inputs.channel == 'all' }}
+    strategy:
+      max-parallel: 1
+      matrix:
+        channel: [vida_sana_360, salud_longevidad, finanzas_clara, catbrothers, hogarinteligente]
+    uses: ./.github/workflows/video_engine.yml
+    with:
+      channel: ${{ matrix.channel }}
+    secrets: inherit

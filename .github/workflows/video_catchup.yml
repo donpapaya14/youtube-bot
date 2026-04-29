@@ -1,0 +1,73 @@
+name: "Video: Catch-up"
+
+on:
+  schedule:
+    - cron: '0 19 * * *'
+  workflow_dispatch:
+
+permissions:
+  actions: write
+
+jobs:
+  catchup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Check and dispatch missing videos
+        id: check
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          REPO="${{ github.repository }}"
+          TODAY=$(date -u +%Y-%m-%d)
+          TOTAL_MISSING=0
+          REPORT=""
+
+          count_success() {
+            gh run list --repo "$REPO" --workflow "$1" --limit 20 --json conclusion,createdAt \
+              --jq "[.[] | select(.createdAt >= \"${TODAY}T00:00:00Z\" and .conclusion == \"success\")] | length" 2>/dev/null || echo 0
+          }
+
+          check_and_dispatch() {
+            local WF="$1" LABEL="$2" EXPECTED="$3"
+            local GOT=$(count_success "$WF")
+            local NEED=$((EXPECTED - GOT))
+            if [ "$NEED" -gt 0 ]; then
+              REPORT="${REPORT}⚠ ${LABEL}: ${GOT}/${EXPECTED}\n"
+              TOTAL_MISSING=$((TOTAL_MISSING + NEED))
+              for i in $(seq 1 $NEED); do
+                echo "Dispatching $LABEL ($i/$NEED)..."
+                gh workflow run "$WF" --repo "$REPO" || true
+                sleep 60
+              done
+            else
+              REPORT="${REPORT}✓ ${LABEL}: ${GOT}/${EXPECTED}\n"
+            fi
+          }
+
+          check_and_dispatch video_vidasana.yml VidaSana360 2
+          check_and_dispatch video_salud.yml SaludLongevidad 2
+          check_and_dispatch video_finanzas.yml FinanzasClara 2
+          check_and_dispatch video_catbrothers.yml CatBrothers 3
+          check_and_dispatch video_hogar.yml HogarInteligente 3
+
+          echo -e "$REPORT"
+          echo "total_missing=$TOTAL_MISSING" >> $GITHUB_OUTPUT
+
+      - name: Telegram resumen
+        if: always()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          MISSING="${{ steps.check.outputs.total_missing }}"
+          if [ "${MISSING:-0}" = "0" ]; then
+            MSG="✅ <b>Catch-up 19:00</b> — 12/12 videos del día OK"
+          else
+            MSG="🔄 <b>Catch-up 19:00</b> — $MISSING videos faltaban, relanzados"
+          fi
+          curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            -d chat_id="${TELEGRAM_CHAT_ID}" \
+            -d parse_mode="HTML" \
+            -d text="$MSG" || true

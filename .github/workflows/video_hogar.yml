@@ -1,0 +1,15 @@
+name: "Video: HogarInteligente"
+
+on:
+  schedule:
+    - cron: '0 10 * * *'
+    - cron: '0 16 * * *'
+    - cron: '0 18 * * *'
+  workflow_dispatch:
+
+jobs:
+  video:
+    uses: ./.github/workflows/video_engine.yml
+    with:
+      channel: hogarinteligente
+    secrets: inherit
