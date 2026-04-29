@@ -14,7 +14,8 @@ from openai import OpenAI
 
 log = logging.getLogger(__name__)
 
-NVIDIA_MODEL = "deepseek-ai/deepseek-v4-flash"
+NVIDIA_FAST = "deepseek-ai/deepseek-v4-flash"
+NVIDIA_STABLE = "meta/llama-3.3-70b-instruct"
 GROQ_MODEL = "llama-3.3-70b-versatile"
 GITHUB_MODEL = "DeepSeek-V3-0324"
 
@@ -32,6 +33,7 @@ def _parse_json(text: str) -> dict:
 
 
 def _call_nvidia(prompt: str, temperature: float = 0.9) -> dict:
+    """NVIDIA: intenta v4-flash (rápido), si 504 → llama-3.3 (estable)."""
     key = os.getenv("NVIDIA_API_KEY")
     if not key:
         raise ValueError("NVIDIA_API_KEY no configurada")
@@ -41,8 +43,19 @@ def _call_nvidia(prompt: str, temperature: float = 0.9) -> dict:
         timeout=90.0,
         max_retries=0,
     )
+    try:
+        response = client.chat.completions.create(
+            model=NVIDIA_FAST,
+            messages=[{"role": "user", "content": prompt}],
+            temperature=temperature,
+            max_tokens=4096,
+        )
+        return _parse_json(response.choices[0].message.content)
+    except Exception as e:
+        log.warning("NVIDIA v4-flash: %s → probando llama-3.3", str(e)[:60])
+
     response = client.chat.completions.create(
-        model=NVIDIA_MODEL,
+        model=NVIDIA_STABLE,
         messages=[{"role": "user", "content": prompt}],
         temperature=temperature,
         max_tokens=4096,
