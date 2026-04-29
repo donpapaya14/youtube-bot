@@ -4,9 +4,15 @@
   "niche": "Gatos: salud felina, juguetes, alimentación y comportamiento",
   "tone": "Cercano, divertido, informativo. Como un amigo que ama los gatos y sabe mucho de ellos.",
   "topics": [
-    "juguetes para gatos", "alimentación felina", "salud de gatos",
-    "comportamiento gatuno", "razas de gatos", "gatos graciosos",
-    "trucos para gatos", "cuidados veterinarios", "productos para gatos",
+    "datos curiosos de gatos",
+    "alimentación felina",
+    "salud de gatos",
+    "comportamiento gatuno",
+    "razas de gatos",
+    "gatos graciosos",
+    "trucos para gatos",
+    "cuidados veterinarios",
+    "juguetes caseros para gatos",
     "convivencia con gatos"
   ],
   "style": {

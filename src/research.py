@@ -132,8 +132,10 @@ def _call_with_fallback(prompt: str, primary: str = "groq", temperature: float =
 CONTENT_FORMULAS = {
     "finanzas": [
         "Un truco de ahorro concreto con pasos exactos y cifras reales en euros",
-        "Una app gratuita REAL para gestionar dinero: nombre, cómo se usa, qué hace",
+        "Un dato curioso sobre dinero o economía que la mayoría no sabe, con fuente real",
         "Un error financiero específico que te cuesta X euros al año con ejemplo numérico",
+        "Una regla financiera famosa (50/30/20, regla del 72, etc.) explicada con ejemplo real del día a día",
+        "Un hábito de ahorro que practican millonarios reales con dato verificable de fuente seria",
     ],
     "legal": [
         "Un derecho del consumidor específico con artículo de ley y ejemplo de uso real",
@@ -177,11 +179,11 @@ CONTENT_FORMULAS["gatos"] = [
 ]
 
 CONTENT_FORMULAS["hogar"] = [
-    "Un gadget de cocina de Amazon que resuelve un problema concreto con nombre y precio real",
-    "Un truco de limpieza del hogar con producto específico de Amazon que funciona",
-    "Un gadget tech para el hogar por menos de 30 euros con nombre real y para qué sirve",
-    "Un electrodoméstico pequeño que ahorra tiempo: nombre real, precio, cómo funciona",
-    "Un producto de organización de Amazon para resolver el desorden en casa",
+    "Un truco de limpieza casero con ingredientes comunes (vinagre, bicarbonato, limón) y la ciencia de por qué funciona",
+    "Un dato curioso sobre el hogar que la mayoría no sabe, con fuente o estudio real",
+    "Un truco para ahorrar energía en casa con cifra real de cuánto ahorras al año en euros",
+    "Un hack de organización del hogar con método concreto y pasos numerados que puedes aplicar hoy",
+    "Un error doméstico común que te cuesta dinero o salud con dato verificable y solución práctica",
 ]
 
 CONTENT_FORMULAS["salud"].extend([
@@ -258,7 +260,7 @@ EJEMPLO BUENO (canal IA):
 Responde SOLO JSON:
 {{
   "title": "titulo SEO max 60 chars con 1 emoji",
-  "description": "descripcion 3 lineas con keywords, mencionar producto relevante de Amazon si aplica, y CTA.",
+  "description": "descripcion 3 lineas con keywords naturales y CTA al canal.",
   "tags": ["tag1", "tag2", "tag3", "tag4", "tag5", "tag6", "tag7", "tag8"],
   "segments": [
     {{"voice": "texto voz natural", "text": "RESUMEN corto", "duration": 3}},

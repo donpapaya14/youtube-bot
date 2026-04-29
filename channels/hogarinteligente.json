@@ -1,12 +1,19 @@
 {
   "name": "HogarInteligente",
   "handle": "@HogarInteligente",
-  "niche": "Gadgets, productos y tecnología para el hogar",
-  "tone": "Práctico, directo, como un amigo que prueba productos y te dice la verdad.",
+  "niche": "Tips, trucos y datos curiosos para el hogar",
+  "tone": "Práctico, directo, como un amigo que sabe trucos útiles para casa.",
   "topics": [
-    "gadgets de cocina", "robots aspirador", "domótica", "organización hogar",
-    "productos de limpieza", "smart home", "electrodomésticos", "Amazon finds",
-    "trucos hogar", "ahorro energético"
+    "trucos de limpieza caseros",
+    "ahorro energético en casa",
+    "organización inteligente",
+    "datos curiosos del hogar",
+    "errores comunes en casa",
+    "domótica básica",
+    "trucos de cocina",
+    "mantenimiento del hogar",
+    "reciclaje y sostenibilidad",
+    "hacks para espacios pequeños"
   ],
   "style": {
     "primary_color": "#1976D2",
