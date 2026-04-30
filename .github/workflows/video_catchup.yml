@@ -2,6 +2,7 @@ name: "Video: Catch-up"
 
 on:
   schedule:
+    - cron: '0 13 * * *'
     - cron: '0 19 * * *'
   workflow_dispatch:
 
@@ -21,8 +22,17 @@ jobs:
         run: |
           REPO="${{ github.repository }}"
           TODAY=$(date -u +%Y-%m-%d)
+          HOUR=$(date -u +%H)
           TOTAL_MISSING=0
           REPORT=""
+
+          # By 13:00: Vida①07 Salud①08 Cat①09 Hogar①10 Finanzas①11 Cat②12
+          # By 19:00: all 12 videos
+          if [ "$HOUR" -lt 15 ]; then
+            VIDA_EXP=1; SALUD_EXP=1; FINANZAS_EXP=1; CAT_EXP=2; HOGAR_EXP=1
+          else
+            VIDA_EXP=2; SALUD_EXP=2; FINANZAS_EXP=2; CAT_EXP=3; HOGAR_EXP=3
+          fi
 
           count_success() {
             gh run list --repo "$REPO" --workflow "$1" --limit 20 --json conclusion,createdAt \
@@ -46,14 +56,16 @@ jobs:
             fi
           }
 
-          check_and_dispatch video_vidasana.yml VidaSana360 2
-          check_and_dispatch video_salud.yml SaludLongevidad 2
-          check_and_dispatch video_finanzas.yml FinanzasClara 2
-          check_and_dispatch video_catbrothers.yml CatBrothers 3
-          check_and_dispatch video_hogar.yml HogarInteligente 3
+          check_and_dispatch video_vidasana.yml VidaSana360 $VIDA_EXP
+          check_and_dispatch video_salud.yml SaludLongevidad $SALUD_EXP
+          check_and_dispatch video_finanzas.yml FinanzasClara $FINANZAS_EXP
+          check_and_dispatch video_catbrothers.yml CatBrothers $CAT_EXP
+          check_and_dispatch video_hogar.yml HogarInteligente $HOGAR_EXP
 
+          TOTAL_EXP=$((VIDA_EXP + SALUD_EXP + FINANZAS_EXP + CAT_EXP + HOGAR_EXP))
           echo -e "$REPORT"
           echo "total_missing=$TOTAL_MISSING" >> $GITHUB_OUTPUT
+          echo "total_exp=$TOTAL_EXP" >> $GITHUB_OUTPUT
 
       - name: Telegram resumen
         if: always()
@@ -62,10 +74,13 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
           MISSING="${{ steps.check.outputs.total_missing }}"
+          TOTAL="${{ steps.check.outputs.total_exp }}"
+          HOUR=$(date -u +%H)
+          OK=$((TOTAL - MISSING))
           if [ "${MISSING:-0}" = "0" ]; then
-            MSG="✅ <b>Catch-up 19:00</b> — 12/12 videos del día OK"
+            MSG="✅ <b>Video Catch-up ${HOUR}:00</b> — ${OK}/${TOTAL} videos OK"
           else
-            MSG="🔄 <b>Catch-up 19:00</b> — $MISSING videos faltaban, relanzados"
+            MSG="🔄 <b>Video Catch-up ${HOUR}:00</b> — ${MISSING} videos faltaban, relanzados"
           fi
           curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
             -d chat_id="${TELEGRAM_CHAT_ID}" \
