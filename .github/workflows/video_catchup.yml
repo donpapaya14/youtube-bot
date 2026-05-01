@@ -3,7 +3,7 @@ name: "Video: Catch-up"
 on:
   schedule:
     - cron: '0 13 * * *'
-    - cron: '0 19 * * *'
+    - cron: '0 22 * * *'
   workflow_dispatch:
 
 permissions:
@@ -26,12 +26,12 @@ jobs:
           TOTAL_MISSING=0
           REPORT=""
 
-          # By 13:00: Vida①07 Salud①08 Cat①09 Hogar①10 Finanzas①11 Cat②12
-          # By 19:00: all 12 videos
+          # By 13:00: each channel should have ~2 videos
+          # By 22:00: each channel should have 5 videos
           if [ "$HOUR" -lt 15 ]; then
-            VIDA_EXP=1; SALUD_EXP=1; FINANZAS_EXP=1; CAT_EXP=2; HOGAR_EXP=1
+            VIDA_EXP=2; SALUD_EXP=2; FINANZAS_EXP=2; CAT_EXP=2; HOGAR_EXP=2
           else
-            VIDA_EXP=2; SALUD_EXP=2; FINANZAS_EXP=2; CAT_EXP=3; HOGAR_EXP=3
+            VIDA_EXP=5; SALUD_EXP=5; FINANZAS_EXP=5; CAT_EXP=5; HOGAR_EXP=5
           fi
 
           count_success() {
