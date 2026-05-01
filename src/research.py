@@ -193,15 +193,70 @@ CONTENT_FORMULAS["salud"].extend([
 ])
 
 
+def _get_recent_titles(channel: dict) -> list[str]:
+    """Obtiene títulos recientes del canal YouTube para evitar duplicados."""
+    try:
+        from google.oauth2.credentials import Credentials
+        from googleapiclient.discovery import build as yt_build
+
+        token_env = channel.get("refresh_token_env", "YOUTUBE_REFRESH_TOKEN")
+        refresh_token = os.getenv(token_env)
+        if not refresh_token:
+            log.warning("Sin refresh token para dedup, continuando sin historial")
+            return []
+
+        creds = Credentials(
+            token=None,
+            refresh_token=refresh_token,
+            token_uri="https://oauth2.googleapis.com/token",
+            client_id=os.getenv("YOUTUBE_CLIENT_ID"),
+            client_secret=os.getenv("YOUTUBE_CLIENT_SECRET"),
+            scopes=["https://www.googleapis.com/auth/youtube"],
+        )
+
+        youtube = yt_build("youtube", "v3", credentials=creds)
+
+        # Obtener playlist de uploads del canal
+        ch_resp = youtube.channels().list(part="contentDetails", mine=True).execute()
+        if not ch_resp.get("items"):
+            return []
+
+        uploads_id = ch_resp["items"][0]["contentDetails"]["relatedPlaylists"]["uploads"]
+
+        # Obtener últimos 30 videos
+        pl_resp = youtube.playlistItems().list(
+            part="snippet",
+            playlistId=uploads_id,
+            maxResults=30,
+        ).execute()
+
+        titles = [item["snippet"]["title"] for item in pl_resp.get("items", [])]
+        log.info("Dedup: %d títulos recientes obtenidos del canal", len(titles))
+        return titles
+    except Exception as e:
+        log.warning("Dedup: no se pudieron obtener títulos: %s", str(e)[:100])
+        return []
+
+
 def research_topic(channel: dict) -> dict:
     niche_key = NICHE_MAP.get(channel["name"], "ia")
     formulas = CONTENT_FORMULAS.get(niche_key, CONTENT_FORMULAS["ia"])
     formula = random.choice(formulas)
 
+    # Obtener títulos recientes para evitar duplicados
+    recent_titles = _get_recent_titles(channel)
+    if recent_titles:
+        avoid_str = "\n".join(f"- {t}" for t in recent_titles)
+    else:
+        avoid_str = "(sin historial disponible)"
+
     prompt = f"""Eres un guionista de YouTube Shorts educativos en español con 10M de seguidores.
 Canal: {channel['name']} | Nicho: {channel['niche']}
 
 CREA UN GUIÓN SOBRE: {formula}
+
+VIDEOS YA PUBLICADOS EN ESTE CANAL (NO REPITAS estos temas ni hagas variaciones similares):
+{avoid_str}
 
 REGLAS:
 - Todo REAL y VERIFICABLE. Nombres reales de herramientas, leyes, estudios
@@ -209,6 +264,7 @@ REGLAS:
 - Si mencionas un dato, da la CIFRA REAL
 - Si mencionas un estudio, di DE DÓNDE es
 - CERO relleno, CERO frases vacías
+- El tema DEBE ser diferente a todos los videos ya publicados
 
 Responde JSON:
 {{
