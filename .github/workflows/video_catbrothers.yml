@@ -1,12 +1,12 @@
 name: "Video: CatBrothers"
-
 on:
   schedule:
-    - cron: '0 9 * * *'
-    - cron: '0 12 * * *'
-    - cron: '0 17 * * *'
+    - cron: '30 8 * * *'
+    - cron: '30 11 * * *'
+    - cron: '30 14 * * *'
+    - cron: '30 17 * * *'
+    - cron: '30 20 * * *'
   workflow_dispatch:
-
 jobs:
   video:
     uses: ./.github/workflows/video_engine.yml
