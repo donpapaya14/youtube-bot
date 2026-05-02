@@ -1,0 +1,30 @@
+name: "Update Channel Descriptions"
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install google-api-python-client google-auth python-dotenv
+
+      - name: Update channel info
+        env:
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+          YT_TOKEN_CHILLORBIT: ${{ secrets.YT_TOKEN_CHILLORBIT }}
+          YT_TOKEN_CALMEARTH: ${{ secrets.YT_TOKEN_CALMEARTH }}
+          YT_TOKEN_DARKFILES: ${{ secrets.YT_TOKEN_DARKFILES }}
+        run: python src/update_channels.py

@@ -448,15 +448,16 @@ Respond JSON:
     voice_id = channel.get("voice", "en-US-GuyNeural")
     voiced = _generate_english_voice(script["segments"], work_dir, voice_id)
 
-    # 4. Descargar B-roll de Pexels
+    # 4. Descargar B-roll de Pexels (filtrar contenido sensible)
     log.info("Descargando B-roll...")
-    visuals = list({s.get("visual", "dark city night") for s in script["segments"]})
+    _BANNED_TERMS = {"covid", "coronavirus", "pandemic", "vaccine", "mask", "hospital patient", "icu", "ventilator"}
+    visuals = [s.get("visual", "dark city night") for s in script["segments"]]
+    visuals = list({v for v in visuals if not any(b in v.lower() for b in _BANNED_TERMS)})
     clips = _download_nature_clips(visuals[:8], work_dir, num_clips=15)
 
     if not clips:
-        # Fallback genérico
         clips = _download_nature_clips(
-            ["dark city night", "foggy forest", "detective office", "police lights", "old documents"],
+            ["dark city night", "foggy forest", "detective noir", "old typewriter documents", "abandoned building"],
             work_dir, num_clips=10,
         )
 
