@@ -93,7 +93,7 @@ def assemble_nature(
     duration_sec = duration_minutes * 60
     work_dir = tempfile.mkdtemp(prefix="ytbot_nature_")
 
-    # 1. Procesar clips a formato uniforme (1920x1080, 30fps)
+    # 1. Procesar clips a formato uniforme (1920x1080, 24fps, ultrafast)
     processed = []
     for i, clip in enumerate(clips):
         out = os.path.join(work_dir, f"proc_{i}.mp4")
@@ -103,16 +103,19 @@ def assemble_nature(
                 f"scale={WIDTH}:{HEIGHT}:force_original_aspect_ratio=increase,"
                 f"crop={WIDTH}:{HEIGHT},setsar=1"
             ),
-            "-c:v", "libx264", "-preset", "fast", "-crf", "22",
-            "-c:a", "aac", "-b:a", "128k", "-ar", "44100", "-ac", "2",
-            "-r", "30",
+            "-c:v", "libx264", "-preset", "ultrafast", "-crf", "26",
+            "-c:a", "aac", "-b:a", "96k", "-ar", "44100", "-ac", "2",
+            "-r", "24", "-t", "30",
             out,
         ]
-        result = subprocess.run(cmd, capture_output=True, text=True, timeout=120)
-        if result.returncode == 0:
-            processed.append(out)
-        else:
-            log.warning("Error procesando clip %d: %s", i, result.stderr[-100:])
+        try:
+            result = subprocess.run(cmd, capture_output=True, text=True, timeout=300)
+            if result.returncode == 0:
+                processed.append(out)
+            else:
+                log.warning("Error clip %d: %s", i, result.stderr[-80:])
+        except subprocess.TimeoutExpired:
+            log.warning("Timeout clip %d, saltando", i)
 
     if not processed:
         raise RuntimeError("No se pudo procesar ningún clip")
