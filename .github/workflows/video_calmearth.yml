@@ -1,0 +1,16 @@
+name: "Video: CalmEarth"
+
+on:
+  schedule:
+    # 3 videos/semana: Lunes, Miércoles, Viernes
+    - cron: '0 6 * * 1'   # Lunes 8:00 España
+    - cron: '0 6 * * 3'   # Miércoles 8:00 España
+    - cron: '0 6 * * 5'   # Viernes 8:00 España
+  workflow_dispatch:
+
+jobs:
+  video:
+    uses: ./.github/workflows/longform_engine.yml
+    with:
+      channel: calm_earth
+    secrets: inherit

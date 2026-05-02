@@ -1,0 +1,16 @@
+name: "Video: ChillOrbit"
+
+on:
+  schedule:
+    # 2 videos/semana: Lunes, Jueves
+    # (necesita tracks en assets/music/lofi/ — generados manualmente con MusicFX)
+    - cron: '0 18 * * 1'   # Lunes 20:00 España
+    - cron: '0 18 * * 4'   # Jueves 20:00 España
+  workflow_dispatch:
+
+jobs:
+  video:
+    uses: ./.github/workflows/longform_engine.yml
+    with:
+      channel: chill_orbit
+    secrets: inherit

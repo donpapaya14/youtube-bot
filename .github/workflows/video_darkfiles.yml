@@ -1,0 +1,16 @@
+name: "Video: DarkFiles"
+
+on:
+  schedule:
+    # 3 videos/semana: Martes, Jueves, Sábado
+    - cron: '0 14 * * 2'   # Martes 16:00 España
+    - cron: '0 14 * * 4'   # Jueves 16:00 España
+    - cron: '0 14 * * 6'   # Sábado 16:00 España
+  workflow_dispatch:
+
+jobs:
+  video:
+    uses: ./.github/workflows/longform_engine.yml
+    with:
+      channel: dark_files
+    secrets: inherit

@@ -1,0 +1,33 @@
+{
+  "name": "DarkFiles",
+  "handle": "@DarkFiles",
+  "type": "longform",
+  "content_type": "true_crime",
+  "language": "en",
+  "niche": "True crime stories, unsolved mysteries, and chilling cases",
+  "tone": "Serious, investigative, suspenseful — like a Netflix documentary narrator",
+  "duration_minutes": 12,
+  "format": "landscape",
+  "topics": [
+    "unsolved disappearances",
+    "famous heists gone wrong",
+    "cold cases reopened",
+    "mysterious deaths",
+    "criminal psychology",
+    "forensic breakthroughs",
+    "wrongful convictions",
+    "serial killer psychology",
+    "unexplained events",
+    "true crime investigations"
+  ],
+  "style": {
+    "primary_color": "#7F1D1D",
+    "secondary_color": "#1F2937",
+    "text_color": "#FFFFFF"
+  },
+  "voice": "en-US-GuyNeural",
+  "refresh_token_env": "YT_TOKEN_DARKFILES",
+  "category_id": "24",
+  "default_tags": ["true crime", "unsolved mysteries", "cold cases", "crime documentary", "mystery", "dark files", "criminal investigation"],
+  "thumbnail_style": "dark moody atmosphere, crime scene, noir detective, red accent lighting"
+}

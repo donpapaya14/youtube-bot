@@ -1,0 +1,32 @@
+{
+  "name": "CalmEarth",
+  "handle": "@CalmEarth",
+  "type": "longform",
+  "content_type": "nature_ambient",
+  "language": "en",
+  "niche": "Nature sounds and ambient videos for relaxation, sleep and meditation",
+  "tone": "Peaceful, immersive — no narration, pure nature",
+  "duration_minutes": 60,
+  "format": "landscape",
+  "topics": [
+    "rain sounds for sleeping",
+    "forest ambience",
+    "ocean waves relaxation",
+    "thunderstorm sounds",
+    "river stream sounds",
+    "birds singing morning",
+    "waterfall white noise",
+    "campfire crackling",
+    "wind through trees",
+    "night crickets sounds"
+  ],
+  "style": {
+    "primary_color": "#065F46",
+    "secondary_color": "#0D9488",
+    "text_color": "#FFFFFF"
+  },
+  "refresh_token_env": "YT_TOKEN_CALMEARTH",
+  "category_id": "10",
+  "default_tags": ["nature sounds", "ambient", "relaxation", "sleep sounds", "meditation", "white noise", "nature ambience", "ASMR nature"],
+  "thumbnail_style": "peaceful nature landscape, forest, mountains, soft light, cinematic"
+}
