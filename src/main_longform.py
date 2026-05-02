@@ -46,7 +46,7 @@ def load_channel(name: str) -> dict:
 # ============================================================
 
 def run_lofi(channel: dict, work_dir: str) -> dict:
-    """Genera video lo-fi: imagen Imagen4 + música de librería looped."""
+    """Genera video lo-fi: imagen Pexels + música local looped. 100% gratis."""
     project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     duration_min = channel.get("duration_minutes", 60)
 
@@ -54,7 +54,7 @@ def run_lofi(channel: dict, work_dir: str) -> dict:
     topic = random.choice(channel["topics"])
     log.info("Tema lo-fi: %s", topic)
 
-    # 2. Generar título y metadata con AI
+    # 2. Generar título y metadata con AI (gratis: Groq/GitHub/NVIDIA)
     metadata = _call_with_fallback(f"""Generate metadata for a lo-fi music YouTube video.
 Theme: {topic}
 
@@ -65,11 +65,11 @@ Respond JSON:
   "tags": ["tag1", "tag2", ..., "tag10"]
 }}""", primary="groq", temperature=0.9)
 
-    # 3. Generar imagen de fondo con Imagen 4
-    log.info("Generando imagen de fondo con Imagen 4...")
-    bg_image = _generate_background_image(topic, channel, work_dir)
+    # 3. Imagen de fondo: intenta Imagen 4 (gratis tier), fallback Pexels
+    log.info("Obteniendo imagen de fondo...")
+    bg_image = _get_background_image(topic, channel, work_dir)
 
-    # 4. Generar música con Lyria 3 Pro (o usar librería local si existe)
+    # 4. Música: librería local primero, Lyria gratis como fallback
     music_dir = os.path.join(project_root, "assets", "music", "lofi")
     music_files = [os.path.join(music_dir, f) for f in os.listdir(music_dir)
                    if f.endswith((".mp3", ".wav", ".ogg"))] if os.path.isdir(music_dir) else []
@@ -78,9 +78,8 @@ Respond JSON:
         music_track = random.choice(music_files)
         log.info("Track local: %s", os.path.basename(music_track))
     else:
-        log.info("Generando track con Lyria 3 Pro...")
-        music_track = _generate_lofi_track(topic, work_dir)
-        log.info("Track generado: %s", os.path.basename(music_track))
+        log.info("Sin tracks locales, intentando Lyria (tier gratis)...")
+        music_track = _generate_lofi_track_free(topic, work_dir)
 
     # 5. Ensamblar
     output_path = os.path.join(work_dir, "final_lofi.mp4")
@@ -100,20 +99,97 @@ Respond JSON:
     }
 
 
-def _generate_lofi_track(topic: str, work_dir: str) -> str:
-    """Genera track lo-fi con Lyria 3 Pro."""
+def _get_background_image(topic: str, channel: dict, work_dir: str) -> str:
+    """Intenta Imagen 4 (tier gratis), fallback a Pexels."""
+    # Intentar Imagen 4 primero (gratis hasta cierta cuota)
+    api_key = os.getenv("GEMINI_API_KEY")
+    if api_key:
+        try:
+            import requests as req
+            import base64
+            prompt = (
+                f"Anime aesthetic illustration for lo-fi music video background, "
+                f"theme: {topic}, cozy atmosphere, soft lighting, "
+                f"{channel.get('thumbnail_style', 'purple blue gradient, night sky')}, "
+                f"no text, no watermark, high quality, 4K wallpaper style"
+            )
+            resp = req.post(
+                "https://generativelanguage.googleapis.com/v1beta/models/imagen-4.0-generate-001:predict",
+                headers={"x-goog-api-key": api_key, "Content-Type": "application/json"},
+                json={"instances": [{"prompt": prompt}], "parameters": {"sampleCount": 1, "aspectRatio": "16:9"}},
+                timeout=120,
+            )
+            data = resp.json()
+            if "predictions" in data:
+                img_bytes = base64.b64decode(data["predictions"][0]["bytesBase64Encoded"])
+                path = os.path.join(work_dir, "background.png")
+                with open(path, "wb") as f:
+                    f.write(img_bytes)
+                log.info("Imagen 4 (gratis): %d KB", len(img_bytes) // 1024)
+                return path
+            log.warning("Imagen 4 sin cuota gratis, usando Pexels")
+        except Exception as e:
+            log.warning("Imagen 4 fallback: %s", str(e)[:80])
+
+    # Fallback: Pexels (siempre gratis)
+    return _download_pexels_image(topic, work_dir)
+
+
+def _download_pexels_image(topic: str, work_dir: str) -> str:
+    """Descarga imagen de fondo de Pexels (gratis)."""
+    import requests as req
+
+    api_key = os.getenv("PEXELS_API_KEY")
+    if not api_key:
+        raise RuntimeError("PEXELS_API_KEY necesaria")
+
+    search = f"{topic} aesthetic background"
+    resp = req.get(
+        "https://api.pexels.com/v1/search",
+        headers={"Authorization": api_key},
+        params={"query": search, "per_page": 15, "orientation": "landscape"},
+        timeout=30,
+    )
+    resp.raise_for_status()
+    photos = resp.json().get("photos", [])
+
+    if not photos:
+        resp = req.get(
+            "https://api.pexels.com/v1/search",
+            headers={"Authorization": api_key},
+            params={"query": "cozy night aesthetic", "per_page": 10, "orientation": "landscape"},
+            timeout=30,
+        )
+        resp.raise_for_status()
+        photos = resp.json().get("photos", [])
+
+    if not photos:
+        raise RuntimeError("No se encontraron imágenes en Pexels")
+
+    photo = random.choice(photos)
+    img_url = photo["src"]["large2x"]
+    dl = req.get(img_url, timeout=30)
+    dl.raise_for_status()
+    path = os.path.join(work_dir, "background.jpg")
+    with open(path, "wb") as f:
+        f.write(dl.content)
+    log.info("Imagen Pexels: %s (%d KB)", photo.get("alt", "")[:40], len(dl.content) // 1024)
+    return path
+
+
+def _generate_lofi_track_free(topic: str, work_dir: str) -> str:
+    """Genera track con Lyria (tier gratis). Falla si no hay cuota."""
     import base64
     import urllib.request
 
     api_key = os.getenv("GEMINI_API_KEY")
     if not api_key:
-        raise RuntimeError("GEMINI_API_KEY necesaria para Lyria")
+        raise RuntimeError("Sin tracks locales ni GEMINI_API_KEY. Pon MP3s en assets/music/lofi/")
 
     prompt = (
         f"lofi hip hop beat, {topic}, chill piano melody, vinyl crackle, "
         f"soft drums, warm analog sound, relaxing, study music"
     )
-
     body = json.dumps({
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {"responseModalities": ["audio"]},
@@ -130,50 +206,10 @@ def _generate_lofi_track(topic: str, work_dir: str) -> str:
             path = os.path.join(work_dir, "lofi_track.mp3")
             with open(path, "wb") as f:
                 f.write(audio)
-            log.info("Lyria track: %d KB", len(audio) // 1024)
+            log.info("Lyria track (gratis): %d KB", len(audio) // 1024)
             return path
 
-    raise RuntimeError("Lyria no devolvió audio")
-
-
-def _generate_background_image(topic: str, channel: dict, work_dir: str) -> str:
-    """Genera imagen aesthetic con Imagen 4."""
-    api_key = os.getenv("GEMINI_API_KEY")
-    if not api_key:
-        raise RuntimeError("GEMINI_API_KEY necesaria para generar imágenes")
-
-    import requests as req
-    import base64
-
-    prompt = (
-        f"Anime aesthetic illustration for lo-fi music video background, "
-        f"theme: {topic}, cozy atmosphere, soft lighting, "
-        f"{channel.get('thumbnail_style', 'purple blue gradient, night sky')}, "
-        f"no text, no watermark, high quality, 4K wallpaper style"
-    )
-
-    resp = req.post(
-        "https://generativelanguage.googleapis.com/v1beta/models/imagen-4.0-generate-001:predict",
-        headers={"x-goog-api-key": api_key, "Content-Type": "application/json"},
-        json={
-            "instances": [{"prompt": prompt}],
-            "parameters": {"sampleCount": 1, "aspectRatio": "16:9"},
-        },
-        timeout=120,
-    )
-    resp.raise_for_status()
-    data = resp.json()
-
-    if "error" in data:
-        raise RuntimeError(f"Imagen 4 error: {data['error']['message']}")
-
-    img_bytes = base64.b64decode(data["predictions"][0]["bytesBase64Encoded"])
-    img_path = os.path.join(work_dir, "background.png")
-    with open(img_path, "wb") as f:
-        f.write(img_bytes)
-
-    log.info("Imagen generada: %s (%d KB)", img_path, len(img_bytes) // 1024)
-    return img_path
+    raise RuntimeError("Lyria sin cuota gratis disponible")
 
 
 # ============================================================
@@ -213,14 +249,7 @@ Respond JSON:
 
     log.info("Clips descargados: %d", len(clips))
 
-    # 4. Generar thumbnail con Imagen 4
-    thumbnail = None
-    try:
-        thumbnail = _generate_nature_thumbnail(topic, channel, work_dir)
-    except Exception as e:
-        log.warning("No se pudo generar thumbnail: %s", e)
-
-    # 5. Ensamblar
+    # 4. Ensamblar (sin thumbnail de pago)
     output_path = os.path.join(work_dir, "final_nature.mp4")
     assemble_nature(
         clips=clips,
@@ -234,7 +263,6 @@ Respond JSON:
         "description": metadata["description"],
         "tags": channel.get("default_tags", []) + metadata.get("tags", []),
         "topic": topic,
-        "thumbnail": thumbnail,
     }
 
 
