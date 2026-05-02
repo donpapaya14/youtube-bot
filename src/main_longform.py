@@ -346,32 +346,56 @@ def run_truecrime(channel: dict, work_dir: str) -> dict:
     topic = random.choice(channel["topics"])
     log.info("Tema true crime: %s", topic)
 
-    # 2. Generar guión completo con AI
+    # 2. Generar guión completo con AI (con validación de longitud)
     log.info("Generando guión...")
-    script = _call_with_fallback(f"""You are a true crime documentary scriptwriter for YouTube.
-Write a compelling 10-minute narration script about: {topic}
+    script = None
+    for attempt in range(3):
+        script = _call_with_fallback(f"""You are a true crime documentary scriptwriter for YouTube.
+Write a LONG, detailed 12-minute narration script about: {topic}
 
-RULES:
+CRITICAL REQUIREMENTS:
+- You MUST write EXACTLY 25 segments. Not less. COUNT THEM.
+- Each segment MUST have 3-5 sentences of narration (50-80 words each)
+- Total narration must be 1500-2000 words minimum
 - Write in English
-- Start with a gripping hook
-- Use suspenseful, investigative tone like Netflix documentaries
-- Include real-sounding details (locations, dates, names)
-- Break into 15-20 segments for natural pauses
-- Each segment = 30-45 seconds of narration
-- End with a thought-provoking conclusion + subscribe CTA
+- Start with a gripping hook that makes viewers stay
+- Use suspenseful, investigative tone like Netflix true crime documentaries
+- Include specific details: real city names, dates, times, witness names
+- Build tension gradually — each segment reveals something new
+- Include plot twists, witness testimony, forensic evidence
+- End with an unsolved question or chilling conclusion + "Subscribe for more cases"
+
+STRUCTURE (25 segments):
+1-3: Hook + case introduction + victim background
+4-7: Events leading up to the crime
+8-12: The crime itself + immediate aftermath
+13-17: Investigation details + evidence + suspects
+18-22: Twists, new evidence, theories
+23-25: Current status + chilling conclusion + CTA
 
 Respond JSON:
 {{
   "title": "compelling title max 60 chars, dark/mysterious tone",
   "description": "YouTube description 3 lines with true crime keywords",
-  "tags": ["true crime", "mystery", "unsolved", ...8 more],
+  "tags": ["true crime", "mystery", "unsolved", "cold case", "crime documentary", "investigation", "dark files", "criminal", "detective", "forensic"],
   "case_name": "short case reference",
   "segments": [
-    {{"voice": "narration text for this segment", "visual": "B-roll description for Pexels search", "duration": 35}},
-    ...
+    {{"voice": "LONG narration text 3-5 sentences, 50-80 words", "visual": "B-roll description for Pexels search", "duration": 30}},
+    ... (EXACTLY 25 segments)
   ],
   "thumbnail_text": "2-3 word dramatic text for thumbnail"
 }}""", primary="github", temperature=0.7)
+
+        num_segs = len(script.get("segments", []))
+        total_words = sum(len(s.get("voice", "").split()) for s in script.get("segments", []))
+        log.info("Guión intento %d: %d segmentos, %d palabras", attempt + 1, num_segs, total_words)
+
+        if num_segs >= 15 and total_words >= 800:
+            break
+        log.warning("Guión muy corto, reintentando...")
+
+    if len(script.get("segments", [])) < 10:
+        raise RuntimeError(f"Guión demasiado corto: {len(script.get('segments', []))} segmentos")
 
     # 3. Generar voz en inglés con Edge TTS
     log.info("Generando voz inglés...")
