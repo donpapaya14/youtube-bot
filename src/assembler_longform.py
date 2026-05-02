@@ -17,9 +17,9 @@ WIDTH = 1920
 HEIGHT = 1080
 
 
-def _run_ffmpeg(cmd: list[str], timeout: int = 1800):
+def _run_ffmpeg(cmd: list[str], timeout: int = 3600):
     """Ejecuta FFmpeg con manejo de errores."""
-    log.info("FFmpeg: %s", " ".join(cmd[:6]) + "...")
+    log.info("FFmpeg: %s", " ".join(cmd[:8]) + "...")
     result = subprocess.run(cmd, capture_output=True, text=True, timeout=timeout)
     if result.returncode != 0:
         log.error("FFmpeg error: %s", result.stderr[-500:])
@@ -59,31 +59,24 @@ def assemble_lofi(
 
     log.info("Ensamblando lo-fi: %d min, track %.0fs (se loopea)", duration_minutes, music_dur)
 
-    # Zoom lento Ken Burns: zoom in y out cada 60 segundos
-    # zoompan: zoom de 1.0 a 1.15 en 1800 frames (60s a 30fps), luego reverse
-    video_filter = (
-        f"scale=8000:-1,"
-        f"zoompan=z='1.0+0.15*abs(sin(on/{30*60}*PI))'"
-        f":x='iw/2-(iw/zoom/2)+50*sin(on/{30*120}*PI)'"
-        f":y='ih/2-(ih/zoom/2)+30*cos(on/{30*90}*PI)'"
-        f":d={duration_sec*30}:s={WIDTH}x{HEIGHT}:fps=30"
-    )
-
+    # Imagen estática + música looped — sin zoompan pesado
+    # Usar framerate bajo (1fps) con imagen estática = encoding rapidísimo
     cmd = [
         "ffmpeg", "-y",
-        "-loop", "1", "-i", background_image,
+        "-loop", "1", "-framerate", "1", "-i", background_image,
         "-stream_loop", "-1", "-i", music_path,
-        "-vf", video_filter,
-        "-c:v", "libx264", "-preset", "medium", "-crf", "23",
+        "-vf", f"scale={WIDTH}:{HEIGHT}:force_original_aspect_ratio=decrease,pad={WIDTH}:{HEIGHT}:(ow-iw)/2:(oh-ih)/2",
+        "-c:v", "libx264", "-preset", "ultrafast", "-crf", "28",
+        "-tune", "stillimage",
         "-c:a", "aac", "-b:a", "192k",
         "-t", str(duration_sec),
-        "-shortest",
+        "-pix_fmt", "yuv420p",
         "-movflags", "+faststart",
-        "-r", "30",
+        "-r", "1",
         output_path,
     ]
 
-    _run_ffmpeg(cmd, timeout=duration_sec + 300)
+    _run_ffmpeg(cmd, timeout=900)
     log.info("Lo-fi video ensamblado: %s", output_path)
 
 
@@ -139,18 +132,18 @@ def assemble_nature(
                 if accumulated >= duration_sec:
                     break
 
-    # 4. Concatenar con crossfade suave entre clips
+    # 4. Concatenar clips
     cmd = [
         "ffmpeg", "-y",
         "-f", "concat", "-safe", "0", "-i", concat_list,
-        "-c:v", "libx264", "-preset", "medium", "-crf", "22",
+        "-c:v", "libx264", "-preset", "ultrafast", "-crf", "24",
         "-c:a", "aac", "-b:a", "128k",
         "-t", str(duration_sec),
         "-movflags", "+faststart",
         output_path,
     ]
 
-    _run_ffmpeg(cmd, timeout=duration_sec + 300)
+    _run_ffmpeg(cmd, timeout=3600)
     log.info("Nature video ensamblado: %s", output_path)
 
 
@@ -181,8 +174,8 @@ def assemble_truecrime(
                 f"scale={WIDTH}:{HEIGHT}:force_original_aspect_ratio=increase,"
                 f"crop={WIDTH}:{HEIGHT},setsar=1"
             ),
-            "-c:v", "libx264", "-preset", "fast", "-crf", "22",
-            "-an", "-r", "30",
+            "-c:v", "libx264", "-preset", "ultrafast", "-crf", "24",
+            "-an", "-r", "24",
             out,
         ]
         result = subprocess.run(cmd, capture_output=True, text=True, timeout=120)
@@ -207,12 +200,12 @@ def assemble_truecrime(
     cmd = [
         "ffmpeg", "-y",
         "-f", "concat", "-safe", "0", "-i", concat_list,
-        "-c:v", "libx264", "-preset", "fast", "-crf", "22",
-        "-an", "-r", "30",
+        "-c:v", "copy",
+        "-an",
         "-t", str(int(total_duration) + 3),
         bg_video,
     ]
-    _run_ffmpeg(cmd, timeout=600)
+    _run_ffmpeg(cmd, timeout=1800)
 
     # 4. Combinar video + voz
     cmd = [
@@ -225,7 +218,7 @@ def assemble_truecrime(
         "-movflags", "+faststart",
         output_path,
     ]
-    _run_ffmpeg(cmd, timeout=300)
+    _run_ffmpeg(cmd, timeout=600)
     log.info("True crime video ensamblado: %s (%.0fs)", output_path, total_duration)
 
 
