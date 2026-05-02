@@ -6,7 +6,7 @@
   "language": "en",
   "niche": "Lo-fi hip hop beats for studying, relaxing and sleeping",
   "tone": "Calm, ambient, no narration — pure music vibes",
-  "duration_minutes": 30,
+  "duration_minutes": 10,
   "format": "landscape",
   "topics": [
     "lofi hip hop radio",
@@ -25,7 +25,7 @@
     "secondary_color": "#3B82F6",
     "text_color": "#FFFFFF"
   },
-  "refresh_token_env": "YT_TOKEN_CHILLORBIT",
+  "refresh_token_env": "YT_TOKEN_DARKFILES",
   "category_id": "10",
   "default_tags": ["lofi", "lo-fi", "study music", "chill beats", "lofi hip hop", "relaxing music", "study beats", "lofi mix"],
   "thumbnail_style": "anime aesthetic, purple blue gradient, cozy room, headphones, night sky"
