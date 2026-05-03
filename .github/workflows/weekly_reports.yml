@@ -52,7 +52,7 @@ jobs:
           cache: 'pip'
 
       - name: Install dependencies
-        run: pip install python-dotenv requests
+        run: pip install python-dotenv requests google-api-python-client google-auth
 
       - name: Webs Report
         env:
