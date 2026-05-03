@@ -1,0 +1,62 @@
+name: "Weekly Reports"
+
+on:
+  schedule:
+    - cron: '0 9 * * 0'   # Domingo 11:00 España
+  workflow_dispatch:
+
+jobs:
+  youtube-report:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install google-api-python-client google-auth python-dotenv requests
+
+      - name: YouTube Report
+        env:
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+          YT_TOKEN_PRINCIPAL: ${{ secrets.YT_TOKEN_PRINCIPAL }}
+          YT_TOKEN_SALUD: ${{ secrets.YT_TOKEN_SALUD }}
+          YT_TOKEN_FINANZAS: ${{ secrets.YT_TOKEN_FINANZAS }}
+          YT_TOKEN_CATBROTHERS: ${{ secrets.YT_TOKEN_CATBROTHERS }}
+          YT_TOKEN_HOGARINTELIGENTE: ${{ secrets.YT_TOKEN_HOGARINTELIGENTE }}
+          YT_TOKEN_CHILLORBIT: ${{ secrets.YT_TOKEN_CHILLORBIT }}
+          YT_TOKEN_CALMEARTH: ${{ secrets.YT_TOKEN_CALMEARTH }}
+          YT_TOKEN_DARKFILES: ${{ secrets.YT_TOKEN_DARKFILES }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python src/weekly_report_youtube.py
+
+  webs-report:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install python-dotenv requests
+
+      - name: Webs Report
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GITHUB_TOKEN: ${{ secrets.GH_MODELS_TOKEN }}
+        run: python src/weekly_report_webs.py

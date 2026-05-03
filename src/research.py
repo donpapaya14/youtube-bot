@@ -243,6 +243,13 @@ def research_topic(channel: dict) -> dict:
     formulas = CONTENT_FORMULAS.get(niche_key, CONTENT_FORMULAS["ia"])
     formula = random.choice(formulas)
 
+    # Enriquecer con tendencias actuales
+    try:
+        from trending import enrich_prompt_with_trends
+        formula = enrich_prompt_with_trends(formula, niche_key)
+    except Exception as e:
+        log.warning("Trending no disponible: %s", str(e)[:60])
+
     # Obtener títulos recientes para evitar duplicados
     recent_titles = _get_recent_titles(channel)
     if recent_titles:
