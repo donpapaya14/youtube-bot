@@ -36,7 +36,7 @@ CHANNELS = [
 
 
 def get_channel_stats(token_env: str) -> dict | None:
-    """Obtiene estadísticas del canal."""
+    """Obtiene estadísticas del canal usando playlistItems (más fiable que search)."""
     refresh_token = os.getenv(token_env)
     if not refresh_token:
         return None
@@ -53,52 +53,64 @@ def get_channel_stats(token_env: str) -> dict | None:
         youtube = build("youtube", "v3", credentials=creds)
 
         # Stats del canal
-        ch = youtube.channels().list(part="statistics,snippet", mine=True).execute()
+        ch = youtube.channels().list(part="statistics,snippet,contentDetails", mine=True).execute()
         if not ch.get("items"):
             return None
 
         item = ch["items"][0]
         stats = item["statistics"]
 
-        # Videos recientes (última semana)
-        week_ago = (datetime.utcnow() - timedelta(days=7)).strftime("%Y-%m-%dT00:00:00Z")
-        search = youtube.search().list(
-            part="id",
-            forMine=True,
-            type="video",
-            publishedAfter=week_ago,
-            maxResults=50,
-        ).execute()
-        videos_this_week = search.get("pageInfo", {}).get("totalResults", 0)
-
-        # Top video de la semana (por views)
-        top_video = None
-        if search.get("items"):
-            video_ids = [v["id"]["videoId"] for v in search["items"][:10]]
-            vids = youtube.videos().list(
-                part="statistics,snippet",
-                id=",".join(video_ids),
-            ).execute()
-
-            best = None
-            for v in vids.get("items", []):
-                views = int(v["statistics"].get("viewCount", 0))
-                if not best or views > best["views"]:
-                    best = {
-                        "title": v["snippet"]["title"][:50],
-                        "views": views,
-                        "id": v["id"],
-                    }
-            top_video = best
-
-        return {
+        result = {
             "channel_name": item["snippet"]["title"],
             "subscribers": int(stats.get("subscriberCount", 0)),
             "total_views": int(stats.get("viewCount", 0)),
             "total_videos": int(stats.get("videoCount", 0)),
-            "videos_this_week": videos_this_week,
-            "top_video": top_video,
+            "videos_this_week": 0,
+            "top_video": None,
         }
+
+        # Videos recientes via playlistItems (uploads playlist)
+        try:
+            uploads_id = item["contentDetails"]["relatedPlaylists"]["uploads"]
+            week_ago = datetime.utcnow() - timedelta(days=7)
+
+            pl_resp = youtube.playlistItems().list(
+                part="snippet",
+                playlistId=uploads_id,
+                maxResults=50,
+            ).execute()
+
+            recent_ids = []
+            for vi in pl_resp.get("items", []):
+                pub = vi["snippet"].get("publishedAt", "")
+                if pub:
+                    pub_dt = datetime.strptime(pub[:19], "%Y-%m-%dT%H:%M:%S")
+                    if pub_dt >= week_ago:
+                        recent_ids.append(vi["snippet"]["resourceId"]["videoId"])
+
+            result["videos_this_week"] = len(recent_ids)
+
+            # Top video de la semana
+            if recent_ids:
+                vids = youtube.videos().list(
+                    part="statistics,snippet",
+                    id=",".join(recent_ids[:10]),
+                ).execute()
+
+                best = None
+                for v in vids.get("items", []):
+                    views = int(v["statistics"].get("viewCount", 0))
+                    if not best or views > best["views"]:
+                        best = {
+                            "title": v["snippet"]["title"][:50],
+                            "views": views,
+                            "id": v["id"],
+                        }
+                result["top_video"] = best
+        except Exception as e:
+            log.warning("Error obteniendo videos recientes: %s", str(e)[:100])
+
+        return result
 
     except Exception as e:
         log.error("Error obteniendo stats: %s", str(e)[:100])
