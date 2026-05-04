@@ -688,7 +688,7 @@ Responde JSON:
 
 
 def _load_prewritten_script(channel: dict) -> dict | None:
-    """Carga un guión pre-escrito del directorio scripts/ si hay disponibles."""
+    """Carga un guión pre-escrito no usado, comprobando contra títulos de YouTube."""
     project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
     # Mapear nombre de canal a directorio de scripts
@@ -697,6 +697,8 @@ def _load_prewritten_script(channel: dict) -> dict | None:
         "CatBrothers": "catbrothers",
         "FinanzasClara": "finanzas_clara",
         "DarkFiles": "dark_files",
+        "DisasterDecode": "disaster_decode",
+        "MindWired": "mind_wired",
     }
     dir_name = name_map.get(channel["name"], channel["name"].lower())
     scripts_dir = os.path.join(project_root, "scripts", dir_name)
@@ -704,35 +706,33 @@ def _load_prewritten_script(channel: dict) -> dict | None:
     if not os.path.isdir(scripts_dir):
         return None
 
-    # Buscar scripts JSON no usados
-    used_file = os.path.join(scripts_dir, ".used")
-    used = set()
-    if os.path.exists(used_file):
-        with open(used_file) as f:
-            used = set(f.read().strip().split("\n"))
+    # Obtener títulos recientes de YouTube para evitar duplicados
+    recent_titles = []
+    try:
+        from research import _get_recent_titles
+        recent_titles = _get_recent_titles(channel)
+    except Exception as e:
+        log.warning("No se pudieron obtener títulos recientes: %s", str(e)[:100])
+    recent_lower = {t.lower().strip() for t in recent_titles}
 
-    available = [
-        f for f in sorted(os.listdir(scripts_dir))
-        if f.endswith(".json") and f not in used
-    ]
+    # Recorrer scripts disponibles, saltar los que ya están en YouTube
+    all_scripts = sorted(f for f in os.listdir(scripts_dir) if f.endswith(".json"))
 
-    if not available:
-        log.info("Sin guiones pre-escritos disponibles para %s, usando AI", channel["name"])
-        return None
+    for script_file in all_scripts:
+        path = os.path.join(scripts_dir, script_file)
+        with open(path) as f:
+            script = json.load(f)
 
-    # Usar el primero disponible y marcarlo como usado
-    script_file = available[0]
-    path = os.path.join(scripts_dir, script_file)
+        title = script.get("title", "").lower().strip()
+        if title in recent_lower:
+            log.info("Script %s ya subido ('%s'), saltando", script_file, script.get("title", "?"))
+            continue
 
-    with open(path) as f:
-        script = json.load(f)
+        log.info("Guión pre-escrito cargado: %s (%d segmentos)", script_file, len(script.get("segments", [])))
+        return script
 
-    # Marcar como usado
-    with open(used_file, "a") as f:
-        f.write(script_file + "\n")
-
-    log.info("Guión pre-escrito cargado: %s (%d segmentos)", script_file, len(script.get("segments", [])))
-    return script
+    log.info("Todos los guiones pre-escritos ya subidos para %s, usando AI", channel["name"])
+    return None
 
 
 def _generate_educational_thumbnail(script: dict, channel: dict, work_dir: str) -> str:
