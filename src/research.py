@@ -154,10 +154,15 @@ CONTENT_FORMULAS = {
         "Un prompt EXACTO (palabra por palabra) para ChatGPT que resuelve un problema concreto del día a día",
         "Una función oculta de ChatGPT, Gemini o Claude que casi nadie conoce con instrucciones exactas",
     ],
-    "salud": [
-        "Un hallazgo científico de una universidad real con nombre del estudio y dato medible",
-        "Una rutina de 5 minutos con pasos numerados y beneficio demostrado por ciencia",
-        "Un alimento específico con beneficio concreto respaldado por estudio real",
+    "salud_longevidad": [
+        "Un hallazgo científico sobre longevidad de una universidad real con nombre del estudio y dato medible",
+        "Un hábito diario que extiende la esperanza de vida con estudio real y cifra concreta",
+        "Un biomarcador de envejecimiento que puedes medir y mejorar con datos científicos",
+    ],
+    "salud_bienestar": [
+        "Una rutina de bienestar de 5 minutos con pasos numerados y beneficio demostrado por ciencia",
+        "Un alimento específico con beneficio concreto respaldado por estudio real de nutrición",
+        "Un hábito matutino que mejora tu energía todo el día con explicación neurocientífica",
     ],
     "negocio": [
         "Un caso de éxito real: persona o empresa que logró X con método específico y cifras",
@@ -170,9 +175,9 @@ NICHE_MAP = {
     "FinanzasClara": "finanzas",
     "MenteLegal": "legal",
     "IAExplica": "ia",
-    "SaludLongevidad": "salud",
+    "SaludLongevidad": "salud_longevidad",
     "MentePróspera": "negocio",
-    "VidaSana360": "salud",
+    "VidaSana360": "salud_bienestar",
     "CatBrothers": "gatos",
     "HogarInteligente": "hogar",
 }
@@ -193,7 +198,13 @@ CONTENT_FORMULAS["hogar"] = [
     "Un error doméstico común que te cuesta dinero o salud con dato verificable y solución práctica",
 ]
 
-CONTENT_FORMULAS["salud"].extend([
+CONTENT_FORMULAS["salud_longevidad"].extend([
+    "Un suplemento con evidencia real de beneficio en longevidad con dosis y estudio publicado",
+    "Un error común que acorta la vida con dato estadístico y alternativa saludable respaldada",
+    "Un descubrimiento reciente sobre envejecimiento celular con nombre de investigadores y universidad",
+])
+
+CONTENT_FORMULAS["salud_bienestar"].extend([
     "Un truco de pérdida de peso respaldado por un estudio real con nombre de universidad y cifra concreta",
     "Un error de dieta muy común con explicación científica de por qué NO funciona y qué hacer en su lugar",
     "Un ejercicio específico que quema más calorías que correr con datos medibles de un estudio real",
@@ -253,6 +264,12 @@ CHANNEL_TOPICS_MAP = {
     "FinanzasClara": "finanzasclara.json",
 }
 
+# Canales que comparten nicho — cross-channel dedup
+SIBLING_CHANNELS = {
+    "VidaSana360": {"name": "SaludLongevidad", "refresh_token_env": "YT_TOKEN_SALUD"},
+    "SaludLongevidad": {"name": "VidaSana360", "refresh_token_env": "YT_TOKEN_PRINCIPAL"},
+}
+
 
 def _load_prewritten_topic(channel: dict) -> dict | None:
     """Carga un tema pre-escrito del banco, marcándolo como usado."""
@@ -283,8 +300,14 @@ def _load_prewritten_topic(channel: dict) -> dict | None:
             with open(used_file) as f:
                 used_ids = {int(x.strip()) for x in f.read().strip().split("\n") if x.strip()}
 
-        # Obtener títulos recientes para dedup extra
+        # Obtener títulos recientes para dedup extra (propio + hermanos)
         recent_titles = _get_recent_titles(channel)
+        sibling = SIBLING_CHANNELS.get(channel["name"])
+        if sibling:
+            try:
+                recent_titles.extend(_get_recent_titles(sibling))
+            except Exception:
+                pass
         recent_lower = {t.lower() for t in recent_titles}
 
         # Filtrar disponibles
@@ -337,8 +360,16 @@ def research_topic(channel: dict) -> dict:
     except Exception as e:
         log.warning("Trending no disponible: %s", str(e)[:60])
 
-    # Obtener títulos recientes para evitar duplicados
+    # Obtener títulos recientes para evitar duplicados (propio + canales hermanos)
     recent_titles = _get_recent_titles(channel)
+    sibling = SIBLING_CHANNELS.get(channel["name"])
+    if sibling:
+        try:
+            sibling_titles = _get_recent_titles(sibling)
+            recent_titles.extend(sibling_titles)
+            log.info("Cross-dedup: +%d títulos de %s", len(sibling_titles), sibling["name"])
+        except Exception as e:
+            log.warning("Cross-dedup falló para %s: %s", sibling["name"], str(e)[:60])
     if recent_titles:
         avoid_str = "\n".join(f"- {t}" for t in recent_titles)
     else:
@@ -349,7 +380,7 @@ Canal: {channel['name']} | Nicho: {channel['niche']}
 
 CREA UN GUIÓN SOBRE: {formula}
 
-VIDEOS YA PUBLICADOS EN ESTE CANAL (NO REPITAS estos temas ni hagas variaciones similares):
+VIDEOS YA PUBLICADOS EN ESTE CANAL Y CANALES HERMANOS (NO REPITAS estos temas ni hagas variaciones similares):
 {avoid_str}
 
 REGLAS:
