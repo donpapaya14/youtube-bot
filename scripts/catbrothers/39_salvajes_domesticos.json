@@ -1,0 +1,98 @@
+{
+  "title": "Gatos Salvajes vs Domésticos: ADN 99.95% Igual",
+  "description": "¿Cuál es la diferencia entre un gato salvaje y uno doméstico? Solo el 0.05% del ADN. Descubre cómo 10,000 años de domesticación cambiaron apenas 12 genes. La evolución de Felis catus.",
+  "tags": ["gatos salvajes", "domesticación", "evolución", "ADN", "genética", "diferencia", "comportamiento", "historia", "selección natural", "arqueología", "ciencia", "domesticación animal"],
+  "segments": [
+    {
+      "voice": "Parecería que hay un abismo enorme entre un gato doméstico cómodo en un sofá y un gato salvaje cazando en la naturaleza. Pero la verdad genética es sorprendente: su ADN es 99.95% idéntico.",
+      "visual": "wild cat domestic cat comparison",
+      "duration": 23
+    },
+    {
+      "voice": "Los científicos han secuenciado completamente el genoma del gato doméstico y lo han comparado con sus ancestros salvajes del Cercano Oriente, el gato montés africano.",
+      "visual": "African wildcat ancestor",
+      "duration": 22
+    },
+    {
+      "voice": "El gato doméstico, Felis catus, evolucionó del gato montés africano, Felis silvestris lybica, hace aproximadamente 10,000 años. Este fue un proceso gradual de domesticación, no de domesticación intencional como con perros.",
+      "visual": "timeline domestication history",
+      "duration": 24
+    },
+    {
+      "voice": "Los antiguos humanos no buscaban domesticar gatos. Los gatos simplemente se acercaron a los asentamientos humanos porque había roedores comiendo grano. Los gatos menos miedosos recibían tolerancia, incluso comida.",
+      "visual": "ancient settlement agriculture",
+      "duration": 24
+    },
+    {
+      "voice": "Este proceso de auto-domesticación fue lento. Solo los gatos con temperamento más dócil y menos asustado sobrevivían y se reproducían cerca de humanos. Después de miles de años, esto cambió la población.",
+      "visual": "natural selection process",
+      "duration": 24
+    },
+    {
+      "voice": "Un estudio de la Universidad de Estocolmo analizó 22 genes que diferenciaban gatos domésticos de salvajes. El 99.95% de su ADN es idéntico. Las diferencias están en menos de 50 genes.",
+      "visual": "genetic DNA analysis",
+      "duration": 24
+    },
+    {
+      "voice": "Estos genes afectan principalmente a comportamientos relacionados con el miedo, la agresión y el reconocimiento social. Por ejemplo, uno de los genes modifica la respuesta al estrés.",
+      "visual": "stress response behavior gene",
+      "duration": 23
+    },
+    {
+      "voice": "El gen ADRA2B regula la adrenalina y está mutado en gatos domésticos. Esto reduce su respuesta de miedo al estrés comparado con gatos salvajes.",
+      "visual": "adrenaline stress hormone",
+      "duration": 22
+    },
+    {
+      "voice": "Sorprendentemente, la domesticación también cambió características físicas. Los gatos domésticos tienen orejas más pequeñas, caras más cortas, y colas más cortas que los gatos salvajes.",
+      "visual": "cat physical traits features",
+      "duration": 23
+    },
+    {
+      "voice": "Este fenómeno se llama 'síndrome de domesticación'. Cambios en genes de comportamiento afectaron inadvertidamente la morfología física.",
+      "visual": "morphology shape development",
+      "duration": 22
+    },
+    {
+      "voice": "Los gatos salvajes son expertos cazadores con reflejos rápidos y músculos bien desarrollados. Los gatos domésticos han perdido algo de esta precisión, aunque mantienen el instinto de caza.",
+      "visual": "hunting instinct predator",
+      "duration": 22
+    },
+    {
+      "voice": "Un hallazgo interesante: los gatos salvajes pueden ser tamed, pero no son verdaderamente domesticados. La domesticación requiere generaciones de selección, no solo entrenamiento.",
+      "visual": "tamed wild cat training",
+      "duration": 23
+    },
+    {
+      "voice": "Un experimento clásico en Rusia crianza selectiva de zorros domésticos mostró que el comportamiento dócil estaba vinculado a cambios genéticos rápidos.",
+      "visual": "Russian fox domestication",
+      "duration": 22
+    },
+    {
+      "voice": "Aunque los gatos domésticos comparten 99.95% de ADN con sus ancestros salvajes, ese 0.05% de diferencia resulta en un comportamiento completamente diferente.",
+      "visual": "behavior difference domestication",
+      "duration": 23
+    },
+    {
+      "voice": "Los gatos salvajes africanos son solitarios, territoriales, y evitan el contacto humano. Los gatos domésticos son sociales, viven en grupos, y buscan interacción con humanos.",
+      "visual": "social interaction humans",
+      "duration": 23
+    },
+    {
+      "voice": "Interesantemente, si dejas un gato doméstico sin contacto humano durante varias generaciones en estado salvaje, NO volverá automáticamente al comportamiento salvaje. La domesticación es robusta genéticamente.",
+      "visual": "feral cat wild behavior",
+      "duration": 24
+    },
+    {
+      "voice": "Los gatos ferales, que son descendientes de gatos domésticos, nunca pueden ser completamente domesticados si crecen sin humanos. Pero su ADN sigue siendo 99.95% idéntico al de gatos domésticos.",
+      "visual": "feral cat wild offspring",
+      "duration": 23
+    },
+    {
+      "voice": "En conclusión, los gatos son un ejemplo extraordinario de cómo cambios pequeños en la base genética pueden producir cambios profundos en comportamiento. De salvaje a mascota en 10,000 años y 0.05% de ADN diferente.",
+      "visual": "gato domestication legacy",
+      "duration": 23
+    }
+  ],
+  "thumbnail_text": "99.95% IGUALES"
+}

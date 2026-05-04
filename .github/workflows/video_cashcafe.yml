@@ -1,0 +1,18 @@
+name: "Video: CashCafe (Long-Form)"
+
+on:
+  schedule:
+    # 5 videos/semana: Lun-Vie 18:00 UTC (20:00 España, prime time USA)
+    - cron: '0 18 * * 1'
+    - cron: '0 18 * * 2'
+    - cron: '0 18 * * 3'
+    - cron: '0 18 * * 4'
+    - cron: '0 18 * * 5'
+  workflow_dispatch:
+
+jobs:
+  video:
+    uses: ./.github/workflows/longform_engine.yml
+    with:
+      channel: cash_cafe
+    secrets: inherit

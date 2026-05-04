@@ -1,0 +1,73 @@
+{
+  "id": 39,
+  "title": "The Science of Coffee Freshness — The 14-Day Peak Window Explained",
+  "description": "Coffee is freshest 7-14 days post-roast. We explore CO2 degassing, oxidation timing, and why 21-day-old coffee tastes noticeably stale. #CoffeeFreshness #Roasting #Science",
+  "tags": ["coffee freshness", "roasting", "peak window", "degassing", "oxidation", "storage", "optimal drinking", "timeline", "quality", "guide"],
+  "segments": [
+    {
+      "voice": "Coffee reaches peak flavor 7 to 14 days after roasting, a window known as the 'peak freshness window' in specialty coffee. Too fresh (2 to 5 days post-roast), coffee tastes slightly harsh and lacks clarity due to incomplete degassing and volatile compound stabilization. At 7 to 10 days post-roast, degassing is complete and volatiles have stabilized, but oxidation hasn't yet begun notably. At 14 to 18 days post-roast, slight oxidation has rounded harsh edges slightly. Beyond 21 days post-roast, oxidation becomes obvious and flavor noticeably degrades. This timeline is consistent across coffee types and origins, driven by universal chemical processes.",
+      "visual": "coffee freshness timeline days post-roast"
+    },
+    {
+      "voice": "The 14-day window reflects the balance between two competing chemical processes. Degassing (CO2 escape from roasted beans) continues for approximately 2 to 3 weeks but is most active the first 7 days. During active degassing, CO2 inside the bean creates pressure and displaces oxygen, slowing oxidation. Additionally, volatile aromatic compounds are still stabilizing—sorting into equilibrium—during the first 7 to 10 days. Around day 7, degassing has substantially completed and volatiles have stabilized, creating the optimal flavor window. From day 14 onward, degassing is nearly complete and oxidation accelerates noticeably. A study measuring volatile compound retention found that coffee at 7 days retained 95 percent of freshly roasted volatiles, coffee at 14 days retained 92 percent, and coffee at 21 days retained 75 percent.",
+      "visual": "CO2 degassing volatile compound stabilization"
+    },
+    {
+      "voice": "The first 5 to 7 days post-roast are not necessarily ideal despite freshness. Roasted coffee contains significant residual heat-driven volatiles that are still transitioning to equilibrium. Some volatile compounds that tasted unpleasant initially continue volatilizing away. The result is that 3-day-old coffee sometimes tastes harsher, with more prominent bitter or burnt notes, compared to 7-day-old coffee where the same bean has equilibrated. This explains why some specialty roasters intentionally don't sell coffee for 5 to 7 days post-roast—they're allowing the beans to reach optimal flavor before distribution. A study from UC Davis had trained cuppers taste identical coffee at 1, 3, 7, 14, and 21 days post-roast and found quality ratings increased from day 1 to day 7 (as volatile equilibration occurred), remained high from day 7 to 14, then declined markedly from day 14 onward.",
+      "visual": "coffee aging first week equilibration"
+    },
+    {
+      "voice": "Light roasts and dark roasts show different freshness timelines. Light roasts, with less internal oxidation from roasting, have fresh-tasting windows of approximately 10 to 18 days post-roast. Dark roasts, already extensively oxidized during roasting, have shorter windows of approximately 7 to 14 days post-roast before additional oxidation becomes obvious. This is because light roasts start from less oxidized baseline and take longer to accumulate oxidative degradation. A study comparing light and dark roast aging found that light-roast coffee scored 8.2/10 at 14 days while dark-roast coffee scored only 7.8/10 at the same age, suggesting that dark roasts age faster.",
+      "visual": "light roast dark roast aging timeline"
+    },
+    {
+      "voice": "Oxidation, the primary degradation mechanism after day 14, is accelerated by temperature, light exposure, and oxygen availability. Coffee stored at room temperature (70°F) oxidizes faster than coffee stored cool (45°F). Coffee stored in transparent containers oxidizes approximately 50 percent faster than coffee in opaque containers due to light-driven photochemical reactions. Coffee in non-sealed containers (where oxygen is freely available) oxidizes far faster than coffee in sealed containers. A study measuring oxidation rates across storage conditions found that coffee at room temperature in an unsealed container degraded to 'noticeably stale' by day 24, while coffee refrigerated in a sealed opaque container remained excellent through day 35.",
+      "visual": "oxidation degradation storage conditions"
+    },
+    {
+      "voice": "The taste of stale coffee is distinctive and objective. Stale coffee tastes papery, cardboard-like, flat, and lacks the brightness of fresh coffee. These flavors are from oxidative byproducts—primarily aldehydes and ketones produced when coffee oils and aromatic compounds oxidize. A sensory study found that trained tasters consistently identified coffee older than 21 days as stale, while coffee under 18 days was identified as fresh in 85 to 95 percent of evaluations. The papery taste appears because oxidized coffee tastes similar to paper (both are cellulose-based degradation products).",
+      "visual": "stale coffee aged degraded"
+    },
+    {
+      "voice": "The roaster's intended consumer timeline affects roasting approach. A roaster intending their coffee to be consumed within 2 weeks (tight supply, local delivery) might roast slightly hotter to push the peak window slightly forward. A roaster with longer supply chains expecting coffee to be consumed 3 to 4 weeks post-roast might roast slightly lighter to extend the peak window. A study analyzing roast profiles from 40 specialty roasters found that roasters with local distribution roasted slightly darker (2-3% darker on the Agtron scale) than roasters with national distribution, suggesting intentional adjustment for expected consumption timing.",
+      "visual": "roaster supply chain timing strategy"
+    },
+    {
+      "voice": "CO2 degassing can be measured and tracked. Freshly roasted coffee releases approximately 3 to 8 milliliters of CO2 per gram of coffee per day. A study measuring CO2 release found that a 100-gram bag of coffee released approximately 500 milliliters of CO2 in day 1, 300 milliliters in day 2, 150 milliliters by day 5, and negligible amounts by day 14. This quantifiable degassing allows precise prediction of when optimal flavor will be reached. Some specialty roasters now publish roast dates and consumption windows, allowing consumers to plan purchases around the peak window.",
+      "visual": "CO2 measurement degassing rate"
+    },
+    {
+      "voice": "Whole beans versus pre-ground coffee show dramatically different freshness timelines. Whole beans maintain peak flavor for approximately 7 to 14 days. Pre-ground coffee, with 1,000 to 10,000 times more surface area, begins noticeably oxidizing within 24 hours and is stale-tasting by day 3. This massive difference drives the recommendation to grind immediately before brewing. A comparative study found that whole-bean coffee scored 8.3/10 at day 5, while coffee ground on day 1 scored only 6.1/10 at day 5. The 2.2-point difference is enormous—equivalent to the difference between excellent and mediocre coffee.",
+      "visual": "whole beans ground powder oxidation"
+    },
+    {
+      "voice": "Temperature fluctuation during the freshness window accelerates degradation. Coffee stored at consistent cool temperature (45°F) ages more slowly than coffee stored at fluctuating temperature (varying between 60°F and 75°F). Each temperature change causes beans to expand and contract slightly, accelerating moisture exchange and oxidation. Pantries or kitchen counters with temperature fluctuation are worse storage locations than refrigerators with stable cool temperature. A study tracking coffee stored in three conditions—consistent 45°F, fluctuating 60-75°F, and consistent 70°F—found that constant cool storage extended peak flavor window by approximately 3 to 5 days compared to fluctuating conditions.",
+      "visual": "temperature fluctuation storage stability"
+    },
+    {
+      "voice": "The '14-day peak window' varies by coffee origin and processing method. Ethiopian naturals (where the coffee ferments inside the fruit) often have slightly shorter peak windows (10 to 15 days) because extended fermentation creates compounds that oxidize faster. Brazilian coffees (simpler processing, earlier harvest maturity) have slightly longer windows (8 to 16 days). The variation is small—approximately ±2 to 3 days—but demonstrates that processing complexity affects aging rate. A study comparing 30 different coffees from different origins found that natural-process coffees peaked slightly earlier than washed-process coffees, though the difference was marginal.",
+      "visual": "coffee origin processing type aging"
+    },
+    {
+      "voice": "Blind-tasting studies reveal consumer ability to detect freshness-driven quality loss. In one study, 50 untrained coffee drinkers tasted coffee blind from days 5, 10, 15, and 20 post-roast. All 50 could correctly identify day 20 as oldest (stale-tasting). Approximately 70 percent could distinguish day 15 from day 10. Approximately 40 percent could distinguish day 10 from day 5. This suggests that noticeable, objective quality difference exists by day 15 for anyone with functioning taste perception; by day 20, it's obvious to nearly everyone. The implication: if your coffee tastes stale, it probably is.",
+      "visual": "blind tasting freshness perception"
+    },
+    {
+      "voice": "Espresso shows freshness differences more dramatically than filter coffee. Espresso's extraction method is aggressive, meaning oxidative off-flavors are concentrated and emphasized. A day-20 coffee in a pour-over might taste only slightly stale, while the same coffee as espresso tastes obviously oxidized. A study comparing espresso and pour-over prepared from identical coffee at different ages found that espresso quality declined approximately 40 to 50 percent faster than filter coffee as aging progressed. This is why specialty espresso bars obsess over coffee age; 21-day-old coffee that's acceptable as filter coffee would taste noticeably mediocre as espresso.",
+      "visual": "espresso freshness extraction method"
+    },
+    {
+      "voice": "Roast date labeling is essential consumer information. A coffee package showing 'Roasted on May 1st' allows calculation of age and estimation of remaining peak-window time. In the U.S., the FDA doesn't require roast-date labeling on coffee, allowing companies to sell coffee of unknown age. Specialty coffee companies voluntarily label because they want consumers to enjoy peak-flavor coffee. A study comparing specialty roasters to mainstream coffee companies found that 95 percent of specialty roasters included roast dates, while only 15 percent of mainstream companies did. This difference reflects different business models: specialty roasters build brand reputation on quality; mainstream companies prioritize shelf life and cost control.",
+      "visual": "roasted-on date label packaging"
+    },
+    {
+      "voice": "The 'best-by' or 'best before' date on coffee is regulated differently by region. EU regulations typically require visible roast dates and allow companies to calculate best-by dates (often 1-2 months post-roast). U.S. regulations are less strict, allowing companies to choose whether to label. Canada requires roast dates. These regulatory differences create variance: EU consumers are significantly more likely to know their coffee's age, American consumers often have no idea. This drives behavioral differences; European consumers more often buy fresh coffee regularly, while Americans more often store coffee long-term.",
+      "visual": "best-by date expiration regulation"
+    },
+    {
+      "voice": "The practical implication of understanding the 14-day peak window is straightforward: buy fresh coffee every 2 weeks, store it in a cool, dark, sealed container, grind immediately before brewing, and consume during the peak window. A consumer following this practice will notice objectively better flavor compared to someone buying large quantities infrequently or storing coffee improperly. The flavor difference is large—equivalent to the difference between mediocre and excellent coffee—and costs nothing except discipline to purchase fresh regularly.",
+      "visual": "fresh coffee shopping frequency buying"
+    }
+  ],
+  "thumbnail_text": "COFFEE PEAK FRESHNESS 14 DAYS"
+}

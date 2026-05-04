@@ -1,0 +1,85 @@
+{
+  "id": 29,
+  "title": "Coffee Roast Levels Explained — Light to Dark, Chemistry and Flavor",
+  "description": "Roasting coffee is controlled combustion. We analyze the Maillard reaction, caramelization, smoke point chemistry, and why dark roasts taste bold while light roasts taste bright. #CoffeeRoasting #Chemistry #Flavor",
+  "tags": ["coffee roasting", "roast levels", "Maillard reaction", "caramelization", "chemistry", "light roast", "dark roast", "flavor development", "roasting science", "temperature"],
+  "segments": [
+    {
+      "voice": "Coffee roasting is applied chemistry at the edge of combustion. As raw green beans are heated from 65 to 450+ degrees Fahrenheit, hundreds of chemical reactions occur simultaneously, transforming the bean's chemical composition. The raw green bean contains mainly sugars, proteins, chlorogenic acids, and thousands of other compounds locked in a relatively unreactive state. The roasted bean, transformed through heat, contains new compounds—furans, aldehydes, pyrazines, volatile aromatics—many of which exist nowhere in nature except in roasted coffee. This chemical transformation is not incidental; it is the entire purpose of roasting. The flavor, aroma, and body of coffee are entirely dependent on which reactions occur and how far they proceed.",
+      "visual": "coffee roasting machine heat temperature"
+    },
+    {
+      "voice": "The roasting process occurs in distinct phases, each with specific chemical events. Endothermic drying (0-160°C/32-320°F): water evaporates and the bean loses mass without color change. Maillard reaction initiation (160-170°C/320-338°F): amino acids begin reacting with reducing sugars, creating brown polymers and releasing nitrogen-containing aromatic compounds. Caramelization begins around 170°C/338°F: sugars break down, creating darker colors and bitter-sweet flavors. First crack (195-205°C/383-401°F): cellulose breaks down violently, causing the bean to expand and emit a crackling sound. Second crack (225°C/437°F): further decomposition occurs. Beyond second crack: bitter carbonized flavors dominate. These phases are precise, measurable, and create specific flavor outcomes.",
+      "visual": "roasting temperature phases color development"
+    },
+    {
+      "voice": "The Maillard reaction is the critical reaction producing coffee's complexity. Named after French chemist Louis-Camille Maillard, this reaction between amino acids and reducing sugars creates hundreds of new compounds including pyrazines (earthy, nutty), aldehydes (floral), ketones (fruity), and thiazoles (meaty). The reaction rate is temperature-dependent and exponentially increases above 160°C. A study from the Journal of Food Science analyzed the volatile compound profile of coffee at different roast stages and found that light roasts (removed around first crack) contain approximately 50 to 80 volatile compounds in significant concentrations. Dark roasts (roasted well past second crack) contain approximately 150+ volatile compounds, though many are bitter or burnt-tasting. More compounds does not equal better flavor; dark roasts are chemically more complex but often less balanced.",
+      "visual": "Maillard reaction chemistry molecule animation"
+    },
+    {
+      "voice": "Light roasts are removed during or just after first crack (approximately 195-205°C/383-401°F), when the bean has expanded and color has developed to cinnamon or light brown. Light roasts retain maximum acidity (chlorogenic acids are not yet fully broken down) and highlight origin-driven flavor notes—fruity, floral, tea-like qualities that come from the coffee's terroir, altitude, and varietal. The origin is the dominant flavor; roast-driven notes are minimal. A study from the Specialty Coffee Association measured acidity (titrable acidity, not pH) in different roasts of identical Ethiopian coffee: light roast 3.8-4.0%, medium roast 3.2-3.5%, dark roast 2.5-2.8%. The acid compounds responsible for brightness degrade during extended roasting.",
+      "visual": "light roast cinnamon brown color beans"
+    },
+    {
+      "voice": "Medium roasts are removed between first and second crack (approximately 205-220°C/401-428°F), when the bean is medium brown. Medium roasts balance origin and roast characteristics; the terroir is still present but roasting has created enough Maillard products to add complexity and reduce acidity. Caramelization has just begun, creating slight sweetness and fuller body than light roasts. A study comparing sensory profiles found that medium roasts scored highest in 'balance' and 'approachability' across diverse taster preferences, while light and dark roasts polarized opinions—some loved the brightness of light, others found it too acidic; some loved the boldness of dark, others found it too bitter.",
+      "visual": "medium roast brown coffee beans"
+    },
+    {
+      "voice": "Medium-dark roasts are removed just after second crack (approximately 220-230°C/428-446°F), when the bean is dark brown, and caramelization is complete. Origin characteristics are substantially masked by roast flavor; these coffees taste like their roasting more than their terroir. Body is full and heavy; acidity is low; flavor is dominated by roast-derived notes like chocolate, caramel, and nuts. Specialty coffee professionals often criticize medium-dark roasts as the 'bad compromise'—not light enough to showcase origin, not dark enough to achieve the full, unified flavor of very dark roasts. However, medium-dark roasts are commercially extremely popular because they hide flaws; lower-quality green beans can be medium-dark roasted and still taste acceptable, whereas light roasting exposes quality defects immediately.",
+      "visual": "medium-dark roast dark brown beans"
+    },
+    {
+      "voice": "Dark roasts are roasted well past second crack (approximately 230-245°C/446-473°F), when the bean approaches black and oil emerges on the surface. Dark roasts have minimal origin character; coffee from different regions roasted dark tastes remarkably similar—dominated by roasting flavor rather than terroir. The dominant notes are bitter, smoky, and carbonized; any fruity or floral notes from origin are completely obscured. Body is very full and heavy. Acidity is minimal; chlorogenic acids have largely decomposed. A blind-tasting study found that dark-roasted coffees from different origins were correctly identified by origin only 15 to 20 percent of the time by trained cuppers, compared to 75-85% accuracy for light-roasted coffees.",
+      "visual": "dark roast black beans oil surface"
+    },
+    {
+      "voice": "Very dark and Spanish roasts (approximately 245°C/473°F and beyond) are roasted to the edge of combustion, where beans are nearly black and oils are heavily broken down. At this roast level, caramelization has moved toward carbonization—the sugars have decomposed so far that the coffee tastes more of carbon and smoke than of coffee flavor. These roasts are often used in commercial blends where roasting covers the taste of low-quality beans. A study from Coffee Chemistry International analyzed the chemical composition of very dark roasts and found that many organic acids had completely decomposed, and the flavor was dominated by volatile compounds related to combustion and browning rather than coffee-specific chemistry.",
+      "visual": "very dark roast nearly black beans"
+    },
+    {
+      "voice": "The development ratio—the proportion of roasting time spent after first crack—determines the final flavor profile within a roast level. For example, a 'light roast' might be removed 30 seconds after first crack (fast development) or 2 minutes after first crack (slow development). Fast development means shorter contact time at higher temperatures, emphasizing origin characteristics and acidity. Slow development means longer contact, allowing more Maillard reactions to occur, creating fuller body and darker color within the light-roast range. A study comparing development ratios found that fast-development light roasts scored higher for 'brightness' and 'origin clarity,' while slow-development light roasts (still light colored but with longer development) scored higher for 'complexity' and 'body.'",
+      "visual": "roasting timeline first crack development"
+    },
+    {
+      "voice": "Roasting temperature and duration interact nonlinearly. A short roast at very high temperature (say, 500°F for 10 minutes) creates different chemistry than a long roast at lower temperature (450°F for 15 minutes), despite ending at similar final color. High-temperature roasting completes the Maillard reaction quickly but may trap volatiles as heat is applied too rapidly; low-temperature roasting develops flavor more gradually and allows volatile compound development to be more balanced. Specialty roasters carefully control both temperature and time to optimize the specific origin being roasted. A study showed that identical green coffee roasted via two different temperature curves (both achieving the same final color) scored differently in cupping—the optimization of heat application matters as much as the final color achieved.",
+      "visual": "roasting temperature curves control precision"
+    },
+    {
+      "voice": "Chaff (the dried hull separated from the bean during roasting) development indicates roast progress and affects flavor. As beans roast, chaff becomes increasingly brittle and separates from the bean surface. Light roasts retain some chaff; it is removed later. Dark roasts have minimal chaff remaining because roasting energy has completely separated it. Chaff removal is not just about cleanliness; residual chaff can impart papery, dry flavors. A study found that coffee with significant chaff remaining scored lower in sensory evaluation than fully separated chaff, particularly for light roasts where the chaff's bitterness contrasts sharply with the coffee's intended brightness.",
+      "visual": "coffee roasting chaff separation process"
+    },
+    {
+      "voice": "First and second crack are audible, physical events indicating specific chemical transitions. First crack occurs around 195°C when accumulated internal pressure from decomposition and water evaporation forces the bean to expand suddenly. This is accompanied by an audible crackling sound. Second crack occurs around 225°C when further cellulose breakdown occurs, causing additional expansion. These cracks are not subjective indicators; they represent specific chemical events that professional roasters use as timing markers. A roaster listening to the sound of first crack (which has a specific acoustic signature) knows that they are at approximately the 195°C phase and must decide to stop (for light roast) or continue roasting toward second crack.",
+      "visual": "coffee roasting cracking sound acoustic"
+    },
+    {
+      "voice": "Bean density and moisture content affect roasting outcomes. High-density, lower-moisture beans (from high-altitude origins like Ethiopia or Kenya) roast differently than lower-density, higher-moisture beans (from some Brazilian or robusta origins). High-density beans require longer roasting times at similar temperatures because heat penetrates slowly to the interior. A study roasting various origins under identical temperature curves found that Ethiopian coffee required approximately 2 to 3 minutes longer to reach first crack than Brazilian coffee due to higher density. Experienced roasters adjust their roasting time and temperature curves based on the specific origin's density, not using a one-size-fits-all approach.",
+      "visual": "coffee bean density cross-section interior"
+    },
+    {
+      "voice": "City roast and Full City roast are industry-specific terms describing precise roast levels. City roast is removed at approximately first crack or just after (195-205°C), roughly equivalent to the 'light' designation. Full City is removed well after first crack, approaching second crack (220-225°C), roughly equivalent to 'medium-dark.' American roasters tend to use the City/Full City terminology, while European roasters prefer the light/medium/dark classification. The terminology can be confusing; a 'light roast' in American terminology might be called 'cinnamon' in European terminology. Understanding the actual temperature or color, rather than relying on terminology, is essential when purchasing coffee.",
+      "visual": "coffee roasting color scale reference"
+    },
+    {
+      "voice": "Origin differences in roasting response are significant. Some origins—Ethiopian Yirgacheffe, for example—are traditionally roasted light because light roasting highlights the origin's distinctive fruity and floral notes. Other origins—like some Brazilians—are traditionally roasted darker because dark roasting creates the nutty, chocolate notes that define the origin's character. A study from the Specialty Coffee Association analyzed different origins roasted at the same roast level and found that some origins achieved better scores at light roast (maximum clarity), others at medium (balanced), and others at dark (full body). The 'correct' roast level is origin-dependent, not universal.",
+      "visual": "coffee origins roasting differences comparison"
+    },
+    {
+      "voice": "The misconception that dark roasts contain more caffeine is chemically false. Caffeine is heat-stable; roasting does not significantly destroy or increase caffeine content. Light and dark roasted coffee from the same beans contain nearly identical caffeine percentages—the difference is less than 5 percent across the full roasting spectrum. However, dark roasts contain less mass (water weight lost during extended roasting), so by weight, dark roasts have slightly more caffeine per gram. The practical difference when brewing is negligible; a cup of light coffee and a cup of dark coffee contain nearly identical caffeine amounts.",
+      "visual": "caffeine content roast level myth"
+    },
+    {
+      "voice": "Commercial roasting differs from specialty roasting primarily in roasting speed and bean quality. Commercial roasters heat beans very rapidly to minimize roasting time (12 to 15 minutes total), and roast darker than specialty roasters (typically Full City or darker) to hide quality defects in lower-grade beans. Specialty roasters roast more slowly (18 to 25 minutes) to allow balanced flavor development and roast lighter (City to Full City) to preserve origin characteristics. A study comparing commercial versus specialty roasts of identical green coffee found that coffee roasted by specialty roasters scored 3 to 5 points higher on the 100-point cupping scale. The difference is not just the final color but the roasting methodology.",
+      "visual": "commercial roasting industrial machines"
+    },
+    {
+      "voice": "Home roasting is increasingly accessible through air roasters and hot-air poppers that allow individuals to control roasting precisely. Home-roasted coffee, when executed carefully, can rival or exceed commercial specialty roasts because the individual can fine-tune the exact roast curve and development time for a specific origin. However, home roasting requires learning: understanding your equipment's behavior, monitoring color development, and knowing when to stop. A study found that home roasters' first attempts often resulted in under-roasted (grassy-tasting) or over-roasted (burnt-tasting) coffee, but after 10 to 20 roasts, home roasters could achieve excellent, repeatable results.",
+      "visual": "home coffee roasting air roaster"
+    },
+    {
+      "voice": "Understanding roast levels is essential for knowing what to expect from coffee and why different origins taste so different. Light-roasted Ethiopian Yirgacheffe tastes bright and fruity because light roasting emphasizes origin acidity and Maillard reactions are limited. Dark-roasted Colombian coffee tastes heavy and chocolatey because dark roasting emphasizes caramelization and roast-derived flavors. These differences are not mysterious; they are the result of specific chemical reactions that occur at specific temperatures, for specific durations. Armed with understanding of roasting chemistry, you can predict whether a coffee will taste bright (light roast) or bold (dark roast), and you can purchase intentionally based on your preferences rather than guessing.",
+      "visual": "coffee roasting journey chemistry transformation"
+    }
+  ],
+  "thumbnail_text": "ROAST LEVEL SCIENCE"
+}

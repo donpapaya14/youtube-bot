@@ -1,0 +1,103 @@
+{
+  "title": "Lenguaje Corporal Felino: Orejas, Cola y Postura Explicados",
+  "description": "Aprende a leer los gestos de tu gato. Las orejas rotadas indican miedo, la cola erguida significa confianza. Descubre lo que cada posición corporal comunica. Guía científica para entender el comportamiento silencioso del gato.",
+  "tags": ["lenguaje corporal", "comunicación gatos", "comportamiento", "orejas", "cola", "postura", "señales", "interpretación", "psicología animal", "etología", "gatos", "entender"],
+  "segments": [
+    {
+      "voice": "Los gatos no hablan con palabras, pero su cuerpo es un libro abierto. Cada oreja, cada movimiento de cola, cada inclinación de cabeza comunica algo. Aprender a leer estos signos es clave para entender a tu gato.",
+      "visual": "cat body language face",
+      "duration": 22
+    },
+    {
+      "voice": "Comencemos con las orejas. Las orejas de un gato son controladas por 32 músculos diferentes, lo que les permite rotar de forma independiente hasta 180 grados.",
+      "visual": "cat ears rotated alert",
+      "duration": 22
+    },
+    {
+      "voice": "Cuando las orejas están erguidas y hacia adelante, el gato está atento, curioso o interesado. Está enfocando su atención en algo específico, probablemente una presa potencial o un sonido interesante.",
+      "visual": "cat alert focused ears",
+      "duration": 22
+    },
+    {
+      "voice": "Las orejas hacia los lados generalmente indican incertidumbre o preocupación. El gato está dividido entre explorar y protegerse a sí mismo. No es amenaza, pero tampoco confianza total.",
+      "visual": "cat unsure cautious ears",
+      "duration": 22
+    },
+    {
+      "voice": "Las orejas aplastadas hacia atrás son una señal de miedo o agresión. Si las orejas se cierran completamente contra la cabeza, el gato está muy asustado o extremadamente enojado.",
+      "visual": "angry cat ears back aggressive",
+      "duration": 23
+    },
+    {
+      "voice": "Ahora la cola, quizás la parte más expresiva del cuerpo felino. Una cola erguida y recta, como una antena, indica confianza total. El gato se siente seguro y feliz.",
+      "visual": "happy cat straight tail up",
+      "duration": 22
+    },
+    {
+      "voice": "Una cola ligeramente curvada al final es un signo de amabilidad. El gato está contento pero alerta. Esta posición es común cuando un gato te saluda por la mañana.",
+      "visual": "friendly cat greeting happy",
+      "duration": 22
+    },
+    {
+      "voice": "Una cola puffed up o erizada es un signo de miedo o sorpresa. El gato intenta parecer más grande para intimidar a un agresor potencial.",
+      "visual": "scared cat puffy tail",
+      "duration": 21
+    },
+    {
+      "voice": "Una cola baja y entre las patas indica miedo extremo. El gato está aterrado y se está haciendo lo más pequeño posible.",
+      "visual": "frightened cat tail between legs",
+      "duration": 22
+    },
+    {
+      "voice": "Un movimiento rápido de lado a lado de la cola indica irritación o enfado. Si el movimiento se acelera, la agresión es inminente.",
+      "visual": "angry cat tail swishing",
+      "duration": 22
+    },
+    {
+      "voice": "Un movimiento lento y deliberado de la cola significa concentración. Un gato cazando movería su cola así mientras acecha a su presa.",
+      "visual": "cat stalking hunting focused",
+      "duration": 22
+    },
+    {
+      "voice": "Un movimiento de cola circular o enrollado es un signo de afecto. El gato está feliz y cómodo. Frecuentemente, la cola se enreda alrededor de ti o de un objeto que ama.",
+      "visual": "affectionate cat tail wrap",
+      "duration": 22
+    },
+    {
+      "voice": "Ahora, la postura general del cuerpo. Un gato que se estira completamente, con la barriga hacia arriba, está mostrando máxima confianza. La barriga es la zona más vulnerable.",
+      "visual": "cat stretching belly exposed",
+      "duration": 23
+    },
+    {
+      "voice": "Sin embargo, no siempre significa que puedas tocar su barriga. Algunos gatos mostrarán su barriga como invitación, otros como advertencia de que si los tocas, te atacarán.",
+      "visual": "cat defensive belly exposure",
+      "duration": 23
+    },
+    {
+      "voice": "Un gato encorvado en forma de 'C' con la cabeza baja está asustado o sumiso. Está minimizando su tamaño y su apariencia amenazante.",
+      "visual": "scared cat crouching low",
+      "duration": 22
+    },
+    {
+      "voice": "Un gato arqueado como un arco, con el lomo elevado, está asustado pero listo para pelear. Esta postura hace que el gato parezca más grande y más amenazante.",
+      "visual": "scared aggressive cat arched",
+      "duration": 22
+    },
+    {
+      "voice": "Un gato que se siente contigo frecuentemente se acurrucará, formando un círculo compacto. Esto es un signo de máxima comodidad y confianza.",
+      "visual": "cat curled up sleeping cozy",
+      "duration": 22
+    },
+    {
+      "voice": "Un estudio de la Universidad de Lincoln encontró que los gatos pueden interpretar la expresión facial humana y ajustar su comportamiento en consecuencia. La comunicación entre gatos y humanos es bidireccional.",
+      "visual": "human cat interaction bonding",
+      "duration": 24
+    },
+    {
+      "voice": "En conclusión, el lenguaje corporal felino es complejo y sutil. Entender estas señales te permite conectar más profundamente con tu gato y prevenir conflictos innecesarios.",
+      "visual": "peaceful cat understanding content",
+      "duration": 22
+    }
+  ],
+  "thumbnail_text": "LEE A TU GATO"
+}
