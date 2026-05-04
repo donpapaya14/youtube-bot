@@ -1,0 +1,89 @@
+{
+  "id": 8,
+  "title": "Hyatt Regency Walkway: A Design Change No One Checked",
+  "description": "On July 17, 1981, two suspended walkways collapsed in the atrium of the Hyatt Regency Hotel in Kansas City, killing 114 people — the deadliest structural collapse in US history at the time. The cause was a single design change made during construction — a change that doubled the load on a critical connection — and no one ran the structural calculations to verify it. This documentary is the full investigation of one small drawing change and its catastrophic consequences. #HyattRegency #WalkwayCollapse #EngineeringFailure #DisasterDecode",
+  "tags": ["Hyatt Regency", "walkway collapse", "Kansas City", "structural failure", "engineering failure", "design change", "construction disaster", "civil engineering", "structural engineering", "disaster documentary", "disaster decode"],
+  "thumbnail_text": "ONE CHANGE. 114 DEAD.",
+  "segments": [
+    {
+      "voice": "On the evening of July 17, 1981, the atrium of the Hyatt Regency Hotel in Kansas City was filled with approximately 1,600 people. A tea dance was underway — a regular Friday evening event that had become popular in the newly opened hotel. Three suspended walkways crossed the atrium at the second, third, and fourth floor levels. The second and fourth floor walkways were stacked directly above one another, connected by a pair of steel rods that ran through their support beams. At 7:05 PM, those connections failed. Both walkways collapsed simultaneously onto the crowd below. 114 people died. More than 200 were injured.",
+      "visual": "hotel atrium interior architecture glass ceiling"
+    },
+    {
+      "voice": "The Hyatt Regency Kansas City had opened in July 1980, just under a year before the disaster. The hotel was an architectural showpiece — its soaring atrium, suspended walkways, and dramatic interior were designed to impress. The project had been complicated from the start. During construction in 1979, a portion of the atrium roof had collapsed, fortunately without casualties. This incident prompted some design reviews but did not trigger a comprehensive re-examination of the structural systems, including the walkways.",
+      "visual": "modern hotel atrium lobby architecture suspended"
+    },
+    {
+      "voice": "The structural engineer of record was G.C.E. International. The steel fabricator was Havens Steel Company. During the shop drawing process — the translation of the engineer's design drawings into fabrication specifications — a change was proposed to the rod hanger connection on the walkways. In the original design, a single continuous rod ran from the ceiling through both the fourth and second floor walkways. In the revised design, two separate rods were used: one from the ceiling to the fourth floor beam, and another from the fourth floor beam down to the second floor beam.",
+      "visual": "engineering drawing blueprint technical architectural"
+    },
+    {
+      "voice": "This seems like a minor change. In practical terms, it eliminated the need to thread a single very long rod through multiple connection points — which would have been difficult to fabricate and install. But the structural implication of this change was profound. In the original design, the fourth floor beam connection carried only the load from the fourth floor walkway. In the revised design, the fourth floor beam connection had to carry the load of both the fourth and second floor walkways simultaneously. The load at that connection was effectively doubled.",
+      "visual": "structural diagram force load connection beam"
+    },
+    {
+      "voice": "The revised design — with this doubled load at the fourth floor hanger connection — was never subjected to a full structural load calculation. G.C.E. International later stated that the shop drawing change had been communicated to their office by telephone and had been approved without a complete re-analysis. The fabricator submitted the revised shop drawings. A G.C.E. engineer initialed them. The calculation that would have revealed the doubled load and found it failed the applicable building code by a factor of approximately two — that calculation was never performed.",
+      "visual": "engineering approval signature documents desk review"
+    },
+    {
+      "voice": "The connection in question was a box beam — a hollow rectangular steel section — and a hanger rod. The rod passed through a hole in the beam and was secured by a nut and washer on the bottom. This connection type transfers load from the beam to the rod at a concentrated point. When the washer and nut bear the combined weight of two walkways, the load is concentrated on a small area of the beam's lower flange. The Kansas City building code at the time — based on standard structural steel specifications — set a maximum load for this type of connection. Under the revised design, the actual load exceeded that limit by approximately 60 percent, even before accounting for the dynamic loads from a crowded, dancing floor.",
+      "visual": "steel beam connection bolt washer engineering close-up"
+    },
+    {
+      "voice": "When the walkways fell on July 17, they carried the weight of approximately 40 people who were standing on them watching the dancers below. The fourth floor walkway held about 40 people; the second floor directly below had a similar crowd. The dynamic loads from dancing and movement on the floor below may have contributed to the timing, but the connection had been structurally inadequate since the day it was built. It was a slow failure waiting for its moment — and a tea dance provided enough load and vibration to trigger it.",
+      "visual": "crowd people dancing event ballroom hotel party"
+    },
+    {
+      "voice": "The collapses were nearly simultaneous. The fourth floor walkway gave way first. Because the second floor walkway was hung from the fourth floor walkway's hanger, both collapsed essentially together, falling to the lobby below. Eyewitnesses described a sudden, tremendous sound, then concrete dust and darkness. The rescue operation that followed involved hundreds of firefighters, police, and medical personnel working through the night to extract survivors from beneath the debris. The scene was described by first responders as unlike anything they had previously encountered.",
+      "visual": "rescue workers emergency response disaster structural collapse"
+    },
+    {
+      "voice": "The investigation was conducted by the National Bureau of Standards — now NIST — and a team of expert structural engineers. Their findings were methodical and devastating. The box beam connection had failed first by a process called punching shear: the rod and washer had pulled through the bottom flange of the steel box beam. Once the fourth floor hanger began to fail, the sequence was extremely rapid. The investigators were able to reconstruct the precise failure mechanism with high confidence from physical evidence and structural analysis.",
+      "visual": "structural engineer investigation analysis laboratory testing"
+    },
+    {
+      "voice": "The Missouri Board of Architects, Professional Engineers, Land Surveyors and Landscape Architects conducted disciplinary hearings. In 1985, it revoked the licenses of two G.C.E. engineers — Daniel Duncan and Jack Gillum. The finding was gross negligence in failing to properly review the shop drawing change and perform the necessary calculations. It was the first such license revocation in Missouri's history. Gillum, the principal engineer of record, maintained for years that he had not been directly responsible for the shop drawing review.",
+      "visual": "professional license board engineering disciplinary hearing"
+    },
+    {
+      "voice": "The case raised fundamental questions about the shop drawing review process. In construction engineering practice, shop drawings are prepared by fabricators and submitted to the engineer of record for review. The engineer's review is not a re-engineering of the design from scratch — it is a check for conformance with the design intent. The critical question the Hyatt case forced the profession to answer was: when a fabricator proposes a design change in a shop drawing, who is responsible for analyzing whether that change alters the structural behavior?",
+      "visual": "construction shop drawings review process engineering"
+    },
+    {
+      "voice": "The answer, the investigation made clear, had to be the engineer of record. No one else in the chain — fabricator, contractor, or building official — had the structural engineering expertise or the contractual responsibility to run the load calculation. The G.C.E. engineers who approved the revised shop drawing did not do so negligently in the sense of making a mistake in a calculation. They failed to perform the calculation at all. The distinction matters: this was not an engineering error. It was an engineering omission.",
+      "visual": "engineering responsibility professional accountability documents"
+    },
+    {
+      "voice": "The Hyatt Regency collapse changed standard engineering practice in the United States. Following the disaster, professional organizations issued guidance emphasizing that any shop drawing change affecting structural load paths required re-analysis. Many firms implemented formal procedures requiring engineers to document that structural calculations had been reviewed whenever a shop drawing proposed a change. Insurance requirements for engineering firms tightened. Engineering education began using the Hyatt case as a primary example of professional responsibility.",
+      "visual": "engineering professional development education training"
+    },
+    {
+      "voice": "The legal consequences extended beyond license revocations. Civil lawsuits resulted in settlements totaling over 140 million dollars, paid by the engineering firm's insurers and others. No criminal charges were filed. The distinction between civil and criminal liability in engineering failures is significant: the standard for criminal negligence is higher than for professional malpractice, and the legal system's ability to assign individual criminal responsibility in complex professional failures involving multiple parties has historically been limited.",
+      "visual": "legal proceedings civil lawsuit settlement court"
+    },
+    {
+      "voice": "The Hyatt collapse also illuminated a problem in how structural engineering practice was communicated to clients. The hotel developer and owner had no engineering expertise. They relied entirely on the engineering firm to manage structural integrity. The communication of the shop drawing change — a telephone call describing a proposed modification — was treated as a routine administrative matter when it was in fact a structural decision requiring professional analysis. The system assumed the right person was reviewing the right information at the right time. The assumption was wrong.",
+      "visual": "client engineer communication meeting project management"
+    },
+    {
+      "voice": "Building codes were strengthened in the aftermath of the Hyatt collapse. The specific connection type — rod through box beam, nut and washer — is no longer used in the same configuration for hanging loads. Design standards for suspended structures tightened. Greater attention was paid to the cumulative load at each point in a hanger system. The case is cited in virtually every discussion of construction-phase engineering review and the structural engineer's responsibilities during submittal review.",
+      "visual": "building code standards engineering specifications book"
+    },
+    {
+      "voice": "Survivors of the collapse have described the night with remarkable consistency over the decades: the music, the dancing, the social ease of the event — and then the sudden, total transformation of the space into disaster. The psychological literature on structural collapse survivors describes a phenomenon familiar across many disaster types: the shock of the ordinary suddenly becoming lethal, the collapse not just of a physical structure but of the assumption that engineered spaces are safe. That assumption is not unreasonable. But it depends on engineers doing their job completely.",
+      "visual": "people gathering social event hotel lobby atmosphere"
+    },
+    {
+      "voice": "Jack Gillum, the licensed engineer whose name appeared on the structural drawings, spent decades after the disaster in a complex legal and professional struggle. He died in 2022. Daniel Duncan, the engineer directly involved in the shop drawing approval, worked in engineering for many years after his license was revoked in some states and reinstated in others. Their stories illustrate the difficulty of assigning individual responsibility in complex engineering systems — but they also illustrate why the profession demands that individuals, not systems, hold and exercise professional judgment.",
+      "visual": "engineer professional working technical office structural"
+    },
+    {
+      "voice": "The Hyatt Regency walkway collapse is taught in engineering ethics courses not because the engineers involved were corrupt or malicious — there is no evidence of that. It is taught because it demonstrates how ordinary professional shortcuts, routine approval processes, and the mundane pressure of project schedules can produce catastrophic consequences when they intersect with structural responsibility. The design change was small. The oversight was brief. The result was the deadliest structural failure in American history at the time.",
+      "visual": "engineering classroom university lecture structural analysis"
+    },
+    {
+      "voice": "Today, the Hyatt Regency Kansas City continues to operate — now as the Sheraton Kansas City Hotel at Crown Center. There is a memorial plaque in the lobby remembering the 114 people who died on July 17, 1981. The atrium still exists. The walkways do not. The rebuilt structure was redesigned by a different engineering team, with connections that comply with current standards and reflect the lessons purchased at the highest possible price. The hotel is a working monument to the principle that engineering review is not a formality — it is the last professional check before a structure holds human lives.",
+      "visual": "hotel lobby memorial plaque interior modern atrium"
+    }
+  ]
+}

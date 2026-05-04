@@ -1,0 +1,97 @@
+{
+  "id": 7,
+  "title": "Fukushima: The Tsunami They Said Couldn't Reach the Plant",
+  "description": "On March 11, 2011, a magnitude 9.0 earthquake struck Japan, triggering a tsunami that overwhelmed the Fukushima Daiichi nuclear plant's seawall — a seawall the plant operator had been warned was too low. Three reactors melted down. 154,000 people were evacuated. This documentary investigates the engineering decisions, ignored warnings, and regulatory failures that turned a natural disaster into a nuclear catastrophe. #Fukushima #NuclearDisaster #Tsunami #DisasterDecode",
+  "tags": ["Fukushima", "nuclear disaster", "Japan earthquake", "tsunami", "reactor meltdown", "TEPCO", "nuclear safety", "seawall", "engineering failure", "disaster documentary", "disaster decode", "nuclear engineering"],
+  "thumbnail_text": "WALL TOO SHORT",
+  "segments": [
+    {
+      "voice": "At 2:46 PM on March 11, 2011, a magnitude 9.0 earthquake — the fourth largest ever recorded — struck approximately 70 kilometers off the coast of Japan near the Tōhoku region. It was so powerful it shifted the Earth's axis by approximately 17 centimeters and moved Japan's main island roughly 2.4 meters to the east. The ground shaking was severe enough to trigger automatic shutdown of all nuclear reactors in the region. What followed — the tsunami — was an entirely foreseeable consequence of a submarine earthquake of this magnitude. The question was whether Fukushima Daiichi was prepared for it. It was not.",
+      "visual": "earthquake Japan aerial destruction coast"
+    },
+    {
+      "voice": "Fukushima Daiichi Nuclear Power Plant was operated by Tokyo Electric Power Company, or TEPCO. It sat on the northeastern Japanese coast, facing the Pacific Ocean. The plant had been built in the late 1960s and early 1970s, with multiple reactor units added over subsequent decades. The site was deliberately built close to the ocean — seawater was used for reactor cooling. The elevation of the plant had been reduced from the original 35 meters above sea level to approximately 10 meters during construction to reduce the cost of pumping seawater uphill.",
+      "visual": "nuclear power plant coastal Japan ocean aerial"
+    },
+    {
+      "voice": "The seawall protecting the plant was 5.7 meters high. In 2008, a group of TEPCO engineers conducted a study that included modeling of tsunami risk based on historical data. Their analysis suggested that a tsunami significantly larger than 5.7 meters was possible — potentially up to 15 meters — if a major subduction zone earthquake occurred. The finding was alarming. The response was not action. The report was shelved and its findings disputed internally. The seawall height was not changed.",
+      "visual": "seawall coastal protection ocean waves engineering"
+    },
+    {
+      "voice": "A government safety agency, NISA, had also received external warnings in 2009 that historical tsunami records indicated larger waves were possible than current plant designs accounted for. Regulatory action was deferred. The nuclear industry in Japan operated in a cultural context that some researchers later called 'regulatory capture' — a situation in which the agency tasked with oversight had become so aligned with the industry it regulated that independent safety assessment was compromised. The Diet of Japan's subsequent investigation was explicit about this.",
+      "visual": "government regulatory office nuclear safety documents"
+    },
+    {
+      "voice": "The earthquake on March 11 hit the plant hard. Operators manually confirmed the automatic shutdown — called SCRAM — of all six reactors. The immediate response worked as designed: control rods were inserted, fission stopped, and emergency diesel generators started to power cooling systems. For approximately 41 minutes, the plant was functioning correctly. Then the first wave arrived. The tsunami that struck Fukushima Daiichi reached approximately 14 to 15 meters. The seawall was 5.7 meters. The plant was flooded.",
+      "visual": "tsunami wave coastal flooding Japan water surge"
+    },
+    {
+      "voice": "The floodwaters reached the basement levels of the turbine buildings where the emergency diesel generators were installed. Fourteen of the 15 generators were rendered inoperable within minutes. Battery backup power, designed to last 8 hours, became the last source of electrical power for reactor cooling systems. The plant had lost station blackout — total loss of AC power — affecting reactors 1, 2, and 3. Without power, cooling pumps could not run. Without cooling, the decay heat produced by recently-shutdown reactor fuel would cause the fuel to overheat and melt.",
+      "visual": "flooding disaster basement water rising industrial"
+    },
+    {
+      "voice": "Nuclear reactors continue to generate significant heat after shutdown. The fission chain reaction stops, but radioactive decay of fission products continues. In the first hours after shutdown, a reactor can still generate 3 to 7 percent of full power — enough to melt the fuel if cooling is not maintained. Over the following days, this decay heat decreases, but it remains substantial for days to weeks. The operators at Fukushima Daiichi understood this perfectly. They also understood that without power for their cooling pumps, they were working against a countdown.",
+      "visual": "nuclear reactor core cooling system diagram"
+    },
+    {
+      "voice": "The response of TEPCO's operators under these conditions was remarkable for its professionalism and dedication. Working in darkness, with limited communications, in a plant that had been severely damaged by the earthquake and flooded by the tsunami, teams attempted to rig alternative cooling using fire trucks, portable generators, and manually-operated systems. They worked in increasing radiation levels, rotating crews to limit individual exposure. The operators' actions delayed the worst outcomes and in some cases prevented additional reactors from suffering the same fate.",
+      "visual": "emergency workers plant operators crisis response"
+    },
+    {
+      "voice": "Reactor 1 was the first to melt down. Without cooling water, the fuel temperature exceeded 2,200 degrees Celsius — above the melting point of the zirconium alloy fuel cladding. As the zirconium overheated, it reacted with steam to produce hydrogen gas. By the morning of March 12th, hydrogen had accumulated in the reactor building's upper structure. At 3:36 PM on March 12th, a hydrogen explosion blew the roof off the Unit 1 reactor building. The detonation was visible on television cameras broadcasting live from the site.",
+      "visual": "industrial building explosion debris fire"
+    },
+    {
+      "voice": "Reactors 2 and 3 followed in subsequent days. Unit 3 suffered a hydrogen explosion on March 14th. Unit 2's suppression pool — a torus-shaped structure that condenses steam — appears to have been damaged on March 15th. The order to evacuate workers from the plant was briefly considered by the Japanese government. Prime Minister Naoto Kan later wrote that had the full evacuation been ordered, it would have created a self-reinforcing collapse: without workers, all remaining reactors and spent fuel pools would have been lost, potentially rendering a 250-kilometer radius around the site uninhabitable.",
+      "visual": "evacuation workers emergency response nuclear site"
+    },
+    {
+      "voice": "The evacuation of civilians around the plant proceeded in stages and was managed under extraordinary confusion. The initial exclusion zone was 3 kilometers, then 10, then 20. The direction of the wind and the pattern of radiation releases meant some communities outside the official zone received higher doses than some inside it. Radiation plumes moved according to weather patterns, not administrative boundaries. About 154,000 people were evacuated from surrounding areas. Some towns remain restricted to this day.",
+      "visual": "evacuation buses road residents leaving town"
+    },
+    {
+      "voice": "The three reactor meltdowns at Fukushima Daiichi were each significant. Corium — the molten mixture of fuel and structural material — melted through the reactor pressure vessel in at least one unit and partially entered the containment structure below. Radioactive water contaminated the basements and eventually groundwater reaching the ocean. The challenge of managing this water — billions of liters over the following decade — became one of the most complex engineering problems in nuclear history.",
+      "visual": "industrial water treatment plant radioactive management"
+    },
+    {
+      "voice": "The Fukushima Daiichi accident was classified at the maximum level 7 on the International Nuclear Event Scale — the same rating as Chernobyl. However, the two accidents were very different in their effects. Chernobyl's open reactor fire released far more radioactive material directly into the atmosphere. Fukushima's containment systems, though damaged, limited the release significantly. Estimates of the total Fukushima release range from about 10 to 40 percent of Chernobyl's — still an enormous amount, but considerably less than the worst-case scenario.",
+      "visual": "radiation measurement dosimeter nuclear monitoring"
+    },
+    {
+      "voice": "The subsequent health impact debate was complex and contested. The WHO and other organizations projected long-term cancer risk increases for the most exposed population to be small in absolute terms — an increase of less than 1 percent in lifetime cancer risk for the most affected communities. However, the evacuation itself caused measurable harm: approximately 2,000 deaths attributable to evacuation stress, disruption of medical care, and deteriorating living conditions for elderly and vulnerable residents who were displaced from familiar environments.",
+      "visual": "elderly residents evacuation shelter temporary housing"
+    },
+    {
+      "voice": "The independent investigation commissioned by the Japanese Diet — the national legislature — issued what became one of the most remarkable self-critical reports in the history of nuclear safety. It concluded that Fukushima was 'a profoundly man-made disaster — that could and should have been foreseen and prevented.' It described the accident as 'Made in Japan' — a consequence of Japanese culture's reluctance to question authority, its tendency toward collusion between regulators and industry, and a 'myth of safety' promoted by the nuclear industry to manage public perception.",
+      "visual": "government report investigation nuclear Japan parliament"
+    },
+    {
+      "voice": "The decommissioning of Fukushima Daiichi is expected to take 30 to 40 years and cost an estimated 200 billion dollars. The most challenging task — removing the corium from the primary containment of the damaged reactors — has no precedent in nuclear engineering. Robots sent into the buildings have been partially disabled by radiation. As of 2025, the exact location and state of the corium in each reactor unit is not fully known. The cleanup is, in the honest assessment of engineers working on it, a problem being solved in real time with no existing template.",
+      "visual": "nuclear decommissioning robot technology cleanup workers"
+    },
+    {
+      "voice": "One of the most contentious post-disaster decisions was what to do with approximately 1.3 million tonnes of treated radioactive water that had accumulated in tanks on the site. In 2023, Japan began releasing this water — processed through ALPS, an advanced liquid processing system — into the Pacific Ocean, after approval from the International Atomic Energy Agency. The water met international safety standards for tritium concentration. China, South Korea, and local fishing communities strongly objected. The scientific and political debate continued for years.",
+      "visual": "water treatment plant ocean release monitoring environmental"
+    },
+    {
+      "voice": "Fukushima's impact on global nuclear energy policy was substantial. Germany accelerated its decision to phase out nuclear power entirely, closing all reactors by 2023. Switzerland voted to phase out nuclear. Japan shut down all its 50 reactors for safety reviews — only a fraction have been restarted by 2025. The cost of nuclear power globally increased as safety requirements were upgraded. Countries building new nuclear capacity, including China, South Korea, and France, redesigned plant layouts to place backup power systems in flood-proof, earthquake-resistant structures.",
+      "visual": "nuclear plant cooling tower shutdown industrial policy"
+    },
+    {
+      "voice": "The specific design choice that made Fukushima so vulnerable — placing backup diesel generators in flood-prone basements — was identified in post-accident reviews as a correctable vulnerability at many plants worldwide. The fix, in principle, is straightforward: elevate backup power, or build flood barriers. The fact that this vulnerability existed at a plant that had received explicit tsunami risk warnings, and was not corrected, reflects a failure not of engineering knowledge but of institutional will to act on that knowledge.",
+      "visual": "generator backup power elevated industrial platform"
+    },
+    {
+      "voice": "The towns closest to the Fukushima plant — Namie, Futaba, Ōkuma — were among the last to see resident return authorized. Some areas remain designated as difficult-to-return zones. Farmers whose land was not formally restricted faced market resistance to their produce. Fishing communities were economically devastated. The social and psychological impacts of forced displacement, the severing of community bonds, and the uncertainty about when — or whether — return was safe proved as damaging in many cases as the radiation itself.",
+      "visual": "abandoned town empty street overgrown Japan"
+    },
+    {
+      "voice": "Fukushima Daiichi and Chernobyl both demonstrate the same fundamental principle: a nuclear plant is not just a technical system. It is embedded in a regulatory culture, an economic context, a political environment, and a community whose cooperation and trust are preconditions for safe operation. When any of those surrounding systems fail — when regulators are captured, when warnings are suppressed, when economic pressure overrides safety investment — the technical systems become the last line of defense. And the last line of defense is never enough on its own.",
+      "visual": "nuclear plant workers safety training procedures"
+    },
+    {
+      "voice": "The 2008 internal TEPCO study that showed a 15-meter tsunami was possible exists in a document filed somewhere in the company's archives. Engineers wrote it. They were right. The seawall was 5.7 meters. The gap between what was known and what was done is 9.3 meters. In that gap — between the warning that was written and the action that was not taken — lived the entire disaster. Engineering knowledge is only useful when the institutions that hold it are capable of acting on it. In March 2011, Fukushima showed what happens when they cannot.",
+      "visual": "ocean waves seawall coastal nuclear plant Japan"
+    }
+  ]
+}
