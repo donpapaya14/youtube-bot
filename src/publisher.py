@@ -29,7 +29,7 @@ def upload_to_youtube(
         token_uri="https://oauth2.googleapis.com/token",
         client_id=os.getenv("YOUTUBE_CLIENT_ID"),
         client_secret=os.getenv("YOUTUBE_CLIENT_SECRET"),
-        scopes=["https://www.googleapis.com/auth/youtube.upload"],
+        scopes=["https://www.googleapis.com/auth/youtube"],
     )
 
     youtube = build("youtube", "v3", credentials=creds)
@@ -109,7 +109,7 @@ def upload_to_youtube_longform(
         token_uri="https://oauth2.googleapis.com/token",
         client_id=os.getenv("YOUTUBE_CLIENT_ID"),
         client_secret=os.getenv("YOUTUBE_CLIENT_SECRET"),
-        scopes=["https://www.googleapis.com/auth/youtube.upload"],
+        scopes=["https://www.googleapis.com/auth/youtube"],
     )
 
     youtube = build("youtube", "v3", credentials=creds)
