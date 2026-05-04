@@ -1,0 +1,93 @@
+{
+  "id": 19,
+  "title": "Farm to Cup: What Really Happens to Your Coffee Beans (Most People Have No Idea)",
+  "description": "That 6-dollar cup of coffee traveled an extraordinary distance before it reached you — and most of that journey is invisible, poorly understood, and surprisingly complex. From a cherry on a branch in Colombia to steam in your mug, we trace every step of the supply chain, who gets paid what, and what it means for the quality in your cup. #farmtocup #coffeefarmer #coffeesupplychain #coffeeproduction #coffeeharvest #coffeeprocessing #coffeeindustry",
+  "tags": ["farm to cup", "coffee farmer", "coffee supply chain", "coffee production", "coffee harvest", "coffee processing", "coffee trade", "single origin", "direct trade", "coffee industry", "green coffee", "coffee journey"],
+  "segments": [
+    {
+      "voice": "That cup of coffee in your hand started as a seed. Someone planted it, waited three years for the plant to mature, hand-picked each cherry at peak ripeness, spent days processing the fruit from the bean, milled it, sorted it, dried it, packed it, shipped it across an ocean, roasted it, packaged it, and delivered it to someone who brewed it for you. That entire chain — from a hillside in Colombia to steam in your mug — involves typically nine to twelve separate human transactions. Most people have no idea any of this exists.",
+      "visual": "coffee farm Colombia beans journey cup"
+    },
+    {
+      "voice": "It begins with the cherry. Coffee is a fruit — a drupe, botanically speaking, like a cherry. The coffee 'bean' is actually the seed inside this fruit. A single Coffea arabica plant takes approximately three years from planting to first fruit production. Mature plants produce fruit for 20 to 30 years with proper care. Each plant produces about 2,000 coffee cherries per year — enough to make roughly one pound of finished coffee.",
+      "visual": "coffee cherry red fruit plant arabica"
+    },
+    {
+      "voice": "Altitude transforms quality. The elevation bands that produce specialty coffee — typically 1,200 to 2,200 meters — are not arbitrary marketing claims. High altitude means cooler temperatures, which slows the development of the coffee cherry from flower to ripe fruit: typically 9 months at 1,800 meters versus 6 months at 800 meters. This slower development allows the cherry to accumulate more sugars, more complex aromatic compounds, and a higher density of flavor precursors. The altitude effect is chemical and real.",
+      "visual": "coffee altitude elevation farm hillside Colombia"
+    },
+    {
+      "voice": "Harvesting is the first quality decision, and it's where commodity and specialty diverge most dramatically. Machine strip harvesting — the most common method for commodity coffee — uses mechanical arms that strip all cherries from a branch simultaneously: ripe, unripe, and overripe together. Selective hand picking involves trained workers picking only perfectly red cherries from each branch, returning to the same branch 8 to 10 times during the harvest season as different cherries ripen. Selective picking can cost 5 to 10 times more per pound but produces dramatically better raw material.",
+      "visual": "coffee selective hand picking harvest farm workers"
+    },
+    {
+      "voice": "Once harvested, cherries must be processed within hours — the fruit begins fermenting almost immediately. The processing method determines a huge portion of the coffee's final flavor. Washed processing removes all fruit before drying — the beans ferment briefly in water tanks to remove the mucilage layer, then dry on raised beds. This produces clean, bright, transparent flavors that directly express the bean's genetics and terroir.",
+      "visual": "washed coffee processing water tank fermentation"
+    },
+    {
+      "voice": "Natural processing is radically different. The whole cherry — fruit, mucilage, and all — is spread on raised drying beds for 3 to 6 weeks. During this time, the fruit slowly ferments around the bean. Yeasts and bacteria in the fruit convert sugars into complex flavor compounds that infuse into the bean. Natural process coffees are intensely fruity, winey, complex — sometimes overwhelmingly so. The long outdoor drying is also riskier: improper drying produces rotten, fermented off-flavors.",
+      "visual": "natural process coffee drying beds raised African"
+    },
+    {
+      "voice": "Honey processing is a middle ground — the cherry skin is removed but varying amounts of the sticky mucilage layer are left on the bean during drying. Yellow honey, red honey, and black honey refer to how much mucilage remains and how long the drying takes. The remaining fruit sugars ferment partially and penetrate the bean, creating flavors between washed and natural — typically more sweetness, more body, and more complexity than washed while being more controlled than natural.",
+      "visual": "honey process coffee mucilage drying yellow red"
+    },
+    {
+      "voice": "After drying, beans go to the mill — a processing facility that removes the dried fruit material (called the parchment and husk) through hulling machines, then sorts and grades the beans by size, density, and quality. Density sorting uses air columns that separate heavier, denser beans — which correlate with quality and complete development — from lighter, defective ones. Color sorters use optical technology to identify and remove discolored or defective beans.",
+      "visual": "coffee mill hulling sorting grading machine"
+    },
+    {
+      "voice": "Cupping — sensory quality evaluation — happens at the mill, at the export facility, and at the roaster. The standardized coffee cupping protocol, developed by the Specialty Coffee Association, involves precisely weighing coffee, grinding it, adding boiling water, waiting four minutes, then evaluating fragrance, aroma, flavor, aftertaste, acidity, body, balance, sweetness, uniformity, and cleanliness on a 100-point scale. Coffees scoring above 80 are considered specialty grade. Above 90 are considered outstanding.",
+      "visual": "coffee cupping evaluation fragrance flavor SCA protocol"
+    },
+    {
+      "voice": "The green coffee trade is where much of the supply chain's value is captured — or lost, from the farmer's perspective. Commodity coffee is traded on the New York Coffee Exchange (arabica) and London International Financial Futures Exchange (robusta) at market prices that have historically hovered between 1 and 2 dollars per pound. This commodity price applies regardless of quality — an exceptional bean from a small Guatemalan farmer receives the same price as a machine-harvested Brazilian robusta blend.",
+      "visual": "coffee commodity exchange market price trading"
+    },
+    {
+      "voice": "The commodity price problem is fundamental. The cost of producing quality coffee — with selective picking, careful processing, proper drying, good milling — typically runs 1.50 to 2.50 dollars per pound at the farm level in Central America and Africa. When commodity prices fall below this production cost — which they have repeatedly — farmers lose money on every bag they sell. The 2018 to 2020 coffee price crisis saw commodity prices fall to 90 cents per pound — devastating for millions of farming families.",
+      "visual": "coffee farmer poverty income crisis price"
+    },
+    {
+      "voice": "Direct trade emerged as a response to the commodity price problem. In direct trade relationships, a roaster buys directly from a specific farm or cooperative at a negotiated price well above commodity. Published direct trade prices at companies like Counter Culture Coffee and Intelligentsia typically run 2 to 5 times the commodity rate. This premium allows farmers to invest in quality improvements, processing equipment, and farm sustainability — which in turn produces better coffee, justifying the premium. It's a virtuous cycle.",
+      "visual": "direct trade coffee relationship roaster farmer"
+    },
+    {
+      "voice": "The exportation step is often where small farmers lose leverage. Many farms are too small to export directly — they sell to local collectors (called coyotes in Central America) who aggregate multiple farms' outputs and sell to exporters. Each intermediary takes a margin, reducing the farmer's share of the final cup price. In a system where a cup sells for 5 dollars in a New York cafe, the farmer who grew it typically received 10 to 20 cents. The rest distributes across exporters, importers, roasters, and cafes.",
+      "visual": "coffee value chain distribution farmer roaster cafe"
+    },
+    {
+      "voice": "Green coffee import is a specialized logistics industry. Green coffee is packed in 60-kilogram jute bags, loaded into shipping containers, and transported by sea — typically 2 to 6 weeks from origin to destination market. Temperature and humidity during shipping affect quality: a container that overheats or gets wet can damage thousands of bags of carefully grown, processed, and dried coffee. Good importers monitor shipping conditions and cup arrival samples to assess whether transit affected quality.",
+      "visual": "green coffee shipping container cargo sea transport"
+    },
+    {
+      "voice": "The roaster's role is to express the bean's potential. The same green bean can be roasted to produce 10 different flavor profiles depending on the roast profile. The roaster's job is to decide what character to emphasize — the fruity brightness of the origin, or more developed sweetness and body from a longer roast — and then execute that profile consistently enough that every bag tastes like the intended version.",
+      "visual": "coffee roaster profile decision quality consistency"
+    },
+    {
+      "voice": "Roasted coffee is packed immediately, typically in bags with one-way valves to manage degassing, and should arrive at the consumer within 2 to 6 weeks of roasting for optimal flavor. Beyond 4 to 6 weeks, oxidation and off-gas depletion measurably degrade the cup experience. Supermarket coffee, which may sit in distribution centers and on shelves for months, is almost always significantly past its optimal window. The roast date is the single most important thing on a coffee bag that most consumers ignore.",
+      "visual": "roasted coffee packaging roast date freshness label"
+    },
+    {
+      "voice": "The café step adds the final labor and skill layers. A trained barista's role is to understand the roaster's intent — what the coffee should taste like — and calibrate the brewing to express it. Daily grind adjustments, water temperature management, extraction time monitoring, milk technique, and quality control are ongoing, repetitive precision tasks. A well-run specialty café is essentially a quality control system operating at the customer-facing end of a 9-country supply chain.",
+      "visual": "specialty cafe barista precision quality control brewing"
+    },
+    {
+      "voice": "Supply chain transparency is the specialty coffee movement's most significant contribution beyond flavor. Traceability — knowing the specific farm, processing date, varietal, elevation, and farmer behind a coffee — allows quality to be attributed and rewarded correctly. A roaster who buys from a farm they can identify rewards quality at the source. A consumer who reads and values that information completes the loop. Transparency makes quality economically valuable all the way to the farm.",
+      "visual": "coffee transparency traceability supply chain label"
+    },
+    {
+      "voice": "Climate change is beginning to unravel supply chains that took generations to build. The Coffee Belt — the tropical band between the Tropics of Cancer and Capricorn where coffee grows — is slowly shrinking as temperatures rise. Research from the Climate Institute estimates that by 2050, the area of land suitable for coffee cultivation could decrease by 50 percent globally. Farmers at lower elevations are moving upslope. The wild genetic diversity in Ethiopia's forests may be the last line of defense.",
+      "visual": "climate change coffee belt shrinking map impact"
+    },
+    {
+      "voice": "The next time you hold a cup of specialty coffee, you're holding the output of an extraordinary chain: years of plant growth, weeks of hand picking, months of processing and drying, ocean crossings, quality evaluations, roasting craft, and the skill of whoever brewed it. At every step, someone made a decision that affected what ended up in your cup. The 6 dollars you paid is not just for the coffee. It's for the chain.",
+      "visual": "coffee cup hands holding morning specialty"
+    },
+    {
+      "voice": "And somewhere on a hillside in Colombia, Ethiopia, or Guatemala, someone is picking coffee cherries today. Checking each one for ripeness. Discarding the ones that aren't ready. Doing the same painstaking work they'll do tomorrow, and the next day, so that in a few months — after the ocean crossing and the roasting and the brewing — someone on the other side of the world will have a cup worth drinking.",
+      "visual": "coffee farmer picking cherries hillside care"
+    }
+  ],
+  "thumbnail_text": "YOUR COFFEE'S REAL JOURNEY"
+}

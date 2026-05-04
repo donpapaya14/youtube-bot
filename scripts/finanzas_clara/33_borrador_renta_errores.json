@@ -1,0 +1,69 @@
+{
+  "id": 33,
+  "title": "Borrador de la Renta — Los Errores que Te Cuestan Dinero y Cómo Evitarlos",
+  "description": "El borrador de la renta que te envía Hacienda puede contener errores que te hacen pagar más de lo que debes. Aprende a revisarlo correctamente antes de confirmarlo en la campaña 2026.",
+  "tags": ["borrador renta errores", "declaracion renta 2026", "revisar borrador hacienda", "campana renta españa", "errores irpf comunes", "confirmacion borrador", "aeat renta 2026"],
+  "thumbnail_text": "NO confirmes sin revisar",
+  "segments": [
+    {
+      "voice": "Cada año, millones de contribuyentes en España confirman el borrador de la renta sin revisarlo. Hacen clic en 'confirmar' en 10 segundos y creen que ya está. El problema es que el borrador que Hacienda prepara solo incluye la información que ella tiene de ti. Y esa información puede estar incompleta, puede tener errores o puede no recoger deducciones a las que tienes derecho. Revisar el borrador antes de confirmarlo puede suponer diferencias de cientos o incluso miles de euros.",
+      "visual": "Spain tax return draft confirmation error review IRPF Hacienda 2026"
+    },
+    {
+      "voice": "Qué información incluye el borrador y qué no. El borrador incluye: rendimientos del trabajo de tu empleador o empleadores, rendimientos del capital mobiliario como dividendos e intereses informados por los bancos, prestaciones de la Seguridad Social, ganancias y pérdidas patrimoniales informadas por terceros como fondos de inversión, y algunas deducciones directas como la deducción por maternidad. Lo que NO incluye automáticamente: rendimientos de actividades económicas de los autónomos, rendimientos del capital inmobiliario del alquiler, muchas deducciones autonómicas, y aportaciones a planes de pensiones no informadas.",
+      "visual": "Spain tax return draft data included excluded sources Hacienda"
+    },
+    {
+      "voice": "Error uno: confirmar sin revisar los rendimientos del trabajo. Si has trabajado en más de una empresa durante el año, el borrador debería incluir los datos de todas. Pero si hay un error en el certificado de retenciones de alguna empresa, ese error se traslada al borrador. Antes de confirmar, compara los rendimientos del trabajo del borrador con los certificados de retenciones que te han enviado todas las empresas donde has trabajado. Si hay discrepancia, no confirmes hasta resolverla con la empresa.",
+      "visual": "Spain employment income work certificate retenciones comparison borrador"
+    },
+    {
+      "voice": "Error dos: no incluir la deducción por alquiler de vivienda habitual si tienes derecho transitorio. Si firmaste tu contrato de alquiler antes del 1 de enero de 2015, tienes derecho a la deducción estatal por alquiler de vivienda habitual del 10,05% sobre las cantidades satisfechas con un límite de 9.040 euros, lo que supone una deducción máxima de 909 euros. Esta deducción transitoria no aparece automáticamente en el borrador. Debes introducirla manualmente en el apartado correspondiente de la declaración.",
+      "visual": "Spain rental housing deduction transitoria pre 2015 contract IRPF manual"
+    },
+    {
+      "voice": "Error tres: olvidar la deducción por maternidad y familia numerosa. La deducción por maternidad asciende a 1.200 euros anuales por hijo menor de tres años para madres con actividad laboral o autónoma. Si además tienes guardería, hay una deducción adicional de hasta 1.000 euros. Las familias numerosas tienen deducción de 1.200 euros para categoría general y 2.400 euros para categoría especial. Estas deducciones pueden cobrarse como abono anticipado mensual o aplicarse en la declaración. Revisa que estén correctamente recogidas.",
+      "visual": "Spain maternity deduction large family bonus IRPF children nursery"
+    },
+    {
+      "voice": "Error cuatro: no declarar ingresos del alquiler y pensar que Hacienda no lo sabe. Si tienes un piso o habitación alquilada y no lo declaras, Hacienda tiene múltiples vías para saberlo: el inquilino puede haberlo declarado como gasto deducible, el IBI indica que eres propietario, los bancos informan de los ingresos regulares en tu cuenta. No declarar los ingresos del alquiler es un error con consecuencias legales. Pero lo que muchos no saben es que hay una reducción del 60% sobre el rendimiento neto del alquiler de vivienda habitual según el artículo 23 de la Ley IRPF.",
+      "visual": "Spain rental income declaration 60 percent reduction IRPF Hacienda"
+    },
+    {
+      "voice": "Error cinco: no deducir los gastos del alquiler como propietario. Si alquilas un inmueble, el rendimiento neto no es el ingreso bruto del alquiler. Puedes restar: el IBI, los seguros del inmueble, los gastos de comunidad, las reparaciones y conservación, los intereses de la hipoteca del inmueble alquilado, la amortización del inmueble que es el 3% del valor de construcción, y los gastos de gestión si usas agencia. Muchos propietarios declaran el alquiler íntegro sin deducir estos gastos y pagan IRPF sobre más de lo que deben.",
+      "visual": "Spain rental property expenses deductions IBI insurance repair mortgage"
+    },
+    {
+      "voice": "Error seis: las aportaciones al plan de pensiones que no están en el borrador. Si has aportado a un plan de pensiones individual, la entidad gestora informa a Hacienda. Pero si la información no llegó a tiempo o hay un error, la reducción en la base imponible no aparecerá en el borrador. Verifica en el apartado de reducciones por aportaciones a sistemas de previsión social que el importe coincide con lo que efectivamente aportaste durante el año. Guarda siempre los justificantes de las aportaciones.",
+      "visual": "Spain pension plan contribution deduction borrador error verify IRPF"
+    },
+    {
+      "voice": "Error siete: las ganancias patrimoniales de fondos de inversión mal calculadas. Si has vendido participaciones de fondos de inversión durante el año, el borrador debería incluir la ganancia o pérdida patrimonial. Pero la rentabilidad fiscal puede diferir de la rentabilidad financiera si hay aportaciones en distintos momentos. Verifica que el coste de adquisición que usa Hacienda coincide con el que tú calculas. Si hay divergencia, la ganancia tributa incorrectamente y puedes estar pagando de más o de menos.",
+      "visual": "Spain investment fund capital gains IRPF calculation cost basis borrador"
+    },
+    {
+      "voice": "Error ocho: no compensar pérdidas patrimoniales con ganancias. Si has tenido pérdidas en la venta de fondos, acciones o criptomonedas en el mismo año, esas pérdidas pueden compensarse con las ganancias. El resultado positivo es lo que tributa. Además, si las pérdidas superan a las ganancias, hasta el 25% del exceso puede compensarse con rendimientos del capital mobiliario positivos como dividendos. Y si aún queda saldo negativo, puedes arrastrarlo a los cuatro años siguientes para compensar futuras ganancias.",
+      "visual": "Spain capital losses compensation gains IRPF offset fund stocks crypto"
+    },
+    {
+      "voice": "Declaración conjunta versus individual: cuándo conviene cada opción. Para matrimonios o parejas de hecho registradas, existe la opción de tributar conjuntamente. La unidad familiar tiene una reducción adicional de 3.400 euros en la base imponible. Pero esto solo compensa cuando uno de los cónyuges tiene ingresos muy bajos o nulos. Si los dos trabajan con ingresos similares, la tributación individual suele ser más favorable. El borrador de Hacienda solo muestra una opción, pero puedes calcular ambas en el simulador de Renta de la AEAT.",
+      "visual": "Spain joint individual tax return comparison calculator simulation AEAT"
+    },
+    {
+      "voice": "Cómo acceder y revisar el borrador correctamente. Accedes al borrador en la sede electrónica de la AEAT con certificado digital, DNI electrónico o sistema Cl@ve. Una vez dentro, revisa sistemáticamente: datos personales y familiares, rendimientos del trabajo, rendimientos del capital mobiliario, rendimientos del capital inmobiliario si eres propietario, actividades económicas si eres autónomo, ganancias y pérdidas patrimoniales, y el apartado de deducciones estatales y autonómicas. Dedica al menos 30 minutos a esta revisión.",
+      "visual": "Spain AEAT Renta web access review checklist certificate Clave digital"
+    },
+    {
+      "voice": "Las deducciones autonómicas: el tesoro oculto del borrador. Cada comunidad autónoma tiene sus propias deducciones que Hacienda no añade automáticamente al borrador en todos los casos. Deducción por nacimiento de hijos, por adopción, por compra o rehabilitación de vivienda en zonas rurales, por cuidado de mayores, por estudios universitarios, por donativos a entidades regionales. En algunas comunidades como el País Vasco o Navarra con régimen foral propio, el sistema es completamente diferente. Busca las deducciones de tu comunidad autónoma específica.",
+      "visual": "Spain regional tax deductions autonomic community specific IRPF hidden"
+    },
+    {
+      "voice": "Cuándo rectificar la declaración ya presentada. Si después de confirmar el borrador descubres un error o una deducción que no aplicaste, puedes rectificar. Si el error te perjudicó, presentas una rectificación de autoliquidación en plazo de cuatro años. Si el error fue a tu favor y pagaste menos de lo debido, presentas una declaración complementaria voluntaria pagando la diferencia más los intereses de demora. En ambos casos, el sistema de Renta Web de la AEAT permite presentar estas rectificaciones de forma online.",
+      "visual": "Spain tax return correction rectification complementary declaration AEAT"
+    },
+    {
+      "voice": "Resumen: los pasos para revisar el borrador correctamente. Primero, no confirmes hasta haber revisado todos los apartados. Segundo, compara rendimientos del trabajo con tus certificados de empresa. Tercero, añade manualmente deducciones no incluidas: plan de pensiones, alquiler de vivienda si tienes derecho transitorio, deducciones autonómicas, maternidad. Cuarto, si tienes alquiler como propietario, verifica la reducción del 60% y los gastos deducidos. Quinto, calcula si conviene individual o conjunta. La diferencia entre confirmar en 10 segundos y revisar con calma puede ser de 500 a 2.000 euros.",
+      "visual": "Spain tax return draft review final checklist steps savings 2026"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": 43,
+  "title": "Selenio y Tiroides: El Mineral Olvidado Que Tu Cuerpo Necesita",
+  "description": "El selenio es cofactor de la conversión de T4 a T3. Analizamos la deficiencia global, Hashimoto, cáncer, inmunidad y fertilidad. Qué dicen los estudios y cuánto es suficiente.",
+  "tags": ["selenio", "tiroides", "Hashimoto", "hipotiroidismo", "T4", "T3", "selenoproteínas", "antioxidante", "inmunidad", "suplemento"],
+  "thumbnail_text": "SELENIO Y TIROIDES OCULTO",
+  "segments": [
+    {
+      "voice": "La tiroides es la glándula maestra del metabolismo. Regula la temperatura corporal, el peso, la energía, el estado de ánimo, la fertilidad y la frecuencia cardíaca. Y tiene un requisito nutricional fundamental que la mayoría desconoce: el selenio. Sin suficiente selenio, la tiroides no puede fabricar sus hormonas activas eficientemente. Y la deficiencia de selenio es más común de lo que se cree.",
+      "visual": "thyroid gland metabolism hormones selenium mineral function"
+    },
+    {
+      "voice": "El selenio es un oligoelemento que en el cuerpo se incorpora a las selenoproteínas, una familia de 25 proteínas humanas con funciones críticas. Las más relevantes para la tiroides son las yodotironina desyodasa tipos 1, 2 y 3, que convierten la T4, la hormona tiroidea inactiva, en T3, la forma activa que actúa en todos los tejidos. Sin selenio suficiente, la conversión de T4 a T3 es ineficiente, y el resultado práctico es un hipotiroidismo funcional aunque los niveles de TSH sean normales.",
+      "visual": "thyroid hormone T4 T3 conversion deiodinase selenoprotein selenium"
+    },
+    {
+      "voice": "La tiroides tiene la mayor concentración de selenio de todos los órganos del cuerpo: entre 100 y 200 nanomoles por gramo de tejido. El selenio protege a la tiroides del daño oxidativo que se genera como subproducto de la síntesis de hormonas tiroideas. La peroxidasa tiroidea, la enzima que produce las hormonas, genera peróxido de hidrógeno, y la glutatión peroxidasa selenio-dependiente es la principal defensa contra ese estrés oxidativo.",
+      "visual": "thyroid tissue selenium antioxidant glutathione peroxidase oxidative stress"
+    },
+    {
+      "voice": "La enfermedad de Hashimoto es la tiroiditis autoinmune más común, responsable del 90 por ciento de los hipotiroidismos en países industrializados. Un metaanálisis de 2021 en Thyroid con 16 ensayos clínicos y 1.034 pacientes con Hashimoto mostró que la suplementación con 200 microgramos diarios de selenio durante 12 semanas redujo los anticuerpos antiTPO en un promedio del 47 por ciento y los anticuerpos antitiroglobulina en un 40 por ciento.",
+      "visual": "Hashimoto thyroiditis autoimmune antibodies TPO selenium reduction trial"
+    },
+    {
+      "voice": "¿Por qué el selenio reduce los anticuerpos en Hashimoto? El mecanismo propuesto es doble. Por un lado, el selenio reduce el estrés oxidativo en la tiroides, eliminando un estímulo que perpetúa la respuesta autoinmune. Por otro, regula el equilibrio entre linfocitos T reguladores, que frenan la autoinmunidad, y células Th17, que la promueven. El selenio desplaza el balance hacia la tolerancia inmune.",
+      "visual": "selenium immune regulation T regulatory cells Th17 autoimmunity Hashimoto"
+    },
+    {
+      "voice": "¿Cuánta gente tiene deficiencia? Depende del suelo donde viven. El contenido de selenio del suelo varía enormemente por geografía. Europa tiene suelos generalmente pobres en selenio comparado con Norteamérica. España, Portugal, Finlandia y Dinamarca tienen suelos especialmente bajos. La EFSA estima que más del 30 por ciento de los europeos tienen ingestas de selenio por debajo de las necesidades. Las dietas vegetarianas y veganas tienen mayor riesgo de deficiencia.",
+      "visual": "selenium soil deficiency Europe map geographic distribution dietary intake"
+    },
+    {
+      "voice": "La fuente alimentaria con diferencia más rica en selenio son las nueces de Brasil. Una sola nuez contiene entre 68 y 91 microgramos de selenio, ya cerca de la ingesta diaria recomendada de 55 a 70 microgramos. El problema es que el contenido varía enormemente según el suelo de origen, entre 3 y 512 microgramos por nuez según análisis de 2018 en Food Chemistry. Una a dos nueces de Brasil al día es la recomendación habitual para personas con niveles bajos.",
+      "visual": "Brazil nuts selenium content high source daily requirement food"
+    },
+    {
+      "voice": "Otras fuentes alimentarias son el marisco y el pescado, especialmente el atún, la sardina y el cangrejo, los órganos como el hígado y el riñón, los huevos y la carne de animales criados en suelos ricos en selenio. Los cereales integrales también aportan selenio, pero en cantidades variables según el suelo agrícola de origen.",
+      "visual": "selenium food sources tuna sardines eggs liver meat seafood"
+    },
+    {
+      "voice": "El selenio y el cáncer es un área con resultados mixtos. El estudio SELECT de 2011 con 35.533 hombres que comparó selenio, vitamina E y ambos combinados no mostró reducción en el riesgo de cáncer de próstata. Pero este estudio usó selenometionina en personas con niveles basales normales, y hay evidencia de que el selenio solo es protector en personas con deficiencia. Un metaanálisis de 2022 en EBioMedicine encontró que los niveles bajos de selenio se asocian con mayor riesgo de cáncer colorrectal, tiroideo y de mama.",
+      "visual": "selenium cancer risk colorectal thyroid breast deficiency protection"
+    },
+    {
+      "voice": "Para la fertilidad masculina, el selenio es crucial. Es componente de la fosfolipidohidroperóxido glutatión peroxidasa, necesaria para la integridad estructural del espermatozoide. Un estudio de 2020 en Journal of Reproductive Immunology con 60 hombres con infertilidad idiopática mostró que 200 microgramos diarios de selenio durante 3 meses mejoraron la motilidad espermática en un 52 por ciento y redujeron la fragmentación del ADN espermático en un 34 por ciento.",
+      "visual": "male fertility sperm motility selenium DNA fragmentation supplement"
+    },
+    {
+      "voice": "El rango de seguridad del selenio es estrecho. La ingesta diaria recomendada es de 55 a 70 microgramos. El nivel superior tolerable es 400 microgramos al día. La toxicidad por selenio o selenosis ocurre con ingestas sostenidas superiores a 800 microgramos y produce pérdida de cabello, fragilidad ungueal, olor a ajo en el aliento, daño neurológico y gastrointestinal. Es uno de los pocos micronutrientes donde la sobredosis dietética o de suplementación es un riesgo real.",
+      "visual": "selenium toxicity selenosis hair loss safe upper limit dosage"
+    },
+    {
+      "voice": "¿Cómo saber si tienes deficiencia? El análisis más accesible es el selenio sérico, aunque no refleja perfectamente las reservas tisulares. En España, la mayoría de los laboratorios lo incluyen en análisis ampliados. Un nivel óptimo se considera entre 120 y 150 microgramos por litro. Por debajo de 90 microgramos se considera deficiencia. Si tienes Hashimoto o hipotiroidismo con anticuerpos elevados, un análisis de selenio sérico y, si está bajo, una suplementación supervisada es una intervención con buena evidencia.",
+      "visual": "selenium blood test serum level optimal range deficiency diagnosis"
+    },
+    {
+      "voice": "El selenio es un ejemplo perfecto de nutriente esencial que cae entre las grietas de la nutrición convencional: demasiado técnico para los medios generalistas, demasiado pequeño para la industria farmacéutica. Pero su papel en la salud tiroidea, la inmunidad y la fertilidad tiene décadas de evidencia sólida. Una o dos nueces de Brasil al día es el suplemento más natural, económico y regulado por naturaleza que existe para asegurar una ingesta adecuada.",
+      "visual": "selenium supplement Brazil nuts thyroid immunity fertility health"
+    }
+  ]
+}

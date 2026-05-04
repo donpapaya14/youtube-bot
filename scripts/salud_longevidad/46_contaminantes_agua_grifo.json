@@ -1,0 +1,61 @@
+{
+  "id": 46,
+  "title": "Contaminantes en el Agua del Grifo en España 2026: Lo Que Necesitas Saber",
+  "description": "PFAS, nitratos, trihalometanos, arsénico, microplásticos. Analizamos qué hay realmente en el agua de grifo española, los límites legales vs seguros y qué filtros funcionan.",
+  "tags": ["agua grifo", "PFAS", "nitratos", "contaminantes agua", "filtro agua", "trihalometanos", "arsénico", "España", "salud", "agua potable"],
+  "thumbnail_text": "QUÉ BEBE ESPAÑA 2026",
+  "segments": [
+    {
+      "voice": "El agua del grifo en España es, técnicamente, agua potable. Cumple los requisitos legales establecidos por la directiva europea de agua de consumo humano. Pero hay una diferencia importante entre agua legalmente potable y agua sin contaminantes de preocupación para la salud. En los últimos años, los estudios han revelado que hay compuestos en el agua que los límites legales actuales no capturan adecuadamente o que estaban directamente fuera del radar regulatorio.",
+      "visual": "tap water Spain drinking water quality analysis contamination"
+    },
+    {
+      "voice": "Los PFAS, o sustancias per y polifluoroalquílicas, son el tema más urgente. Son contaminantes sintéticos extraordinariamente persistentes, conocidos como contaminantes eternos porque no se degradan en el medio ambiente. Hay más de 4.700 tipos. Se usan en sartenes antiadherentes, envases alimentarios, ropa impermeable, espumas de extinción de incendios y cientos de productos industriales. Y están llegando al agua potable en concentraciones detectables en muchas regiones.",
+      "visual": "PFAS forever chemicals water contamination persistent pollutants Europe"
+    },
+    {
+      "voice": "En 2022, la Agencia Europea de Medio Ambiente publicó el primer mapeo sistemático de PFAS en aguas europeas. En España, se detectaron PFAS por encima de los límites de la nueva directiva europea en zonas de Cataluña, Comunidad Valenciana y el cinturón industrial de Bilbao y Huelva, donde los niveles de ácido perfluorooctanoico PFOA superaban los 20 nanogramos por litro cuando el nuevo límite europeo es de 0,1 nanogramos por litro.",
+      "visual": "Spain PFAS water contamination Catalonia Valencia Bilbao map regions"
+    },
+    {
+      "voice": "¿Qué daños causan los PFAS? Un metaanálisis de 2023 en The Lancet con más de 200.000 participantes los asocia con mayor riesgo de cáncer de riñón, vejiga y testicular, alteración hormonal tiroidea y de la fertilidad, disrupción del sistema inmune especialmente en niños, y mayor riesgo de preeclampsia durante el embarazo. El efecto es acumulativo: los PFAS se almacenan en sangre y tejidos y su vida media en el organismo es de años a décadas.",
+      "visual": "PFAS health effects kidney cancer thyroid hormones fertility immunity"
+    },
+    {
+      "voice": "Los nitratos son el contaminante más extendido en aguas subterráneas españolas, especialmente en zonas agrícolas de Castilla-La Mancha, Murcia y Andalucía. Provienen principalmente de fertilizantes nitrogenados. El límite legal europeo es de 50 miligramos por litro. Un análisis de la Confederación Hidrográfica del Segura de 2023 encontró que el 28 por ciento de los puntos de muestreo superaban ese límite en verano.",
+      "visual": "nitrates agricultural water contamination Spain Murcia Castilla groundwater"
+    },
+    {
+      "voice": "Los nitratos se convierten en nitritos y luego en nitrosaminas en el organismo, compuestos carcinogénicos. La IARC clasificó las nitrosaminas de origen dietético y del agua como probablemente carcinogénicas. El mayor riesgo es para lactantes menores de 6 meses, donde los nitratos pueden causar metahemoglobinemia o síndrome del bebé azul, y para personas con exposición crónica alta que aumentan el riesgo de cáncer gástrico y colorrectal.",
+      "visual": "nitrates nitrites health risk baby blue methemoglobinemia cancer"
+    },
+    {
+      "voice": "Los trihalometanos o THM se forman cuando el cloro usado para desinfectar el agua reacciona con materia orgánica natural. Incluyen cloroformo, bromodiclorometano y dibromoclorometano. La IARC clasifica varios THM como posibles carcinógenos. Un estudio epidemiológico de 2021 en Environmental Health con 8.500 embarazadas en España encontró una asociación entre mayor exposición a THM en el agua y mayor riesgo de bajo peso al nacer.",
+      "visual": "trihalomethanes chlorine disinfection byproducts water carcinogen THM"
+    },
+    {
+      "voice": "El arsénico es otro problema en zonas específicas. Las rocas graníticas de Galicia, Extremadura y partes de Castilla y León contienen arsénico natural que puede lixiviarse al agua subterránea. El límite europeo es de 10 microgramos por litro, pero la OMS considera que incluso a esa concentración hay un riesgo leve de cáncer de vejiga con exposición prolongada. La Fundación Aquae identificó en 2022 que el 4 por ciento de los municipios españoles con agua propia superaban ocasionalmente este límite.",
+      "visual": "arsenic granite Spain groundwater cancer bladder limit WHO"
+    },
+    {
+      "voice": "Los microplásticos en el agua del grifo fueron cuantificados en España en un análisis de 2023 del Consejo Superior de Investigaciones Científicas. El agua de red tenía una media de 4 partículas de microplástico por litro, frente a las 240.000 de media en agua embotellada según el estudio que mencionamos en el episodio de microplásticos. El grifo resulta ser entre 1.000 y 60.000 veces mejor que la botella para este contaminante específico.",
+      "visual": "microplastics tap water Spain bottled comparison CSIC analysis"
+    },
+    {
+      "voice": "¿Cómo saber qué hay en el agua de tu municipio? En España, el sistema SINAC del Ministerio de Sanidad publica los análisis de calidad del agua por municipio. Las empresas distribuidoras están obligadas a publicar analíticas anuales. Busca en la web de tu ayuntamiento el informe de calidad del agua o consulta en sinac.sanidad.gob.es. Es información pública que pocas personas consultan.",
+      "visual": "SINAC Spain water quality database municipality public information"
+    },
+    {
+      "voice": "¿Qué filtros funcionan para qué contaminantes? El filtro de carbono activo estándar elimina el cloro, algunos THM y el sabor, pero no retiene PFAS, nitratos, arsénico ni metales pesados de forma eficiente. La ósmosis inversa es el método más completo: elimina entre el 85 y el 99 por ciento de PFAS, nitratos, arsénico, metales pesados, microplásticos y la mayoría de contaminantes orgánicos. El coste de instalación es de 150 a 400 euros con mantenimiento anual de 50 a 80 euros.",
+      "visual": "reverse osmosis filter PFAS nitrates removal home installation"
+    },
+    {
+      "voice": "Los filtros de carbono con certificación NSF 58 o ANSI 58 están testados específicamente para PFAS y son una alternativa más económica que la ósmosis. Los filtros de jarras Brita estándar no filtran PFAS ni nitratos. Los filtros Brita con carbono activado especial más resina de intercambio iónico, los modelos certificados NSF 53 y 58, sí reducen algunos PFAS aunque con menor eficiencia que la ósmosis.",
+      "visual": "water filter certification NSF ANSI carbon Brita PFAS comparison"
+    },
+    {
+      "voice": "La conclusión práctica: si vives en Madrid, Barcelona o una gran ciudad con agua de red de origen superficial bien tratada, el agua del grifo es segura para la mayoría de usos y mucho mejor que el agua embotellada para los microplásticos. Si vives en zona agrícola con nitratos o cerca de instalaciones industriales con PFAS, consulta el SINAC y considera un filtro de ósmosis inversa. La solución es información, no pánico.",
+      "visual": "Spain tap water safe cities rural areas informed decision filter"
+    }
+  ]
+}

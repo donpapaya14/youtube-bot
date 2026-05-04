@@ -1,0 +1,65 @@
+{
+  "id": 37,
+  "title": "The Yogurt Shop Murders — Austin's Darkest Night",
+  "description": "On December 6, 1991, four teenage girls were murdered and their bodies burned in an Austin, Texas yogurt shop. Four young men were convicted. Their convictions were overturned. The DNA pointed elsewhere. Over 30 years later, the case remains unsolved — and Austin has never recovered from it.",
+  "tags": ["Yogurt Shop murders", "Austin Texas 1991", "wrongful conviction", "cold case", "teenage girls", "true crime", "documentary", "DNA exoneration", "unsolved", "I Can't Believe It's Yogurt"],
+  "thumbnail_text": "STILL UNSOLVED",
+  "segments": [
+    {
+      "voice": "December 6, 1991. Austin, Texas. The I Can't Believe It's Yogurt shop in the Arboretum shopping center. Shortly after 11 PM, a fire breaks out. Firefighters arrive and extinguish it quickly. In the back room, beneath the fire damage, they find four bodies: Amy Ayers, 13. Jennifer Harbison, 17. Her sister Sarah Harbison, 15. Eliza Thomas, 17. They had been bound, sexually assaulted, and shot. Then the killer or killers set the building on fire.",
+      "visual": "Austin Texas shopping center yogurt shop fire 1991"
+    },
+    {
+      "voice": "The crime was of extraordinary brutality. Four young women, some of them still children, murdered after closing time at a yogurt shop in one of Austin's more affluent areas. The investigation was led by Austin Police Department and the Texas Rangers. The pressure on investigators was enormous — this was not a crime in an underserved community that could be quietly filed away. This happened in a shopping center that the whole city knew.",
+      "visual": "Austin police investigation pressure media community"
+    },
+    {
+      "voice": "The investigation produced no arrests for seven years. In 1999, a break seemed to come. A young man named Robert Springsteen IV gave a confession — and named three accomplices: Michael Scott, Maurice Pierce, and Forrest Welborn. Springsteen and Scott were tried separately. Both were convicted. Both received the death penalty. Pierce and Welborn were never tried — prosecutors couldn't build sufficient cases against them.",
+      "visual": "arrest 1999 confession Robert Springsteen Michael Scott"
+    },
+    {
+      "voice": "The convictions rested heavily on the confessions of Springsteen and Scott. But the confessions had serious problems. Both men had been interrogated for many hours without attorneys. Both recanted their confessions almost immediately. Defense attorneys argued the confessions were coerced — that investigators had fed the men details about the crime that they then incorporated into their statements.",
+      "visual": "coerced confession interrogation hours no attorney recant"
+    },
+    {
+      "voice": "In 2009, the Texas Court of Criminal Appeals overturned Springsteen's conviction, ruling that his statement had been used in his trial in violation of his Sixth Amendment right to confront his accuser — Scott had testified against him. The court's ruling focused on constitutional procedure, but the underlying problem was the quality of the confessions themselves. Springsteen was later acquitted when re-tried.",
+      "visual": "Texas Court Criminal Appeals overturned conviction 2009"
+    },
+    {
+      "voice": "DNA analysis of semen recovered from the victims was compared against all four suspects. It matched none of them. This was not a minor discrepancy — it was the most intimate physical evidence from the crime, and it pointed away from every person who had been convicted or accused. The DNA indicated at least one unknown male who was not Robert Springsteen, not Michael Scott, not anyone in the system.",
+      "visual": "DNA analysis semen evidence no match unknown male"
+    },
+    {
+      "voice": "Scott's conviction was also vacated. The charges against Pierce were dismissed. All four men were released. The case was back at square one — except now it was 20 years later, the crime scene was long gone, and the families of Amy, Jennifer, Sarah, and Eliza had spent two decades believing justice had been done, only to discover it had not.",
+      "visual": "released vacated dismissed back square one families"
+    },
+    {
+      "voice": "The families of the victims have endured one of the most prolonged and painful experiences any crime victim family can face. They witnessed four men convicted. They watched those convictions fall. They were told the DNA didn't match. They have spent over 30 years without knowing who killed their daughters, sisters, and friends — and, for a decade, believing falsely that they did know.",
+      "visual": "families grief prolonged pain wrongful conviction aftermath"
+    },
+    {
+      "voice": "Austin Police Department has kept the case open. In 2014, they announced that forensic genealogy analysis of the unknown DNA profile was underway. The same technology used in the Golden State Killer case was being applied. Investigators said they had developed leads they were pursuing. No arrests followed the announcement.",
+      "visual": "Austin police 2014 DNA genealogy analysis ongoing leads"
+    },
+    {
+      "voice": "The confession controversy in the Yogurt Shop case became a landmark study in the false confession literature. Law professor Steven Drizin and researchers at Northwestern University examined the Springsteen and Scott statements in detail, concluding they contained classic markers of contaminated confessions. The case is now taught in law schools as an example of how interrogation-induced false confessions can produce wrongful convictions.",
+      "visual": "law school case study false confession academic study"
+    },
+    {
+      "voice": "The I Can't Believe It's Yogurt chain changed its name to TCBY several years after the murders — a corporate rebranding that had nothing to do with the case but that effectively erased the association with the Austin killings from the brand. The shopping center where the yogurt shop stood has been rebuilt and changed multiple times. The physical location of the crime has been overwritten.",
+      "visual": "TCBY branding change Arboretum Austin rebuilt location"
+    },
+    {
+      "voice": "The unknown DNA profile from the Yogurt Shop murders sits in a database. Every year, more profiles are added — from consumer ancestry sites, from crime databases, from medical records. The probability of a match increases with every new profile added. The Golden State Killer was identified 40 years after his crimes through exactly this process. The Yogurt Shop killer, if alive and with any living relatives who have used a consumer DNA service, could be identified tomorrow.",
+      "visual": "DNA database growing probability match consumer ancestry"
+    },
+    {
+      "voice": "Amy Ayers was 13. Jennifer Harbison was 17. Sarah Harbison was 15. Eliza Thomas was 17. They went to work at a yogurt shop and didn't come home. Thirty years of investigation produced wrongful convictions, exonerations, DNA that excluded the accused, and no conviction of the people who actually did this. The case is a catalogue of institutional failure — and a testament to the stubbornness of their families in demanding that it continue.",
+      "visual": "four victims named memorial ages portraits tribute"
+    },
+    {
+      "voice": "Austin is a city transformed in the three decades since 1991 — from a university town and state capital to a tech hub and cultural destination. The yogurt shop case is a piece of the city's history that its newer residents may not know. But for the families of Amy, Jennifer, Sarah, and Eliza — and for the investigators who have never stopped working it — the case is not history. It is the present.",
+      "visual": "Austin city transformation memorial continuous present"
+    }
+  ]
+}

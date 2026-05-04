@@ -1,0 +1,61 @@
+{
+  "id": 45,
+  "title": "Fibra: El Nutriente Más Infravalorado Del Mundo (y Por Qué Te Falta)",
+  "description": "Solo el 5% de la población llega a los 30g diarios de fibra recomendados. Analizamos fibra soluble, insoluble, SCFAs, microbioma, cáncer colorrectal, longevidad y las mejores fuentes.",
+  "tags": ["fibra", "fibra dietética", "microbioma", "SCFA", "butirato", "cáncer colorrectal", "colesterol", "longevidad", "prebiótico", "nutrición"],
+  "thumbnail_text": "FIBRA EL GRAN OLVIDADO",
+  "segments": [
+    {
+      "voice": "Si tuviéramos que elegir un único cambio nutricional con el mayor impacto demostrado en salud para la mayoría de la población occidental, probablemente sería este: comer más fibra. La ingesta recomendada por la OMS es de 25 a 30 gramos diarios. La ingesta media real en Europa es de 18 gramos. En España, solo el 5 por ciento de la población llega al mínimo recomendado. Y las consecuencias de esa deficiencia están bien documentadas.",
+      "visual": "dietary fiber vegetables legumes whole grains fruits daily intake"
+    },
+    {
+      "voice": "La fibra dietética es el conjunto de carbohidratos de origen vegetal que los humanos no podemos digerir con nuestras propias enzimas. Se clasifica en soluble e insoluble. La fibra soluble, presente en avena, legumbres y manzanas, forma un gel viscoso en el intestino que ralentiza la absorción de glucosa y atrapa el colesterol. La fibra insoluble, presente en cereales integrales y verduras, aumenta el volumen del bolo fecal y acelera el tránsito intestinal.",
+      "visual": "soluble insoluble fiber difference oat legumes whole grain vegetables"
+    },
+    {
+      "voice": "El mecanismo más transformador de la fibra es su fermentación por el microbioma. Las bacterias intestinales anaerobias fermentan la fibra soluble y producen ácidos grasos de cadena corta o SCFAs: principalmente butirato, propionato y acetato. Estos SCFAs son los comunicadores químicos entre el microbioma y el resto del organismo. El butirato es especialmente importante: es el principal combustible energético de los colonocitos, las células del colon.",
+      "visual": "gut bacteria fermentation fiber SCFA butyrate propionate acetate colon"
+    },
+    {
+      "voice": "El butirato tiene propiedades antiinflamatorias y anticancerígenas directas. Inhibe las histona-desacetilasas, enzimas que regulan la expresión génica, y activa genes supresores de tumores en las células del colon. Un metaanálisis de 2020 en Gut con 29 estudios y más de 2 millones de participantes estableció una reducción del 10 por ciento en riesgo de cáncer colorrectal por cada 10 gramos adicionales de fibra diaria. Es una de las asociaciones dietéticas-cáncer más robustas que existen.",
+      "visual": "butyrate colon cancer prevention gene expression epigenetic HDAC inhibitor"
+    },
+    {
+      "voice": "La fibra soluble y el colesterol. La beta-glucano de la avena es la fibra más estudiada para este efecto. Un metaanálisis de 2014 en the American Journal of Clinical Nutrition con 58 ensayos controlados mostró que 3 gramos diarios de beta-glucano de avena reducen el LDL colesterol en un promedio de 5 mg/dL. El mecanismo es la unión a los ácidos biliares en el intestino, forzando al hígado a sintetizar más ácidos biliares nuevos desde el colesterol.",
+      "visual": "oat beta-glucan cholesterol LDL reduction bile acids mechanism"
+    },
+    {
+      "voice": "La fibra y la glucemia. Un metaanálisis de 2019 en Diabetes Care con 83 estudios demostró que la fibra viscosa reduce el índice glucémico de las comidas en un 25 por ciento y la hemoglobina glicosilada HbA1c en pacientes diabéticos en 0,58 puntos porcentuales, equivalente al efecto de varios fármacos antidiabéticos de primera línea. El gel viscoso formado en el intestino ralentiza la difusión de glucosa hasta los enterocitos.",
+      "visual": "fiber glycemic index glucose diabetes HbA1c insulin viscous gel"
+    },
+    {
+      "voice": "El propionato, otro SCFA producido por la fermentación de fibra, viaja al hígado y activa la gluconeogénesis a partir de lactato, reduciendo la síntesis de novo de grasas hepáticas. Es uno de los mecanismos por los que las dietas ricas en fibra protegen contra la enfermedad hepática grasa no alcohólica, cuya prevalencia se ha triplicado en Europa en los últimos 20 años.",
+      "visual": "propionate liver fatty liver disease NAFLD hepatic lipid metabolism"
+    },
+    {
+      "voice": "La diversidad del microbioma depende directamente de la variedad de fibras consumidas. Diferentes bacterias prefieren distintos tipos de fibra. Bifidobacterium prefiere inulina y FOS, Lactobacillus fermenta arabinoxilanos, Ruminococcus come celulosa. Un estudio de 2022 en Cell Host and Microbe con 1.098 participantes mostró que la diversidad de plantas en la dieta medida por número de especies distintas por semana fue el predictor más fuerte de diversidad del microbioma, incluso más que el contenido calórico.",
+      "visual": "microbiome diversity plant variety fiber different sources bacteria"
+    },
+    {
+      "voice": "La fibra y la saciedad son otra dimensión crítica. La fibra aumenta el volumen del bolo alimenticio y ralentiza el vaciado gástrico, aumentando la sensación de plenitud. Activa también la secreción de péptidos saciantes como el GLP-1 y el PYY en el intestino delgado. Un metaanálisis de 2013 en Obesity Reviews con 62 estudios encontró que sustituir carbohidratos refinados por fibra reducía la ingesta calórica voluntaria en una media de 10 por ciento.",
+      "visual": "fiber satiety GLP-1 PYY gut hormones appetite reduction fullness"
+    },
+    {
+      "voice": "Para la longevidad, un metaanálisis de 2022 en The Lancet con 245 estudios prospectivos y 4.635 ensayos clínicos estableció la evidencia más contundente hasta la fecha. Comparando el quintil más alto versus el más bajo de ingesta de fibra, el riesgo de muerte prematura se redujo un 23 por ciento, la mortalidad cardiovascular un 26 por ciento y el cáncer colorrectal un 25 por ciento. La relación era dosis-dependiente y lineal.",
+      "visual": "fiber longevity mortality risk Lancet meta-analysis dose response"
+    },
+    {
+      "voice": "Los mejores alimentos ricos en fibra: las semillas de chía son las campeonas con 34 gramos por 100 gramos, seguidas de las semillas de lino con 27 gramos. Las alubias y los garbanzos tienen entre 12 y 16 gramos por 100 gramos en cocido. La avena tiene 10 gramos. Los frutos secos como las almendras entre 10 y 12 gramos. Las frutas enteras como las peras con piel, los higos y los aguacates tienen entre 5 y 7 gramos. Las verduras frescas entre 2 y 4 gramos.",
+      "visual": "fiber rich foods chia seeds lentils chickpeas oats almonds fruits"
+    },
+    {
+      "voice": "El problema con aumentar la fibra bruscamente es el malestar digestivo: gases, hinchazón y calambres. Esto ocurre porque el microbioma necesita adaptarse. La solución es aumentar la ingesta de forma gradual, entre 5 y 10 gramos adicionales por semana, y asegurar buena hidratación porque la fibra absorbe agua. Una vez el microbioma se adapta, la mayoría de personas tolera bien 30 o más gramos diarios.",
+      "visual": "fiber increase gradual digestive adaptation gas bloating hydration"
+    },
+    {
+      "voice": "La fibra no es glamorosa. No hay industria detrás vendiendo fibra a 80 euros el frasco. Las judías, las lentejas, la avena, las semillas y las verduras son aburridas comparadas con los suplementos exóticos. Pero ningún suplemento, adaptógeno ni compuesto antiaging tiene la consistencia y el tamaño del efecto que tiene la fibra en los estudios de mayor calidad disponibles. Es el nutriente con la relación coste-beneficio más alta que existe y el que más lejos está de las recomendaciones de la mayoría.",
+      "visual": "fiber simple cheap food beans oats vegetables health evidence"
+    }
+  ]
+}
