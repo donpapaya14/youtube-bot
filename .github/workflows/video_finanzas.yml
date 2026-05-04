@@ -1,11 +1,8 @@
 name: "Video: FinanzasClara"
 on:
   schedule:
-    - cron: '30 7 * * *'
-    - cron: '30 10 * * *'
-    - cron: '30 13 * * *'
-    - cron: '30 16 * * *'
-    - cron: '30 19 * * *'
+    - cron: '0 9 * * *'
+    - cron: '0 17 * * *'
   workflow_dispatch:
 jobs:
   video:

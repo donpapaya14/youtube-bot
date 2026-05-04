@@ -8,3 +8,4 @@ output/
 # MP3 in root only, allow assets/music/
 /temp/*.mp3
 get_token.py
+.title_cache/

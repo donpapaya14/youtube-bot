@@ -173,10 +173,7 @@ CONTENT_FORMULAS = {
 
 NICHE_MAP = {
     "FinanzasClara": "finanzas",
-    "MenteLegal": "legal",
-    "IAExplica": "ia",
     "SaludLongevidad": "salud_longevidad",
-    "MentePróspera": "negocio",
     "VidaSana360": "salud_bienestar",
     "CatBrothers": "gatos",
     "HogarInteligente": "hogar",
@@ -188,6 +185,16 @@ CONTENT_FORMULAS["gatos"] = [
     "Un comportamiento de gatos explicado científicamente: por qué hacen X",
     "Un alimento que los gatos NO deben comer con nivel de toxicidad real según ASPCA",
     "Un juguete casero para gatos con materiales de casa y por qué les encanta",
+    "Una señal de enfermedad en gatos que los dueños ignoran, con datos de veterinarios",
+    "Un mito sobre gatos que es completamente falso, con estudio que lo desmiente",
+    "Una diferencia entre gatos domésticos y salvajes que explica un comportamiento concreto",
+    "Un truco de adiestramiento felino que funciona según la ciencia del comportamiento animal",
+    "Una planta tóxica para gatos que muchos tienen en casa, con nivel de peligro según ASPCA",
+    "Un dato sobre la visión, oído o olfato de los gatos comparado con humanos, con cifras reales",
+    "Un error común en la alimentación de gatos que causa problemas de salud a largo plazo",
+    "Una curiosidad sobre los ronroneos de los gatos: frecuencia exacta y beneficios demostrados",
+    "Un tipo de arena para gatos que es mejor según estudios veterinarios y por qué",
+    "Una historia real de un gato famoso (Félicette, Unsinkable Sam, etc.) con datos verificables",
 ]
 
 CONTENT_FORMULAS["hogar"] = [
@@ -196,18 +203,46 @@ CONTENT_FORMULAS["hogar"] = [
     "Un truco para ahorrar energía en casa con cifra real de cuánto ahorras al año en euros",
     "Un hack de organización del hogar con método concreto y pasos numerados que puedes aplicar hoy",
     "Un error doméstico común que te cuesta dinero o salud con dato verificable y solución práctica",
+    "Un electrodoméstico que gastas mal sin saberlo: consumo real en kWh y cómo optimizarlo",
+    "Un truco para eliminar un olor concreto del hogar con la química de por qué funciona",
+    "Un material de cocina que deberías dejar de usar según estudios de seguridad alimentaria",
+    "Una forma de organizar el frigorífico que reduce desperdicio alimentario con datos de la FAO",
+    "Un truco de fontanería casera que te ahorra llamar al técnico, paso a paso",
+    "Una temperatura ideal para cada habitación según la OMS y cuánto ahorras ajustándola",
+    "Un producto de limpieza que NUNCA debes mezclar con otro: reacción química peligrosa",
+    "Un hack para que la ropa dure más basado en ciencia textil real",
+    "Un truco para reducir humedad en casa sin deshumidificador con explicación física",
+    "Un error al cargar el lavavajillas que reduce su eficacia un 40% según fabricantes",
 ]
 
 CONTENT_FORMULAS["salud_longevidad"].extend([
     "Un suplemento con evidencia real de beneficio en longevidad con dosis y estudio publicado",
     "Un error común que acorta la vida con dato estadístico y alternativa saludable respaldada",
     "Un descubrimiento reciente sobre envejecimiento celular con nombre de investigadores y universidad",
+    "Un alimento de las zonas azules que extiende la vida con datos epidemiológicos reales",
+    "Un marcador sanguíneo que predice longevidad y cómo mejorarlo según estudios clínicos",
+    "Un tipo de ejercicio que revierte el envejecimiento según estudios de telómeros",
+    "Un patrón de sueño específico asociado a mayor esperanza de vida con datos de cohortes",
+    "Una técnica de gestión del estrés con impacto medible en biomarcadores de envejecimiento",
+    "Un hábito social que aumenta la esperanza de vida más que el ejercicio según Harvard",
+    "Una vitamina o mineral cuyo déficit acelera el envejecimiento con dosis óptima según estudios",
+    "Un descubrimiento sobre la microbiota intestinal y longevidad con universidad y año del estudio",
+    "Un protocolo de ayuno con evidencia en longevidad: tipo, duración y estudio que lo respalda",
 ])
 
 CONTENT_FORMULAS["salud_bienestar"].extend([
     "Un truco de pérdida de peso respaldado por un estudio real con nombre de universidad y cifra concreta",
     "Un error de dieta muy común con explicación científica de por qué NO funciona y qué hacer en su lugar",
     "Un ejercicio específico que quema más calorías que correr con datos medibles de un estudio real",
+    "Un alimento que reduce la inflamación con mecanismo biológico y estudio concreto",
+    "Un hábito de hidratación que mejora un aspecto concreto de la salud con cifras",
+    "Una técnica de respiración con beneficio demostrado en presión arterial o cortisol",
+    "Un mito de nutrición popular que es falso según meta-análisis con nombre del estudio",
+    "Un snack saludable que sacia más que otros con datos de índice de saciedad",
+    "Una rutina de estiramientos de 3 minutos que mejora un dolor concreto según fisioterapeutas",
+    "Un momento del día óptimo para hacer ejercicio según cronobiología con estudio real",
+    "Un tipo de fibra específica con beneficio concreto para el intestino según gastroenterólogos",
+    "Un error al dormir que arruina la calidad del sueño con datos de polisomnografía",
 ])
 
 
@@ -241,11 +276,11 @@ def _get_recent_titles(channel: dict) -> list[str]:
 
         uploads_id = ch_resp["items"][0]["contentDetails"]["relatedPlaylists"]["uploads"]
 
-        # Obtener últimos 30 videos
+        # Obtener últimos 50 videos
         pl_resp = youtube.playlistItems().list(
             part="snippet",
             playlistId=uploads_id,
-            maxResults=30,
+            maxResults=50,
         ).execute()
 
         titles = [item["snippet"]["title"] for item in pl_resp.get("items", [])]
@@ -254,6 +289,66 @@ def _get_recent_titles(channel: dict) -> list[str]:
     except Exception as e:
         log.warning("Dedup: no se pudieron obtener títulos: %s", str(e)[:100])
         return []
+
+
+# ── Local title cache (evita race condition entre crons del mismo día) ──
+
+def _local_cache_path(channel_name: str) -> str:
+    project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    cache_dir = os.path.join(project_root, ".title_cache")
+    os.makedirs(cache_dir, exist_ok=True)
+    return os.path.join(cache_dir, f"{channel_name}.txt")
+
+
+def _load_local_titles(channel_name: str) -> list[str]:
+    """Carga títulos del cache local (últimos 60 días)."""
+    path = _local_cache_path(channel_name)
+    if not os.path.exists(path):
+        return []
+    titles = []
+    cutoff = time.time() - 60 * 86400  # 60 días
+    lines = []
+    with open(path) as f:
+        for line in f:
+            line = line.strip()
+            if "|" not in line:
+                continue
+            ts_str, title = line.split("|", 1)
+            try:
+                ts = float(ts_str)
+            except ValueError:
+                continue
+            if ts > cutoff:
+                titles.append(title)
+                lines.append(line)
+    # Reescribir solo líneas no expiradas
+    with open(path, "w") as f:
+        f.write("\n".join(lines) + "\n" if lines else "")
+    return titles
+
+
+def _save_local_title(channel_name: str, title: str):
+    """Guarda título en cache local con timestamp."""
+    path = _local_cache_path(channel_name)
+    with open(path, "a") as f:
+        f.write(f"{time.time()}|{title}\n")
+
+
+def _is_duplicate(new_title: str, existing_titles: list[str], threshold: float = 0.5) -> bool:
+    """Check si título es demasiado similar a uno existente (word overlap)."""
+    new_words = set(_re.sub(r"[^\w\s]", "", new_title.lower()).split())
+    if len(new_words) < 2:
+        return False
+    for existing in existing_titles:
+        existing_words = set(_re.sub(r"[^\w\s]", "", existing.lower()).split())
+        if len(existing_words) < 2:
+            continue
+        overlap = len(new_words & existing_words)
+        similarity = overlap / min(len(new_words), len(existing_words))
+        if similarity >= threshold:
+            log.warning("Duplicado detectado (%.0f%%): '%s' ≈ '%s'", similarity * 100, new_title[:40], existing[:40])
+            return True
+    return False
 
 
 CHANNEL_TOPICS_MAP = {
@@ -342,40 +437,61 @@ def _load_prewritten_topic(channel: dict) -> dict | None:
         return None
 
 
-def research_topic(channel: dict) -> dict:
-    # 1. Intentar tema pre-escrito primero (mayor calidad)
-    prewritten = _load_prewritten_topic(channel)
-    if prewritten:
-        return prewritten
-
-    # 2. Fallback: generar con AI
-    niche_key = NICHE_MAP.get(channel["name"], "ia")
-    formulas = CONTENT_FORMULAS.get(niche_key, CONTENT_FORMULAS["ia"])
-    formula = random.choice(formulas)
-
-    # Enriquecer con tendencias actuales
-    try:
-        from trending import enrich_prompt_with_trends
-        formula = enrich_prompt_with_trends(formula, niche_key)
-    except Exception as e:
-        log.warning("Trending no disponible: %s", str(e)[:60])
-
-    # Obtener títulos recientes para evitar duplicados (propio + canales hermanos)
-    recent_titles = _get_recent_titles(channel)
+def _collect_all_titles(channel: dict) -> list[str]:
+    """Combina títulos de YouTube API + cache local + canales hermanos."""
+    titles = _get_recent_titles(channel)
+    # Cache local (cubre race condition entre crons del mismo día)
+    local = _load_local_titles(channel["name"])
+    titles.extend(local)
+    # Canales hermanos
     sibling = SIBLING_CHANNELS.get(channel["name"])
     if sibling:
         try:
             sibling_titles = _get_recent_titles(sibling)
-            recent_titles.extend(sibling_titles)
+            titles.extend(sibling_titles)
+            titles.extend(_load_local_titles(sibling["name"]))
             log.info("Cross-dedup: +%d títulos de %s", len(sibling_titles), sibling["name"])
         except Exception as e:
             log.warning("Cross-dedup falló para %s: %s", sibling["name"], str(e)[:60])
-    if recent_titles:
-        avoid_str = "\n".join(f"- {t}" for t in recent_titles)
+    # Dedup lista
+    return list(set(titles))
+
+
+def research_topic(channel: dict) -> dict:
+    all_titles = _collect_all_titles(channel)
+
+    # 1. Intentar tema pre-escrito primero (mayor calidad)
+    prewritten = _load_prewritten_topic(channel)
+    if prewritten:
+        if not _is_duplicate(prewritten["topic"], all_titles):
+            _save_local_title(channel["name"], prewritten["topic"])
+            return prewritten
+        log.warning("Tema pre-escrito duplicado, generando con AI")
+
+    # 2. Fallback: generar con AI + hard dedup (hasta 3 intentos)
+    niche_key = NICHE_MAP.get(channel["name"], "salud_bienestar")
+    formulas = CONTENT_FORMULAS.get(niche_key, CONTENT_FORMULAS["salud_bienestar"])
+
+    if all_titles:
+        avoid_str = "\n".join(f"- {t}" for t in all_titles[-50:])
     else:
         avoid_str = "(sin historial disponible)"
 
-    prompt = f"""Eres un guionista de YouTube Shorts educativos en español con 10M de seguidores.
+    # Shuffle formulas para no repetir la misma
+    shuffled = formulas[:]
+    random.shuffle(shuffled)
+
+    for attempt in range(3):
+        formula = shuffled[attempt % len(shuffled)]
+
+        # Enriquecer con tendencias actuales
+        try:
+            from trending import enrich_prompt_with_trends
+            formula = enrich_prompt_with_trends(formula, niche_key)
+        except Exception:
+            pass
+
+        prompt = f"""Eres un guionista de YouTube Shorts educativos en español con 10M de seguidores.
 Canal: {channel['name']} | Nicho: {channel['niche']}
 
 CREA UN GUIÓN SOBRE: {formula}
@@ -389,7 +505,8 @@ REGLAS:
 - Si mencionas un dato, da la CIFRA REAL
 - Si mencionas un estudio, di DE DÓNDE es
 - CERO relleno, CERO frases vacías
-- El tema DEBE ser diferente a todos los videos ya publicados
+- El tema DEBE ser COMPLETAMENTE diferente a todos los videos listados arriba
+- OBLIGATORIO: elige un ángulo ÚNICO que no aparezca en la lista
 
 Responde JSON:
 {{
@@ -399,8 +516,20 @@ Responde JSON:
   "search_terms": ["búsqueda visual en inglés muy específica del tema para encontrar video de fondo 1", "término visual 2", "término visual 3"]
 }}"""
 
-    data = _call_with_fallback(prompt, primary="groq", temperature=0.9)
-    log.info("Tema: %s", data["topic"])
+        data = _call_with_fallback(prompt, primary="groq", temperature=min(0.9 + attempt * 0.1, 1.2))
+
+        # HARD CHECK: verificar que no sea duplicado
+        if not _is_duplicate(data["topic"], all_titles):
+            _save_local_title(channel["name"], data["topic"])
+            log.info("Tema (intento %d): %s", attempt + 1, data["topic"])
+            return data
+
+        log.warning("Intento %d: tema duplicado '%s', reintentando con otra fórmula", attempt + 1, data["topic"][:40])
+        all_titles.append(data["topic"])  # Evitar regenerar el mismo
+
+    # Si 3 intentos fallan, subir igual pero con warning
+    _save_local_title(channel["name"], data["topic"])
+    log.warning("DEDUP: 3 intentos fallaron, usando último resultado: %s", data["topic"][:50])
     return data
 
 
