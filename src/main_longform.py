@@ -486,7 +486,7 @@ Respond JSON:
         "title": script["title"],
         "description": script["description"],
         "tags": channel.get("default_tags", []) + script.get("tags", []),
-        "topic": f"{topic} — {script.get('case_name', '')}",
+        "topic": script.get("title", ""),
         "thumbnail": thumbnail,
     }
 
