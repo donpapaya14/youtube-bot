@@ -1,0 +1,16 @@
+name: "Video: CatBrothers (Long-Form)"
+
+on:
+  schedule:
+    # 3 videos/semana: Martes, Jueves, Sábado 12:00 España (10:00 UTC)
+    - cron: '0 10 * * 2'
+    - cron: '0 10 * * 4'
+    - cron: '0 10 * * 6'
+  workflow_dispatch:
+
+jobs:
+  video:
+    uses: ./.github/workflows/longform_engine.yml
+    with:
+      channel: catbrothers_lf
+    secrets: inherit

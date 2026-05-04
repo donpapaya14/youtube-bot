@@ -1,0 +1,1562 @@
+[
+  {
+    "id": 1,
+    "topic": "Por qué el vinagre blanco es mejor antical que cualquier producto caro",
+    "hook": "El vinagre limpia mejor que el antical",
+    "key_points": [
+      "El ácido acético del vinagre (pH 2.4) disuelve los depósitos de carbonato de calcio que forman la cal",
+      "Un estudio de la Universidad de Carolina del Norte confirmó que el vinagre elimina el 99% de bacterias en superficies de cocina",
+      "Un litro de vinagre blanco cuesta 0.80€ — un antical comercial cuesta 3-5€ por la misma cantidad",
+      "Truco: mezcla vinagre con agua 50/50 en un spray. Rocía grifos, espera 15 min, frota con esponja. Cal eliminada"
+    ],
+    "search_terms": ["cleaning kitchen faucet", "vinegar cleaning spray", "sparkling clean bathroom"],
+    "category": "limpieza"
+  },
+  {
+    "id": 2,
+    "topic": "El truco del bicarbonato para eliminar olores del frigorífico respaldado por la ciencia",
+    "hook": "Tu nevera huele porque no haces esto",
+    "key_points": [
+      "El bicarbonato de sodio (NaHCO3) es anfótero: neutraliza tanto ácidos como bases, eliminando moléculas de olor en el aire",
+      "Un estudio del Journal of Food Science demostró que 50g de bicarbonato reducen compuestos volátiles un 70% en 24h",
+      "Un paquete de 500g de bicarbonato cuesta 1€ y dura 3 meses dentro de la nevera como desodorizante",
+      "Truco: pon un vaso con 3 cucharadas de bicarbonato sin tapar en la parte trasera del frigorífico. Renueva cada 30 días"
+    ],
+    "search_terms": ["baking soda fridge deodorizer", "clean refrigerator interior", "open fridge organized"],
+    "category": "limpieza"
+  },
+  {
+    "id": 3,
+    "topic": "Cómo ahorrar 300€ al año bajando el termostato solo 1 grado",
+    "hook": "Un grado menos te ahorra 300 euros",
+    "key_points": [
+      "Según el IDAE, cada grado de más en calefacción supone un 7% más de consumo energético",
+      "Una vivienda media en España gasta 990€/año en calefacción (IDAE 2023). Bajar 1°C ahorra unos 69€; bajar 2°C ahorra hasta 138€",
+      "La temperatura recomendada por el IDAE es 19-21°C de día y 15-17°C de noche para confort térmico óptimo",
+      "Truco: programa la calefacción a 20°C de día y 17°C de noche. En 4 meses de invierno ahorras entre 200-300€"
+    ],
+    "search_terms": ["thermostat adjustment savings", "cozy warm living room winter", "heating bill chart"],
+    "category": "ahorro_energía"
+  },
+  {
+    "id": 4,
+    "topic": "El método japonés de organización que usa solo 3 cajas para ordenar cualquier habitación",
+    "hook": "3 cajas y toda tu casa ordenada",
+    "key_points": [
+      "El método '3 cajas' (guardar, donar, tirar) reduce el tiempo de decisión un 60% según un estudio de la UCLA sobre estrés doméstico",
+      "Un estudio del Journal of Personality and Social Psychology mostró que el desorden crónico eleva el cortisol un 25%",
+      "La persona media tiene 300.000 objetos en casa según el LA Times — el 80% se usa menos de una vez al año",
+      "Truco: elige UNA habitación. Pon 3 cajas etiquetadas. Cada objeto que toques va a una caja. Sin pensar más de 5 segundos por objeto"
+    ],
+    "search_terms": ["declutter room before after", "organizing boxes method", "minimalist tidy room"],
+    "category": "organización"
+  },
+  {
+    "id": 5,
+    "topic": "Por qué lavar los platos con agua fría ahorra más de lo que crees",
+    "hook": "Agua caliente en platos es tirar dinero",
+    "key_points": [
+      "El 80-90% de la energía que usa una lavadora o lavavajillas se destina a calentar agua, según el Departamento de Energía de EEUU",
+      "Un estudio de la Universidad de Vanderbilt demostró que el agua fría con jabón elimina las mismas bacterias que el agua caliente",
+      "Calentar agua de 15°C a 55°C para fregar consume unos 1.5 kWh por sesión — a 0.15€/kWh son 82€/año si friegas 1 vez al día",
+      "Truco: usa agua fría con un buen chorro de jabón. La grasa se disuelve igual gracias al surfactante del detergente, no al calor"
+    ],
+    "search_terms": ["washing dishes sink", "kitchen sink clean plates", "soap bubbles dish washing"],
+    "category": "ahorro_energía"
+  },
+  {
+    "id": 6,
+    "topic": "Cómo el limón disuelve la grasa quemada del horno sin químicos",
+    "hook": "Un limón limpia tu horno entero",
+    "key_points": [
+      "El ácido cítrico del limón (pH 2.0) descompone los enlaces de las grasas polimerizadas adheridas a las paredes del horno",
+      "Un estudio de la Universidad de Valencia confirmó que el ácido cítrico tiene capacidad desengrasante comparable a productos alcalinos comerciales",
+      "Un limón cuesta 0.30€ frente a 4-6€ de un spray desengrasante para horno comercial",
+      "Truco: corta 2 limones en un recipiente con agua. Mételo al horno a 200°C durante 20 min. El vapor afloja la grasa. Pasa un paño y sale todo"
+    ],
+    "search_terms": ["cleaning oven interior", "lemon steam cleaning", "sparkling clean oven"],
+    "category": "limpieza"
+  },
+  {
+    "id": 7,
+    "topic": "El truco de la toalla húmeda en la secadora que ahorra 30 minutos de secado",
+    "hook": "Una toalla húmeda y 30 min menos",
+    "key_points": [
+      "Una toalla seca añadida a la secadora absorbe humedad extra y crea más superficie de contacto con el aire caliente",
+      "Según la OCU, una secadora consume entre 2-4 kWh por ciclo completo — reducir 30 min ahorra unos 1 kWh (0.15€) por uso",
+      "En 200 usos anuales el ahorro puede llegar a 30€/año solo en electricidad, más la vida útil de la ropa por menos exposición al calor",
+      "Truco: mete una toalla grande seca con la ropa mojada. La toalla absorbe agua y acelera el secado. Retírala a los 15 min"
+    ],
+    "search_terms": ["clothes dryer laundry", "folding fresh laundry", "dryer machine open"],
+    "category": "trucos"
+  },
+  {
+    "id": 8,
+    "topic": "Organizar el armario por frecuencia de uso multiplica tu espacio útil",
+    "hook": "Organizas tu armario al revés y pierdes espacio",
+    "key_points": [
+      "El 80% de las personas usa solo el 20% de su ropa según un estudio de ClosetMaid — principio de Pareto aplicado",
+      "Colocar la ropa más usada a la altura de los ojos (120-160cm) reduce un 40% el tiempo de vestirse según expertos en organización",
+      "La persona media tarda 15 minutos al día eligiendo ropa — 91 horas al año según un estudio de Marks & Spencer",
+      "Truco: gira todas las perchas al revés. Cuando uses una prenda, ponla al derecho. En 3 meses sabrás qué ropa nunca usas"
+    ],
+    "search_terms": ["organized closet clothes", "wardrobe color organized", "minimalist closet hanging"],
+    "category": "organización"
+  },
+  {
+    "id": 9,
+    "topic": "Por qué las cortinas gruesas te ahorran hasta 150€ en calefacción",
+    "hook": "Tus cortinas finas te cuestan 150 euros",
+    "key_points": [
+      "El IDAE estima que el 25-30% del calor de una vivienda se pierde por las ventanas",
+      "Cortinas térmicas gruesas pueden reducir la pérdida de calor por ventanas hasta un 25%, según el Departamento de Energía de EEUU",
+      "En una vivienda que gasta 1.000€/año en calefacción, las cortinas térmicas pueden ahorrar 100-150€ anuales",
+      "Truco: cierra las cortinas gruesas al anochecer y ábrelas en las ventanas que dan al sur durante el día para ganar calor solar gratis"
+    ],
+    "search_terms": ["thick curtains window winter", "thermal curtains living room", "sunlight through curtains"],
+    "category": "ahorro_energía"
+  },
+  {
+    "id": 10,
+    "topic": "Cómo la sal gruesa desatasca tuberías sin necesidad de productos químicos",
+    "hook": "Sal gruesa y agua hirviendo desatascan todo",
+    "key_points": [
+      "La sal gruesa (NaCl) actúa como abrasivo natural que rompe los depósitos de grasa y jabón adheridos a las paredes de la tubería",
+      "Los desatascadores químicos contienen hidróxido de sodio que puede corroer tuberías de PVC antiguas según la OCU",
+      "Un paquete de sal gruesa de 1kg cuesta 0.50€ — un desatascador químico cuesta 3-8€ por uso",
+      "Truco: echa medio vaso de sal gruesa por el desagüe. Espera 15 min. Vierte 1 litro de agua hirviendo. Repite semanalmente como prevención"
+    ],
+    "search_terms": ["unclog drain kitchen", "pouring water down sink", "clean drain pipe"],
+    "category": "limpieza"
+  },
+  {
+    "id": 11,
+    "topic": "El método de los 5 minutos que elimina el desorden de cualquier mesa",
+    "hook": "5 minutos y tu mesa siempre limpia",
+    "key_points": [
+      "Un estudio de la Universidad de Princeton demostró que el desorden visual reduce la capacidad de concentración un 30%",
+      "La regla de los 5 minutos de David Allen (Getting Things Done) se basa en que tareas cortas eliminan la parálisis por acumulación",
+      "El 75% de los papeles en una mesa de escritorio promedio no se necesitan, según la National Association of Professional Organizers",
+      "Truco: pon un temporizador de 5 min cada noche. Todo lo que está en la mesa va a su sitio o a la basura. Sin excepción"
+    ],
+    "search_terms": ["clean desk organized", "messy desk before after", "timer declutter routine"],
+    "category": "organización"
+  },
+  {
+    "id": 12,
+    "topic": "Cómo el papel de aluminio detrás del radiador te ahorra un 10% en calefacción",
+    "hook": "Papel de aluminio detrás del radiador ahorra 10%",
+    "key_points": [
+      "El panel reflectante detrás del radiador refleja el calor infrarrojo hacia la habitación en lugar de que se absorba por la pared",
+      "Según el IDAE, instalar reflectores detrás de radiadores puede mejorar la eficiencia un 5-10% sin coste significativo",
+      "Una pared sin aislamiento detrás de un radiador puede absorber hasta el 35% del calor que emite, según la British Gas",
+      "Truco: pega papel de aluminio grueso (o un panel reflectante de 5€) en la pared detrás de cada radiador. El calor rebota hacia la habitación"
+    ],
+    "search_terms": ["radiator heat reflector", "aluminum foil behind radiator", "warm cozy room radiator"],
+    "category": "ahorro_energía"
+  },
+  {
+    "id": 13,
+    "topic": "Por qué las especias pierden sabor y cómo organizarlas para que duren el doble",
+    "hook": "Tus especias perdieron el sabor hace meses",
+    "key_points": [
+      "Las especias molidas pierden hasta el 50% de sus aceites esenciales en 6 meses si se almacenan mal, según la American Spice Trade Association",
+      "La luz UV degrada los compuestos volátiles: especias en botes transparentes pierden potencia un 30% más rápido",
+      "La humedad por encima del 60% en el almacenamiento provoca apelmazamiento y crecimiento de moho según estudios de la FDA",
+      "Truco: guarda las especias en botes opacos, lejos del fuego. Etiqueta con fecha de apertura. Molidas duran 6 meses, enteras hasta 3 años"
+    ],
+    "search_terms": ["spice rack organized kitchen", "glass jars spices shelf", "herbs and spices storage"],
+    "category": "cocina"
+  },
+  {
+    "id": 14,
+    "topic": "El truco del arroz crudo para salvar un salero húmedo y por qué funciona",
+    "hook": "Pon arroz en tu salero y no se apelmaza",
+    "key_points": [
+      "El arroz crudo absorbe humedad del ambiente porque su almidón es higroscópico — capta hasta un 15% de su peso en agua",
+      "La sal (NaCl) es delicuescente: absorbe humedad del aire cuando la humedad relativa supera el 75%, formando grumos",
+      "Un grano de arroz tiene poros microscópicos que actúan como desecante natural similar al gel de sílice según estudios de ingeniería alimentaria",
+      "Truco: pon 5-6 granos de arroz crudo en el salero. Cambia cada 2 meses. La sal nunca se apelmazará aunque vivas en zona costera"
+    ],
+    "search_terms": ["salt shaker kitchen", "rice grains close up", "seasoning cooking kitchen"],
+    "category": "cocina"
+  },
+  {
+    "id": 15,
+    "topic": "Cómo purgar radiadores te ahorra hasta 100€ al año en calefacción",
+    "hook": "Purga tus radiadores o pierdes 100 euros",
+    "key_points": [
+      "El aire atrapado en radiadores ocupa espacio que debería llenar agua caliente, reduciendo la eficiencia hasta un 15% según el IDAE",
+      "Un radiador con burbujas de aire se calienta de forma desigual: la parte superior queda fría mientras la inferior está caliente",
+      "Purgar todos los radiadores de una casa tarda unos 20 minutos y no requiere herramientas especiales, solo una llave de purga de 2€",
+      "Truco: purga los radiadores antes de encender la calefacción cada otoño. Abre la válvula hasta que deje de salir aire y salga solo agua"
+    ],
+    "search_terms": ["bleeding radiator valve", "warm radiator home heating", "radiator maintenance winter"],
+    "category": "ahorro_energía"
+  },
+  {
+    "id": 16,
+    "topic": "La ciencia detrás de por qué el bicarbonato limpia manchas de grasa en ropa",
+    "hook": "Bicarbonato quita grasa mejor que la lejía",
+    "key_points": [
+      "El bicarbonato (pH 8.3) saponifica las grasas: convierte los ácidos grasos en jabón soluble en agua mediante una reacción alcalina",
+      "Según un estudio del Textile Research Journal, pretratamientos alcalinos como bicarbonato eliminan un 85% de manchas de aceite vs 60% solo con detergente",
+      "Un kilo de bicarbonato cuesta 1.50€ y rinde para más de 50 lavados como pretratamiento de manchas",
+      "Truco: haz pasta con bicarbonato y agua. Aplica sobre la mancha de grasa, deja 30 min. Lava normal. Funciona en algodón, poliéster y mezclas"
+    ],
+    "search_terms": ["removing oil stain clothes", "baking soda paste fabric", "laundry stain treatment"],
+    "category": "limpieza"
+  },
+  {
+    "id": 17,
+    "topic": "El orden del cajón de cubiertos que te ahorra 10 minutos diarios en la cocina",
+    "hook": "Tu cajón de cubiertos te roba 10 minutos",
+    "key_points": [
+      "Un estudio del National Institute of Standards and Technology calculó que buscamos objetos en cocinas desordenadas 10-15 min/día",
+      "El principio de ergonomía de cocina divide el espacio en zonas: preparación, cocción y limpieza. Cada utensilio debe estar en su zona",
+      "Los cajones con separadores reducen el tiempo de búsqueda un 70% frente a cajones donde todo está revuelto, según el Institute for Challenging Disorganization",
+      "Truco: divide el cajón en 5 secciones: cuchillos, tenedores, cucharas, cubiertos de servir, utensilios pequeños. Siempre en el mismo orden"
+    ],
+    "search_terms": ["organized cutlery drawer", "kitchen drawer dividers", "utensil organizer tray"],
+    "category": "organización"
+  },
+  {
+    "id": 18,
+    "topic": "Cómo las bombillas LED te ahorran 200€ al año frente a las halógenas",
+    "hook": "Las halógenas te cuestan 200 euros de más",
+    "key_points": [
+      "Una bombilla LED de 10W da la misma luz que una halógena de 60W — consume un 83% menos según datos del IDAE",
+      "La vida útil de una LED es de 25.000-50.000 horas vs 2.000 horas de una halógena, según la IEA (Agencia Internacional de Energía)",
+      "Una vivienda con 20 puntos de luz ahorra unos 200€/año cambiando todas las halógenas por LED, según cálculos de la OCU",
+      "Truco: empieza por cambiar las 5 bombillas que más usas (salón, cocina, baño). Solo eso ya ahorra unos 80€/año"
+    ],
+    "search_terms": ["LED bulb comparison halogen", "bright living room lighting", "energy saving light bulbs"],
+    "category": "ahorro_energía"
+  },
+  {
+    "id": 19,
+    "topic": "Por qué el agua con vinagre revive las frutas y verduras mustias",
+    "hook": "Vinagre y agua reviven tus verduras mustias",
+    "key_points": [
+      "Las células vegetales pierden turgencia por pérdida de agua (plasmólisis). La inmersión en agua ligeramente ácida favorece la rehidratación por ósmosis",
+      "Un estudio del Journal of Food Science demostró que el vinagre elimina hasta el 98% de pesticidas superficiales en frutas",
+      "La FDA recomienda lavar frutas y verduras con mezcla de agua y vinagre (3:1) para eliminar contaminantes microbianos",
+      "Truco: sumerge lechugas o hierbas mustias en agua fría con 1 cucharada de vinagre por litro. En 30 minutos recuperan firmeza"
+    ],
+    "search_terms": ["fresh vegetables water bowl", "reviving wilted lettuce", "washing fruits kitchen sink"],
+    "category": "cocina"
+  },
+  {
+    "id": 20,
+    "topic": "El truco de congelar hierbas en aceite de oliva para no desperdiciar",
+    "hook": "Congela hierbas en aceite y no tires nada",
+    "key_points": [
+      "El 34% de las hierbas frescas compradas se tiran antes de usarse, según la FAO en su informe sobre desperdicio alimentario",
+      "El aceite de oliva protege las hierbas de la quemadura por congelación al crear una barrera contra la oxidación y la deshidratación",
+      "Los aceites esenciales de las hierbas se conservan mejor en grasa que en agua: el aceite retiene hasta un 90% del sabor original",
+      "Truco: pica hierbas frescas, llénalas en una cubitera, cubre con aceite de oliva. Congela. Saca un cubo cuando cocines y échalo directo a la sartén"
+    ],
+    "search_terms": ["freezing herbs olive oil tray", "herb ice cubes cooking", "fresh herbs kitchen prep"],
+    "category": "cocina"
+  },
+  {
+    "id": 21,
+    "topic": "Cómo la pasta de dientes elimina los rayones del cristal de las gafas y espejos",
+    "hook": "Pasta de dientes borra rayones del cristal",
+    "key_points": [
+      "La pasta de dientes contiene micropartículas abrasivas (sílice hidratada) que pulen superficies a escala microscópica",
+      "El tamaño de partícula del abrasivo dental es de 1-20 micras, ideal para pulir rayones superficiales sin dañar más el cristal",
+      "Un tubo de pasta blanca (no gel) cuesta 1€ y puede reparar rayones menores en gafas, relojes, pantallas de plástico y espejos",
+      "Truco: aplica pasta blanca (sin gel) con un paño de microfibra en movimientos circulares sobre el rayón. Frota 30 seg. Limpia con paño húmedo"
+    ],
+    "search_terms": ["polishing glass surface", "removing scratches mirror", "toothpaste cleaning hack"],
+    "category": "trucos"
+  },
+  {
+    "id": 22,
+    "topic": "Por qué tu congelador gasta más energía si está medio vacío",
+    "hook": "Tu congelador vacío gasta más electricidad",
+    "key_points": [
+      "Un congelador lleno mantiene mejor la temperatura porque los alimentos congelados actúan como masa térmica que retiene el frío",
+      "Cada vez que abres un congelador medio vacío, el aire caliente reemplaza un 30-40% del volumen vs un 10-15% si está lleno, según Energy Star",
+      "El IDAE recomienda mantener el congelador al 75-80% de su capacidad para máxima eficiencia energética",
+      "Truco: si tu congelador está medio vacío, llena botellas de plástico con agua y ponlas en los huecos. Actúan como masa térmica y reduces el consumo"
+    ],
+    "search_terms": ["full freezer organized", "freezer ice bottles energy", "organized frozen food storage"],
+    "category": "ahorro_energía"
+  },
+  {
+    "id": 23,
+    "topic": "El método KonMari simplificado: 5 categorías para ordenar toda tu casa",
+    "hook": "5 categorías y toda tu casa en orden",
+    "key_points": [
+      "Marie Kondo propone ordenar por categorías, no por habitaciones: ropa, libros, papeles, komono (miscelánea) y objetos sentimentales",
+      "Un estudio del Personality and Social Psychology Bulletin vinculó hogares desordenados con niveles más altos de depresión en mujeres",
+      "Las personas que ordenan por categorías completan el proceso un 40% más rápido que quienes van habitación por habitación",
+      "Truco: empieza siempre por ropa — es lo más fácil y abundante. Junta TODA la ropa de la casa en un sitio. Decide pieza por pieza"
+    ],
+    "search_terms": ["konmari folding clothes", "decluttered minimalist room", "tidy organized bedroom"],
+    "category": "organización"
+  },
+  {
+    "id": 24,
+    "topic": "Cómo hacer tu propio desengrasante con solo 3 ingredientes de cocina",
+    "hook": "3 ingredientes y nunca más compras desengrasante",
+    "key_points": [
+      "El jabón de Marsella disuelve grasas por saponificación, el vinagre desinfecta (pH 2.4) y el bicarbonato aporta abrasión suave",
+      "Los desengrasantes comerciales contienen compuestos orgánicos volátiles (COV) que la EPA asocia con irritación respiratoria",
+      "El coste de 1 litro de desengrasante casero es 0.40€ — los comerciales cuestan 2-6€ por la misma cantidad",
+      "Truco: ralla 30g de jabón de Marsella en 500ml de agua caliente. Añade 2 cucharadas de bicarbonato y 100ml de vinagre. Envasa en spray"
+    ],
+    "search_terms": ["homemade cleaning spray", "natural cleaning ingredients", "kitchen counter spray bottle"],
+    "category": "limpieza"
+  },
+  {
+    "id": 25,
+    "topic": "Por qué las ollas a presión ahorran un 70% de energía al cocinar",
+    "hook": "La olla a presión ahorra 70% de gas",
+    "key_points": [
+      "A 1.8 bares de presión, el agua hierve a 120°C en vez de 100°C, lo que cocina los alimentos hasta 3 veces más rápido",
+      "Según un estudio de la Universidad de Zaragoza, la olla a presión reduce el consumo energético un 70% comparada con cocción convencional",
+      "Un cocido que tarda 3 horas en olla normal se hace en 45 minutos en olla a presión — ahorrando gas o electricidad",
+      "Truco: para legumbres, pon agua fría con las legumbres sin remojar. A fuego alto hasta que suba la presión, baja a mínimo y cuenta el tiempo desde ahí"
+    ],
+    "search_terms": ["pressure cooker steam cooking", "energy efficient cooking pot", "kitchen stovetop pressure cooker"],
+    "category": "cocina"
+  },
+  {
+    "id": 26,
+    "topic": "El truco del periódico para limpiar cristales sin dejar marcas",
+    "hook": "Papel de periódico limpia cristales sin marcas",
+    "key_points": [
+      "La tinta de imprenta tradicional contiene negro de humo (carbón) que actúa como agente de pulido microscópico sobre el vidrio",
+      "Las fibras del papel de periódico son más cortas y densas que las del papel de cocina, dejando menos pelusa",
+      "Un estudio de Consumer Reports confirmó que el periódico deja menos residuos que las toallitas de microfibra baratas en cristales",
+      "Truco: rocía vinagre y agua (50/50) en el cristal. Frota con periódico arrugado en movimientos de zigzag, no circulares. Cristal impecable"
+    ],
+    "search_terms": ["cleaning window glass", "streak free window cleaning", "sparkling clean window sunlight"],
+    "category": "limpieza"
+  },
+  {
+    "id": 27,
+    "topic": "Cómo la regla de 'uno entra, uno sale' evita que tu casa se llene de trastos",
+    "hook": "Cada cosa que entra, una tiene que salir",
+    "key_points": [
+      "La persona media compra 68 prendas de ropa al año según un informe de la Fundación Ellen MacArthur",
+      "El hogar promedio acumula un 3% más de objetos cada año si no hay un sistema de eliminación activo, según el UCLA Center on Everyday Lives",
+      "La regla 'one in, one out' reduce un 50% la acumulación según datos de organizadores profesionales certificados",
+      "Truco: pon una bolsa en el armario de la entrada. Cada vez que llegue algo nuevo a casa (ropa, gadget, libro), mete algo viejo en la bolsa. Cuando esté llena, dona"
+    ],
+    "search_terms": ["donation bag clothes", "minimalist organized home", "decluttering before after room"],
+    "category": "organización"
+  },
+  {
+    "id": 28,
+    "topic": "Por qué el modo standby te cuesta 80€ al año y cómo evitarlo",
+    "hook": "El standby te roba 80 euros cada año",
+    "key_points": [
+      "Los aparatos en standby representan entre el 7-11% del consumo eléctrico de un hogar según el IDAE",
+      "Un hogar medio tiene 20-40 dispositivos en standby que consumen entre 30-80W en total, las 24h del día",
+      "La Comisión Europea estimó que el standby cuesta a cada hogar europeo entre 50-100€ anuales",
+      "Truco: usa regletas con interruptor. Apaga la regleta del salón (TV, consola, decodificador) cada noche. Son 5 seg que ahorran 50-80€/año"
+    ],
+    "search_terms": ["power strip switch off", "standby energy waste devices", "unplugging electronics night"],
+    "category": "ahorro_energía"
+  },
+  {
+    "id": 29,
+    "topic": "Cómo el agua oxigenada elimina manchas de sangre de cualquier tela",
+    "hook": "Agua oxigenada quita manchas de sangre al instante",
+    "key_points": [
+      "El peróxido de hidrógeno (H2O2) al 3% oxida la hemoglobina de la sangre, descomponiendo la molécula de color rojo en subproductos incoloros",
+      "Es crucial usar agua fría, no caliente — el calor desnaturaliza las proteínas de la sangre y fija la mancha permanentemente",
+      "Un bote de agua oxigenada de 500ml cuesta 1€ en cualquier farmacia y sirve para decenas de manchas",
+      "Truco: vierte agua oxigenada al 3% directamente sobre la mancha fresca. Espera 5 min hasta que deje de burbujear. Enjuaga con agua fría y lava normal"
+    ],
+    "search_terms": ["removing blood stain fabric", "hydrogen peroxide cleaning", "stain removal laundry"],
+    "category": "limpieza"
+  },
+  {
+    "id": 30,
+    "topic": "La temperatura perfecta para conservar cada alimento y evitar desperdicios",
+    "hook": "Tu nevera está a la temperatura equivocada",
+    "key_points": [
+      "La temperatura ideal del frigorífico es 4°C y del congelador -18°C según la AESAN (Agencia Española de Seguridad Alimentaria)",
+      "Cada grado por encima de 4°C duplica la velocidad de crecimiento de bacterias como Listeria y Salmonella",
+      "El 40% del desperdicio alimentario doméstico se debe a mala conservación según datos del Ministerio de Agricultura de España",
+      "Truco: pon un termómetro dentro de la nevera (cuestan 3€). Ajusta hasta marcar 3-4°C. Los huevos en el estante interior, no en la puerta donde hay más cambios de temperatura"
+    ],
+    "search_terms": ["refrigerator temperature thermometer", "organized fridge food storage", "food safety temperature chart"],
+    "category": "cocina"
+  },
+  {
+    "id": 31,
+    "topic": "Cómo reutilizar la cera de vela que se queda en el fondo del tarro",
+    "hook": "Nunca tires los restos de cera de vela",
+    "key_points": [
+      "En España se consumen unos 200 millones de velas al año y el 30% de la cera se desperdicia como residuo en el fondo del tarro",
+      "La cera de parafina funde a 46-68°C: basta con un baño María a 70°C para relicuarla sin riesgo de combustión",
+      "Los restos de cera también sirven como lubricante para cajones atascados y cremalleras — la cera reduce la fricción un 60%",
+      "Truco: pon el tarro al baño María. Cuando la cera funda, vierte en un molde nuevo con mecha (2€ en tiendas). Mezcla restos de distintas velas para una nueva"
+    ],
+    "search_terms": ["melting candle wax DIY", "reusing candle jars", "homemade candle pouring"],
+    "category": "trucos"
+  },
+  {
+    "id": 32,
+    "topic": "Por qué la ventilación cruzada enfría tu casa sin gastar nada de electricidad",
+    "hook": "Ventilación cruzada enfría gratis tu casa",
+    "key_points": [
+      "La ventilación cruzada puede reducir la temperatura interior 3-5°C al crear un flujo de aire que evacua el calor acumulado",
+      "Según el IDAE, la ventilación natural puede sustituir al aire acondicionado en primavera y otoño, ahorrando hasta 200€/año",
+      "El efecto chimenea (stack effect) hace que el aire caliente suba y salga por ventanas altas, entrando aire fresco por las bajas",
+      "Truco: abre una ventana baja en la fachada sombreada y una ventana alta en la opuesta. El aire cruza toda la vivienda y refresca sin electricidad"
+    ],
+    "search_terms": ["cross ventilation house diagram", "open windows breeze curtains", "natural cooling home summer"],
+    "category": "ahorro_energía"
+  },
+  {
+    "id": 33,
+    "topic": "El método de organización por zonas que funciona para cocinas pequeñas",
+    "hook": "Cocina pequeña pero 3 veces más eficiente",
+    "key_points": [
+      "El triángulo de trabajo cocina (nevera-fuegos-fregadero) debe medir entre 3.5-7.5 metros en total según el estándar NKBA",
+      "El 90% de la cocina se hace con solo 10 utensilios — el resto ocupa espacio innecesario según estudios de ergonomía culinaria",
+      "Las cocinas organizadas por zonas reducen el tiempo de preparación un 25% según un estudio de la Universidad Cornell",
+      "Truco: crea 3 zonas: preparación (tabla, cuchillos, especias), cocción (sartenes, aceite, espátulas), limpieza (jabón, paños, cubo). Todo a un brazo de distancia"
+    ],
+    "search_terms": ["small kitchen organized zones", "kitchen work triangle layout", "compact kitchen storage ideas"],
+    "category": "organización"
+  },
+  {
+    "id": 34,
+    "topic": "Cómo el papel film en los plátanos evita que se pongan negros",
+    "hook": "Envuelve el tallo del plátano y dura el doble",
+    "key_points": [
+      "Los plátanos liberan gas etileno por el tallo, que acelera la maduración y oxidación de la piel",
+      "Envolver el tallo con film reduce la liberación de etileno un 50%, retrasando la maduración 3-5 días según la Universidad de Cornell",
+      "España desperdicia 7.7 millones de toneladas de alimentos al año según el Ministerio de Agricultura — las frutas son un 20%",
+      "Truco: envuelve el tallo de los plátanos con film transparente. Separa los plátanos entre sí para reducir aún más la concentración de etileno"
+    ],
+    "search_terms": ["banana storage wrap stem", "ripe bananas kitchen counter", "preventing fruit browning"],
+    "category": "cocina"
+  },
+  {
+    "id": 35,
+    "topic": "Por qué el jabón de Marsella es el mejor quitamanchas natural que existe",
+    "hook": "El jabón de Marsella quita cualquier mancha",
+    "key_points": [
+      "El jabón de Marsella auténtico (72% de aceite vegetal) tiene un pH de 10 que saponifica grasas sin dañar fibras textiles",
+      "El método tradicional de Marsella (siglo XVII) usa solo 4 ingredientes: aceite de oliva, agua, sosa y sal — sin aditivos químicos",
+      "Una pastilla de 300g cuesta 3€ y dura 6 meses tratando manchas — frente a quitamanchas industriales de 5-8€ que duran 1-2 meses",
+      "Truco: humedece la mancha, frota directamente con la pastilla hasta hacer espuma. Deja actuar 30 min. Lava a máquina. Funciona con hierba, grasa, vino y chocolate"
+    ],
+    "search_terms": ["marseille soap bar laundry", "natural stain remover fabric", "hand washing clothes soap"],
+    "category": "limpieza"
+  },
+  {
+    "id": 36,
+    "topic": "El truco del papel de horno para que nada se pegue al congelador",
+    "hook": "Papel de horno y nada se pega al congelar",
+    "key_points": [
+      "El papel de horno tiene una capa de silicona que impide que los alimentos se adhieran entre sí al congelarse",
+      "Sin separar, los alimentos congelados se sueldan por la formación de cristales de hielo entre superficies en contacto directo",
+      "Separar hamburguesas, filetes o porciones con papel de horno permite sacar una unidad sin descongelar todo — reduciendo el desperdicio un 30%",
+      "Truco: pon un cuadrado de papel de horno entre cada filete, hamburguesa o porción antes de congelar. Así sacas solo lo que necesitas sin descongelar el bloque"
+    ],
+    "search_terms": ["freezing food parchment paper", "stacking frozen portions", "organized freezer containers"],
+    "category": "cocina"
+  },
+  {
+    "id": 37,
+    "topic": "Cómo sellar ventanas con burletes te ahorra 120€ al año en calefacción",
+    "hook": "Burletes de 5€ te ahorran 120 al año",
+    "key_points": [
+      "Las infiltraciones de aire por rendijas de ventanas y puertas suponen un 15-25% de la pérdida de calor según el IDAE",
+      "Un burlete adhesivo de espuma cuesta 3-5€ y se instala en 10 minutos sin herramientas",
+      "El IDAE calcula que sellar una vivienda media con burletes ahorra entre 80-150€ anuales en calefacción",
+      "Truco: pasa una vela encendida por los bordes de ventanas y puertas. Donde la llama oscile, hay infiltración. Pega burlete ahí"
+    ],
+    "search_terms": ["window draft seal strip", "weatherstrip door foam", "insulating windows winter"],
+    "category": "ahorro_energía"
+  },
+  {
+    "id": 38,
+    "topic": "Por qué deberías limpiar el filtro de la campana extractora cada mes",
+    "hook": "Tu campana extractora está llena de grasa tóxica",
+    "key_points": [
+      "Un filtro de campana sucio reduce la capacidad de extracción un 50%, según la ASHRAE (American Society of Heating Engineers)",
+      "La grasa acumulada en filtros de campana es altamente inflamable — los bomberos la señalan como causa frecuente de incendios en cocina",
+      "Cocinar sin campana eficiente expone a PM2.5 (partículas finas) que la OMS vincula con problemas respiratorios crónicos",
+      "Truco: sumerge el filtro metálico en agua hirviendo con 3 cucharadas de bicarbonato. Espera 30 min. La grasa se deshace sola. Aclara y listo"
+    ],
+    "search_terms": ["cleaning range hood filter", "greasy kitchen exhaust", "soaking metal filter cleaning"],
+    "category": "limpieza"
+  },
+  {
+    "id": 39,
+    "topic": "El sistema de cajas etiquetadas que elimina el desorden del trastero",
+    "hook": "Etiqueta tus cajas y encuentra todo en segundos",
+    "key_points": [
+      "El 25% de las personas con garaje de dos plazas no pueden meter el coche porque está lleno de trastos, según un estudio de UCLA",
+      "Etiquetar cajas por categoría (navidad, verano, herramientas, papeles) reduce el tiempo de búsqueda un 75%",
+      "Las cajas transparentes cuestan 1-2€ más pero eliminan la necesidad de abrirlas para ver el contenido — ahorrando horas al año",
+      "Truco: numera cada caja del 1 al N. Haz una lista en papel (o foto) con el contenido de cada número. Pega el número grande en la caja. Nunca más buscarás a ciegas"
+    ],
+    "search_terms": ["labeled storage boxes garage", "organized storage room shelves", "clear plastic bins stacked"],
+    "category": "organización"
+  },
+  {
+    "id": 40,
+    "topic": "Cómo la posición de los muebles afecta la temperatura de tu casa",
+    "hook": "Tus muebles mal puestos te hacen gastar más",
+    "key_points": [
+      "Un sofá delante de un radiador bloquea hasta el 40% de la radiación de calor hacia la habitación, según la Energy Saving Trust",
+      "Las cortinas que cubren un radiador atrapan el calor entre la cortina y la ventana, perdiéndolo por el cristal",
+      "Mover el sofá 30cm del radiador puede aumentar la eficiencia de calefacción un 20% sin coste adicional",
+      "Truco: revisa que ningún mueble, cortina o cubre-radiador bloquee la circulación de aire caliente. El calor necesita espacio para irradiar"
+    ],
+    "search_terms": ["furniture placement radiator", "living room heating efficiency", "sofa near heater arrangement"],
+    "category": "ahorro_energía"
+  },
+  {
+    "id": 41,
+    "topic": "El truco del hielo y la plancha para quitar abolladuras de la madera",
+    "hook": "Un hielo y una plancha reparan tu madera",
+    "key_points": [
+      "La madera maciza tiene 'memoria' celular: las fibras comprimidas se expanden al rehidratarse con calor y humedad",
+      "El vapor de agua penetra la fibra de la madera y la hincha, restaurando abolladuras de hasta 2-3mm de profundidad",
+      "Un carpintero profesional cobra 50-100€ por reparar abolladuras en muebles — este método es gratuito",
+      "Truco: pon un paño húmedo sobre la abolladura. Pasa la plancha caliente encima 30 seg. El vapor expande las fibras. Repite si es necesario. Lija suave al final"
+    ],
+    "search_terms": ["fixing wood dent steam iron", "repairing furniture scratch", "wood restoration DIY"],
+    "category": "trucos"
+  },
+  {
+    "id": 42,
+    "topic": "Por qué cocinar con tapa ahorra un 25% de energía en cada comida",
+    "hook": "Sin tapa pierdes un 25% del calor",
+    "key_points": [
+      "Tapar una olla reduce el tiempo de ebullición un 30% porque evita la pérdida de calor por evaporación según el IDAE",
+      "Sin tapa, el agua tarda 12 minutos en hervir vs 8 minutos con tapa — un 33% menos de tiempo y gas",
+      "El IDAE estima que cocinar siempre con tapa ahorra entre 40-60€/año en una familia media española",
+      "Truco: acostúmbrate a poner tapa SIEMPRE, incluso al calentar agua. Baja el fuego en cuanto hierva. El agua a 100°C no se calienta más por subir el fuego"
+    ],
+    "search_terms": ["cooking pot with lid steam", "boiling water covered pot", "energy efficient cooking tips"],
+    "category": "ahorro_energía"
+  },
+  {
+    "id": 43,
+    "topic": "Cómo organizar los cables de tu casa para que no parezca una jungla",
+    "hook": "Cables por todas partes arruinan tu casa",
+    "key_points": [
+      "El hogar medio tiene más de 30 dispositivos conectados a la corriente según un estudio de Parks Associates",
+      "Los cables enredados acumulan un 50% más de polvo que los organizados, atrayendo ácaros y alérgenos según la AAFA",
+      "El desorden de cables genera estrés visual: un estudio del Journal of Environmental Psychology lo vincula con ansiedad doméstica",
+      "Truco: agrupa cables con bridas de velcro (no plásticas, para poder abrir). Etiqueta cada cable con cinta de carrocero. Pasa los cables por canaletas adhesivas de 3€"
+    ],
+    "search_terms": ["cable management desk home", "organized cables velcro ties", "hidden cables living room"],
+    "category": "organización"
+  },
+  {
+    "id": 44,
+    "topic": "El bicarbonato y el vinagre no son tan buenos juntos como crees",
+    "hook": "Mezclar vinagre y bicarbonato es un error",
+    "key_points": [
+      "Al mezclar bicarbonato (base, pH 8.3) y vinagre (ácido, pH 2.4) se neutralizan mutuamente produciendo agua, CO2 y acetato de sodio — una sal neutra inerte",
+      "La efervescencia da la impresión de limpieza pero es solo CO2 escapando — no tiene poder desinfectante ni desengrasante",
+      "Son más efectivos POR SEPARADO: el vinagre para cal y desinfección, el bicarbonato para grasa y desodorización",
+      "Truco: usa bicarbonato primero para fregar, aclara. Luego rocía vinagre para desinfectar. Así aprovechas las propiedades de cada uno sin anularlas"
+    ],
+    "search_terms": ["baking soda vinegar reaction", "cleaning myths debunked", "chemistry cleaning products"],
+    "category": "datos_curiosos"
+  },
+  {
+    "id": 45,
+    "topic": "Cómo el color de tus paredes afecta la temperatura percibida en tu casa",
+    "hook": "El color de tus paredes cambia la temperatura",
+    "key_points": [
+      "Un estudio de la Universidad de Tokyo demostró que las personas perciben una habitación azul como 3°C más fría que una roja a la misma temperatura",
+      "Los colores claros reflejan hasta un 80% de la luz vs un 20% los oscuros, reduciendo la necesidad de iluminación artificial",
+      "Pintar el exterior de blanco puede reducir la temperatura interior 2-3°C en verano según el Lawrence Berkeley National Laboratory",
+      "Truco: pinta habitaciones orientadas al sur en tonos fríos (azul, verde). Habitaciones al norte en tonos cálidos (crema, amarillo suave). Sensación térmica mejorada sin gastar en climatización"
+    ],
+    "search_terms": ["wall paint colors living room", "cool blue bedroom walls", "warm painted room interior"],
+    "category": "datos_curiosos"
+  },
+  {
+    "id": 46,
+    "topic": "Por qué tu lavadora gasta más si la llenas a medias",
+    "hook": "Tu lavadora a medias gasta casi lo mismo",
+    "key_points": [
+      "Una lavadora consume casi la misma agua y energía al 50% de carga que al 100%, según la OCU — el sensor de peso ajusta solo un 10-15%",
+      "El IDAE estima que poner la lavadora siempre a carga completa ahorra hasta 50€/año en agua y electricidad",
+      "La media española pone 4-5 lavadoras por semana — si fueran a carga completa, serían 3 — un 25-40% menos de ciclos",
+      "Truco: espera a tener carga completa. Si es urgente, usa el programa corto/rápido (30 min) que gasta un 50% menos de energía que el completo"
+    ],
+    "search_terms": ["full load washing machine", "laundry basket full clothes", "washing machine energy saving"],
+    "category": "ahorro_energía"
+  },
+  {
+    "id": 47,
+    "topic": "El truco de la cuchara de madera para evitar que la pasta se desborde",
+    "hook": "Una cuchara de madera y la pasta no se sale",
+    "key_points": [
+      "La espuma del agua de pasta se forma por el almidón que atrapa burbujas de vapor de agua en la superficie",
+      "La cuchara de madera rompe la tensión superficial de las burbujas al ser hidrofóbica y tener temperatura ambiente (más fría que el vapor)",
+      "La madera no conduce calor (0.12 W/mK vs 16 W/mK del acero), así que las burbujas se enfrían y colapsan al tocarla",
+      "Truco: coloca una cuchara de madera atravesada en la boca de la olla. Las burbujas de espuma estallan al tocarla y la pasta no se desborda"
+    ],
+    "search_terms": ["wooden spoon boiling pot", "pasta water overflowing pot", "cooking hack kitchen"],
+    "category": "cocina"
+  },
+  {
+    "id": 48,
+    "topic": "Cómo el percarbonato de sodio blanquea ropa sin dañarla como la lejía",
+    "hook": "Percarbonato blanquea sin destruir la ropa",
+    "key_points": [
+      "El percarbonato de sodio (Na2CO3·1.5H2O2) libera oxígeno activo al disolverse en agua a 40°C+, blanqueando por oxidación suave",
+      "A diferencia de la lejía (hipoclorito de sodio), no debilita las fibras textiles ni amarillea las telas blancas con el tiempo",
+      "Un kilo de percarbonato cuesta 4-5€ y rinde para 20-30 lavados como blanqueante, frente a la lejía que daña elásticos y colores",
+      "Truco: añade 2 cucharadas de percarbonato directamente al tambor (no al cajón). Programa a 40-60°C. Blanquea ropa blanca y elimina manchas de sudor y amarilleo"
+    ],
+    "search_terms": ["white laundry clean bright", "oxygen bleach powder", "whiter clothes washing"],
+    "category": "limpieza"
+  },
+  {
+    "id": 49,
+    "topic": "El sistema de rotación FIFO para que no se te caduque nada en la despensa",
+    "hook": "Lo primero que entra es lo primero que sale",
+    "key_points": [
+      "FIFO (First In, First Out) es un sistema logístico usado en supermercados que reduce el desperdicio un 30% según la FAO",
+      "España desperdicia 1.300 millones de kg de alimentos al año en hogares — el 42% por caducidad según el Ministerio de Agricultura",
+      "Colocar los productos nuevos detrás y los antiguos delante reduce las probabilidades de caducidad en un 60%",
+      "Truco: cada vez que compres, pon lo nuevo al fondo de la estantería y trae al frente lo que ya tenías. Aplica en nevera, congelador y despensa"
+    ],
+    "search_terms": ["organized pantry shelves", "food rotation system kitchen", "labeled food storage containers"],
+    "category": "organización"
+  },
+  {
+    "id": 50,
+    "topic": "Por qué las plantas de interior purifican el aire según la NASA",
+    "hook": "La NASA dice qué plantas limpian tu aire",
+    "key_points": [
+      "El estudio Clean Air de la NASA (1989) demostró que ciertas plantas eliminan hasta el 87% de formaldehído, benceno y tricloroetileno en 24h",
+      "Las plantas más eficientes fueron: potos, espatifilo, palmera de bambú y lengua de suegra (Sansevieria)",
+      "La Sansevieria es una de las pocas plantas que convierte CO2 en O2 por la noche (metabolismo CAM), ideal para dormitorios",
+      "Truco: pon 1 planta por cada 10m² de superficie. Un potos en el salón, un espatifilo en el baño (le gusta la humedad) y una lengua de suegra en el dormitorio"
+    ],
+    "search_terms": ["indoor plants air purifying", "pothos plant living room", "snake plant bedroom"],
+    "category": "datos_curiosos"
+  },
+  {
+    "id": 51,
+    "topic": "Cómo guardar las bolsas de plástico ocupando un 90% menos de espacio",
+    "hook": "Dobla las bolsas en triángulo y cabrán todas",
+    "key_points": [
+      "El hogar español medio acumula 100-200 bolsas de plástico al año según Ecoembes, la mayoría arrugadas bajo el fregadero",
+      "La técnica del triángulo (plegado tipo bandera) reduce el volumen de cada bolsa un 90% y permite almacenar 50 bolsas en el espacio de 5",
+      "Tener bolsas organizadas reduce un 70% la probabilidad de comprar bolsas nuevas al ir a la compra",
+      "Truco: alisa la bolsa, pliega en tira larga de 5cm de ancho. Dobla en triángulos desde abajo. Mete la punta sobrante dentro. Guarda en un bote vertical"
+    ],
+    "search_terms": ["folding plastic bags triangle", "organized bags kitchen", "compact bag storage method"],
+    "category": "organización"
+  },
+  {
+    "id": 52,
+    "topic": "El truco de la sal y el hielo para enfriar bebidas en 5 minutos",
+    "hook": "Sal y hielo enfrían tu bebida en 5 minutos",
+    "key_points": [
+      "La sal baja el punto de fusión del hielo de 0°C a -21°C, creando una solución que absorbe calor del líquido mucho más rápido",
+      "Este principio termodinámico (depresión crioscópica) es el mismo que se usa para hacer helados artesanales y descongelar carreteras",
+      "Una bebida a temperatura ambiente (22°C) llega a 4°C en 5 minutos con hielo y sal, vs 20-30 minutos solo con hielo",
+      "Truco: pon la bebida en un bol con hielo, agua fría y 3 cucharadas de sal. Gira la botella despacio. En 5 min está perfectamente fría"
+    ],
+    "search_terms": ["ice salt cooling drinks fast", "cold drinks party hack", "chilling bottles quickly"],
+    "category": "trucos"
+  },
+  {
+    "id": 53,
+    "topic": "Por qué tu ducha de 10 minutos cuesta 1€ y cómo reducirlo a la mitad",
+    "hook": "Tu ducha de 10 minutos cuesta 1 euro",
+    "key_points": [
+      "Una ducha de 10 min gasta 100-150 litros de agua a un coste de 0.40€ en agua y 0.60€ en energía para calentarla, según la OCU",
+      "Reducir la ducha a 5 min ahorra 18.000 litros de agua al año por persona — unos 180€ anuales para una familia de 3",
+      "El IDAE estima que el agua caliente sanitaria supone el 26% del consumo energético de una vivienda española",
+      "Truco: pon un temporizador de 5 min visible en la ducha. Cierra el agua mientras te enjabonas. Ahorro: 0.50€/ducha x 365 = 180€/año"
+    ],
+    "search_terms": ["shower timer water saving", "short shower routine", "bathroom water conservation"],
+    "category": "ahorro_energía"
+  },
+  {
+    "id": 54,
+    "topic": "Cómo la disposición correcta del lavavajillas ahorra un ciclo de cada tres",
+    "hook": "Cargas mal el lavavajillas y lavas de más",
+    "key_points": [
+      "Colocar los platos sucios mirando hacia el centro permite que los chorros de agua alcancen toda la superficie según Bosch y Siemens",
+      "Los vasos van en la bandeja superior boca abajo e inclinados — si van rectos, acumulan agua sucia en la base",
+      "Una carga optimizada cabe un 30% más de vajilla que una caótica, eliminando 1 de cada 3 ciclos según la OCU",
+      "Truco: platos grandes al fondo mirando al centro. Vasos arriba inclinados. Cubiertos con el mango abajo (excepto cuchillos). Nunca apiles platos uno sobre otro"
+    ],
+    "search_terms": ["loading dishwasher correctly", "dishwasher rack arrangement", "clean dishes kitchen"],
+    "category": "cocina"
+  },
+  {
+    "id": 55,
+    "topic": "Por qué el papel de plata NO debe usarse en el microondas pero el de horno sí",
+    "hook": "Aluminio en el micro pero no papel de horno",
+    "key_points": [
+      "El aluminio refleja las microondas causando arcos eléctricos (chispas) que pueden dañar el magnetrón del microondas o iniciar un incendio",
+      "El papel de horno es transparente a las microondas y soporta hasta 220°C — perfecto para cubrir alimentos en el micro",
+      "La FDA advierte que el aluminio solo es seguro en microondas en cantidades muy pequeñas y lisas, nunca arrugado ni con bordes",
+      "Dato curioso: el papel de horno tiene silicona que resiste hasta 260°C, mientras que el film transparente se deforma a 100°C liberando ftalatos"
+    ],
+    "search_terms": ["microwave safe materials", "parchment paper microwave", "kitchen safety cooking"],
+    "category": "datos_curiosos"
+  },
+  {
+    "id": 56,
+    "topic": "El truco del carbón activado para purificar agua del grifo en casa",
+    "hook": "Carbón activado purifica tu agua del grifo",
+    "key_points": [
+      "El carbón activado tiene una superficie de 500-1500 m² por gramo gracias a sus microporos, adsorbiendo cloro, pesticidas y compuestos orgánicos",
+      "Un estudio de la Universidad de Barcelona demostró que el carbón activado elimina el 95% del cloro libre y el 80% de los trihalometanos del agua",
+      "Una barra de carbón activo (binchotan) cuesta 8-10€ y filtra agua durante 3-6 meses, frente a 30-50€/año en agua embotellada",
+      "Truco: pon una barra de carbón activo en una jarra de agua del grifo. Espera 8 horas. El cloro y los sabores desaparecen. Hierve la barra una vez al mes para reactivarla"
+    ],
+    "search_terms": ["activated charcoal water filter", "binchotan charcoal jug", "purified drinking water glass"],
+    "category": "trucos"
+  },
+  {
+    "id": 57,
+    "topic": "Cómo la regla de los 2 minutos elimina la acumulación de tareas en casa",
+    "hook": "Si tarda 2 minutos hazlo ahora mismo",
+    "key_points": [
+      "David Allen (Getting Things Done) demostró que aplazar tareas de menos de 2 minutos genera más estrés que hacerlas inmediatamente",
+      "Ejemplos de tareas de 2 min: colgar la chaqueta, enjuagar un plato, guardar las llaves, tirar el correo basura",
+      "Aplicar la regla sistemáticamente durante 21 días crea un hábito que mantiene la casa limpia sin sesiones largas de limpieza",
+      "Truco: cada vez que veas algo fuera de sitio, pregúntate: ¿tarda menos de 2 min? Si sí, hazlo ahora. Si no, apúntalo. Tu casa se mantiene sola"
+    ],
+    "search_terms": ["two minute rule productivity", "tidy home routine habits", "quick cleaning daily routine"],
+    "category": "organización"
+  },
+  {
+    "id": 58,
+    "topic": "Por qué poner la lavadora a 30°C limpia igual y ahorra un 60% de energía",
+    "hook": "Lavar a 30 grados ahorra un 60% de luz",
+    "key_points": [
+      "El 90% de la energía de un ciclo de lavadora se usa para calentar agua — bajar de 60°C a 30°C ahorra hasta un 60% según el IDAE",
+      "Los detergentes modernos están formulados para activarse a 20-30°C gracias a enzimas frías (proteasas y lipasas) que no existían hace 15 años",
+      "Un estudio de la Universidad de Leeds demostró que lavar a 30°C elimina el 99% de bacterias comunes con detergente enzimático",
+      "Truco: lava toda la ropa del día a día a 30°C. Solo usa 60°C para toallas, sábanas y ropa de personas enfermas. Ahorro: 40-70€/año"
+    ],
+    "search_terms": ["washing machine temperature dial", "cold wash laundry", "energy saving washing clothes"],
+    "category": "ahorro_energía"
+  },
+  {
+    "id": 59,
+    "topic": "El truco del clavo de olor para repeler hormigas de tu cocina naturalmente",
+    "hook": "Clavos de olor y las hormigas desaparecen",
+    "key_points": [
+      "El eugenol del clavo de olor es un repelente natural de insectos: un estudio del Journal of Agricultural and Food Chemistry confirmó su eficacia contra hormigas",
+      "Las hormigas navegan por feromonas — el olor fuerte del clavo de olor interrumpe sus rastros químicos, desorientándolas",
+      "Un bote de clavos de olor cuesta 1.50€ y protege tu cocina 2-3 meses vs insecticidas de 5-8€ con químicos tóxicos",
+      "Truco: pon clavos de olor enteros en las esquinas donde entran las hormigas, cerca de puertas y ventanas. Renueva cada mes"
+    ],
+    "search_terms": ["cloves ant repellent natural", "ants kitchen counter", "natural pest control home"],
+    "category": "trucos"
+  },
+  {
+    "id": 60,
+    "topic": "Por qué tu nevera tiene zonas de temperatura diferentes y cómo aprovecharlas",
+    "hook": "Cada estante de tu nevera tiene distinta temperatura",
+    "key_points": [
+      "La zona más fría está en la parte trasera inferior (1-3°C), ideal para carnes y pescados que necesitan máximo frío",
+      "La puerta es la zona más cálida (8-10°C) por las aperturas frecuentes — nunca guardes leche o huevos ahí según la AESAN",
+      "Los cajones de verduras tienen humedad controlada (90-95%) que mantiene las hortalizas frescas hasta 5 días más",
+      "Truco: carne y pescado abajo al fondo. Lácteos y huevos en estante central. Sobras arriba. Frutas y verduras en cajones. Salsas y bebidas en la puerta"
+    ],
+    "search_terms": ["refrigerator temperature zones", "organized fridge food placement", "fridge storage guide chart"],
+    "category": "cocina"
+  },
+  {
+    "id": 61,
+    "topic": "Cómo hacer que tus toallas vuelvan a absorber como nuevas",
+    "hook": "Tus toallas no absorben por un error que cometes",
+    "key_points": [
+      "El suavizante deja una capa de silicona en las fibras de algodón que las impermeabiliza con cada lavado — la causa #1 de toallas que no absorben",
+      "El ácido cítrico del vinagre disuelve los residuos de suavizante y cal acumulados en las fibras, restaurando su absorción",
+      "Las toallas nuevas absorben un 40% más que las tratadas con suavizante durante 6 meses, según pruebas de Consumer Reports",
+      "Truco: lava las toallas a 60°C con 1 vaso de vinagre blanco en el cajón del suavizante. NO pongas suavizante. Sécalas al sol. Vuelven a absorber como nuevas"
+    ],
+    "search_terms": ["fluffy absorbent towels", "washing towels vinegar trick", "fresh clean towels stack"],
+    "category": "limpieza"
+  },
+  {
+    "id": 62,
+    "topic": "El sistema japonés de guardar ropa doblada en vertical que triplica el espacio",
+    "hook": "Dobla la ropa vertical y cabe el triple",
+    "key_points": [
+      "El método KonMari de plegado vertical permite ver todas las prendas de un vistazo en el cajón, sin apilar",
+      "Apilar ropa horizontalmente oculta las prendas inferiores — el 80% de las personas solo usa lo que está arriba según Marie Kondo",
+      "Un cajón organizado verticalmente cabe un 200% más de prendas que uno con ropa apilada horizontalmente",
+      "Truco: dobla cada prenda en un rectángulo que se sostenga de pie. Coloca las prendas como si fueran archivos en un cajón. Ves todo sin revolver"
+    ],
+    "search_terms": ["konmari folding method vertical", "organized drawer clothes standing", "tidy folded clothes drawer"],
+    "category": "organización"
+  },
+  {
+    "id": 63,
+    "topic": "Por qué la estufa de gas contamina más de lo que crees dentro de tu casa",
+    "hook": "Tu cocina de gas contamina como un coche",
+    "key_points": [
+      "Un estudio de Stanford (2022) demostró que las cocinas de gas emiten NO2 y benceno incluso apagadas por fugas microscópicas",
+      "Cocinar con gas sin campana extractora puede generar niveles de NO2 que superan los límites de la OMS para exteriores según la EPA",
+      "Un estudio del International Journal of Environmental Research vinculó cocinas de gas con un 42% más de asma infantil en hogares sin ventilación",
+      "Truco: SIEMPRE enciende la campana extractora antes de encender el gas. Abre una ventana cercana. Si puedes, cambia a inducción — es un 90% más eficiente"
+    ],
+    "search_terms": ["gas stove kitchen pollution", "ventilation cooking kitchen", "indoor air quality cooking"],
+    "category": "datos_curiosos"
+  },
+  {
+    "id": 64,
+    "topic": "Cómo el ácido cítrico elimina la cal de la tetera y el hervidor",
+    "hook": "Un limón descalcifica tu hervidor entero",
+    "key_points": [
+      "El ácido cítrico disuelve el carbonato de calcio (cal) mediante una reacción que produce citrato de calcio soluble, CO2 y agua",
+      "La cal en el hervidor actúa como aislante térmico: 1mm de cal aumenta el consumo energético un 10% según la Water Quality Association",
+      "Un sobre de ácido cítrico de 50g cuesta 1€ y descalcifica 2-3 electrodomésticos vs productos descalcificantes de 4-6€ por uso",
+      "Truco: llena el hervidor con agua y 2 cucharadas de ácido cítrico (o zumo de 2 limones). Hierve. Deja reposar 1 hora. Aclara. La cal desaparece"
+    ],
+    "search_terms": ["descaling kettle citric acid", "limescale removal natural", "clean electric kettle"],
+    "category": "limpieza"
+  },
+  {
+    "id": 65,
+    "topic": "El truco de las bolsas de gel de sílice que siempre tiras y no deberías",
+    "hook": "Las bolsitas de sílice que tiras valen oro",
+    "key_points": [
+      "El gel de sílice absorbe hasta un 40% de su peso en humedad, evitando moho, oxidación y deterioro de objetos guardados",
+      "Un estudio del National Museum of American History usa gel de sílice para conservar documentos históricos con humedad controlada",
+      "Cada español tira unas 50-100 bolsitas de sílice al año que vienen en zapatos, bolsos, electrónica y medicamentos",
+      "Truco: guarda las bolsitas. Pon 2-3 en tu caja de herramientas (evita óxido), en el cajón de fotos, en la bolsa de deporte (absorbe humedad). Reactívalas en el horno a 120°C durante 1h"
+    ],
+    "search_terms": ["silica gel packets reuse", "moisture absorber closet", "desiccant packets storage"],
+    "category": "trucos"
+  },
+  {
+    "id": 66,
+    "topic": "Cómo la orientación de tu vivienda determina cuánto pagas de luz",
+    "hook": "Tu casa mira al sitio equivocado y pagas más",
+    "key_points": [
+      "Una vivienda orientada al sur en España recibe un 60% más de radiación solar en invierno que una orientada al norte, según el IDAE",
+      "Las viviendas orientadas al este reciben sol matutino (fresco) y las del oeste sol vespertino (caluroso) — esto cambia la necesidad de climatización",
+      "Según el Código Técnico de Edificación, la orientación puede suponer una diferencia de 20-30% en la demanda energética de calefacción y refrigeración",
+      "Truco: si tu vivienda da al sur, aprovecha el sol invernal con cortinas abiertas de día (calor gratis). Si da al oeste, pon toldos o cortinas térmicas para bloquear el sol de tarde en verano"
+    ],
+    "search_terms": ["house sun orientation south", "solar gain windows winter", "home energy efficiency orientation"],
+    "category": "ahorro_energía"
+  },
+  {
+    "id": 67,
+    "topic": "Por qué guardar las patatas con manzanas evita que germinen",
+    "hook": "Pon una manzana con las patatas y no brotan",
+    "key_points": [
+      "Las manzanas emiten gas etileno que inhibe la brotación de las patatas al suprimir la hormona giberelina responsable de la germinación",
+      "Un estudio del Postharvest Biology and Technology Journal confirmó que el etileno de manzana retrasa la brotación de patatas hasta 8 semanas",
+      "El 25% de las patatas domésticas se desperdician por germinación prematura según la FAO",
+      "Truco: guarda las patatas en lugar oscuro, seco y fresco (10-15°C). Pon 1-2 manzanas entre ellas. Las patatas duran hasta 2 meses sin brotar"
+    ],
+    "search_terms": ["storing potatoes with apples", "potato storage dark pantry", "preventing potato sprouting"],
+    "category": "cocina"
+  },
+  {
+    "id": 68,
+    "topic": "El sistema de la bandeja de entrada para que el correo no invada tu casa",
+    "hook": "El correo invade tu casa sin esta bandeja",
+    "key_points": [
+      "El hogar medio recibe 848 piezas de correo al año, el 40% es publicidad no solicitada según datos de Correos/USPS",
+      "Los papeles sin procesar son la causa #1 de desorden en mesas y encimeras según la National Association of Professional Organizers",
+      "Un sistema de 3 bandejas (urgente/pendiente/archivar) elimina el 90% de la acumulación de papeles según el método GTD",
+      "Truco: pon una bandeja en la entrada. Al llegar, abre TODO el correo inmediatamente: basura a reciclar, facturas a la bandeja 'pendiente', importante a 'urgente'. NUNCA dejes correo sin abrir"
+    ],
+    "search_terms": ["mail organizer tray entry", "paper sorting system home", "desk inbox letter tray"],
+    "category": "organización"
+  },
+  {
+    "id": 69,
+    "topic": "Cómo las cáscaras de huevo pueden limpiar tu termo y botellas estrechas",
+    "hook": "Cáscaras de huevo limpian lo que no alcanzas",
+    "key_points": [
+      "Las cáscaras de huevo trituradas actúan como abrasivo natural (carbonato de calcio, 5 en la escala de Mohs) que no raya el cristal ni el acero inoxidable",
+      "Las botellas de cuello estrecho son imposibles de limpiar con esponja — las cáscaras con agua caliente alcanzan todo el interior",
+      "España consume 9.000 millones de huevos al año según INPROVO — las cáscaras suelen ir a la basura orgánica sin segundo uso",
+      "Truco: tritura cáscaras de 2-3 huevos, échalas dentro del termo con agua caliente y una gota de jabón. Agita fuerte 1 min. Enjuaga. Interior como nuevo"
+    ],
+    "search_terms": ["cleaning narrow bottle inside", "eggshell cleaning hack thermos", "scrubbing water bottle"],
+    "category": "trucos"
+  },
+  {
+    "id": 70,
+    "topic": "Por qué tu casa pierde calor por el suelo y cómo frenarlo sin obra",
+    "hook": "Tu suelo pierde calor y pagas de más",
+    "key_points": [
+      "Un suelo sin aislamiento puede suponer una pérdida del 10-15% del calor total de la vivienda, según el IDAE",
+      "Los pies perciben el frío del suelo directamente: un suelo a 17°C hace que la temperatura percibida baje 2-3°C respecto a la del aire",
+      "Una alfombra gruesa sobre suelo frío actúa como aislante con R-value de 1.5-2.5, reduciendo la pérdida de calor por el suelo un 25%",
+      "Truco: pon alfombras gruesas en las zonas donde más estés (salón, dormitorio). En invierno, los pies calientes hacen que necesites 1-2°C menos de calefacción"
+    ],
+    "search_terms": ["thick rug living room floor", "carpet insulation cold floor", "cozy warm floor winter home"],
+    "category": "ahorro_energía"
+  },
+  {
+    "id": 71,
+    "topic": "Cómo limpiar juntas de azulejo ennegrecidas con bicarbonato y agua oxigenada",
+    "hook": "Juntas negras blancas en 15 minutos",
+    "key_points": [
+      "Las juntas de azulejo acumulan moho (Aspergillus, Cladosporium) por la humedad constante del baño — el 60% de baños tienen moho en juntas según la EPA",
+      "El bicarbonato abrade suavemente la suciedad superficial mientras el agua oxigenada (H2O2) mata el 99.9% de las esporas de moho",
+      "Un profesional de limpieza cobra 80-150€ por limpiar juntas de un baño completo — este método cuesta menos de 1€",
+      "Truco: mezcla bicarbonato con agua oxigenada hasta hacer pasta. Aplica con cepillo de dientes viejo sobre las juntas. Espera 15 min. Frota y aclara. Juntas como nuevas"
+    ],
+    "search_terms": ["cleaning tile grout bathroom", "grout before after cleaning", "white tile joints sparkling"],
+    "category": "limpieza"
+  },
+  {
+    "id": 72,
+    "topic": "El dato que nadie sabe: tu microondas gasta más energía apagado que encendido",
+    "hook": "Tu microondas gasta más apagado que cocinando",
+    "key_points": [
+      "Un microondas se usa una media de 10-15 min/día pero el reloj digital en standby consume electricidad las 24h restantes",
+      "Según la Comisión Europea, un microondas consume 3-5W en standby — eso son 26-44 kWh/año solo por el relojito",
+      "En modo activo, un microondas de 1000W usado 15 min/día consume 91 kWh/año — el standby puede suponer un 30-50% extra",
+      "Dato curioso: si 20 millones de hogares españoles apagaran el microondas del standby, se ahorrarían 500-800 GWh/año — la energía de una ciudad entera"
+    ],
+    "search_terms": ["microwave standby power waste", "unplugging kitchen appliances", "phantom energy consumption"],
+    "category": "datos_curiosos"
+  },
+  {
+    "id": 73,
+    "topic": "Cómo organizar debajo del fregadero para que no sea un caos",
+    "hook": "Debajo del fregadero es puro caos organizado",
+    "key_points": [
+      "El espacio bajo el fregadero es el más desaprovechado de la cocina: las tuberías roban un 30% del volumen útil",
+      "Barras tensoras de cortina (2-3€) colocadas dentro del mueble crean estantes improvisados para sprays colgados del gatillo",
+      "Un organizador de dos niveles aprovecha el espacio vertical que normalmente se desperdicia sobre los productos de limpieza",
+      "Truco: cuelga los sprays de una barra tensora (del gatillo). Pon una bandeja extraíble abajo para productos pesados. Usa la puerta con ganchos adhesivos para bolsas y guantes"
+    ],
+    "search_terms": ["under sink organizer kitchen", "tension rod spray bottles", "organized cleaning supplies cabinet"],
+    "category": "organización"
+  },
+  {
+    "id": 74,
+    "topic": "Por qué deberías lavar las sábanas cada semana según la ciencia",
+    "hook": "Tus sábanas tienen más bacterias que el baño",
+    "key_points": [
+      "Un estudio de la Universidad de Manchester encontró que una almohada usada 2 años contiene hasta 16 especies de hongos",
+      "Después de 1 semana, las sábanas acumulan 5 millones de UFC (unidades formadoras de colonias) de bacterias por cm² — más que un asiento de inodoro",
+      "Los ácaros del polvo se alimentan de piel muerta: una persona suelta 1.5g de piel al día, suficiente para alimentar 1 millón de ácaros",
+      "Truco: lava sábanas cada 7 días a 60°C mínimo para matar ácaros (no mueren a 30-40°C). Almohadas cada 3 meses. Colchón: aspira mensualmente"
+    ],
+    "search_terms": ["washing bed sheets laundry", "clean fresh white bedsheets", "bedroom hygiene routine"],
+    "category": "datos_curiosos"
+  },
+  {
+    "id": 75,
+    "topic": "El truco del papel de lija fino para afilar tijeras sin afilador",
+    "hook": "Corta papel de lija y tus tijeras se afilan",
+    "key_points": [
+      "Al cortar papel de lija, las partículas abrasivas (óxido de aluminio o carburo de silicio) pulen el filo de las cuchillas",
+      "Se recomienda lija de grano 150-220 (medio-fino) para afilar sin dañar el ángulo del filo original de la tijera",
+      "Un afilador profesional cobra 5-10€ por tijera — un pliego de lija cuesta 0.50€ y sirve para afilar 10+ pares de tijeras",
+      "Truco: dobla un trozo de lija por la mitad con el lado rugoso hacia fuera. Corta tiras con las tijeras desafiladas, 10-15 cortes completos. Prueba el filo con papel normal"
+    ],
+    "search_terms": ["sharpening scissors sandpaper", "dull scissors cutting hack", "DIY tool sharpening home"],
+    "category": "trucos"
+  },
+  {
+    "id": 76,
+    "topic": "Cómo el café usado repele caracoles y fertiliza tus plantas gratis",
+    "hook": "Los posos de café protegen y nutren tus plantas",
+    "key_points": [
+      "Los posos de café contienen un 2% de nitrógeno, 0.3% de fósforo y 0.3% de potasio — los tres macronutrientes principales para plantas",
+      "La cafeína residual y la textura áspera de los posos repelen babosas y caracoles — un estudio de la Universidad de Hawaii lo confirmó en 2002",
+      "España consume 14.000 millones de tazas de café al año (OCU) — los posos casi siempre van a la basura orgánica sin reutilizarse",
+      "Truco: esparce posos secos alrededor de la base de las plantas. Fertiliza lentamente al descomponerse y crea una barrera contra caracoles. No uses en exceso: 1 cucharada por maceta/semana"
+    ],
+    "search_terms": ["coffee grounds garden plants", "used coffee fertilizer", "snail repellent natural garden"],
+    "category": "trucos"
+  },
+  {
+    "id": 77,
+    "topic": "Por qué el agua de cocer verduras es un caldo nutritivo que siempre tiras",
+    "hook": "Tiras un caldo nutritivo cada vez que cocinas",
+    "key_points": [
+      "Al hervir verduras, hasta el 50% de las vitaminas hidrosolubles (C, B) y minerales (potasio, magnesio) se transfieren al agua según la FAO",
+      "El agua de cocción de espinacas contiene hasta 40mg de ácido fólico por litro — el 10% de la dosis diaria recomendada",
+      "Usar agua de verduras como base de sopas o para cocinar arroz añade sabor y nutrientes sin coste adicional",
+      "Truco: guarda el agua de cocer verduras en un tarro en la nevera (dura 3-4 días) o congélala. Úsala como base de sopas, para cocer arroz o pasta. Sabor y nutrientes gratis"
+    ],
+    "search_terms": ["vegetable broth homemade", "cooking water reuse kitchen", "nutritious soup stock pot"],
+    "category": "cocina"
+  },
+  {
+    "id": 78,
+    "topic": "El sistema de ganchos detrás de la puerta que multiplica tu espacio",
+    "hook": "Detrás de tu puerta hay espacio que pierdes",
+    "key_points": [
+      "Una puerta estándar tiene 1.6 m² de superficie útil que el 95% de los hogares no aprovecha según organizadores profesionales",
+      "Los ganchos adhesivos sobre puerta soportan 2-5 kg cada uno y no dañan la madera ni requieren taladro",
+      "Colgar abrigos, bolsos, mochilas y toallas detrás de puertas libera espacio equivalente a medio armario",
+      "Truco: pon ganchos sobre la puerta del dormitorio (ropa del día siguiente), del baño (toallas y albornoz) y de la entrada (abrigos y bolsas). Cero agujeros, máximo espacio"
+    ],
+    "search_terms": ["over door hooks organizer", "hanging storage behind door", "space saving door hooks"],
+    "category": "organización"
+  },
+  {
+    "id": 79,
+    "topic": "Cómo limpiar el inodoro con vinagre y bicarbonato sin productos tóxicos",
+    "hook": "Limpia tu inodoro sin químicos en 10 minutos",
+    "key_points": [
+      "El vinagre (ácido acético al 5%) disuelve la cal y los depósitos minerales del interior del inodoro en 30 minutos",
+      "El bicarbonato aplicado después abrade suavemente las manchas orgánicas sin rayar la cerámica vitrificada",
+      "Los limpiadores de inodoro comerciales contienen ácido clorhídrico que la OCU advierte que puede dañar las juntas y el esmalte con uso frecuente",
+      "Truco: vierte 200ml de vinagre por las paredes interiores del inodoro. Espera 30 min. Espolvorea bicarbonato, frota con escobilla. Tira de la cadena. Brillo sin tóxicos"
+    ],
+    "search_terms": ["cleaning toilet natural vinegar", "sparkling clean toilet bowl", "bathroom deep cleaning"],
+    "category": "limpieza"
+  },
+  {
+    "id": 80,
+    "topic": "Por qué el color blanco en tu techo refleja luz y reduce el consumo de bombillas",
+    "hook": "Un techo blanco reduce tu factura de luz",
+    "key_points": [
+      "Un techo blanco refleja el 80-90% de la luz que recibe, distribuyéndola por la habitación. Uno oscuro refleja solo un 10-20%",
+      "Según la Illuminating Engineering Society, una habitación con techo blanco necesita un 20-30% menos de potencia lumínica",
+      "Pintar un techo de 15m² de blanco cuesta unos 30€ en pintura y puede ahorrar 20-30€/año en electricidad para iluminación",
+      "Truco: si tu techo es oscuro o amarillento, una mano de pintura blanca mate transforma la luminosidad. Añade paredes en tonos claros para maximizar la reflexión"
+    ],
+    "search_terms": ["white ceiling bright room", "painted ceiling light reflection", "bright airy room interior"],
+    "category": "ahorro_energía"
+  },
+  {
+    "id": 81,
+    "topic": "Cómo el hielo seco quita chicle del suelo en 30 segundos",
+    "hook": "Hielo y el chicle sale solo del suelo",
+    "key_points": [
+      "El frío extremo hace que el polímero del chicle (acetato de polivinilo) se endurezca y pierda adherencia al contraerse",
+      "A -15°C el chicle se vuelve quebradizo y se desprende en bloque sin dejar residuos pegajosos en la superficie",
+      "Los servicios de limpieza municipales usan máquinas de vapor a 300°C — pero un cubito de hielo hace lo mismo en casa gratis",
+      "Truco: pon un cubito de hielo (o bolsa de congelados) directamente sobre el chicle. Espera 2-3 min hasta que se endurezca. Raspa con una espátula o tarjeta. Sale entero"
+    ],
+    "search_terms": ["removing gum from floor", "ice cube cleaning hack", "chewing gum removal surface"],
+    "category": "trucos"
+  },
+  {
+    "id": 82,
+    "topic": "Por qué la mampara se llena de cal y cómo prevenirlo para siempre",
+    "hook": "Tu mampara se llena de cal por esto",
+    "key_points": [
+      "La dureza del agua en España varía de 100 a 500 mg/l de CaCO3 según zonas — el Levante y sur tienen el agua más dura según el IGME",
+      "Las gotas de agua dura al secarse dejan depósitos de carbonato de calcio que se acumulan capa sobre capa y se vuelven opacos",
+      "La clave es NO dejar que las gotas se sequen en la mampara — el 90% de la cal se previene secando después de cada ducha",
+      "Truco: pasa una escobilla de cristal (2€) por la mampara después de cada ducha (30 seg). Una vez por semana rocía vinagre y deja 10 min. Mampara transparente siempre"
+    ],
+    "search_terms": ["shower glass squeegee", "limescale shower door", "clean transparent shower screen"],
+    "category": "limpieza"
+  },
+  {
+    "id": 83,
+    "topic": "El método de Marie Kondo para organizar los cajones del baño",
+    "hook": "Tu cajón del baño es un desastre secreto",
+    "key_points": [
+      "El baño medio tiene 30-50 productos, de los cuales el 40% están caducados o casi vacíos según estudios de organización doméstica",
+      "Los cosméticos caducados pueden causar irritaciones e infecciones — la FDA recomienda respetar el símbolo PAO (periodo después de apertura)",
+      "Organizar en vertical con pequeñas cajas o divisores aumenta la capacidad visible del cajón un 60%",
+      "Truco: saca TODO del cajón. Tira lo caducado. Agrupa por uso: diario (delante), semanal (medio), ocasional (fondo). Usa cajitas pequeñas como separadores"
+    ],
+    "search_terms": ["organized bathroom drawer", "bathroom cabinet declutter", "tidy cosmetics storage"],
+    "category": "organización"
+  },
+  {
+    "id": 84,
+    "topic": "Cómo el maicena quita manchas de grasa de la ropa al instante",
+    "hook": "Maicena sobre la mancha y la grasa desaparece",
+    "key_points": [
+      "La maicena (almidón de maíz) es un polvo ultra-absorbente que atrae y retiene moléculas de grasa por adsorción capilar",
+      "Aplicada inmediatamente sobre la mancha fresca, la maicena absorbe hasta el 80% de la grasa antes de que penetre en la fibra",
+      "Este mismo principio se usa en laboratorios para limpiar derrames de aceite — es un absorbente industrial reconocido",
+      "Truco: cubre la mancha de grasa fresca con maicena generosa. Espera 20-30 min sin frotar. Sacude el polvo. La mancha se habrá absorbido. Lava normal después"
+    ],
+    "search_terms": ["cornstarch oil stain removal", "grease stain clothes hack", "absorbent powder cleaning"],
+    "category": "limpieza"
+  },
+  {
+    "id": 85,
+    "topic": "Por qué hervir un huevo con vinagre evita que se agriete la cáscara",
+    "hook": "Vinagre en el agua y el huevo no se agrieta",
+    "key_points": [
+      "El vinagre coagula la albúmina (proteína de la clara) al instante si hay una microfisura, sellándola antes de que salga más clara",
+      "El choque térmico al meter un huevo frío en agua hirviendo es la causa principal de agrietamiento — el vinagre mitiga los daños",
+      "Un estudio del Journal of Culinary Science confirmó que añadir 1 cucharada de vinagre reduce las roturas de cáscara un 70%",
+      "Truco: añade 1 cucharada de vinagre al agua antes de hervir. Si el huevo se agrieta, la clara se sella al instante. También facilita el pelado posterior"
+    ],
+    "search_terms": ["boiling eggs vinegar trick", "perfect boiled eggs kitchen", "cracked egg cooking tip"],
+    "category": "cocina"
+  },
+  {
+    "id": 86,
+    "topic": "El impacto real de tender la ropa al sol vs usar secadora",
+    "hook": "El sol seca, desinfecta y es completamente gratis",
+    "key_points": [
+      "La radiación UV del sol elimina el 99.9% de bacterias en tejidos después de 3 horas de exposición directa según un estudio de la Universidad de Oregon",
+      "Una secadora consume 2-4 kWh por ciclo a 0.15€/kWh — tender al sol ahorra 100-200€/año en una familia media según la OCU",
+      "El sol blanquea la ropa naturalmente: la UV descompone los cromóforos de las manchas orgánicas (proceso de fotodegradación)",
+      "Truco: tiende la ropa blanca al sol directo (efecto blanqueante). Ropa de color a la sombra (el sol destiñe los tintes). Toallas al sol siempre — necesitan la desinfección UV"
+    ],
+    "search_terms": ["clothes drying outdoor sun", "laundry line sunshine", "hanging clothes fresh air"],
+    "category": "ahorro_energía"
+  },
+  {
+    "id": 87,
+    "topic": "El truco de la goma elástica para abrir tarros atascados",
+    "hook": "Una goma elástica abre cualquier tarro atascado",
+    "key_points": [
+      "La goma aumenta el coeficiente de fricción entre tu mano y la tapa metálica de 0.2 (mano seca sobre metal) a 0.8-1.0",
+      "Los tarros de conservas se sellan al vacío con una presión negativa de -0.5 a -0.8 bares, lo que dificulta la apertura",
+      "Dar la vuelta al tarro y golpear suavemente la base rompe el vacío parcialmente al introducir una burbuja de aire",
+      "Truco: enrolla una goma elástica ancha alrededor de la tapa. Gira. Si no cede, golpea suavemente el borde de la tapa contra la encimera para romper el vacío. Luego gira con la goma"
+    ],
+    "search_terms": ["opening stuck jar lid", "rubber band jar trick", "twist jar cap kitchen"],
+    "category": "trucos"
+  },
+  {
+    "id": 88,
+    "topic": "Cómo detectar fugas de agua en casa que te cuestan 100€ al año",
+    "hook": "Fugas invisibles te cuestan 100 euros al año",
+    "key_points": [
+      "Un grifo goteando a 1 gota por segundo desperdicia 11.000 litros/año — unos 30€ solo en agua según Canal de Isabel II",
+      "Un inodoro con fuga interna puede perder hasta 200 litros/día sin que lo notes — 73.000 litros/año, unos 150€",
+      "Según el INE, el 10% del agua de los hogares españoles se pierde en fugas no detectadas",
+      "Truco: cierra todos los grifos y electrodomésticos que usen agua. Mira el contador de agua. Si sigue girando, tienes una fuga. Para el inodoro: echa colorante en la cisterna — si aparece en la taza sin tirar de la cadena, hay fuga"
+    ],
+    "search_terms": ["water leak detection home", "dripping faucet waste", "checking water meter leak"],
+    "category": "ahorro_energía"
+  },
+  {
+    "id": 89,
+    "topic": "Por qué el desorden te hace comer más según estudios científicos",
+    "hook": "El desorden de tu cocina te hace engordar",
+    "key_points": [
+      "Un estudio de la Universidad de Cornell (2016) demostró que las personas comían un 44% más de snacks en cocinas desordenadas que en ordenadas",
+      "El desorden genera estrés que eleva el cortisol, hormona que aumenta los antojos de comida calórica según el Journal of Health Psychology",
+      "Las personas con encimeras despejadas pesan una media de 9 kg menos que las que tienen encimeras llenas de objetos, según el mismo estudio",
+      "Truco: despeja la encimera de la cocina: solo deja lo que uses a diario (cafetera, frutero). Guarda lo demás. Menos desorden visual = menos picoteo impulsivo"
+    ],
+    "search_terms": ["clean kitchen counter minimalist", "decluttered kitchen organized", "tidy countertop cooking"],
+    "category": "datos_curiosos"
+  },
+  {
+    "id": 90,
+    "topic": "Cómo el aluminio puede afilar las cuchillas de la batidora sin herramientas",
+    "hook": "Bate papel de aluminio y afila tus cuchillas",
+    "key_points": [
+      "Las cuchillas de batidora pierden filo por el desgaste del uso diario — el aluminio actúa como material de pulido suave al ser cortado",
+      "El aluminio tiene una dureza Mohs de 2.75, suficiente para realinear microimperfecciones del filo de acero inoxidable sin dañarlo",
+      "Un rollo de papel de aluminio doméstico cuesta 1.50€ — un afilador profesional de cuchillas cobra 15-25€",
+      "Truco: haz una bola compacta con 3-4 capas de aluminio. Bátela con un poco de agua durante 30 seg a máxima potencia. Las cuchillas se pulen y recuperan filo"
+    ],
+    "search_terms": ["sharpening blender blades", "aluminum foil kitchen hack", "blender maintenance clean"],
+    "category": "trucos"
+  },
+  {
+    "id": 91,
+    "topic": "La regla del tercer paso para mantener el pasillo siempre despejado",
+    "hook": "Si está a más de 3 pasos no va al pasillo",
+    "key_points": [
+      "Los pasillos se llenan de objetos 'en tránsito' — cosas que deberían estar en otra habitación pero se quedan a medio camino",
+      "Un estudio del Design Research Society demostró que los pasillos desordenados crean sensación de vivienda más pequeña (hasta un 15%)",
+      "El pasillo ideal según el Código Técnico de Edificación debe tener mínimo 90cm de ancho libre — muchos hogares no lo cumplen por acumulación",
+      "Truco: regla del tercer paso: si un objeto lleva más de un día en el pasillo, llévalo a su sitio. Nada permanente en el pasillo excepto un perchero y un zapatero"
+    ],
+    "search_terms": ["tidy hallway entrance", "organized entryway home", "clutter free corridor"],
+    "category": "organización"
+  },
+  {
+    "id": 92,
+    "topic": "Cómo limpiar las teclas del teclado y mandos con una nota adhesiva",
+    "hook": "Un post-it limpia lo que no ves en tu teclado",
+    "key_points": [
+      "La parte adhesiva de las notas post-it recoge polvo, migas y partículas de los espacios estrechos entre teclas",
+      "Un teclado medio contiene 20.000 bacterias por cm² — 400 veces más que un asiento de inodoro según la Universidad de Arizona",
+      "Los mandos a distancia son el objeto más tocado y menos limpiado del hogar, según un estudio del Journal of Hospital Infection",
+      "Truco: desliza la parte pegajosa de un post-it entre las teclas del teclado, mando o piano. Recoge toda la suciedad sin desmontarlo. Para desinfectar: pasa un algodón con alcohol isopropílico"
+    ],
+    "search_terms": ["cleaning keyboard sticky note", "dust between keyboard keys", "remote control cleaning"],
+    "category": "trucos"
+  },
+  {
+    "id": 93,
+    "topic": "Por qué el agua de arroz hace brillar los suelos de madera como nuevos",
+    "hook": "Agua de arroz deja tus suelos brillantes",
+    "key_points": [
+      "El almidón del agua de arroz se deposita en una capa fina sobre la madera, rellenando microporos y creando un brillo natural",
+      "En Japón se usa desde hace siglos para mantener suelos de madera (engawa) — el almidón protege y da brillo sin productos químicos",
+      "Un estudio del Journal of Cultural Heritage confirmó que las capas de almidón protegen las superficies de madera de la humedad ambiental",
+      "Truco: hierve arroz y guarda el agua. Déjala enfriar. Empapa una fregona bien escurrida y pasa por el suelo de madera. No aclares. Deja secar. Brillo natural sin cera"
+    ],
+    "search_terms": ["shiny wooden floor clean", "rice water cleaning hack", "polished hardwood floor"],
+    "category": "limpieza"
+  },
+  {
+    "id": 94,
+    "topic": "Cómo calcular si merece la pena cambiar un electrodoméstico por eficiencia energética",
+    "hook": "Tu electrodoméstico viejo te cuesta más que uno nuevo",
+    "key_points": [
+      "Un frigorífico de clase A consume 90 kWh/año vs uno antiguo de clase F que consume 400 kWh/año — diferencia de 46€/año según el IDAE",
+      "La etiqueta energética de la UE (2021) va de A a G: la diferencia entre A y G puede ser de 200-300€/año en una lavadora",
+      "La regla práctica: si el electrodoméstico tiene más de 10 años y lo usas a diario, el ahorro energético amortiza el nuevo en 3-5 años",
+      "Truco: busca el consumo anual en kWh en la etiqueta de tu electrodoméstico. Multiplica por 0.15€. Compara con un modelo nuevo clase A. Si la diferencia supera 50€/año, vale la pena cambiar"
+    ],
+    "search_terms": ["energy label appliance EU", "old vs new fridge energy", "energy efficient appliances"],
+    "category": "ahorro_energía"
+  },
+  {
+    "id": 95,
+    "topic": "El sistema de la cesta para cada miembro de la familia que elimina discusiones",
+    "hook": "Una cesta por persona y cero discusiones en casa",
+    "key_points": [
+      "El 50% de las discusiones domésticas están relacionadas con el desorden y la falta de orden según un estudio de la Huffington Post/YouGov",
+      "Asignar una cesta personal a cada miembro elimina la pregunta '¿de quién es esto?' — principal fuente de fricción familiar",
+      "Al final del día, cada persona vacía su cesta y lleva sus objetos a su sitio — responsabilidad individual sin conflicto",
+      "Truco: coloca una cesta con nombre en el salón o la entrada para cada miembro. Todo lo que se encuentre fuera de sitio va a la cesta de su dueño. Cada uno vacía la suya antes de dormir"
+    ],
+    "search_terms": ["family basket organization", "labeled storage baskets home", "family tidying system"],
+    "category": "organización"
+  },
+  {
+    "id": 96,
+    "topic": "Cómo la cáscara de plátano seca sirve como abono rico en potasio",
+    "hook": "No tires las cáscaras de plátano, son oro para plantas",
+    "key_points": [
+      "Las cáscaras de plátano contienen un 42% de potasio (K), 3% de fósforo (P) y 0.6% de nitrógeno (N) según un análisis del Journal of Waste Management",
+      "El potasio estimula la floración y la fructificación — las rosas y los tomates son especialmente sensibles a la deficiencia de K",
+      "Un kilo de abono comercial rico en potasio cuesta 8-15€ — las cáscaras de plátano son un subproducto gratuito de la alimentación",
+      "Truco: seca las cáscaras al sol o en el horno a 80°C. Tritúralas hasta hacer polvo. Espolvorea 1 cucharada en la base de cada maceta al regar. Tus plantas florecerán más"
+    ],
+    "search_terms": ["banana peel fertilizer plants", "dried banana skin compost", "potassium plant food natural"],
+    "category": "trucos"
+  },
+  {
+    "id": 97,
+    "topic": "Por qué abrir la ventana 10 minutos es mejor que tenerla abierta todo el día",
+    "hook": "10 minutos de ventana abierta bastan de sobra",
+    "key_points": [
+      "El IDAE recomienda ventilar 10-15 minutos con ventanas de par en par: se renueva el aire sin enfriar paredes ni muebles",
+      "Tener una ventana abierta en rendija durante horas enfría las paredes (inercia térmica), que tardan 2-3h en recuperar temperatura",
+      "Una ventilación de 10 min pierde un 5% del calor almacenado vs un 30% con ventana abierta 2 horas según estudios de eficiencia energética",
+      "Truco: abre de par en par ventanas opuestas 10 min por la mañana. El aire se renueva completamente. Cierra y el calor de paredes y muebles recupera la temperatura en minutos"
+    ],
+    "search_terms": ["open window ventilation morning", "airing out room fresh air", "healthy home ventilation"],
+    "category": "ahorro_energía"
+  },
+  {
+    "id": 98,
+    "topic": "El mito del lejía y el amoníaco: por qué NUNCA debes mezclarlos",
+    "hook": "Mezclar lejía y amoníaco puede matarte",
+    "key_points": [
+      "La lejía (hipoclorito de sodio) reacciona con el amoníaco produciendo cloraminas gaseosas, compuestos extremadamente tóxicos para los pulmones",
+      "La exposición a cloraminas causa tos, dolor de pecho, dificultad respiratoria y en concentraciones altas puede ser letal según el CDC",
+      "Los servicios de emergencias atienden miles de casos anuales por mezcla accidental de productos de limpieza en España",
+      "Dato vital: NUNCA mezcles lejía con amoníaco, vinagre, alcohol ni otros limpiadores. Si accidentalmente los mezclas, abre ventanas inmediatamente y sal de la habitación"
+    ],
+    "search_terms": ["dangerous cleaning mixtures", "bleach ammonia warning", "chemical safety cleaning home"],
+    "category": "datos_curiosos"
+  },
+  {
+    "id": 99,
+    "topic": "Cómo organizar tu congelador en zonas para encontrar todo en 10 segundos",
+    "hook": "Encuentra lo que buscas en el congelador en 10 seg",
+    "key_points": [
+      "El hogar medio abre el congelador 7 veces al día — cada apertura pierde un 15% del frío interior según Energy Star",
+      "Dividir el congelador en zonas (carnes, verduras, sopas/caldos, pan, restos) reduce el tiempo de búsqueda de 30 seg a 10 seg",
+      "Etiquetar las bolsas con fecha y contenido reduce el desperdicio de alimentos congelados un 40% según la FDA",
+      "Truco: usa bolsas zip reutilizables etiquetadas. Asigna un estante o zona a cada categoría. Pon lo más antiguo delante (FIFO). Cada 3 meses, cocina todo lo que lleve más de 6 meses"
+    ],
+    "search_terms": ["organized freezer zones labeled", "frozen food storage system", "freezer drawer organized bags"],
+    "category": "organización"
+  },
+  {
+    "id": 100,
+    "topic": "Por qué frotar medio limón por la tabla de cortar elimina olores y bacterias",
+    "hook": "Un limón desinfecta tu tabla de cortar",
+    "key_points": [
+      "El ácido cítrico del limón (pH 2.0) mata el 99.9% del E. coli y Salmonella en superficies, según un estudio de la Universidad de Clemson",
+      "La madera de la tabla absorbe olores de ajo, cebolla y pescado — el limón neutraliza los compuestos de azufre responsables del olor",
+      "Las tablas de madera tienen propiedades antibacterianas naturales: los taninos de ciertas maderas (olivo, bambú) inhiben bacterias según UC Davis",
+      "Truco: corta un limón por la mitad. Espolvorea sal gruesa sobre la tabla. Frota con el limón haciendo círculos. La sal abrade y el limón desinfecta. Aclara con agua"
+    ],
+    "search_terms": ["cleaning cutting board lemon", "wooden chopping board sanitize", "kitchen hygiene lemon salt"],
+    "category": "cocina"
+  },
+  {
+    "id": 101,
+    "topic": "Cómo el vinagre descalcifica la alcachofa de la ducha y mejora el chorro",
+    "hook": "Tu ducha no sale con fuerza por la cal",
+    "key_points": [
+      "Los depósitos de cal obstruyen los agujeros de la alcachofa, reduciendo el caudal hasta un 50% según la Water Research Foundation",
+      "Un chorro reducido hace que tardes más en ducharte y compenses con más agua — aumentando el consumo un 25-30%",
+      "La cal en la alcachofa también alberga bacterias como Legionella, que proliferan en depósitos húmedos con biofilm",
+      "Truco: llena una bolsa de plástico con vinagre blanco puro. Ata la bolsa alrededor de la alcachofa con una goma. Déjala toda la noche sumergida. Por la mañana, chorro como nuevo"
+    ],
+    "search_terms": ["cleaning shower head vinegar bag", "descaling shower nozzle", "strong water flow shower"],
+    "category": "limpieza"
+  },
+  {
+    "id": 102,
+    "topic": "El dato que demuestra que tu esponja de cocina es el objeto más sucio de tu casa",
+    "hook": "Tu esponja tiene más bacterias que tu inodoro",
+    "key_points": [
+      "Un estudio del Scientific Reports (2017) encontró 362 especies de bacterias en esponjas de cocina — 10 millones por cm²",
+      "La esponja húmeda a 25-35°C es el hábitat perfecto para E. coli, Salmonella y Staphylococcus según el mismo estudio alemán",
+      "El microondas mata el 99.9% de las bacterias de la esponja en 2 min a máxima potencia — validado por la Universidad de Florida",
+      "Truco: humedece la esponja (NUNCA metas una seca). Pon 2 min en el microondas a máxima potencia cada 2-3 días. Cambia la esponja cada 2 semanas sin excepción"
+    ],
+    "search_terms": ["kitchen sponge bacteria", "disinfecting sponge microwave", "replacing kitchen sponge"],
+    "category": "datos_curiosos"
+  },
+  {
+    "id": 103,
+    "topic": "Cómo el papel de periódico absorbe la humedad de los zapatos mojados",
+    "hook": "Periódico dentro del zapato y seco en horas",
+    "key_points": [
+      "El papel de periódico tiene una absorción capilar 3 veces mayor que el papel blanco debido a su porosidad y fibras no tratadas",
+      "Los zapatos mojados que se secan naturalmente tardan 24-48h — con periódico se reduce a 6-8h según pruebas del Footwear Science Journal",
+      "Secar zapatos con calor directo (secador, radiador) degrada el adhesivo y endurece el cuero, reduciendo la vida útil un 30%",
+      "Truco: rellena el zapato mojado con bolas de periódico hasta que esté firme. Cámbialas cada 2h si están empapados. El periódico absorbe la humedad sin dañar el material"
+    ],
+    "search_terms": ["drying wet shoes newspaper", "shoe care rainy day", "stuffing shoes paper drying"],
+    "category": "trucos"
+  },
+  {
+    "id": 104,
+    "topic": "Por qué descongelar en la nevera es más seguro y ahorra energía",
+    "hook": "Descongela en la nevera y ahorras energía",
+    "key_points": [
+      "Descongelar a temperatura ambiente permite que las bacterias se multipliquen: entre 4-60°C es la 'zona de peligro' donde se duplican cada 20 min según la AESAN",
+      "El alimento congelado puesto en la nevera libera frío que ayuda a mantener la temperatura del frigorífico — ahorrando energía al compresor",
+      "Según el USDA, descongelar en la nevera es el único método que permite volver a congelar el alimento sin cocinarlo primero",
+      "Truco: saca del congelador a la nevera la noche anterior. Ponlo en un plato (evita goteos). El frío del alimento enfría la nevera gratis. Seguridad alimentaria + ahorro"
+    ],
+    "search_terms": ["defrosting food refrigerator safe", "thawing meat fridge overnight", "food safety defrost method"],
+    "category": "cocina"
+  },
+  {
+    "id": 105,
+    "topic": "El método sueco de limpieza 'dostädning' que simplifica toda tu casa",
+    "hook": "Los suecos limpian una vez y para siempre",
+    "key_points": [
+      "Dostädning (death cleaning) es un método sueco de Margareta Magnusson que propone eliminar todo lo innecesario de forma progresiva y permanente",
+      "A diferencia de KonMari (alegría), dostädning pregunta: '¿alguien querrá esto cuando yo no esté?' — un filtro más estricto",
+      "Según Magnusson, empezar por las cosas menos sentimentales (cocina, baño, trastero) facilita la toma de decisiones",
+      "Truco: empieza por una categoría fácil: libros que nunca releerás, ropa que no has usado en 2 años, utensilios de cocina duplicados. Dona o recicla. Avanza de fácil a difícil"
+    ],
+    "search_terms": ["swedish death cleaning declutter", "minimalist scandinavian home", "dostadning method organize"],
+    "category": "organización"
+  },
+  {
+    "id": 106,
+    "topic": "Cómo la ventana de doble cristal reduce el ruido un 70% además de aislar",
+    "hook": "El doble cristal reduce ruido y factura de luz",
+    "key_points": [
+      "Una ventana de doble cristal reduce la transmisión de calor un 50% y el ruido hasta 30-35 dB según el IDAE",
+      "La cámara de aire entre cristales (12-16mm) actúa como aislante térmico y acústico: las ondas sonoras pierden energía al cruzar dos medios",
+      "El ahorro en calefacción y aire acondicionado puede amortizar unas ventanas de doble cristal en 5-8 años según la OCU",
+      "Dato: si no puedes cambiar ventanas, el film plástico aislante adhesivo (5-10€ por ventana) crea una cámara de aire casera que aísla un 20% más"
+    ],
+    "search_terms": ["double glazed window insulation", "window noise reduction home", "energy efficient windows"],
+    "category": "ahorro_energía"
+  },
+  {
+    "id": 107,
+    "topic": "Por qué la cebolla cortada no debe guardarse sin cubrir en la nevera",
+    "hook": "La cebolla cortada contamina toda tu nevera",
+    "key_points": [
+      "La cebolla cortada libera compuestos de azufre volátiles (syn-propanethial-S-oxide) que impregnan otros alimentos en la nevera",
+      "La superficie cortada de la cebolla es susceptible a oxidación y contaminación bacteriana: absorbe olores y libera los suyos",
+      "Según la FDA, las cebollas cortadas deben consumirse en 7-10 días si se almacenan correctamente en recipiente hermético",
+      "Truco: guarda la cebolla cortada en un recipiente hermético o envuelta en film. Colócala en el cajón de verduras, nunca suelta en un estante. Así no perfuma la mantequilla ni la leche"
+    ],
+    "search_terms": ["storing cut onion fridge", "onion container airtight", "food storage smell prevention"],
+    "category": "cocina"
+  },
+  {
+    "id": 108,
+    "topic": "El truco de la vela para arreglar cajones que no deslizan bien",
+    "hook": "Frota una vela y tu cajón se desliza perfecto",
+    "key_points": [
+      "La cera de parafina tiene un coeficiente de fricción de 0.05 — uno de los más bajos entre materiales comunes, comparable al teflón",
+      "Los cajones de madera se dilatan con la humedad y contraen con el frío, cambiando su ajuste un 1-3% según la especie de madera",
+      "Un carpintero cobra 30-50€ por ajustar cajones atascados — una vela barata soluciona el problema en 1 minuto",
+      "Truco: saca el cajón. Frota una vela blanca por los rieles laterales y la base donde desliza. Vuelve a meter el cajón. Desliza como nuevo. Repite cada 6 meses"
+    ],
+    "search_terms": ["fixing sticky drawer candle wax", "smooth sliding drawer", "wooden furniture maintenance"],
+    "category": "trucos"
+  },
+  {
+    "id": 109,
+    "topic": "Cómo limpiar acero inoxidable sin rayarlo usando solo aceite de oliva",
+    "hook": "Aceite de oliva hace brillar tu acero inoxidable",
+    "key_points": [
+      "El acero inoxidable se raya fácilmente con estropajos y productos abrasivos — los rayones eliminan la capa de óxido de cromo que lo protege",
+      "El aceite de oliva rellena los microporos del acero y crea una capa protectora hidrofóbica que repele las huellas dactilares",
+      "Los limpiadores específicos para acero inoxidable cuestan 5-8€ por bote — el aceite de oliva da el mismo resultado por céntimos",
+      "Truco: pon unas gotas de aceite de oliva en un paño de microfibra. Frota SIEMPRE en la dirección del grano del acero (las líneas visibles). Brillo espejo y protección contra huellas"
+    ],
+    "search_terms": ["polishing stainless steel appliance", "shiny kitchen appliance surface", "olive oil steel cleaning"],
+    "category": "limpieza"
+  },
+  {
+    "id": 110,
+    "topic": "Por qué los humanos acumulamos cosas y cómo vencer el instinto de acaparar",
+    "hook": "Tu cerebro te obliga a acumular cosas inútiles",
+    "key_points": [
+      "El comportamiento de acumulación es un instinto evolutivo: nuestros ancestros que guardaban recursos tenían más probabilidades de sobrevivir",
+      "Un estudio de la Universidad de Yale demostró que desprenderse de posesiones activa las mismas zonas cerebrales que el dolor físico (ínsula anterior)",
+      "El 'efecto dotación' hace que valoremos un objeto un 200% más solo por poseerlo, según el Nobel Daniel Kahneman",
+      "Truco: para cada objeto que dudes tirar, pregúntate: '¿Lo compraría hoy si no lo tuviera?' Si la respuesta es no, dona o tira. Este filtro elimina el sesgo de posesión"
+    ],
+    "search_terms": ["hoarding psychology brain", "declutter emotional attachment", "minimalism letting go possessions"],
+    "category": "datos_curiosos"
+  },
+  {
+    "id": 111,
+    "topic": "Cómo el tomate quita el óxido de las sartenes y utensilios de hierro",
+    "hook": "Un tomate quita el óxido de tu sartén",
+    "key_points": [
+      "El ácido cítrico y oxálico del tomate disuelven el óxido de hierro (Fe2O3) convirtiéndolo en oxalato de hierro soluble",
+      "Un tomate maduro tiene un pH de 4.0-4.5, suficientemente ácido para disolver óxido superficial sin dañar el metal base",
+      "Los productos antióxido comerciales contienen ácido fosfórico — más agresivo que el tomate y potencialmente tóxico si quedan residuos",
+      "Truco: frota medio tomate (o aplica kétchup) sobre la zona oxidada. Espolvorea sal gruesa como abrasivo. Espera 30 min. Frota con estropajo. Aclara y seca bien para prevenir nuevo óxido"
+    ],
+    "search_terms": ["removing rust iron pan", "tomato acid rust cleaning", "cast iron restoration"],
+    "category": "limpieza"
+  },
+  {
+    "id": 112,
+    "topic": "El dato de cuánta agua gasta una cisterna antigua vs una moderna",
+    "hook": "Tu cisterna vieja gasta 15 litros por descarga",
+    "key_points": [
+      "Una cisterna antigua gasta 12-15 litros por descarga vs 3-6 litros de una moderna de doble pulsador según el IDAE",
+      "Una familia de 4 personas usa el inodoro unas 20 veces al día — la diferencia puede ser de 150 litros diarios (55.000 litros/año)",
+      "El ahorro económico de cambiar a cisterna de doble pulsador es de 80-120€/año en agua según Canal de Isabel II",
+      "Truco: si no puedes cambiar la cisterna, pon una botella de 1.5L llena de agua dentro. Ocupa espacio y reduce cada descarga 1.5L. Ahorro de 10.000 litros/año sin obra"
+    ],
+    "search_terms": ["dual flush toilet cistern", "water saving toilet hack", "bottle in toilet tank"],
+    "category": "ahorro_energía"
+  },
+  {
+    "id": 113,
+    "topic": "Cómo organizar el maletero del coche con el método de las 3 cajas fijas",
+    "hook": "3 cajas en el maletero y todo siempre ordenado",
+    "key_points": [
+      "El maletero medio acumula 15-25 kg de objetos innecesarios que aumentan el consumo de combustible un 1-2% según la DGT",
+      "Cada 50 kg extra en el coche suponen un 2% más de consumo de gasolina según el IDAE — en un año son 30-50€",
+      "Un maletero organizado permite encontrar las herramientas de emergencia (triángulos, chaleco, botiquín) en segundos cuando más se necesitan",
+      "Truco: pon 3 cajas plegables fijas: emergencia (triángulos, linterna, agua), compras (bolsas reutilizables) y deporte/ocio. Lo que no cabe en ninguna caja, no debería estar en el maletero"
+    ],
+    "search_terms": ["organized car trunk boxes", "car boot storage system", "neat tidy car trunk"],
+    "category": "organización"
+  },
+  {
+    "id": 114,
+    "topic": "Por qué los garbanzos del agua de la lata (aquafaba) sustituyen al huevo",
+    "hook": "El agua de los garbanzos sustituye al huevo",
+    "key_points": [
+      "Aquafaba contiene proteínas, saponinas y almidón disueltos que emulan las propiedades espumantes y emulsificantes de la albúmina del huevo",
+      "3 cucharadas de aquafaba = 1 huevo en repostería. Batida a punto de nieve, crea una espuma estable como la del merengue",
+      "Un estudio del Journal of Food Science demostró que el aquafaba forma espumas estables con 60-80% del volumen del merengue de clara de huevo",
+      "Truco: escurre el líquido de una lata de garbanzos cocidos. Bátelo con varillas eléctricas 10 min hasta que forme picos firmes. Úsalo como merengue o sustituto de huevo en bizcochos"
+    ],
+    "search_terms": ["aquafaba meringue vegan", "chickpea water whipped foam", "egg substitute baking natural"],
+    "category": "cocina"
+  },
+  {
+    "id": 115,
+    "topic": "El truco de la tiza para absorber humedad y evitar moho en armarios",
+    "hook": "Tiza en el armario absorbe la humedad",
+    "key_points": [
+      "La tiza (sulfato de calcio) es porosa e higroscópica: absorbe humedad del aire reduciendo el nivel de humedad relativa local",
+      "El moho comienza a crecer a partir del 60% de humedad relativa según la OMS — la tiza ayuda a mantenerla por debajo de ese umbral",
+      "Un paquete de tizas escolares cuesta 1€ y absorbe humedad durante 2-3 meses vs absorbentes comerciales de 5-10€",
+      "Truco: ata 5-6 tizas con una goma y cuélgalas en la barra del armario. Absorben humedad y previenen el moho y el olor a cerrado. Cámbialas cada 2 meses"
+    ],
+    "search_terms": ["chalk moisture absorber closet", "preventing mold wardrobe", "humidity control storage"],
+    "category": "trucos"
+  },
+  {
+    "id": 116,
+    "topic": "Cómo la pintura reflectante en el tejado reduce la temperatura interior 5°C",
+    "hook": "Pintar tu tejado de blanco baja 5 grados",
+    "key_points": [
+      "Los tejados oscuros absorben el 90% de la radiación solar, alcanzando 65-80°C en verano. Los blancos reflejan el 70-80% y llegan a 35-45°C",
+      "El Lawrence Berkeley National Laboratory calculó que un tejado reflectante reduce la demanda de aire acondicionado un 20-40%",
+      "En España, con irradiación solar de 1.500-1.800 kWh/m²/año, la ganancia por tejados fríos es aún mayor que la media europea",
+      "Truco: aplicar pintura reflectante blanca (cal o acrílica reflectante) en terrazas y tejados accesibles. Coste: 5-10€/m². Ahorro en aire acondicionado: 100-200€/año"
+    ],
+    "search_terms": ["white cool roof coating", "reflective roof paint summer", "cool roof energy savings"],
+    "category": "ahorro_energía"
+  },
+  {
+    "id": 117,
+    "topic": "Por qué la sal absorbe vino tinto derramado mejor que cualquier producto",
+    "hook": "Echa sal al vino tinto y la mancha desaparece",
+    "key_points": [
+      "La sal (NaCl) absorbe líquido por capilaridad y osmosis: sus cristales crean una presión osmótica que extrae el vino de las fibras textiles",
+      "Actuar en los primeros 2 minutos es crucial: una vez seco, los taninos del vino se fijan a las fibras por enlaces de hidrógeno y es casi imposible eliminarlo",
+      "Los taninos del vino tinto son polifenoles que se oxidan con el aire y se oscurecen — la sal impide este proceso al absorber el líquido antes",
+      "Truco: vierte sal generosamente sobre el derrame de vino tinto INMEDIATAMENTE. No frotes. Deja que la sal absorba el vino (se pondrá rosa). Recoge. Repite si es necesario. Lava después"
+    ],
+    "search_terms": ["red wine stain salt removal", "spilled wine tablecloth cleaning", "emergency stain treatment"],
+    "category": "trucos"
+  },
+  {
+    "id": 118,
+    "topic": "El método de la foto para recordar cómo estaba todo antes de desmontarlo",
+    "hook": "Haz una foto antes de desmontar cualquier cosa",
+    "key_points": [
+      "El cerebro humano olvida un 50% de la información visual en 1 hora según la curva de olvido de Ebbinghaus",
+      "Una foto del cableado detrás de la TV, la distribución de un cajón o el montaje de un mueble ahorra horas de frustración al remontar",
+      "Los electricistas y fontaneros profesionales fotografían cada conexión antes de tocarla — es un estándar profesional que cualquiera puede adoptar",
+      "Truco: antes de desmontar algo (cables, mueble, enchufe, grifo), haz 2-3 fotos desde distintos ángulos. Al remontar, mira las fotos. Nunca más sobrarán tornillos"
+    ],
+    "search_terms": ["photo before disassembly cables", "documenting wire connections", "organized repair maintenance"],
+    "category": "organización"
+  },
+  {
+    "id": 119,
+    "topic": "Por qué tu frigorífico funciona mejor si lo alejas 10 cm de la pared",
+    "hook": "Tu nevera pegada a la pared gasta más energía",
+    "key_points": [
+      "El compresor del frigorífico genera calor que necesita disiparse — si la rejilla trasera está pegada a la pared, el calor se acumula y el motor trabaja más",
+      "Dejar 10-15 cm entre la nevera y la pared mejora la ventilación del condensador y reduce el consumo un 5-10% según Energy Star",
+      "Un frigorífico con ventilación deficiente puede consumir 50-100 kWh/año extra — 7-15€ anuales desperdiciados",
+      "Truco: separa el frigorífico 10-15 cm de la pared y de paredes laterales. Limpia la rejilla trasera y los serpentines cada 6 meses con aspiradora. El motor trabaja menos y dura más"
+    ],
+    "search_terms": ["refrigerator wall clearance space", "fridge ventilation back coils", "energy efficient fridge placement"],
+    "category": "ahorro_energía"
+  },
+  {
+    "id": 120,
+    "topic": "El dato que nadie conoce: el polvo de tu casa es en un 80% piel muerta",
+    "hook": "El polvo de tu casa es piel muerta tuya",
+    "key_points": [
+      "Un ser humano pierde 1.5 gramos de piel muerta al día — unos 500g al año, que se convierten en la base del polvo doméstico",
+      "Un estudio de la Universidad de Arizona analizó el polvo y encontró que el 80% son células de piel humana, fibras textiles y pelo",
+      "Los ácaros del polvo (Dermatophagoides) se alimentan exclusivamente de escamas de piel humana — 1 gramo alimenta 1 millón de ácaros durante 3 meses",
+      "Dato curioso: en 10 años, el peso acumulado de piel muerta que depositas en tu cama equivale al peso de tu almohada. Por eso las almohadas viejas pesan más"
+    ],
+    "search_terms": ["house dust composition skin cells", "dust mites microscope", "household dust facts"],
+    "category": "datos_curiosos"
+  }
+]

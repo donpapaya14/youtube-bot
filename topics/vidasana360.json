@@ -1,0 +1,1562 @@
+[
+  {
+    "id": 1,
+    "topic": "El efecto de caminar 10 minutos después de comer en el azúcar en sangre",
+    "hook": "Caminar 10 min baja tu azúcar 30%",
+    "key_points": [
+      "Un estudio de la Universidad de Otago (2022) demostró que caminar 10 min tras comer reduce picos de glucosa un 30%",
+      "El efecto es mayor que caminar la misma cantidad de tiempo en cualquier otro momento del día",
+      "Basta con caminar a paso ligero — no hace falta correr ni sudar",
+      "Los diabéticos tipo 2 que adoptaron este hábito mejoraron su HbA1c en 3 meses según el British Journal of Sports Medicine"
+    ],
+    "search_terms": ["person walking after meal", "walking outdoors nature", "healthy lifestyle walking"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 2,
+    "topic": "Por qué el magnesio es el mineral que más te falta sin saberlo",
+    "hook": "El 75% de personas carece de magnesio",
+    "key_points": [
+      "Según un estudio de la Universidad de Gante (2021), el 75% de adultos no alcanza la ingesta diaria recomendada de magnesio",
+      "El magnesio interviene en más de 300 reacciones enzimáticas del cuerpo según el NIH",
+      "Los niveles bajos de magnesio se asocian a peor calidad de sueño según el Journal of Research in Medical Sciences (2012)",
+      "Alimentos ricos: espinacas (157 mg/taza), almendras (80 mg/28g) y chocolate negro (65 mg/28g) según USDA"
+    ],
+    "search_terms": ["magnesium rich foods", "spinach almonds healthy food", "mineral supplement nutrition"],
+    "category": "nutrición"
+  },
+  {
+    "id": 3,
+    "topic": "La técnica de respiración 4-7-8 para dormirte en 2 minutos",
+    "hook": "Duerme en 2 minutos con esta técnica",
+    "key_points": [
+      "La técnica 4-7-8 fue desarrollada por el Dr. Andrew Weil de la Universidad de Arizona basándose en pranayama",
+      "Un estudio en el Journal of Clinical Nursing (2019) mostró que reduce el tiempo para conciliar el sueño un 47%",
+      "Funciona activando el sistema nervioso parasimpático y reduciendo el cortisol según Frontiers in Psychiatry (2017)",
+      "Se inhala 4 segundos, se retiene 7 y se exhala 8 — repetir 4 ciclos antes de dormir"
+    ],
+    "search_terms": ["person breathing exercise relaxation", "bedroom sleeping peacefully", "meditation breathing calm"],
+    "category": "sueño"
+  },
+  {
+    "id": 4,
+    "topic": "Cómo 5 minutos de contacto con la naturaleza reducen la ansiedad",
+    "hook": "5 minutos en verde bajan tu ansiedad",
+    "key_points": [
+      "Un metaanálisis de la Universidad de Essex (2010) demostró que solo 5 minutos en un espacio verde mejoran el estado de ánimo",
+      "El cortisol se reduce un 12% tras 20 min en naturaleza según Frontiers in Psychology (2019)",
+      "Los japoneses llaman 'shinrin-yoku' (baño de bosque) a esta práctica — reduce la presión arterial según Environmental Health and Preventive Medicine",
+      "Incluso mirar fotos de naturaleza activa áreas cerebrales de calma según un estudio de la Universidad de Exeter (2019)"
+    ],
+    "search_terms": ["person in nature forest", "green park outdoors relaxation", "nature therapy walking"],
+    "category": "mental"
+  },
+  {
+    "id": 5,
+    "topic": "Las zonas azules del mundo y sus secretos para vivir más de 100 años",
+    "hook": "5 lugares donde la gente vive 100 años",
+    "key_points": [
+      "Dan Buettner identificó 5 zonas azules: Okinawa, Cerdeña, Nicoya, Icaria y Loma Linda — donde viven más centenarios per cápita",
+      "El 95% de su dieta es vegetal según el estudio Blue Zones publicado en National Geographic (2005)",
+      "Tienen un 'ikigai' o propósito de vida — asociado a 7 años más de vida según Psychosomatic Medicine (2008)",
+      "Caminan en promedio 8-10 km diarios integrados en su rutina, no como ejercicio formal según el American Journal of Lifestyle Medicine"
+    ],
+    "search_terms": ["elderly active people", "centenarian healthy living", "blue zone mediterranean lifestyle"],
+    "category": "longevidad"
+  },
+  {
+    "id": 6,
+    "topic": "El mito de que necesitas 8 vasos de agua al día",
+    "hook": "Los 8 vasos de agua son un mito",
+    "key_points": [
+      "No existe evidencia científica que respalde los 8 vasos según el Dr. Heinz Valtin en el American Journal of Physiology (2002)",
+      "La recomendación original del 1945 del Food and Nutrition Board incluía el agua de los alimentos, dato que se omitió",
+      "Un estudio en Science (2022) de la Universidad de Aberdeen mostró que las necesidades varían enormemente según peso, clima y actividad",
+      "La mejor guía es el color de la orina: amarillo claro = hidratado, según la Universidad de Connecticut"
+    ],
+    "search_terms": ["drinking water glass", "hydration healthy lifestyle", "water bottle health"],
+    "category": "mitos"
+  },
+  {
+    "id": 7,
+    "topic": "El impacto de las sentadillas diarias en la salud cardiovascular",
+    "hook": "50 sentadillas diarias salvan tu corazón",
+    "key_points": [
+      "Un estudio del European Journal of Preventive Cardiology (2019) asoció la fuerza en piernas con menor riesgo de infarto un 40%",
+      "Las sentadillas activan el 70% de la musculatura total del cuerpo según el American Council on Exercise",
+      "Hacer sentadillas mejora la sensibilidad a la insulina un 24% en 8 semanas según Diabetes Care (2013)",
+      "Solo 3 minutos de sentadillas diarias mejoran la presión arterial según la Universidad de Western Sydney (2022)"
+    ],
+    "search_terms": ["person doing squats exercise", "home workout legs", "fitness bodyweight exercise"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 8,
+    "topic": "Cómo el ayuno intermitente 16:8 afecta tu metabolismo",
+    "hook": "16 horas sin comer cambian tu metabolismo",
+    "key_points": [
+      "El New England Journal of Medicine (2019) publicó que el ayuno 16:8 activa la autofagia — limpieza celular",
+      "Un estudio de la Universidad de Illinois (2018) mostró pérdida de 3% de peso corporal en 12 semanas con 16:8",
+      "La sensibilidad a la insulina mejora un 20-31% según Cell Metabolism (2018)",
+      "No es para todos: personas con historial de trastornos alimentarios deben consultar un profesional según la Universidad de Harvard"
+    ],
+    "search_terms": ["intermittent fasting clock food", "healthy meal timing", "empty plate fasting concept"],
+    "category": "nutrición"
+  },
+  {
+    "id": 9,
+    "topic": "La luz azul de pantallas antes de dormir destruye tu melatonina",
+    "hook": "Tu móvil destruye la hormona del sueño",
+    "key_points": [
+      "La luz azul suprime la melatonina un 50% más que cualquier otra longitud de onda según la Universidad de Harvard (2015)",
+      "2 horas de pantalla antes de dormir retrasan el inicio del sueño 30 minutos según PNAS (2014)",
+      "El sueño REM se reduce un 20% cuando usas móvil antes de dormir según el Journal of Clinical Sleep Medicine (2019)",
+      "Dejar pantallas 1 hora antes de acostarte mejora la calidad del sueño un 58% según la Universidad de Haifa (2017)"
+    ],
+    "search_terms": ["phone screen blue light night", "bedroom dark sleeping", "person using smartphone bed"],
+    "category": "sueño"
+  },
+  {
+    "id": 10,
+    "topic": "La gratitud como antidepresivo natural respaldado por la ciencia",
+    "hook": "La gratitud funciona como un antidepresivo",
+    "key_points": [
+      "Escribir 3 cosas por las que estás agradecido al día aumenta la felicidad un 25% según el Journal of Personality and Social Psychology (2003)",
+      "La gratitud activa el núcleo accumbens y la corteza prefrontal — mismas áreas que los antidepresivos según NeuroImage (2016)",
+      "Un estudio de la Universidad de Indiana (2017) mostró beneficios en salud mental que persisten 12 semanas después",
+      "Las personas que practican gratitud duermen 30 min más por noche según Applied Psychology: Health and Well-Being (2011)"
+    ],
+    "search_terms": ["person writing journal grateful", "happiness positive emotion", "journaling gratitude notebook"],
+    "category": "mental"
+  },
+  {
+    "id": 11,
+    "topic": "El poder antienvejecimiento de los telómeros y cómo protegerlos",
+    "hook": "Tus cromosomas revelan tu edad real",
+    "key_points": [
+      "Elizabeth Blackburn ganó el Nobel 2009 por descubrir que los telómeros cortos predicen envejecimiento acelerado",
+      "El ejercicio aeróbico regular alarga los telómeros un 10% según la Universidad de Leipzig en European Heart Journal (2018)",
+      "El estrés crónico acorta los telómeros equivalente a 10 años de envejecimiento según la Universidad de California San Francisco (2004)",
+      "La dieta mediterránea se asocia con telómeros más largos según el BMJ (2014)"
+    ],
+    "search_terms": ["DNA chromosome science", "aging cells biology", "healthy elderly person active"],
+    "category": "longevidad"
+  },
+  {
+    "id": 12,
+    "topic": "El mito de que el desayuno es la comida más importante del día",
+    "hook": "El desayuno NO es la comida más importante",
+    "key_points": [
+      "Un metaanálisis del BMJ (2019) con 13 estudios concluyó que saltarse el desayuno no causa aumento de peso",
+      "La frase fue popularizada por la empresa de cereales Kellogg's en el siglo XIX como estrategia de marketing según la historiadora Abigail Carroll",
+      "El American Journal of Clinical Nutrition (2014) demostró que desayunar o no desayunar no afecta al metabolismo basal",
+      "Lo importante es la calidad calórica total del día, no cuándo comes la primera comida según la Universidad de Bath (2014)"
+    ],
+    "search_terms": ["breakfast cereal morning meal", "healthy eating habits", "morning routine food"],
+    "category": "mitos"
+  },
+  {
+    "id": 13,
+    "topic": "Cómo la fibra soluble reduce el colesterol sin medicamentos",
+    "hook": "La fibra baja tu colesterol sin pastillas",
+    "key_points": [
+      "Consumir 5-10g de fibra soluble al día reduce el colesterol LDL un 5-11% según la Universidad de Toronto en el American Journal of Clinical Nutrition (1999)",
+      "La avena contiene beta-glucano — un tipo de fibra soluble que atrapa el colesterol en el intestino según la EFSA",
+      "3g de beta-glucano diario (1.5 tazas de avena) es suficiente para obtener el efecto según la FDA",
+      "Las legumbres 4 veces por semana reducen el colesterol LDL un 8% según un metaanálisis del Canadian Medical Association Journal (2014)"
+    ],
+    "search_terms": ["oatmeal fiber healthy breakfast", "legumes beans healthy food", "cholesterol heart health"],
+    "category": "nutrición"
+  },
+  {
+    "id": 14,
+    "topic": "El ejercicio de plancha: por qué 60 segundos cambian tu espalda",
+    "hook": "60 segundos de plancha salvan tu espalda",
+    "key_points": [
+      "La plancha activa el transverso abdominal y multífidos — estabilizadores clave de la columna según el Journal of Strength and Conditioning Research (2014)",
+      "Personas con dolor lumbar crónico mejoraron un 37% haciendo planchas diarias 8 semanas según la Universidad de Waterloo",
+      "El Dr. Stuart McGill de la Universidad de Waterloo demostró que la plancha es más segura que los abdominales clásicos para la columna",
+      "Solo 60 segundos acumulados al día bastan para fortalecer el core según el American Council on Exercise (2014)"
+    ],
+    "search_terms": ["plank exercise fitness", "core workout home", "person doing plank position"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 15,
+    "topic": "El ciclo de sueño de 90 minutos y cómo usarlo para despertar fresco",
+    "hook": "Despierta fresco calculando ciclos de 90 min",
+    "key_points": [
+      "Cada ciclo de sueño dura aproximadamente 90 minutos e incluye fases ligeras, profundas y REM según la National Sleep Foundation",
+      "Despertar en medio de un ciclo causa inercia del sueño — la sensación de aturdimiento según Sleep Medicine Reviews (2017)",
+      "Lo ideal es dormir 5 ciclos completos (7.5 horas) según el Dr. Matthew Walker de la Universidad de Berkeley",
+      "Un estudio de la Universidad de Stanford (2019) mostró que sincronizar alarma con fin de ciclo mejora el rendimiento cognitivo un 25%"
+    ],
+    "search_terms": ["alarm clock morning waking up", "sleep cycle brain waves", "person waking up refreshed"],
+    "category": "sueño"
+  },
+  {
+    "id": 16,
+    "topic": "Cómo el estrés crónico encoge literalmente tu cerebro",
+    "hook": "El estrés encoge tu cerebro literalmente",
+    "key_points": [
+      "El cortisol crónico reduce el volumen del hipocampo hasta un 14% según Biological Psychiatry (2012)",
+      "La corteza prefrontal — responsable de decisiones — también se encoge con estrés prolongado según la Universidad de Yale (2012)",
+      "El efecto es reversible: 8 semanas de meditación aumentan la materia gris del hipocampo según la Universidad de Harvard en Psychiatry Research (2011)",
+      "El estrés crónico mata neuronas en el hipocampo según el neurocientífico Robert Sapolsky de Stanford"
+    ],
+    "search_terms": ["stressed person headache", "brain health neuroscience", "meditation calm relaxation"],
+    "category": "mental"
+  },
+  {
+    "id": 17,
+    "topic": "El efecto protector del café contra el Alzheimer",
+    "hook": "El café reduce el riesgo de Alzheimer 65%",
+    "key_points": [
+      "Beber 3-5 tazas de café al día reduce el riesgo de Alzheimer un 65% según un estudio finlandés en el Journal of Alzheimer's Disease (2010)",
+      "La cafeína bloquea los receptores de adenosina A2A que promueven la acumulación de beta-amiloide según la Universidad de Florida (2012)",
+      "El efecto neuroprotector es acumulativo — se necesitan años de consumo regular según Practical Neurology (2016)",
+      "Los polifenoles del café reducen la neuroinflamación según un estudio del Instituto Krembil (2018)"
+    ],
+    "search_terms": ["coffee cup morning drink", "brain health protection", "elderly person drinking coffee"],
+    "category": "longevidad"
+  },
+  {
+    "id": 18,
+    "topic": "El mito de que sudar más significa quemar más grasa",
+    "hook": "Sudar más NO quema más grasa",
+    "key_points": [
+      "El sudor es termorregulación, no quema de grasa — las células de grasa se eliminan por la respiración según el BMJ (2014)",
+      "El 84% de la grasa se exhala como CO2 y el 16% como agua según el bioquímico Ruben Meerman en la Universidad de Nueva Gales del Sur",
+      "Las fajas de sudoración solo deshidratan — el peso perdido se recupera al beber agua según el American College of Sports Medicine",
+      "Personas en climas fríos queman la misma grasa que en climas cálidos haciendo el mismo ejercicio según el Journal of Clinical Endocrinology & Metabolism"
+    ],
+    "search_terms": ["sweating exercise workout", "fat loss fitness concept", "person exercising gym"],
+    "category": "mitos"
+  },
+  {
+    "id": 19,
+    "topic": "El impacto del omega-3 en la inflamación crónica",
+    "hook": "Omega-3 apaga la inflamación de tu cuerpo",
+    "key_points": [
+      "El omega-3 reduce la proteína C-reactiva (marcador inflamatorio) un 30% según un metaanálisis en Brain, Behavior, and Immunity (2012)",
+      "Los ácidos EPA y DHA inhiben las citoquinas proinflamatorias TNF-alfa e IL-6 según el American Journal of Clinical Nutrition (2006)",
+      "2g diarios de omega-3 equivalen en efecto antiinflamatorio a una dosis baja de ibuprofeno según Surgical Neurology (2006)",
+      "Las mejores fuentes son salmón salvaje (2.6g/150g), sardinas (1.5g/100g) y semillas de chía (5g/28g) según USDA"
+    ],
+    "search_terms": ["omega 3 fish salmon", "anti inflammatory food", "healthy fats nutrition"],
+    "category": "nutrición"
+  },
+  {
+    "id": 20,
+    "topic": "Por qué 7 minutos de ejercicio intenso equivalen a 30 de moderado",
+    "hook": "7 minutos de HIIT valen por 30 normales",
+    "key_points": [
+      "El ACSM publicó en 2013 que 7 minutos de HIIT produce los mismos beneficios cardiovasculares que 30 min de carrera moderada",
+      "El HIIT aumenta el EPOC (consumo de oxígeno post-ejercicio) — sigues quemando calorías 24h después según Medicine & Science in Sports & Exercise (2011)",
+      "El VO2 max mejora un 9% en 6 semanas con HIIT vs 3% con ejercicio moderado según el Journal of Physiology (2016)",
+      "Solo necesitas tu peso corporal — sentadillas, burpees, planchas — según el American College of Sports Medicine"
+    ],
+    "search_terms": ["HIIT workout intense exercise", "home fitness training", "person doing burpees"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 21,
+    "topic": "La temperatura ideal del dormitorio para dormir profundamente",
+    "hook": "18 grados: la temperatura perfecta para dormir",
+    "key_points": [
+      "La temperatura ideal para dormir es 18-19°C según la National Sleep Foundation y el Dr. Matthew Walker",
+      "El cuerpo necesita bajar 1°C de temperatura interna para iniciar el sueño según Sleep Medicine Reviews (2012)",
+      "Dormir en habitación a más de 24°C reduce el sueño profundo un 36% según el Journal of Physiological Anthropology (2012)",
+      "Un baño caliente 90 min antes de dormir reduce el tiempo para conciliar el sueño 10 min al enfriar el cuerpo por vasodilatación según Sleep Medicine Reviews (2019)"
+    ],
+    "search_terms": ["bedroom cool temperature sleeping", "thermostat temperature control", "comfortable bed night"],
+    "category": "sueño"
+  },
+  {
+    "id": 22,
+    "topic": "El efecto de las redes sociales en la depresión adolescente",
+    "hook": "2 horas de redes duplican la depresión",
+    "key_points": [
+      "Más de 2 horas diarias de redes sociales duplican el riesgo de depresión en adolescentes según JAMA Psychiatry (2019)",
+      "El uso de Instagram se correlaciona con peor imagen corporal en el 70% de mujeres de 18-30 años según la Royal Society for Public Health (2017)",
+      "La comparación social en redes activa la misma respuesta de estrés que el rechazo social real según la Universidad de Michigan (2013)",
+      "Reducir redes a 30 min/día durante 3 semanas redujo significativamente ansiedad y FOMO según la Universidad de Pennsylvania (2018)"
+    ],
+    "search_terms": ["social media phone teenager", "mental health awareness", "digital detox concept"],
+    "category": "mental"
+  },
+  {
+    "id": 23,
+    "topic": "Cómo la restricción calórica moderada extiende la vida un 15%",
+    "hook": "Comer un 15% menos alarga tu vida",
+    "key_points": [
+      "La restricción calórica del 15% activó genes de longevidad y redujo biomarcadores de envejecimiento según el estudio CALERIE del NIH (2018)",
+      "Monos rhesus con restricción calórica del 20% vivieron un 30% más según la Universidad de Wisconsin (2017)",
+      "La restricción moderada reduce la inflamación sistémica un 25% según Cell Metabolism (2018)",
+      "No se trata de pasar hambre: es reducir porciones ligeramente manteniendo micronutrientes según el Dr. Luigi Fontana de la Universidad de Brescia"
+    ],
+    "search_terms": ["portion control healthy eating", "small plate diet food", "longevity healthy aging"],
+    "category": "longevidad"
+  },
+  {
+    "id": 24,
+    "topic": "El mito de que los huevos suben el colesterol",
+    "hook": "Los huevos NO suben tu colesterol",
+    "key_points": [
+      "Un metaanálisis del BMJ (2020) con 1.7 millones de participantes concluyó que 1 huevo diario no aumenta riesgo cardiovascular",
+      "El 80% del colesterol lo produce tu hígado — el colesterol dietético tiene impacto mínimo según la Universidad de Connecticut (2006)",
+      "Las guías dietéticas de EE.UU. eliminaron el límite de colesterol dietético en 2015 tras revisar la evidencia",
+      "Los huevos contienen colina — nutriente esencial del que el 92% de americanos son deficientes según el American Journal of Clinical Nutrition (2017)"
+    ],
+    "search_terms": ["eggs healthy breakfast", "cholesterol myth food", "cooking eggs nutrition"],
+    "category": "mitos"
+  },
+  {
+    "id": 25,
+    "topic": "Los beneficios probados de la cúrcuma para la inflamación articular",
+    "hook": "La cúrcuma reduce dolor articular como ibuprofeno",
+    "key_points": [
+      "1g de curcumina diaria fue tan eficaz como ibuprofeno para dolor de rodilla según un estudio en el Journal of Alternative and Complementary Medicine (2009)",
+      "La curcumina inhibe la enzima COX-2 y reduce NF-kB — mediador clave de inflamación según Oncogene (2004)",
+      "Su biodisponibilidad aumenta un 2000% con pimienta negra (piperina) según Planta Medica (1998)",
+      "Un metaanálisis de 8 ensayos en el Journal of Medicinal Food (2016) confirmó la reducción significativa de marcadores inflamatorios"
+    ],
+    "search_terms": ["turmeric spice golden", "anti inflammatory natural remedy", "joint pain relief herbs"],
+    "category": "nutrición"
+  },
+  {
+    "id": 26,
+    "topic": "Los peligros de estar sentado más de 8 horas al día",
+    "hook": "Sentarte 8 horas mata como fumar",
+    "key_points": [
+      "Estar sentado más de 8 horas/día aumenta el riesgo de muerte prematura un 59% según The Lancet (2016)",
+      "El sedentarismo prolongado reduce el flujo sanguíneo cerebral un 23% según el Journal of Applied Physiology (2018)",
+      "Levantarse 2 minutos cada 30 min reduce el riesgo de muerte un 33% según el American Journal of Epidemiology (2017)",
+      "60-75 minutos de ejercicio moderado diario eliminan el exceso de riesgo por estar sentado según The Lancet (2016)"
+    ],
+    "search_terms": ["office desk sitting work", "sedentary lifestyle health", "person standing desk"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 27,
+    "topic": "Cómo la privación de sueño engorda y aumenta el hambre",
+    "hook": "Dormir poco te engorda sin comer más",
+    "key_points": [
+      "Dormir menos de 5 horas aumenta la grelina (hormona del hambre) un 28% según PLoS Medicine (2004)",
+      "La privación de sueño reduce la leptina (hormona de saciedad) un 18% según Annals of Internal Medicine (2010)",
+      "Se consumen 385 calorías extra por día con sueño insuficiente según un metaanálisis en el European Journal of Clinical Nutrition (2017)",
+      "El riesgo de obesidad aumenta un 89% en niños y un 55% en adultos con sueño insuficiente según Sleep (2008)"
+    ],
+    "search_terms": ["tired person eating late night", "weight gain sleep deprivation", "unhealthy snacking midnight"],
+    "category": "sueño"
+  },
+  {
+    "id": 28,
+    "topic": "El efecto de 10 minutos de meditación diaria en el cerebro",
+    "hook": "10 min de meditación cambian tu cerebro",
+    "key_points": [
+      "8 semanas de meditación diaria aumentan la materia gris del hipocampo según Harvard en Psychiatry Research: Neuroimaging (2011)",
+      "10 minutos de meditación reducen la ansiedad un 39% según la Universidad Johns Hopkins en JAMA Internal Medicine (2014)",
+      "La amígdala (centro del miedo) se reduce con meditación regular según la Universidad de Pittsburgh en Social Cognitive and Affective Neuroscience (2010)",
+      "La concentración mejora un 14% tras solo 4 días de meditación de 20 min según Consciousness and Cognition (2010)"
+    ],
+    "search_terms": ["meditation mindfulness person", "calm peaceful meditation", "brain health meditation"],
+    "category": "mental"
+  },
+  {
+    "id": 29,
+    "topic": "El secreto de Okinawa: la regla del 80% (Hara Hachi Bu)",
+    "hook": "Comer al 80% es el secreto de Okinawa",
+    "key_points": [
+      "Los okinawenses practican 'hara hachi bu' — comer hasta estar 80% llenos — y viven 7 años más que el promedio según el Okinawa Centenarian Study",
+      "Consumen en promedio 1,800 kcal/día vs 2,500 de los occidentales según la Universidad de Okinawa",
+      "Esta práctica reduce biomarcadores de envejecimiento como IGF-1 según el Journal of the American Geriatrics Society (2007)",
+      "El estómago tarda 20 minutos en señalar saciedad al cerebro — parar al 80% previene sobreingesta según la Universidad de Cornell"
+    ],
+    "search_terms": ["japanese food okinawa", "small portion healthy meal", "elderly japanese person eating"],
+    "category": "longevidad"
+  },
+  {
+    "id": 30,
+    "topic": "El mito del detox y las limpiezas de jugos",
+    "hook": "Los jugos detox son un engaño total",
+    "key_points": [
+      "No existe evidencia de que los jugos 'detox' eliminen toxinas — el hígado y riñones ya lo hacen según el British Dietetic Association",
+      "Las limpiezas de jugos eliminan la fibra de la fruta, convirtiendo el azúcar en azúcar libre según el NHS (2018)",
+      "Un estudio de la Universidad de Alberta encontró que las dietas de jugos pueden causar deficiencia de proteínas en solo 3 días",
+      "La palabra 'toxina' rara vez se define en los productos detox — nadie especifica qué toxina se elimina según el Dr. Edzard Ernst de la Universidad de Exeter"
+    ],
+    "search_terms": ["juice cleanse detox drinks", "healthy liver kidney function", "green smoothie myth"],
+    "category": "mitos"
+  },
+  {
+    "id": 31,
+    "topic": "El poder de las legumbres para prevenir la diabetes tipo 2",
+    "hook": "Legumbres 3 veces/semana previenen diabetes",
+    "key_points": [
+      "Consumir legumbres 3+ veces por semana reduce el riesgo de diabetes tipo 2 un 35% según el American Journal of Clinical Nutrition (2008)",
+      "Las legumbres tienen un índice glucémico de 20-30, vs 70+ del pan blanco según la Universidad de Sydney",
+      "Una taza de lentejas contiene 18g de proteína y 16g de fibra — estabiliza el azúcar 4 horas según el British Journal of Nutrition (2012)",
+      "El estudio PREDIMED (2014) confirmó que legumbres 4 veces/semana reducen la mortalidad cardiovascular un 14%"
+    ],
+    "search_terms": ["lentils beans legumes healthy", "plant based protein food", "diabetes prevention diet"],
+    "category": "nutrición"
+  },
+  {
+    "id": 32,
+    "topic": "Cómo caminar 7000 pasos diarios reduce la mortalidad un 70%",
+    "hook": "7000 pasos diarios reducen muerte prematura 70%",
+    "key_points": [
+      "El estudio de JAMA Network Open (2021) con 2,110 adultos demostró que 7,000 pasos diarios reducen la mortalidad un 50-70%",
+      "Los beneficios se estabilizan a partir de 8,000-10,000 pasos — más no es significativamente mejor según The Lancet Public Health (2022)",
+      "La velocidad importa: caminar rápido (>100 pasos/min) añade beneficio cardiovascular extra según JAMA Internal Medicine (2022)",
+      "No es necesario hacerlo de una vez — pasos acumulados a lo largo del día cuentan igual según la Universidad de Massachusetts"
+    ],
+    "search_terms": ["person walking steps counter", "outdoor walking healthy", "fitness walking tracking"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 33,
+    "topic": "La importancia de la consistencia horaria del sueño para tu salud",
+    "hook": "Dormir a distinta hora es peor que dormir poco",
+    "key_points": [
+      "Variación de más de 30 min en horario de sueño aumenta el riesgo metabólico un 27% según Sleep (2019)",
+      "El 'jet lag social' (horarios distintos en semana vs fin de semana) se asocia con peor salud cardiaca según Current Biology (2017)",
+      "El ritmo circadiano controla más de 1,000 genes — su desregulación altera inmunidad según PNAS (2014)",
+      "Acostarse y levantarse a la misma hora — incluso fines de semana — mejora la calidad del sueño un 42% según la Universidad de Harvard"
+    ],
+    "search_terms": ["consistent sleep schedule clock", "circadian rhythm sleep", "person sleeping regular routine"],
+    "category": "sueño"
+  },
+  {
+    "id": 34,
+    "topic": "Por qué la soledad es tan letal como fumar 15 cigarrillos al día",
+    "hook": "La soledad mata como 15 cigarros diarios",
+    "key_points": [
+      "La soledad crónica aumenta el riesgo de muerte prematura un 26% — equivalente a fumar 15 cigarrillos según la Dra. Julianne Holt-Lunstad en Perspectives on Psychological Science (2015)",
+      "El aislamiento social aumenta la inflamación sistémica un 25% según PNAS (2013)",
+      "Las personas solitarias tienen un riesgo 29% mayor de enfermedad coronaria según Heart (2016)",
+      "Tener al menos 3 conexiones sociales significativas es factor protector según el estudio de Harvard sobre el desarrollo adulto — el más largo de la historia (85 años)"
+    ],
+    "search_terms": ["lonely person isolation", "social connection friends", "mental health loneliness"],
+    "category": "mental"
+  },
+  {
+    "id": 35,
+    "topic": "Cómo el ejercicio de fuerza previene la sarcopenia después de los 40",
+    "hook": "Pierdes 8% de músculo cada década después de 30",
+    "key_points": [
+      "A partir de los 30 se pierde un 3-8% de masa muscular por década (sarcopenia) según Current Opinion in Clinical Nutrition (2010)",
+      "El entrenamiento de fuerza 2-3 veces/semana revierte esta pérdida incluso en mayores de 80 según el New England Journal of Medicine (1994)",
+      "La masa muscular baja a los 65 años duplica el riesgo de caídas y fracturas según el American Journal of Medicine (2014)",
+      "Nunca es tarde: personas de 90 años duplicaron su fuerza en 8 semanas de entrenamiento según la Universidad de Tufts"
+    ],
+    "search_terms": ["elderly person weight training", "strength exercise aging", "muscle fitness older adult"],
+    "category": "longevidad"
+  },
+  {
+    "id": 36,
+    "topic": "El mito de que los carbohidratos engordan",
+    "hook": "Los carbohidratos NO te engordan",
+    "key_points": [
+      "Un metaanálisis del Cochrane Database (2017) con 7,286 participantes concluyó que las dietas bajas en carbs no son superiores a las bajas en grasa para perder peso",
+      "Los japoneses consumen el 60% de sus calorías de carbohidratos (arroz) y tienen la menor tasa de obesidad del G7 según la OMS (2019)",
+      "Lo que engorda es el exceso calórico total, no los macronutrientes específicos según el Dr. Kevin Hall del NIH en Cell Metabolism (2015)",
+      "Los carbohidratos integrales reducen el riesgo de muerte un 17% según un metaanálisis del BMJ (2016)"
+    ],
+    "search_terms": ["rice bread carbohydrates food", "healthy whole grains", "balanced diet nutrition"],
+    "category": "mitos"
+  },
+  {
+    "id": 37,
+    "topic": "El efecto del ajo en la presión arterial alta",
+    "hook": "El ajo baja la presión como un medicamento",
+    "key_points": [
+      "El extracto de ajo envejecido reduce la presión sistólica en 10 mmHg según un metaanálisis en el Journal of Clinical Hypertension (2015)",
+      "La alicina del ajo estimula la producción de óxido nítrico — vasodilatador natural según Molecular Nutrition & Food Research (2007)",
+      "El efecto es comparable a medicamentos de primera línea para hipertensión leve según la Universidad de Adelaida (2013)",
+      "Se necesitan 2-3 dientes de ajo crudos al día o 600-1200mg de extracto para obtener el efecto según Integrated Blood Pressure Control (2014)"
+    ],
+    "search_terms": ["garlic cloves natural remedy", "blood pressure heart health", "healthy cooking garlic"],
+    "category": "nutrición"
+  },
+  {
+    "id": 38,
+    "topic": "Cómo nadar 30 minutos protege tus articulaciones y corazón",
+    "hook": "Nadar: ejercicio total sin dañar articulaciones",
+    "key_points": [
+      "La natación reduce el impacto articular un 90% comparado con correr según el American College of Sports Medicine",
+      "30 minutos de natación queman 250-400 calorías y trabajan todos los grupos musculares según la Universidad de Harvard",
+      "Nadar regularmente reduce el riesgo de muerte prematura un 28% según un estudio de 32 años de la Universidad de Carolina del Sur (2008)",
+      "Es el ejercicio más recomendado para artritis — mejora el dolor y la función un 40% según la Arthritis Foundation"
+    ],
+    "search_terms": ["swimming pool exercise", "person swimming healthy", "water exercise fitness"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 39,
+    "topic": "Por qué dormir la siesta mejora la memoria y la productividad",
+    "hook": "Una siesta de 20 min mejora la memoria 40%",
+    "key_points": [
+      "Siestas de 20-30 minutos mejoran la memoria un 40% y la alerta un 100% según la NASA",
+      "El sueño diurno consolida memorias declarativas — datos y hechos — según la Universidad de Saarland en Neurobiology of Learning and Memory (2015)",
+      "Más de 30 minutos de siesta produce inercia del sueño (aturdimiento) según Sleep (2006)",
+      "Países con cultura de siesta (Grecia, España) tienen menor mortalidad cardiovascular según un estudio de 24,000 personas en Archives of Internal Medicine (2007)"
+    ],
+    "search_terms": ["power nap resting sofa", "afternoon nap relaxation", "person napping office"],
+    "category": "sueño"
+  },
+  {
+    "id": 40,
+    "topic": "El vínculo entre flora intestinal y salud mental (eje intestino-cerebro)",
+    "hook": "Tu intestino controla tu estado de ánimo",
+    "key_points": [
+      "El 95% de la serotonina — neurotransmisor de la felicidad — se produce en el intestino según Cell (2015)",
+      "El eje intestino-cerebro usa el nervio vago para comunicarse bidireccionalmente según Nature Reviews Neuroscience (2012)",
+      "Los probióticos (Lactobacillus y Bifidobacterium) reducen síntomas de depresión un 25% según un metaanálisis en Journal of Psychiatric Research (2019)",
+      "Una dieta alta en fibra diversa nutre más especies bacterianas beneficiosas según el Human Microbiome Project del NIH"
+    ],
+    "search_terms": ["gut health microbiome", "brain gut connection", "fermented food probiotics"],
+    "category": "mental"
+  },
+  {
+    "id": 41,
+    "topic": "El poder del resveratrol de las uvas rojas en el envejecimiento",
+    "hook": "Las uvas rojas tienen un antienvejecimiento secreto",
+    "key_points": [
+      "El resveratrol activa la sirtuina SIRT1 — gen de longevidad — según Nature (2006) por el Dr. David Sinclair de Harvard",
+      "Reduce el estrés oxidativo celular un 30% según Free Radical Biology and Medicine (2010)",
+      "Un estudio de la Universidad de Johns Hopkins (2014) con 800 italianos mostró que el resveratrol dietético se asoció con menor mortalidad",
+      "Las uvas rojas, arándanos y cacahuetes son las mejores fuentes alimentarias según el Linus Pauling Institute de la Universidad Estatal de Oregon"
+    ],
+    "search_terms": ["red grapes wine resveratrol", "antioxidant food berries", "healthy aging nutrition"],
+    "category": "longevidad"
+  },
+  {
+    "id": 42,
+    "topic": "El mito de que los estiramientos previenen lesiones",
+    "hook": "Estirar antes del ejercicio NO previene lesiones",
+    "key_points": [
+      "Un metaanálisis del Cochrane Database (2011) con 12 estudios concluyó que los estiramientos estáticos no previenen lesiones",
+      "Estirar estáticamente antes de correr REDUCE la fuerza muscular un 5.5% según el Scandinavian Journal of Medicine & Science in Sports (2012)",
+      "Lo que previene lesiones es el calentamiento dinámico (movimientos activos) según el British Journal of Sports Medicine (2014)",
+      "Los estiramientos SÍ son útiles para flexibilidad post-ejercicio — pero no para prevenir lesiones según la Universidad de Sydney"
+    ],
+    "search_terms": ["stretching exercise warm up", "dynamic warm up fitness", "runner stretching legs"],
+    "category": "mitos"
+  },
+  {
+    "id": 43,
+    "topic": "Cómo la vitamina D afecta tu inmunidad y cuánto necesitas",
+    "hook": "El 40% del mundo carece de vitamina D",
+    "key_points": [
+      "Un billón de personas (40%) tienen déficit de vitamina D según el Journal of Clinical Endocrinology & Metabolism (2011)",
+      "La vitamina D activa los linfocitos T — soldados del sistema inmune — según Nature Immunology (2010)",
+      "La suplementación con vitamina D reduce las infecciones respiratorias un 12% según un metaanálisis del BMJ (2017)",
+      "15-20 minutos de sol en brazos y piernas sin protector producen 10,000-20,000 UI según la Universidad de Boston"
+    ],
+    "search_terms": ["sunlight vitamin D healthy", "person in sunshine outdoors", "immune system health"],
+    "category": "nutrición"
+  },
+  {
+    "id": 44,
+    "topic": "El efecto de los ejercicios de equilibrio en la prevención de caídas",
+    "hook": "30 segundos en un pie previenen caídas fatales",
+    "key_points": [
+      "Las caídas son la primera causa de muerte accidental en mayores de 65 según la OMS — 684,000 muertes al año",
+      "Ejercicios de equilibrio reducen las caídas un 23% según un metaanálisis del BMJ (2013)",
+      "No poder estar 10 segundos en un pie se asocia con el doble de riesgo de muerte en 10 años según British Journal of Sports Medicine (2022)",
+      "El tai chi reduce las caídas un 43% según la Universidad de Jaén en el Journal of the American Geriatrics Society (2012)"
+    ],
+    "search_terms": ["balance exercise elderly", "one leg stand fitness", "fall prevention exercise"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 45,
+    "topic": "La posición en la que duermes afecta tu cerebro y digestión",
+    "hook": "Dormir de lado limpia tu cerebro de toxinas",
+    "key_points": [
+      "Dormir de lado mejora el drenaje glinfático (limpieza de residuos cerebrales) un 25% según la Universidad de Stony Brook en Journal of Neuroscience (2015)",
+      "La posición lateral izquierda mejora la digestión y reduce el reflujo según el Journal of Clinical Gastroenterology (2015)",
+      "Dormir boca abajo aumenta la presión en la columna cervical según la Universidad de Harvard",
+      "El sistema glinfático elimina beta-amiloide (proteína del Alzheimer) durante el sueño profundo según Science (2013)"
+    ],
+    "search_terms": ["person sleeping side position", "comfortable sleep bed pillow", "sleep position health"],
+    "category": "sueño"
+  },
+  {
+    "id": 46,
+    "topic": "Cómo la escritura expresiva reduce el estrés y mejora la inmunidad",
+    "hook": "Escribir 20 min cura tu estrés y tu cuerpo",
+    "key_points": [
+      "Escribir sobre experiencias traumáticas 20 min/día durante 3 días mejora la función inmune según el Dr. James Pennebaker de la Universidad de Texas (1986)",
+      "Los participantes visitaron al médico un 50% menos en los 6 meses siguientes según Journal of Consulting and Clinical Psychology",
+      "La escritura expresiva reduce los niveles de cortisol un 22% según Psychotherapy and Psychosomatics (2005)",
+      "El efecto se ha replicado en más de 200 estudios con pacientes de cáncer, asma y artritis según un metaanálisis de Psychological Bulletin (2006)"
+    ],
+    "search_terms": ["person writing journal diary", "expressive writing therapy", "notebook pen emotional"],
+    "category": "mental"
+  },
+  {
+    "id": 47,
+    "topic": "Cómo la dieta mediterránea extiende la vida un 20%",
+    "hook": "La dieta mediterránea alarga la vida un 20%",
+    "key_points": [
+      "La dieta mediterránea reduce la mortalidad total un 20% según un metaanálisis del BMJ (2008) con 1.5 millones de personas",
+      "El estudio PREDIMED (2018) demostró una reducción del 30% en eventos cardiovasculares con dieta mediterránea suplementada con aceite de oliva",
+      "Los polifenoles del aceite de oliva extra virgen activan genes SIRT1 de longevidad según la Universidad de Barcelona",
+      "Componentes clave: aceite de oliva, pescado 2x/semana, legumbres, frutas, verduras y frutos secos según la UNESCO (Patrimonio Inmaterial 2010)"
+    ],
+    "search_terms": ["mediterranean diet olive oil", "healthy food vegetables fish", "italian greek healthy meal"],
+    "category": "longevidad"
+  },
+  {
+    "id": 48,
+    "topic": "El mito de que las grasas saturadas causan enfermedades del corazón",
+    "hook": "Las grasas saturadas no son el enemigo",
+    "key_points": [
+      "Un metaanálisis del Annals of Internal Medicine (2014) con 600,000 personas no encontró asociación entre grasa saturada y enfermedad coronaria",
+      "La hipótesis original de Ancel Keys (1958) ha sido cuestionada por seleccionar datos de solo 7 de 22 países disponibles",
+      "Los carbohidratos refinados y azúcares añadidos son mayores predictores de enfermedad cardíaca que la grasa saturada según JAMA Internal Medicine (2016)",
+      "El contexto importa: la grasa saturada del queso no tiene el mismo efecto que la de carnes procesadas según The Lancet (2017)"
+    ],
+    "search_terms": ["butter cheese saturated fat", "heart health food myth", "healthy fats cooking"],
+    "category": "mitos"
+  },
+  {
+    "id": 49,
+    "topic": "El impacto de masticar bien los alimentos en la digestión",
+    "hook": "Masticar 30 veces cambia tu digestión entera",
+    "key_points": [
+      "Masticar cada bocado 30 veces reduce la ingesta calórica un 12% según el American Journal of Clinical Nutrition (2011)",
+      "La digestión comienza en la boca: la amilasa salival descompone el 30% de los almidones antes de llegar al estómago según Physiology & Behavior",
+      "Las personas que comen rápido tienen 2.5 veces más riesgo de síndrome metabólico según el Journal of Epidemiology (2012)",
+      "Masticar lentamente aumenta la producción de hormonas de saciedad (GLP-1, PYY) un 25% según Obesity (2014)"
+    ],
+    "search_terms": ["person eating slowly mindful", "healthy digestion food", "mindful eating chewing"],
+    "category": "nutrición"
+  },
+  {
+    "id": 50,
+    "topic": "Cómo subir escaleras 5 minutos al día mejora tu condición física",
+    "hook": "5 minutos de escaleras cambian tu corazón",
+    "key_points": [
+      "Subir escaleras 5 minutos al día reduce el riesgo cardiovascular un 20% según la Universidad de McMaster en Medicine & Science in Sports & Exercise (2019)",
+      "Cada piso subido se asocia con 0.15 años más de vida según la Universidad de Ginebra en Preventive Medicine (2008)",
+      "Subir escaleras quema 2-3 veces más calorías que caminar en plano según Harvard Health Publishing",
+      "No necesitas hacerlo de corrido: 3 tramos de 20 escalones repartidos en el día son suficientes según el British Journal of Sports Medicine (2019)"
+    ],
+    "search_terms": ["climbing stairs exercise", "staircase fitness workout", "person going upstairs"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 51,
+    "topic": "El efecto devastador de la luz artificial por la noche en tu metabolismo",
+    "hook": "Dormir con luz engorda y enferma tu corazón",
+    "key_points": [
+      "Dormir con luz moderada aumenta la resistencia a la insulina un 15% a la mañana siguiente según PNAS (2022) de la Universidad de Northwestern",
+      "La frecuencia cardiaca permaneció elevada toda la noche con exposición a luz según el mismo estudio de Northwestern",
+      "La exposición a luz artificial nocturna se asocia con un 19% más de riesgo de obesidad según un estudio de 100,000 mujeres en JAMA Internal Medicine (2019)",
+      "Incluso la luz tenue de un LED de standby puede suprimir la melatonina un 50% según el Journal of Clinical Endocrinology & Metabolism (2011)"
+    ],
+    "search_terms": ["dark bedroom sleeping", "artificial light night bedroom", "blackout curtains sleep"],
+    "category": "sueño"
+  },
+  {
+    "id": 52,
+    "topic": "Cómo el contacto social regular previene el deterioro cognitivo",
+    "hook": "Socializar previene el Alzheimer más que ejercicio",
+    "key_points": [
+      "Las personas socialmente activas tienen un 70% menos de deterioro cognitivo según la Universidad Rush en Archives of General Psychiatry (2006)",
+      "La interacción social activa las mismas áreas cerebrales que los ejercicios cognitivos según NeuroImage (2014)",
+      "La soledad se asocia con un 40% más de riesgo de demencia según The Lancet Commission on Dementia (2020)",
+      "Solo 10 minutos de conversación mejoran la función ejecutiva inmediatamente según Psychological Science (2008)"
+    ],
+    "search_terms": ["elderly people socializing", "friends talking laughing", "social interaction older adults"],
+    "category": "mental"
+  },
+  {
+    "id": 53,
+    "topic": "Los beneficios del té verde para la longevidad cardiovascular",
+    "hook": "3 tazas de té verde alargan tu vida 1 año",
+    "key_points": [
+      "Beber té verde 3+ veces/semana se asocia con 1.26 años más de vida según un estudio chino de 100,000 personas en European Journal of Preventive Cardiology (2020)",
+      "Las catequinas (EGCG) del té verde reducen el colesterol LDL un 7% según un metaanálisis del American Journal of Clinical Nutrition (2011)",
+      "El riesgo de ictus se reduce un 21% con consumo regular de té verde según Stroke (2009)",
+      "Los polifenoles del té verde protegen el endotelio vascular y mejoran la función arterial según la Universidad de Atenas en el European Journal of Cardiovascular Prevention (2005)"
+    ],
+    "search_terms": ["green tea cup healthy", "tea ceremony asian drink", "antioxidant tea leaves"],
+    "category": "longevidad"
+  },
+  {
+    "id": 54,
+    "topic": "El mito de que el microondas destruye los nutrientes de la comida",
+    "hook": "El microondas NO destruye tus nutrientes",
+    "key_points": [
+      "El microondas conserva más nutrientes que hervir porque usa menos agua y tiempo según un estudio del Journal of Food Science (2009)",
+      "Las verduras al microondas retienen el 90% de la vitamina C vs el 66% al hervirlas según la Universidad de Cornell",
+      "Los antioxidantes del brócoli se preservan mejor al microondas que al hervir o freír según el Journal of the Science of Food and Agriculture (2003)",
+      "La radiación del microondas no es ionizante — no altera la estructura molecular del alimento según la OMS"
+    ],
+    "search_terms": ["microwave cooking food", "vegetables healthy cooking", "nutrition preservation kitchen"],
+    "category": "mitos"
+  },
+  {
+    "id": 55,
+    "topic": "El efecto de la proteína en el desayuno sobre el control del apetito",
+    "hook": "30g de proteína en el desayuno cortan el hambre",
+    "key_points": [
+      "Un desayuno con 30g de proteína reduce la ingesta calórica del día un 16% según el American Journal of Clinical Nutrition (2015)",
+      "La proteína matutina reduce la grelina (hormona del hambre) hasta un 36% según la Universidad de Missouri",
+      "Los adolescentes que desayunan alto en proteína tienen menos antojos de alimentos grasos según Obesity (2013)",
+      "Fuentes: 2 huevos (12g), 200g yogur griego (20g), 30g almendras (6g) según USDA"
+    ],
+    "search_terms": ["high protein breakfast eggs", "healthy morning meal protein", "yogurt eggs nuts breakfast"],
+    "category": "nutrición"
+  },
+  {
+    "id": 56,
+    "topic": "Por qué colgar de una barra 30 segundos alivia el dolor de espalda",
+    "hook": "Cuelga 30 seg y tu espalda te lo agradecerá",
+    "key_points": [
+      "El 'dead hang' descomprime la columna vertebral aliviando presión en discos intervertebrales según Spine (2012)",
+      "La tracción espinal reduce el dolor lumbar un 40% en comparación con tratamiento convencional según el Journal of Physical Therapy Science (2014)",
+      "Fortalece la musculatura del manguito rotador y mejora la postura de hombros según el Journal of Orthopaedic & Sports Physical Therapy",
+      "30 segundos de hang aumentan el espacio intervertebral 1-2mm — suficiente para aliviar compresión nerviosa según European Spine Journal (2012)"
+    ],
+    "search_terms": ["person hanging pull up bar", "back pain relief exercise", "stretching spine decompression"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 57,
+    "topic": "Cómo la cafeína después de las 2 PM destruye tu sueño profundo",
+    "hook": "Un café a las 3 PM arruina tu sueño",
+    "key_points": [
+      "La cafeína tiene una vida media de 5-6 horas — un café a las 3 PM aún tiene efecto a las 9 PM según el Journal of Clinical Sleep Medicine (2013)",
+      "La cafeína vespertina reduce el sueño profundo un 20% incluso si logras dormirte según Sleep (2013)",
+      "El Dr. Matthew Walker de UC Berkeley demostró que la cafeína bloquea los receptores de adenosina hasta 12 horas",
+      "El sueño profundo es cuando se consolida la memoria y se repara el cuerpo — perderlo es perder recuperación según Nature Neuroscience (2002)"
+    ],
+    "search_terms": ["coffee afternoon clock", "caffeine sleep disruption", "late coffee tired person"],
+    "category": "sueño"
+  },
+  {
+    "id": 58,
+    "topic": "El poder terapéutico de abrazar durante 20 segundos",
+    "hook": "Un abrazo de 20 seg libera oxitocina",
+    "key_points": [
+      "Un abrazo de 20+ segundos libera oxitocina — la 'hormona del vínculo' — que reduce el cortisol un 32% según Psychoneuroendocrinology (2005)",
+      "Las mujeres que recibieron abrazos frecuentes tenían presión arterial 10 mmHg menor según la Universidad de Carolina del Norte en Biological Psychology (2005)",
+      "20 abrazos al día es lo óptimo para la salud mental según la psicoterapeuta Virginia Satir",
+      "El contacto físico activa las fibras C-táctiles que reducen la ansiedad según Nature Neuroscience (2009)"
+    ],
+    "search_terms": ["people hugging embrace", "warm hug connection", "physical touch affection"],
+    "category": "mental"
+  },
+  {
+    "id": 59,
+    "topic": "Cómo dormir 7-8 horas reduce el envejecimiento epigenético",
+    "hook": "Dormir bien frena tu envejecimiento celular",
+    "key_points": [
+      "Dormir menos de 6 horas acelera el envejecimiento epigenético 2 años según un estudio de la UCLA en Biological Psychiatry (2015)",
+      "El sueño insuficiente acorta los telómeros — marcadores de envejecimiento celular — según Sleep (2014)",
+      "Las células inmunes NK (asesinas naturales) caen un 70% con una noche de 4 horas de sueño según el Dr. Walker en Why We Sleep",
+      "7-8 horas de sueño se asocia con el menor riesgo de mortalidad total según un metaanálisis de Sleep Medicine Reviews (2017) con 3.3 millones de participantes"
+    ],
+    "search_terms": ["healthy sleep aging", "cell regeneration rest", "peaceful sleep health"],
+    "category": "longevidad"
+  },
+  {
+    "id": 60,
+    "topic": "El mito de que los alimentos orgánicos son más nutritivos",
+    "hook": "Lo orgánico NO es más nutritivo",
+    "key_points": [
+      "Un metaanálisis de Stanford en Annals of Internal Medicine (2012) con 237 estudios no encontró diferencias nutricionales significativas",
+      "Los alimentos orgánicos tienen 30% menos pesticidas, pero los residuos convencionales están dentro de límites seguros según la EFSA (2019)",
+      "Un estudio del British Journal of Nutrition (2014) encontró 20-40% más antioxidantes en orgánicos, pero la relevancia clínica es incierta",
+      "Lo más importante es comer más frutas y verduras — orgánicas o no — según la Universidad de Harvard"
+    ],
+    "search_terms": ["organic food vegetables market", "farming produce fresh", "healthy food organic label"],
+    "category": "mitos"
+  },
+  {
+    "id": 61,
+    "topic": "Por qué las nueces son el alimento más completo para el cerebro",
+    "hook": "7 nueces al día alimentan tu cerebro",
+    "key_points": [
+      "Las nueces contienen ácido alfa-linolénico (ALA), polifenoles y vitamina E — los 3 neuroprotectores clave según el Journal of Nutrition (2014)",
+      "Comer 30g de nueces/día mejora la función cognitiva un 11% según el British Journal of Nutrition (2015)",
+      "El consumo regular de nueces reduce los biomarcadores de inflamación cerebral según la Universidad de Loma Linda en Nutrients (2017)",
+      "5 nueces al día reducen el riesgo de enfermedad cardiaca un 25% según el New England Journal of Medicine (2013)"
+    ],
+    "search_terms": ["walnuts brain food healthy", "nuts nutrition snack", "brain health food walnut"],
+    "category": "nutrición"
+  },
+  {
+    "id": 62,
+    "topic": "El ejercicio en la naturaleza vs. el gimnasio: qué dice la ciencia",
+    "hook": "Ejercicio en naturaleza supera al gimnasio",
+    "key_points": [
+      "El ejercicio al aire libre reduce la ansiedad un 33% más que el mismo ejercicio indoor según Environmental Science & Technology (2011)",
+      "El 'green exercise' baja la presión arterial 6 mmHg más que el ejercicio en gimnasio según la Universidad de Essex (2010)",
+      "La adherencia al ejercicio outdoor es un 23% mayor que la del gym según Health & Place (2013)",
+      "La exposición a fitoncidas de los árboles aumenta las células NK (inmunidad) un 40% según Environmental Health and Preventive Medicine (2010)"
+    ],
+    "search_terms": ["outdoor exercise nature running", "person jogging park", "green exercise trail"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 63,
+    "topic": "Cómo los ruidos blancos y rosas mejoran la calidad del sueño",
+    "hook": "El ruido rosa te hace dormir más profundo",
+    "key_points": [
+      "El ruido rosa (sonidos de lluvia, olas) aumenta el sueño profundo un 23% según Frontiers in Human Neuroscience (2017)",
+      "El ruido blanco enmascara sonidos ambientales y reduce el tiempo para dormirse un 38% según el Journal of Caring Sciences (2016)",
+      "Adultos mayores que escucharon ruido rosa mejoraron su memoria un 26% al día siguiente según la Universidad de Northwestern (2017)",
+      "El efecto se debe a la sincronización de ondas cerebrales lentas con la frecuencia del sonido según Neuron (2013)"
+    ],
+    "search_terms": ["rain sounds sleep", "white noise machine bedroom", "peaceful sleeping nature sounds"],
+    "category": "sueño"
+  },
+  {
+    "id": 64,
+    "topic": "Cómo 20 minutos de exposición al sol mejoran tu estado de ánimo",
+    "hook": "20 minutos de sol son un antidepresivo natural",
+    "key_points": [
+      "La luz solar aumenta la serotonina cerebral inmediatamente a través de los fotorreceptores de la retina según The Lancet Psychiatry (2002)",
+      "Las personas con mayor exposición solar tienen un 30% menos riesgo de depresión según el Journal of Psychiatric Research (2021)",
+      "El trastorno afectivo estacional (SAD) afecta al 10% de la población en latitudes altas según el American Journal of Psychiatry",
+      "La luz matutina (antes de las 10 AM) es más efectiva para regular el ritmo circadiano y el humor según el Dr. Andrew Huberman de Stanford"
+    ],
+    "search_terms": ["morning sunshine person outdoors", "sunlight health mood", "person enjoying sunshine"],
+    "category": "mental"
+  },
+  {
+    "id": 65,
+    "topic": "Los centenarios de Cerdeña y su consumo de vino cannonau",
+    "hook": "En Cerdeña beben vino y viven 100 años",
+    "key_points": [
+      "Cerdeña tiene 10 veces más centenarios hombres per cápita que el promedio mundial según el Journal of Experimental Gerontology (2004)",
+      "El vino cannonau sardo tiene 2-3 veces más polifenoles que otros vinos tintos según la Universidad de Sassari",
+      "Los sardos centenarios caminan 10+ km diarios en terreno montañoso, mantienen vida social intensa y comen queso pecorino rico en omega-3 según National Geographic",
+      "El consumo moderado de vino (1-2 copas/día) se asocia con un 34% menos riesgo cardiovascular en la población sarda según el European Heart Journal (2000)"
+    ],
+    "search_terms": ["sardinia elderly village", "red wine glass mediterranean", "centenarian healthy lifestyle"],
+    "category": "longevidad"
+  },
+  {
+    "id": 66,
+    "topic": "El mito de que el azúcar causa hiperactividad en niños",
+    "hook": "El azúcar NO causa hiperactividad en niños",
+    "key_points": [
+      "Un metaanálisis del JAMA (1995) con 23 estudios concluyó que el azúcar no afecta el comportamiento ni la cognición de los niños",
+      "Los padres que creen que su hijo recibió azúcar lo califican como más hiperactivo — aunque haya recibido placebo según el Journal of Abnormal Child Psychology (1994)",
+      "El exceso de azúcar sí causa obesidad, caries y diabetes — pero no hiperactividad según la Academia Americana de Pediatría",
+      "El efecto observado es probable resultado de eventos excitantes (fiestas) donde se consume azúcar, no del azúcar en sí según la Universidad de Yale"
+    ],
+    "search_terms": ["children eating sweets candy", "sugar hyperactivity myth", "kids energy playing active"],
+    "category": "mitos"
+  },
+  {
+    "id": 67,
+    "topic": "Por qué los fermentados son el mejor aliado de tu sistema inmune",
+    "hook": "Los fermentados triplican tus defensas inmunes",
+    "key_points": [
+      "10 semanas de alimentos fermentados aumentan la diversidad del microbioma y reducen 19 marcadores inflamatorios según Cell (2021) de Stanford",
+      "El kéfir contiene hasta 61 cepas de probióticos vs 1-5 del yogur regular según el Journal of Dairy Science (2015)",
+      "El kimchi reduce marcadores inflamatorios como PCR e IL-6 un 30% según Nutrition Research (2014)",
+      "El chucrut fermentado naturalmente contiene 1 billón de bacterias beneficiosas por porción según Applied and Environmental Microbiology"
+    ],
+    "search_terms": ["fermented food kimchi kefir", "probiotics yogurt healthy", "gut health fermented vegetables"],
+    "category": "nutrición"
+  },
+  {
+    "id": 68,
+    "topic": "El efecto del entrenamiento de agarre en la longevidad",
+    "hook": "Tu fuerza de agarre predice cuánto vivirás",
+    "key_points": [
+      "La fuerza de agarre es el mejor predictor de mortalidad total — mejor que la presión arterial según The Lancet (2015) con 140,000 personas",
+      "Cada 5 kg de reducción en fuerza de agarre aumenta la mortalidad un 17% según el mismo estudio del Dr. Darryl Leong",
+      "El entrenamiento de agarre 3 veces/semana mejora la fuerza un 30% en 4 semanas según el Journal of Hand Therapy (2011)",
+      "La fuerza de agarre refleja la masa muscular total y la función neuromuscular sistémica según Age and Ageing (2018)"
+    ],
+    "search_terms": ["grip strength training hand", "elderly hand exercise", "handgrip health fitness"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 69,
+    "topic": "El impacto de las pesadillas frecuentes en la salud cardiovascular",
+    "hook": "Las pesadillas frecuentes dañan tu corazón",
+    "key_points": [
+      "Pesadillas frecuentes (3+/semana) se asocian con un 40% más de riesgo cardiovascular según European Heart Journal (2014)",
+      "Las pesadillas activan el sistema nervioso simpático repetidamente — elevando cortisol y presión arterial nocturna según Sleep Medicine Reviews (2018)",
+      "El 4-10% de adultos sufre pesadillas frecuentes según la American Academy of Sleep Medicine",
+      "La terapia de ensayo de imágenes (IRT) reduce las pesadillas un 70% en 4 semanas según el Journal of Clinical Sleep Medicine (2010)"
+    ],
+    "search_terms": ["nightmare scared sleeping", "sleep disturbance night", "person waking up scared"],
+    "category": "sueño"
+  },
+  {
+    "id": 70,
+    "topic": "Cómo pasar tiempo con animales reduce la ansiedad y la presión arterial",
+    "hook": "Acariciar un perro baja tu presión arterial",
+    "key_points": [
+      "15 minutos con un perro reducen el cortisol un 23% y la presión arterial 10 mmHg según Frontiers in Psychology (2019)",
+      "Los dueños de perros tienen un 24% menos riesgo de mortalidad total según un metaanálisis de Circulation: Cardiovascular Quality and Outcomes (2019)",
+      "La interacción con animales aumenta la oxitocina un 300% según la Universidad de Azabu (Japón) en Hormones and Behavior (2009)",
+      "Hospitales con terapia asistida por animales reportan una reducción del 37% en ansiedad de pacientes según el Journal of Psychiatric Research (2007)"
+    ],
+    "search_terms": ["person petting dog happy", "therapy animal support", "dog owner healthy walking"],
+    "category": "mental"
+  },
+  {
+    "id": 71,
+    "topic": "El secreto de los Adventistas del Séptimo Día para vivir 10 años más",
+    "hook": "Esta comunidad vive 10 años más que tú",
+    "key_points": [
+      "Los adventistas de Loma Linda (California) viven 7-10 años más que el promedio americano según el Adventist Health Study-2",
+      "El 33% son vegetarianos y los que comen carne la limitan a 1-2 veces por semana — su tasa de cáncer es un 40% menor según Cancer (2012)",
+      "Dan prioridad al descanso sabático — un día semanal sin trabajo reduce su estrés crónico según Archives of Internal Medicine (2001)",
+      "Mantienen comunidad social fuerte y propósito de vida — factores asociados a 4 años adicionales de vida según el estudio Blue Zones"
+    ],
+    "search_terms": ["healthy community group", "vegetarian plant based meal", "peaceful sabbath rest"],
+    "category": "longevidad"
+  },
+  {
+    "id": 72,
+    "topic": "El mito de que necesitas proteína inmediatamente después de entrenar",
+    "hook": "La ventana anabólica de 30 min es un mito",
+    "key_points": [
+      "Un metaanálisis del Journal of the International Society of Sports Nutrition (2013) concluyó que la ventana anabólica es de 4-6 horas, no 30 minutos",
+      "La síntesis proteica muscular permanece elevada hasta 24 horas post-ejercicio según el American Journal of Physiology (2012)",
+      "Lo importante es la ingesta proteica total del día (1.6-2.2g/kg) — no el momento exacto según British Journal of Sports Medicine (2018)",
+      "El mito benefició a la industria de suplementos — un mercado de $5.6 mil millones según Grand View Research"
+    ],
+    "search_terms": ["protein shake post workout", "gym nutrition supplement", "fitness meal prep protein"],
+    "category": "mitos"
+  },
+  {
+    "id": 73,
+    "topic": "Cómo los arándanos mejoran la memoria y la función cognitiva",
+    "hook": "Los arándanos son el superalimento de tu cerebro",
+    "key_points": [
+      "Consumir arándanos diariamente mejora la memoria un 16% en 12 semanas según la Universidad de Exeter en Applied Physiology, Nutrition, and Metabolism (2017)",
+      "Las antocianinas de los arándanos cruzan la barrera hematoencefálica y reducen la neuroinflamación según Nutritional Neuroscience (2014)",
+      "Adultos mayores que comieron arándanos diarios mejoraron el flujo sanguíneo cerebral un 28% según la Universidad de Exeter (2020)",
+      "200g de arándanos (1 taza) es la dosis usada en los estudios clínicos — equivale a unos 150 mg de antocianinas según el Journal of Agricultural and Food Chemistry"
+    ],
+    "search_terms": ["blueberries healthy superfood", "brain food berries", "antioxidant fruit bowl"],
+    "category": "nutrición"
+  },
+  {
+    "id": 74,
+    "topic": "El efecto de la postura en la confianza y los niveles de cortisol",
+    "hook": "Tu postura cambia tus hormonas en 2 minutos",
+    "key_points": [
+      "2 minutos de postura expansiva aumentan la testosterona un 20% y reducen el cortisol un 25% según la Dra. Amy Cuddy en Psychological Science (2010)",
+      "Las personas con postura erguida reportan un 33% más de confianza según un estudio replicado de la Universidad de Auckland (2013)",
+      "La postura encorvada reduce la capacidad pulmonar un 30% según el Journal of Physical Therapy Science (2015)",
+      "Sentarse erguido mejora el estado de ánimo y la energía en personas con depresión leve según el Journal of Behavior Therapy and Experimental Psychiatry (2017)"
+    ],
+    "search_terms": ["good posture standing confident", "body language power pose", "correct posture spine"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 75,
+    "topic": "La importancia de no usar alarma para despertar naturalmente",
+    "hook": "Despertar sin alarma mejora tu salud total",
+    "key_points": [
+      "Las alarmas interrumpen el sueño REM causando inercia del sueño que dura 2-4 horas según Sleep (2019)",
+      "Despertar abruptamente eleva el cortisol un 25% más que despertar naturalmente según Psychoneuroendocrinology (2015)",
+      "El cuerpo tiene un reloj interno que prepara el despertar 1 hora antes liberando ACTH según Nature (1999)",
+      "Personas que despiertan sin alarma tienen un 15% mejor rendimiento cognitivo matutino según la Universidad de Notre Dame en Sleep (2022)"
+    ],
+    "search_terms": ["natural wake up morning", "sunrise morning bedroom", "person stretching waking up"],
+    "category": "sueño"
+  },
+  {
+    "id": 76,
+    "topic": "El efecto terapéutico de reír 15 minutos al día",
+    "hook": "Reír 15 minutos al día cura tu cuerpo",
+    "key_points": [
+      "La risa reduce el cortisol un 39% y la adrenalina un 70% según la Universidad de Loma Linda en Alternative Therapies in Health and Medicine (2001)",
+      "15 minutos de risa queman 40 calorías — y aumentan las endorfinas un 27% según la Universidad de Oxford (2011)",
+      "La risa mejora la función del endotelio vascular (arterias) un 22% según el American College of Cardiology (2005)",
+      "Las células NK (inmunidad antitumoral) aumentan un 40% tras una sesión de humor según el Journal of the American Medical Association (1989)"
+    ],
+    "search_terms": ["person laughing happy", "laughter therapy joy", "friends laughing together"],
+    "category": "mental"
+  },
+  {
+    "id": 77,
+    "topic": "Por qué las personas que ayunan periódicamente envejecen más lento",
+    "hook": "Ayunar activa la limpieza celular antienvejecimiento",
+    "key_points": [
+      "El ayuno activa la autofagia — reciclaje de componentes celulares dañados — descubierta por el Nobel Yoshinori Ohsumi en 2016",
+      "La autofagia se activa entre las 14-16 horas de ayuno según Cell Metabolism (2018)",
+      "El ayuno reduce el estrés oxidativo un 26% y los marcadores inflamatorios un 40% según Rejuvenation Research (2015)",
+      "El Dr. Valter Longo de USC demostró que ciclos de ayuno regeneran el sistema inmune en ratones según Cell Stem Cell (2014)"
+    ],
+    "search_terms": ["fasting healthy concept", "cellular renewal biology", "healthy aging lifestyle"],
+    "category": "longevidad"
+  },
+  {
+    "id": 78,
+    "topic": "El mito de que el alcohol en moderación es bueno para el corazón",
+    "hook": "El alcohol NO protege tu corazón",
+    "key_points": [
+      "Un estudio en The Lancet (2018) con 28 millones de personas concluyó que el nivel más seguro de alcohol es cero",
+      "Los estudios previos tenían sesgo de 'abstemio enfermo' — no bebedores incluían ex-alcohólicos ya enfermos según el Journal of Studies on Alcohol and Drugs (2016)",
+      "Incluso 1 bebida/día aumenta el riesgo de fibrilación auricular un 16% según el European Heart Journal (2021)",
+      "Un estudio genético (mendelian randomization) de JAMA Network Open (2022) confirmó que cualquier nivel de alcohol aumenta la presión arterial"
+    ],
+    "search_terms": ["alcohol wine health myth", "heart health no alcohol", "sober lifestyle healthy"],
+    "category": "mitos"
+  },
+  {
+    "id": 79,
+    "topic": "El poder antiinflamatorio del jengibre fresco",
+    "hook": "El jengibre fresco iguala al ibuprofeno",
+    "key_points": [
+      "2g de jengibre diario reducen el dolor muscular post-ejercicio un 25% según el Journal of Pain (2010)",
+      "El gingerol del jengibre inhibe las enzimas COX-1 y COX-2 — mismo mecanismo que el ibuprofeno según Biochemical and Biophysical Research Communications (2005)",
+      "1g de jengibre reduce las náuseas un 40% — tan efectivo como el dimenhidrinato según The Lancet (1988)",
+      "El consumo regular de jengibre reduce la hemoglobina glucosilada (HbA1c) un 10% en diabéticos según el Journal of Complementary and Integrative Medicine (2014)"
+    ],
+    "search_terms": ["fresh ginger root spice", "ginger tea natural remedy", "anti inflammatory herbs kitchen"],
+    "category": "nutrición"
+  },
+  {
+    "id": 80,
+    "topic": "Cómo 20 minutos de yoga al día reducen la presión arterial",
+    "hook": "20 min de yoga bajan tu presión arterial",
+    "key_points": [
+      "El yoga reduce la presión sistólica 5 mmHg y la diastólica 4 mmHg según un metaanálisis de Mayo Clinic Proceedings (2015)",
+      "Los practicantes de yoga tienen un 12% menos de fibrinógeno (factor de coagulación) según el European Journal of Preventive Cardiology (2014)",
+      "El yoga reduce la proteína C-reactiva (inflamación) un 34% en 8 semanas según el Journal of Alternative and Complementary Medicine (2011)",
+      "El componente de respiración del yoga activa el tono vagal — reduciendo la frecuencia cardíaca un 10% según Frontiers in Human Neuroscience (2018)"
+    ],
+    "search_terms": ["yoga pose relaxation", "person doing yoga morning", "yoga healthy lifestyle"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 81,
+    "topic": "El efecto de las sábanas pesadas (weighted blankets) en el insomnio",
+    "hook": "Una manta pesada cura el insomnio en 4 semanas",
+    "key_points": [
+      "Las mantas pesadas (6-8 kg) mejoran el insomnio un 60% en 4 semanas según el Journal of Clinical Sleep Medicine (2020)",
+      "El efecto se debe a la presión táctil profunda que reduce la actividad del sistema nervioso simpático según Occupational Therapy in Mental Health (2008)",
+      "La melatonina aumenta un 32% con estimulación por presión profunda según el Journal of Sleep Medicine & Disorders (2015)",
+      "También reducen la ansiedad un 33% — los participantes eligieron seguir usándola tras el estudio según la Universidad de Gothenburg (2020)"
+    ],
+    "search_terms": ["weighted blanket comfortable sleep", "cozy bedroom sleeping", "deep pressure therapy rest"],
+    "category": "sueño"
+  },
+  {
+    "id": 82,
+    "topic": "Cómo pasar 2 horas en la naturaleza por semana mejora la salud global",
+    "hook": "2 horas semanales en naturaleza: dosis mínima de salud",
+    "key_points": [
+      "120 minutos semanales en naturaleza es el umbral para reportar buena salud — según un estudio de 20,000 personas en Scientific Reports (2019)",
+      "No importa si son 2 horas de golpe o repartidas en varios días según la Universidad de Exeter (2019)",
+      "Las personas que alcanzan las 2 horas tienen un 23% más de probabilidad de reportar alta satisfacción vital según el mismo estudio",
+      "La prescripción de 'naturaleza' por médicos de Shetland (Escocia) en 2018 fue pionera — los pacientes redujeron ansiedad un 30% según NHS Shetland"
+    ],
+    "search_terms": ["nature walk forest park", "outdoor recreation hiking", "person relaxing nature lake"],
+    "category": "mental"
+  },
+  {
+    "id": 83,
+    "topic": "El impacto del propósito de vida (ikigai) en la longevidad",
+    "hook": "Tener un propósito te da 7 años más de vida",
+    "key_points": [
+      "Las personas con un fuerte sentido de propósito viven un 15% más según un metaanálisis en Psychosomatic Medicine (2016) con 136,000 participantes",
+      "El concepto japonés de 'ikigai' (razón de ser) se asocia con menor riesgo de mortalidad cardiovascular según JAMA Network Open (2019)",
+      "El propósito de vida reduce los biomarcadores de inflamación (IL-6, PCR) según el Dr. Eric Kim de Harvard en Proceedings of the National Academy of Sciences (2014)",
+      "Las personas con propósito tienen un riesgo de Alzheimer un 2.4 veces menor según Rush Alzheimer's Disease Center (2010)"
+    ],
+    "search_terms": ["purpose life meaningful happy", "elderly active purposeful", "ikigai japanese concept"],
+    "category": "longevidad"
+  },
+  {
+    "id": 84,
+    "topic": "El mito de que necesitas hacer abdominales para tener un vientre plano",
+    "hook": "Los abdominales NO eliminan grasa del vientre",
+    "key_points": [
+      "La reducción localizada de grasa no existe — un estudio de la Universidad de Connecticut (2011) demostró que entrenar un brazo no redujo grasa en ese brazo",
+      "Los abdominales queman solo 5-7 calorías por minuto vs 10-14 de ejercicios compuestos según el American Council on Exercise",
+      "La grasa abdominal se reduce con déficit calórico general y ejercicio cardiovascular según Medicine & Science in Sports & Exercise (2007)",
+      "El 80% de la composición corporal depende de la dieta — los 'abdominales se hacen en la cocina' es cierto según el Journal of the Academy of Nutrition and Dietetics (2014)"
+    ],
+    "search_terms": ["abs exercise core workout", "flat stomach fitness", "body fat nutrition concept"],
+    "category": "mitos"
+  },
+  {
+    "id": 85,
+    "topic": "Cómo el aceite de oliva extra virgen protege tu cerebro",
+    "hook": "El aceite de oliva limpia tu cerebro del Alzheimer",
+    "key_points": [
+      "El oleocanthal del aceite de oliva virgen extra facilita la eliminación de beta-amiloide del cerebro según ACS Chemical Neuroscience (2013)",
+      "El consumo diario de aceite de oliva reduce el riesgo de deterioro cognitivo un 40% según el estudio PREDIMED publicado en Journal of Alzheimer's Disease (2015)",
+      "Los polifenoles del AOVE protegen contra la neurodegeneración oxidativa según Nutritional Neuroscience (2018)",
+      "Las personas que consumen 4+ cucharadas diarias de AOVE tienen un 48% menos de mortalidad por neurodegeneración según JAMA Network Open (2022)"
+    ],
+    "search_terms": ["olive oil pouring healthy", "extra virgin olive oil cooking", "mediterranean diet brain health"],
+    "category": "nutrición"
+  },
+  {
+    "id": 86,
+    "topic": "Los beneficios de caminar descalzo sobre el pasto (earthing/grounding)",
+    "hook": "Caminar descalzo reduce tu inflamación corporal",
+    "key_points": [
+      "El contacto con la tierra transfiere electrones negativos que neutralizan radicales libres según el Journal of Environmental and Public Health (2012)",
+      "30 minutos de grounding reducen la viscosidad sanguínea (riesgo cardiovascular) según el Journal of Alternative and Complementary Medicine (2013)",
+      "El cortisol nocturno se normaliza tras 8 semanas de grounding regular según el Journal of Alternative and Complementary Medicine (2004)",
+      "El efecto se mide en reducción de PCR (marcador inflamatorio) — un 30% menos según el Dr. Clint Ober en su revisión publicada en Explore (2020)"
+    ],
+    "search_terms": ["barefoot walking grass nature", "feet touching earth grounding", "person walking barefoot park"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 87,
+    "topic": "La relación entre roncar y el riesgo de apnea del sueño",
+    "hook": "Roncar puede estar matándote lentamente",
+    "key_points": [
+      "El 25% de los roncadores habituales tienen apnea obstructiva del sueño — una condición que triplica el riesgo cardiovascular según The Lancet Respiratory Medicine (2015)",
+      "La apnea causa hasta 400 microdespertares por noche — el oxígeno cae un 20% según la American Academy of Sleep Medicine",
+      "Las personas con apnea no tratada tienen 3 veces más accidentes de tráfico según el New England Journal of Medicine (1999)",
+      "Perder un 10% de peso corporal reduce los episodios de apnea un 26% según JAMA (2009)"
+    ],
+    "search_terms": ["person snoring sleep", "sleep apnea health", "sleeping breathing problems"],
+    "category": "sueño"
+  },
+  {
+    "id": 88,
+    "topic": "Cómo ayudar a otros reduce tu propio estrés y mejora tu salud",
+    "hook": "Ayudar a otros te hace vivir más años",
+    "key_points": [
+      "El voluntariado regular se asocia con un 22% menos de riesgo de mortalidad según BMC Public Health (2013)",
+      "Ayudar a otros libera oxitocina y reduce la presión arterial un 40% según la Universidad Carnegie Mellon en Psychology and Aging (2016)",
+      "El 'helper's high' — activación del sistema de recompensa al ayudar — está documentado por la Universidad de Emory en PNAS (2006)",
+      "Las personas altruistas tienen telómeros más largos (envejecimiento más lento) según Brain, Behavior, and Immunity (2018)"
+    ],
+    "search_terms": ["volunteering helping others", "community service caring", "people helping kindness"],
+    "category": "mental"
+  },
+  {
+    "id": 89,
+    "topic": "La ciencia detrás de las duchas frías y la inmunidad",
+    "hook": "Las duchas frías reducen enfermedades un 29%",
+    "key_points": [
+      "Un ensayo clínico holandés con 3,018 personas demostró que duchas frías de 30-90 seg reducen las bajas laborales por enfermedad un 29% según PLoS ONE (2016)",
+      "El agua fría activa la norepinefrina — neurotransmisor que mejora alerta e inmunidad un 300% según Shevchuk en Medical Hypotheses (2008)",
+      "La grasa parda se activa con frío — quemando calorías extra y mejorando el metabolismo según el New England Journal of Medicine (2009)",
+      "No necesitas ducha completamente fría: 30 segundos de agua fría al final son suficientes según el estudio holandés de Buijze et al."
+    ],
+    "search_terms": ["cold shower water", "person taking cold shower", "ice water therapy"],
+    "category": "longevidad"
+  },
+  {
+    "id": 90,
+    "topic": "El mito de que comer de noche engorda más que comer de día",
+    "hook": "Comer de noche NO engorda más",
+    "key_points": [
+      "Un estudio de la Universidad de Oregón (2006) en monos demostró que las calorías nocturnas no causan más ganancia de peso que las diurnas",
+      "Lo que importa es el balance calórico total de 24 horas — no la hora de ingesta según el British Journal of Nutrition (2014)",
+      "El mito surge de estudios observacionales donde quienes comen tarde también comen más total según Obesity Reviews (2011)",
+      "Sin embargo, el reloj circadiano SÍ afecta el metabolismo: la misma comida genera mayor pico de glucosa por la noche según PNAS (2009) — pero no cambia las calorías absorbidas"
+    ],
+    "search_terms": ["late night eating snack", "clock food timing", "midnight healthy eating"],
+    "category": "mitos"
+  },
+  {
+    "id": 91,
+    "topic": "El efecto del potasio en la presión arterial y la salud cardíaca",
+    "hook": "El potasio importa más que reducir la sal",
+    "key_points": [
+      "Aumentar el potasio a 4.7g/día reduce la presión arterial tanto como eliminar 4g de sal según la OMS (2012)",
+      "Solo el 2% de la población mundial alcanza la ingesta recomendada de potasio según el American Journal of Physiology (2016)",
+      "Los plátanos tienen 422 mg pero las patatas tienen 926 mg por pieza — las patatas son mejores fuente según USDA",
+      "Un metaanálisis del BMJ (2013) con 128,000 personas demostró que alto potasio reduce el riesgo de ictus un 24%"
+    ],
+    "search_terms": ["banana potassium fruit", "healthy food potassium sources", "heart health nutrition"],
+    "category": "nutrición"
+  },
+  {
+    "id": 92,
+    "topic": "Cómo 10 minutos de saltar la cuerda equivalen a 30 de correr",
+    "hook": "10 min de cuerda igualan a 30 min corriendo",
+    "key_points": [
+      "Saltar la cuerda quema 12-16 calorías por minuto vs 8-10 corriendo según la American Heart Association",
+      "10 minutos de cuerda equivalen cardiovascularmente a 30 minutos de jogging según la Universidad de Colorado (2019)",
+      "Mejora la densidad ósea un 3-4% en caderas y columna — previniendo osteoporosis según Osteoporosis International (2010)",
+      "La coordinación mano-pie mejora las conexiones neuronales y la agilidad cognitiva según el Jump Rope Institute"
+    ],
+    "search_terms": ["jump rope exercise fitness", "skipping rope workout", "person jumping rope outdoors"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 93,
+    "topic": "Por qué la oscuridad total es esencial para el sueño reparador",
+    "hook": "Cualquier luz en tu cuarto arruina tu sueño",
+    "key_points": [
+      "Incluso la luz tenue durante el sueño (8 lux — equivalente a un TV lejano) duplica la resistencia a la insulina según PNAS (2022)",
+      "El antifaz para dormir mejora el aprendizaje al día siguiente un 15% y aumenta el tiempo de alerta según Sleep (2023) de la Universidad de Cardiff",
+      "Las células ganglionares intrínsecamente fotosensibles de la retina detectan luz incluso con ojos cerrados según Nature Neuroscience (2002)",
+      "La oscuridad total aumenta la producción de melatonina un 60% comparada con luz tenue según el Journal of Clinical Endocrinology & Metabolism (2011)"
+    ],
+    "search_terms": ["dark bedroom blackout sleeping", "sleep mask eye cover", "pitch dark room night"],
+    "category": "sueño"
+  },
+  {
+    "id": 94,
+    "topic": "El efecto de las relaciones sociales positivas en la salud física",
+    "hook": "Buenos amigos alargan tu vida como el ejercicio",
+    "key_points": [
+      "Las relaciones sociales fuertes aumentan la supervivencia un 50% — similar al efecto de dejar de fumar según PLoS Medicine (2010) con 308,000 participantes",
+      "El estudio de Harvard de 85 años (el más largo sobre felicidad) concluyó que las relaciones son el factor #1 de salud y longevidad",
+      "Las personas con 3+ amigos cercanos tienen un sistema inmune un 22% más fuerte según Psychoneuroimmunology (2007)",
+      "La calidad de relaciones predice mejor la salud a los 80 que el colesterol a los 50 según el Dr. Robert Waldinger de Harvard"
+    ],
+    "search_terms": ["friends socializing happy group", "healthy relationships people", "community friendship support"],
+    "category": "mental"
+  },
+  {
+    "id": 95,
+    "topic": "Cómo el ejercicio regular rejuvenece tus células 9 años",
+    "hook": "El ejercicio rejuvenece tus células 9 años",
+    "key_points": [
+      "Las personas que hacen ejercicio vigoroso regular tienen telómeros equivalentes a 9 años más jóvenes según Preventive Medicine (2017) del Dr. Larry Tucker de la Universidad Brigham Young",
+      "30 minutos de ejercicio 5 días/semana activan la telomerasa — enzima que repara telómeros — según la Universidad de Leipzig (2015)",
+      "El ejercicio reduce la senescencia celular (células zombie) un 35% según el Dr. James Kirkland de la Mayo Clinic en Aging Cell (2018)",
+      "Incluso empezar a ejercitarse a los 60 revierte parte del acortamiento telomérico según el British Journal of Sports Medicine (2015)"
+    ],
+    "search_terms": ["active elderly exercise fitness", "cellular rejuvenation health", "senior exercising jogging"],
+    "category": "longevidad"
+  },
+  {
+    "id": 96,
+    "topic": "El mito de que el gluten es malo para todos",
+    "hook": "El gluten solo daña al 1% de la población",
+    "key_points": [
+      "Solo el 1% de la población tiene enfermedad celíaca y debe evitar el gluten según la Universidad de Chicago Celiac Disease Center",
+      "Un estudio del BMJ (2017) con 110,000 personas mostró que evitar gluten sin necesidad aumenta el riesgo cardiovascular por menor ingesta de granos integrales",
+      "La 'sensibilidad al gluten no celíaca' puede ser respuesta al nocebo o a los FODMAPs — no al gluten en sí — según Gastroenterology (2013)",
+      "Los productos sin gluten suelen tener más azúcar, más grasa y menos fibra que sus equivalentes con gluten según el Journal of Human Nutrition and Dietetics (2017)"
+    ],
+    "search_terms": ["gluten free bread food", "wheat grain healthy", "bread bakery nutrition"],
+    "category": "mitos"
+  },
+  {
+    "id": 97,
+    "topic": "Los beneficios del brócoli como el vegetal más anticancerígeno",
+    "hook": "El brócoli tiene un compuesto que mata células cancerosas",
+    "key_points": [
+      "El sulforafano del brócoli induce apoptosis (muerte programada) en células cancerosas según Cancer Prevention Research (2019)",
+      "Consumir brócoli 3+ veces/semana reduce el riesgo de cáncer de próstata un 41% según el Journal of the National Cancer Institute (2007)",
+      "La enzima mirosinasa (activa al masticar brócoli crudo) potencia la absorción de sulforafano 10 veces vs cocinado según el British Journal of Nutrition (2011)",
+      "El truco: cortar el brócoli y esperar 40 min antes de cocinarlo preserva el sulforafano según la Universidad de Illinois"
+    ],
+    "search_terms": ["broccoli healthy vegetable green", "cruciferous vegetables nutrition", "healthy cooking broccoli"],
+    "category": "nutrición"
+  },
+  {
+    "id": 98,
+    "topic": "Cómo la fuerza en las piernas predice la salud cerebral",
+    "hook": "Piernas fuertes significan cerebro sano",
+    "key_points": [
+      "Un estudio de gemelos de King's College London (2015) demostró que la fuerza de piernas es el mayor predictor de salud cognitiva 10 años después",
+      "La contracción muscular de piernas libera irisina — hormona que mejora la neurogénesis según Cell Metabolism (2019)",
+      "Las sentadillas aumentan el flujo sanguíneo cerebral un 15% durante 60 minutos post-ejercicio según la Universidad de New Mexico",
+      "Caminar a paso rápido mantiene el hipocampo 2% más grande en personas de 55-80 años según la Universidad de Pittsburgh en PNAS (2011)"
+    ],
+    "search_terms": ["leg exercise squats fitness", "strong legs brain health", "walking exercise elderly"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 99,
+    "topic": "Cómo la falta de sueño afecta tu sistema inmune en una sola noche",
+    "hook": "Una mala noche desploma tus defensas 70%",
+    "key_points": [
+      "Una noche de solo 4 horas de sueño reduce las células NK (asesinas naturales) un 70% según el Dr. Matthew Walker en Why We Sleep (2017)",
+      "Las personas que duermen menos de 6 horas tienen 4.2 veces más riesgo de resfriarse según Archives of Internal Medicine (2009)",
+      "La respuesta de anticuerpos a la vacuna de la gripe se reduce un 50% con sueño insuficiente según Sleep (2012)",
+      "El efecto inmunológico se recupera tras 2-3 noches de sueño normal según el Journal of Immunology (2019)"
+    ],
+    "search_terms": ["tired person immune system", "sick cold flu", "exhausted sleep deprived"],
+    "category": "sueño"
+  },
+  {
+    "id": 100,
+    "topic": "El efecto de cantar en grupo sobre la salud mental y el cortisol",
+    "hook": "Cantar en grupo baja el cortisol más que el yoga",
+    "key_points": [
+      "Cantar en coro reduce el cortisol un 36% en solo 1 hora según la Universidad de Gothenburg en Music and Medicine (2013)",
+      "El canto grupal sincroniza los latidos cardíacos de los participantes según Frontiers in Psychology (2013)",
+      "Pacientes con depresión que cantaron en grupo 1 vez/semana mejoraron un 30% en 6 meses según The Lancet Psychiatry (2018)",
+      "El canto activa el nervio vago — mejorando la variabilidad cardíaca (indicador de resiliencia al estrés) según Frontiers in Neuroscience (2018)"
+    ],
+    "search_terms": ["group singing choir", "people singing together happy", "music therapy singing"],
+    "category": "mental"
+  },
+  {
+    "id": 101,
+    "topic": "Cómo la restricción de metionina en la dieta extiende la longevidad",
+    "hook": "Un aminoácido de la carne roja acelera tu envejecimiento",
+    "key_points": [
+      "La restricción de metionina extiende la vida un 30% en ratones según la Universidad de Orentreich en Aging Cell (2005)",
+      "Las proteínas vegetales tienen 2-3 veces menos metionina que las animales según el Journal of Nutrition (2016)",
+      "Los vegetarianos tienen niveles de IGF-1 un 9% menores — factor asociado a menor cáncer y envejecimiento según el estudio del Dr. Longo en Cell Metabolism (2014)",
+      "No es eliminar la carne: reducir carne roja a 1-2 veces por semana es suficiente para obtener beneficios según el American Journal of Clinical Nutrition (2020)"
+    ],
+    "search_terms": ["plant based protein food", "meat vs vegetables diet", "healthy aging nutrition"],
+    "category": "longevidad"
+  },
+  {
+    "id": 102,
+    "topic": "El mito de que hacer crujir los nudillos causa artritis",
+    "hook": "Crujir los nudillos NO causa artritis",
+    "key_points": [
+      "Un estudio del Journal of the American Board of Family Medicine (2011) con 215 personas no encontró asociación entre crujir nudillos y artritis",
+      "El Dr. Donald Unger crujió los nudillos de una sola mano durante 60 años — sin diferencia artrítica — ganando el Ig Nobel 2009",
+      "El sonido proviene de la formación de burbujas de gas en el líquido sinovial según un estudio con MRI en PLoS ONE (2015)",
+      "La artritis se debe a factores genéticos, lesiones y edad — no a crujir las articulaciones según la Arthritis Foundation"
+    ],
+    "search_terms": ["cracking knuckles hands", "finger joints arthritis", "hand health exercise"],
+    "category": "mitos"
+  },
+  {
+    "id": 103,
+    "topic": "El efecto de la vitamina K2 en la salud ósea y cardiovascular",
+    "hook": "La vitamina que nadie conoce salva huesos y corazón",
+    "key_points": [
+      "La vitamina K2 dirige el calcio a los huesos y lo saca de las arterias — previniendo calcificación según el Journal of Nutrition (2004)",
+      "180 mcg de K2 diarios reducen la pérdida ósea un 50% en mujeres postmenopáusicas según Osteoporosis International (2013)",
+      "El consumo de K2 reduce la mortalidad cardiovascular un 57% según el Rotterdam Study con 4,807 personas en Journal of Nutrition (2004)",
+      "Las mejores fuentes son el natto japonés (1,100 mcg/100g), quesos fermentados (76 mcg/100g) y yema de huevo (32 mcg/100g) según USDA"
+    ],
+    "search_terms": ["vitamin K2 supplement health", "bone health calcium", "fermented cheese natto"],
+    "category": "nutrición"
+  },
+  {
+    "id": 104,
+    "topic": "Cómo los ejercicios excéntricos reparan tendones dañados",
+    "hook": "Los excéntricos reparan tendones sin cirugía",
+    "key_points": [
+      "Los ejercicios excéntricos (fase de alargamiento) curan la tendinopatía de Aquiles en el 82% de casos sin cirugía según el British Journal of Sports Medicine (2004)",
+      "El protocolo Alfredson de 180 repeticiones diarias durante 12 semanas es el gold standard según Knee Surgery, Sports Traumatology, Arthroscopy (2007)",
+      "Los excéntricos estimulan la producción de colágeno tipo 1 — el componente principal del tendón según el Journal of Applied Physiology (2007)",
+      "La carga excéntrica es más efectiva que la concéntrica para tendinopatías crónicas según un metaanálisis del British Journal of Sports Medicine (2019)"
+    ],
+    "search_terms": ["eccentric exercise heel drop", "tendon rehabilitation exercise", "physical therapy strength"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 105,
+    "topic": "La relación entre horario de sueño y riesgo de depresión",
+    "hook": "Dormir 1 hora antes reduce depresión un 23%",
+    "key_points": [
+      "Adelantar el horario de sueño 1 hora reduce el riesgo de depresión un 23% según un estudio genético de la Universidad de Colorado en JAMA Psychiatry (2021)",
+      "Los cronotipos nocturnos (búhos) tienen el doble de riesgo de depresión que los matutinos según Molecular Psychiatry (2018)",
+      "La luz matutina temprana es clave: exposición a luz brillante antes de las 10 AM mejora el ánimo un 40% según The Lancet Psychiatry (2018)",
+      "El estudio usó datos genéticos de 840,000 personas para establecer causalidad — no solo correlación según los autores de JAMA Psychiatry"
+    ],
+    "search_terms": ["early morning wake up sunshine", "healthy sleep schedule early", "sunrise bedroom morning"],
+    "category": "sueño"
+  },
+  {
+    "id": 106,
+    "topic": "El impacto de la música en la recuperación de cirugías y el dolor",
+    "hook": "La música reduce el dolor post-quirúrgico un 50%",
+    "key_points": [
+      "Escuchar música antes y después de cirugía reduce el dolor un 50% y la ansiedad un 37% según The Lancet (2015) con 73 estudios",
+      "La música activa la liberación de dopamina en el núcleo accumbens — sistema de recompensa natural según Nature Neuroscience (2011)",
+      "Los pacientes que escuchan música necesitan un 43% menos de analgésicos opioides según el Journal of Advanced Nursing (2008)",
+      "El tempo de 60-80 BPM (tipo balada) es el más efectivo para reducir el ritmo cardíaco según Heart & Lung (2014)"
+    ],
+    "search_terms": ["person listening music headphones", "music therapy relaxation", "healing music peaceful"],
+    "category": "mental"
+  },
+  {
+    "id": 107,
+    "topic": "La ciencia del NAD+ y cómo mantener sus niveles para envejecer menos",
+    "hook": "Esta molécula determina tu velocidad de envejecimiento",
+    "key_points": [
+      "Los niveles de NAD+ caen un 50% entre los 40 y 60 años según la Universidad de Washington en Cell Metabolism (2016)",
+      "NAD+ es esencial para que las sirtuinas (enzimas de longevidad) funcionen — sin NAD+ no hay reparación de ADN según Cell (2013)",
+      "El ejercicio aeróbico aumenta los niveles de NAD+ un 127% según Cell Reports (2018)",
+      "Alimentos ricos en precursores de NAD+ (NR/NMN): leche, pescado, setas y edamame según el Journal of Nutritional Science and Vitaminology (2020)"
+    ],
+    "search_terms": ["cellular energy aging science", "healthy aging exercise", "molecular biology longevity"],
+    "category": "longevidad"
+  },
+  {
+    "id": 108,
+    "topic": "El mito de que el agua con limón desintoxica tu cuerpo",
+    "hook": "El agua con limón NO desintoxica nada",
+    "key_points": [
+      "No existe mecanismo fisiológico por el cual el limón 'desintoxique' — el hígado y los riñones lo hacen 24/7 según la Universidad de Harvard",
+      "El pH del estómago es 1.5-3.5 — un limón con pH 2 no lo 'alcaliniza' según el American Journal of Physiology",
+      "El ácido cítrico del limón puede erosionar el esmalte dental si se consume en exceso según el Journal of Dentistry (2015)",
+      "El único beneficio confirmado: ayuda a beber más agua, lo cual sí es saludable según la British Dietetic Association"
+    ],
+    "search_terms": ["lemon water morning drink", "detox myth health", "citrus water glass"],
+    "category": "mitos"
+  },
+  {
+    "id": 109,
+    "topic": "El efecto de la fibra prebiótica en la calidad del sueño",
+    "hook": "La fibra que comes decide cómo duermes",
+    "key_points": [
+      "Las dietas altas en fibra prebiótica aumentan el tiempo de sueño profundo un 22% según la Universidad de Colorado en Scientific Reports (2017)",
+      "Los prebióticos alimentan bacterias que producen ácidos grasos de cadena corta — que regulan el ciclo sueño-vigilia según Frontiers in Behavioral Neuroscience (2017)",
+      "Las mejores fuentes prebióticas: ajo, cebolla, plátano verde, espárragos y alcachofas según el British Journal of Nutrition (2010)",
+      "Los ratones alimentados con prebióticos se recuperaron del estrés un 60% más rápido y durmieron más profundamente según Frontiers in Behavioral Neuroscience (2017)"
+    ],
+    "search_terms": ["prebiotic fiber food garlic", "gut health sleep connection", "healthy digestion vegetables"],
+    "category": "nutrición"
+  },
+  {
+    "id": 110,
+    "topic": "Por qué bailar es el mejor ejercicio para el cerebro",
+    "hook": "Bailar reduce el riesgo de demencia un 76%",
+    "key_points": [
+      "El baile reduce el riesgo de demencia un 76% — más que cualquier otro ejercicio según un estudio de 21 años en el New England Journal of Medicine (2003)",
+      "Combina ejercicio aeróbico, coordinación, socialización y memoria — 4 factores neuroprotectores simultáneos según Frontiers in Aging Neuroscience (2017)",
+      "30 minutos de baile aumentan el BDNF (factor neurotrófico) un 32% según la Universidad de Colonia en Frontiers in Psychology (2018)",
+      "Adultos mayores que bailan regularmente tienen un hipocampo 2-3% más grande según NeuroImage (2017)"
+    ],
+    "search_terms": ["person dancing happy exercise", "elderly couple dancing", "dance fitness movement"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 111,
+    "topic": "El impacto del jet lag social en tu metabolismo",
+    "hook": "Dormir distinto el fin de semana te enferma",
+    "key_points": [
+      "Cada hora de jet lag social (diferencia entre semana y fin de semana) aumenta el riesgo de obesidad un 33% según Current Biology (2017)",
+      "El jet lag social altera 1,000+ genes relacionados con inmunidad e inflamación según PNAS (2014) de la Universidad de Surrey",
+      "Las personas con jet lag social de 2+ horas tienen el doble de riesgo de síndrome metabólico según Sleep (2017)",
+      "Mantener el mismo horario los 7 días mejora la sensibilidad a la insulina un 12% en 4 semanas según el Dr. Till Roenneberg de la Universidad de Munich"
+    ],
+    "search_terms": ["weekend sleeping late", "irregular sleep schedule", "clock different times sleep"],
+    "category": "sueño"
+  },
+  {
+    "id": 112,
+    "topic": "Cómo el contacto con agua (hidroterapia) reduce la ansiedad",
+    "hook": "El agua fría reduce la ansiedad sin fármacos",
+    "key_points": [
+      "La inmersión facial en agua fría activa el reflejo de buceo — reduciendo la frecuencia cardíaca un 25% según Physiology & Behavior (2016)",
+      "Nadar en agua fría natural reduce la ansiedad un 44% y la depresión un 42% en 10 semanas según el BMJ Case Reports (2018)",
+      "El agua fría estimula la liberación de noradrenalina — neurotransmisor que mejora el estado de ánimo un 300% según Shevchuk en Medical Hypotheses (2008)",
+      "Incluso lavarse la cara con agua fría activa el sistema parasimpático y reduce la respuesta de pánico según el Journal of Emergency Medicine (2012)"
+    ],
+    "search_terms": ["cold water swimming", "person splashing face water", "natural water lake swim"],
+    "category": "mental"
+  },
+  {
+    "id": 113,
+    "topic": "El efecto del optimismo realista en la supervivencia",
+    "hook": "Los optimistas viven un 15% más que los pesimistas",
+    "key_points": [
+      "Las personas optimistas viven un 11-15% más según un estudio de 70,000 personas en PNAS (2019) de las universidades de Harvard y Boston",
+      "El optimismo se asocia con un 35% menos de riesgo cardiovascular según la Universidad de Illinois en Health Behavior and Policy Review (2015)",
+      "El optimismo reduce la inflamación sistémica (IL-6 y PCR) según Brain, Behavior, and Immunity (2009)",
+      "El optimismo es modificable: 2 semanas del ejercicio 'Best Possible Self' mejoran el optimismo un 25% según el Journal of Positive Psychology (2011)"
+    ],
+    "search_terms": ["optimistic happy person", "positive thinking health", "smiling elderly healthy"],
+    "category": "longevidad"
+  },
+  {
+    "id": 114,
+    "topic": "El mito de que las dietas detox de 3 días limpian tu organismo",
+    "hook": "Las dietas detox de 3 días no limpian nada",
+    "key_points": [
+      "No existe evidencia de que ninguna dieta detox elimine sustancias que el cuerpo no pueda eliminar por sí mismo según el British Medical Journal (2015)",
+      "Las dietas restrictivas de 3 días reducen el metabolismo basal un 15% — efecto contraproducente según el Journal of Clinical Investigation (2012)",
+      "La pérdida de peso en dietas detox es principalmente agua y glucógeno — se recupera en 24-48 horas según la Universidad de Harvard",
+      "El hígado procesa toxinas las 24 horas con o sin jugos verdes — optimizarlo requiere no beber alcohol, comer verduras y dormir bien según Hepatology (2019)"
+    ],
+    "search_terms": ["detox juice cleanse diet", "liver health natural", "green juice myth detox"],
+    "category": "mitos"
+  },
+  {
+    "id": 115,
+    "topic": "Cómo las especias cotidianas protegen contra el cáncer",
+    "hook": "Las especias de tu cocina combaten el cáncer",
+    "key_points": [
+      "La cúrcuma, el romero, el orégano y la canela tienen compuestos con actividad antitumoral demostrada in vitro según Cancer Letters (2015)",
+      "El ácido rosmarínico del romero inhibe la angiogénesis tumoral según Biochemical Pharmacology (2007)",
+      "La canela reduce la proliferación de células cancerosas colorectales un 60% in vitro según BMC Cancer (2010)",
+      "Los indios consumen 10-15g de especias diarias y tienen tasas de cáncer colorrectal 6 veces menores que los americanos según International Journal of Cancer (2015)"
+    ],
+    "search_terms": ["cooking spices herbs turmeric", "natural spices kitchen healthy", "colorful spice variety"],
+    "category": "nutrición"
+  },
+  {
+    "id": 116,
+    "topic": "El efecto de los ejercicios de movilidad articular en el dolor crónico",
+    "hook": "5 minutos de movilidad al día eliminan dolor crónico",
+    "key_points": [
+      "El 80% del dolor musculoesquelético crónico se debe a falta de movilidad articular — no a lesión — según la Universidad de Queensland en Pain (2011)",
+      "Los círculos articulares diarios (CAR) aumentan la producción de líquido sinovial un 40% según Osteoarthritis and Cartilage (2005)",
+      "5 minutos de movilidad matutina reducen la rigidez un 60% en personas con osteoartritis según el Journal of Rheumatology (2010)",
+      "El cartílago no tiene vasos sanguíneos — se nutre del movimiento articular como una esponja según el Dr. Andreo Spina del Functional Range Systems"
+    ],
+    "search_terms": ["joint mobility exercise stretching", "morning mobility routine", "flexibility movement health"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 117,
+    "topic": "Cómo la temperatura corporal nocturna regula la calidad del sueño",
+    "hook": "Tu cuerpo necesita enfriarse 1°C para dormir",
+    "key_points": [
+      "El cuerpo necesita bajar su temperatura central 1-1.5°C para iniciar y mantener el sueño según Sleep Medicine Reviews (2012)",
+      "Las manos y pies calientes aceleran la pérdida de calor central — calcetines pueden ayudar a dormirse más rápido según Nature (1999)",
+      "El ejercicio dentro de las 2 horas previas a dormir retrasa el enfriamiento corporal y perjudica el sueño según el Journal of Sleep Research (2013)",
+      "Un ambiente de 18-19°C permite la termorregulación natural óptima durante el sueño según la National Sleep Foundation"
+    ],
+    "search_terms": ["body temperature sleep cool", "thermoregulation bedroom night", "comfortable sleeping cool room"],
+    "category": "sueño"
+  },
+  {
+    "id": 118,
+    "topic": "Cómo el perdón reduce la presión arterial y mejora la salud cardíaca",
+    "hook": "Perdonar baja tu presión arterial al instante",
+    "key_points": [
+      "El rencor activa crónicamente el sistema nervioso simpático — elevando la presión arterial 10+ mmHg según Psychological Science (2001)",
+      "Las personas que practican el perdón tienen un 25% menos de riesgo de mortalidad total según el Journal of Behavioral Medicine (2012)",
+      "Un programa de perdón de 8 semanas redujo la presión arterial, el dolor físico y los síntomas de depresión según el Journal of Clinical Psychology (2006)",
+      "El neurocientífico Everett Worthington de la Universidad de Virginia Commonwealth demostró que el perdón reduce el cortisol un 22% según Psychoneuroendocrinology (2009)"
+    ],
+    "search_terms": ["forgiveness peace letting go", "calm peaceful heart health", "mental health emotional healing"],
+    "category": "mental"
+  },
+  {
+    "id": 119,
+    "topic": "Cómo los fitonutrientes de 30 plantas por semana fortalecen tu microbioma",
+    "hook": "30 plantas distintas por semana transforman tu intestino",
+    "key_points": [
+      "Las personas que comen 30+ plantas diferentes por semana tienen un microbioma significativamente más diverso según el American Gut Project (2018) con 10,000 participantes",
+      "Cada planta distinta (fruta, verdura, legumbre, grano, hierba, especia) cuenta — no es comer más cantidad sino más variedad según la Universidad de San Diego",
+      "La diversidad del microbioma se correlaciona inversamente con obesidad, depresión y enfermedades autoinmunes según Nature (2019)",
+      "Es más fácil de lo que parece: hierbas, especias y frutos secos también cuentan como 'plantas diferentes' según el Dr. Tim Spector de King's College London"
+    ],
+    "search_terms": ["variety vegetables fruits colorful", "diverse plant foods market", "microbiome gut health food"],
+    "category": "nutrición"
+  },
+  {
+    "id": 120,
+    "topic": "El efecto del reto de equilibrio unipodal como predictor de mortalidad",
+    "hook": "10 seg en un pie predice tu esperanza de vida",
+    "key_points": [
+      "No poder mantener el equilibrio en un pie 10 segundos a los 51-75 años se asocia con el doble de riesgo de muerte en 10 años según British Journal of Sports Medicine (2022)",
+      "El estudio CLINIMEX del Dr. Claudio Gil Araújo analizó 1,702 personas durante 12 años — los que fallaron la prueba tenían un 84% más de mortalidad",
+      "El equilibrio integra función muscular, neurológica, visual y vestibular — es un indicador de salud sistémica según Age and Ageing (2018)",
+      "La buena noticia: el equilibrio se entrena — 3 minutos diarios de práctica mejoran el rendimiento un 50% en 4 semanas según Gait & Posture (2016)"
+    ],
+    "search_terms": ["balance test one leg stand", "elderly balance exercise", "fitness balance training"],
+    "category": "longevidad"
+  }
+]

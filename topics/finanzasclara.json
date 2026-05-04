@@ -1,0 +1,1562 @@
+[
+  {
+    "id": 1,
+    "topic": "La deducción por gastos de difícil justificación del 7% para autónomos",
+    "hook": "Autónomo? Hacienda te debe un 7%",
+    "key_points": [
+      "El artículo 30 del Reglamento del IRPF permite a los autónomos en estimación directa simplificada deducir un 7% de sus rendimientos netos como gastos de difícil justificación",
+      "Si facturas 30.000€ netos al año, esto son 2.100€ menos en tu base imponible sin justificar con facturas",
+      "Se subió del 5% al 7% en 2023 por la Ley 31/2022 de Presupuestos Generales del Estado",
+      "Muchos autónomos no lo aplican porque su gestor no se lo dice — revisa tu modelo 100 del año pasado"
+    ],
+    "search_terms": ["tax documents calculator", "financial planning office", "money savings jar"],
+    "category": "autónomos"
+  },
+  {
+    "id": 2,
+    "topic": "Nuevo sistema de cotización por ingresos reales para autónomos 2025",
+    "hook": "Tu cuota de autónomo cambia en 2025",
+    "key_points": [
+      "Desde enero 2023 se aplica el sistema de cotización por ingresos reales según el Real Decreto-ley 13/2022 — en 2025 ya en su tercer tramo",
+      "En 2025 las cuotas van desde 200€/mes para rendimientos netos bajo 670€ hasta 590€/mes para quienes superan 6.000€/mes",
+      "Puedes cambiar tu tramo de cotización hasta 6 veces al año a través del portal Import@ss de la Seguridad Social",
+      "Si estimas mal tus ingresos, la Seguridad Social te regularizará en el ejercicio siguiente — cobrándote o devolviéndote la diferencia"
+    ],
+    "search_terms": ["social security office", "calculator tax forms", "freelancer working laptop"],
+    "category": "autónomos"
+  },
+  {
+    "id": 3,
+    "topic": "Tarifa plana de 80€ para nuevos autónomos en 2025",
+    "hook": "80€ al mes de autónomo: así funciona",
+    "key_points": [
+      "La tarifa plana de 80€/mes se aplica durante los primeros 12 meses para nuevos autónomos según el Real Decreto-ley 13/2022",
+      "Se puede prorrogar otros 12 meses más a 80€ si tus rendimientos netos anuales no superan el salario mínimo interprofesional (unos 15.876€ en 2025)",
+      "No puedes haber estado dado de alta como autónomo en los 2 años anteriores — o 3 años si ya disfrutaste de bonificación antes",
+      "Es compatible con pluriactividad: puedes ser asalariado y autónomo a la vez pagando solo 80€ de cuota"
+    ],
+    "search_terms": ["new business startup", "entrepreneur first steps", "small business registration"],
+    "category": "autónomos"
+  },
+  {
+    "id": 4,
+    "topic": "Cómo deducir el coche como autónomo sin que Hacienda te lo tumbe",
+    "hook": "Tu coche de autónomo: deduce sin multa",
+    "key_points": [
+      "Hacienda solo permite deducir el 100% del IVA del vehículo si se demuestra uso exclusivo profesional — en la práctica acepta el 50% según el artículo 95 de la Ley del IVA",
+      "Para el IRPF la deducción es 0% salvo actividades de transporte, enseñanza de conductores, agentes comerciales y representantes — artículo 22.4 del Reglamento IRPF",
+      "Puedes deducir al 100% combustible, reparaciones y seguro si demuestras afectación exclusiva con libro de ruta y facturación a clientes",
+      "Las multas de tráfico NUNCA son deducibles — artículo 14.1.c de la Ley del Impuesto de Sociedades lo prohíbe expresamente"
+    ],
+    "search_terms": ["car keys business", "vehicle tax deduction", "driving work commute"],
+    "category": "autónomos"
+  },
+  {
+    "id": 5,
+    "topic": "El IVA del autónomo que trabaja desde casa: qué puedes deducir de verdad",
+    "hook": "Trabajas desde casa? Deduce estos gastos",
+    "key_points": [
+      "Puedes deducir un porcentaje del alquiler, luz, agua e internet proporcionalmente al espacio usado — debes comunicar a Hacienda los metros cuadrados afectos con el modelo 036/037",
+      "Desde 2018, la Ley 6/2017 de Reformas Urgentes permite deducir un 30% del porcentaje de superficie dedicada a la actividad en suministros de agua, luz, gas e internet",
+      "Si tu vivienda tiene 90m² y usas 15m² como despacho (16,6%), puedes deducir el 30% de ese 16,6% en suministros — es decir un 5% del total de cada factura",
+      "El IVA de la conexión a internet se puede deducir al 50% si demuestras uso mixto personal-profesional"
+    ],
+    "search_terms": ["home office desk setup", "work from home laptop", "utility bills calculator"],
+    "category": "autónomos"
+  },
+  {
+    "id": 6,
+    "topic": "Autónomo societario vs individual: cuándo compensa montar una SL",
+    "hook": "SL o autónomo: cuándo te sale a cuenta",
+    "key_points": [
+      "El tipo del Impuesto de Sociedades es del 25% (23% para pymes con facturación inferior a 1 millón de euros) — frente al 45% marginal del IRPF para rentas altas",
+      "A partir de 40.000-50.000€ de beneficio neto anual, una SL suele ser más eficiente fiscalmente que tributar como persona física",
+      "La cuota del autónomo societario en 2025 tiene una base mínima de cotización más alta — unos 1.000€/mes de base frente a los 950€ del autónomo individual",
+      "Constituir una SL cuesta entre 600-1.000€ entre notaría, registro mercantil y capital social mínimo de 1€ desde la Ley 18/2022 Crea y Crece"
+    ],
+    "search_terms": ["business meeting office", "corporate documents signing", "entrepreneur decision making"],
+    "category": "autónomos"
+  },
+  {
+    "id": 7,
+    "topic": "Los 4 modelos trimestrales que todo autónomo debe presentar",
+    "hook": "4 modelos que presentar o te multan",
+    "key_points": [
+      "Modelo 303: declaración trimestral del IVA — se presenta los 20 primeros días de abril, julio, octubre y enero",
+      "Modelo 130: pago fraccionado del IRPF — el 20% de tu rendimiento neto acumulado, a cuenta de la renta anual",
+      "Modelo 111: retenciones de IRPF a trabajadores o profesionales — obligatorio si tienes empleados o pagas a otros autónomos",
+      "Modelo 349: operaciones intracomunitarias — solo si facturas o compras a empresas de otros países de la UE por más de 3.005,06€ al trimestre"
+    ],
+    "search_terms": ["tax filing deadline calendar", "paperwork documents office", "accountant calculator"],
+    "category": "autónomos"
+  },
+  {
+    "id": 8,
+    "topic": "Cómo darse de alta como autónomo online en 30 minutos",
+    "hook": "Alta de autónomo en 30 minutos online",
+    "key_points": [
+      "Primer paso: alta en Hacienda con el modelo 036 o 037 simplificado — puedes hacerlo con certificado digital en la sede electrónica de la AEAT",
+      "Segundo paso: alta en el RETA (Régimen Especial de Trabajadores Autónomos) de la Seguridad Social — por Import@ss en menos de 10 minutos",
+      "Es obligatorio darse de alta en Hacienda ANTES que en la Seguridad Social — la fecha de alta en el RETA no puede ser anterior al alta censal",
+      "Si te das de alta después del día 1 del mes, solo pagas la parte proporcional de cuota de ese mes — no el mes completo"
+    ],
+    "search_terms": ["online registration form", "digital certificate computer", "startup business checklist"],
+    "category": "autónomos"
+  },
+  {
+    "id": 9,
+    "topic": "El truco de la base de cotización máxima para autónomos cerca de la jubilación",
+    "hook": "Jubilación de autónomo: sube tu pensión así",
+    "key_points": [
+      "Tu pensión de jubilación se calcula con los últimos 25 años de bases de cotización — pero los 24 últimos meses se computan a valor nominal sin actualizar por IPC",
+      "Muchos autónomos cotizan por la base mínima toda su vida y se encuentran con pensiones de 900-1.000€/mes",
+      "Subir la base de cotización los últimos 5-10 años antes de jubilarte puede incrementar tu pensión entre 200-400€/mes",
+      "Con el nuevo sistema por ingresos reales, si ganas más de 3.620€/mes netos tu base mínima en 2025 ya supera los 1.200€/mes"
+    ],
+    "search_terms": ["retirement planning elderly", "pension calculator savings", "social security retirement"],
+    "category": "autónomos"
+  },
+  {
+    "id": 10,
+    "topic": "Gastos deducibles que los autónomos olvidan: teléfono, formación y coworking",
+    "hook": "Estos gastos los olvidas y pierdes dinero",
+    "key_points": [
+      "El teléfono móvil de uso profesional es 100% deducible en IVA e IRPF si tienes una línea exclusiva de trabajo — con uso mixto solo el 50%",
+      "Cursos, másters, libros y formación directamente relacionada con tu actividad son deducibles al 100% — artículo 28 de la Ley IRPF",
+      "Las cuotas de coworking son deducibles al 100% como gasto de arrendamiento — equivalen al alquiler de un local",
+      "Las cuotas de colegios profesionales obligatorios son deducibles con un límite de 500€/año — artículo 19.2.d de la Ley IRPF"
+    ],
+    "search_terms": ["phone bill expense", "coworking space modern", "professional training course"],
+    "category": "autónomos"
+  },
+  {
+    "id": 11,
+    "topic": "Autónomo colaborador familiar: paga menos cuota dando de alta a tu pareja",
+    "hook": "Tu pareja autónoma por solo 80€ al mes",
+    "key_points": [
+      "El autónomo colaborador familiar tiene una bonificación del 50% en la cuota durante los primeros 18 meses y del 25% los 6 siguientes — artículo 35 de la Ley 20/2007",
+      "Puede ser tu cónyuge, pareja de hecho o familiar hasta segundo grado que trabaje contigo de forma habitual",
+      "El familiar debe convivir contigo y depender económicamente de ti — no puede tener un contrato laboral, es una relación mercantil",
+      "No necesita darse de alta en Hacienda con modelo 036 — se da de alta directamente en el RETA como colaborador"
+    ],
+    "search_terms": ["family business together", "couple working office", "small business teamwork"],
+    "category": "autónomos"
+  },
+  {
+    "id": 12,
+    "topic": "Cómo funcionan las retenciones del 15% en facturas de autónomos",
+    "hook": "15% de retención: qué es y quién paga",
+    "key_points": [
+      "Los autónomos profesionales (epígrafes del IAE en la sección 2ª) deben incluir una retención del 15% de IRPF en sus facturas a empresas y otros profesionales",
+      "Los nuevos autónomos pueden aplicar un 7% de retención durante el año de alta y los dos siguientes — artículo 101.5 de la Ley IRPF",
+      "Esta retención es un adelanto de tu IRPF: si te retienen más de lo que debías, Hacienda te lo devuelve en la declaración de la renta",
+      "Si solo facturas a particulares, no aplicas retención — pero debes hacer pagos fraccionados con el modelo 130"
+    ],
+    "search_terms": ["invoice writing freelancer", "tax withholding paycheck", "accountant paperwork desk"],
+    "category": "autónomos"
+  },
+  {
+    "id": 13,
+    "topic": "La prestación por cese de actividad: el paro del autónomo",
+    "hook": "Autónomos SÍ tienen paro: así se cobra",
+    "key_points": [
+      "Desde 2019 la cotización por cese de actividad es obligatoria para todos los autónomos del RETA — artículo 327 de la LGSS",
+      "La prestación es el 70% de la base reguladora durante un mínimo de 4 meses y un máximo de 24 meses, según los años cotizados",
+      "Necesitas al menos 12 meses cotizados en los 24 anteriores al cese y demostrar pérdidas superiores al 10% de los ingresos — o ejecución judicial/administrativa",
+      "Hay que solicitarlo en los 20 primeros días naturales desde el cese de actividad en la mutua colaboradora correspondiente"
+    ],
+    "search_terms": ["unemployment benefits office", "freelancer job loss", "social security benefits"],
+    "category": "autónomos"
+  },
+  {
+    "id": 14,
+    "topic": "Facturar sin ser autónomo: cuándo es legal y cuándo no",
+    "hook": "Facturar sin ser autónomo: legal o no?",
+    "key_points": [
+      "El criterio del TGSS es que debes darte de alta si la actividad es habitual — no hay un umbral legal de ingresos mínimos en la ley",
+      "La jurisprudencia del Tribunal Supremo establece que si no superas el SMI anual (unos 15.876€ en 2025), puede no considerarse habitualidad",
+      "Aunque no te des de alta en el RETA, SÍ debes darte de alta en Hacienda con el modelo 036/037 y declarar el IVA e IRPF",
+      "Si la Seguridad Social detecta actividad habitual sin alta, te reclamará las cuotas atrasadas con un recargo del 20% más intereses"
+    ],
+    "search_terms": ["freelance invoice laptop", "legal documents gavel", "tax registration form"],
+    "category": "autónomos"
+  },
+  {
+    "id": 15,
+    "topic": "Pluriactividad: ser asalariado y autónomo a la vez con descuento en la cuota",
+    "hook": "Trabajo y autónomo: descuento del 50% cuota",
+    "key_points": [
+      "Si cotizas simultáneamente en el Régimen General y el RETA, puedes solicitar una reducción de hasta el 50% en la base de cotización como autónomo",
+      "Tienes derecho a devolución del exceso de cotización si entre ambos regímenes superas la base máxima de cotización — unos 4.720€/mes en 2025",
+      "Debes solicitar la devolución antes del 30 de abril del año siguiente — si no la pides, la pierdes",
+      "Con el nuevo sistema por ingresos reales, la pluriactividad se tiene en cuenta automáticamente al calcular tu tramo de cotización"
+    ],
+    "search_terms": ["dual income worker", "multiple jobs calendar", "paycheck salary office"],
+    "category": "autónomos"
+  },
+  {
+    "id": 16,
+    "topic": "El IVA intracomunitario para autónomos que venden a la UE",
+    "hook": "Vendes a Europa? No cobres IVA así",
+    "key_points": [
+      "Si facturas a empresas de otro país de la UE, la factura va sin IVA por inversión del sujeto pasivo — artículo 84 de la Ley del IVA",
+      "Debes darte de alta en el ROI (Registro de Operadores Intracomunitarios) con el modelo 036 casilla 582",
+      "Tienes que presentar el modelo 349 si tus operaciones intracomunitarias superan 3.005,06€ en el trimestre",
+      "Si vendes a particulares de la UE (no empresas), sí cobras IVA español hasta superar 10.000€ anuales totales — luego aplica el régimen OSS"
+    ],
+    "search_terms": ["european union business", "international trade shipping", "EU flag commerce"],
+    "category": "autónomos"
+  },
+  {
+    "id": 17,
+    "topic": "Dietas y gastos de manutención deducibles para autónomos",
+    "hook": "Comer fuera y que pague Hacienda: 26€/día",
+    "key_points": [
+      "Los autónomos pueden deducir hasta 26,67€/día en comidas en territorio nacional si pagan con tarjeta o medio electrónico — Ley 6/2017 artículo 11",
+      "En el extranjero el límite sube a 48,08€/día — mismos importes que para trabajadores asalariados",
+      "El pago obligatoriamente debe ser electrónico (tarjeta, transferencia, bizum) — el efectivo NO es deducible para dietas",
+      "Debe realizarse en un establecimiento de hostelería/restauración y en un municipio distinto al del domicilio o centro de trabajo"
+    ],
+    "search_terms": ["business lunch restaurant", "credit card payment meal", "food receipt expense"],
+    "category": "autónomos"
+  },
+  {
+    "id": 18,
+    "topic": "Autónomo en estimación directa simplificada vs normal: cuál elegir",
+    "hook": "Simplificada o normal: elige bien o pagas más",
+    "key_points": [
+      "La estimación directa simplificada es el régimen por defecto — aplica si tu cifra de negocios no supera los 600.000€ anuales",
+      "En simplificada tienes el 7% de gastos de difícil justificación pero las amortizaciones se calculan de forma lineal con tablas fijas",
+      "En estimación directa normal puedes deducir más gastos pero necesitas llevar contabilidad completa como si fueras una empresa (libro diario, balances, inventario)",
+      "Si tienes muchos gastos reales justificables y superan el 7% de deducción automática, la normal puede compensarte — pero necesitarás un gestor más caro"
+    ],
+    "search_terms": ["accounting books ledger", "tax regime comparison", "financial documents review"],
+    "category": "autónomos"
+  },
+  {
+    "id": 19,
+    "topic": "Cómo recuperar el IVA de facturas impagadas como autónomo",
+    "hook": "Cliente no paga? Recupera el IVA así",
+    "key_points": [
+      "Si un cliente no te paga y ya has ingresado el IVA a Hacienda, puedes recuperarlo modificando la base imponible — artículo 80.Cuatro de la Ley del IVA",
+      "Debes esperar 6 meses desde la fecha de devengo (1 año si eres gran empresa) y haber reclamado judicialmente o por notario",
+      "Tienes un plazo de 3 meses tras los 6 meses para emitir la factura rectificativa y comunicarlo a la AEAT",
+      "Si la deuda es inferior a 300€ con un particular, basta con un requerimiento notarial sin necesidad de juicio"
+    ],
+    "search_terms": ["unpaid invoice stressed", "debt collection letter", "tax refund money back"],
+    "category": "autónomos"
+  },
+  {
+    "id": 20,
+    "topic": "La bonificación del 100% de cuota para autónomos con discapacidad",
+    "hook": "Discapacidad y autónomo: cuota puede ser 0€",
+    "key_points": [
+      "Los autónomos con discapacidad igual o superior al 33% tienen tarifa plana de 80€ durante 24 meses completos — no solo 12",
+      "Si la discapacidad es del 65% o más, la bonificación en la cuota puede llegar al 50% durante los 5 primeros años de actividad",
+      "Según el artículo 32 de la Ley 20/2007 del Estatuto del Trabajador Autónomo, estas bonificaciones son incompatibles con otras ayudas de la Seguridad Social",
+      "Además, hay deducciones adicionales en el IRPF de entre 3.000€ y 12.000€ según el grado de discapacidad — artículo 60 de la Ley IRPF"
+    ],
+    "search_terms": ["disability employment rights", "inclusive workplace wheelchair", "accessibility business"],
+    "category": "autónomos"
+  },
+  {
+    "id": 21,
+    "topic": "Gastos de suministros del autónomo que trabaja en casa: el cálculo real",
+    "hook": "Luz de casa: el cálculo que pocos hacen",
+    "key_points": [
+      "La fórmula legal es: metros cuadrados de despacho / metros totales x 30% = porcentaje deducible de cada suministro — Ley 6/2017",
+      "Con un despacho de 12m² en un piso de 80m², deduces el 30% del 15% = un 4,5% de cada factura de luz, agua y gas",
+      "Si tu luz anual es 1.200€, solo puedes deducir 54€ al año — parece poco pero suma con agua, gas e internet",
+      "El internet puede deducirse al 50% si demuestras uso profesional — un gasto de 40€/mes son 240€ al año deducibles"
+    ],
+    "search_terms": ["electricity bill payment", "home office utilities", "calculator money expenses"],
+    "category": "autónomos"
+  },
+  {
+    "id": 22,
+    "topic": "Autónomo TRADE: el falso autónomo legal que tiene más derechos",
+    "hook": "Autónomo TRADE: más derechos que no usas",
+    "key_points": [
+      "El TRADE (Trabajador Autónomo Económicamente Dependiente) recibe al menos el 75% de sus ingresos de un solo cliente — artículo 11 Ley 20/2007",
+      "Tiene derecho a vacaciones de 18 días hábiles al año, indemnización por fin de contrato e interrupción anual de actividad",
+      "Debe registrar su contrato en el SEPE en los 10 días hábiles siguientes a la firma para que tenga validez",
+      "Si tu cliente te impone horario, lugar y herramientas, no eres TRADE sino un falso autónomo — y puedes reclamar la relación laboral"
+    ],
+    "search_terms": ["freelancer contract signing", "independent worker rights", "employment agreement"],
+    "category": "autónomos"
+  },
+  {
+    "id": 23,
+    "topic": "Cómo amortizar equipos informáticos como autónomo: ordenador, impresora y más",
+    "hook": "Tu ordenador te lo descuenta Hacienda entero",
+    "key_points": [
+      "Los equipos informáticos se amortizan al 26% anual según las tablas de la Orden HFP/1335/2021 — un portátil de 1.000€ se deduce en 4 años",
+      "Si el bien cuesta menos de 300€, puedes deducirlo íntegramente en el año de compra como gasto corriente",
+      "La amortización en estimación directa simplificada se aplica con coeficiente lineal máximo de tabla — no puedes acelerar libremente",
+      "El software y licencias se amortizan al 33% anual — un programa de 600€ se deduce en 3 años"
+    ],
+    "search_terms": ["laptop computer purchase", "office equipment technology", "business expense receipt"],
+    "category": "autónomos"
+  },
+  {
+    "id": 24,
+    "topic": "El seguro de responsabilidad civil del autónomo: cuándo es obligatorio",
+    "hook": "Este seguro es obligatorio y no lo tienes",
+    "key_points": [
+      "Profesiones reguladas como arquitectos, médicos, abogados o ingenieros tienen seguro de RC obligatorio por sus colegios profesionales",
+      "El coste medio de un seguro de RC profesional para autónomos oscila entre 150-400€/año y es deducible al 100% en IRPF e IVA",
+      "El autónomo TRADE está obligado a tener un seguro de RC o aval según el artículo 12 de la Ley 20/2007",
+      "Sin seguro de RC, un error profesional puede hacerte responder con todo tu patrimonio personal — incluida tu vivienda habitual si no está protegida"
+    ],
+    "search_terms": ["insurance policy document", "professional liability protection", "business risk management"],
+    "category": "autónomos"
+  },
+  {
+    "id": 25,
+    "topic": "Capitalización del paro para hacerte autónomo: cobra todo de golpe",
+    "hook": "Tu paro de golpe para ser autónomo: 100%",
+    "key_points": [
+      "Puedes cobrar el 100% de tu prestación por desempleo en un pago único si la inviertes en darte de alta como autónomo — artículo 34 del Real Decreto 1044/1985",
+      "Debes solicitarlo ANTES de darte de alta como autónomo y tener al menos 3 meses de prestación pendientes",
+      "El dinero puede destinarse a inversión necesaria para la actividad o a cubrir las cuotas de autónomo mensuales durante la prestación",
+      "Si cesas la actividad antes de agotar el periodo equivalente de prestación, debes devolver la parte proporcional no consumida"
+    ],
+    "search_terms": ["unemployment office documents", "startup funding money", "new business opening"],
+    "category": "autónomos"
+  },
+  {
+    "id": 26,
+    "topic": "Multas y recargos por presentar modelos de IVA e IRPF fuera de plazo",
+    "hook": "Modelo fuera de plazo: multa de hasta 200€",
+    "key_points": [
+      "Si presentas el modelo 303 o 130 fuera de plazo sin requerimiento previo de Hacienda, el recargo es del 1% más un 1% adicional por cada mes de retraso",
+      "Si pasan más de 12 meses, el recargo sube al 15% más intereses de demora — artículo 27 de la Ley General Tributaria",
+      "La sanción por no presentar una declaración informativa (347, 390) es de 20€ por cada dato omitido, con un mínimo de 300€",
+      "Si Hacienda te requiere antes de que presentes, la sanción puede ser del 50% al 150% de la cuota a ingresar — artículo 191 LGT"
+    ],
+    "search_terms": ["penalty fine payment", "tax deadline calendar", "government warning letter"],
+    "category": "autónomos"
+  },
+  {
+    "id": 27,
+    "topic": "Autónomo: cómo deducir los gastos de tu seguro de salud privado",
+    "hook": "Seguro médico privado: descuéntalo del IRPF",
+    "key_points": [
+      "Los autónomos en estimación directa pueden deducir las primas de seguro médico privado propio, del cónyuge e hijos menores de 25 años que convivan",
+      "El límite máximo deducible es de 500€ por persona y año — 1.500€ si la persona tiene discapacidad — artículo 30.2 Ley IRPF",
+      "Para una familia de 4 miembros puedes deducir hasta 2.000€ anuales en seguros de salud",
+      "No es necesario que el seguro esté a nombre de la actividad — basta con que el autónomo sea el tomador y pagador"
+    ],
+    "search_terms": ["health insurance family", "medical coverage document", "doctor hospital care"],
+    "category": "autónomos"
+  },
+  {
+    "id": 28,
+    "topic": "Cómo evitar la doble imposición internacional si facturas fuera de España",
+    "hook": "Facturas al extranjero? No pagues 2 veces",
+    "key_points": [
+      "España tiene convenios de doble imposición con más de 90 países — se aplican automáticamente al declarar el IRPF o Sociedades",
+      "Si te retienen impuestos en otro país, puedes aplicar la deducción por doble imposición internacional en la casilla 588 del modelo 100",
+      "El límite de deducción es el menor entre lo pagado en el extranjero y lo que habrías pagado en España por esa renta",
+      "Para servicios digitales facturados a EEUU, normalmente no hay retención si presentas el formulario W-8BEN acreditando tu residencia fiscal española"
+    ],
+    "search_terms": ["international business globe", "tax treaty documents", "world money currency exchange"],
+    "category": "autónomos"
+  },
+  {
+    "id": 29,
+    "topic": "La cuota de autónomo como gasto deducible en la declaración de la renta",
+    "hook": "Tu cuota de autónomo: dedúcela del IRPF",
+    "key_points": [
+      "La cuota del RETA es deducible al 100% como gasto de la actividad económica en la declaración del IRPF — artículo 28 Ley IRPF",
+      "Si pagas la cuota mínima de 200€/mes, son 2.400€/año que reduces de tu base imponible antes de calcular el impuesto",
+      "Si estás en el tramo del 30% del IRPF, esos 2.400€ de cuota te ahorran 720€ de impuestos efectivos",
+      "También son deducibles las cuotas de mutualidades de previsión social alternativas al RETA, como la de abogados o arquitectos"
+    ],
+    "search_terms": ["social security payment", "tax deduction savings", "freelancer accounting"],
+    "category": "autónomos"
+  },
+  {
+    "id": 30,
+    "topic": "El sistema de módulos (estimación objetiva) para autónomos: ventajas y trampas",
+    "hook": "Módulos: pagas fijo pero cuidado con esto",
+    "key_points": [
+      "En estimación objetiva pagas un IRPF fijo según parámetros como metros del local, empleados o potencia eléctrica — independiente de tus ingresos reales",
+      "Solo pueden acogerse actividades incluidas en la Orden HAC/1155/2020 — hostelería, transporte, comercio minorista, peluquerías, etc.",
+      "El límite de ingresos para estar en módulos es 250.000€ anuales y de compras de bienes/servicios 250.000€ — artículo 31 Ley IRPF",
+      "Si un año ganas mucho más de lo esperado, módulos te beneficia — pero si tienes pérdidas, pagas igualmente la cuota fija y no puedes compensar"
+    ],
+    "search_terms": ["small shop retail", "restaurant bar business", "simple tax calculation"],
+    "category": "autónomos"
+  },
+  {
+    "id": 31,
+    "topic": "Baja temporal del autónomo por incapacidad: quién paga y cuánto",
+    "hook": "Autónomo de baja: cobras desde el día 4",
+    "key_points": [
+      "La prestación por IT del autónomo es el 60% de la base reguladora del día 4 al 20 y el 75% a partir del día 21",
+      "Los 3 primeros días no se cobra nada — a diferencia de los asalariados que cobran desde el primer día con algunas empresas",
+      "Si la baja es por accidente de trabajo o enfermedad profesional, se cobra el 75% desde el día siguiente al accidente",
+      "Durante la baja se sigue pagando la cuota de autónomo — salvo que superes los 60 días y solicites la exoneración de cuotas a partir del segundo mes"
+    ],
+    "search_terms": ["sick leave medical certificate", "hospital bed recovery", "health insurance claim"],
+    "category": "autónomos"
+  },
+  {
+    "id": 32,
+    "topic": "Autónomo y maternidad/paternidad: prestación del 100% de la base",
+    "hook": "Autónomo con hijo: 100% de tu base 16 semanas",
+    "key_points": [
+      "La prestación por nacimiento y cuidado del menor es del 100% de la base reguladora durante 16 semanas — tanto para madre como para padre",
+      "Las primeras 6 semanas son obligatorias e ininterrumpidas — las 10 restantes se pueden distribuir hasta que el menor cumpla 12 meses",
+      "Durante la prestación se exonera del pago de cuotas al RETA — no pagas nada y sigues cotizando — artículo 38.5 Ley 20/2007",
+      "Se necesitan al menos 180 días cotizados en los 7 años anteriores (o 360 en toda la vida laboral) si tienes entre 26 y 41 años"
+    ],
+    "search_terms": ["parental leave baby", "maternity benefits family", "newborn child care"],
+    "category": "autónomos"
+  },
+  {
+    "id": 33,
+    "topic": "La deducción por inversión en beneficios para autónomos en sociedades",
+    "hook": "Reinvierte beneficios y paga menos impuestos",
+    "key_points": [
+      "Las micropymes y pymes con facturación inferior a 10 millones pueden aplicar la reserva de capitalización — artículo 25 Ley IS",
+      "Permite reducir la base imponible en un 10% del incremento de fondos propios mantenido durante 3 años",
+      "Para el autónomo individual, existe la reducción por inicio de actividad: 20% de reducción del rendimiento neto positivo el primer año con beneficios y el siguiente",
+      "Esta reducción del 20% aplica si no has tenido actividad en el año anterior — artículo 32.3 Ley IRPF"
+    ],
+    "search_terms": ["business reinvestment growth", "profit money growing", "company earnings chart"],
+    "category": "autónomos"
+  },
+  {
+    "id": 34,
+    "topic": "Factura electrónica obligatoria para autónomos: calendario y sanciones",
+    "hook": "Factura electrónica obligatoria: te afecta ya",
+    "key_points": [
+      "La Ley 18/2022 Crea y Crece establece la factura electrónica obligatoria entre empresarios y profesionales (B2B)",
+      "Los autónomos con facturación superior a 8 millones deben adaptarse en 2025 — el resto tiene un año más de plazo",
+      "El sistema Verifactu de la AEAT exigirá que el software de facturación envíe los registros de facturación en tiempo real o casi real",
+      "Las sanciones por no usar factura electrónica cuando sea obligatorio pueden alcanzar los 10.000€ — artículo 18 Ley Crea y Crece"
+    ],
+    "search_terms": ["digital invoice computer", "electronic billing system", "paperless office technology"],
+    "category": "autónomos"
+  },
+  {
+    "id": 35,
+    "topic": "Cómo tributan las criptomonedas para autónomos y particulares en España",
+    "hook": "Crypto en España: Hacienda sabe y cobra",
+    "key_points": [
+      "Las ganancias por venta de criptomonedas tributan en la base del ahorro del IRPF: 19% hasta 6.000€, 21% hasta 50.000€, 23% hasta 200.000€ y 28% a partir de 200.000€",
+      "Desde 2024 es obligatorio declarar criptomonedas en el extranjero con el modelo 721 si superas los 50.000€ en exchanges no españoles",
+      "Los exchanges españoles informan a Hacienda con el modelo 172 y 173 — la AEAT cruza datos automáticamente",
+      "El staking y los airdrops tributan como ganancia patrimonial en la base general — al tipo marginal del IRPF, no al del ahorro"
+    ],
+    "search_terms": ["cryptocurrency bitcoin chart", "digital currency trading", "blockchain technology"],
+    "category": "autónomos"
+  },
+  {
+    "id": 36,
+    "topic": "El libro registro de facturas expedidas y recibidas: obligatorio para todos los autónomos",
+    "hook": "Sin este libro, Hacienda te sanciona 300€",
+    "key_points": [
+      "Todo autónomo en estimación directa debe llevar libro registro de facturas expedidas y recibidas — artículo 62 del Reglamento del IVA",
+      "El libro debe incluir: número de factura, fecha, NIF del cliente, base imponible, tipo de IVA y cuota",
+      "No presentarlo ante una inspección de Hacienda puede suponer una sanción de 150€ por cada asiento no registrado, con un mínimo de 300€",
+      "Los autónomos que facturan más de 6 millones deben usar el SII (Suministro Inmediato de Información) y enviar sus registros en 4 días"
+    ],
+    "search_terms": ["accounting ledger book", "invoice record keeping", "bookkeeping documents office"],
+    "category": "autónomos"
+  },
+  {
+    "id": 37,
+    "topic": "Autónomo estacional: cómo darte de alta y baja varias veces al año sin penalización",
+    "hook": "Alta y baja de autónomo 3 veces al año",
+    "key_points": [
+      "Desde 2023 puedes darte de alta y baja hasta 3 veces al año y solo pagas los días efectivos de alta — no el mes completo",
+      "El alta produce efectos desde el día exacto y la baja también — se prorratean las cuotas según los días del mes",
+      "Para actividades estacionales como turismo, agricultura o comercio navideño, esto puede ahorrarte 4-6 meses de cuotas al año",
+      "La cotización mínima por día en 2025 ronda los 7€ — frente a los 200-230€ mensuales de cuota completa"
+    ],
+    "search_terms": ["seasonal worker calendar", "business on off switch", "part time freelancer"],
+    "category": "autónomos"
+  },
+  {
+    "id": 38,
+    "topic": "El plan de pensiones del autónomo: deducción máxima de 1.500€ o 4.250€",
+    "hook": "Autónomo: tu plan de pensiones vale 4.250€",
+    "key_points": [
+      "Los autónomos pueden deducir aportaciones a planes de pensiones individuales hasta 1.500€/año en la base imponible del IRPF",
+      "Si además aportan a un plan de empleo simplificado para autónomos (PESA), el límite sube a 4.250€ adicionales — total 5.750€",
+      "Los PESA fueron creados por la Ley 12/2022 de regulación para el impulso de los planes de pensiones de empleo",
+      "Si estás en el tramo del 37% del IRPF, aportar 5.750€ te ahorra 2.127€ en la declaración de la renta — un retorno inmediato del 37%"
+    ],
+    "search_terms": ["retirement pension fund", "savings piggy bank", "investment long term planning"],
+    "category": "autónomos"
+  },
+  {
+    "id": 39,
+    "topic": "Inspección de Hacienda al autónomo: qué miran primero y cómo prepararte",
+    "hook": "Inspección de Hacienda: miran esto primero",
+    "key_points": [
+      "Las inspecciones se centran en: desproporción entre gastos e ingresos, IVA deducido excesivo, y gastos de difícil justificación sin soporte",
+      "Hacienda compara tu declaración con las de otros autónomos de tu mismo epígrafe del IAE en tu zona geográfica — si te desvías, saltas una alerta",
+      "Tienes derecho a que la inspección no dure más de 18 meses ordinarios (27 en casos complejos) — artículo 150 LGT",
+      "Puedes acudir con un asesor fiscal y pedir la grabación del acta — nunca firmes un acta de conformidad si no estás seguro"
+    ],
+    "search_terms": ["tax audit inspection", "government office documents", "financial review meeting"],
+    "category": "autónomos"
+  },
+  {
+    "id": 40,
+    "topic": "El régimen de franquicia del IVA para pequeños autónomos: llega en 2025",
+    "hook": "Autónomos sin IVA: nuevo régimen 85.000€",
+    "key_points": [
+      "La Directiva (UE) 2020/285 permite a los Estados miembros eximir del IVA a autónomos con facturación inferior a 85.000€ anuales",
+      "España está obligada a transponer esta directiva y se espera su aplicación entre 2025-2026 — eliminará la obligación de presentar modelo 303 para pequeños autónomos",
+      "El autónomo acogido no repercutirá IVA en sus facturas pero tampoco podrá deducir el IVA soportado en sus compras",
+      "Será especialmente beneficioso para autónomos que venden a particulares (B2C) donde el IVA es un coste real para el cliente final"
+    ],
+    "search_terms": ["small business tax free", "EU directive legislation", "simplified tax regime"],
+    "category": "autónomos"
+  },
+  {
+    "id": 41,
+    "topic": "Cómo funciona la deducción por maternidad de 1.200€ para madres trabajadoras",
+    "hook": "Madre trabajadora? 1.200€ te debe Hacienda",
+    "key_points": [
+      "Las madres con hijos menores de 3 años que trabajan (también autónomas) tienen derecho a 1.200€/año de deducción — artículo 81 Ley IRPF",
+      "Se puede cobrar de forma anticipada: 100€/mes solicitándolo con el modelo 140 de la AEAT",
+      "Desde 2023 también pueden acceder mujeres que estaban en situación de desempleo cobrando prestación en la fecha de nacimiento",
+      "Además, 1.000€ adicionales si el hijo menor de 3 años asiste a guardería autorizada — la guardería informa a Hacienda con el modelo 233"
+    ],
+    "search_terms": ["working mother baby", "family tax benefits", "childcare cost savings"],
+    "category": "hacienda"
+  },
+  {
+    "id": 42,
+    "topic": "La casilla 505 del IRPF: la deducción por planes de pensiones que muchos no aplican",
+    "hook": "Casilla 505: dinero que Hacienda no te dice",
+    "key_points": [
+      "Las aportaciones a planes de pensiones reducen directamente la base imponible general — casilla 505 del modelo 100",
+      "El límite individual es el menor entre 1.500€ o el 30% de los rendimientos netos del trabajo y actividades económicas",
+      "Si tu empresa aporta a un plan de empleo, el límite total sube hasta 8.500€ anuales (1.500€ individual + 7.000€ empresarial)",
+      "Las aportaciones no aplicadas por exceder el límite se pueden trasladar a los 5 ejercicios siguientes — no las pierdes"
+    ],
+    "search_terms": ["tax form filling", "pension savings retirement", "financial planning calculator"],
+    "category": "hacienda"
+  },
+  {
+    "id": 43,
+    "topic": "Las 10 deducciones autonómicas del IRPF que casi nadie conoce",
+    "hook": "Tu comunidad te devuelve dinero y no lo sabes",
+    "key_points": [
+      "Cada comunidad autónoma tiene deducciones propias: Madrid permite deducir hasta 1.000€ por arrendamiento de vivienda para menores de 35 años",
+      "Andalucía tiene deducción de 250€ por hijo menor de 3 años y 600€ para familias monoparentales",
+      "Cataluña permite deducir el 15% de las cuotas del alquiler con un máximo de 300€ si tu base imponible no supera 20.000€",
+      "Valencia ofrece deducción de 270€ por nacimiento o adopción del primer hijo, 550€ por el segundo y 830€ por el tercero y siguientes"
+    ],
+    "search_terms": ["regional map Spain", "community tax benefits", "local government savings"],
+    "category": "hacienda"
+  },
+  {
+    "id": 44,
+    "topic": "Cómo aplazar el pago del IRPF o IVA a Hacienda sin intereses: los primeros 30.000€",
+    "hook": "Aplaza tu deuda con Hacienda sin aval: 30.000€",
+    "key_points": [
+      "Puedes aplazar deudas tributarias de hasta 30.000€ sin necesidad de presentar aval ni garantía — Orden HAP/2178/2015",
+      "El plazo máximo de aplazamiento es de 12 meses para personas físicas y 6 meses para personas jurídicas",
+      "El interés de demora en 2025 es del 4,0625% — mucho más barato que cualquier crédito personal bancario",
+      "Se solicita al presentar la autoliquidación marcando la opción de aplazamiento e indicando los plazos deseados en la sede electrónica"
+    ],
+    "search_terms": ["payment plan installments", "tax debt negotiation", "government finance office"],
+    "category": "hacienda"
+  },
+  {
+    "id": 45,
+    "topic": "La obligación de declarar la renta: cuándo NO estás obligado",
+    "hook": "Puede que NO tengas que hacer la renta",
+    "key_points": [
+      "No estás obligado a declarar si tus rendimientos del trabajo de un solo pagador no superan 22.000€ brutos anuales",
+      "Con dos o más pagadores el límite baja a 15.876€ si el segundo y siguientes superan 1.500€ — artículo 96 Ley IRPF",
+      "Rendimientos del capital mobiliario y ganancias patrimoniales con retención: exento si no superan 1.600€ anuales en conjunto",
+      "Aunque no estés obligado, si te sale a devolver SIEMPRE conviene presentarla — si no la presentas en 4 años pierdes la devolución"
+    ],
+    "search_terms": ["tax return filing", "income declaration form", "money calculator taxes"],
+    "category": "hacienda"
+  },
+  {
+    "id": 46,
+    "topic": "El mínimo personal y familiar del IRPF: reduce tu factura fiscal en miles de euros",
+    "hook": "Tienes hijos? Pagas menos IRPF: hasta 4.700€",
+    "key_points": [
+      "El mínimo del contribuyente es de 5.550€ — se incrementa a 6.700€ si tienes más de 65 años y 8.100€ con más de 75",
+      "Por el primer hijo se añaden 2.400€, segundo hijo 2.700€, tercer hijo 4.000€ y cuarto y siguientes 4.500€ — artículo 58 Ley IRPF",
+      "Si el hijo tiene menos de 3 años, se añaden 2.800€ adicionales al mínimo — casi nadie lo sabe",
+      "Para un matrimonio con 3 hijos menores de 3 años, el mínimo familiar puede superar los 20.000€ — todo eso está exento de impuestos"
+    ],
+    "search_terms": ["family tax exemption", "children parents household", "income tax savings family"],
+    "category": "hacienda"
+  },
+  {
+    "id": 47,
+    "topic": "La deducción por alquiler de vivienda habitual que algunos aún mantienen",
+    "hook": "Alquiler y IRPF: esta deducción sigue viva",
+    "key_points": [
+      "La deducción estatal por alquiler de vivienda se eliminó en 2015 — pero mantiene el régimen transitorio para contratos anteriores al 1 de enero de 2015",
+      "Si tu contrato es anterior a esa fecha, puedes deducir el 10,05% de las cantidades pagadas con un máximo según base imponible",
+      "Muchas comunidades autónomas SÍ mantienen deducciones propias por alquiler — Madrid, Cataluña, Andalucía y Valencia entre otras",
+      "En la Comunidad de Madrid puedes deducir hasta 1.000€ anuales si eres menor de 35 años y tu base imponible no supera 25.620€"
+    ],
+    "search_terms": ["apartment rental keys", "housing rent payment", "tenant landlord agreement"],
+    "category": "hacienda"
+  },
+  {
+    "id": 48,
+    "topic": "Cómo declarar la venta de tu vivienda habitual y no pagar IRPF: la reinversión",
+    "hook": "Vendes tu casa? 0€ de impuestos así",
+    "key_points": [
+      "Si reinviertes el importe total de la venta en la compra de otra vivienda habitual en un plazo de 2 años, la ganancia queda exenta — artículo 38 Ley IRPF",
+      "Si solo reinviertes parcialmente, la exención es proporcional al porcentaje reinvertido",
+      "Para mayores de 65 años que venden su vivienda habitual, la ganancia está TOTALMENTE exenta sin necesidad de reinvertir",
+      "La ganancia patrimonial tributa entre el 19% y el 28% en la base del ahorro — en una venta de 200.000€ de ganancia puedes ahorrarte más de 40.000€ en impuestos"
+    ],
+    "search_terms": ["house for sale sign", "home selling real estate", "property transaction documents"],
+    "category": "hacienda"
+  },
+  {
+    "id": 49,
+    "topic": "La deducción por inversión en vivienda habitual: el régimen transitorio que sigue vigente",
+    "hook": "Compraste casa antes de 2013? Deduce un 15%",
+    "key_points": [
+      "Si compraste tu vivienda habitual antes del 1 de enero de 2013, puedes seguir deduciendo el 15% de las cantidades pagadas (hipoteca + amortización)",
+      "El límite máximo de deducción es sobre una base de 9.040€ anuales — es decir, un máximo de 1.356€ de deducción al año",
+      "Requisito: que hayas aplicado la deducción en 2012 o antes — si nunca la aplicaste, la has perdido",
+      "Incluye capital amortizado, intereses, seguro de vida vinculado y seguro de hogar si son obligatorios por la hipoteca"
+    ],
+    "search_terms": ["mortgage house payment", "home buying keys", "property investment savings"],
+    "category": "hacienda"
+  },
+  {
+    "id": 50,
+    "topic": "Donaciones a ONG con desgravación del 80% en los primeros 250€",
+    "hook": "Dona 250€ y Hacienda te devuelve 200€",
+    "key_points": [
+      "Los primeros 250€ donados a entidades acogidas a la Ley 49/2002 de mecenazgo desgravan al 80% — te devuelven 200€ en la renta",
+      "A partir de 250€, la desgravación es del 40% — sube al 45% si llevas donando a la misma entidad al menos 3 años consecutivos",
+      "Las donaciones a partidos políticos desgravan al 20% con un límite de 600€ de cuota — artículo 68.3 Ley IRPF",
+      "Comprueba siempre que la ONG esté en el registro de entidades acogidas a la Ley 49/2002 — si no lo está, no desgravan nada"
+    ],
+    "search_terms": ["charity donation giving", "nonprofit organization help", "tax deductible receipt"],
+    "category": "hacienda"
+  },
+  {
+    "id": 51,
+    "topic": "La reducción por rendimientos del trabajo: Hacienda te quita menos de tu nómina de lo que crees",
+    "hook": "Tu nómina tiene una reducción de 6.498€",
+    "key_points": [
+      "Los asalariados con rendimientos netos del trabajo inferiores a 19.747,5€ tienen derecho a una reducción de hasta 6.498€ — artículo 20 Ley IRPF",
+      "La reducción es de 6.498€ para rentas hasta 14.047,5€ y decrece linealmente hasta 0€ para rentas de 19.747,5€",
+      "Esto hace que un salario bruto de 15.000€ tenga una base imponible efectiva mucho menor — y pague muy poco IRPF",
+      "Se aplica automáticamente en la declaración pero muchos no saben que existe — por eso les sale a devolver sin entender por qué"
+    ],
+    "search_terms": ["paycheck salary stub", "work income wages", "employee tax withholding"],
+    "category": "hacienda"
+  },
+  {
+    "id": 52,
+    "topic": "Cómo compensar pérdidas patrimoniales en la declaración de la renta",
+    "hook": "Perdiste dinero en bolsa? Paga menos IRPF",
+    "key_points": [
+      "Las pérdidas patrimoniales se compensan primero con ganancias del mismo tipo — si vendiste acciones con pérdida y otras con ganancia",
+      "Si quedan pérdidas sin compensar, puedes compensar hasta el 25% del saldo positivo de rendimientos del capital mobiliario del mismo ejercicio",
+      "Las pérdidas no compensadas se arrastran durante los 4 años siguientes — artículo 49 Ley IRPF",
+      "Ojo con la norma anti-aplicación: si recompras el mismo valor en los 2 meses siguientes a la venta con pérdida, no puedes compensarla"
+    ],
+    "search_terms": ["stock market loss chart", "investment portfolio decline", "financial loss tax offset"],
+    "category": "hacienda"
+  },
+  {
+    "id": 53,
+    "topic": "La casilla 19 de la renta: gastos de los que nadie te habla como asalariado",
+    "hook": "Asalariado? La casilla 19 te ahorra impuestos",
+    "key_points": [
+      "En la casilla 19 del IRPF puedes incluir cuotas sindicales (deducibles al 100%), cuotas de colegios profesionales obligatorios (máximo 500€) y gastos de defensa jurídica laboral (máximo 300€)",
+      "Las cotizaciones a la Seguridad Social, desempleo y formación profesional que te descuentan de la nómina ya aparecen automáticamente en la casilla 12",
+      "Si tuviste un juicio laboral contra tu empresa, los honorarios del abogado hasta 300€ son deducibles aquí",
+      "Estos gastos reducen directamente tus rendimientos netos del trabajo — bajan la base imponible antes de aplicar los tramos del IRPF"
+    ],
+    "search_terms": ["salary deduction payslip", "labor union membership", "professional expenses tax"],
+    "category": "hacienda"
+  },
+  {
+    "id": 54,
+    "topic": "Hacienda te puede devolver dinero de ejercicios pasados: la rectificación de autoliquidaciones",
+    "hook": "Olvidaste una deducción? Reclama 4 años atrás",
+    "key_points": [
+      "Puedes rectificar tus declaraciones de IRPF de los últimos 4 ejercicios no prescritos — artículo 120.3 Ley General Tributaria",
+      "Si olvidaste incluir una deducción, aportación a plan de pensiones o gasto deducible, puedes solicitar la devolución",
+      "Se hace desde la sede electrónica de la AEAT: Renta > Modificación de declaración > Solicitud de rectificación",
+      "Hacienda tiene 6 meses para resolver — si no responde, se entiende desestimada por silencio administrativo negativo"
+    ],
+    "search_terms": ["tax amendment correction", "refund money return", "government form resubmission"],
+    "category": "hacienda"
+  },
+  {
+    "id": 55,
+    "topic": "El modelo 720: declarar bienes en el extranjero por más de 50.000€",
+    "hook": "Dinero fuera de España? Decláralo o multa enorme",
+    "key_points": [
+      "Si tienes cuentas, valores o inmuebles en el extranjero que sumen más de 50.000€ por categoría, debes presentar el modelo 720 antes del 31 de marzo",
+      "Tras la sentencia del TJUE de 2022 (C-788/19), las multas desproporcionadas se anularon — pero la obligación de declarar sigue vigente",
+      "El nuevo régimen sancionador aplica multas de 20€ por dato omitido con un mínimo de 300€ — mucho menos que las anteriores de 5.000€ por dato",
+      "Las criptomonedas en exchanges extranjeros se declaran con el modelo 721 si superan 50.000€ — separado del 720"
+    ],
+    "search_terms": ["overseas money transfer", "international bank account", "foreign assets declaration"],
+    "category": "hacienda"
+  },
+  {
+    "id": 56,
+    "topic": "Deducción por obras de mejora de eficiencia energética en tu vivienda",
+    "hook": "Reforma tu casa y deduce hasta 15.000€",
+    "key_points": [
+      "Las obras que reduzcan la demanda de calefacción/refrigeración un 7% desgravan el 20% con base máxima de 5.000€ — deducción de hasta 1.000€",
+      "Si reduces el consumo de energía primaria no renovable un 30% o mejoras a letra A o B, desgravan el 40% sobre 7.500€ — hasta 3.000€ de deducción",
+      "En comunidades de vecinos, obras en el edificio completo desgravan el 60% sobre 15.000€ — hasta 5.000€ por año, acumulable en 4 ejercicios",
+      "Necesitas certificado de eficiencia energética antes y después de la obra — expedido por técnico autorizado — disposición adicional 50ª Ley IRPF"
+    ],
+    "search_terms": ["home renovation energy", "solar panel installation", "house insulation improvement"],
+    "category": "hacienda"
+  },
+  {
+    "id": 57,
+    "topic": "Cómo tributa la herencia en España: impuesto de sucesiones por comunidad autónoma",
+    "hook": "Herencia en Madrid: 0€ impuestos hasta 1M€",
+    "key_points": [
+      "El Impuesto de Sucesiones es estatal pero está cedido a las CCAA — las diferencias son enormes entre comunidades",
+      "Madrid bonifica el 99% de la cuota para descendientes, cónyuges y ascendientes — heredar 500.000€ cuesta prácticamente 0€",
+      "En Andalucía la bonificación es del 99% para herencias hasta 1.000.000€ por heredero desde 2020",
+      "En Cataluña, Asturias o Aragón las bonificaciones son menores y una herencia de 500.000€ puede costar entre 20.000-80.000€ en impuestos"
+    ],
+    "search_terms": ["inheritance family legacy", "estate planning documents", "generational wealth transfer"],
+    "category": "hacienda"
+  },
+  {
+    "id": 58,
+    "topic": "La regla de los dos pagadores: por qué te sale a pagar la renta",
+    "hook": "2 pagadores = renta a pagar: evítalo así",
+    "key_points": [
+      "Con dos pagadores, si el segundo te ha pagado más de 1.500€, estás obligado a declarar a partir de 15.876€ de ingresos totales (antes era 15.000€)",
+      "Cada pagador retiene como si fuera el único — por eso las retenciones son insuficientes y te sale a pagar en junio",
+      "Puedes pedir a tu segundo pagador que te aplique un porcentaje de retención mayor marcando la casilla correspondiente en el modelo 145",
+      "Situaciones comunes: cambio de empresa, cobrar prestación del SEPE, pluriempleo o cobrar la pensión y un salario"
+    ],
+    "search_terms": ["two jobs salary", "income tax surprise", "multiple employer paycheck"],
+    "category": "hacienda"
+  },
+  {
+    "id": 59,
+    "topic": "Deducción por vehículo eléctrico en el IRPF: hasta 3.000€ de ahorro",
+    "hook": "Coche eléctrico: Hacienda te devuelve 3.000€",
+    "key_points": [
+      "La compra de un vehículo eléctrico nuevo desgrava el 15% del valor de adquisición con una base máxima de 20.000€ — hasta 3.000€ de deducción",
+      "También aplica la deducción a la instalación de un punto de recarga en tu vivienda: 15% sobre un máximo de 4.000€ — hasta 600€",
+      "El vehículo no puede estar afecto a actividad económica — esta deducción es para uso particular — disposición adicional 58ª Ley IRPF",
+      "La deducción se aplica en el ejercicio en que se matricula el vehículo o se paga el 25% y se matricula antes de fin del segundo ejercicio posterior"
+    ],
+    "search_terms": ["electric car charging", "green vehicle purchase", "eco friendly transportation"],
+    "category": "hacienda"
+  },
+  {
+    "id": 60,
+    "topic": "El IVA que pagas en restaurantes y hoteles: cuándo es deducible para empresas y autónomos",
+    "hook": "Comidas de trabajo: el IVA es deducible al 100%",
+    "key_points": [
+      "Las comidas con clientes y gastos de representación son deducibles en IVA al 100% si se acredita la correlación con la actividad — artículo 96 Ley IVA",
+      "Para que Hacienda acepte el gasto, necesitas: factura completa con tu NIF, fecha y desglose de IVA — no vale un ticket simplificado",
+      "En el IRPF solo puedes deducir dietas si cumples los requisitos de la Ley 6/2017: pago electrónico y establecimiento de hostelería",
+      "Las comidas de Navidad con empleados sí son deducibles como gasto de personal — pero tiene un límite razonable según jurisprudencia"
+    ],
+    "search_terms": ["business dinner restaurant", "hotel accommodation receipt", "corporate expense meal"],
+    "category": "hacienda"
+  },
+  {
+    "id": 61,
+    "topic": "Cómo declarar los ingresos por alquiler de vivienda y aplicar la reducción del 50-90%",
+    "hook": "Alquiler de piso: reducción del 90% en IRPF",
+    "key_points": [
+      "Los rendimientos netos por alquiler de vivienda habitual del inquilino tienen una reducción del 50% — o hasta el 90% en zonas tensionadas con la nueva Ley de Vivienda",
+      "Puedes deducir: IBI, comunidad, seguro, intereses de la hipoteca, gastos de reparación y conservación, y amortización del inmueble (3% del valor de construcción)",
+      "La reducción solo aplica si declaras los ingresos — si Hacienda te pilla alquilando en negro, pierdes la reducción y la sanción es del 50-150% de la cuota",
+      "Los gastos de reparación y conservación tienen un límite: no pueden generar rendimiento negativo — el exceso se arrastra a los 4 años siguientes"
+    ],
+    "search_terms": ["apartment rental income", "landlord property management", "housing rent declaration"],
+    "category": "hacienda"
+  },
+  {
+    "id": 62,
+    "topic": "El impuesto de transmisiones patrimoniales: cuánto pagas al comprar un piso de segunda mano",
+    "hook": "Piso de segunda mano: entre 4% y 11% de impuesto",
+    "key_points": [
+      "El ITP por compra de vivienda usada varía por CCAA: desde el 4% en País Vasco hasta el 10-11% en Cataluña o Comunidad Valenciana",
+      "La base imponible es el valor de referencia del Catastro — no el precio de compra — y si es mayor que lo pagado, pagas sobre el mayor",
+      "Para menores de 35 años y vivienda habitual hay tipos reducidos en muchas comunidades: Madrid 4%, Andalucía 3,5%, Castilla-La Mancha 4%",
+      "El plazo para pagar el ITP es de 30 días hábiles desde la firma de la escritura — si te pasas, recargo del 5-20% según retraso"
+    ],
+    "search_terms": ["house buying contract", "property transfer documents", "real estate purchase keys"],
+    "category": "hacienda"
+  },
+  {
+    "id": 63,
+    "topic": "Prescripción fiscal: cuándo Hacienda ya no puede reclamarte",
+    "hook": "Hacienda prescribe a los 4 años: ojo aquí",
+    "key_points": [
+      "El plazo general de prescripción tributaria es de 4 años — artículo 66 de la Ley General Tributaria",
+      "Se cuenta desde el último día del plazo para presentar la declaración — para la renta 2024 prescribiría en julio de 2029",
+      "La prescripción se interrumpe con cualquier actuación administrativa: requerimiento, comprobación, notificación — y vuelve a contar desde cero",
+      "Para el modelo 720 de bienes en el extranjero, tras la sentencia del TJUE, ya no hay imprescriptibilidad — aplica los 4 años generales"
+    ],
+    "search_terms": ["calendar deadline expiration", "legal statute limitations", "government audit clock"],
+    "category": "hacienda"
+  },
+  {
+    "id": 64,
+    "topic": "Deducciones por familia numerosa y personas con discapacidad a cargo",
+    "hook": "Familia numerosa: 1.200€ a 2.400€ de deducción",
+    "key_points": [
+      "Las familias numerosas generales (3 hijos) tienen deducción de 1.200€/año — las de categoría especial (5+ hijos) de 2.400€ — artículo 81 bis Ley IRPF",
+      "Por cada ascendiente o descendiente con discapacidad a cargo: 1.200€ adicionales de deducción",
+      "Por cónyuge no separado legalmente con discapacidad que no tenga rentas superiores a 8.000€: 1.200€ más de deducción",
+      "Todas estas deducciones se pueden cobrar anticipadamente a razón de 100€/mes mediante el modelo 143 de la AEAT"
+    ],
+    "search_terms": ["large family children", "disability family support", "tax benefit government"],
+    "category": "hacienda"
+  },
+  {
+    "id": 65,
+    "topic": "Cómo tributan las indemnizaciones por despido en el IRPF",
+    "hook": "Indemnización por despido: cuánto está exento",
+    "key_points": [
+      "La indemnización por despido improcedente está exenta de IRPF hasta los límites del Estatuto de los Trabajadores: 33 días por año con máximo 24 mensualidades",
+      "Para contratos anteriores al 12 de febrero de 2012, los días trabajados antes de esa fecha computan a 45 días/año con máximo 42 mensualidades",
+      "El exceso sobre el límite legal tributa como rendimiento del trabajo — con posible reducción del 30% si se imputa en un solo ejercicio",
+      "Las indemnizaciones por despido objetivo (20 días/año) también están exentas hasta su límite legal — artículo 7.e Ley IRPF"
+    ],
+    "search_terms": ["job termination letter", "unemployment fired worker", "severance pay calculation"],
+    "category": "hacienda"
+  },
+  {
+    "id": 66,
+    "topic": "El borrador de la renta: 5 errores que te hacen pagar de más",
+    "hook": "Tu borrador tiene errores: estás pagando de más",
+    "key_points": [
+      "El borrador NO incluye deducciones autonómicas que debes marcar manualmente — vivienda, familia, discapacidad según tu CCAA",
+      "Si has tenido un hijo, Hacienda puede no tener el dato actualizado — debes añadir el mínimo por descendientes tú mismo",
+      "Las aportaciones a sindicatos y colegios profesionales obligatorios muchas veces no aparecen — debes incluirlas en la casilla 19",
+      "Si estás separado o divorciado, el borrador puede asignar mal los hijos — revisa quién tiene la guarda y custodia para aplicar el mínimo familiar"
+    ],
+    "search_terms": ["tax return mistakes", "financial errors calculator", "income declaration review"],
+    "category": "hacienda"
+  },
+  {
+    "id": 67,
+    "topic": "Tributación del rescate de un plan de pensiones: no lo hagas todo de golpe",
+    "hook": "Plan de pensiones: rescátalo MAL y pierdes 40%",
+    "key_points": [
+      "El rescate de un plan de pensiones tributa como rendimiento del trabajo — se suma a tu salario y sube de tramo del IRPF",
+      "Si rescatas 100.000€ de golpe con un salario de 30.000€, podrías pagar un 45% marginal sobre la mayor parte del rescate",
+      "La solución: rescatar en forma de renta mensual para controlar el tramo — por ejemplo 500-800€/mes que no te hagan subir de tramo",
+      "Las aportaciones anteriores a 2007 tienen derecho a una reducción del 40% si se rescatan en forma de capital — pero solo el año de la jubilación y los 2 siguientes"
+    ],
+    "search_terms": ["pension fund withdrawal", "retirement savings access", "money bag opening"],
+    "category": "hacienda"
+  },
+  {
+    "id": 68,
+    "topic": "Deducción por donativos a universidades y centros de investigación: 25-80%",
+    "hook": "Dona a tu universidad y deduce hasta el 80%",
+    "key_points": [
+      "Las donaciones a universidades públicas y fundaciones universitarias están acogidas a la Ley 49/2002 — los primeros 250€ desgravan al 80%",
+      "A partir de 250€ la deducción es del 40% — y sube al 45% si llevas 3 años donando a la misma entidad",
+      "Las donaciones de bienes con valor histórico-artístico o cultural pueden desgravar al 80% sin límite de los primeros 250€",
+      "La base de deducción tiene un límite del 10% de la base liquidable — el exceso se puede aplicar en los 10 ejercicios siguientes"
+    ],
+    "search_terms": ["university donation education", "research funding science", "academic institution support"],
+    "category": "hacienda"
+  },
+  {
+    "id": 69,
+    "topic": "Tributación de los premios de lotería y apuestas en España",
+    "hook": "Premio de lotería: Hacienda se queda el 20%",
+    "key_points": [
+      "Los premios de Loterías del Estado, ONCE y Cruz Roja superiores a 40.000€ tributan al 20% por el exceso — disposición adicional 33ª Ley IRPF",
+      "Si ganas 100.000€ en la lotería, pagas el 20% de 60.000€ (100.000 - 40.000 exentos) = 12.000€ de impuestos",
+      "Los premios de apuestas deportivas y casinos online tributan al 100% como ganancia patrimonial en la base general — al tipo marginal del IRPF",
+      "Las pérdidas en el juego se pueden compensar con las ganancias del juego en la misma base imponible — pero solo las del mismo ejercicio"
+    ],
+    "search_terms": ["lottery ticket winner", "prize money celebration", "gambling casino chips"],
+    "category": "hacienda"
+  },
+  {
+    "id": 70,
+    "topic": "El recargo por declaración extemporánea: cuánto pagas por presentar tarde",
+    "hook": "Declaración tarde: el recargo sube cada mes",
+    "key_points": [
+      "Si presentas una declaración fuera de plazo voluntariamente (sin requerimiento), el recargo es del 1% más 1% por cada mes de retraso — artículo 27 LGT",
+      "A partir de los 12 meses de retraso, el recargo fijo es del 15% más intereses de demora desde el mes 13",
+      "Si Hacienda te requiere antes de que presentes, ya no es recargo sino sanción: del 50% al 150% de la cuota — artículo 191 LGT",
+      "Consejo: si se te ha pasado el plazo, presenta cuanto antes — cada mes que esperas es un 1% más que pagas"
+    ],
+    "search_terms": ["late filing penalty", "tax deadline missed", "calendar overdue payment"],
+    "category": "hacienda"
+  },
+  {
+    "id": 71,
+    "topic": "Impuesto sobre el Patrimonio: cuándo se paga y cómo evitarlo legalmente",
+    "hook": "Patrimonio de 700.000€: ya pagas este impuesto",
+    "key_points": [
+      "El mínimo exento general es de 700.000€ más 300.000€ por vivienda habitual — empiezas a pagar a partir de 1.000.000€ de patrimonio neto",
+      "Los tipos van del 0,2% al 3,5% según la CCAA — Madrid lo bonifica al 100% (no se paga) y Andalucía también desde 2023",
+      "El Impuesto Temporal de Solidaridad de Grandes Fortunas (ITSGF) complementa al de Patrimonio para patrimonios superiores a 3,7 millones — tipos del 1,7% al 3,5%",
+      "Los bienes afectos a actividad económica y las participaciones en empresas familiares con requisitos del artículo 4.8 Ley Patrimonio están exentos"
+    ],
+    "search_terms": ["wealth management luxury", "property valuation assessment", "net worth calculation"],
+    "category": "hacienda"
+  },
+  {
+    "id": 72,
+    "topic": "La declaración conjunta vs individual: cuándo compensa cada una",
+    "hook": "Declaración conjunta: a veces pierdes 3.400€",
+    "key_points": [
+      "La declaración conjunta tiene una reducción de 3.400€ en la base imponible para matrimonios — pero solo compensa si uno de los dos no tiene ingresos o son muy bajos",
+      "Si ambos cónyuges trabajan con sueldos similares, la individual casi siempre sale mejor — los tramos del IRPF son los mismos pero se aplican a la suma de rentas",
+      "En familias monoparentales, la reducción por tributación conjunta es de 2.150€ — y puede compensar si el hijo no tiene rentas",
+      "El simulador de la AEAT (Renta WEB) te permite comparar ambas opciones antes de presentar — siempre comprueba las dos"
+    ],
+    "search_terms": ["couple tax filing", "family income declaration", "marriage financial planning"],
+    "category": "hacienda"
+  },
+  {
+    "id": 73,
+    "topic": "Deducción por inversión en empresa de nueva creación: business angels al 50%",
+    "hook": "Invierte en startups y deduce un 50% en IRPF",
+    "key_points": [
+      "La inversión en empresas de nueva creación desgrava el 50% de la inversión con un máximo de 100.000€ de inversión anual — artículo 68.1 Ley IRPF (modificado por Ley 28/2022)",
+      "La empresa debe ser de nueva creación (menos de 5 años, 7 para biotech) y no cotizar en bolsa",
+      "Debes mantener las acciones entre 3 y 12 años — si vendes antes de 3, pierdes la deducción",
+      "Si además obtienes una ganancia al vender, puedes reinvertirla en otra empresa de nueva creación y la plusvalía queda exenta"
+    ],
+    "search_terms": ["startup investment meeting", "venture capital funding", "new business entrepreneur"],
+    "category": "hacienda"
+  },
+  {
+    "id": 74,
+    "topic": "Cómo tributan los dividendos de acciones españolas y extranjeras",
+    "hook": "Dividendos: pagas entre 19% y 28% siempre",
+    "key_points": [
+      "Los dividendos tributan en la base del ahorro: 19% hasta 6.000€, 21% de 6.000 a 50.000€, 23% de 50.000 a 200.000€, 27% de 200.000 a 300.000€ y 28% a partir de 300.000€",
+      "La exención de los primeros 1.500€ en dividendos se eliminó en 2015 — ahora tributan desde el primer euro",
+      "Los dividendos de acciones extranjeras suelen tener retención en origen — puedes aplicar la deducción por doble imposición en la casilla 588",
+      "Las empresas españolas retienen un 19% sobre los dividendos — esta retención es un adelanto del impuesto final"
+    ],
+    "search_terms": ["stock dividend payment", "investment portfolio returns", "shareholder money income"],
+    "category": "hacienda"
+  },
+  {
+    "id": 75,
+    "topic": "Tributación de las ganancias por venta de acciones y fondos de inversión",
+    "hook": "Vendes acciones? Paga menos con este truco legal",
+    "key_points": [
+      "Las ganancias por venta de acciones tributan en la base del ahorro: del 19% al 28% según importe — método de cálculo FIFO (primero compradas, primero vendidas)",
+      "Los fondos de inversión permiten traspasar entre fondos SIN tributar — solo pagas cuando reembolsas definitivamente — artículo 94 Ley IRPF",
+      "Si vendes con pérdidas, no puedes compensar si recompras el mismo valor en los 2 meses anteriores o posteriores — regla antiaplicación art. 33.5.f",
+      "Las acciones cotizadas tienen una ventaja: al venderlas, el precio de compra se calcula con la regla FIFO automáticamente por tu bróker"
+    ],
+    "search_terms": ["stock trading screen", "investment sell profit", "financial market analysis"],
+    "category": "hacienda"
+  },
+  {
+    "id": 76,
+    "topic": "Pagos fraccionados del IRPF: cómo pagar la renta en 2 plazos sin intereses",
+    "hook": "Paga tu renta en 2 veces sin intereses extra",
+    "key_points": [
+      "Al presentar la declaración de la renta puedes fraccionar el pago en dos plazos sin intereses — el 60% al presentar y el 40% restante el 5 de noviembre",
+      "Es una opción que aparece al confirmar la declaración en Renta WEB — no necesitas solicitar aplazamiento formal",
+      "La domiciliación bancaria del segundo plazo es obligatoria — si no domicilias, pierdes el derecho al fraccionamiento",
+      "Si necesitas más plazo o no puedes pagar, puedes solicitar un aplazamiento formal de hasta 12 meses con un interés del 4,0625%"
+    ],
+    "search_terms": ["payment installment plan", "tax payment deadline", "money calendar schedule"],
+    "category": "hacienda"
+  },
+  {
+    "id": 77,
+    "topic": "Deducción por ascendientes mayores de 65 años que conviven contigo",
+    "hook": "Tus padres viven contigo? 1.150€ de deducción",
+    "key_points": [
+      "Si convives con un ascendiente mayor de 65 años que no tenga rentas superiores a 8.000€ anuales, puedes aplicar un mínimo por ascendientes de 1.150€ — artículo 59 Ley IRPF",
+      "Si el ascendiente tiene más de 75 años, el mínimo sube a 2.550€ adicionales — total 3.700€ si supera los 75",
+      "Si el ascendiente tiene discapacidad, se suma el mínimo por discapacidad: 3.000€ (33-65%) o 12.000€ (más del 65%) — artículo 60 Ley IRPF",
+      "La convivencia se acredita con el empadronamiento — Hacienda cruza datos con el padrón municipal"
+    ],
+    "search_terms": ["elderly parent care home", "senior citizen family", "multigenerational household"],
+    "category": "hacienda"
+  },
+  {
+    "id": 78,
+    "topic": "El valor de referencia del Catastro: cómo te afecta al comprar un piso",
+    "hook": "Catastro dice que tu piso vale más: pagarás más",
+    "key_points": [
+      "Desde 2022, el valor de referencia del Catastro es la base mínima del ITP, Sucesiones y Donaciones — aunque compres por menos",
+      "Si el valor de referencia es 200.000€ y compras por 170.000€, pagas ITP sobre 200.000€ — artículo 10 Ley ITP modificado por Ley 11/2021",
+      "Puedes impugnar el valor de referencia pidiendo una tasación contradictoria — pero debes pagar primero y reclamar después",
+      "Consulta el valor de referencia gratis en la sede electrónica del Catastro antes de comprar — así no te llevas sorpresas"
+    ],
+    "search_terms": ["property valuation map", "house price assessment", "real estate appraisal"],
+    "category": "hacienda"
+  },
+  {
+    "id": 79,
+    "topic": "Cómo tributan los ingresos por Airbnb y alquiler vacacional en España",
+    "hook": "Airbnb en España: Hacienda lo sabe todo ya",
+    "key_points": [
+      "Airbnb comunica a Hacienda todos los ingresos de anfitriones españoles con el modelo 179 — obligatorio desde 2018",
+      "Los ingresos tributan como rendimiento del capital inmobiliario — sin la reducción del 60% porque no es vivienda habitual del inquilino",
+      "Puedes deducir gastos proporcionalmente a los días alquilados: IBI, comunidad, seguros, suministros, amortización del inmueble",
+      "Si además ofreces servicios complementarios (limpieza, desayuno, excursiones), tributa como actividad económica y debes darte de alta en el IAE"
+    ],
+    "search_terms": ["vacation rental apartment", "tourist accommodation keys", "holiday home bedroom"],
+    "category": "hacienda"
+  },
+  {
+    "id": 80,
+    "topic": "La plusvalía municipal al vender un piso: cuándo NO tienes que pagarla",
+    "hook": "Plusvalía municipal: no pagues si no ganaste",
+    "key_points": [
+      "Tras la sentencia del Tribunal Constitucional 182/2021, NO se paga plusvalía municipal si no ha habido incremento real de valor",
+      "Si vendes por menos de lo que compraste (incluidos gastos de compra y venta), estás exento — debes demostrarlo con escrituras",
+      "El nuevo cálculo permite elegir entre método objetivo (coeficientes x valor catastral) y método real (diferencia entre precio de compra y venta) — artículo 107 LRHL",
+      "El plazo para pagar o solicitar exención es de 30 días hábiles desde la escritura de venta — si no lo haces, recargo automático"
+    ],
+    "search_terms": ["property sale profit", "municipal tax city hall", "house selling handshake"],
+    "category": "hacienda"
+  },
+  {
+    "id": 81,
+    "topic": "La regla del 50-30-20 adaptada al salario mínimo español",
+    "hook": "1.184€ de sueldo: repártelo así y ahorras",
+    "key_points": [
+      "Con el SMI de 1.184€/mes en 14 pagas, aplicar el 50-30-20 significa: 592€ necesidades, 355€ caprichos y 237€ ahorro",
+      "En España el alquiler medio supera el 40% del salario en ciudades como Madrid o Barcelona — hay que adaptar al 60-20-20 o incluso 70-20-10",
+      "Si ganas el SMI, prioriza el fondo de emergencia antes de invertir — 3 meses de gastos fijos son unos 1.800-2.400€",
+      "Automatiza la transferencia del ahorro el día que cobras — si esperas a fin de mes, nunca sobra dinero"
+    ],
+    "search_terms": ["budget pie chart", "money jar savings", "monthly expense planning"],
+    "category": "ahorro"
+  },
+  {
+    "id": 82,
+    "topic": "Cómo ahorrar 100€ al mes en la factura de la luz con la tarifa regulada PVPC",
+    "hook": "Tarifa de luz PVPC: hasta 100€ menos al mes",
+    "key_points": [
+      "La tarifa PVPC (Precio Voluntario para el Pequeño Consumidor) tiene 3 tramos horarios: valle (0-8h), llano (8-10h y 14-18h y 22-24h) y punta (10-14h y 18-22h)",
+      "Poner la lavadora, lavavajillas y horno en horario valle puede reducir tu factura un 30-40% — el kWh en valle cuesta la mitad que en punta",
+      "Si tu potencia contratada supera los 4,6kW, revisa si realmente la necesitas — bajar a 3,45kW puede ahorrarte 50-80€ al año solo en término fijo",
+      "El bono social eléctrico da descuentos del 25% o 40% en la factura para rentas bajas — se solicita a tu comercializadora de referencia"
+    ],
+    "search_terms": ["electricity bill savings", "power meter reading", "light bulb energy efficient"],
+    "category": "ahorro"
+  },
+  {
+    "id": 83,
+    "topic": "El bono social eléctrico y térmico: quién tiene derecho y cuánto ahorra",
+    "hook": "Bono social: 40% de descuento en tu luz",
+    "key_points": [
+      "El bono social eléctrico ofrece un 25% de descuento para consumidores vulnerables y un 40% para vulnerables severos — Real Decreto 897/2017",
+      "Los límites de renta para 2025 son: sin menores 1,5x IPREM (unos 12.600€/año), con 1 menor 2x IPREM (16.800€), con 2+ menores 2,5x IPREM (21.000€)",
+      "El bono social térmico (gas, gasóleo, biomasa) da un pago anual de entre 25€ y 375€ según zona climática y grado de vulnerabilidad",
+      "Se solicita a tu comercializadora de referencia (Endesa, Iberdrola, Naturgy o EDP) con tu DNI y libro de familia si tienes hijos"
+    ],
+    "search_terms": ["energy bill discount", "low income family help", "government aid subsidy"],
+    "category": "ahorro"
+  },
+  {
+    "id": 84,
+    "topic": "Cómo negociar una bajada de la cuota de tu hipoteca con el banco",
+    "hook": "Tu hipoteca puede bajar 200€/mes: negocia así",
+    "key_points": [
+      "Con el Euríbor bajando desde los máximos de 2023-2024, las hipotecas variables se revisan a la baja — cada 0,5% de bajada son unos 30€ menos por cada 100.000€ de préstamo",
+      "La Ley 5/2019 de Crédito Inmobiliario permite cambiar de hipoteca variable a fija sin comisión de cambio si llevas más de 3 años — solo gastos de notaría y registro",
+      "Puedes negociar la eliminación de productos vinculados (seguros, tarjetas, planes) que encarecen tu cuota — la vinculación abusiva es ilegal",
+      "La subrogación a otro banco no tiene comisión en hipotecas a tipo variable — y el nuevo banco suele pagar los gastos para captarte"
+    ],
+    "search_terms": ["mortgage negotiation bank", "home loan payment", "house keys interest rate"],
+    "category": "ahorro"
+  },
+  {
+    "id": 85,
+    "topic": "El método de los sobres: controlar gastos cuando cobras poco",
+    "hook": "Método sobres: no gastes ni 1€ de más",
+    "key_points": [
+      "Divides tu sueldo neto en sobres físicos o virtuales: alquiler, comida, transporte, ocio, ahorro — cuando se vacía un sobre, no gastas más en esa categoría",
+      "Con 1.200€ de sueldo: 500€ alquiler, 250€ comida, 100€ transporte, 100€ facturas, 100€ ocio, 150€ ahorro — cada euro tiene un destino",
+      "Estudios del Journal of Consumer Research muestran que pagar en efectivo duele más psicológicamente y reduce el gasto impulsivo un 12-18%",
+      "En versión digital: crea cuentas separadas sin comisión y programa transferencias automáticas el día de cobro"
+    ],
+    "search_terms": ["cash envelope budgeting", "money management wallet", "personal finance organization"],
+    "category": "ahorro"
+  },
+  {
+    "id": 86,
+    "topic": "Ahorrar en la compra del supermercado: 200€ menos al mes con estas técnicas",
+    "hook": "Supermercado: ahorra 200€/mes sin comer peor",
+    "key_points": [
+      "La compra media en España es de 350-450€/mes para una familia de 4 — según el INE, alimentación es el 20% del gasto total de los hogares",
+      "Planificar el menú semanal antes de comprar reduce el desperdicio alimentario un 30% — España tira 1.300 millones de kg de comida al año según el MAPA",
+      "Las marcas blancas cuestan entre un 30% y un 50% menos que las marcas líderes — y en muchos casos se fabrican en las mismas plantas",
+      "Comprar productos de temporada puede ahorrarte un 40% en frutas y verduras — los tomates en invierno cuestan el doble que en verano"
+    ],
+    "search_terms": ["grocery shopping cart", "supermarket aisle food", "budget meal planning"],
+    "category": "ahorro"
+  },
+  {
+    "id": 87,
+    "topic": "Cómo reducir tu factura del móvil e internet a menos de 20€/mes",
+    "hook": "Móvil e internet por 20€: es posible en España",
+    "key_points": [
+      "Los operadores virtuales (OMV) usan las mismas redes que Movistar, Orange o Vodafone — pero cobran entre 8-20€/mes por líneas con datos suficientes",
+      "La portabilidad es gratuita y se completa en 1 día laborable — la antigua operadora no puede cobrarte penalización si no tienes permanencia",
+      "El consumo medio de datos en España es de 7-10 GB/mes según la CNMC — no necesitas 50 GB que nunca usas",
+      "Negocia siempre antes de irte: llama a tu operador y di que te vas — el departamento de bajas tiene ofertas un 30-50% más baratas que las de captación"
+    ],
+    "search_terms": ["phone bill calculator", "mobile plan comparison", "smartphone data usage"],
+    "category": "ahorro"
+  },
+  {
+    "id": 88,
+    "topic": "El reto de las 52 semanas: ahorra 1.378€ en un año sin darte cuenta",
+    "hook": "1.378€ ahorrados en 1 año: 1€ por semana más",
+    "key_points": [
+      "Semana 1 ahorras 1€, semana 2 ahorras 2€, semana 3 ahorras 3€ — y así hasta semana 52 donde ahorras 52€",
+      "El total acumulado es 1+2+3+...+52 = 1.378€ — un fondo de emergencia básico creado con menos de 30€/semana de media",
+      "Truco para hacerlo más fácil: empieza al revés — las semanas grandes en enero (cuando hay paga extra) y las pequeñas en diciembre",
+      "Combínalo con el redondeo de compras: si pagas 3,70€, transfiere 0,30€ a la hucha — puede sumar otros 300-500€ al año"
+    ],
+    "search_terms": ["piggy bank coins", "savings challenge calendar", "money growth weekly"],
+    "category": "ahorro"
+  },
+  {
+    "id": 89,
+    "topic": "Cómo ahorrar en seguros: comparar puede ahorrarte 500€ al año",
+    "hook": "Seguro de coche: ahorra 500€ comparando así",
+    "key_points": [
+      "La prima media del seguro de coche a todo riesgo en España es de unos 600-800€/año — pero varía hasta un 40% entre compañías para el mismo perfil",
+      "El artículo 22 de la Ley de Contrato de Seguro permite cancelar tu póliza con 1 mes de antelación a la renovación — sin penalización",
+      "Los seguros de hogar tienen coberturas duplicadas con la tarjeta de crédito o la comunidad de vecinos — revisa antes de contratar",
+      "Subir la franquicia de 0€ a 300€ en el seguro del coche puede reducir la prima un 20-30% — si no tienes siniestros, no pagas nada extra"
+    ],
+    "search_terms": ["insurance comparison chart", "car insurance document", "home protection policy"],
+    "category": "ahorro"
+  },
+  {
+    "id": 90,
+    "topic": "Gastos hormiga: los 2.000€ al año que no ves escapar",
+    "hook": "2.000€ al año en gastos que no ves: aquí están",
+    "key_points": [
+      "Un café fuera cada día laboral a 1,50€ = 330€ al año — un café con tostada a 3€ = 660€ al año",
+      "Suscripciones que no usas: el 71% de los españoles tiene al menos 1 suscripción olvidada según un estudio de la OCU — media de 15€/mes desperdiciados = 180€/año",
+      "Compras por impulso online: el 40% de las compras en ecommerce en España son no planificadas según Statista — media de 50-100€/mes",
+      "Revisa tus extractos bancarios de los últimos 3 meses y marca cada gasto como esencial o prescindible — te sorprenderás"
+    ],
+    "search_terms": ["coffee cup money", "subscription cancel phone", "impulse shopping online"],
+    "category": "ahorro"
+  },
+  {
+    "id": 91,
+    "topic": "Cómo crear un fondo de emergencia desde cero con sueldo bajo",
+    "hook": "Fondo de emergencia con 50€/mes: así empiezas",
+    "key_points": [
+      "El objetivo es tener 3-6 meses de gastos fijos — si tus gastos fijos son 800€/mes, necesitas entre 2.400€ y 4.800€",
+      "Empieza con solo 50€/mes: en 4 años tienes 2.400€ — si llegas a 100€/mes, en 2 años ya tienes el mínimo",
+      "Ponlo en una cuenta separada remunerada — en 2025 hay cuentas al 2-3% TAE sin comisiones en España",
+      "El Banco de España recomienda no invertir el fondo de emergencia en renta variable — debe ser líquido y disponible en 24-48 horas"
+    ],
+    "search_terms": ["emergency fund jar", "savings account bank", "financial safety net money"],
+    "category": "ahorro"
+  },
+  {
+    "id": 92,
+    "topic": "Ahorrar en la calefacción: 300€ menos al año con estos ajustes",
+    "hook": "Calefacción: 300€ menos sin pasar frío",
+    "key_points": [
+      "Cada grado de más en la calefacción aumenta el consumo un 7% — el IDAE recomienda 19-21°C de día y 15-17°C de noche",
+      "Los burletes en ventanas y puertas cuestan 5-15€ y pueden reducir las pérdidas de calor un 10-15% — amortización inmediata",
+      "Purgar los radiadores una vez al año mejora su eficiencia hasta un 20% — si burbujean o están fríos por arriba, tienen aire",
+      "Un termostato programable cuesta 30-50€ y puede ahorrarte un 15-25% en calefacción — programándolo para bajar cuando duermes o sales"
+    ],
+    "search_terms": ["home heating thermostat", "radiator warm winter", "energy saving house"],
+    "category": "ahorro"
+  },
+  {
+    "id": 93,
+    "topic": "El coste real de un préstamo personal: cómo leer la TAE y no la TIN",
+    "hook": "TIN vs TAE: te engañan con el interés bajo",
+    "key_points": [
+      "La TIN (Tipo de Interés Nominal) no incluye comisiones ni gastos — la TAE (Tasa Anual Equivalente) sí, y es la que debes comparar",
+      "Un préstamo al 5% TIN con comisión de apertura del 2% puede tener una TAE real del 7-8% — la diferencia son cientos de euros",
+      "El Banco de España obliga a mostrar la TAE en toda publicidad de productos financieros — artículo 3 de la Circular 5/2012",
+      "Un préstamo de 10.000€ al 8% TAE a 5 años te cuesta 2.166€ en intereses — al 12% TAE serían 3.346€ — 1.180€ de diferencia"
+    ],
+    "search_terms": ["loan interest calculation", "bank lending contract", "money percentage rate"],
+    "category": "ahorro"
+  },
+  {
+    "id": 94,
+    "topic": "Cómo salir de deudas con el método bola de nieve: paga la pequeña primero",
+    "hook": "Deudas: paga la más pequeña primero y sal antes",
+    "key_points": [
+      "El método bola de nieve de Dave Ramsey: ordena las deudas de menor a mayor importe, paga el mínimo en todas y el máximo posible en la más pequeña",
+      "La ventaja psicológica es enorme: cada deuda que eliminas te motiva — estudios de Harvard Business Review confirman que este efecto aumenta la persistencia un 15%",
+      "En España el endeudamiento medio de los hogares es del 65% de su renta disponible según el Banco de España — muchos tienen 3-5 deudas simultáneas",
+      "Alternativa: método avalancha — paga primero la de mayor interés — matemáticamente es más eficiente pero psicológicamente más difícil de mantener"
+    ],
+    "search_terms": ["debt snowball payment", "credit card bills stack", "financial freedom celebration"],
+    "category": "ahorro"
+  },
+  {
+    "id": 95,
+    "topic": "Tarjetas revolving: la trampa del pago mínimo que te arruina",
+    "hook": "Tarjeta revolving: pagas 3 veces lo que compras",
+    "key_points": [
+      "Las tarjetas revolving en España cobran intereses del 18% al 29% TAE — el Tribunal Supremo declaró usurarias las que superan significativamente la media del mercado (STS 149/2020)",
+      "Si debes 3.000€ en una revolving al 24% y pagas el mínimo de 50€/mes, tardarás más de 10 años en pagar y abonarás más de 4.000€ en intereses",
+      "Desde la Orden ETD/699/2020, el banco está obligado a informarte del coste total si solo pagas el mínimo — y a ofrecerte un pago fijo que amortice en un plazo determinado",
+      "Si tienes una revolving con intereses abusivos, puedes reclamar la nulidad del contrato y la devolución de los intereses pagados — hay sentencias firmes del TS"
+    ],
+    "search_terms": ["credit card trap debt", "minimum payment warning", "financial danger alert"],
+    "category": "ahorro"
+  },
+  {
+    "id": 96,
+    "topic": "Cómo ahorrar en medicamentos: genéricos y el sistema de precios de referencia",
+    "hook": "Medicamentos genéricos: misma fórmula, mitad de precio",
+    "key_points": [
+      "Los medicamentos genéricos tienen la misma composición, dosis y eficacia que el original — aprobados por la AEMPS con estudios de bioequivalencia",
+      "El sistema de precios de referencia en España fija el precio máximo que financia la Seguridad Social — si eliges una marca más cara, pagas la diferencia de tu bolsillo",
+      "La aportación farmacéutica en España varía según renta: 0% para rentas bajas y pensionistas, 40% para rentas medias, 50% para rentas altas y 60% para rentas muy altas",
+      "Los pensionistas con rentas inferiores a 18.000€ pagan un máximo de 8,23€/mes en medicamentos — con topes mensuales protectores según el Real Decreto-ley 16/2012"
+    ],
+    "search_terms": ["pharmacy medicine pills", "generic drug comparison", "healthcare savings prescription"],
+    "category": "ahorro"
+  },
+  {
+    "id": 97,
+    "topic": "El Ingreso Mínimo Vital: quién puede cobrarlo y cuánto es en 2025",
+    "hook": "Ingreso Mínimo Vital: hasta 1.200€/mes por familia",
+    "key_points": [
+      "El IMV garantiza un ingreso mínimo de 604,21€/mes para un adulto solo — y hasta 1.200€/mes para familias numerosas según la Ley 19/2021",
+      "Requisitos: tener entre 23 y 65 años, residencia legal en España de al menos 1 año, rentas inferiores al umbral según composición del hogar",
+      "Es compatible con trabajar — si consigues un empleo, no pierdes el IMV de golpe sino que se reduce gradualmente según los ingresos",
+      "Se solicita en la sede electrónica de la Seguridad Social o presencialmente en los CAISS — el plazo de resolución es de 6 meses"
+    ],
+    "search_terms": ["government social aid", "minimum income support", "family financial help"],
+    "category": "ahorro"
+  },
+  {
+    "id": 98,
+    "topic": "Cómo negociar un aumento de sueldo con datos: la técnica del anclaje",
+    "hook": "Pide aumento de sueldo: usa esta técnica probada",
+    "key_points": [
+      "El salario medio en España es de 2.128€ brutos/mes según la EPA del INE — pero varía enormemente por sector, puesto y comunidad autónoma",
+      "La técnica del anclaje: pide un 20-30% más de lo que esperas conseguir — la negociación tenderá a un punto medio que te favorece",
+      "Prepara 3 logros cuantificables antes de la reunión: ahorro generado, ingresos traídos o eficiencia mejorada con cifras concretas",
+      "El mejor momento para pedir un aumento es después de un éxito o en la revisión anual — nunca en momentos de crisis de la empresa"
+    ],
+    "search_terms": ["salary negotiation meeting", "raise request office", "career growth promotion"],
+    "category": "ahorro"
+  },
+  {
+    "id": 99,
+    "topic": "Cómo ahorrar en el transporte: bono transporte, coche compartido y bici",
+    "hook": "Transporte en España: ahorra 1.500€ al año así",
+    "key_points": [
+      "Los abonos de transporte público tienen descuentos del 30-50% desde septiembre 2022 — un abono mensual de Cercanías Renfe cuesta desde 10€ con el descuento estatal",
+      "El gasto medio en transporte privado en España es de 3.000-4.000€/año entre combustible, seguro, mantenimiento e ITV — según el RACC",
+      "El coche compartido para ir al trabajo puede reducir tu gasto en combustible un 50-70% — y es legal según el artículo 101 de la Ley de Tráfico si no hay ánimo de lucro",
+      "Muchos ayuntamientos ofrecen ayudas para la compra de bicicletas eléctricas de hasta 250-500€ — consulta las subvenciones de tu municipio"
+    ],
+    "search_terms": ["public transport bus", "bicycle commute city", "carpool ride sharing"],
+    "category": "ahorro"
+  },
+  {
+    "id": 100,
+    "topic": "Cuentas remuneradas y depósitos: cómo sacar un 3% a tu dinero parado sin riesgo",
+    "hook": "Tu dinero parado puede darte 3% sin riesgo",
+    "key_points": [
+      "En 2025 hay cuentas remuneradas en España al 2-3% TAE sin comisiones — cubiertas por el Fondo de Garantía de Depósitos hasta 100.000€ por titular y entidad",
+      "La diferencia entre un 0% y un 3% TAE en 10.000€ son 300€ al año — dinero gratis por simplemente cambiar de cuenta",
+      "Los depósitos a plazo fijo ofrecen entre 2,5-3,5% TAE pero tu dinero queda bloqueado — penalización por cancelación anticipada",
+      "Las Letras del Tesoro español a 12 meses ofrecen rendimientos del 2,5-3% con total seguridad — se compran en el Banco de España sin comisión"
+    ],
+    "search_terms": ["bank interest rate savings", "money deposit growing", "safe investment piggy bank"],
+    "category": "ahorro"
+  },
+  {
+    "id": 101,
+    "topic": "El gasto fantasma: suscripciones que olvidas y te cuestan 500€/año",
+    "hook": "500€ al año en suscripciones que no usas",
+    "key_points": [
+      "El hogar español medio tiene 4,2 suscripciones digitales según la CNMC — streaming, música, nube, gimnasio, prensa...",
+      "Revisa tus cargos bancarios recurrentes cada 3 meses — muchas suscripciones suben de precio sin avisar claramente",
+      "La ley obliga a que la baja de una suscripción sea tan fácil como el alta — artículo 62.4 del Real Decreto Legislativo 1/2007 de consumidores",
+      "Comparte cuentas familiares legalmente: la mayoría de servicios de streaming permiten planes familiares de 4-6 personas por el precio de 2 individuales"
+    ],
+    "search_terms": ["subscription cancel phone", "recurring payment bank", "digital service streaming"],
+    "category": "ahorro"
+  },
+  {
+    "id": 102,
+    "topic": "Cómo funciona la subida del IPC y cómo proteger tu sueldo de la inflación",
+    "hook": "La inflación te roba 2.000€ al año: protégete",
+    "key_points": [
+      "Con una inflación del 3% anual, un sueldo de 25.000€ pierde 750€ de poder adquisitivo cada año — en 10 años pierdes el 26% de tu poder de compra",
+      "El IPC lo calcula el INE mensualmente — en España la inflación media de 2024 fue del 2,8%",
+      "Muchos convenios colectivos incluyen cláusulas de revisión salarial vinculadas al IPC — revisa tu convenio en el BOE o BCCAA",
+      "Si tu sueldo no sube al menos el IPC cada año, realmente estás cobrando menos — es una bajada de sueldo encubierta"
+    ],
+    "search_terms": ["inflation money shrinking", "consumer price index chart", "purchasing power decline"],
+    "category": "ahorro"
+  },
+  {
+    "id": 103,
+    "topic": "Comprar vs alquilar vivienda en España: la ecuación real con números",
+    "hook": "Comprar o alquilar: los números que nadie te dice",
+    "key_points": [
+      "Comprar un piso de 200.000€ con hipoteca al 3% a 25 años cuesta 284.000€ en total — 84.000€ solo en intereses",
+      "Costes de compra que se olvidan: ITP (6-11%), notaría (600-1.000€), registro (300-600€), gestoría (300€) = entre 15.000-25.000€ adicionales",
+      "La regla general: si vas a vivir en la misma ciudad más de 7-10 años, comprar suele compensar — menos tiempo, alquilar es más flexible y barato",
+      "El alquiler medio en España es de 12€/m² según Idealista — un piso de 70m² cuesta unos 840€/mes, y no tienes gastos de comunidad, derramas ni IBI"
+    ],
+    "search_terms": ["house buying vs renting", "apartment keys mortgage", "real estate decision making"],
+    "category": "ahorro"
+  },
+  {
+    "id": 104,
+    "topic": "Cómo renegociar la permanencia con tu operador de telefonía y ahorrar",
+    "hook": "Tu operador te cobra de más: renegocia hoy",
+    "key_points": [
+      "Las cláusulas de permanencia en España tienen un máximo legal de 12 meses para telefonía — artículo 4.1 de la Orden ITC/1030/2007",
+      "La penalización por permanencia debe ser proporcional al descuento recibido y al tiempo restante — no puede ser abusiva según la CNMC",
+      "Truco: cuando termine tu permanencia, llama para darte de baja — el departamento de retenciones te ofrecerá un descuento del 20-40%",
+      "Si no consigues un buen precio, la portabilidad a un operador virtual se completa en 1 día y puedes ahorrar 30-50€/mes fácilmente"
+    ],
+    "search_terms": ["phone contract negotiation", "telecom customer service", "mobile plan cancel"],
+    "category": "ahorro"
+  },
+  {
+    "id": 105,
+    "topic": "Ahorrar en la vuelta al cole: 400€ de media que puedes reducir a la mitad",
+    "hook": "Vuelta al cole: 400€ que puedes reducir a 200€",
+    "key_points": [
+      "El gasto medio en la vuelta al cole en España es de 400-500€ por hijo según la OCU — entre libros, material y ropa",
+      "Los libros de texto de segunda mano cuestan un 40-60% menos — muchos colegios tienen bancos de libros o programas de reutilización",
+      "Las becas de material escolar del MEC cubren entre 105€ y 210€ por alumno según la renta — se solicitan en mayo-junio cada año",
+      "Compra el material escolar básico en septiembre y la ropa de invierno en octubre — los precios en agosto tienen un sobreprecio del 15-20% por la demanda"
+    ],
+    "search_terms": ["school supplies shopping", "back to school backpack", "children education books"],
+    "category": "ahorro"
+  },
+  {
+    "id": 106,
+    "topic": "El copago sanitario en España: cómo funciona y quién está exento",
+    "hook": "Copago sanitario: puede que estés exento y no lo sepas",
+    "key_points": [
+      "Las personas con rentas inferiores a 18.000€ y pensionistas no contributivos están exentas de copago farmacéutico — aportación del 0%",
+      "Los activos con rentas entre 18.000 y 100.000€ pagan un 40% del precio del medicamento — y un 50% si superan 100.000€",
+      "Los pensionistas con rentas inferiores a 18.000€ pagan un 10% con un tope de 8,23€/mes — no pueden gastarse más de eso",
+      "Los parados que han agotado la prestación y no tienen rentas están exentos de copago — deben acreditarlo en su tarjeta sanitaria"
+    ],
+    "search_terms": ["pharmacy prescription medicine", "healthcare system hospital", "medical copayment receipt"],
+    "category": "ahorro"
+  },
+  {
+    "id": 107,
+    "topic": "Becas y ayudas al estudio que no pides y pierdes cada año",
+    "hook": "Becas que no pides: hasta 7.000€ gratis al año",
+    "key_points": [
+      "Las becas generales del MEC para universidad van de 1.700€ a 7.000€ según renta y rendimiento académico — se piden entre marzo y mayo cada año",
+      "Para FP y bachillerato, las becas cubren entre 200€ y 2.500€ anuales según la situación familiar",
+      "Las comunidades autónomas tienen becas propias compatibles con las del MEC — muchas familias solo piden una y pierden la otra",
+      "El umbral de renta familiar para acceder a las becas del MEC es más alto de lo que la gente cree — una familia de 4 miembros con 30.000€ puede tener derecho"
+    ],
+    "search_terms": ["scholarship application student", "education grant money", "university financial aid"],
+    "category": "ahorro"
+  },
+  {
+    "id": 108,
+    "topic": "Cómo ahorrar en seguros de coche usando el historial de siniestralidad",
+    "hook": "0 accidentes: tu seguro debería bajar cada año",
+    "key_points": [
+      "El sistema de bonus-malus en España reduce tu prima un 5-15% por cada año sin siniestros — después de 5 años puedes pagar un 30-40% menos",
+      "Al cambiar de compañía, pide tu informe de siniestralidad a tu actual aseguradora — la nueva debe respetarlo y aplicar el bonus acumulado",
+      "La carta verde o informe SINCO de UNESPA recoge tu historial de siniestros — es gratuito y puedes pedirlo online",
+      "Datos del informe del sector asegurador: la prima media del seguro de coche en España bajó a 380€/año para terceros y 650€ a todo riesgo"
+    ],
+    "search_terms": ["car insurance safe driving", "accident free record", "vehicle protection policy"],
+    "category": "ahorro"
+  },
+  {
+    "id": 109,
+    "topic": "Cómo leer tu nómina: las 6 líneas que te quitan dinero",
+    "hook": "Tu nómina: 6 líneas que te quitan hasta 500€/mes",
+    "key_points": [
+      "Contingencias comunes (4,7% del bruto): cubre la baja por enfermedad común y la pensión de jubilación",
+      "Desempleo (1,55-1,60%): financia la prestación del paro — si ganas 2.000€ brutos, son 31€/mes",
+      "Formación profesional (0,1%): financia los cursos del SEPE — apenas 2€/mes pero obligatorio",
+      "IRPF: varía según tu salario, situación familiar y comunidad — de un 2% con el SMI hasta un 30%+ con salarios altos — comprueba que el porcentaje es correcto con el calculador de la AEAT"
+    ],
+    "search_terms": ["payslip deduction details", "salary breakdown chart", "employee wage calculation"],
+    "category": "ahorro"
+  },
+  {
+    "id": 110,
+    "topic": "Cómo ahorrar en la ITV de tu coche: trucos para pasarla a la primera",
+    "hook": "ITV: pásala a la primera y ahorra 50€ extra",
+    "key_points": [
+      "La ITV cuesta entre 30-60€ según comunidad autónoma — si no la pasas a la primera, la segunda inspección cuesta otros 15-30€ más",
+      "Los defectos más comunes que causan rechazo: luces fundidas (20%), neumáticos gastados (15%) y emisiones altas (12%) — todos fáciles de prevenir",
+      "Lleva el coche a la ITV a primera hora de la mañana: el motor frío emite menos gases y es más fácil pasar el test de emisiones",
+      "Circular con la ITV caducada conlleva multa de 200€ — y si tienes un accidente, el seguro puede negarse a cubrir los daños"
+    ],
+    "search_terms": ["car inspection mechanic", "vehicle test station", "automobile maintenance check"],
+    "category": "ahorro"
+  },
+  {
+    "id": 111,
+    "topic": "El poder del interés compuesto: cómo 100€/mes se convierten en 46.000€ en 20 años",
+    "hook": "100€/mes = 46.000€ en 20 años: interés compuesto",
+    "key_points": [
+      "Invirtiendo 100€/mes con un rendimiento medio del 7% anual (media histórica del IBEX/SP500), en 20 años tendrás unos 46.000€ — habiendo puesto solo 24.000€",
+      "Los 22.000€ de diferencia son puro interés compuesto — tu dinero genera dinero que a su vez genera más dinero",
+      "Empezar a los 25 en lugar de a los 35 con los mismos 100€/mes puede significar tener el DOBLE de dinero a los 65 — el tiempo es el factor más poderoso",
+      "Albert Einstein llamó al interés compuesto la octava maravilla del mundo — y Warren Buffett acumuló el 95% de su fortuna después de los 60 años gracias a él"
+    ],
+    "search_terms": ["compound interest growth", "investment snowball effect", "money multiplication chart"],
+    "category": "ahorro"
+  },
+  {
+    "id": 112,
+    "topic": "Cómo reclamar cargos bancarios indebidos y recuperar tu dinero",
+    "hook": "Tu banco te cobra de más: reclama y recupera",
+    "key_points": [
+      "Las comisiones de mantenimiento de cuenta, tarjeta y transferencias deben estar en el contrato que firmaste — si no, son ilegales",
+      "El primer paso es reclamar al Servicio de Atención al Cliente del banco — tiene 15 días hábiles para responder según la Orden ECO/734/2004",
+      "Si no te responden o no te dan la razón, reclama al Banco de España (Departamento de Conducta) — es gratuito y online",
+      "Comisiones habituales que puedes reclamar: cobro por ingreso en ventanilla en cuenta propia, comisión por descubierto sin haberlo pactado, cobro de seguro no solicitado"
+    ],
+    "search_terms": ["bank fee complaint", "financial claim letter", "money refund receipt"],
+    "category": "ahorro"
+  },
+  {
+    "id": 113,
+    "topic": "Ayudas al alquiler para jóvenes menores de 35 años: bono joven de vivienda",
+    "hook": "Menor de 35? Ayuda al alquiler de 250€/mes",
+    "key_points": [
+      "El bono joven de vivienda es una ayuda de 250€/mes para jóvenes de 18 a 35 años con ingresos inferiores a 23.725,80€ brutos/año (3x IPREM)",
+      "La duración es de 2 años y el alquiler máximo debe ser de 600€/mes (puede subir a 900€ en zonas tensionadas según CCAA)",
+      "Se solicita en la comunidad autónoma donde resides — cada una gestiona los plazos y la tramitación",
+      "Es compatible con otras ayudas autonómicas al alquiler — pero no con la deducción estatal por alquiler del régimen transitorio"
+    ],
+    "search_terms": ["young tenant apartment", "rental subsidy housing", "youth housing government aid"],
+    "category": "ahorro"
+  },
+  {
+    "id": 114,
+    "topic": "Cómo ahorrar en la factura del agua: 200€ menos al año con hábitos simples",
+    "hook": "200€ menos en agua al año: estos hábitos bastan",
+    "key_points": [
+      "El consumo medio de agua en España es de 130 litros/persona/día según el INE — con perlizadores en grifos puedes reducirlo un 40-50% sin notar diferencia",
+      "Una ducha de 5 minutos gasta 50 litros — un baño de bañera gasta 200 litros — cambiar a ducha ahorra 150 litros diarios por persona",
+      "Un inodoro de doble pulsador ahorra 6-8 litros por descarga respecto a uno convencional — son unos 30-40 litros/día por persona",
+      "La tarifa del agua tiene tramos progresivos en la mayoría de municipios — cuanto más consumes, más caro es cada litro adicional"
+    ],
+    "search_terms": ["water faucet dripping", "bathroom shower saving", "water bill reduction"],
+    "category": "ahorro"
+  },
+  {
+    "id": 115,
+    "topic": "Compras inteligentes: cómo usar la regla de las 72 horas contra el gasto impulsivo",
+    "hook": "72 horas antes de comprar: ahorras un 30%",
+    "key_points": [
+      "La regla de las 72 horas: antes de cualquier compra no esencial superior a 50€, espera 3 días — el 70% de las veces decidirás no comprar",
+      "El gasto impulsivo medio de los españoles es de 135€/mes según un estudio de Cetelem — 1.620€ al año que podrías ahorrar o invertir",
+      "Las tiendas online usan técnicas de urgencia (últimas unidades, oferta 24h) para forzar decisiones rápidas — la espera anula ese efecto",
+      "Aplica la regla del coste en horas: si ganas 10€/hora netos y algo cuesta 200€, te preguntas si vale 20 horas de tu vida trabajando"
+    ],
+    "search_terms": ["impulse shopping resist", "waiting thinking decision", "smart consumer shopping"],
+    "category": "ahorro"
+  },
+  {
+    "id": 116,
+    "topic": "Cómo ahorrar en Navidad: el gasto medio es de 630€ y se puede reducir un 50%",
+    "hook": "Navidad: de 630€ a 300€ sin perder la magia",
+    "key_points": [
+      "El gasto medio navideño en España es de 630€ por hogar según un estudio de Deloitte — comida (40%), regalos (35%) y ocio (25%)",
+      "El amigo invisible con tope de 15-20€ entre adultos reduce el gasto en regalos un 60-70% respecto a regalar a todos",
+      "Compra los regalos de Navidad en noviembre: los precios en diciembre suben un 10-15% por la demanda según la OCU",
+      "La cena de Nochebuena se puede hacer por 15-20€ por persona cocinando en casa — frente a 50-80€ en restaurante"
+    ],
+    "search_terms": ["christmas budget saving", "holiday gift shopping", "festive dinner table"],
+    "category": "ahorro"
+  },
+  {
+    "id": 117,
+    "topic": "Letras del Tesoro: cómo invertir desde 1.000€ con la garantía del Estado español",
+    "hook": "Letras del Tesoro: 3% con garantía del Estado",
+    "key_points": [
+      "Las Letras del Tesoro se emiten a 3, 6, 9 y 12 meses — la inversión mínima es 1.000€ y se pueden comprar sin comisión en el Banco de España",
+      "En 2024-2025 ofrecieron rendimientos del 2,5-3,5% TAE — superiores a la mayoría de depósitos bancarios",
+      "Están garantizadas por el Estado español y son consideradas una de las inversiones más seguras de Europa",
+      "Los intereses tributan en la base del ahorro del IRPF al 19-28% — pero no tienen retención en origen, así que hay que declararlos en la renta"
+    ],
+    "search_terms": ["government bonds investment", "treasury bills purchase", "safe savings certificate"],
+    "category": "ahorro"
+  },
+  {
+    "id": 118,
+    "topic": "Cómo reclamar las cláusulas abusivas de tu hipoteca y recuperar dinero",
+    "hook": "Tu hipoteca tiene cláusulas abusivas: reclama ya",
+    "key_points": [
+      "La cláusula suelo fue declarada abusiva por el TJUE en 2016 — si la tuviste, puedes reclamar la devolución de todo lo pagado de más con intereses",
+      "Los gastos de hipoteca (notaría, registro, gestoría, tasación) eran abusivos si los pagaste todos tú — según STS 44/2019 y posteriores, el banco debe pagar la mitad de notaría y todo el registro y gestoría",
+      "La comisión de apertura fue declarada conforme por el TJUE en 2023 (asunto C-565/21) — pero si no se informó correctamente, puede seguir siendo reclamable",
+      "El plazo para reclamar cláusulas abusivas NO prescribe según el TJUE — pero es mejor hacerlo cuanto antes"
+    ],
+    "search_terms": ["mortgage contract review", "housing loan reclaim", "bank complaint consumer"],
+    "category": "ahorro"
+  },
+  {
+    "id": 119,
+    "topic": "Ayudas por nacimiento de hijo en España: cheque bebé y deducciones por CCAA",
+    "hook": "Hijo nuevo: hasta 3.000€ en ayudas según tu CCAA",
+    "key_points": [
+      "La prestación por nacimiento y cuidado del menor de la Seguridad Social cubre 16 semanas al 100% de la base reguladora — para ambos progenitores",
+      "Muchas CCAA dan ayudas directas: Galicia 1.000€ por primer hijo, Madrid deducción de 600€ en IRPF, Cataluña 650€ por familias monoparentales",
+      "A nivel estatal: deducción por maternidad de 1.200€/año (100€/mes) por madre trabajadora con hijos menores de 3 años — artículo 81 Ley IRPF",
+      "El complemento de ayuda a la infancia del Ingreso Mínimo Vital: 115€/mes por menor de 3 años, 80,50€ de 3 a 6 años, 57,50€ de 6 a 18 años"
+    ],
+    "search_terms": ["newborn baby family", "child benefit government", "parenthood financial support"],
+    "category": "ahorro"
+  },
+  {
+    "id": 120,
+    "topic": "Cómo planificar la jubilación desde los 30: la regla del 25x gastos anuales",
+    "hook": "Jubilarte libre: necesitas 25 veces tus gastos anuales",
+    "key_points": [
+      "La regla del 25x: si tus gastos anuales son 20.000€, necesitas 500.000€ invertidos para vivir de las rentas retirando un 4% anual (Trinity Study)",
+      "La pensión media de jubilación en España es de 1.445€/mes según datos de la Seguridad Social — pero la pensión mínima con cónyuge a cargo es de solo 966€/mes",
+      "La edad de jubilación ordinaria en 2025 es de 65 años con 37 años y 9 meses cotizados — o 66 años y 8 meses con menos cotización",
+      "Empezar a invertir 200€/mes a los 30 años con un rendimiento del 7% anual da unos 380.000€ a los 65 — empezar a los 40 da solo 160.000€"
+    ],
+    "search_terms": ["retirement planning calculator", "elderly couple freedom", "future savings investment"],
+    "category": "ahorro"
+  }
+]

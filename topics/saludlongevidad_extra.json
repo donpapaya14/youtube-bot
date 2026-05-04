@@ -1,0 +1,1962 @@
+[
+  {
+    "id": 121,
+    "topic": "Sirtuinas: las 7 proteinas que regulan tu envejecimiento",
+    "hook": "Tienes 7 genes anti-envejecimiento dormidos",
+    "key_points": ["Las sirtuinas (SIRT1-7) regulan reparacion de ADN y metabolismo (Nature Reviews Molecular Cell Biology, 2012)", "SIRT1 activa autofagia y reduce inflamacion cronica asociada a la edad", "SIRT3 protege las mitocondrias del estres oxidativo (Cell Metabolism, 2010)", "NAD+ es cofactor esencial de todas las sirtuinas, y declina 50% entre los 40 y 60 anios"],
+    "search_terms": ["science laboratory research", "DNA molecule close up", "aging biology cells"],
+    "category": "antiaging"
+  },
+  {
+    "id": 122,
+    "topic": "Autofagia: como tu cuerpo recicla celulas danadas",
+    "hook": "Tu cuerpo se come a si mismo",
+    "key_points": ["Yoshinori Ohsumi gano Nobel 2016 por descubrir mecanismos de autofagia", "La autofagia elimina proteinas mal plegadas y orgánulos danados (Nature, 2012)", "Se activa con restriccion calorica, ejercicio intenso y ayuno prolongado >24h", "Defectos en autofagia se asocian a Alzheimer, Parkinson y cancer (The Lancet Neurology, 2015)"],
+    "search_terms": ["cell biology microscope", "recycling nature concept", "laboratory research science"],
+    "category": "antiaging"
+  },
+  {
+    "id": 123,
+    "topic": "Senescencia celular: las celulas zombi que te envejecen",
+    "hook": "Celulas zombi envenenan tu cuerpo ahora",
+    "key_points": ["Celulas senescentes dejan de dividirse pero no mueren, secretan SASP inflamatorio (Nature, 2019)", "Se acumulan exponencialmente despues de los 40 anios en tejidos clave", "Senoliticos como dasatinib+quercetina eliminan celulas senescentes en ratones (Nature Medicine, 2018)", "Eliminar solo 30% de celulas senescentes extendio vida util 36% en ratones (Cell, 2016)"],
+    "search_terms": ["old cells microscope biology", "zombie concept dark", "aging skin close up"],
+    "category": "antiaging"
+  },
+  {
+    "id": 124,
+    "topic": "Reloj epigenetico de Horvath: tu edad biologica real",
+    "hook": "Tu DNI miente sobre tu edad real",
+    "key_points": ["Steve Horvath desarrollo en 2013 un reloj basado en metilacion de 353 sitios CpG del ADN (Genome Biology, 2013)", "Puede predecir mortalidad mejor que la edad cronologica (Nature, 2018)", "La diferencia entre edad biologica y cronologica se llama aceleracion epigenetica", "Dieta mediterranea, ejercicio y sueno reducen la edad epigenetica hasta 3 anios (Clinical Epigenetics, 2021)"],
+    "search_terms": ["DNA test laboratory", "clock time concept", "biological age research"],
+    "category": "antiaging"
+  },
+  {
+    "id": 125,
+    "topic": "Rapamicina: el farmaco que extiende la vida en ratones",
+    "hook": "Un farmaco extiende la vida 25 porciento",
+    "key_points": ["Descubierta en Isla de Pascua, inhibe mTOR y activa autofagia (Nature, 2009)", "Extendio vida de ratones hasta 26% en hembras y 9% en machos (Nature, 2009)", "mTOR es sensor de nutrientes que cuando se sobreactiva acelera envejecimiento", "Ensayos clinicos PEARL y AgelessRx investigan dosis bajas en humanos (The Lancet Healthy Longevity, 2023)"],
+    "search_terms": ["pharmaceutical pills research", "easter island landscape", "laboratory medicine science"],
+    "category": "suplementos"
+  },
+  {
+    "id": 126,
+    "topic": "Metformina como anti-aging: que dice la ciencia real",
+    "hook": "Un farmaco de diabetes retrasa envejecimiento",
+    "key_points": ["Estudio TAME (Targeting Aging with Metformin) es el primer ensayo clinico anti-aging aprobado por FDA", "Diabeticos con metformina viven mas que no-diabeticos sin ella (Diabetes, Obesity and Metabolism, 2014)", "Activa AMPK, reduce inflamacion cronica y mejora sensibilidad a insulina", "Puede reducir riesgo de cancer, cardiovascular y neurodegeneracion segun meta-analisis (The Lancet Diabetes, 2022)"],
+    "search_terms": ["medicine pills white", "diabetes research lab", "aging science concept"],
+    "category": "suplementos"
+  },
+  {
+    "id": 127,
+    "topic": "CRISPR y longevidad: editar genes para vivir mas",
+    "hook": "Editar tu ADN para no envejecer",
+    "key_points": ["CRISPR-Cas9 ha revertido progeria en ratones restaurando lamin A normal (Nature, 2019)", "Investigadores de Salk Institute usaron CRISPR para reprogramar celulas envejecidas (Cell, 2020)", "Terapia genica con telomerasa via CRISPR extendio telomeros en celulas humanas in vitro", "Riesgos: ediciones off-target y debates eticos limitan aplicacion humana (Science, 2023)"],
+    "search_terms": ["DNA editing laboratory", "gene therapy science", "futuristic medicine concept"],
+    "category": "antiaging"
+  },
+  {
+    "id": 128,
+    "topic": "Restriccion calorica: 20% menos calorias y vives mas",
+    "hook": "Comer menos activa genes de longevidad",
+    "key_points": ["Estudio CALERIE demostro que 25% restriccion calorica reduce marcadores de envejecimiento en humanos (The Lancet Diabetes, 2019)", "Monos rhesus con restriccion calorica vivieron 30% mas en estudio de 20 anios (Nature Communications, 2017)", "Reduce IGF-1, insulina y marcadores inflamatorios como PCR y TNF-alfa", "No es pasar hambre: es nutricion optima con menos calorias totales"],
+    "search_terms": ["healthy small portion food", "calorie counting concept", "longevity science research"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 129,
+    "topic": "Mitocondrias: las baterias de tus celulas se agotan",
+    "hook": "Tus baterias celulares mueren cada dia mas",
+    "key_points": ["Disfuncion mitocondrial es uno de los 9 hallmarks del envejecimiento (Cell, 2013)", "Mitocondrias generan 90% del ATP celular pero producen radicales libres como subproducto", "Ejercicio de alta intensidad estimula biogenesis mitocondrial via PGC-1alfa (Cell Metabolism, 2017)", "CoQ10 y PQQ mejoran funcion mitocondrial en estudios preclínicos (Nature Reviews Drug Discovery, 2020)"],
+    "search_terms": ["mitochondria cell biology", "energy power concept", "exercise intense workout"],
+    "category": "antiaging"
+  },
+  {
+    "id": 130,
+    "topic": "Proteinas de choque termico: estres que te fortalece",
+    "hook": "El calor extremo activa tu supervivencia",
+    "key_points": ["HSP70 y HSP90 reparan proteinas danadas y previenen agregacion toxica (Nature Reviews Molecular Cell Biology, 2010)", "Sauna a 80C durante 20 min aumenta HSP70 un 50% (Journal of Applied Physiology, 2015)", "HSPs protegen contra neurodegeneracion, especialmente Alzheimer y Parkinson", "Exposicion regular al calor reduce mortalidad cardiovascular 40% segun estudio finlandes de 20 anios (JAMA Internal Medicine, 2015)"],
+    "search_terms": ["sauna steam heat", "protein molecule science", "heat therapy wellness"],
+    "category": "longevidad"
+  },
+  {
+    "id": 131,
+    "topic": "Hormesis: dosis pequenas de estres te hacen mas fuerte",
+    "hook": "Lo que no te mata te rejuvenece",
+    "key_points": ["Hormesis es respuesta adaptativa donde estres leve activa mecanismos de reparacion (Science, 2014)", "Ejercicio, ayuno, frio y calor son hormticos que activan NRF2 y FOXO3", "FOXO3 es gen asociado a centenarios en multiples poblaciones (PNAS, 2008)", "Dosis importa: poco estres activa defensa, demasiado causa dano oxidativo irreversible"],
+    "search_terms": ["cold water plunge", "stress resilience concept", "strength training intense"],
+    "category": "longevidad"
+  },
+  {
+    "id": 132,
+    "topic": "Sauna infrarroja vs finlandesa: cual es mejor para longevidad",
+    "hook": "Un tipo de sauna gana en longevidad",
+    "key_points": ["Sauna finlandesa a 80-100C activa HSPs y vasodilatacion profunda (European Journal of Epidemiology, 2018)", "Sauna infrarroja penetra 3-4 cm en tejido a temperaturas mas bajas (50-60C)", "4-7 sesiones semanales de sauna reducen mortalidad por todas las causas 40% (JAMA Internal Medicine, 2015)", "Infrarroja puede ser mejor para dolor cronico y detox; finlandesa para cardiovascular"],
+    "search_terms": ["infrared sauna therapy", "finnish sauna wood", "heat wellness spa"],
+    "category": "longevidad"
+  },
+  {
+    "id": 133,
+    "topic": "Crioterapia: el frio extremo activa grasa parda",
+    "hook": "Frio extremo quema grasa sin ejercicio",
+    "key_points": ["Exposicion al frio activa termogenesis en tejido adiposo marron (BAT) via UCP1 (NEJM, 2009)", "BAT quema glucosa y acidos grasos para generar calor, mejorando metabolismo", "Crioterapia reduce IL-6 y TNF-alfa, marcadores inflamatorios clave (PLOS ONE, 2017)", "Duchas frias de 30 segundos redujeron dias de enfermedad 29% en estudio holandes (PLOS ONE, 2016)"],
+    "search_terms": ["ice bath cold therapy", "cryotherapy chamber", "cold water swimming"],
+    "category": "longevidad"
+  },
+  {
+    "id": 134,
+    "topic": "Neurogénesis adulta: tu cerebro crea neuronas nuevas",
+    "hook": "Tu cerebro fabrica neuronas a cualquier edad",
+    "key_points": ["Hipocampo genera neuronas nuevas toda la vida via celulas madre neurales (Cell Stem Cell, 2018)", "Ejercicio aerobico aumenta BDNF y neurogénesis hipocampal 200% en ratones (Nature Neuroscience, 2016)", "Aprendizaje, meditacion y omega-3 DHA promueven supervivencia de nuevas neuronas", "Estres cronico y cortisol elevado suprimen neurogénesis (PNAS, 2011)"],
+    "search_terms": ["brain neurons science", "brain cells glowing", "neuroscience research lab"],
+    "category": "longevidad"
+  },
+  {
+    "id": 135,
+    "topic": "Plasticidad sinaptica: tu cerebro se recablea cada dia",
+    "hook": "Tu cerebro cambia su cableado constantemente",
+    "key_points": ["LTP (potenciacion a largo plazo) fortalece conexiones sinapticas usadas frecuentemente (Nature Reviews Neuroscience, 2008)", "Aprender un idioma o instrumento musical aumenta materia gris en areas especificas", "Sueno REM consolida plasticidad sinaptica y elimina sinapsis debiles (Science, 2017)", "Ejercicio regular aumenta expresion de BDNF, factor clave para plasticidad (Cell Metabolism, 2016)"],
+    "search_terms": ["brain synapse connections", "neural network glow", "learning studying concept"],
+    "category": "longevidad"
+  },
+  {
+    "id": 136,
+    "topic": "Omega-3 DHA: el acido graso que protege tu cerebro",
+    "hook": "Este acido graso previene demencia senil",
+    "key_points": ["DHA constituye 40% de los acidos grasos polinsaturados del cerebro (Nature Reviews Neuroscience, 2014)", "Suplementacion con DHA reduce riesgo de Alzheimer 36% en portadores APOE4 (JAMA Neurology, 2022)", "Indice omega-3 >8% asociado a 5 anios menos de edad cerebral (Neurology, 2022)", "Fuentes: pescado azul, algas (veganos), suplementos minimo 1g DHA/dia"],
+    "search_terms": ["fish oil capsules", "brain health concept", "salmon omega fatty fish"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 137,
+    "topic": "Polifenoles: los compuestos vegetales anti-envejecimiento",
+    "hook": "Plantas producen moleculas que te rejuvenecen",
+    "key_points": ["Polifenoles activan sirtuinas y NRF2, vias maestras anti-envejecimiento (Free Radical Biology and Medicine, 2018)", "Cacao rico en flavanoles mejora flujo sanguineo cerebral 10% (Scientific Reports, 2020)", "Quercetina es senolitico natural que elimina celulas zombi (Nature Medicine, 2018)", "Dieta rica en polifenoles reduce mortalidad por todas las causas 30% (The Journal of Nutrition, 2013)"],
+    "search_terms": ["colorful berries fruits", "plant compounds science", "dark chocolate cacao"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 138,
+    "topic": "Resveratrol: la verdad detras del antioxidante de la uva",
+    "hook": "El antioxidante del vino tiene trampa",
+    "key_points": ["Resveratrol activa SIRT1 en concentraciones de laboratorio pero biodisponibilidad oral es <1% (Nature, 2006)", "Necesitarias 1000 botellas de vino diarias para la dosis efectiva en ratones", "Estudios en humanos muestran resultados mixtos: mejora flujo sanguineo pero no extiende vida (JAMA Internal Medicine, 2014)", "Formas liposomales y trans-resveratrol mejoran absorcion 5-8 veces"],
+    "search_terms": ["red wine grapes", "antioxidant supplement pills", "laboratory research molecules"],
+    "category": "suplementos"
+  },
+  {
+    "id": 139,
+    "topic": "Curcumina biodisponibilidad: por que la curcuma sola no funciona",
+    "hook": "Tomas curcuma mal y no te sirve",
+    "key_points": ["Curcumina tiene biodisponibilidad oral de solo 1% sin potenciadores (Planta Medica, 2016)", "Piperina (pimienta negra) aumenta absorcion 2000% inhibiendo glucuronidacion hepatica (Planta Medica, 1998)", "Formas liposomales y nanoparticulas mejoran biodisponibilidad hasta 185 veces", "Curcumina reduce NF-kB, master switch de inflamacion cronica (The Lancet Oncology, 2005)"],
+    "search_terms": ["turmeric golden spice", "black pepper piperine", "anti inflammatory supplement"],
+    "category": "suplementos"
+  },
+  {
+    "id": 140,
+    "topic": "Magnesio: 7 formas y solo 2 funcionan para el cerebro",
+    "hook": "La mayoria del magnesio no llega al cerebro",
+    "key_points": ["Magnesio L-treonato es la unica forma que cruza barrera hematoencefalica eficientemente (Neuron, 2010)", "Mejora memoria y plasticidad sinaptica aumentando densidad de sinapsis en hipocampo", "80% de la poblacion es deficiente en magnesio segun NHANES (Journal of the American College of Nutrition, 2017)", "Glicinato para sueno, treonato para cerebro, taurato para corazon: cada forma tiene su funcion"],
+    "search_terms": ["magnesium supplement capsules", "brain health minerals", "sleep wellness night"],
+    "category": "suplementos"
+  },
+  {
+    "id": 141,
+    "topic": "Zinc e inmunidad: la dosis exacta que necesitas",
+    "hook": "Demasiado zinc destruye tu sistema inmune",
+    "key_points": ["Zinc es cofactor de >300 enzimas y esencial para funcion de celulas T (Nature Reviews Immunology, 2017)", "Deficiencia afecta al 17% de la poblacion mundial y aumenta infecciones 2-3 veces", "Dosis optima: 15-30mg/dia; >40mg causa deficiencia de cobre y inmunodepresion (NEJM, 2003)", "Formas queladas (picolinato, bisglicinato) se absorben 40% mejor que oxido de zinc"],
+    "search_terms": ["zinc supplement mineral", "immune system cells", "vitamins minerals health"],
+    "category": "suplementos"
+  },
+  {
+    "id": 142,
+    "topic": "Berberina: el farmaco natural que rivaliza con metformina",
+    "hook": "Una planta funciona como un farmaco caro",
+    "key_points": ["Berberina reduce glucosa en sangre comparable a metformina segun meta-analisis (Journal of Clinical Endocrinology and Metabolism, 2015)", "Activa AMPK, el sensor energetico celular maestro, igual que el ejercicio", "Reduce colesterol LDL 20-30% y trigliceridos 35% (Metabolism, 2017)", "Biodisponibilidad baja (<5%), pero metabolitos activos tienen vida media larga"],
+    "search_terms": ["berberine supplement natural", "blood sugar test glucose", "herbal medicine plant"],
+    "category": "suplementos"
+  },
+  {
+    "id": 143,
+    "topic": "Ashwagandha: que dice la ciencia sobre adaptogenos",
+    "hook": "Este adaptogeno tiene 8 estudios clinicos serios",
+    "key_points": ["Reduce cortisol 30% en adultos estresados en ensayo doble ciego (Journal of the American Nutraceutical Association, 2008)", "Witanolidos aumentan actividad de celulas NK (inmunidad) 42% (JAIM, 2012)", "Mejora testosterona y fertilidad masculina segun meta-analisis (Phytotherapy Research, 2019)", "Dosis efectiva: 300-600mg de extracto estandarizado KSM-66 diario"],
+    "search_terms": ["ashwagandha plant herb", "stress relief wellness", "adaptogen supplement natural"],
+    "category": "suplementos"
+  },
+  {
+    "id": 144,
+    "topic": "Creatina cerebral: no solo para musculos",
+    "hook": "La creatina mejora tu inteligencia ahora",
+    "key_points": ["Cerebro consume 20% del ATP corporal y creatina es reserva energetica clave (PNAS, 2018)", "Suplementacion mejora memoria de trabajo y razonamiento en vegetarianos 15% (British Journal of Nutrition, 2011)", "5g/dia durante 6 semanas mejoro rendimiento cognitivo bajo privacion de sueno (Psychopharmacology, 2006)", "Es el suplemento con mas evidencia cientifica en la historia del deporte (ISSN Position Stand, 2017)"],
+    "search_terms": ["creatine supplement powder", "brain cognitive function", "mental performance focus"],
+    "category": "suplementos"
+  },
+  {
+    "id": 145,
+    "topic": "Peptidos bioactivos: la nueva frontera anti-aging",
+    "hook": "Moleculas diminutas revierten tu envejecimiento",
+    "key_points": ["BPC-157 acelera curacion de tendones, ligamentos y mucosa gastrica en estudios animales (Journal of Physiology, 2018)", "Epitalon (epithalamion) activa telomerasa en cultivos celulares humanos (Bulletin of Experimental Biology and Medicine, 2003)", "GHK-Cu estimula produccion de colageno y reduce arrugas 50% en estudios topicos (Skin Pharmacology, 2015)", "Regulacion variable: muchos peptidos en zona gris legal, investigacion aun preclínica"],
+    "search_terms": ["peptide molecule science", "anti aging skincare", "laboratory research biotechnology"],
+    "category": "antiaging"
+  },
+  {
+    "id": 146,
+    "topic": "Luz roja terapia: fotobiomodulacion y tus mitocondrias",
+    "hook": "Luz roja repara tus celulas sin medicinas",
+    "key_points": ["Luz roja 630-670nm y NIR 810-850nm estimulan citocromo c oxidasa en mitocondrias (Photomedicine and Laser Surgery, 2019)", "Aumenta produccion de ATP 50% y reduce estres oxidativo intracelular", "Mejora cicatrizacion, reduce inflamacion articular y aumenta colageno (The Lancet, 2009 meta-analisis)", "Protocolos: 10-20 min/dia a 15-30cm de distancia, 3-5 veces por semana"],
+    "search_terms": ["red light therapy device", "LED therapy skin", "phototherapy treatment science"],
+    "category": "antiaging"
+  },
+  {
+    "id": 147,
+    "topic": "Cronobiologia: tu reloj interno controla cada organo",
+    "hook": "Cada organo tiene su propio reloj interno",
+    "key_points": ["Premio Nobel 2017 para Hall, Rosbash y Young por descubrir genes reloj (CLOCK, BMAL1, PER, CRY)", "Cada celula tiene reloj circadiano autonomo sincronizado por luz y comida", "Desalineacion circadiana aumenta riesgo de cancer 30% en trabajadores nocturnos (The Lancet Oncology, 2019)", "Higado, pancreas y corazon tienen picos de actividad en horarios especificos"],
+    "search_terms": ["biological clock concept", "circadian rhythm science", "body clock time health"],
+    "category": "sueño_ciencia"
+  },
+  {
+    "id": 148,
+    "topic": "Ritmo circadiano: como la luz artificial te envejece",
+    "hook": "La luz de tu movil te envejece",
+    "key_points": ["Luz azul (450-490nm) suprime melatonina 50% si se recibe 2h antes de dormir (PNAS, 2014)", "Disrupcion circadiana cronica acelera envejecimiento epigenetico 5+ anios (Nature Aging, 2022)", "Melanopsina en celulas ganglionares retinianas es el sensor principal de luz ambiental", "Solucion: modo noche, luces ambar despues de las 8pm, luz brillante matutina"],
+    "search_terms": ["phone blue light night", "sleep disruption screen", "circadian rhythm light"],
+    "category": "sueño_ciencia"
+  },
+  {
+    "id": 149,
+    "topic": "Exposicion solar calculada: vitamina D sin dano",
+    "hook": "10 minutos de sol cambian toda tu biologia",
+    "key_points": ["10-15 min de sol mediodia sin proteccion generan 10000-20000 UI de vitamina D3 (Dermato-Endocrinology, 2013)", "Exposicion solar libera oxido nitrico que reduce presion arterial (Journal of Investigative Dermatology, 2014)", "UV moderado activa beta-endorfinas con efecto analgesico y antidepresivo", "Indice UV, fototipo y latitud determinan tu dosis optima personalizada"],
+    "search_terms": ["sunlight morning golden", "vitamin D sunshine", "sun exposure healthy"],
+    "category": "longevidad"
+  },
+  {
+    "id": 150,
+    "topic": "Epigenetica: tus habitos encienden y apagan genes",
+    "hook": "Tus habitos cambian la expresion de tu ADN",
+    "key_points": ["Metilacion del ADN silencia genes sin cambiar la secuencia (Nature, 2007)", "Ejercicio cambia metilacion de >7000 genes en musculo esqueletico en 3 meses (Epigenetics, 2015)", "Dieta, estres y toxinas ambientales alteran marcas epigeneticas que se heredan transgeneracionalmente", "Hambruna holandesa 1944 mostro cambios epigeneticos en nietos de supervivientes (PNAS, 2008)"],
+    "search_terms": ["DNA epigenetics science", "gene expression concept", "lifestyle health choices"],
+    "category": "antiaging"
+  },
+  {
+    "id": 151,
+    "topic": "mTOR: el interruptor maestro entre crecer y reparar",
+    "hook": "Una proteina decide si envejeces o rejuveneces",
+    "key_points": ["mTOR (mammalian target of rapamycin) es sensor de aminoacidos y energia celular (Cell, 2012)", "mTOR activo = crecimiento y sintesis proteica; inhibido = autofagia y reparacion", "Sobreactivacion cronica de mTOR por exceso proteico acelera envejecimiento", "Ciclar entre periodos de alta proteina (mTOR) y restriccion (autofagia) puede optimizar longevidad"],
+    "search_terms": ["protein cell biology", "molecular switch concept", "cell repair science"],
+    "category": "antiaging"
+  },
+  {
+    "id": 152,
+    "topic": "AMPK: el sensor de energia que activa la longevidad",
+    "hook": "Una enzima detecta si tu celula necesita ayuda",
+    "key_points": ["AMPK se activa cuando la relacion AMP/ATP aumenta (baja energia celular) (Nature Reviews Molecular Cell Biology, 2012)", "Ejercicio, ayuno y frio activan AMPK de forma natural", "AMPK estimula oxidacion de acidos grasos, autofagia y biogenesis mitocondrial", "Metformina y berberina son activadores farmacologicos de AMPK en uso clinico"],
+    "search_terms": ["energy cell metabolism", "enzyme molecule science", "exercise cellular biology"],
+    "category": "antiaging"
+  },
+  {
+    "id": 153,
+    "topic": "FOXO3: el gen de los centenarios confirmado",
+    "hook": "Un gen predice si llegaras a 100 anios",
+    "key_points": ["Variante rs2802292 de FOXO3 asociada a longevidad en >10 poblaciones distintas (PNAS, 2008)", "FOXO3 activa genes de reparacion de ADN, autofagia y defensa antioxidante", "Se activa con restriccion calorica, ejercicio y estres termico moderado", "Estudio de centenarios de Okinawa mostro 3x mayor frecuencia del alelo protector (Science, 2008)"],
+    "search_terms": ["centenarian elderly healthy", "DNA genetics research", "longevity gene science"],
+    "category": "longevidad"
+  },
+  {
+    "id": 154,
+    "topic": "Glicacion avanzada: los AGEs que caramelizan tus tejidos",
+    "hook": "Tu cuerpo se carameliza por dentro literalmente",
+    "key_points": ["AGEs (productos de glicacion avanzada) se forman cuando azucares reaccionan con proteinas (NEJM, 2003)", "Cocinar a alta temperatura (fritura, parrilla) genera AGEs exogenos que se absorben 10%", "AGEs rigidizan colageno, danando arterias, riñones y piel (Diabetes Care, 2011)", "Coccion lenta, vapor y acidos (limon, vinagre) reducen formacion de AGEs hasta 50%"],
+    "search_terms": ["grilled food cooking", "sugar molecule chemistry", "skin aging collagen"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 155,
+    "topic": "Spermidina: el compuesto que activa autofagia naturalmente",
+    "hook": "Un compuesto del queso activa autofagia celular",
+    "key_points": ["Spermidina induce autofagia via inhibicion de acetiltransferasa EP300 (Nature Cell Biology, 2018)", "Asociada a 5+ anios mas de vida en estudio epidemiologico de 20 anios (American Journal of Clinical Nutrition, 2018)", "Fuentes alimentarias: queso curado, soja, germen de trigo, hongos shiitake", "Ensayo clinico SmartAge mostro mejora de memoria en adultos mayores con 1.2mg/dia (Cortex, 2021)"],
+    "search_terms": ["aged cheese nutrition", "autophagy cell biology", "healthy aging food"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 156,
+    "topic": "Klotho: la hormona anti-envejecimiento que pierdes con la edad",
+    "hook": "Pierdes esta hormona anti-envejecimiento cada anio",
+    "key_points": ["Klotho descubierta en 1997 nombrada por la diosa griega del destino (Nature, 1997)", "Niveles de Klotho caen 50% entre los 40 y 70 anios", "Inyeccion de Klotho mejoro cognicion en ratones viejos en una sola dosis (Cell Reports, 2023)", "Ejercicio aerobico aumenta Klotho circulante 20-30% (European Journal of Applied Physiology, 2019)"],
+    "search_terms": ["hormone molecule science", "anti aging biology", "exercise aerobic running"],
+    "category": "antiaging"
+  },
+  {
+    "id": 157,
+    "topic": "GDF11: la proteina del raton joven que rejuvenece al viejo",
+    "hook": "Sangre joven rejuvenece un cerebro viejo",
+    "key_points": ["Parabiosis: conectar circulacion de raton joven a viejo rejuvenece cerebro y musculos (Science, 2014)", "GDF11 identificado como factor clave que declina con edad (Cell, 2013)", "Altos niveles de GDF11 regeneran vasos sanguineos y neuronas en ratones viejos", "Controversia: otros laboratorios no replicaron completamente resultados (Cell Metabolism, 2015)"],
+    "search_terms": ["blood research laboratory", "young old age comparison", "rejuvenation science concept"],
+    "category": "antiaging"
+  },
+  {
+    "id": 158,
+    "topic": "Yamanaka factors: reprogramar celulas viejas a jovenes",
+    "hook": "4 genes convierten celulas viejas en jovenes",
+    "key_points": ["Shinya Yamanaka gano Nobel 2012 por reprogramar celulas adultas a pluripotentes con Oct4, Sox2, Klf4, c-Myc", "Reprogramacion parcial rejuvenece celulas sin convertirlas en madre (Nature Aging, 2023)", "Altos Research de Jeff Bezos y Calico de Google investigan reprogramacion celular humana", "Riesgo: reprogramacion excesiva puede causar teratomas (tumores) (Cell Stem Cell, 2020)"],
+    "search_terms": ["stem cells research", "cell reprogramming laboratory", "biotechnology future concept"],
+    "category": "antiaging"
+  },
+  {
+    "id": 159,
+    "topic": "Exosomas: los mensajeros celulares anti-envejecimiento",
+    "hook": "Vesiculas nanometricas reparan tejido envejecido",
+    "key_points": ["Exosomas son vesiculas de 30-150nm que transportan proteinas, ARN y lipidos entre celulas (Nature Reviews Molecular Cell Biology, 2019)", "Exosomas de celulas madre mesenquimales reducen fibrosis y regeneran tejidos in vivo", "Pueden cruzar barrera hematoencefalica transportando cargo terapeutico al cerebro", "FDA aun no aprueba terapias con exosomas pero hay >100 ensayos clinicos activos"],
+    "search_terms": ["exosome vesicle science", "nanoparticle cell biology", "regenerative medicine lab"],
+    "category": "antiaging"
+  },
+  {
+    "id": 160,
+    "topic": "Acido alfa-cetoglutarico: el metabolito que rejuvenece ratones 10%",
+    "hook": "Un metabolito extiende vida util 10 porciento",
+    "key_points": ["aKG es intermediario del ciclo de Krebs que declina con la edad (Cell Metabolism, 2020)", "Suplementacion con CaAKG extendio vida de ratones hembra 12% y redujo fragilidad (Cell Metabolism, 2020)", "Reduce edad biologica medida por reloj epigenetico en humanos (Aging, 2021)", "Rejuvenio es el primer suplemento aKG aprobado como GRAS por FDA"],
+    "search_terms": ["metabolism biochemistry molecule", "supplement capsules science", "aging biology research"],
+    "category": "suplementos"
+  },
+  {
+    "id": 161,
+    "topic": "NMN vs NR: cual precursor de NAD+ es mejor",
+    "hook": "Dos suplementos compiten por tu juventud celular",
+    "key_points": ["NMN y NR son precursores de NAD+ pero usan vias metabolicas distintas (Nature Metabolism, 2020)", "NR tiene mas ensayos clinicos publicados y es aprobado como GRAS por FDA", "NMN mostro mejoras en sensibilidad insulinica en mujeres postmenopausicas (Science, 2021)", "NMN necesita transportador especifico SLC12A8 para entrar en celulas; NR cruza por difusion"],
+    "search_terms": ["NAD supplement molecule", "anti aging pills capsules", "laboratory comparison science"],
+    "category": "suplementos"
+  },
+  {
+    "id": 162,
+    "topic": "Glutation: el antioxidante maestro que produces cada vez menos",
+    "hook": "Tu antioxidante mas poderoso se agota con la edad",
+    "key_points": ["Glutation es el antioxidante intracelular mas abundante y declina 10-15% por decada (Free Radical Biology and Medicine, 2004)", "NAC (N-acetilcisteina) es precursor mas efectivo que glutation oral, que se degrada en estomago", "GlyNAC (glicina + NAC) reviertio multiples defectos del envejecimiento en ensayo clinico (Journal of Clinical Investigation, 2021)", "Crucial para detoxificacion hepatica fase 2 y funcion inmune de linfocitos"],
+    "search_terms": ["antioxidant molecule science", "liver health detox", "supplement pills health"],
+    "category": "suplementos"
+  },
+  {
+    "id": 163,
+    "topic": "Taurina: el aminoacido que extiende la vida 10% en ratones",
+    "hook": "Un aminoacido extiende la vida una decada",
+    "key_points": ["Taurina declina 80% con la edad y suplementacion extendio vida 10-12% en ratones (Science, 2023)", "Estudio de Columbia University en Science 2023 con >50 investigadores de 5 paises", "Deficiencia de taurina acelera envejecimiento en huesos, musculos, sistema inmune y cerebro", "Fuentes: carne, pescado, mariscos; veganos tienen niveles significativamente menores"],
+    "search_terms": ["amino acid molecule", "supplement taurine powder", "longevity research science"],
+    "category": "suplementos"
+  },
+  {
+    "id": 164,
+    "topic": "Vitamina K2: la vitamina que mueve calcio de arterias a huesos",
+    "hook": "Esta vitamina salva arterias y fortalece huesos",
+    "key_points": ["K2 activa osteocalcina (huesos) y MGP (arterias), dirigiendo calcio correctamente (The Journal of Nutrition, 2004)", "Estudio Rotterdam: K2 alta redujo mortalidad cardiovascular 50% en 7 anios (The Journal of Nutrition, 2004)", "MK-7 (de natto) tiene vida media de 72h vs MK-4 con solo 1h", "Suplementar vitamina D sin K2 puede causar calcificacion arterial paradojica"],
+    "search_terms": ["vitamin K supplement", "bones calcium health", "artery heart cardiovascular"],
+    "category": "suplementos"
+  },
+  {
+    "id": 165,
+    "topic": "Colageno hidrolizado: funciona o es marketing",
+    "hook": "La industria del colageno te miente a medias",
+    "key_points": ["Peptidos de colageno de 2-10 kDa se absorben intestinalmente y alcanzan dermis (Journal of Agricultural and Food Chemistry, 2015)", "Meta-analisis mostro mejora significativa en hidratacion y elasticidad de piel (Journal of Drugs in Dermatology, 2019)", "Para articulaciones: colageno tipo II no hidrolizado a 40mg/dia es mas especifico (International Journal of Medical Sciences, 2009)", "Vitamina C es cofactor esencial: sin ella, colageno no se sintetiza (Nutrients, 2017)"],
+    "search_terms": ["collagen supplement powder", "skin health beauty", "joint bone health"],
+    "category": "suplementos"
+  },
+  {
+    "id": 166,
+    "topic": "Ejercicio de resistencia invierte reloj epigenetico 3 anios",
+    "hook": "Levantar pesas te hace 3 anios mas joven",
+    "key_points": ["Entrenamiento de fuerza 2x/semana durante 12 meses redujo edad epigenetica 3.2 anios (Aging Cell, 2023)", "Musculo esqueletico es organo endocrino que secreta >600 mioquinas con efectos sistemicos", "Sarcopenia (perdida muscular) empieza a los 30 con perdida de 3-8% por decada (The Lancet, 2019)", "Sentadilla, peso muerto y press de banca activan mayor respuesta hormonal (Journal of Strength and Conditioning Research, 2018)"],
+    "search_terms": ["weight training gym", "muscle strength exercise", "resistance training barbell"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 167,
+    "topic": "HIIT vs cardio continuo: que dice la ciencia sobre longevidad",
+    "hook": "4 minutos de HIIT equivalen a 45 de cardio",
+    "key_points": ["Protocolo Tabata (4 min) mejora VO2max similar a 60 min de cardio moderado (Medicine and Science in Sports and Exercise, 1996)", "HIIT aumenta biogenesis mitocondrial 49% vs 26% del cardio continuo (Cell Metabolism, 2017)", "Estudio HUNT: intensidad vigorosa reduce mortalidad 5x mas que moderada por minuto (BMJ, 2019)", "Combinacion ideal: 2 HIIT + 2 cardio zona 2 por semana para maxima longevidad"],
+    "search_terms": ["HIIT workout intense", "cardio running exercise", "interval training fitness"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 168,
+    "topic": "Zona 2 de cardio: la intensidad secreta de los atletas elite",
+    "hook": "La intensidad que usan atletas elite para vivir mas",
+    "key_points": ["Zona 2 (60-70% FCmax) maximiza oxidacion de grasas y eficiencia mitocondrial (Sports Medicine, 2018)", "80% del entrenamiento de atletas de resistencia es zona 2, solo 20% alta intensidad", "Mejora funcion mitocondrial sin generar exceso de radicales libres (Physiological Reviews, 2018)", "3-4 horas/semana de zona 2 asociada a maxima reduccion de mortalidad (The Lancet, 2022)"],
+    "search_terms": ["zone 2 cardio training", "endurance running athlete", "heart rate monitor exercise"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 169,
+    "topic": "VO2max: el mejor predictor de cuanto viviras",
+    "hook": "Este numero predice tus anios de vida",
+    "key_points": ["VO2max es el predictor mas fuerte de mortalidad por todas las causas, superando tabaquismo y diabetes (JAMA Network Open, 2022)", "Cada 3.5 ml/kg/min de mejora reduce mortalidad 13% (European Heart Journal, 2019)", "Declina 10% por decada despues de los 30 sin entrenamiento", "Se puede mejorar 15-20% con 12 semanas de entrenamiento intervalico (Medicine and Science in Sports and Exercise, 2020)"],
+    "search_terms": ["VO2max cardio test", "running fitness endurance", "oxygen mask exercise lab"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 170,
+    "topic": "Fuerza de agarre: el test de longevidad mas simple",
+    "hook": "Tu mano predice si viviras mas anios",
+    "key_points": ["Fuerza de agarre predice mortalidad mejor que presion arterial (The Lancet, 2015, 140000 participantes)", "Cada 5 kg menos de agarre aumenta mortalidad 17% y riesgo cardiovascular 7%", "Refleja masa muscular total, funcion neurologica y estado nutricional", "Se mide con dinamometro: >40kg hombres y >25kg mujeres es saludable"],
+    "search_terms": ["grip strength test hand", "elderly exercise fitness", "hand squeeze strength"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 171,
+    "topic": "Mioquinas: las hormonas que tu musculo secreta al ejercitarte",
+    "hook": "Tus musculos producen medicinas al contraerse",
+    "key_points": ["IL-6 mioquina (no la inflamatoria) tiene efectos antiinflamatorios paradojicos durante ejercicio (Nature Reviews Endocrinology, 2012)", "Irisina convierte grasa blanca en grasa parda termogenica (Nature, 2012)", "BDNF muscular cruza barrera hematoencefalica y promueve neurogénesis", "Se han identificado >600 mioquinas diferentes, la mayoria aun sin funcion conocida"],
+    "search_terms": ["muscle exercise contraction", "hormone molecule body", "fitness workout science"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 172,
+    "topic": "Sentarse es el nuevo fumar: datos de mortalidad",
+    "hook": "Sentarte 8 horas mata como fumar diario",
+    "key_points": ["Sedentarismo >8h/dia aumenta mortalidad por todas las causas 80% (The Lancet, 2016, 1 millon de participantes)", "Cada hora sentado reduce expectativa de vida 22 minutos (British Journal of Sports Medicine, 2012)", "5 minutos de caminata cada 30 min reduce glucosa postprandial 58% (Medicine and Science in Sports and Exercise, 2023)", "60-75 min de actividad moderada diaria eliminan riesgo de sedentarismo prolongado"],
+    "search_terms": ["sedentary office desk", "sitting health risk", "standing desk workspace"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 173,
+    "topic": "Ondas lentas del sueno: la fase que limpia tu cerebro",
+    "hook": "Tu cerebro se lava mientras duermes profundo",
+    "key_points": ["Sistema glinfatico se activa en sueno profundo eliminando beta-amiloide 60% mas rapido (Science, 2013)", "Ondas delta (0.5-4Hz) aumentan flujo de liquido cefalorraquideo a traves del parenchima cerebral", "Perdida de sueno profundo con la edad correlaciona con acumulacion de amiloide (Nature Neuroscience, 2019)", "Ejercicio, temperatura fresca (18C) y evitar alcohol mejoran proporcion de sueno profundo"],
+    "search_terms": ["deep sleep brain waves", "brain cleaning concept", "sleep quality health"],
+    "category": "sueño_ciencia"
+  },
+  {
+    "id": 174,
+    "topic": "Melatonina: mucho mas que una hormona del sueno",
+    "hook": "Melatonina es antioxidante no solo somnifero",
+    "key_points": ["Melatonina es antioxidante mitocondrial mas potente que vitamina C y E (Life Sciences, 2017)", "Regula mas de 500 genes relacionados con inmunidad y reparacion celular (Journal of Pineal Research, 2019)", "Produccion endogena cae 80% entre los 20 y 70 anios", "Dosis terapeutica: 0.3-1mg para sueno; dosis altas (>5mg) pueden ser contraproducentes"],
+    "search_terms": ["melatonin sleep hormone", "night sleep quality", "antioxidant molecule science"],
+    "category": "sueño_ciencia"
+  },
+  {
+    "id": 175,
+    "topic": "Apnea del sueno: el asesino silencioso que envejece tu cerebro",
+    "hook": "Dejas de respirar 30 veces cada noche",
+    "key_points": ["80% de apnea moderada-severa no esta diagnosticada, afecta al 26% de adultos (The Lancet Respiratory Medicine, 2019)", "Cada episodio de apnea causa hipoxia intermitente que dana endotelio vascular", "Apnea no tratada acelera edad epigenetica 2.4 anios (European Respiratory Journal, 2020)", "CPAP reduce riesgo cardiovascular 64% y normaliza presion arterial en 3 meses"],
+    "search_terms": ["sleep apnea snoring", "CPAP sleep machine", "sleep disorder treatment"],
+    "category": "sueño_ciencia"
+  },
+  {
+    "id": 176,
+    "topic": "Temperatura optima para dormir: 18.3 grados celsius",
+    "hook": "Dormir a esta temperatura exacta te rejuvenece",
+    "key_points": ["Temperatura ambiental de 18.3C optimiza termorregulacion y ciclos de sueno (Sleep Medicine Reviews, 2019)", "Descenso de 1C en temperatura corporal central inicia liberacion de melatonina", "Habitacion caliente >24C reduce sueno profundo 25% y REM 10%", "Ducha caliente 90 min antes de dormir causa enfriamiento reactivo que mejora latencia de sueno (Sleep Medicine Reviews, 2019)"],
+    "search_terms": ["cool bedroom sleeping", "temperature thermostat home", "quality sleep dark room"],
+    "category": "sueño_ciencia"
+  },
+  {
+    "id": 177,
+    "topic": "Cafeina y adenosina: por que el cafe deja de funcionar",
+    "hook": "Tu cerebro se adapta al cafe en 10 dias",
+    "key_points": ["Cafeina bloquea receptores de adenosina A1 y A2A creando sensacion de alerta (Nature Reviews Neuroscience, 2008)", "Tolerancia completa se desarrolla en 7-12 dias: cerebro crea mas receptores de adenosina", "Vida media de 5-7h: cafe a las 2pm interfiere con sueno profundo a medianoche", "Ciclos de 2 meses on / 1 mes off restauran sensibilidad completa a cafeina"],
+    "search_terms": ["coffee caffeine beans", "brain adenosine receptor", "morning coffee cup"],
+    "category": "sueño_ciencia"
+  },
+  {
+    "id": 178,
+    "topic": "Proteina animal vs vegetal para longevidad: meta-analisis",
+    "hook": "Este debate tiene respuesta cientifica definitiva",
+    "key_points": ["Reemplazar 3% de calorias de proteina animal por vegetal reduce mortalidad 10% (JAMA Internal Medicine, 2016)", "Proteina animal activa mTOR e IGF-1 mas que vegetal, acelerando envejecimiento celular", "Aminoacido metionina (alto en carne) restringe longevidad en modelos animales (Nature, 2005)", "Balance optimo: 60-70% proteina vegetal, 30-40% animal segun estudios de centenarios"],
+    "search_terms": ["plant protein food", "meat vs vegetables", "protein food comparison"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 179,
+    "topic": "Restriccion de metionina: el aminoacido que acorta tu vida",
+    "hook": "Un aminoacido de la carne acorta tu vida",
+    "key_points": ["Restriccion de metionina extiende vida de ratones 30-40% (Nature, 2005)", "Metionina es alta en carne roja, huevos y lacteos; baja en legumbres y vegetales", "Mecanismo: reduce IGF-1, estres oxidativo y activa FGF21 hepatico (Cell Metabolism, 2014)", "No requiere restriccion calorica total: solo reducir proteina animal a <0.8g/kg/dia"],
+    "search_terms": ["amino acid molecule food", "red meat nutrition", "plant based diet healthy"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 180,
+    "topic": "Alimentacion restringida en tiempo: ventana de 10 horas",
+    "hook": "Comer en 10 horas cambia 70 biomarcadores",
+    "key_points": ["TRE (Time-Restricted Eating) de 10h mejoro presion arterial, colesterol y HbA1c en estudio TREAT (Cell Metabolism, 2020)", "Sincroniza relojes perifericos de higado, pancreas e intestino con ritmo circadiano", "Comer tarde (>21h) aumenta riesgo cardiovascular 28% independiente de calorias (Nature Communications, 2023)", "Ventana de 8-10h alineada con luz solar (ej: 9am-7pm) es la mas estudiada y efectiva"],
+    "search_terms": ["time restricted eating clock", "healthy meal plate", "intermittent fasting food"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 181,
+    "topic": "Fibra fermentable: alimenta bacterias que producen butirato",
+    "hook": "Tus bacterias fabrican medicinas anti-cancer con fibra",
+    "key_points": ["Butirato de acidos grasos de cadena corta fortalece barrera intestinal y reduce inflamacion (Nature Reviews Gastroenterology, 2019)", "Solo 5% de la poblacion consume los 30g/dia de fibra recomendados (The Lancet, 2019)", "Cada 8g extra de fibra reduce mortalidad por todas las causas 7% (The Lancet, 2019, 135 estudios)", "Fuentes fermentables: avena, legumbres, platano verde, cebolla, ajo, esparragos"],
+    "search_terms": ["fiber food vegetables", "gut microbiome bacteria", "healthy intestine digestion"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 182,
+    "topic": "Sulforafano del brocoli: el compuesto anticancer mas estudiado",
+    "hook": "El brocoli tiene un potente compuesto anticancer",
+    "key_points": ["Sulforafano activa NRF2, regulador maestro de >200 genes de detoxificacion (PNAS, 2004)", "Brocoli germinado tiene 20-100x mas sulforafano que brocoli maduro", "Masticar o triturar libera mirosinasa que convierte glucorafanina en sulforafano activo", "Reduce biomarcadores de cancer de prostata en ensayo clinico fase II (Cancer Prevention Research, 2015)"],
+    "search_terms": ["broccoli green vegetable", "cancer research lab cells", "cruciferous vegetables nutrition"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 183,
+    "topic": "Acidos grasos de cadena corta: la conexion intestino-cerebro",
+    "hook": "Tus bacterias intestinales controlan tu cerebro",
+    "key_points": ["AGCC (butirato, propionato, acetato) cruzan barrera hematoencefalica y modulan neuroinflamacion (Nature Reviews Neuroscience, 2019)", "Propionato reduce apetito activando GPR41/43 en hipotalamo (Cell Metabolism, 2015)", "Butirato es inhibidor de HDAC epigenetico que puede reactivar genes silenciados", "Microbioma disbiotico produce menos AGCC y mas metabolitos proinflamatorios como TMAO"],
+    "search_terms": ["gut brain connection", "bacteria microbiome intestine", "short chain fatty acid"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 184,
+    "topic": "TMAO: el metabolito intestinal que predice infartos",
+    "hook": "Tus bacterias pueden causar un infarto silencioso",
+    "key_points": ["TMAO (trimetilamina N-oxido) se produce cuando bacterias metabolizan carnitina y colina de carne roja (NEJM, 2013)", "Niveles altos de TMAO aumentan riesgo cardiovascular 62% independiente de otros factores (European Heart Journal, 2017)", "Veganos producen 10x menos TMAO que omnivoros con la misma dosis de carnitina", "Reducir carne roja a <2 porciones/semana normaliza TMAO en 4 semanas"],
+    "search_terms": ["heart cardiovascular health", "meat red steak", "gut bacteria metabolism"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 185,
+    "topic": "Ayuno de dopamina: resetear el sistema de recompensa",
+    "hook": "Tu cerebro esta drogado por tu telefono",
+    "key_points": ["Estimulacion constante de dopamina causa regulacion a la baja de receptores D2 (Science, 2001)", "Redes sociales liberan dopamina en patron variable similar a maquinas tragaperras (PNAS, 2016)", "Abstinencia de estimulos 24-48h restaura sensibilidad de receptores D2 (Neuropsychopharmacology, 2010)", "No es ayuno literal de dopamina sino reduccion de estimulos supranormales adictivos"],
+    "search_terms": ["phone addiction social media", "brain dopamine reward", "digital detox wellness"],
+    "category": "longevidad"
+  },
+  {
+    "id": 186,
+    "topic": "Oxido nitrico: la molecula que dilata tus arterias",
+    "hook": "Una molecula gas controla tu presion arterial",
+    "key_points": ["Oxido nitrico (NO) relaja musculo liso vascular reduciendo presion arterial (Nobel de Medicina 1998)", "Produccion de NO declina 75% entre los 20 y 70 anios (Circulation, 2004)", "Remolacha y verduras de hoja verde son fuentes de nitratos que se convierten en NO", "Enjuague bucal antiseptico destruye bacterias orales que convierten nitrato en nitrito, bloqueando via NO (Free Radical Biology and Medicine, 2013)"],
+    "search_terms": ["blood vessel artery", "beetroot juice health", "cardiovascular heart health"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 187,
+    "topic": "Estres oxidativo: el balance entre radicales libres y antioxidantes",
+    "hook": "Tus celulas se oxidan como metal oxidado",
+    "key_points": ["Radicales libres danan ADN provocando 10000-100000 lesiones por celula por dia (Nature, 2004)", "Sistema antioxidante endogeno (SOD, catalasa, GPx) es mas potente que suplementos exogenos", "Antioxidantes en exceso pueden bloquear señalizacion de hormesis beneficiosa (PNAS, 2009)", "Ejercicio genera radicales libres que ACTIVAN defensas antioxidantes a largo plazo"],
+    "search_terms": ["oxidation rust concept", "free radical molecule", "antioxidant food colorful"],
+    "category": "antiaging"
+  },
+  {
+    "id": 188,
+    "topic": "Acidos grasos trans: los grasas que aceleran tu envejecimiento",
+    "hook": "Estas grasas acortan tus telomeros directamente",
+    "key_points": ["Grasas trans acortan telomeros de leucocitos proporcionalmente a la ingesta (PLOS ONE, 2012)", "Aumentan LDL oxidado y reducen HDL simultaneamente, unico tipo de grasa que hace ambos", "1% de calorias de trans reemplazando saturadas aumenta riesgo cardiovascular 53% (NEJM, 2006)", "OMS pide eliminacion global para 2023 pero muchos paises aun permiten <2% en alimentos"],
+    "search_terms": ["trans fat junk food", "processed food unhealthy", "heart disease risk"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 189,
+    "topic": "Polifenoles del aceite de oliva: hidroxitirosol y oleuropeina",
+    "hook": "El aceite de oliva tiene dos moleculas milagrosas",
+    "key_points": ["Hidroxitirosol es el antioxidante natural mas potente medido por ORAC (Journal of Agricultural and Food Chemistry, 2007)", "PREDIMED: 1L/semana de AOVE reduce eventos cardiovasculares 30% (NEJM, 2018)", "Oleuropeina activa AMPK y autofagia similar a restriccion calorica (Autophagy, 2015)", "Solo aceite virgen extra prensado en frio conserva polifenoles, refinado los destruye"],
+    "search_terms": ["olive oil extra virgin", "mediterranean diet food", "healthy fat cooking oil"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 190,
+    "topic": "Grasa visceral: el organo endocrino toxico dentro de ti",
+    "hook": "La grasa de tu abdomen es un organo toxico",
+    "key_points": ["Grasa visceral secreta >50 adipoquinas proinflamatorias incluyendo TNF-alfa e IL-6 (Nature, 2006)", "Cada cm extra de cintura aumenta mortalidad 2% independiente de IMC (The Lancet, 2011)", "Grasa visceral rodea organos y resiste dieta convencional mas que subcutanea", "HIIT reduce grasa visceral 2x mas que cardio moderado en meta-analisis (Sports Medicine, 2018)"],
+    "search_terms": ["belly fat visceral", "abdominal obesity health", "exercise fat loss"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 191,
+    "topic": "Insulina: la hormona del envejecimiento acelerado",
+    "hook": "Demasiada insulina te envejece rapidamente",
+    "key_points": ["Hiperinsulinemia cronica acelera los 9 hallmarks del envejecimiento (Cell Metabolism, 2021)", "Reduce producion de hormona de crecimiento 80% y aumenta inflamacion via NF-kB", "Sensibilidad a insulina declina 6% por decada independiente de peso corporal", "Ejercicio de resistencia mejora sensibilidad a insulina 40% por 48h post-entrenamiento (Diabetes Care, 2013)"],
+    "search_terms": ["insulin hormone molecule", "blood sugar glucose test", "metabolic health science"],
+    "category": "longevidad"
+  },
+  {
+    "id": 192,
+    "topic": "IGF-1: el dilema entre musculo y longevidad",
+    "hook": "La hormona del musculo puede acortar tu vida",
+    "key_points": ["IGF-1 promueve crecimiento y sintesis proteica pero niveles altos cronicos aceleran envejecimiento (Cell, 2013)", "Enanos de Laron con deficiencia de IGF-1 tienen incidencia casi nula de cancer y diabetes (Science Translational Medicine, 2011)", "IGF-1 bajo = mas longevidad pero menos masa muscular; alto = mas musculo pero mas riesgo cancer", "Balance: ciclar periodos de alta proteina (gym) con restriccion calorica (autofagia)"],
+    "search_terms": ["growth hormone molecule", "muscle growth bodybuilding", "longevity aging balance"],
+    "category": "longevidad"
+  },
+  {
+    "id": 193,
+    "topic": "Inflamaging: la inflamacion cronica que te envejece silenciosamente",
+    "hook": "Inflamacion silenciosa te envejece sin sintomas",
+    "key_points": ["Inflammaging es inflamacion cronica de bajo grado que aumenta con edad (Nature Reviews Immunology, 2018)", "PCR ultrasensible >1 mg/L indica inflamacion cronica subclínica asociada a envejecimiento acelerado", "Celulas senescentes SASP, grasa visceral y disbiosis son las 3 fuentes principales", "Dieta mediterranea reduce PCR 20% y IL-6 17% en 12 meses (JAMA, 2004)"],
+    "search_terms": ["inflammation body concept", "silent disease health", "aging chronic disease"],
+    "category": "antiaging"
+  },
+  {
+    "id": 194,
+    "topic": "IL-6 paradoja: inflamatoria en reposo, antiinflamatoria en ejercicio",
+    "hook": "La misma molecula inflama o desinflama segun contexto",
+    "key_points": ["IL-6 cronica (de grasa visceral) activa NF-kB e inflamacion; IL-6 aguda (de musculo) es antiinflamatoria (Nature Reviews Endocrinology, 2012)", "Ejercicio aumenta IL-6 muscular hasta 100x pero suprime TNF-alfa e IL-1beta", "IL-6 mioquina estimula oxidacion de grasas y captacion de glucosa sin insulina", "Contexto importa: misma molecula, diferente origen = diferente efecto biologico"],
+    "search_terms": ["exercise inflammation balance", "cytokine molecule immune", "workout recovery science"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 195,
+    "topic": "NRF2: el regulador maestro de 200 genes protectores",
+    "hook": "Un interruptor activa 200 genes de proteccion",
+    "key_points": ["NRF2 es factor de transcripcion que activa genes de detoxificacion, antioxidantes y antiinflamatorios (Nature Reviews Drug Discovery, 2013)", "Sulforafano (brocoli), curcumina y ejercicio son activadores potentes de NRF2", "Declina con la edad dejando celulas vulnerables a estres oxidativo", "Activacion excesiva de NRF2 en celulas cancerosas les da ventaja de supervivencia (Cancer Cell, 2015)"],
+    "search_terms": ["gene transcription DNA", "broccoli healthy food", "cell protection shield"],
+    "category": "antiaging"
+  },
+  {
+    "id": 196,
+    "topic": "Restriccion de proteina: menos proteina mas longevidad",
+    "hook": "Comer menos proteina podria extender tu vida",
+    "key_points": ["Dieta baja en proteina (<10% calorias) reduce mortalidad 75% en menores de 65 anios (Cell Metabolism, 2014)", "Restriccion proteica reduce IGF-1, mTOR y riesgo de cancer similar a restriccion calorica", "Despues de 65 anios, alta proteina es protectora contra sarcopenia y fragilidad", "El switch: baja proteina hasta 65, alta proteina despues de 65 (Cell Metabolism, 2014)"],
+    "search_terms": ["protein food nutrition", "aging diet change", "muscle elderly senior"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 197,
+    "topic": "Fisetin: el senolitico natural mas potente del mundo",
+    "hook": "Una molecula de la fresa destruye celulas zombi",
+    "key_points": ["Fisetin elimina celulas senescentes mas eficazmente que 10 otros flavonoides testados (EBioMedicine, 2018)", "Presente en fresas, manzanas, caquis y cebollas en pequenas cantidades", "Extendio vida de ratones viejos 10% incluso administrado tarde en la vida (EBioMedicine, 2018)", "Ensayo clinico AFFIRM en Mayo Clinic testando 20mg/kg en dias alternos en humanos"],
+    "search_terms": ["strawberry fruit fresh", "senolytic cell science", "anti aging fruit compound"],
+    "category": "suplementos"
+  },
+  {
+    "id": 198,
+    "topic": "Urolitina A: el metabolito intestinal que limpia mitocondrias",
+    "hook": "Tus bacterias crean limpiador de mitocondrias",
+    "key_points": ["Urolitina A activa mitofagia eliminando mitocondrias danadas (Nature Medicine, 2016)", "Solo 40% de personas tienen bacterias capaces de producir urolitina A de elagitaninos", "Suplemento Mitopure (Timeline) aprobado como GRAS, mejoro resistencia muscular 12% en ancianos (JAMA Network Open, 2022)", "Fuentes: granada, nueces, frambuesas transformadas por Gordonibacter urolithinfaciens"],
+    "search_terms": ["pomegranate fruit red", "mitochondria cell cleaning", "supplement capsule science"],
+    "category": "suplementos"
+  },
+  {
+    "id": 199,
+    "topic": "Ergotioneina: el aminoacido de los hongos que protege neuronas",
+    "hook": "Un aminoacido exclusivo de hongos protege tu cerebro",
+    "key_points": ["Ergotioneina es aminoacido azufrado con transportador especifico OCTN1 en cerebro y medula (Free Radical Biology and Medicine, 2020)", "Paises con mayor consumo de setas tienen menores tasas de neurodegeneracion (PNAS, 2019)", "Potente antioxidante que se acumula selectivamente en mitocondrias y nucleos celulares", "Fuentes: hongos (especialmente porcini, shiitake), tempeh, frijoles negros"],
+    "search_terms": ["mushroom shiitake food", "brain neuron protection", "antioxidant molecule fungi"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 200,
+    "topic": "Ejercicio y telomeros: 30 minutos protegen tu ADN",
+    "hook": "30 minutos de ejercicio protegen tu ADN",
+    "key_points": ["Adultos activos tienen telomeros equivalentes a 9 anios mas jovenes que sedentarios (Preventive Medicine, 2017)", "Ejercicio activa telomerasa via aumento de estrogeno y reduccion de estres oxidativo", "Minimo 150 min/semana de moderado o 75 min de vigoroso para efecto protector (ACSM, 2018)", "Sobreentrenamiento >5h/dia puede acortar telomeros por exceso de cortisol y radicales libres"],
+    "search_terms": ["exercise running telomere", "DNA protection health", "workout fitness active"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 201,
+    "topic": "Hormona de crecimiento durante el sueno: cuando se libera",
+    "hook": "Esta hormona solo se libera mientras duermes",
+    "key_points": ["75% de GH diaria se secreta en primer ciclo de sueno profundo entre 10pm-2am (Journal of Clinical Endocrinology and Metabolism, 2000)", "GH estimula reparacion tisular, lipólisis y sintesis proteica durante la noche", "Acostarse despues de medianoche reduce pico de GH hasta 70%", "Ejercicio intenso 2-3h antes de dormir potencia liberacion nocturna de GH 300%"],
+    "search_terms": ["sleep growth hormone", "deep sleep recovery", "night rest quality"],
+    "category": "sueño_ciencia"
+  },
+  {
+    "id": 202,
+    "topic": "Estres cronico y telomeros: tus emociones acortan tu ADN",
+    "hook": "El estres cronico envejece tu ADN literalmente",
+    "key_points": ["Madres cuidadoras de hijos con enfermedades cronicas tenian telomeros 10 anios mas cortos (PNAS, 2004, Epel y Blackburn)", "Cortisol cronico reduce actividad de telomerasa y aumenta estres oxidativo en telomeros", "Percepcion del estres importa mas que el estres objetivo: mindset cambia biologia (Psychological Science, 2012)", "MBSR (mindfulness) aumenta telomerasa 43% en 3 meses de practica (Psychoneuroendocrinology, 2013)"],
+    "search_terms": ["stress anxiety person", "DNA telomere aging", "meditation mindfulness calm"],
+    "category": "longevidad"
+  },
+  {
+    "id": 203,
+    "topic": "Cortisol circadiano: cuando el estres te protege vs te destruye",
+    "hook": "La misma hormona te salva o te destruye",
+    "key_points": ["Cortisol matutino (CAR) es esencial para alertness y funcion inmune (Psychoneuroendocrinology, 2009)", "Cortisol cronico elevado reduce volumen hipocampal 14% en 3 anios (JAMA Psychiatry, 2018)", "Pico normal a las 8am con descenso progresivo; patron invertido indica disfuncion HPA", "Luz matutina brillante, ejercicio AM y cena temprana restauran ritmo cortisol normal"],
+    "search_terms": ["cortisol stress hormone", "morning sunlight wake", "hormone balance health"],
+    "category": "longevidad"
+  },
+  {
+    "id": 204,
+    "topic": "Nervio vago: el nervio que conecta intestino y cerebro",
+    "hook": "Un nervio conecta tu intestino con tu cerebro",
+    "key_points": ["Nervio vago transmite 80% de informacion de intestino a cerebro via aferentes (Nature Reviews Neuroscience, 2018)", "Estimulacion vagal reduce frecuencia cardiaca, inflamacion y ansiedad via reflejo antiinflamatorio colinergico", "Respiracion 4-7-8, gargaras fuertes y exposicion al frio estimulan tono vagal", "HRV alta indica tono vagal saludable y se asocia a mayor longevidad (Biological Psychology, 2007)"],
+    "search_terms": ["vagus nerve anatomy", "gut brain connection", "breathing relaxation exercise"],
+    "category": "longevidad"
+  },
+  {
+    "id": 205,
+    "topic": "HRV: la metrica que predice tu salud mejor que tu medico",
+    "hook": "Tu reloj mide algo mas importante que pasos",
+    "key_points": ["HRV (variabilidad de frecuencia cardiaca) refleja equilibrio simpatico-parasimpatico (European Heart Journal, 2016)", "HRV baja predice mortalidad cardiovascular independiente de otros factores de riesgo", "Aumenta con ejercicio, meditacion, sueno de calidad y respiracion lenta", "Apps como HRV4Training y Oura Ring permiten seguimiento diario validado cientificamente"],
+    "search_terms": ["heart rate variability", "smartwatch health monitoring", "heartbeat ECG measurement"],
+    "category": "longevidad"
+  },
+  {
+    "id": 206,
+    "topic": "Respiracion Wim Hof: la ciencia detras del hombre de hielo",
+    "hook": "Un holandes controla su sistema inmune respirando",
+    "key_points": ["Hiperventilacion controlada seguida de retencion aumenta adrenalina 200% y reduce citoquinas inflamatorias (PNAS, 2014)", "Estudio Radboud University: practicantes de Wim Hof controlaron respuesta inmune a endotoxinas bacterianas", "Alcalosis respiratoria temporal activa nervio vago y libera noradrenalina", "Contraindicado en embarazo, epilepsia, y nunca en agua por riesgo de blackout hipoxic"],
+    "search_terms": ["breathing exercise cold", "ice bath meditation", "Wim Hof method breathing"],
+    "category": "longevidad"
+  },
+  {
+    "id": 207,
+    "topic": "Coherencia cardiaca: 5 minutos que sincronizan cerebro y corazon",
+    "hook": "5 minutos sincronizan tu cerebro y corazon",
+    "key_points": ["Respiracion a 6 ciclos/min (5s in, 5s out) maximiza HRV y coherencia autonomica (HeartMath Institute, Applied Psychophysiology and Biofeedback, 2014)", "Activa corteza prefrontal y desactiva amigdala, mejorando toma de decisiones", "Reduce cortisol 23% y aumenta DHEA 100% en 30 dias de practica diaria", "Efecto documentado en >300 organizaciones incluyendo hospitales y fuerzas armadas"],
+    "search_terms": ["heart coherence breathing", "meditation calm breathing", "heart brain synchrony"],
+    "category": "longevidad"
+  },
+  {
+    "id": 208,
+    "topic": "Resiliencia al estres: la diferencia entre danar y fortalecer",
+    "hook": "Estres puede fortalecerte o destruirte: tu eliges",
+    "key_points": ["Estres agudo activa eje HPA de forma adaptativa; cronico lo desregula (Nature Reviews Neuroscience, 2009)", "Mindset de estres como desafio (vs amenaza) mejora rendimiento y salud cardiovascular (Journal of Experimental Psychology, 2013)", "Recuperacion post-estres es mas importante que el estres mismo para longevidad", "Practicar micro-estresores controlados (frio, ejercicio, ayuno) entrena resiliencia via hormesis"],
+    "search_terms": ["stress resilience strength", "challenge overcome mental", "adversity growth concept"],
+    "category": "longevidad"
+  },
+  {
+    "id": 209,
+    "topic": "Glucosa en sangre estable: la clave metabolica de la longevidad",
+    "hook": "Picos de glucosa destruyen tu cuerpo en silencio",
+    "key_points": ["Variabilidad glicemica alta (picos >140mg/dL) causa glicacion de proteinas y dano vascular (Diabetes Care, 2006)", "Monitores continuos de glucosa muestran que personas sanas tienen picos >140 un 24% del dia (Cell Metabolism, 2018)", "Orden de ingesta importa: vegetales primero, proteina segundo, carbohidratos ultimo reduce pico 73% (Diabetes Care, 2015)", "Caminar 10 min post-comida reduce pico de glucosa 30-50% (Diabetologia, 2016)"],
+    "search_terms": ["blood sugar monitor glucose", "continuous glucose monitoring", "healthy food blood sugar"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 210,
+    "topic": "Grounding o earthing: contacto con la tierra tiene ciencia",
+    "hook": "Caminar descalzo tiene base cientifica real",
+    "key_points": ["Contacto electrico con tierra transfiere electrones libres con efecto antioxidante (Journal of Environmental and Public Health, 2012)", "Grounding 30 min reduce viscosidad sanguinea y cortisol nocturno en estudios controlados (Journal of Alternative and Complementary Medicine, 2013)", "Mejora HRV y tono vagal en exposiciones de 40 min (Integrative Medicine, 2011)", "Mecanismo: electrones de tierra neutralizan radicales libres y modulan sistema nervioso autonomo"],
+    "search_terms": ["barefoot walking nature", "earthing ground contact", "feet grass nature"],
+    "category": "longevidad"
+  },
+  {
+    "id": 211,
+    "topic": "Compresion del sueno con la edad: por que los mayores duermen menos",
+    "hook": "Perder sueno profundo envejece tu cerebro",
+    "key_points": ["Sueno profundo se reduce 2% por decada desde los 20, perdiendo 60% a los 70 (Neuron, 2017)", "Atrofia de corteza prefrontal medial reduce capacidad de generar ondas lentas", "Cada 1% de perdida de sueno profundo aumenta riesgo de demencia 27% (JAMA Neurology, 2017)", "Estimulacion acustica sincronizada con ondas lentas puede restaurar sueno profundo en ancianos (Current Biology, 2017)"],
+    "search_terms": ["elderly sleep night", "brain waves sleep", "aging sleep quality"],
+    "category": "sueño_ciencia"
+  },
+  {
+    "id": 212,
+    "topic": "Reprogramacion celular parcial: rejuvenecer sin perder identidad",
+    "hook": "Rejuvenecer celulas viejas sin destruirlas es posible",
+    "key_points": ["Expresion ciclica de factores OSKM 2 dias on/5 off rejuvenece celulas sin desdiferenciarlas (Nature Aging, 2022)", "Reduce marcas epigeneticas de envejecimiento sin borrar identidad celular", "Altos Research, Calico y Turn Biotechnologies compiten en esta tecnologia", "Primer ensayo en primates mostro rejuvenecimiento de retina sin efectos adversos (Nature, 2023)"],
+    "search_terms": ["cell reprogramming rejuvenation", "stem cell laboratory", "biotechnology aging research"],
+    "category": "antiaging"
+  },
+  {
+    "id": 213,
+    "topic": "Reparacion de ADN: los 6 mecanismos que te mantienen vivo",
+    "hook": "6 mecanismos reparan tu ADN cada segundo",
+    "key_points": ["BER, NER, MMR, HR, NHEJ y TLS reparan >10000 lesiones diarias por celula (Nature, 2009)", "Defectos en reparacion causan progeria (envejecimiento prematuro) y cancer", "NAD+ es cofactor esencial de PARP1, enzima clave de reparacion de ADN", "Ejercicio y restriccion calorica aumentan eficiencia de reparacion de ADN via activacion de sirtuinas"],
+    "search_terms": ["DNA repair mechanism", "gene editing science", "cell nucleus biology"],
+    "category": "antiaging"
+  },
+  {
+    "id": 214,
+    "topic": "Heterocrosis: la perdida de estructura del genoma con la edad",
+    "hook": "Tu genoma se desordena mas cada anio",
+    "key_points": ["Heterocromatina (ADN silenciado) se descompacta con la edad, activando genes daninios (Cell, 2013)", "Elementos transponibles (jumping genes) se reactivan cuando heterocromatina se abre", "SIRT1 y SIRT6 mantienen heterocromatina compacta; su declive con edad desestabiliza genoma", "Restriccion calorica preserva estructura de heterocromatina en modelos de envejecimiento"],
+    "search_terms": ["genome chromosome DNA", "chromatin structure science", "aging DNA damage"],
+    "category": "antiaging"
+  },
+  {
+    "id": 215,
+    "topic": "Inestabilidad genomica: el primer hallmark del envejecimiento",
+    "hook": "Tu genoma acumula 40 mutaciones nuevas cada anio",
+    "key_points": ["Celulas somaticas acumulan ~40 mutaciones por anio, mayoria en regiones no codificantes (Science, 2022)", "Mutaciones en celulas madre causan cancer clonal y disfuncion tisular progresiva", "Radiacion UV, tabaco y metabolismo normal son fuentes principales de dano genomico", "Velocidad de acumulacion mutacional correlaciona inversamente con longevidad entre especies (Nature, 2022)"],
+    "search_terms": ["DNA mutation gene", "genome instability science", "cell division aging"],
+    "category": "antiaging"
+  },
+  {
+    "id": 216,
+    "topic": "Perdida de proteostasis: cuando tus proteinas se pliegan mal",
+    "hook": "Proteinas mal plegadas causan Alzheimer y Parkinson",
+    "key_points": ["Proteostasis es la homeostasis de proteinas: sintesis, plegamiento, degradacion (Cell, 2013)", "Chaperonas (HSPs) se saturan con la edad, permitiendo acumulacion de agregados toxicos", "Beta-amiloide, tau y alfa-sinucleina son proteinas mal plegadas en enfermedades neurodegenerativas", "Autofagia y proteasoma son los dos sistemas de limpieza de proteinas danadas"],
+    "search_terms": ["protein folding molecule", "Alzheimer brain disease", "molecular biology cell"],
+    "category": "antiaging"
+  },
+  {
+    "id": 217,
+    "topic": "Disfuncion de celulas madre con la edad: agotamiento del pool",
+    "hook": "Tus celulas madre se agotan con cada anio",
+    "key_points": ["Celulas madre hematopoyeticas pierden diversidad y sesgan hacia linaje mieloide con edad (Nature, 2014)", "Resulta en inmunidad debilitada, anemia y menor capacidad regenerativa", "Nichos de celulas madre envejecen y envian señales que reducen auto-renovacion", "Ejercicio y restriccion calorica preservan pool de celulas madre en modelos animales (Cell Stem Cell, 2014)"],
+    "search_terms": ["stem cell biology", "cell division regeneration", "aging tissue repair"],
+    "category": "antiaging"
+  },
+  {
+    "id": 218,
+    "topic": "Comunicacion intercelular alterada: celulas que dejan de hablarse",
+    "hook": "Tus celulas dejan de comunicarse con la edad",
+    "key_points": ["Envejecimiento altera señalizacion endocrina, paracrina y neurocrina entre celulas (Cell, 2013)", "SASP de celulas senescentes contamina microambiente tisular con señales proinflamatorias", "Perdida de señalizacion WNT reduce regeneracion de celulas madre intestinales y capilares", "Parabiosis demuestra que factores circulantes jovenes pueden restaurar comunicacion (Nature Medicine, 2014)"],
+    "search_terms": ["cell communication signal", "intercellular signaling", "aging tissue biology"],
+    "category": "antiaging"
+  },
+  {
+    "id": 219,
+    "topic": "Adaptacion mitocondrial al ejercicio: como el HIIT recarga tus baterias",
+    "hook": "HIIT recarga las baterias de tus celulas",
+    "key_points": ["12 semanas de HIIT aumentan proteinas mitocondriales 49% en mayores de 65 (Cell Metabolism, 2017)", "Biogenesis mitocondrial via PGC-1alfa aumenta 300% post-HIIT vs 100% post-cardio", "Nuevas mitocondrias tienen menor tasa de produccion de radicales libres", "Efecto rejuvenecedor: transcriptoma muscular de mayores se asemejo al de jovenes tras HIIT"],
+    "search_terms": ["HIIT exercise intense", "mitochondria energy cell", "exercise science laboratory"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 220,
+    "topic": "Ayuno de agua 72 horas: que le pasa a tu cuerpo",
+    "hook": "72 horas sin comer regenera tu sistema inmune",
+    "key_points": ["Ayuno >48h reduce PKA e IGF-1, activando regeneracion de celulas madre hematopoyeticas (Cell Stem Cell, 2014, Valter Longo)", "Autofagia alcanza pico maximo entre 48-72h de ayuno total", "Cetosis profunda (>3mmol/L) genera beta-hidroxibutirato con efecto antiinflamatorio epigenetico", "Riesgos: perdida muscular, desbalance electrolitico, no apto para diabeticos tipo 1 o embarazadas"],
+    "search_terms": ["water fasting glass", "autophagy cell cleaning", "immune system regeneration"],
+    "category": "longevidad"
+  },
+  {
+    "id": 221,
+    "topic": "FMD: la dieta que imita el ayuno sin dejar de comer",
+    "hook": "Obtener beneficios del ayuno sin pasar hambre",
+    "key_points": ["Fasting Mimicking Diet de Valter Longo: 5 dias de 800-1100 kcal baja en proteina y azucar (Cell Metabolism, 2015)", "3 ciclos de FMD redujeron marcadores de envejecimiento, diabetes y cardiovascular en humanos (Science Translational Medicine, 2017)", "Activa autofagia y regeneracion de celulas madre sin ayuno completo", "ProLon es la primera FMD comercializada con ensayos clinicos publicados"],
+    "search_terms": ["fasting mimicking diet", "low calorie healthy food", "longevity nutrition science"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 222,
+    "topic": "Beta-hidroxibutirato: el cuerpo cetonico que es mas que energia",
+    "hook": "Un cuerpo cetonico activa genes de longevidad",
+    "key_points": ["BHB inhibe HDAC, modificando expresion genica de forma epigenetica protectora (Science, 2013)", "Reduce estres oxidativo activando FOXO3 y catalasa en neuronas", "Se produce en ayuno >16h, dieta cetogenica o ejercicio prolongado >2h", "Suplementos de BHB exogeno (sales o esteres) alcanzan niveles similares sin ayuno"],
+    "search_terms": ["ketone body molecule", "ketogenic diet food", "brain energy fuel"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 223,
+    "topic": "Dieta cetogenica y epilepsia: el origen medico de la keto",
+    "hook": "La dieta keto se invento para curar epilepsia",
+    "key_points": ["Dieta cetogenica usada desde 1920 para epilepsia refractaria en ninos (The Lancet Neurology, 2008)", "Reduce crisis epilepticas >50% en 50% de pacientes pediatricos refractarios", "Mecanismo: BHB estabiliza potenciales de membrana neuronal y reduce excitotoxicidad", "Uso se expande a glioblastoma, Alzheimer y esclerosis multiple en ensayos clinicos (Neurology, 2019)"],
+    "search_terms": ["ketogenic diet food", "brain neurology health", "epilepsy treatment medicine"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 224,
+    "topic": "Acido ursodeoxicolico: el acido biliar con potencial neuroprotector",
+    "hook": "Un acido biliar del oso protege tus neuronas",
+    "key_points": ["UDCA reduce estres del reticulo endoplasmatico y apoptosis neuronal (Brain, 2017)", "Ensayo clinico en ELA mostro desaceleracion de progresion en 12 meses (The Lancet Neurology, 2022)", "Aprobado por FDA para cirrosis biliar primaria desde 1997, perfil de seguridad conocido", "Investigado en Parkinson por efecto protector sobre mitocondrias dopaminergicas"],
+    "search_terms": ["bile acid molecule", "neuron brain protection", "medicine pharmaceutical lab"],
+    "category": "suplementos"
+  },
+  {
+    "id": 225,
+    "topic": "Litio en microdosis: el mineral que protege el cerebro",
+    "hook": "Microdosis de litio previenen neurodegeneracion",
+    "key_points": ["Agua potable con litio natural >10mcg/L asociada a menores tasas de demencia y suicidio (British Journal of Psychiatry, 2014)", "Litio a dosis bajas (300mcg) promueve neurogénesis y inhibe GSK3beta (Translational Psychiatry, 2015)", "Aumenta volumen de materia gris y protege contra atrofia hipocampal", "Diferencia clave: microdosis (mcg) vs dosis psiquiatricas (mg) que requieren monitorizacion renal"],
+    "search_terms": ["lithium mineral supplement", "brain protection health", "water mineral natural"],
+    "category": "suplementos"
+  },
+  {
+    "id": 226,
+    "topic": "PQQ: la coenzima que crea mitocondrias nuevas",
+    "hook": "Una molecula ordena crear mitocondrias nuevas",
+    "key_points": ["PQQ (pirroloquinolina quinona) activa PGC-1alfa estimulando biogenesis mitocondrial (Journal of Nutrition, 2006)", "20mg/dia durante 8 semanas mejoro funcion cognitiva y reduccion de fatiga en humanos (Functional Foods in Health and Disease, 2012)", "5000x mas potente como antioxidante que vitamina C en reciclaje redox", "Presente en natto, perejil, te verde, kiwi y leche materna humana"],
+    "search_terms": ["mitochondria cell energy", "supplement PQQ capsule", "brain energy metabolism"],
+    "category": "suplementos"
+  },
+  {
+    "id": 227,
+    "topic": "Astaxantina: el antioxidante 6000 veces mas potente que vitamina C",
+    "hook": "Un pigmento rojo es 6000 veces mas antioxidante",
+    "key_points": ["Astaxantina es carotenoide que cruza membranas celulares protegiendo desde dentro y fuera (Marine Drugs, 2018)", "6000x mas potente que vitamina C y 550x mas que vitamina E en capacidad antioxidante", "4mg/dia durante 6 semanas mejoro rendimiento de resistencia 8% en ciclistas (International Journal of Sports Medicine, 2011)", "Protege piel de dano UV reduciendo arrugas y mejorando elasticidad (Clinical, Cosmetic and Investigational Dermatology, 2012)"],
+    "search_terms": ["astaxanthin red supplement", "salmon pink fish", "antioxidant powerful molecule"],
+    "category": "suplementos"
+  },
+  {
+    "id": 228,
+    "topic": "Apigenina: el compuesto del perejil que inhibe CD38",
+    "hook": "El perejil contiene un inhibidor de envejecimiento",
+    "key_points": ["CD38 es la enzima que mas degrada NAD+ con la edad; apigenina la inhibe selectivamente (Nature Metabolism, 2020)", "Presente en perejil, manzanilla, apio y te de manzanilla", "78mg/dia de apigenina restauro niveles de NAD+ en tejidos de ratones viejos", "Tambien es anxiolitico natural ligando receptores GABA-A sin efecto sedante excesivo"],
+    "search_terms": ["parsley herb green", "chamomile tea herbal", "NAD supplement molecule"],
+    "category": "suplementos"
+  },
+  {
+    "id": 229,
+    "topic": "Acido alfa lipoico: el antioxidante universal soluble en agua y grasa",
+    "hook": "El unico antioxidante que funciona en todas partes",
+    "key_points": ["ALA es soluble en agua Y grasa, protegiendo compartimentos intra y extracelulares (Free Radical Biology and Medicine, 2002)", "Recicla vitamina C, E, glutation y CoQ10, actuando como antioxidante de antioxidantes", "600mg/dia mejoro neuropatia diabetica en ensayo ALADIN (Diabetologia, 1995)", "Forma R-ALA es la biologicamente activa; forma S es sintetica con menor eficacia"],
+    "search_terms": ["alpha lipoic acid supplement", "antioxidant molecule cell", "nerve health neuropathy"],
+    "category": "suplementos"
+  },
+  {
+    "id": 230,
+    "topic": "Selenio: el mineral esencial para tiroides y longevidad",
+    "hook": "Tu tiroides necesita este mineral olvidado para funcionar",
+    "key_points": ["Selenio es cofactor de 25 selenoproteinas incluyendo glutatión peroxidasas y tiorredoxina reductasas (The Lancet, 2012)", "Deficiencia aumenta riesgo de cancer de tiroides, prostata y colorrectal", "200mcg/dia redujo mortalidad por cancer 50% en estudio NPC (JAMA, 1996, ahora revisado)", "Nuez de Brasil: 1 sola nuez contiene 70-90mcg, cubriendo requerimiento diario completo"],
+    "search_terms": ["selenium mineral supplement", "thyroid health gland", "brazil nut nutrition"],
+    "category": "suplementos"
+  },
+  {
+    "id": 231,
+    "topic": "Vitamina B12 y deterioro cognitivo: la deficiencia silenciosa",
+    "hook": "Esta deficiencia imita demencia y es reversible",
+    "key_points": ["Deficiencia de B12 afecta al 20% de mayores de 60 y causa dano neurologico irreversible si no se trata (NEJM, 2013)", "Niveles <400pg/mL asociados a atrofia cerebral acelerada y deterioro cognitivo (Neurology, 2008)", "Metformina reduce absorcion de B12 30% y acido folico enmascara deficiencia", "Metilcobalamina sublingual es forma preferida; cianocobalamina requiere conversion hepatica"],
+    "search_terms": ["vitamin B12 supplement", "brain cognitive health", "elderly memory dementia"],
+    "category": "suplementos"
+  },
+  {
+    "id": 232,
+    "topic": "Eje intestino-cerebro: como bacterias controlan tu estado de animo",
+    "hook": "Tus bacterias intestinales deciden si eres feliz",
+    "key_points": ["95% de serotonina se produce en intestino por celulas enterocromafines (Cell, 2015)", "Lactobacillus rhamnosus altera expresion de receptores GABA en cerebro via nervio vago (PNAS, 2011)", "Trasplante de microbiota de raton ansioso a calmado transfiere fenotipo conductual", "Psicobioticos: probioticos especificos con efecto sobre salud mental (Biological Psychiatry, 2019)"],
+    "search_terms": ["gut brain axis connection", "intestine bacteria microbiome", "mood mental health brain"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 233,
+    "topic": "Akkermansia muciniphila: la bacteria anti-obesidad del intestino",
+    "hook": "Una bacteria intestinal previene obesidad y diabetes",
+    "key_points": ["Akkermansia representa 1-4% de microbioma sano pero es casi indetectable en obesidad y diabetes tipo 2 (Nature Medicine, 2019)", "Suplementacion pasteurizada mejoro sensibilidad a insulina en ensayo clinico humano (Nature Medicine, 2019)", "Se alimenta de mucina intestinal y fortalece barrera epitelial reduciendo permeabilidad", "Polifenoles de granada y arandanos aumentan Akkermansia naturalmente"],
+    "search_terms": ["gut bacteria microbiome", "probiotic supplement health", "intestine health digestion"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 234,
+    "topic": "Permeabilidad intestinal: leaky gut y la ciencia real",
+    "hook": "Tu intestino tiene agujeros microscopicos reales",
+    "key_points": ["Zonulina regula uniones estrechas intestinales; gluten y disbiosis aumentan su liberacion (Physiological Reviews, 2011, Fasano)", "Permeabilidad aumentada permite paso de LPS bacteriano a sangre, causando endotoxemia metabolica (Diabetes, 2007)", "LPS activa TLR4 en higado causando inflamacion sistemica y resistencia a insulina", "Glutamina, butirato, zinc-carnosina y probioticos restauran barrera intestinal"],
+    "search_terms": ["intestine barrier gut", "leaky gut permeability", "digestive health nutrition"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 235,
+    "topic": "Diversidad microbiana: mas especies bacterianas mas salud",
+    "hook": "Cuantas mas bacterias distintas tienes mas sano eres",
+    "key_points": ["Baja diversidad microbiana predice obesidad, diabetes y enfermedad inflamatoria intestinal (Nature, 2019)", "Cada especie de planta que comes aumenta diversidad: meta de 30 plantas/semana (The American Gut Project, 2018)", "Antibioticos reducen diversidad 30% y tarda 6-12 meses en recuperarse parcialmente", "Fermentados (kimchi, kefir, chucrut) aumentaron diversidad microbiana en 10 semanas (Cell, 2021)"],
+    "search_terms": ["diverse food vegetables", "bacteria microbiome diversity", "fermented food probiotics"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 236,
+    "topic": "Inmunosenescencia: por que tu sistema inmune falla con la edad",
+    "hook": "Tu sistema inmune se vuelve incompetente con la edad",
+    "key_points": ["Timo involuciona perdiendo 3% de tejido funcional por anio desde pubertad (Nature Reviews Immunology, 2018)", "Celulas T naive disminuyen; T de memoria se acumulan reduciendo repertorio inmune", "Inmunidad innata se hiperactivada cronicament (inflammaging) mientras adaptativa declina", "Ejercicio moderado rejuvenece inmunofenotipo: adultos activos de 70 tienen perfil inmune de 30 (Aging Cell, 2018)"],
+    "search_terms": ["immune system cells", "thymus gland aging", "white blood cells defense"],
+    "category": "antiaging"
+  },
+  {
+    "id": 237,
+    "topic": "Vacunas y envejecimiento: por que responden peor los mayores",
+    "hook": "Las vacunas funcionan peor despues de los 65",
+    "key_points": ["Eficacia de vacuna influenza es 17-53% en mayores vs 70-90% en jovenes (The Lancet Infectious Diseases, 2012)", "Menor diversidad de celulas B y T reduce generacion de anticuerpos de alta afinidad", "Vacunas de alta dosis y adyuvantes mejoran respuesta inmune en ancianos", "Ejercicio pre-vacunacion mejora respuesta de anticuerpos 25% en mayores (Brain, Behavior, and Immunity, 2014)"],
+    "search_terms": ["vaccine injection elderly", "immune response antibodies", "flu vaccination senior"],
+    "category": "longevidad"
+  },
+  {
+    "id": 238,
+    "topic": "Timica regeneracion: restaurar el timo para rejuvenecer inmunidad",
+    "hook": "Regenerar un organo atrofiado rejuvenece tu inmunidad",
+    "key_points": ["Ensayo TRIIM: hormona de crecimiento + DHEA + metformina regenero timo y reverso edad epigenetica 2.5 anios (Aging Cell, 2019, Fahy)", "Primera evidencia en humanos de reversion de edad epigenetica", "Timo regenerado aumento celulas T naive y redujo indice de riesgo de cancer", "TRIIM-X extiende estudio con mas participantes y duracion (ClinicalTrials.gov, 2020)"],
+    "search_terms": ["thymus gland regeneration", "immune rejuvenation science", "anti aging clinical trial"],
+    "category": "antiaging"
+  },
+  {
+    "id": 239,
+    "topic": "Trasplante de microbiota fecal: reiniciar tu intestino con bacterias sanas",
+    "hook": "Trasplantar caca de persona sana te puede curar",
+    "key_points": ["FMT cura Clostridioides difficile recurrente con 90% de exito (NEJM, 2013)", "Investigado en obesidad, diabetes, autismo y enfermedad inflamatoria intestinal", "FDA aprueba primer producto de FMT (Rebyota) en 2022 para C. difficile", "Seleccion de donante es critica: super-donantes con alta diversidad dan mejores resultados (Frontiers in Cellular and Infection Microbiology, 2019)"],
+    "search_terms": ["gut microbiome transplant", "intestine health bacteria", "medical research laboratory"],
+    "category": "longevidad"
+  },
+  {
+    "id": 240,
+    "topic": "Xenohoresis: moleculas de plantas estresadas que te protegen",
+    "hook": "Plantas estresadas crean moleculas que te protegen",
+    "key_points": ["Xenohoresis: compuestos de estres vegetal (polifenoles) activan defensas en animales que los consumen (Cell Metabolism, 2008, Howitz y Sinclair)", "Resveratrol, sulforafano y curcumina son señales de estres vegetal que activan NRF2 y sirtuinas en humanos", "Frutas y verduras organicas y silvestres producen mas fitonutrientes de estres que convencionales", "Evolucion: humanos desarrollaron receptores para detectar moleculas de señalizacion vegetal"],
+    "search_terms": ["plant stress compounds", "organic vegetables garden", "phytonutrient colorful food"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 241,
+    "topic": "Envejecimiento del cristalino: por que tu vision empeora con la edad",
+    "hook": "Tu ojo se endurece como piedra con la edad",
+    "key_points": ["Presbicia comienza a los 40 por perdida de elasticidad del cristalino que endurece progresivamente (The Lancet, 2011)", "Proteinas cristalinas del ojo no se renuevan: las que tienes de adulto son las mismas de bebe", "AGEs y oxidacion causan opacificacion progresiva que resulta en cataratas", "Luteina y zeaxantina protegen macula y cristalino filtrando luz azul danina (JAMA Ophthalmology, 2015)"],
+    "search_terms": ["eye vision aging", "eye lens close up", "eyesight health elderly"],
+    "category": "longevidad"
+  },
+  {
+    "id": 242,
+    "topic": "Luteina y zeaxantina: los carotenoides que salvan tu vision",
+    "hook": "Dos pigmentos amarillos salvan tu vision de adulto",
+    "key_points": ["Luteina y zeaxantina son los unicos carotenoides que se acumulan en retina formando pigmento macular (Progress in Retinal and Eye Research, 2012)", "Filtran luz azul danina (400-500nm) y neutralizan radicales libres fototoxicos", "Estudio AREDS2: suplementacion redujo progresion a degeneracion macular avanzada 25% (JAMA Ophthalmology, 2014)", "Fuentes: espinaca, col rizada, huevo (yema), maiz, pimiento naranja"],
+    "search_terms": ["eye health vision", "spinach kale leafy green", "macular degeneration eye"],
+    "category": "suplementos"
+  },
+  {
+    "id": 243,
+    "topic": "Envejecimiento vascular: tus arterias se endurecen cada anio",
+    "hook": "Tus arterias son tan viejas como tu eres",
+    "key_points": ["Rigidez arterial aumenta linealmente con edad por degradacion de elastina y acumulacion de colageno (European Heart Journal, 2010)", "Velocidad de onda de pulso (PWV) es mejor predictor de eventos CV que presion arterial (The Lancet, 2010)", "Oxido nitrico endotelial declina y vasodilatacion dependiente de flujo se reduce 0.5%/anio", "Ejercicio aerobico, nitratos dietarios y omega-3 mejoran compliance arterial en 12 semanas"],
+    "search_terms": ["artery blood vessel", "cardiovascular heart health", "vascular aging science"],
+    "category": "longevidad"
+  },
+  {
+    "id": 244,
+    "topic": "Calcificacion arterial: cuando calcio se deposita en tus arterias",
+    "hook": "El calcio que tomas puede ir a tus arterias",
+    "key_points": ["Calcificacion coronaria es predictor independiente de infarto, medible por score de Agatston (JACC, 2007)", "Vitamina K2 (MK-7) activa MGP que impide deposicion de calcio en arterias (The Journal of Nutrition, 2004)", "Suplementar calcio sin K2 aumenta riesgo cardiovascular 30% (BMJ, 2010)", "Vitaminas D, K2 y magnesio trabajan sinergicamente para dirigir calcio a huesos, no arterias"],
+    "search_terms": ["artery calcification heart", "calcium supplement bone", "vitamin K2 supplement"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 245,
+    "topic": "Endotelio vascular: la capa invisible que controla tu salud cardiovascular",
+    "hook": "Una capa de celulas decide si sufres infarto",
+    "key_points": ["Endotelio es organo de 1.5 kg que recubre 7000 m2 de vasos sanguineos (Nature Reviews Drug Discovery, 2011)", "Disfuncion endotelial precede aterosclerosis por 10-20 anios y es primer paso del infarto", "Oxido nitrico endotelial mantiene vasos dilatados, anticoagulantes y antiinflamatorios", "Ejercicio mejora funcion endotelial en 4 semanas; tabaco y azucar la destruyen en horas"],
+    "search_terms": ["endothelial cells blood vessel", "cardiovascular health artery", "exercise heart health"],
+    "category": "longevidad"
+  },
+  {
+    "id": 246,
+    "topic": "Relojes biologicos perifericos: cada organo tiene su hora optima",
+    "hook": "Tu higado tiene un horario diferente a tu cerebro",
+    "key_points": ["Higado metaboliza farmaco 40% mas eficiente a las 8am que a medianoche (Science, 2016)", "Corazon es mas vulnerable a infartos entre 6-10am por pico de cortisol y agregacion plaquetaria", "Rendimiento muscular pico a las 5-7pm cuando temperatura corporal es maxima", "Cronomedicina: administrar farmacos segun reloj circadiano mejora eficacia y reduce toxicidad (Nature Reviews Drug Discovery, 2019)"],
+    "search_terms": ["body clock organs", "circadian rhythm health", "time medicine concept"],
+    "category": "sueño_ciencia"
+  },
+  {
+    "id": 247,
+    "topic": "Jet lag social: vivir desfasado de tu reloj biologico",
+    "hook": "Vivir contra tu reloj biologico te enferma",
+    "key_points": ["Jet lag social ocurre cuando horario social difiere >2h de cronotipo natural (Current Biology, 2006, Roenneberg)", "Afecta al 87% de la poblacion que despierta con alarma en dias laborables", "Cada hora de jet lag social aumenta riesgo de obesidad 33% y depresion 28%", "Luz matutina brillante y melatonina nocturna ajustan reloj central hasta 1h/dia"],
+    "search_terms": ["alarm clock morning", "sleep schedule disruption", "jetlag tired fatigue"],
+    "category": "sueño_ciencia"
+  },
+  {
+    "id": 248,
+    "topic": "Cronotipos: buho o alondra y su impacto en longevidad",
+    "hook": "Ser buho nocturno acorta tu vida segun estudios",
+    "key_points": ["Cronotipo vespertino (buho) asociado a 10% mas mortalidad por todas las causas (Chronobiology International, 2018, 433000 participantes)", "Buhos tienen mas riesgo de diabetes, depresion, trastornos metabolicos y adicciones", "Genetica determina 50% del cronotipo via variantes en genes PER, CRY y CLOCK", "Buhos forzados a horario matutino sufren desalineacion circadiana cronica con consecuencias metabolicas"],
+    "search_terms": ["night owl person", "early morning wake up", "sleep chronotype concept"],
+    "category": "sueño_ciencia"
+  },
+  {
+    "id": 249,
+    "topic": "Luz brillante matutina: el reset de 100000 lux",
+    "hook": "10 minutos de luz matutina resetean todo tu cuerpo",
+    "key_points": ["Luz solar matutina (>10000 lux) suprime melatonina y sincroniza reloj maestro en NSQ (Nature Neuroscience, 2005)", "30 min de luz brillante AM mejora sueno nocturno, humor y cortisol en 1 semana", "Interior tipico: 100-500 lux; exterior nublado: 10000 lux; sol directo: 100000 lux", "Lamparas de terapia luminica (10000 lux) son alternativa validada para invierno y latitudes altas"],
+    "search_terms": ["morning sunlight bright", "light therapy lamp", "sunrise morning routine"],
+    "category": "sueño_ciencia"
+  },
+  {
+    "id": 250,
+    "topic": "Privacion de sueno y Alzheimer: una noche mala sube beta-amiloide",
+    "hook": "Una noche sin dormir sube proteina del Alzheimer",
+    "key_points": ["Una noche de privacion de sueno aumenta beta-amiloide en cerebro 5% medido por PET (PNAS, 2018)", "Sistema glinfatico solo limpia beta-amiloide durante sueno profundo (Science, 2013)", "Deuda de sueno cronica acelera acumulacion de amiloide y tau decadas antes de sintomas", "Adultos que duermen <6h tienen 30% mas riesgo de Alzheimer (Nature Communications, 2021)"],
+    "search_terms": ["sleep deprivation tired", "Alzheimer brain scan", "insomnia night dark"],
+    "category": "sueño_ciencia"
+  },
+  {
+    "id": 251,
+    "topic": "Entrenamiento de fuerza y densidad osea: prevenir osteoporosis",
+    "hook": "Levantar pesas fortalece tus huesos no solo musculos",
+    "key_points": ["Carga mecanica estimula osteoblastos via mecanotransduccion piezoelectrica en hueso (Nature Reviews Rheumatology, 2015)", "Mujeres postmenopausicas con entrenamiento de fuerza 2x/semana aumentaron DMO 1-3% en 12 meses (JBMR, 2017)", "Impacto (saltar) es mas osteogenico que natacion o ciclismo sin impacto", "Despues de 50: si no cargas tus huesos, pierdes 1-2% de DMO por anio"],
+    "search_terms": ["weight training bones", "osteoporosis bone density", "strength exercise elderly"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 252,
+    "topic": "Flexibilidad y longevidad: el test de sentarse y levantarse",
+    "hook": "No poder sentarte y levantarte predice mortalidad",
+    "key_points": ["Test SRT (sit-rise test) predice mortalidad: cada punto menos en 0-10 aumenta riesgo 21% (European Journal of Preventive Cardiology, 2012)", "Refleja fuerza, flexibilidad, coordinacion y equilibrio en un solo movimiento", "Flexibilidad arterial correlaciona con flexibilidad musculoesqueletica en adultos >40 (American Journal of Physiology, 2009)", "Yoga 2x/semana mejora SRT score y reduce rigidez arterial en 12 semanas"],
+    "search_terms": ["flexibility stretching exercise", "sit stand test elderly", "yoga flexibility health"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 253,
+    "topic": "Equilibrio y caidas: la causa de muerte oculta en mayores",
+    "hook": "Caer una vez despues de 65 es potencialmente fatal",
+    "key_points": ["Caidas son la 1a causa de muerte por lesion en >65 anios: 1 de cada 3 cae anualmente (The Lancet, 2021)", "Fractura de cadera tiene mortalidad del 20-30% en el anio siguiente", "Propiocepcion declina 75% entre 25 y 75 anios por perdida de mecanorreceptores", "Tai chi reduce riesgo de caidas 19-50% en meta-analisis de ensayos controlados (BMJ, 2017)"],
+    "search_terms": ["balance exercise elderly", "fall prevention senior", "tai chi balance training"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 254,
+    "topic": "Musica y cerebro: la neurociencia del entrenamiento musical",
+    "hook": "Tocar un instrumento rejuvenece tu cerebro 10 anios",
+    "key_points": ["Musicos tienen cuerpo calloso 25% mas grueso conectando hemisferios (Nature Reviews Neuroscience, 2010)", "Entrenamiento musical en infancia protege contra deterioro cognitivo 50+ anios despues (Journal of Neuroscience, 2013)", "Escuchar musica activa sistema dopaminergico similar a comida y sexo (Nature Neuroscience, 2011)", "Terapia musical mejora funcion motora en Parkinson y memoria en Alzheimer"],
+    "search_terms": ["music brain neuroscience", "piano playing instrument", "brain connectivity neural"],
+    "category": "longevidad"
+  },
+  {
+    "id": 255,
+    "topic": "Proposito de vida: ikigai y mortalidad por todas las causas",
+    "hook": "Tener un proposito de vida reduce mortalidad 15 porciento",
+    "key_points": ["Proposito de vida (ikigai) reduce mortalidad por todas las causas 15% en meta-analisis de 136000 personas (JAMA Network Open, 2019)", "Asociado a menor riesgo de infarto, ictus y demencia independiente de factores socioeconomicos", "Proposito se puede cultivar: voluntariado, mentoria, creatividad y relaciones significativas", "Jubilados sin proposito tienen 40% mas riesgo de mortalidad que los que mantienen actividades significativas"],
+    "search_terms": ["purpose life meaning", "ikigai japanese concept", "happy elderly meaningful"],
+    "category": "longevidad"
+  },
+  {
+    "id": 256,
+    "topic": "Conexion social y longevidad: la soledad mata como fumar",
+    "hook": "La soledad mata tanto como fumar 15 cigarrillos",
+    "key_points": ["Soledad aumenta mortalidad 26% equivalente a fumar 15 cigarrillos/dia (Perspectives on Psychological Science, 2015)", "Aislamiento social eleva cortisol, inflamacion y presion arterial cronicamente", "Relaciones de calidad (no cantidad) son el factor #1 de felicidad y longevidad en Harvard Study of Adult Development (80 anios)", "Oxitocina liberada en contacto social tiene efectos antiinflamatorios y cardioprotectores"],
+    "search_terms": ["social connection friends", "loneliness isolation elderly", "community group people"],
+    "category": "longevidad"
+  },
+  {
+    "id": 257,
+    "topic": "Envejecimiento del sistema digestivo: por que absorbes peor los nutrientes",
+    "hook": "Tu intestino absorbe menos nutrientes cada decada",
+    "key_points": ["Acido estomacal (HCl) disminuye 40% despues de los 60, afectando absorcion de B12, hierro y calcio (Alimentary Pharmacology and Therapeutics, 2014)", "Superficie de absorcion intestinal se reduce por atrofia de vellosidades con edad", "Inhibidores de bomba de protones (omeprazol) agravan malabsorcion en uso cronico", "Enzimas digestivas, vinagre de manzana pre-comida y probioticos compensan declive"],
+    "search_terms": ["digestive system stomach", "nutrient absorption intestine", "digestive health elderly"],
+    "category": "longevidad"
+  },
+  {
+    "id": 258,
+    "topic": "Glicina: el aminoacido mas simple con efectos anti-aging profundos",
+    "hook": "El aminoacido mas simple del mundo rejuvenece celulas",
+    "key_points": ["Glicina + NAC (GlyNAC) reverso 8 de 9 hallmarks del envejecimiento en ensayo humano (Journal of Clinical Investigation, 2021)", "Es precursora de glutation, colageno, creatina y ADN (purinas)", "Suplementacion con 3g antes de dormir mejora calidad de sueno y cognicion matutina (Sleep and Biological Rhythms, 2007)", "Deficiencia de glicina limita sintesis de glutation mas que deficiencia de cisteina en ancianos"],
+    "search_terms": ["glycine amino acid", "sleep supplement natural", "anti aging molecule"],
+    "category": "suplementos"
+  },
+  {
+    "id": 259,
+    "topic": "Vitamina C liposomal: por que la forma importa mas que la dosis",
+    "hook": "La vitamina C normal se desperdicia un 80 porciento",
+    "key_points": ["Vitamina C oral convencional tiene absorcion maxima de 200mg por toma; exceso se excreta por orina (Annals of Internal Medicine, 2004)", "Forma liposomal envuelta en fosfolipidos logra biodisponibilidad 1.5-5x mayor (Nutrition and Metabolic Insights, 2016)", "Cofactor esencial de 8 enzimas incluyendo sintesis de colageno y carnitina", "Requerimiento aumenta con edad, estres, infeccion y exposicion a toxinas ambientales"],
+    "search_terms": ["vitamin C supplement", "liposomal technology science", "orange citrus vitamin"],
+    "category": "suplementos"
+  },
+  {
+    "id": 260,
+    "topic": "Hormona tiroidea y metabolismo: el termostato de tu cuerpo",
+    "hook": "Tu tiroides controla velocidad de envejecimiento celular",
+    "key_points": ["Hipotiroidismo subclinico afecta 10% de mujeres >60 anios y reduce metabolismo basal 30% (NEJM, 2001)", "TSH, T3 libre y T4 libre deben evaluarse juntos; TSH sola es insuficiente", "Selenio, zinc, hierro y yodo son los 4 minerales esenciales para funcion tiroidea", "T3 inversa (rT3) elevada indica conversion periferica bloqueada por estres o inflamacion"],
+    "search_terms": ["thyroid gland health", "metabolism energy body", "hormone balance test"],
+    "category": "longevidad"
+  },
+  {
+    "id": 261,
+    "topic": "DHEA: la hormona madre que declina 80% con la edad",
+    "hook": "Pierdes 80 porciento de esta hormona madre envejeciendo",
+    "key_points": ["DHEA es precursora de testosterona y estrogeno; pico a los 25, nadir a los 75 (Journal of Clinical Endocrinology and Metabolism, 2005)", "Niveles bajos correlacionan con fragilidad, sarcopenia, depresion y disfuncion inmune", "Suplementacion 25-50mg/dia mejoro densidad osea y composicion corporal en mujeres >65 (NEJM, 2006)", "En TRIIM trial contribuyo a regeneracion timica junto con GH y metformina"],
+    "search_terms": ["DHEA hormone supplement", "aging hormone decline", "hormone health wellness"],
+    "category": "antiaging"
+  },
+  {
+    "id": 262,
+    "topic": "Testosterona y longevidad: el balance entre anabolismo y cancer",
+    "hook": "Testosterona baja envejece pero alta causa problemas",
+    "key_points": ["Testosterona baja en hombres >45 aumenta mortalidad por todas las causas 33% (Journal of Clinical Endocrinology and Metabolism, 2010)", "TRT (terapia de reemplazo) mejora composicion corporal, humor, cognicion y libido", "Estudio TRAVERSE: TRT no aumento riesgo cardiovascular en hombres hipogonadales (NEJM, 2023)", "Sueno, ejercicio de fuerza, zinc, vitamina D y reduccion de grasa corporal aumentan testosterona naturalmente"],
+    "search_terms": ["testosterone hormone health", "men health aging", "muscle strength male"],
+    "category": "longevidad"
+  },
+  {
+    "id": 263,
+    "topic": "Estrogeno y cerebro: por que menopausia afecta cognicion",
+    "hook": "Menopausia puede acelerar deterioro cognitivo rapido",
+    "key_points": ["Estrogeno es neuroprotector: modula neurotransmision, plasticidad sinaptica y flujo sanguineo cerebral (The Lancet Neurology, 2020)", "Mujeres tienen 2x mas riesgo de Alzheimer, parcialmente por caida de estrogeno en menopausia", "Ventana critica: TRH iniciada <10 anios post-menopausia es protectora; despues puede ser danina (The Lancet, 2019)", "Fitoestrógenos (isoflavonas de soja) ofrecen efecto estrogenico debil sin riesgos de TRH sintetica"],
+    "search_terms": ["estrogen hormone women", "menopause health brain", "women aging cognitive"],
+    "category": "longevidad"
+  },
+  {
+    "id": 264,
+    "topic": "Progesterona y sueno: la hormona calmante olvidada",
+    "hook": "Una hormona femenina olvidada es clave para dormir",
+    "key_points": ["Progesterona metaboliza a alopregnanolona que es agonista GABA-A, ansioxlitico y sedante natural (Psychoneuroendocrinology, 2003)", "Caida postmenopausica de progesterona contribuye a insomnio en >50% de mujeres en menopausia", "Progesterona micronizada oral (Prometrium) mejora sueno profundo sin los riesgos de progestagenos sinteticos (Climacteric, 2017)", "Diferencia clave: progesterona bioidentica vs progestagenos sinteticos (medroxiprogesterona) tienen perfiles de riesgo opuestos"],
+    "search_terms": ["progesterone hormone women", "sleep quality menopause", "hormone balance women"],
+    "category": "sueño_ciencia"
+  },
+  {
+    "id": 265,
+    "topic": "Funcion renal y envejecimiento: el organo que pierdes sin saberlo",
+    "hook": "Pierdes 10 porciento de funcion renal cada decada",
+    "key_points": ["Tasa de filtracion glomerular (TFG) declina 1 mL/min/anio desde los 30 (NEJM, 2007)", "Un tercio de mayores de 70 tiene enfermedad renal cronica sin saberlo", "Exceso de proteina, deshidratacion cronica, AINEs y azucar danan nefronas irreversiblemente", "Hidratacion adecuada (2-3L/dia) y control de presion arterial preservan funcion renal"],
+    "search_terms": ["kidney renal health", "aging organ function", "water hydration health"],
+    "category": "longevidad"
+  },
+  {
+    "id": 266,
+    "topic": "Dano por azucar: fructosa y higado graso no alcoholico",
+    "hook": "La fructosa dana tu higado como el alcohol",
+    "key_points": ["Fructosa se metaboliza exclusivamente en higado produciendo lipogenesis de novo similar al etanol (Nature Reviews Gastroenterology, 2010, Lustig)", "NAFLD (higado graso) afecta al 25% de la poblacion mundial y es principal causa de cirrosis en no-bebedores (The Lancet, 2021)", "Fructosa activa DNL, produce acido urico y genera resistencia a insulina hepatica", "Fruta entera es segura por fibra y fitonutrientes que frenan absorcion; zumos y refrescos son el problema"],
+    "search_terms": ["sugar fructose damage", "liver health fatty", "soft drink soda unhealthy"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 267,
+    "topic": "Acido urico: marcador de riesgo cardiovascular ignorado",
+    "hook": "Tu medico ignora este marcador que predice infartos",
+    "key_points": ["Acido urico elevado (>6mg/dL) aumenta riesgo cardiovascular 39% independiente de otros factores (European Heart Journal, 2016)", "Fructosa es la unica azucar que produce acido urico directamente via degradacion de ATP", "Acido urico reduce oxido nitrico endotelial, causando hipertension y disfuncion vascular", "Reduccion con dieta baja en fructosa y cerveza normaliza niveles en 4-6 semanas"],
+    "search_terms": ["uric acid blood test", "heart disease risk", "gout health kidney"],
+    "category": "longevidad"
+  },
+  {
+    "id": 268,
+    "topic": "Omega-6/Omega-3 ratio: el balance inflamatorio que importa",
+    "hook": "Tu dieta tiene 20 veces mas inflamacion de lo normal",
+    "key_points": ["Dieta occidental tiene ratio omega-6/omega-3 de 20:1 vs optimo de 2-4:1 (Biomedicine and Pharmacotherapy, 2002)", "Omega-6 (acido araquidonico) es precursor de prostaglandinas proinflamatorias", "Aceites de semillas (girasol, maiz, soja) son principales fuentes de exceso omega-6", "Restaurar ratio con omega-3 (pescado, linaza) reduce marcadores inflamatorios 30% en 8 semanas"],
+    "search_terms": ["omega 3 6 fish oil", "inflammation balance food", "healthy fat oil cooking"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 269,
+    "topic": "Aceites de semillas: el debate cientifico sobre grasas vegetales",
+    "hook": "Los aceites que usas pueden inflamar tu cuerpo",
+    "key_points": ["Aceites de semillas refinados (girasol, maiz, canola) son fuente principal de exceso omega-6 en dieta moderna", "Oxidacion de acidos grasos poliinsaturados omega-6 genera 4-HNE, aldehido toxico asociado a aterosclerosis (Free Radical Biology and Medicine, 2017)", "Meta-analisis controvertido: reemplazar saturadas por omega-6 no redujo mortalidad cardiovascular (BMJ, 2013, Sydney Diet Heart Study re-analisis)", "Alternativas estables: aceite de oliva, coco, aguacate resisten mejor oxidacion a altas temperaturas"],
+    "search_terms": ["cooking oil vegetable", "seed oil unhealthy debate", "olive oil healthy cooking"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 270,
+    "topic": "Contaminantes ambientales: xenoestrogenos y disruptores endocrinos",
+    "hook": "Plasticos y pesticidas destruyen tus hormonas ahora",
+    "key_points": ["BPA, ftalatos y parabenos mimetizan estrogeno activando receptores estrogenicos (The Lancet Diabetes, 2020)", "Exposicion fetal a BPA programa obesidad y diabetes en descendencia (Endocrine Reviews, 2012)", "Microplasticos detectados en sangre humana de 80% de participantes (Environment International, 2022)", "Reducir: evitar plastico caliente, usar cristal, elegir cosmeticos sin parabenos, comer organico selectivo (Dirty Dozen)"],
+    "search_terms": ["plastic pollution environment", "endocrine disruptor chemical", "BPA free product"],
+    "category": "longevidad"
+  },
+  {
+    "id": 271,
+    "topic": "Metales pesados: mercurio, plomo y aluminio en tu cuerpo",
+    "hook": "Tienes metales toxicos acumulados en tu cuerpo ahora",
+    "key_points": ["Plomo no tiene nivel seguro conocido: <5mcg/dL asociado a deterioro cognitivo (The Lancet Public Health, 2018)", "Mercurio de pescados grandes (atun, pez espada) se acumula en cerebro con vida media de 18 anios", "Aluminio en antitranspirantes y antiácidos es neurotóxico en concentraciones altas (Journal of Alzheimer's Disease, 2011)", "Quelación natural: cilantro, chlorella, NAC y acido alfa lipoico movilizan metales pesados"],
+    "search_terms": ["heavy metal toxic", "mercury fish contamination", "detox health natural"],
+    "category": "longevidad"
+  },
+  {
+    "id": 272,
+    "topic": "Detox hepatico fase 1 y 2: como tu higado te limpia realmente",
+    "hook": "Tu higado tiene dos fases de limpieza automatica",
+    "key_points": ["Fase 1 (CYP450) oxida toxinas haciendolas MAS reactivas temporalmente (The Journal of Biological Chemistry, 2013)", "Fase 2 (conjugacion) une toxinas activadas a glutation, sulfato o glucuronico para excrecion", "Desbalance fase 1 > fase 2 genera intermediarios toxicos que danan ADN", "Cruciferas (sulforafano) activan fase 2; pomelo inhibe CYP3A4 de fase 1 (por eso interactua con farmacos)"],
+    "search_terms": ["liver detox health", "hepatic function organ", "detoxification process body"],
+    "category": "longevidad"
+  },
+  {
+    "id": 273,
+    "topic": "Efecto del alcohol en longevidad: la paradoja francesa desmentida",
+    "hook": "El alcohol moderado NO protege tu corazon",
+    "key_points": ["Meta-analisis con correccion de sesgo del abstemio enfermo: NO hay beneficio cardiovascular del alcohol (The Lancet, 2018, 600000 participantes)", "Incluso consumo leve aumenta riesgo de cancer de mama, esofago y colon dosis-dependiente (Nature, 2022)", "Alcohol es neurotoxica directo: reduce volumen cerebral 0.5% por unidad/dia (Nature Communications, 2022)", "Acetaldehido (metabolito del alcohol) es cancerigeno grupo 1 de IARC"],
+    "search_terms": ["alcohol wine glass", "liver damage alcohol", "brain health alcohol effect"],
+    "category": "longevidad"
+  },
+  {
+    "id": 274,
+    "topic": "Contraccion de timo con la edad: el organo que desaparece",
+    "hook": "Un organo vital empieza a desaparecer en la pubertad",
+    "key_points": ["Timo pierde 3% de tejido funcional por anio reemplazado por grasa (Nature Reviews Immunology, 2005)", "A los 65, queda <10% de tejido timico funcional produciendo celulas T naive", "Sin celulas T naive, no puedes responder a nuevos patogenos eficazmente", "Zinc, vitamina A, hormona de crecimiento y ejercicio pueden retardar involucion timica parcialmente"],
+    "search_terms": ["thymus gland immune", "immune system aging", "organ shrink aging"],
+    "category": "antiaging"
+  },
+  {
+    "id": 275,
+    "topic": "NAD+ y envejecimiento: por que tus niveles caen 50%",
+    "hook": "Un cofactor critico se reduce a la mitad con la edad",
+    "key_points": ["CD38 es la enzima principal que degrada NAD+ y su expresion aumenta con la inflamacion cronica del envejecimiento (Nature Metabolism, 2020)", "NAD+ es cofactor de >500 reacciones enzimaticas incluyendo reparacion de ADN (sirtuinas) y metabolismo energetico", "Precursores NMN/NR, actividad fisica y restriccion calorica restauran niveles", "Inhibir CD38 con apigenina o 78c preserva NAD+ sin necesidad de precursores exogenos"],
+    "search_terms": ["NAD molecule aging", "cell energy metabolism", "anti aging supplement"],
+    "category": "antiaging"
+  },
+  {
+    "id": 276,
+    "topic": "Proteina p53: el guardian del genoma y el cancer",
+    "hook": "Una proteina decide si tu celula vive o muere",
+    "key_points": ["p53 es el gen mas frecuentemente mutado en cancer humano: >50% de tumores tienen p53 defectuoso (Nature, 2000)", "Detecta dano en ADN y decide: reparar, detener ciclo celular o apoptosis", "Elefantes tienen 20 copias de p53 vs 1 en humanos, explicando su bajisima tasa de cancer (JAMA, 2015)", "Estres cronico suprime p53 via MDM2, reduciendo vigilancia anticancer"],
+    "search_terms": ["cancer cells biology", "DNA guardian genome", "tumor cell division"],
+    "category": "antiaging"
+  },
+  {
+    "id": 277,
+    "topic": "Apoptosis: el suicidio celular programado que te protege",
+    "hook": "Tus celulas se suicidan para protegerte del cancer",
+    "key_points": ["Apoptosis elimina 50-70 mil millones de celulas diariamente en adulto (Science, 2000)", "Defectos en apoptosis causan cancer (celulas que deberian morir sobreviven) y autoinmunidad", "Proteinas BCL-2, caspasas y citocromo c orquestan la muerte celular programada", "Compuestos como BH3 mimeticos restauran apoptosis en celulas cancerosas (Nature, 2016)"],
+    "search_terms": ["cell death apoptosis", "programmed cell death", "cancer cell biology"],
+    "category": "antiaging"
+  },
+  {
+    "id": 278,
+    "topic": "Ayuno circadiano: alinear comidas con tu reloj biologico",
+    "hook": "Comer a la hora correcta importa mas que comer poco",
+    "key_points": ["Comer el mismo numero de calorias de noche vs de dia causa 2x mas ganancia de peso (PNAS, 2009)", "Sensibilidad a insulina es maxima por la manana y minima despues de las 8pm", "Cenar temprano (<7pm) reduce HbA1c, presion arterial y peso en 12 semanas sin cambiar calorias (Cell Metabolism, 2019)", "Desayuno es la comida con mayor efecto termico de los alimentos por ritmo circadiano de UCP1"],
+    "search_terms": ["circadian eating schedule", "breakfast morning healthy", "dinner time clock"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 279,
+    "topic": "Dieta planetaria EAT-Lancet: salud humana y del planeta",
+    "hook": "Una dieta puede salvar tu vida y el planeta",
+    "key_points": ["Comision EAT-Lancet 2019: dieta flexitariana con <14g carne roja/dia, >500g vegetales, >100g legumbres", "Adoptarla globalmente evitaria 11 millones de muertes prematuras anuales (The Lancet, 2019)", "Reduce emision de GHG alimentario 50% vs dieta occidental estandar", "Alta en nueces (50g/dia), granos integrales, frutas y aceite vegetal no tropical"],
+    "search_terms": ["planetary health diet", "sustainable food plant", "vegetables healthy planet"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 280,
+    "topic": "Ejercicio en ayunas: ventajas y riesgos reales",
+    "hook": "Entrenar en ayunas tiene beneficios con condiciones",
+    "key_points": ["Ejercicio en ayunas aumenta oxidacion de grasa 20% vs post-comida (British Journal of Nutrition, 2016)", "Potencia autofagia y sensibilidad a insulina via AMPK amplificada en estado ayunado", "HIIT en ayunas puede reducir rendimiento 10-15% por menor glucogeno disponible", "Seguro para moderado <60 min; alta intensidad o >90 min requiere nutricion pre-entrenamiento"],
+    "search_terms": ["fasted exercise morning", "running empty stomach", "workout fasting fitness"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 281,
+    "topic": "Sueno polifasico: la ciencia dice que es mala idea",
+    "hook": "Dormir en fases cortas destruye tu salud cerebral",
+    "key_points": ["No hay evidencia de que sueno polifasico sea sostenible o saludable a largo plazo (Sleep Medicine Reviews, 2017)", "Sueno REM y profundo requieren ciclos continuos de 90 min; fragmentacion los elimina", "Leonardo da Vinci y Nikola Tesla probablemente no practicaban polifasico como dicen los mitos", "Privacion cronica de sueno profundo acelera neurodegeneracion y reduce esperanza de vida (Neuron, 2017)"],
+    "search_terms": ["polyphasic sleep schedule", "napping short sleep", "sleep cycle brain"],
+    "category": "sueño_ciencia"
+  },
+  {
+    "id": 282,
+    "topic": "Adenosina y presion de sueno: por que no puedes mantener los ojos abiertos",
+    "hook": "Una molecula te obliga a dormir cada 16 horas",
+    "key_points": ["Adenosina se acumula en cerebro proporcional a horas despierto, inhibiendo neuronas de vigilia (Nature Reviews Neuroscience, 2005)", "Tras 16h despierto, presion de adenosina es maxima y el sueno es inevitable sin estimulantes", "Cafeina bloquea receptores A1/A2A de adenosina pero NO reduce su acumulacion", "Siestas de 20 min reducen adenosina sin entrar en inercia de sueno profundo"],
+    "search_terms": ["adenosine sleep molecule", "tired drowsy sleepy", "nap rest energy"],
+    "category": "sueño_ciencia"
+  },
+  {
+    "id": 283,
+    "topic": "Sarcopenia: la epidemia silenciosa despues de los 40",
+    "hook": "Pierdes 1 kilo de musculo cada 2 anios despues de 40",
+    "key_points": ["Sarcopenia afecta al 10% de mayores de 60 y al 50% de mayores de 80 (The Lancet, 2019)", "Perdida muscular acelera caidas, fracturas, diabetes, deterioro cognitivo y mortalidad", "Minimo 1.2-1.6g proteina/kg/dia + entrenamiento de fuerza 2-3x/semana para prevenir (ESPEN, 2019)", "Leucina (2.5g por comida) es el aminoacido que mas estimula sintesis proteica muscular via mTOR"],
+    "search_terms": ["muscle loss aging", "sarcopenia elderly weakness", "strength training elderly"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 284,
+    "topic": "Leucina y sintesis proteica: el trigger de mTOR muscular",
+    "hook": "Un aminoacido activa la construccion de musculo directamente",
+    "key_points": ["Leucina activa mTORC1 directamente via sensor Sestrin2, iniciando sintesis proteica muscular (Science, 2016)", "Umbral leucina: 2.5g por comida para maxima estimulacion de MPS en adultos; 3g en >65 anios", "Fuentes ricas: suero de leche (11% leucina), huevos (8%), pollo (8%), soja (8%)", "Distribuir proteina equitativamente en 3-4 comidas maximiza MPS total diaria (Journal of Nutrition, 2014)"],
+    "search_terms": ["leucine amino acid", "protein muscle building", "whey protein supplement"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 285,
+    "topic": "Velocidad de caminata: el signo vital que predice longevidad",
+    "hook": "Tu velocidad al caminar predice cuanto viviras",
+    "key_points": ["Velocidad de marcha <0.8 m/s en >65 predice mortalidad elevada (JAMA, 2011, 35000 participantes)", "Cada 0.1 m/s de mejora reduce mortalidad 12% independiente de otros factores", "Refleja integracion de sistema cardiovascular, pulmonar, neurologico y musculoesquelético", "Caminar rapido (>1.4 m/s) asociado a esperanza de vida de 87+ anios para hombres y 92+ para mujeres"],
+    "search_terms": ["walking speed elderly", "gait speed health", "walking exercise senior"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 286,
+    "topic": "Entrenar piernas: por que el tren inferior es clave para tu cerebro",
+    "hook": "Tus piernas envian señales de salud a tu cerebro",
+    "key_points": ["Ejercicio de piernas con carga estimula neurogénesis via señalizacion mecanica de celulas madre neurales (Frontiers in Neuroscience, 2018)", "Fuerza de piernas es el predictor mas fuerte de funcion cognitiva en gemelos despues de 10 anios (Gerontology, 2016)", "Musculos grandes de piernas secretan mas mioquinas (BDNF, irisina) que musculos pequenos", "Sentadilla a una pierna es test funcional de equilibrio, fuerza y propiocepcion en >50"],
+    "search_terms": ["leg exercise squat", "brain muscle connection", "lower body strength training"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 287,
+    "topic": "Ozono y terapia de oxigeno hiperbarico: evidencia real",
+    "hook": "Oxigeno a presion rejuvenece telomeros en humanos",
+    "key_points": ["HBOT (60 sesiones) alargo telomeros 20% y elimino 37% de celulas senescentes en humanos (Aging, 2020)", "Mecanismo: hiperoxia intermitente activa HIF y defensas antioxidantes via hormesis", "Usado clinicamente para heridas diabeticas, radio-necrosis y embolismo gaseoso (UHMS protocolos)", "Ozonoterapia es mas controversial: evidencia preliminar prometedora pero pocos ensayos grandes (Journal of Alternative and Complementary Medicine, 2011)"],
+    "search_terms": ["hyperbaric oxygen therapy", "oxygen chamber treatment", "HBOT medical therapy"],
+    "category": "antiaging"
+  },
+  {
+    "id": 288,
+    "topic": "Exposicion al frio y dopamina: por que te sientes invencible",
+    "hook": "Agua fria aumenta dopamina 250 porciento naturalmente",
+    "key_points": ["Inmersion en agua a 14C durante 1h aumento dopamina 250% y noradrenalina 530% (European Journal of Applied Physiology, 2000)", "Efecto dopaminergico dura 2-3 horas post-exposicion, similar en magnitud a cocaina pero sin crash", "Activacion de receptores TRPM8 en piel transmite señal al locus coeruleus via medula espinal", "Protocolo minimo efectivo: ducha fria 1-3 min al final, agua lo mas fria posible"],
+    "search_terms": ["cold shower water", "dopamine brain happiness", "ice water immersion"],
+    "category": "longevidad"
+  },
+  {
+    "id": 289,
+    "topic": "Flora oral y enfermedad cardiovascular: periodontitis mata",
+    "hook": "Tus encias inflamadas pueden causar un infarto",
+    "key_points": ["Periodontitis aumenta riesgo cardiovascular 25-50% por bacteriemia cronica (The Lancet, 2005)", "Porphyromonas gingivalis se ha detectado en placas ateromatosas coronarias (Journal of Dental Research, 2014)", "LPS de bacterias orales activa inflamacion sistemica y disfuncion endotelial", "Cepillado 2x/dia + hilo dental reduce PCR sistemica y riesgo cardiovascular"],
+    "search_terms": ["dental health teeth", "gum disease periodontitis", "oral bacteria mouth"],
+    "category": "longevidad"
+  },
+  {
+    "id": 290,
+    "topic": "Suplementacion con nicotinamida riboside en insuficiencia cardiaca",
+    "hook": "Un suplemento mejora corazones debilitados en semanas",
+    "key_points": ["NR (2000mg/dia x6 semanas) aumento NAD+ miocardico y redujo biomarcadores de inflamacion en insuficiencia cardiaca (Science Translational Medicine, 2022)", "Mitocondrias cardiacas dependen criticamente de NAD+ para generar ATP", "Insuficiencia cardiaca tiene NAD+ miocardico 30% menor que corazones sanos", "Primer ensayo que demuestra efecto de precursor NAD+ en tejido cardiaco humano in vivo"],
+    "search_terms": ["heart failure treatment", "NAD supplement heart", "cardiac health medicine"],
+    "category": "suplementos"
+  },
+  {
+    "id": 291,
+    "topic": "Proteina de suero y longevidad: mas alla del gimnasio",
+    "hook": "Proteina de suero tiene beneficios anti-envejecimiento ocultos",
+    "key_points": ["Suero de leche es la fuente natural mas rica en cisteina, precursora de glutation (British Journal of Nutrition, 2006)", "Lactoferrina del suero tiene propiedades antimicrobianas, antiinflamatorias y anticancer (Biochemistry and Cell Biology, 2017)", "Peptidos bioactivos del suero reducen presion arterial (inhibidores de ECA) y modulan inmunidad", "20-40g post-ejercicio maximiza sintesis proteica muscular en todas las edades (Journal of the Academy of Nutrition and Dietetics, 2017)"],
+    "search_terms": ["whey protein supplement", "protein shake fitness", "dairy milk nutrition"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 292,
+    "topic": "Ayuno de proteina periodico: dias de baja proteina para autofagia",
+    "hook": "Un dia sin proteina activa la limpieza celular",
+    "key_points": ["Restriccion proteica periodica (<10% calorias) activa autofagia y reduce IGF-1 transitoriamente (Cell Metabolism, 2014)", "1-2 dias/semana de baja proteina ciclan entre mTOR (anabolismo) y autofagia (limpieza)", "Dieta Prolon de Valter Longo usa este principio: 5 dias baja proteina cada mes", "No apto para >65 anios con riesgo de sarcopenia: necesitan proteina consistente diaria"],
+    "search_terms": ["protein cycling diet", "autophagy fasting concept", "plant based meal low protein"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 293,
+    "topic": "Ejercicio y sistema linfatico: como limpiar sin bomba cardiaca",
+    "hook": "Tu sistema linfatico no tiene bomba y necesita movimiento",
+    "key_points": ["Sistema linfatico no tiene bomba central: depende de contraccion muscular y respiracion profunda para circular (Nature Reviews Immunology, 2004)", "Transporta 2-3L/dia de fluido, celulas inmunes, proteinas y desechos metabolicos", "Sedentarismo causa estancamiento linf atico con edema e inmunidad reducida", "Rebounding (mini-trampolin), caminata y respiracion diafragmatica estimulan flujo linfatico"],
+    "search_terms": ["lymphatic system body", "exercise movement active", "lymph drainage health"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 294,
+    "topic": "Crosslinks de colageno: por que tu piel pierde elasticidad",
+    "hook": "Tu piel se endurece como cuero con la edad",
+    "key_points": ["Crosslinks de colageno por AGEs y radicales libres rigidizan piel, arterias y tendones (Matrix Biology, 2014)", "Produccion de colageno declina 1% por anio desde los 20 y 30% total a los 50", "UV-A penetra dermis y degrada colageno via MMP-1; UV-B causa dano superficial", "Retinol (vitamina A) estimula sintesis de colageno y bloquea MMPs (Journal of Investigative Dermatology, 1996)"],
+    "search_terms": ["skin aging wrinkles", "collagen structure skin", "anti aging skincare"],
+    "category": "antiaging"
+  },
+  {
+    "id": 295,
+    "topic": "Retinol y tretinoina: las unicas moleculas anti-arrugas probadas",
+    "hook": "Solo dos moleculas anti-arrugas funcionan de verdad",
+    "key_points": ["Tretinoina (retinoico) es la unica molecula topica aprobada por FDA para fotoenvejecimiento (NEJM, 1992)", "Aumenta recambio celular, estimula colageno I y III, e inhibe MMPs", "Retinol (OTC) se convierte en retinoico en piel con 20% de potencia; tretinoina requiere prescripcion", "Irritacion inicial (retinizacion) desaparece en 4-6 semanas; protector solar es obligatorio con retinoides"],
+    "search_terms": ["retinol skincare cream", "anti wrinkle treatment", "skin anti aging serum"],
+    "category": "antiaging"
+  },
+  {
+    "id": 296,
+    "topic": "Proteccion solar y envejecimiento: el estudio de camioneros",
+    "hook": "Un lado de tu cara envejece 20 anios mas rapido",
+    "key_points": ["Foto famosa de NEJM 2012: camionero con lado izquierdo (ventana) 20 anios mas envejecido que derecho", "80% del envejecimiento visible de piel es por radiacion UV, no por edad cronologica (Dermato-Endocrinology, 2012)", "UV-A (320-400nm) penetra cristales y causa dano en colageno profundo todo el anio", "SPF50 aplicado correctamente (2mg/cm2) bloquea 98% de UV-B pero no todo UV-A: buscar PA++++ o filtros amplios"],
+    "search_terms": ["sunscreen protection UV", "sun damage skin aging", "face aging sun exposure"],
+    "category": "antiaging"
+  },
+  {
+    "id": 297,
+    "topic": "Niacinamida topica: vitamina B3 para piel y barrera cutanea",
+    "hook": "Vitamina B3 en la piel repara barrera y manchas",
+    "key_points": ["Niacinamida 4-5% topica reduce hiperpigmentacion 35-68% en 8 semanas (British Journal of Dermatology, 2002)", "Aumenta produccion de ceramidas y acidos grasos libres, fortaleciendo barrera cutanea", "Reduce tamaño de poro, mejora textura y tiene efecto antiinflamatorio local", "Compatible con la mayoria de activos; menos irritante que retinoides y acidos"],
+    "search_terms": ["niacinamide skincare serum", "vitamin B3 skin", "skin barrier health"],
+    "category": "antiaging"
+  },
+  {
+    "id": 298,
+    "topic": "Envejecimiento del oido: presbiacusia y perdida de celulas ciliadas",
+    "hook": "Pierdes audicion desde los 25 sin darte cuenta",
+    "key_points": ["Presbiacusia afecta al 33% de mayores de 65 y al 50% de mayores de 75 (The Lancet, 2017)", "Celulas ciliadas cocleares NO se regeneran en humanos: dano es permanente", "Perdida auditiva no tratada duplica riesgo de demencia (The Lancet, 2017 Livingston Commission)", "Audifonos reducen deterioro cognitivo 48% en mayores con hipoacusia (The Lancet, 2023, ACHIEVE trial)"],
+    "search_terms": ["hearing loss elderly", "ear cochlea cells", "hearing aid technology"],
+    "category": "longevidad"
+  },
+  {
+    "id": 299,
+    "topic": "Terapia con luz azul-turquesa: melanopsina y ritmo circadiano",
+    "hook": "Un tipo especifico de luz azul regula tu reloj",
+    "key_points": ["Melanopsina en celulas ganglionares retinianas es maxima sensible a 480nm (azul-turquesa) (Science, 2005)", "Esta longitud de onda suprime melatonina y sincroniza reloj maestro supraquismatico", "Exposicion matutina a 480nm mejora alertness y humor; nocturna destruye sueno", "Gafas que bloquean >480nm (ambar/naranja) preservan melatonina si se usan 2h pre-sueno"],
+    "search_terms": ["blue light spectrum", "melanopsin retina eye", "blue blocking glasses"],
+    "category": "sueño_ciencia"
+  },
+  {
+    "id": 300,
+    "topic": "Micronutrientes y fertilidad: lo que la ciencia dice sobre concebir",
+    "hook": "5 nutrientes determinan si puedes concebir o no",
+    "key_points": ["Zinc es esencial para espermatogenesis: deficiencia reduce conteo espermatico 50% (Reproductive Biology and Endocrinology, 2018)", "Folato (no acido folico) previene defectos del tubo neural y mejora calidad ovocitaria", "CoQ10 (600mg/dia) mejoro reserva ovarica en mujeres >35 en ensayo controlado (Reproductive BioMedicine Online, 2018)", "Vitamina D <30ng/mL reduce tasas de implantacion IVF 40% (Human Reproduction, 2018)"],
+    "search_terms": ["fertility health nutrition", "pregnancy vitamins supplement", "reproductive health science"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 301,
+    "topic": "Resistencia a la insulina cerebral: diabetes tipo 3",
+    "hook": "Tu cerebro puede volverse diabetico sin saberlo",
+    "key_points": ["Alzheimer ha sido llamado diabetes tipo 3 por resistencia a insulina cerebral (Journal of Alzheimer's Disease, 2005)", "Insulina cerebral regula plasticidad sinaptica, metabolismo neuronal y clearance de amiloide", "Diabetes tipo 2 aumenta riesgo de Alzheimer 65% (The Lancet, 2020)", "Insulina intranasal mejoro cognicion en pacientes con deterioro cognitivo leve (Neurology, 2018)"],
+    "search_terms": ["brain insulin resistance", "Alzheimer diabetes brain", "cognitive decline glucose"],
+    "category": "longevidad"
+  },
+  {
+    "id": 302,
+    "topic": "Fenotipos de envejecimiento: no todos envejecemos igual",
+    "hook": "Hay 4 formas distintas de envejecer biologicamente",
+    "key_points": ["Estudio Stanford identifico 4 ageotipos: metabolico, inmune, hepatico y renal (Nature Medicine, 2020)", "Cada persona envejece mas rapido en un sistema especifico segun genetica y estilo de vida", "Biomarcadores longitudinales permiten identificar tu ageotipo para intervencion personalizada", "Epigenetica y proteómica son las herramientas que definen tu ageotipo con mas precision"],
+    "search_terms": ["aging types biology", "personalized medicine health", "biological age testing"],
+    "category": "antiaging"
+  },
+  {
+    "id": 303,
+    "topic": "Hematopoiesis clonal: mutaciones sanguineas que aumentan con la edad",
+    "hook": "Tu sangre acumula mutaciones peligrosas con la edad",
+    "key_points": ["CHIP (hematopoiesis clonal de potencial indeterminado) presente en >10% de mayores de 70 (NEJM, 2014)", "Celulas madre sanguineas mutadas (DNMT3A, TET2, ASXL1) se expanden clonalmente", "CHIP duplica riesgo de enfermedad cardiovascular independiente de factores clasicos (NEJM, 2017)", "No es cancer pero es pre-leucemia con riesgo de 0.5-1% anual de transformacion maligna"],
+    "search_terms": ["blood cells mutation", "stem cell blood aging", "hematology research lab"],
+    "category": "antiaging"
+  },
+  {
+    "id": 304,
+    "topic": "Piel y vitamina D: el dilema proteccion solar vs sintesis",
+    "hook": "Protegerte del sol puede causarte deficiencia critica",
+    "key_points": ["SPF30 reduce sintesis de vitamina D 97% en piel (Dermato-Endocrinology, 2013)", "70% de la poblacion mundial es insuficiente en vitamina D (<30ng/mL)", "Solucion: 10-15 min de sol sin proteccion en brazos y piernas antes de aplicar SPF", "Suplementacion con D3 (1000-4000 UI/dia) con K2 es alternativa segura para pieles de alto riesgo"],
+    "search_terms": ["vitamin D sun skin", "sunscreen vitamin D dilemma", "sunshine health skin"],
+    "category": "longevidad"
+  },
+  {
+    "id": 305,
+    "topic": "Grasa parda y termogenesis: tu calefaccion interna anti-obesidad",
+    "hook": "Un tipo de grasa quema calorias como un horno",
+    "key_points": ["Grasa parda (BAT) quema glucosa y grasa para generar calor via UCP1 (NEJM, 2009)", "Adultos con BAT detectable tienen mejor perfil metabolico, menos grasa visceral y menos diabetes", "Frio, ejercicio y ciertos alimentos (capsaicina, te verde) activan BAT", "Irisina (mioquina del ejercicio) convierte grasa blanca en beige (brite) con funcion termogenica (Nature, 2012)"],
+    "search_terms": ["brown fat thermogenesis", "cold therapy weight loss", "fat tissue biology"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 306,
+    "topic": "Capsaicina: el compuesto del chile que extiende la vida",
+    "hook": "El picante del chile puede extender tu vida",
+    "key_points": ["Consumo regular de picante reduce mortalidad por todas las causas 14% en estudio de 500000 personas (BMJ, 2015)", "Capsaicina activa TRPV1, mejorando metabolismo, vasodilatacion y termogenesis", "Reduce apetito via aumento de GLP-1 y PYY en intestino (Appetite, 2014)", "Activa grasa parda y browning de grasa blanca via TRPV1 en tejido adiposo"],
+    "search_terms": ["chili pepper spicy", "capsaicin molecule red", "spicy food health"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 307,
+    "topic": "Te verde EGCG: el polifenol con mas estudios anti-cancer",
+    "hook": "El te verde contiene la molecula anticancer mas estudiada",
+    "key_points": ["EGCG inhibe angiogenesis tumoral, induce apoptosis y bloquea metastasis en cultivos celulares (Cancer Research, 2006)", "3-5 tazas/dia reducen mortalidad por todas las causas 12% en meta-analisis (European Journal of Clinical Nutrition, 2015)", "EGCG activa AMPK y autofagia similar a restriccion calorica (Molecular Nutrition and Food Research, 2016)", "Absorcion baja (2-5%): tomar con vitamina C y en ayunas mejora biodisponibilidad 5x"],
+    "search_terms": ["green tea matcha", "EGCG antioxidant molecule", "tea health benefits"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 308,
+    "topic": "Hormesis por ejercicio: por que el dolor post-entrenamiento es bueno",
+    "hook": "El dolor muscular activa reparacion anti-envejecimiento",
+    "key_points": ["Micro-dano muscular activa celulas satelite (madre) que reparan Y mejoran musculo (Nature, 2016)", "ROS generados durante ejercicio activan NRF2, SOD y catalasa = defensas antioxidantes reforzadas", "Suplementar antioxidantes inmediatamente post-ejercicio puede BLOQUEAR adaptaciones beneficiosas (PNAS, 2009)", "Ventana de 24-48h de inflamacion aguda es necesaria para supercompensacion y adaptacion"],
+    "search_terms": ["muscle soreness exercise", "workout recovery pain", "exercise adaptation science"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 309,
+    "topic": "Fascia y movilidad: el tejido conectivo olvidado",
+    "hook": "Un tejido invisible restringe tu movimiento sin saberlo",
+    "key_points": ["Fascia es red continua de tejido conectivo que envuelve cada musculo, organo y nervio (Journal of Bodywork and Movement Therapies, 2012)", "Contiene 6x mas receptores sensoriales que musculos, modulando propiocepcion y dolor", "Inmovilidad causa fibrosis fascial con crosslinks de colageno que rigidizan movimiento", "Foam rolling, estiramiento dinamico y movimiento variado mantienen hidratacion y deslizamiento fascial"],
+    "search_terms": ["fascia connective tissue", "foam rolling exercise", "flexibility mobility stretching"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 310,
+    "topic": "Dolor cronico y neuroplasticidad: el cerebro aprende a doler",
+    "hook": "Tu cerebro puede aprender a mantener dolor fantasma",
+    "key_points": ["Dolor cronico >3 meses reorganiza corteza somatosensorial amplificando señales nociceptivas (Nature Reviews Neuroscience, 2013)", "Cerebro crea circuitos de dolor que se autorefuerzan independientes de la lesion original", "Neuroplasticidad funciona en ambas direcciones: se puede desaprender dolor cronico", "Terapia PRT (Pain Reprocessing Therapy) elimino dolor cronico en 66% de pacientes (JAMA Psychiatry, 2022)"],
+    "search_terms": ["chronic pain brain", "pain neuroscience concept", "brain neuroplasticity"],
+    "category": "longevidad"
+  },
+  {
+    "id": 311,
+    "topic": "Microplasticos en sangre: el contaminante invisible dentro de ti",
+    "hook": "Tienes particulas de plastico circulando en tu sangre",
+    "key_points": ["Microplasticos detectados en sangre del 77% de participantes sanos (Environment International, 2022)", "Ingerimos promedio 5g de plastico por semana (equivalente a una tarjeta de credito) via agua y alimentos", "Nanoplaticos cruzan barrera intestinal, placenta y barrera hematoencefalica", "Actuan como disruptores endocrinos y vehiculos de contaminantes quimicos adsorbidos (The Lancet Planetary Health, 2023)"],
+    "search_terms": ["microplastic pollution water", "plastic contamination food", "blood test laboratory"],
+    "category": "longevidad"
+  },
+  {
+    "id": 312,
+    "topic": "Sueño REM y regulacion emocional: procesamiento nocturno",
+    "hook": "Tu cerebro procesa traumas solo en sueno REM",
+    "key_points": ["Sueno REM suprime noradrenalina, permitiendo reprocesar memorias emocionales sin activacion de estres (Nature Reviews Neuroscience, 2009)", "Deprivacion de REM aumenta reactividad emocional 60% y reduce funcion prefrontal (Current Biology, 2007)", "PTSD se caracteriza por fragmentacion de REM con pesadillas recurrentes", "Alcohol y cannabis suprimen REM significativamente incluso en dosis moderadas"],
+    "search_terms": ["REM sleep brain dream", "emotional processing night", "sleep stages cycle"],
+    "category": "sueño_ciencia"
+  },
+  {
+    "id": 313,
+    "topic": "Glucosamina y mortalidad: el suplemento articular con sorpresa",
+    "hook": "Un suplemento para articulaciones reduce mortalidad 18 porciento",
+    "key_points": ["Glucosamina redujo mortalidad por todas las causas 18% y cardiovascular 22% en estudio de 495000 personas (BMJ, 2019)", "Mecanismo propuesto: mimesis de restriccion calorica via inhibicion de glicólisis (Aging Cell, 2014)", "Activa autofagia similar a ayuno en modelos de C. elegans y ratones", "En articulaciones: efecto modesto sobre dolor pero significativo sobre mortalidad como hallazgo inesperado"],
+    "search_terms": ["glucosamine supplement joint", "joint health cartilage", "longevity supplement capsule"],
+    "category": "suplementos"
+  },
+  {
+    "id": 314,
+    "topic": "Acrilamida: el cancerigeno que creas al cocinar",
+    "hook": "Cocinar patatas fritas crea un cancerigeno potente",
+    "key_points": ["Acrilamida se forma por reaccion de Maillard >120C en alimentos ricos en asparagina y azucar (NEJM, 2002)", "Clasificada grupo 2A (probablemente cancerigena) por IARC; forma aductos de ADN", "Alimentos criticos: patatas fritas, pan tostado, cafe, galletas, cereales", "Reduccion: cocinar a <170C, dorar menos, remojar patatas antes de freir, agregar romero (antioxidante)"],
+    "search_terms": ["acrylamide fried food", "cooking temperature cancer", "french fries unhealthy"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 315,
+    "topic": "Sueno y sistema inmune: una noche mala reduce defensas 70%",
+    "hook": "Una mala noche reduce tus defensas un 70 porciento",
+    "key_points": ["4 horas de sueno reduce actividad de celulas NK (natural killer) 70% (Sleep, 2002)", "Vacunacion con <6h de sueno produce 50% menos anticuerpos que con 7-8h (Sleep, 2012)", "Sueno regula distribucion de celulas inmunes: T-cells migran a ganglios durante sueno (Journal of Experimental Medicine, 2019)", "Trabajadores nocturnos tienen 29% mas riesgo de infecciones y 30% mas riesgo de cancer (The Lancet Oncology, 2019)"],
+    "search_terms": ["sleep immune system", "tired sick immunity", "white blood cells defense"],
+    "category": "sueño_ciencia"
+  },
+  {
+    "id": 316,
+    "topic": "Curcumina y depresion: eficacia comparable a fluoxetina",
+    "hook": "La curcumina funciona como un antidepresivo en estudios",
+    "key_points": ["Curcumina 1000mg/dia fue tan efectiva como fluoxetina 20mg en depresion mayor (Phytotherapy Research, 2014)", "Modula serotonina, dopamina, BDNF y reduce neuroinflamacion via NF-kB", "Meta-analisis de 6 ensayos confirmo efecto antidepresivo significativo (Journal of Affective Disorders, 2017)", "Mecanismo complementario al de SSRIs: combinar puede ser sinergico sin efectos adversos adicionales"],
+    "search_terms": ["turmeric curcumin supplement", "depression mental health", "brain serotonin molecule"],
+    "category": "suplementos"
+  },
+  {
+    "id": 317,
+    "topic": "Envejecimiento olfativo: perder olfato predice mortalidad",
+    "hook": "Perder el olfato predice mortalidad en 5 anios",
+    "key_points": ["Perdida de olfato en >57 anios predice mortalidad a 5 anios mejor que cancer o insuficiencia cardiaca (PLOS ONE, 2014)", "Bulbo olfatorio es una de las pocas zonas con neurogénesis adulta; su declive refleja envejecimiento cerebral global", "Anosmia se asocia a fases preclínicas de Parkinson y Alzheimer 5-10 anios antes del diagnostico", "Entrenamiento olfativo (oler 4 esencias 2x/dia) mejora olfato y estimula neurogénesis (The Laryngoscope, 2009)"],
+    "search_terms": ["smell olfactory sense", "nose anosmia aging", "essential oils aromatherapy"],
+    "category": "longevidad"
+  },
+  {
+    "id": 318,
+    "topic": "Probioticos especificos: no todas las cepas sirven para lo mismo",
+    "hook": "El probiotico generico que tomas no te sirve",
+    "key_points": ["Lactobacillus rhamnosus GG previene diarrea asociada a antibioticos (The Lancet, 2006)", "Bifidobacterium longum 1714 reduce estres percibido y cortisol (Translational Psychiatry, 2016)", "Lactobacillus reuteri aumenta testosterona y grosor de piel en ratones (PLOS ONE, 2014)", "Efecto es cepa-especifico: L. rhamnosus GG NO es intercambiable con L. rhamnosus HN001"],
+    "search_terms": ["probiotic supplement capsule", "bacteria strain specific", "gut health microbiome"],
+    "category": "suplementos"
+  },
+  {
+    "id": 319,
+    "topic": "Dieta MIND y Alzheimer: alimentacion neuroprotectora",
+    "hook": "Una dieta especifica reduce Alzheimer 53 porciento",
+    "key_points": ["Dieta MIND (hibrido mediterranea-DASH) redujo riesgo de Alzheimer 53% con adherencia estricta (Alzheimer's and Dementia, 2015)", "10 grupos alimentarios neuroprotectores: verduras de hoja, bayas, nueces, aceite oliva, granos integrales, pescado, legumbres, aves, vino (1 copa), otros vegetales", "5 grupos a evitar: mantequilla, queso, carne roja, fritura, bolleria", "Incluso adherencia moderada redujo riesgo 35%"],
+    "search_terms": ["MIND diet brain food", "brain healthy nutrition", "Alzheimer prevention diet"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 320,
+    "topic": "Compuestos organosulfurados del ajo: allicin y mas alla",
+    "hook": "El ajo crudo tiene una molecula que mata bacterias",
+    "key_points": ["Allicina se forma solo al triturar ajo crudo por reaccion de alliinasa (solo estable 1h)", "Ajo envejecido (AGE) tiene S-alilcisteina mas estable y biodisponible que allicina", "Meta-analisis: ajo reduce presion arterial sistolica 8mmHg equivalente a un farmaco antihipertensivo (BMC Cardiovascular Disorders, 2008)", "Compuestos organosulfurados activan NRF2 y AMPK con efecto anticancer documentado in vitro"],
+    "search_terms": ["garlic cloves raw", "allicin molecule garlic", "garlic health supplement"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 321,
+    "topic": "Mitofagia: cuando tus celulas reciclan mitocondrias danadas",
+    "hook": "Tus celulas eliminan baterias defectuosas automaticamente",
+    "key_points": ["Mitofagia selectiva via PINK1/Parkin elimina mitocondrias con potencial de membrana bajo (Cell, 2010)", "Defectos en PINK1 y Parkin causan Parkinson de inicio temprano", "Ejercicio, ayuno y urolitina A son los 3 activadores mas potentes de mitofagia", "Acumulacion de mitocondrias danadas aumenta ROS y activa inflamasoma NLRP3"],
+    "search_terms": ["mitophagy cell recycling", "mitochondria cleanup", "cell biology autophagy"],
+    "category": "antiaging"
+  },
+  {
+    "id": 322,
+    "topic": "Inflamasoma NLRP3: el alarma celular del envejecimiento",
+    "hook": "Una alarma celular se activa excesivamente con la edad",
+    "key_points": ["NLRP3 detecta peligro (cristales, patogenos, ADN mitocondrial) y activa IL-1beta e IL-18 (Nature Reviews Immunology, 2019)", "Hiperactivacion cronica de NLRP3 es driver central de inflammaging", "Celulas senescentes, cristales de colesterol y AGEs activan NLRP3 permanentemente", "Inhibidores como MCC950 y compuestos naturales (sulforafano, omega-3) reducen activacion de NLRP3"],
+    "search_terms": ["inflammasome cell alarm", "inflammation molecular pathway", "immune cell activation"],
+    "category": "antiaging"
+  },
+  {
+    "id": 323,
+    "topic": "Dano por azucar en colageno: glicacion y piel vieja",
+    "hook": "El azucar destruye el colageno de tu cara literalmente",
+    "key_points": ["Glucosa se une a fibras de colageno formando AGEs que rigidizan y amarillean la piel (British Journal of Dermatology, 2001)", "HbA1c (marcador de glucosa a 3 meses) correlaciona con edad aparente de la piel", "Cada 1mmol/L de glucosa en ayunas aumenta edad percibida 5 meses (Age, 2013)", "Eliminar azucares refinados y alimentos con indice glucemico >70 frena glicacion cutanea"],
+    "search_terms": ["sugar skin damage", "aging face wrinkles", "glycation collagen molecule"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 324,
+    "topic": "Biogenesis de ribosomas y envejecimiento: fabricar proteinas cuesta",
+    "hook": "Tus fabricas de proteinas se degradan con la edad",
+    "key_points": ["Ribosomas son maquinaria de traduccion que consume 60% de energia celular (Nature, 2018)", "Reduccion de biogenesis ribosomal (via mTOR inhibicion) extiende vida en levadura, gusanos y ratones", "Paradoja: menos ribosomas = menos proteinas pero mas precision y longevidad celular", "Restriccion calorica reduce biogenesis ribosomal, liberando energia para reparacion (Cell Reports, 2017)"],
+    "search_terms": ["ribosome cell biology", "protein synthesis molecule", "cell aging mechanism"],
+    "category": "antiaging"
+  },
+  {
+    "id": 325,
+    "topic": "Estres del reticulo endoplasmatico: cuando la fabrica celular colapsa",
+    "hook": "La fabrica de proteinas de tu celula puede colapsar",
+    "key_points": ["ER estres ocurre cuando proteinas mal plegadas superan capacidad de chaperonaje del RE (Science, 2006)", "Activa UPR (Unfolded Protein Response): primero adapta, luego causa apoptosis si persiste", "Estres cronico del RE vinculado a diabetes tipo 2, neurodegeneracion y envejecimiento acelerado", "TUDCA (acido tauroursodeoxicolico) es chaperona quimica que alivia estres del RE (Diabetes, 2010)"],
+    "search_terms": ["endoplasmic reticulum cell", "protein folding stress", "cell factory biology"],
+    "category": "antiaging"
+  },
+  {
+    "id": 326,
+    "topic": "Telomerasa: la enzima que reconstruye tus telomeros",
+    "hook": "Una enzima puede reconstruir los protectores de tu ADN",
+    "key_points": ["Elizabeth Blackburn y Carol Greider ganaron Nobel 2009 por descubrir telomerasa", "Telomerasa es activa en celulas madre y reproductivas pero silenciada en somaticas adultas", "Meditacion, ejercicio y omega-3 aumentan actividad de telomerasa 30-43% (The Lancet Oncology, 2013, Ornish)", "Celulas cancerosas reactivan telomerasa en 90% de tumores para lograr inmortalidad"],
+    "search_terms": ["telomerase enzyme DNA", "telomere chromosome end", "cell immortality cancer"],
+    "category": "antiaging"
+  },
+  {
+    "id": 327,
+    "topic": "Dieta cetogenica y epilepsia refractaria en adultos",
+    "hook": "Adultos con epilepsia responden a dieta cetogenica tambien",
+    "key_points": ["33% de adultos con epilepsia refractaria logran >50% reduccion de crisis con keto (Epilepsia, 2018)", "BHB modula canales de potasio KATP y reduce excitabilidad neuronal (Neuroscience Letters, 2015)", "Dieta cetogenica modificada de Atkins es mas facil de mantener que keto clasica en adultos", "Efectos secundarios: calculos renales (6%), dislipemia transitoria, estreñimiento"],
+    "search_terms": ["ketogenic diet epilepsy", "brain seizure treatment", "ketone body therapy"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 328,
+    "topic": "Cacao flavanoles y funcion cognitiva: el chocolate que mejora tu cerebro",
+    "hook": "El cacao mejora tu memoria en 3 meses segun Harvard",
+    "key_points": ["COSMOS-Mind (Harvard): 500mg flavanoles/dia mejoro memoria episodica en >60 anios (PNAS, 2023)", "Flavanoles aumentan flujo sanguineo cerebral 10% y modulan BDNF", "Cacao >70% sin alkalizacion (proceso Dutch destruye 90% de flavanoles)", "Dosis efectiva: 400-900mg flavanoles/dia = 10-20g de cacao puro en polvo"],
+    "search_terms": ["dark chocolate cacao", "brain food cognitive", "flavanol cocoa health"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 329,
+    "topic": "Entrenamiento de temperatura: combinar sauna y frio",
+    "hook": "Alternar calor y frio es la hormesis definitiva",
+    "key_points": ["Contraste termico (sauna 80C + inmersion fria 10C) amplifica liberacion de noradrenalina y HSPs simultaneamente", "Finlandeses que combinan sauna y lago frio tienen menor mortalidad cardiovascular (JAMA Internal Medicine, 2015)", "Protocolo: 15-20 min sauna seguido de 1-3 min inmersion fria, repetir 2-3 ciclos", "Vasodilatacion-vasoconstriccion ciclica entrena elasticidad arterial como gimnasia vascular"],
+    "search_terms": ["sauna ice bath contrast", "hot cold therapy", "temperature training wellness"],
+    "category": "longevidad"
+  },
+  {
+    "id": 330,
+    "topic": "Deplecion de NAD+ por CD38: la enzima que roba tu juventud",
+    "hook": "Una enzima destruye la molecula clave de tu juventud",
+    "key_points": ["CD38 en celulas inmunes aumenta con edad e inflamacion, degradando NAD+ hasta 50% (Nature Metabolism, 2020)", "Es responsable de >90% del consumo de NAD+ en tejidos de mamiferos envejecidos", "Inhibidores de CD38 (apigenina, luteolina, 78c) preservan NAD+ mas eficientemente que suplementar precursores", "Celulas senescentes sobreexpresan CD38, creando ciclo vicioso de deplecion de NAD+"],
+    "search_terms": ["CD38 enzyme molecule", "NAD depletion aging", "anti aging enzyme inhibitor"],
+    "category": "antiaging"
+  },
+  {
+    "id": 331,
+    "topic": "Ejercicio y cancer: reduccion de riesgo por tipo de tumor",
+    "hook": "El ejercicio reduce riesgo de 13 tipos de cancer",
+    "key_points": ["Ejercicio regular reduce riesgo de 13 tipos de cancer en estudio de 1.44 millones de personas (JAMA Internal Medicine, 2016)", "Mayor reduccion: esofago (-42%), higado (-27%), pulmon (-26%), rinion (-23%)", "Mecanismos: reduce insulina/IGF-1, inflamacion, estrogeno y mejora inmunidad antitumoral", "150 min/semana de moderado o 75 min de vigoroso para efecto protector significativo"],
+    "search_terms": ["exercise cancer prevention", "running fitness health", "cancer research science"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 332,
+    "topic": "Natacion en agua fria: el ejercicio doble de frio y movimiento",
+    "hook": "Nadar en agua fria duplica los beneficios del ejercicio",
+    "key_points": ["Natacion en agua fria combina ejercicio aerobico con termogenesis adaptativa (International Journal of Circumpolar Health, 2004)", "Nadadores de aguas abiertas tienen 15% mas grasa parda activa que controles", "Mejora respuesta inmune innata: aumento de leucocitos y monocitos (Thrombosis Research, 1996)", "Riesgos reales: shock por frio, hipotermia, arritmia; adaptacion gradual es esencial"],
+    "search_terms": ["cold water swimming", "open water swimming nature", "ice swimming winter"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 333,
+    "topic": "Respiracion nasal vs bucal: impacto en sueno y rendimiento",
+    "hook": "Respirar por la boca destruye tu sueno y rendimiento",
+    "key_points": ["Nariz filtra, calienta, humidifica aire y produce oxido nitrico antimicrobiano (Nitric Oxide, 2002)", "Respiracion bucal reduce oxido nitrico 50%, empeorando oxigenacion tisular", "Tape bucal nocturno mejoro AHI (apnea-hipopnea) en pacientes con apnea leve (Journal of Clinical Sleep Medicine, 2015)", "Respiracion nasal activa diafragma y parasimpatico; bucal activa simpatico y estres"],
+    "search_terms": ["nasal breathing nose", "mouth tape sleep", "breathing exercise health"],
+    "category": "longevidad"
+  },
+  {
+    "id": 334,
+    "topic": "Oxitocina y longevidad: la hormona del abrazo protege tu corazon",
+    "hook": "Abrazar 20 segundos protege tu corazon literalmente",
+    "key_points": ["Oxitocina liberada con contacto social tiene efectos antiinflamatorios y cardioprotectores (Psychoneuroendocrinology, 2009)", "20 segundos de abrazo o contacto fisico liberan oxitocina medible en sangre", "Reduce cortisol, presion arterial y marcadores de estres oxidativo", "Personas con relaciones estables tienen 50% menos riesgo cardiovascular que solitarios (European Heart Journal, 2016)"],
+    "search_terms": ["oxytocin hug embrace", "social bonding love", "heart health connection"],
+    "category": "longevidad"
+  },
+  {
+    "id": 335,
+    "topic": "Biohacking: las herramientas con mas evidencia cientifica real",
+    "hook": "Solo 5 herramientas de biohacking tienen evidencia solida",
+    "key_points": ["Nivel A de evidencia: ejercicio (cardio + fuerza), sueno 7-8h, restriccion calorica/TRE, exposicion al frio, sauna", "Nivel B: suplementos (NMN/NR, creatina, omega-3, vitamina D), luz roja, grounding", "Nivel C: nootropicos, BPC-157, peptidos (investigacion preclínica mayormente)", "Gadgets (anillos, relojes) miden pero no intervienen: herramienta no es intervencion"],
+    "search_terms": ["biohacking tools technology", "health optimization science", "wearable health device"],
+    "category": "longevidad"
+  },
+  {
+    "id": 336,
+    "topic": "Sonido binaural y ondas cerebrales: ciencia o pseudociencia",
+    "hook": "Sonidos binaurales pueden cambiar tus ondas cerebrales",
+    "key_points": ["Beats binaurales crean frecuencia perceptual en corteza auditiva cuando cada oido recibe tono diferente", "EEG muestra entrainment de ondas alfa (10Hz) con beats binaurales en rango alfa (Frontiers in Human Neuroscience, 2015)", "Meta-analisis: efecto pequeno pero significativo en ansiedad y atencion (Psychological Research, 2020)", "40Hz gamma binaural investigado como posible estimulacion no invasiva para Alzheimer (Nature, 2016, Tsai)"],
+    "search_terms": ["binaural beats sound", "brain waves EEG", "meditation audio technology"],
+    "category": "longevidad"
+  },
+  {
+    "id": 337,
+    "topic": "Estimulacion transcraneal: el futuro de la neurociencia domestica",
+    "hook": "Electricidad leve en tu cerebro mejora la cognicion",
+    "key_points": ["tDCS (transcranial Direct Current Stimulation) modula excitabilidad cortical con 1-2mA (Nature Reviews Neuroscience, 2017)", "2mA durante 20 min mejora memoria de trabajo y aprendizaje motor en multiples estudios", "Dispositivos domesticos FDA-aprobados para dolor (ej: Cefaly para migrana) pero NO para cognicion", "Posicionamiento preciso de electrodos es critico: colocacion incorrecta puede empeorar rendimiento"],
+    "search_terms": ["brain stimulation tDCS", "neuroscience technology device", "brain enhancement cognitive"],
+    "category": "longevidad"
+  },
+  {
+    "id": 338,
+    "topic": "Vitamina E y controversia: cuando un antioxidante puede danar",
+    "hook": "Este antioxidante popular puede aumentar mortalidad",
+    "key_points": ["Meta-analisis: vitamina E sintetica (dl-alfa-tocoferol) >400 UI/dia aumento mortalidad 4% (Annals of Internal Medicine, 2005)", "Vitamina E natural tiene 8 formas (4 tocoferoles + 4 tocotrienoles); suplementos solo tienen una", "Gamma-tocoferol y tocotrienoles tienen efectos anticancer que alfa-tocoferol solo bloquea", "Fuentes alimentarias (nueces, semillas, aguacate) proveen mezcla completa sin riesgo"],
+    "search_terms": ["vitamin E supplement", "antioxidant controversy risk", "nuts seeds healthy fat"],
+    "category": "suplementos"
+  },
+  {
+    "id": 339,
+    "topic": "Hormona paratiroides y calcio: el sistema de control oseo",
+    "hook": "Una hormona invisible controla si pierdes hueso cada dia",
+    "key_points": ["PTH mantiene calcio sanguineo sacandolo de huesos cuando dieta es insuficiente (NEJM, 2018)", "Hiperparatiroidismo secundario por deficit de vitamina D acelera osteoporosis silenciosamente", "PTH cronica alta = resorcion osea; PTH pulsatil (teriparatida) = formacion osea", "Ingesta de calcio <800mg/dia con vitamina D baja crea ciclo de perdida osea continua"],
+    "search_terms": ["bone calcium health", "parathyroid hormone gland", "osteoporosis bone loss"],
+    "category": "longevidad"
+  },
+  {
+    "id": 340,
+    "topic": "Sueno y consolidacion de memoria: como se graban tus recuerdos",
+    "hook": "Tus recuerdos se graban solo mientras duermes profundo",
+    "key_points": ["Hipocampo replaya memorias del dia hacia neocortex durante sharp-wave ripples en NREM profundo (Nature Neuroscience, 2007)", "Estudiar antes de dormir mejora retencion 40% vs estudiar y seguir despierto", "Cada ciclo de sueno NREM-REM consolida tipo diferente de memoria: NREM = declarativa, REM = procedimental", "Privacion de sueno post-aprendizaje impide consolidacion permanentemente (Science, 2000)"],
+    "search_terms": ["memory consolidation sleep", "brain hippocampus learning", "studying sleep memory"],
+    "category": "sueño_ciencia"
+  },
+  {
+    "id": 341,
+    "topic": "Inositol: la molecula que mejora sensibilidad a insulina y ansiedad",
+    "hook": "Una molecula natural mejora insulina y ansiedad juntos",
+    "key_points": ["Myo-inositol 2-4g/dia mejora sensibilidad a insulina comparable a metformina en SOP (Gynecological Endocrinology, 2012)", "D-chiro-inositol complementa en ratio 40:1 con myo-inositol para efecto optimo", "18g/dia de inositol redujo ataques de panico tan efectivamente como fluvoxamina en ensayo controlado (American Journal of Psychiatry, 1995)", "Es segundo mensajero de insulina y modula señalizacion serotonergica simultaneamente"],
+    "search_terms": ["inositol supplement capsule", "insulin sensitivity health", "anxiety treatment natural"],
+    "category": "suplementos"
+  },
+  {
+    "id": 342,
+    "topic": "Acidos humicos y fulvicos: los minerales del suelo que ya no comes",
+    "hook": "Los suelos empobrecidos te roban minerales esenciales",
+    "key_points": ["Acido fulvico es quelante natural que mejora absorcion de minerales y penetracion celular (Journal of Diabetes Research, 2018)", "Suelos agricolas modernos tienen 85% menos minerales que hace 100 anios (UN Earth Summit, 1992)", "Acido shilajit (fuente natural de fulvico) mejoro testosterona 20% en hombres infertiles (Andrologia, 2016)", "Propiedades antioxidantes, antiinflamatorias y detoxificantes documentadas in vitro"],
+    "search_terms": ["fulvic acid soil mineral", "shilajit supplement natural", "mineral rich soil earth"],
+    "category": "suplementos"
+  },
+  {
+    "id": 343,
+    "topic": "Ejercicio excentrico: bajar es mas importante que subir para musculos",
+    "hook": "Bajar la pesa es mas importante que subirla",
+    "key_points": ["Contraccion excentrica genera 20-60% mas fuerza que concentrica con menor costo metabolico (Journal of Applied Physiology, 2014)", "Produce mayor hipertrofia y remodelacion tendinosa que concentrica aislada", "Caminar cuesta abajo, bajar escaleras y fase negativa de pesas son excentricos cotidianos", "14 semanas de excentrico mejoro fuerza muscular en >65 igual que concentrico con la mitad de tiempo (Scandinavian Journal of Medicine and Science in Sports, 2017)"],
+    "search_terms": ["eccentric exercise training", "weight lifting negative", "muscle contraction science"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 344,
+    "topic": "Indice glucemico vs carga glucemica: cual importa mas",
+    "hook": "El indice glucemico te miente sobre los alimentos",
+    "key_points": ["IG mide velocidad de glucosa; CG = IG x gramos carbohidratos / 100, midiendo impacto real (American Journal of Clinical Nutrition, 2002)", "Sandia: IG 72 (alto) pero CG 4 (baja) porque tiene poca glucosa por porcion", "CG de dieta total predice riesgo de diabetes y cardiovascular mejor que IG aislado (The Lancet, 2004)", "Combinar con proteina, grasa y fibra reduce CG de cualquier comida 30-50%"],
+    "search_terms": ["glycemic index food", "blood sugar nutrition", "healthy carbohydrate food"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 345,
+    "topic": "Ayuno intermitente y masa muscular: se pierde musculo o no",
+    "hook": "El ayuno NO destruye tu musculo si haces esto",
+    "key_points": ["TRE 16:8 con entrenamiento de fuerza preservo masa muscular en 8 semanas de estudio (Journal of Translational Medicine, 2016)", "Hormona de crecimiento aumenta 2000% durante ayuno de 24h compensando catabolismo (Journal of Clinical Investigation, 1988)", "Leucina y proteina concentrada en ventana de alimentacion mantiene MPS adecuada", "Perdida muscular significativa empieza despues de 72h+ de ayuno total sin ejercicio"],
+    "search_terms": ["intermittent fasting muscle", "muscle preservation diet", "strength training fasting"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 346,
+    "topic": "Coherencia genetica-epigenetica: por que gemelos identicos envejecen diferente",
+    "hook": "Gemelos identicos pueden tener 10 anios de diferencia biologica",
+    "key_points": ["Gemelos monocigoticos divergen epigeneticamente con la edad: a los 50 tienen miles de diferencias de metilacion (PNAS, 2005)", "Ambiente, dieta, ejercicio y estres modifican epigenetica independiente del ADN compartido", "Gemelo fumador/sedentario puede tener edad biologica 10 anios mayor que su identico activo", "Demuestra que estilo de vida > genetica para determinar velocidad de envejecimiento"],
+    "search_terms": ["identical twins aging", "epigenetic difference twins", "DNA methylation aging"],
+    "category": "antiaging"
+  },
+  {
+    "id": 347,
+    "topic": "N-acetilcisteina: el precursor de glutation con 50 anios de uso clinico",
+    "hook": "Un medicamento de 50 anios es anti-envejecimiento poderoso",
+    "key_points": ["NAC es mucolitico aprobado desde 1963, antidoto de intoxicacion por paracetamol y precursor de glutation", "600mg 2x/dia reduce frecuencia de resfriados 53% y severidad en estudio de 6 meses (European Respiratory Journal, 1997)", "Componente de GlyNAC que reviertio hallmarks de envejecimiento en ensayo clinico (Journal of Clinical Investigation, 2021)", "Antioxidante, antiinflamatorio, neuroprotector y hepatoprotector con perfil de seguridad de decadas"],
+    "search_terms": ["NAC supplement capsule", "glutathione precursor", "antioxidant liver health"],
+    "category": "suplementos"
+  },
+  {
+    "id": 348,
+    "topic": "Intermittent Living: la filosofia de estres intermitente para longevidad",
+    "hook": "Vivir comodo todo el tiempo te envejece rapidamente",
+    "key_points": ["Concepto de Siim Land y Peter Attia: variar temperatura, comida, ejercicio e hidratacion como ancestros", "Cuerpo humano evoluciono con estres intermitente: frio, hambre, esfuerzo fisico, no con comfort constante", "Termoneutralidad y abundancia alimentaria constante desactivan vias de supervivencia (sirtuinas, AMPK, autofagia)", "Protocolo: incluir ayuno periodico, exposicion al frio/calor, ejercicio vigoroso y privacion sensorial moderada"],
+    "search_terms": ["intermittent living concept", "survival stress adaptation", "ancestral lifestyle nature"],
+    "category": "longevidad"
+  },
+  {
+    "id": 349,
+    "topic": "Espermidina en germen de trigo: la fuente mas rica del mundo",
+    "hook": "Un alimento barato tiene la mayor concentracion de anti-aging",
+    "key_points": ["Germen de trigo contiene 24.3 mg/100g de spermidina, la concentracion mas alta de cualquier alimento (Food Chemistry, 2011)", "Spermidina es la unica poliamina que induce autofagia consistentemente en todos los modelos testados", "1 cucharada (7g) de germen de trigo aporta ~1.7mg, dosis similar a ensayos clinicos", "Almacenar refrigerado y consumir crudo (en yogur, batidos) para preservar actividad enzimatica"],
+    "search_terms": ["wheat germ nutrition", "spermidine food source", "healthy food superfood"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 350,
+    "topic": "Envejecimiento de las celulas beta pancreaticas: diabetes como enfermedad del envejecimiento",
+    "hook": "Tus celulas pancreaticas envejecen y causan diabetes",
+    "key_points": ["Celulas beta pierden capacidad replicativa y secretora con edad (Cell Metabolism, 2017)", "Acumulacion de celulas beta senescentes reduce secrecion de insulina 30-50% entre 30 y 70 anios", "Senoterapia con dasatinib+quercetina restauro funcion beta pancreatica en ratones diabeticos (Cell Metabolism, 2019)", "Ejercicio y restriccion calorica preservan masa de celulas beta funcionantes"],
+    "search_terms": ["pancreas beta cells", "diabetes insulin cells", "aging pancreatic function"],
+    "category": "antiaging"
+  },
+  {
+    "id": 351,
+    "topic": "GLP-1 natural: como tu intestino controla el apetito",
+    "hook": "Tu intestino produce la hormona de los farmacos para adelgazar",
+    "key_points": ["GLP-1 (glucagon-like peptide 1) es hormona incretina que reduce apetito y glucosa (Nature Reviews Drug Discovery, 2022)", "Semaglutida (Ozempic) y tirzepatida mimetizan GLP-1 natural con vida media extendida", "Fibra, proteina y acidos grasos de cadena corta estimulan liberacion natural de GLP-1 intestinal", "Yerba mate, berberina y curcumina aumentan GLP-1 endogeno modestamente sin farmacos"],
+    "search_terms": ["GLP-1 hormone intestine", "appetite control hormone", "gut hormone satiety"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 352,
+    "topic": "Riesgo residual cardiovascular: cuando el colesterol no explica todo",
+    "hook": "Tu colesterol es normal pero puedes tener un infarto",
+    "key_points": ["50% de eventos cardiovasculares ocurren con LDL <100mg/dL (The Lancet, 2017)", "Riesgo residual: inflamacion (PCR), Lp(a), ApoB, trigliceridos/HDL ratio, y resistencia a insulina", "PCR ultrasensible <1mg/L y ApoB <90mg/dL son metas mas informativas que LDL solo", "Estudio REDUCE-IT: icosapent etil (omega-3 EPA) redujo eventos CV 25% independiente de estatinas (NEJM, 2019)"],
+    "search_terms": ["cardiovascular risk factors", "heart attack prevention", "cholesterol blood test"],
+    "category": "longevidad"
+  },
+  {
+    "id": 353,
+    "topic": "Lp(a): el factor de riesgo cardiovascular genetico que nadie mide",
+    "hook": "Un factor genetico triplica tu riesgo de infarto sin saberlo",
+    "key_points": ["Lp(a) es determinado 90% geneticamente y no cambia con dieta o ejercicio (European Heart Journal, 2022)", "Niveles >50mg/dL (20% de poblacion) triplican riesgo de enfermedad coronaria y estenosis aortica", "Solo se necesita medir UNA vez en la vida porque es constante geneticamente", "Farmacos anti-Lp(a) (olpasiran, pelacarsen) en fase III con resultados esperados 2025-2026"],
+    "search_terms": ["Lp(a) lipoprotein blood", "cardiovascular genetic risk", "heart disease genetics"],
+    "category": "longevidad"
+  },
+  {
+    "id": 354,
+    "topic": "Magnesio y arritmia cardiaca: el mineral que estabiliza tu corazon",
+    "hook": "Este mineral previene arritmias cardiacas peligrosas",
+    "key_points": ["Magnesio regula canales de potasio y calcio en miocitos cardiacos estabilizando ritmo (Circulation, 2019)", "Hipomagnesemia presente en 50-60% de pacientes en UCI con arritmia (Critical Care Medicine, 2015)", "300mg/dia de magnesio reduce extrasistoles ventriculares 50% en deficientes (American Heart Journal, 2003)", "Taurato y glicinato son las formas con mejor tropismo cardiaco"],
+    "search_terms": ["magnesium heart health", "cardiac rhythm arrhythmia", "heart supplement mineral"],
+    "category": "suplementos"
+  },
+  {
+    "id": 355,
+    "topic": "Insulina pulsatil vs basal: por que 3 comidas ganan a 6 snacks",
+    "hook": "Comer 6 veces al dia envejece mas que comer 3",
+    "key_points": ["Cada comida/snack genera pico de insulina; >5 picos/dia mantienen insulina cronica elevada (Cell Metabolism, 2014)", "Insulina cronica alta activa mTOR permanentemente, bloqueando autofagia", "3 comidas sin snacks permite periodos de insulina basal donde se activa limpieza celular", "Hiperinsulinemia es factor independiente de envejecimiento, cancer, y neurodegeneracion"],
+    "search_terms": ["insulin meal timing", "snacking eating frequency", "metabolic health food"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 356,
+    "topic": "Biodisponibilidad de hierro: hemo vs no-hemo y sus implicaciones",
+    "hook": "El hierro vegetal se absorbe 10 veces menos que animal",
+    "key_points": ["Hierro hemo (animal) se absorbe 15-35% vs no-hemo (vegetal) 2-20% (American Journal of Clinical Nutrition, 2010)", "Vitamina C aumenta absorcion de no-hemo 3-6 veces; te y cafe la reducen 60%", "Exceso de hierro (ferritina >300) genera radicales libres via reaccion de Fenton y acelera envejecimiento (Free Radical Biology and Medicine, 2015)", "Donar sangre 2-3 veces/anio reduce ferritina y se asocia a menor riesgo cardiovascular"],
+    "search_terms": ["iron mineral supplement", "red meat iron source", "blood donation health"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 357,
+    "topic": "Melatonina y cancer: el rol anticancer de la hormona del sueno",
+    "hook": "La hormona del sueno tiene efectos anticancer documentados",
+    "key_points": ["Melatonina es oncostatico: inhibe angiogenesis, induce apoptosis y modula inmunidad antitumoral (International Journal of Molecular Sciences, 2017)", "Trabajadoras nocturnas con supresion cronica de melatonina tienen 30-50% mas riesgo de cancer de mama (IARC, The Lancet Oncology, 2019)", "Luz nocturna suprime melatonina creando microambiente tumoral permisivo", "20mg de melatonina como adyuvante a quimioterapia mejoro supervivencia en tumores solidos (PLOS ONE, 2012 meta-analisis)"],
+    "search_terms": ["melatonin cancer research", "night shift worker health", "sleep darkness cancer"],
+    "category": "sueño_ciencia"
+  },
+  {
+    "id": 358,
+    "topic": "Boro: el mineral traza que mejora densidad osea y testosterona",
+    "hook": "Un mineral olvidado mejora huesos y hormonas juntos",
+    "key_points": ["Boro 6mg/dia aumento testosterona libre 28% y redujo estrogeno 39% en hombres (Journal of Trace Elements in Medicine and Biology, 2011)", "Mejora metabolismo de calcio, magnesio y vitamina D potenciando densidad osea", "Reduce marcadores inflamatorios (PCR, TNF-alfa) a dosis de 3-10mg/dia", "Fuentes: aguacate, nueces, pasas, ciruelas, manzana; suplemento: acido borico o fructoborato"],
+    "search_terms": ["boron mineral supplement", "bone health mineral", "testosterone hormone health"],
+    "category": "suplementos"
+  },
+  {
+    "id": 359,
+    "topic": "Ejercicio y BDNF: como el movimiento fertiliza tu cerebro",
+    "hook": "El ejercicio es fertilizante para tu cerebro literalmente",
+    "key_points": ["BDNF (Brain-Derived Neurotrophic Factor) aumenta 200-300% inmediatamente post-ejercicio aerobico (Neuroscience, 2013)", "BDNF promueve supervivencia neuronal, crecimiento dendritico y potenciacion sinaptica", "Niveles bajos de BDNF asociados a depresion, Alzheimer y menor plasticidad cognitiva", "Intensidad importa: HIIT genera mas BDNF que cardio moderado; efecto dura 1-2h post-ejercicio (Journal of Clinical Medicine, 2019)"],
+    "search_terms": ["BDNF brain exercise", "running brain health", "neuroplasticity fitness"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 360,
+    "topic": "Orexina y vigilia: la molecula que te mantiene despierto",
+    "hook": "Sin esta molecula te quedarias dormido al instante",
+    "key_points": ["Neuronas orexinergicas en hipotalamo lateral son el interruptor maestro de vigilia (Nature, 2007)", "Narcolepsia es causada por destruccion autoinmune de neuronas de orexina (Nature Medicine, 2004)", "Orexina integra señales de hambre, estres y luz para regular arousal", "Nuevos farmacos anti-insomnio (suvorexant, lemborexant) bloquean receptores de orexina (NEJM, 2014)"],
+    "search_terms": ["orexin wakefulness brain", "sleep wake cycle", "narcolepsy sleep disorder"],
+    "category": "sueño_ciencia"
+  },
+  {
+    "id": 361,
+    "topic": "Nicotinamida y piel: prevencion de cancer cutaneo",
+    "hook": "Vitamina B3 reduce cancer de piel 23 porciento",
+    "key_points": ["Nicotinamida 500mg 2x/dia redujo nuevos canceres de piel no-melanoma 23% en pacientes de alto riesgo (NEJM, 2015, estudio ONTRAC)", "Mecanismo: repone NAD+ en queratinocitos danados por UV, mejorando reparacion de ADN", "Sin efectos secundarios significativos: B3 es vitamina esencial y segura a estas dosis", "Efecto solo mientras se toma: al suspender, riesgo vuelve a nivel basal"],
+    "search_terms": ["nicotinamide vitamin B3", "skin cancer prevention", "sun damage skin protection"],
+    "category": "suplementos"
+  },
+  {
+    "id": 362,
+    "topic": "Reloj epigenetico de segunda generacion: GrimAge y DunedinPACE",
+    "hook": "Nuevos relojes miden velocidad de envejecimiento en tiempo real",
+    "key_points": ["GrimAge predice mortalidad y morbilidad mejor que Horvath original (Aging, 2019, Levine y Lu)", "DunedinPACE mide velocidad actual de envejecimiento (pace) no solo edad acumulada (eLife, 2022)", "Intervenciones como restriccion calorica y ejercicio reducen DunedinPACE en meses", "Tests comerciales (TruDiagnostic, myDNAge) cuestan $200-500 y se repiten cada 6-12 meses para tracking"],
+    "search_terms": ["epigenetic clock test", "biological age measurement", "DNA methylation aging"],
+    "category": "antiaging"
+  },
+  {
+    "id": 363,
+    "topic": "Sueno bifasico: el patron historico de sueno en dos bloques",
+    "hook": "Nuestros ancestros dormian en dos bloques por la noche",
+    "key_points": ["Antes de iluminacion electrica, sueno bifasico (primer sueno + segundo sueno) era normal (At Day's Close, Ekirch, American Historical Review, 2001)", "Registros historicos muestran 1-2h de vigilia nocturna entre bloques de 4h de sueno", "Periodo de vigilia nocturna tenia niveles altos de prolactina con efecto relajante y restaurativo", "Sueno consolidado de 8h es invento post-industrial; no necesariamente es el patron biologico optimo"],
+    "search_terms": ["biphasic sleep history", "two phase sleep ancient", "sleep pattern historical"],
+    "category": "sueño_ciencia"
+  },
+  {
+    "id": 364,
+    "topic": "Ferritina como marcador de envejecimiento: el hierro que te oxida",
+    "hook": "Demasiado hierro almacenado te oxida por dentro",
+    "key_points": ["Ferritina >200ng/mL en hombres y >150 en mujeres postmenopausicas asociada a mayor mortalidad (BMC Medicine, 2022)", "Hierro libre genera radicales hidroxilo via reaccion de Fenton, el radical mas danino", "Meta-analisis: donantes de sangre regulares tienen 88% menos riesgo de infarto (American Journal of Epidemiology, 1998)", "Quelantes naturales: te verde (EGCG), curcumina e IP6 (acido fitico) reducen hierro libre sin afectar eritropoyesis"],
+    "search_terms": ["ferritin iron blood test", "iron overload oxidation", "blood donation health benefit"],
+    "category": "longevidad"
+  },
+  {
+    "id": 365,
+    "topic": "Los 12 hallmarks del envejecimiento actualizados 2023",
+    "hook": "La ciencia actualizo las 12 causas del envejecimiento",
+    "key_points": ["Actualizacion 2023 de Cell aniade 3 nuevos hallmarks a los 9 originales de 2013: macroautofagia comprometida, inflamacion cronica y disbiosis (Cell, 2023, Lopez-Otin)", "Los 12: inestabilidad genomica, erosion telomerica, alteraciones epigeneticas, perdida de proteostasis, macroautofagia, sensing de nutrientes desregulado, disfuncion mitocondrial, senescencia celular, agotamiento de stem cells, comunicacion intercelular alterada, inflamacion cronica, disbiosis", "Cada hallmark es intervenible con combinaciones de dieta, ejercicio, farmacos y suplementos", "Vision sistemica: envejecimiento es tratable como condicion medica, no como destino inevitable"],
+    "search_terms": ["hallmarks aging science", "aging biology 2023", "cell aging mechanism"],
+    "category": "antiaging"
+  }
+]

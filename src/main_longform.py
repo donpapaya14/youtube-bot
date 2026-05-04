@@ -370,15 +370,20 @@ def run_truecrime(channel: dict, work_dir: str) -> dict:
     """Genera video true crime: guión AI + voz inglés + B-roll Pexels."""
     duration_min = channel.get("duration_minutes", 12)
 
-    # 1. Elegir tema
-    topic = random.choice(channel["topics"])
-    log.info("Tema true crime: %s", topic)
+    # 1. Intentar script pre-escrito
+    script = _load_prewritten_script(channel)
+    if script:
+        log.info("Usando guión pre-escrito: %s", script.get("title", "?"))
+    else:
+        # Elegir tema y generar con AI
+        topic = random.choice(channel["topics"])
+        log.info("Tema true crime: %s", topic)
 
-    # 2. Generar guión completo con AI (con validación de longitud)
-    log.info("Generando guión...")
-    script = None
-    for attempt in range(3):
-        script = _call_with_fallback(f"""You are a true crime documentary scriptwriter for YouTube.
+    # 2. Generar guión completo con AI si no hay pre-escrito
+    if not script:
+        log.info("Generando guión con AI...")
+        for attempt in range(3):
+            script = _call_with_fallback(f"""You are a true crime documentary scriptwriter for YouTube.
 Write a LONG, detailed 15-minute narration script about: {topic}
 
 LEGAL & ETHICAL RULES (MANDATORY):
@@ -424,13 +429,13 @@ Respond JSON:
   "thumbnail_text": "2-3 word dramatic text for thumbnail"
 }}""", primary="github", temperature=0.7)
 
-        num_segs = len(script.get("segments", []))
-        total_words = sum(len(s.get("voice", "").split()) for s in script.get("segments", []))
-        log.info("Guión intento %d: %d segmentos, %d palabras", attempt + 1, num_segs, total_words)
+            num_segs = len(script.get("segments", []))
+            total_words = sum(len(s.get("voice", "").split()) for s in script.get("segments", []))
+            log.info("Guión intento %d: %d segmentos, %d palabras", attempt + 1, num_segs, total_words)
 
-        if num_segs >= 20 and total_words >= 1500:
-            break
-        log.warning("Guión muy corto (%d segs, %d words), reintentando...", num_segs, total_words)
+            if num_segs >= 20 and total_words >= 1500:
+                break
+            log.warning("Guión muy corto (%d segs, %d words), reintentando...", num_segs, total_words)
 
     if len(script.get("segments", [])) < 15:
         raise RuntimeError(f"Guión demasiado corto: {len(script.get('segments', []))} segmentos")
@@ -565,6 +570,212 @@ def _generate_truecrime_thumbnail(script: dict, channel: dict, work_dir: str) ->
 
 
 # ============================================================
+# NARRATED EDUCATIONAL — Documentales educativos en español
+# ============================================================
+
+def run_narrated_educational(channel: dict, work_dir: str) -> dict:
+    """Genera documental educativo: guión pre-escrito o AI + voz español + B-roll Pexels."""
+    duration_min = channel.get("duration_minutes", 12)
+
+    # 1. Intentar script pre-escrito primero
+    script = _load_prewritten_script(channel)
+
+    if script:
+        log.info("Usando guión pre-escrito: %s", script.get("title", "?"))
+    else:
+        # 2. Elegir tema y generar con AI
+        topic = random.choice(channel["topics"])
+        log.info("Tema educativo: %s", topic)
+
+        niche = channel.get("niche", "educación")
+        tone = channel.get("tone", "informativo")
+        lang = channel.get("language", "es")
+        target_segments = max(25, duration_min * 2)
+        target_words = max(1800, duration_min * 150)
+
+        for attempt in range(3):
+            script = _call_with_fallback(f"""Eres un guionista de documentales educativos para YouTube en español.
+Canal: {channel['name']} | Nicho: {niche}
+Tono: {tone}
+
+CREA UN DOCUMENTAL COMPLETO SOBRE: {topic}
+
+REQUISITOS DE CONTENIDO:
+- OBLIGATORIO: {target_segments} segmentos mínimo
+- Cada segmento: 3-5 frases de narración (50-80 palabras)
+- Total: {target_words}+ palabras de narración
+- TODO real y VERIFICABLE — cita estudios, universidades, fuentes reales
+- Si mencionas un dato, di DE DÓNDE viene (universidad, estudio, año)
+- Lenguaje {'en español' if lang == 'es' else 'en inglés'}, accesible, sin tecnicismos innecesarios
+
+ESTRUCTURA:
+1-3: Gancho impactante + dato que sorprenda + contexto del tema
+4-8: Desarrollo principal — datos, estudios, explicaciones
+9-14: Profundización — casos reales, ejemplos prácticos
+15-20: Más evidencia, contrastes, mitos vs realidad
+21-{target_segments}: Conclusiones prácticas + CTA potente
+
+ÚLTIMO SEGMENTO: CTA con urgencia — "Si esto te ha parecido útil, lo que viene la próxima semana te va a sorprender. Suscríbete para no perdértelo."
+
+Responde JSON:
+{{
+  "title": "título SEO max 60 chars, con 1 emoji relevante",
+  "description": "descripción YouTube 3-4 líneas con keywords naturales, fuentes mencionadas, y CTA al canal",
+  "tags": ["tag1", "tag2", ..., "tag10"],
+  "segments": [
+    {{"voice": "narración completa 3-5 frases con datos reales", "visual": "descripción visual para B-roll en inglés (búsqueda Pexels)", "duration": 25}},
+    ... (mínimo {target_segments} segmentos)
+  ],
+  "thumbnail_text": "2-3 palabras impactantes para thumbnail"
+}}""", primary="github", temperature=0.7)
+
+            num_segs = len(script.get("segments", []))
+            total_words = sum(len(s.get("voice", "").split()) for s in script.get("segments", []))
+            log.info("Guión intento %d: %d segmentos, %d palabras", attempt + 1, num_segs, total_words)
+
+            if num_segs >= 20 and total_words >= 1500:
+                break
+            log.warning("Guión corto (%d segs, %d words), reintentando...", num_segs, total_words)
+
+    if len(script.get("segments", [])) < 15:
+        raise RuntimeError(f"Guión demasiado corto: {len(script.get('segments', []))} segmentos")
+
+    # Añadir CTA del canal a la descripción
+    cta = channel.get("cta_description", "")
+    script["description"] = script.get("description", "") + cta
+
+    # 3. Generar voz en español con Edge TTS
+    log.info("Generando voz...")
+    voice_id = channel.get("voice", "es-ES-AlvaroNeural")
+    voiced = _generate_english_voice(script["segments"], work_dir, voice_id)
+
+    # 4. Descargar B-roll de Pexels
+    log.info("Descargando B-roll...")
+    _BANNED_TERMS = {"covid", "coronavirus", "pandemic", "vaccine", "mask", "hospital patient", "icu", "ventilator"}
+    visuals = [s.get("visual", "educational documentary") for s in script["segments"]]
+    visuals = list({v for v in visuals if not any(b in v.lower() for b in _BANNED_TERMS)})
+    clips = _download_nature_clips(visuals[:10], work_dir, num_clips=15)
+
+    if not clips:
+        clips = _download_nature_clips(
+            ["educational documentary", "science laboratory", "nature landscape", "city aerial", "people lifestyle"],
+            work_dir, num_clips=10,
+        )
+
+    # 5. Thumbnail
+    thumbnail = None
+    try:
+        thumbnail = _generate_educational_thumbnail(script, channel, work_dir)
+    except Exception as e:
+        log.warning("Thumbnail error: %s", e)
+
+    # 6. Ensamblar (reutiliza assembler de true crime — misma estructura)
+    output_path = os.path.join(work_dir, "final_educational.mp4")
+    assemble_truecrime(
+        clips=clips,
+        voiced_segments=voiced,
+        output_path=output_path,
+    )
+
+    return {
+        "video_path": output_path,
+        "title": script["title"],
+        "description": script["description"],
+        "tags": channel.get("default_tags", []) + script.get("tags", []),
+        "topic": script.get("title", ""),
+        "thumbnail": thumbnail,
+    }
+
+
+def _load_prewritten_script(channel: dict) -> dict | None:
+    """Carga un guión pre-escrito del directorio scripts/ si hay disponibles."""
+    project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+    # Mapear nombre de canal a directorio de scripts
+    name_map = {
+        "SaludLongevidad": "salud_longevidad",
+        "CatBrothers": "catbrothers",
+        "FinanzasClara": "finanzas_clara",
+        "DarkFiles": "dark_files",
+    }
+    dir_name = name_map.get(channel["name"], channel["name"].lower())
+    scripts_dir = os.path.join(project_root, "scripts", dir_name)
+
+    if not os.path.isdir(scripts_dir):
+        return None
+
+    # Buscar scripts JSON no usados
+    used_file = os.path.join(scripts_dir, ".used")
+    used = set()
+    if os.path.exists(used_file):
+        with open(used_file) as f:
+            used = set(f.read().strip().split("\n"))
+
+    available = [
+        f for f in sorted(os.listdir(scripts_dir))
+        if f.endswith(".json") and f not in used
+    ]
+
+    if not available:
+        log.info("Sin guiones pre-escritos disponibles para %s, usando AI", channel["name"])
+        return None
+
+    # Usar el primero disponible y marcarlo como usado
+    script_file = available[0]
+    path = os.path.join(scripts_dir, script_file)
+
+    with open(path) as f:
+        script = json.load(f)
+
+    # Marcar como usado
+    with open(used_file, "a") as f:
+        f.write(script_file + "\n")
+
+    log.info("Guión pre-escrito cargado: %s (%d segmentos)", script_file, len(script.get("segments", [])))
+    return script
+
+
+def _generate_educational_thumbnail(script: dict, channel: dict, work_dir: str) -> str:
+    """Genera thumbnail educativo con Imagen 4."""
+    api_key = os.getenv("GEMINI_API_KEY")
+    if not api_key:
+        return None
+
+    import requests as req
+    import base64
+
+    text_overlay = script.get("thumbnail_text", channel["name"])
+    style = channel.get("thumbnail_style", "clean educational")
+    prompt = (
+        f"Professional YouTube thumbnail, {style}, "
+        f"bold text overlay says '{text_overlay}', "
+        f"eye-catching, clean design, no watermark, HD"
+    )
+
+    try:
+        resp = req.post(
+            "https://generativelanguage.googleapis.com/v1beta/models/imagen-4.0-generate-001:predict",
+            headers={"x-goog-api-key": api_key, "Content-Type": "application/json"},
+            json={
+                "instances": [{"prompt": prompt}],
+                "parameters": {"sampleCount": 1, "aspectRatio": "16:9"},
+            },
+            timeout=120,
+        )
+        resp.raise_for_status()
+        data = resp.json()
+        if "predictions" in data:
+            img_bytes = base64.b64decode(data["predictions"][0]["bytesBase64Encoded"])
+            path = os.path.join(work_dir, "thumbnail.png")
+            with open(path, "wb") as f:
+                f.write(img_bytes)
+            return path
+    except Exception as e:
+        log.warning("Thumbnail Imagen 4: %s", str(e)[:80])
+    return None
+
+
+# ============================================================
 # ORQUESTADOR
 # ============================================================
 
@@ -572,6 +783,7 @@ RUNNERS = {
     "lofi_music": run_lofi,
     "nature_ambient": run_nature,
     "true_crime": run_truecrime,
+    "narrated_educational": run_narrated_educational,
 }
 
 

@@ -1,0 +1,968 @@
+[
+  {
+    "id": 1,
+    "title": "Cómo dormir mejor por las noches — guía completa para descansar de verdad",
+    "slug": "como-dormir-mejor-por-las-noches",
+    "meta_description": "Descubre 15 técnicas probadas para dormir mejor cada noche. Mejora tu higiene del sueño y despierta con energía desde hoy mismo.",
+    "target_keyword": "cómo dormir mejor por las noches",
+    "secondary_keywords": ["higiene del sueño", "trucos para dormir rápido", "mejorar calidad del sueño"],
+    "outline": [
+      "H2: Por qué no puedes dormir bien — causas más comunes",
+      "H2: 10 hábitos de higiene del sueño que funcionan",
+      "H2: Qué cenar para dormir mejor",
+      "H2: Ejercicios de relajación antes de dormir",
+      "H2: Cuántas horas necesitas según tu edad",
+      "H2: FAQ — preguntas frecuentes sobre el sueño"
+    ],
+    "word_count_target": 2500,
+    "category": "sueño",
+    "month_suggested": 1
+  },
+  {
+    "id": 2,
+    "title": "Desayunos saludables y rápidos para toda la semana — ideas en 10 minutos",
+    "slug": "desayunos-saludables-rapidos-semana",
+    "meta_description": "7 desayunos saludables que preparas en 10 minutos o menos. Recetas fáciles, nutritivas y perfectas para llevar al trabajo.",
+    "target_keyword": "desayunos saludables y rápidos",
+    "secondary_keywords": ["desayunos sanos para adelgazar", "ideas desayuno saludable", "desayuno rápido y nutritivo"],
+    "outline": [
+      "H2: Por qué el desayuno importa más de lo que crees",
+      "H2: 7 desayunos saludables en menos de 10 minutos",
+      "H2: Desayunos para llevar al trabajo",
+      "H2: Qué evitar en el desayuno — errores comunes",
+      "H2: FAQ — preguntas frecuentes sobre desayunos saludables"
+    ],
+    "word_count_target": 2000,
+    "category": "nutrición",
+    "month_suggested": 1
+  },
+  {
+    "id": 3,
+    "title": "Beneficios de caminar 30 minutos al día — lo que dice la ciencia",
+    "slug": "beneficios-caminar-30-minutos-al-dia",
+    "meta_description": "Caminar 30 minutos diarios reduce el riesgo cardiovascular un 35%. Descubre todos los beneficios y cómo empezar hoy.",
+    "target_keyword": "beneficios de caminar 30 minutos al día",
+    "secondary_keywords": ["caminar para adelgazar", "ejercicio caminar diario", "cuánto hay que caminar al día"],
+    "outline": [
+      "H2: Qué le pasa a tu cuerpo cuando caminas cada día",
+      "H2: Beneficios físicos comprobados por la ciencia",
+      "H2: Beneficios mentales — ansiedad, estrés y estado de ánimo",
+      "H2: Cómo crear el hábito de caminar a diario",
+      "H2: Caminar vs correr — cuál es mejor para ti",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2000,
+    "category": "ejercicio",
+    "month_suggested": 1
+  },
+  {
+    "id": 4,
+    "title": "Cómo reducir el estrés de forma natural — 12 técnicas sin medicación",
+    "slug": "como-reducir-estres-forma-natural",
+    "meta_description": "12 técnicas naturales para reducir el estrés comprobadas por psicólogos. Empieza a sentirte mejor sin pastillas ni terapias caras.",
+    "target_keyword": "cómo reducir el estrés de forma natural",
+    "secondary_keywords": ["técnicas para bajar el estrés", "remedios naturales contra el estrés", "relajación natural"],
+    "outline": [
+      "H2: Señales de que el estrés te está afectando demasiado",
+      "H2: 6 técnicas de relajación rápida (menos de 5 minutos)",
+      "H2: Hábitos diarios que eliminan el estrés crónico",
+      "H2: Alimentos que ayudan a reducir el cortisol",
+      "H2: Cuándo ir al médico por estrés",
+      "H2: FAQ — preguntas frecuentes sobre estrés"
+    ],
+    "word_count_target": 2500,
+    "category": "salud mental",
+    "month_suggested": 1
+  },
+  {
+    "id": 5,
+    "title": "Alimentos antiinflamatorios que deberías comer cada semana",
+    "slug": "alimentos-antiinflamatorios-comer-cada-semana",
+    "meta_description": "Lista de 20 alimentos antiinflamatorios avalados por nutricionistas. Reduce la inflamación crónica con tu dieta diaria.",
+    "target_keyword": "alimentos antiinflamatorios",
+    "secondary_keywords": ["dieta antiinflamatoria", "comida que reduce inflamación", "alimentos contra la inflamación"],
+    "outline": [
+      "H2: Qué es la inflamación crónica y por qué importa",
+      "H2: Top 20 alimentos antiinflamatorios",
+      "H2: Menú semanal antiinflamatorio completo",
+      "H2: Alimentos que causan inflamación — evita estos",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2000,
+    "category": "nutrición",
+    "month_suggested": 2
+  },
+  {
+    "id": 6,
+    "title": "Cómo fortalecer el sistema inmunológico de forma natural",
+    "slug": "como-fortalecer-sistema-inmunologico-natural",
+    "meta_description": "Guía práctica para reforzar tus defensas de forma natural. Vitaminas, hábitos y alimentos que protegen tu sistema inmune.",
+    "target_keyword": "cómo fortalecer el sistema inmunológico",
+    "secondary_keywords": ["subir defensas naturalmente", "reforzar sistema inmune", "vitaminas para las defensas"],
+    "outline": [
+      "H2: Cómo funciona tu sistema inmunológico",
+      "H2: Vitaminas y minerales clave para las defensas",
+      "H2: Alimentos que refuerzan tu sistema inmune",
+      "H2: Hábitos que debilitan tus defensas sin que lo sepas",
+      "H2: Suplementos — cuáles funcionan y cuáles no",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "salud general",
+    "month_suggested": 2
+  },
+  {
+    "id": 7,
+    "title": "Dolor de espalda por mala postura — ejercicios y correcciones",
+    "slug": "dolor-espalda-mala-postura-ejercicios",
+    "meta_description": "Alivia el dolor de espalda causado por mala postura con estos 8 ejercicios. Guía paso a paso para corregir tu postura hoy.",
+    "target_keyword": "dolor de espalda por mala postura",
+    "secondary_keywords": ["ejercicios dolor espalda oficina", "corregir postura espalda", "dolor lumbar mala postura"],
+    "outline": [
+      "H2: Por qué la mala postura causa dolor de espalda",
+      "H2: Autodiagnóstico — identifica tu tipo de mala postura",
+      "H2: 8 ejercicios para corregir la postura",
+      "H2: Ergonomía en la oficina — ajusta tu puesto de trabajo",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2000,
+    "category": "ejercicio",
+    "month_suggested": 2
+  },
+  {
+    "id": 8,
+    "title": "Propiedades del jengibre y cómo tomarlo para la salud",
+    "slug": "propiedades-jengibre-como-tomarlo",
+    "meta_description": "Descubre las 10 propiedades del jengibre avaladas por estudios y las mejores formas de tomarlo cada día para tu salud.",
+    "target_keyword": "propiedades del jengibre",
+    "secondary_keywords": ["beneficios del jengibre", "cómo tomar jengibre", "jengibre para qué sirve"],
+    "outline": [
+      "H2: Qué es el jengibre y su composición nutricional",
+      "H2: 10 propiedades del jengibre demostradas",
+      "H2: Cómo tomar jengibre — infusión, rallado, cápsulas",
+      "H2: Contraindicaciones y efectos secundarios",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 1800,
+    "category": "remedios naturales",
+    "month_suggested": 2
+  },
+  {
+    "id": 9,
+    "title": "Cómo mejorar la digestión de forma natural — guía completa",
+    "slug": "como-mejorar-digestion-forma-natural",
+    "meta_description": "Mejora tu digestión con estos 12 hábitos naturales. Acaba con la hinchazón, gases y pesadez después de comer de una vez.",
+    "target_keyword": "cómo mejorar la digestión",
+    "secondary_keywords": ["digestión lenta remedios", "mejorar tránsito intestinal", "alimentos fáciles de digerir"],
+    "outline": [
+      "H2: Señales de que tu digestión no funciona bien",
+      "H2: 12 hábitos para mejorar la digestión",
+      "H2: Alimentos que mejoran el tránsito intestinal",
+      "H2: Infusiones digestivas que realmente funcionan",
+      "H2: Cuándo consultar al médico",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2000,
+    "category": "digestión",
+    "month_suggested": 3
+  },
+  {
+    "id": 10,
+    "title": "Alergia primaveral — síntomas, remedios y cómo sobrevivir al polen",
+    "slug": "alergia-primaveral-sintomas-remedios",
+    "meta_description": "Todo sobre la alergia al polen: síntomas, remedios naturales y medicamentos. Prepárate para la primavera con esta guía.",
+    "target_keyword": "alergia primaveral síntomas y remedios",
+    "secondary_keywords": ["alergia al polen tratamiento", "remedios naturales alergia", "antihistamínicos naturales"],
+    "outline": [
+      "H2: Tipos de polen y calendario de alergias en España",
+      "H2: Síntomas de la alergia primaveral — cómo distinguirla del resfriado",
+      "H2: Remedios naturales que alivian los síntomas",
+      "H2: Medicamentos y antihistamínicos — cuándo usarlos",
+      "H2: Cómo reducir la exposición al polen en casa",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "salud estacional",
+    "month_suggested": 3
+  },
+  {
+    "id": 11,
+    "title": "Beneficios del ayuno intermitente 16/8 — guía para principiantes",
+    "slug": "beneficios-ayuno-intermitente-16-8",
+    "meta_description": "Guía completa del ayuno intermitente 16/8: beneficios, cómo empezar, qué comer y errores que debes evitar. Para principiantes.",
+    "target_keyword": "beneficios ayuno intermitente 16/8",
+    "secondary_keywords": ["ayuno intermitente para principiantes", "cómo hacer ayuno 16 8", "ayuno intermitente qué comer"],
+    "outline": [
+      "H2: Qué es el ayuno intermitente 16/8",
+      "H2: Beneficios comprobados por la ciencia",
+      "H2: Cómo empezar — guía paso a paso para principiantes",
+      "H2: Qué puedes comer y beber durante el ayuno",
+      "H2: Errores comunes que arruinan los resultados",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "nutrición",
+    "month_suggested": 3
+  },
+  {
+    "id": 12,
+    "title": "Cómo hidratarse correctamente — cuánta agua necesitas beber al día",
+    "slug": "como-hidratarse-correctamente-cuanta-agua",
+    "meta_description": "¿Cuánta agua debes beber al día? Depende de tu peso y actividad. Aprende a hidratarte bien con esta guía basada en ciencia.",
+    "target_keyword": "cuánta agua hay que beber al día",
+    "secondary_keywords": ["hidratación correcta", "señales de deshidratación", "beber agua beneficios"],
+    "outline": [
+      "H2: El mito de los 2 litros — cuánta agua necesitas realmente",
+      "H2: Señales de que no te estás hidratando bien",
+      "H2: Cómo calcular tu ingesta ideal según peso y actividad",
+      "H2: Alimentos que te hidratan sin beber agua",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 1800,
+    "category": "nutrición",
+    "month_suggested": 3
+  },
+  {
+    "id": 13,
+    "title": "Vitamina D — síntomas de deficiencia y cómo obtenerla",
+    "slug": "vitamina-d-deficiencia-sintomas-como-obtenerla",
+    "meta_description": "El 60% de los españoles tiene déficit de vitamina D. Conoce los síntomas, fuentes naturales y cuándo suplementar. Guía completa.",
+    "target_keyword": "vitamina D deficiencia síntomas",
+    "secondary_keywords": ["falta de vitamina D", "cómo subir vitamina D", "alimentos con vitamina D"],
+    "outline": [
+      "H2: Por qué la vitamina D es tan importante",
+      "H2: Síntomas de deficiencia de vitamina D",
+      "H2: Fuentes naturales — sol, alimentos y suplementos",
+      "H2: Cuánto sol necesitas según tu zona en España",
+      "H2: Cuándo y cómo suplementar vitamina D",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2000,
+    "category": "vitaminas",
+    "month_suggested": 4
+  },
+  {
+    "id": 14,
+    "title": "Ejercicios en casa sin material — rutina completa de 30 minutos",
+    "slug": "ejercicios-en-casa-sin-material-rutina",
+    "meta_description": "Rutina de ejercicios en casa sin material de 30 minutos. Trabaja todo el cuerpo con estos 12 ejercicios para cualquier nivel.",
+    "target_keyword": "ejercicios en casa sin material",
+    "secondary_keywords": ["rutina ejercicios en casa", "entrenar en casa sin equipo", "ejercicios cuerpo completo casa"],
+    "outline": [
+      "H2: Beneficios de entrenar en casa sin equipamiento",
+      "H2: Calentamiento — 5 minutos esenciales",
+      "H2: 12 ejercicios para todo el cuerpo",
+      "H2: Rutina completa de 30 minutos — nivel principiante a avanzado",
+      "H2: Cómo progresar semana a semana",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "ejercicio",
+    "month_suggested": 4
+  },
+  {
+    "id": 15,
+    "title": "Cómo dejar de procrastinar — técnicas que funcionan de verdad",
+    "slug": "como-dejar-de-procrastinar-tecnicas",
+    "meta_description": "Deja de procrastinar con estas 8 técnicas respaldadas por la psicología. Recupera tu productividad y deja de aplazar tareas.",
+    "target_keyword": "cómo dejar de procrastinar",
+    "secondary_keywords": ["técnicas contra la procrastinación", "por qué procrastino", "vencer la procrastinación"],
+    "outline": [
+      "H2: Por qué procrastinas — la ciencia detrás del problema",
+      "H2: 8 técnicas para dejar de procrastinar hoy",
+      "H2: La regla de los 2 minutos y otros trucos rápidos",
+      "H2: Cómo crear un entorno anti-procrastinación",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2000,
+    "category": "productividad",
+    "month_suggested": 4
+  },
+  {
+    "id": 16,
+    "title": "Protector solar — cómo elegir el mejor y aplicarlo correctamente",
+    "slug": "protector-solar-como-elegir-aplicar",
+    "meta_description": "Guía para elegir el protector solar perfecto para tu piel. SPF, tipos, cuánto aplicar y errores que cometes sin saberlo.",
+    "target_keyword": "cómo elegir protector solar",
+    "secondary_keywords": ["mejor protector solar cara", "SPF que necesito", "crema solar cómo aplicar"],
+    "outline": [
+      "H2: Qué significa SPF y qué número necesitas",
+      "H2: Protector solar químico vs mineral — diferencias",
+      "H2: Cómo elegir el mejor para tu tipo de piel",
+      "H2: Cuánta cantidad aplicar y cada cuánto reaplicar",
+      "H2: Errores al usar protector solar que casi todos cometemos",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2000,
+    "category": "cuidado de la piel",
+    "month_suggested": 5
+  },
+  {
+    "id": 17,
+    "title": "Cómo bajar el colesterol sin medicamentos — guía natural",
+    "slug": "como-bajar-colesterol-sin-medicamentos",
+    "meta_description": "Baja tu colesterol de forma natural con dieta, ejercicio y hábitos. 10 estrategias sin estatinas que funcionan de verdad.",
+    "target_keyword": "cómo bajar el colesterol sin medicamentos",
+    "secondary_keywords": ["bajar colesterol naturalmente", "dieta para colesterol alto", "alimentos que bajan el colesterol"],
+    "outline": [
+      "H2: Colesterol bueno vs malo — entiende tus analíticas",
+      "H2: 10 alimentos que bajan el colesterol LDL",
+      "H2: Ejercicio y colesterol — cuánto necesitas",
+      "H2: Suplementos naturales con evidencia científica",
+      "H2: Cuándo sí necesitas medicación",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "salud cardiovascular",
+    "month_suggested": 5
+  },
+  {
+    "id": 18,
+    "title": "Snacks saludables para entre horas — 20 ideas que sacian",
+    "slug": "snacks-saludables-entre-horas-ideas",
+    "meta_description": "20 snacks saludables para picar entre horas sin engordar. Ideas rápidas, baratas y que te quitan el hambre de verdad.",
+    "target_keyword": "snacks saludables entre horas",
+    "secondary_keywords": ["picoteo sano", "meriendas saludables adultos", "qué picar sin engordar"],
+    "outline": [
+      "H2: Por qué necesitas picar bien entre comidas",
+      "H2: 10 snacks salados saludables",
+      "H2: 10 snacks dulces sin azúcar añadido",
+      "H2: Snacks para llevar a la oficina",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 1800,
+    "category": "nutrición",
+    "month_suggested": 5
+  },
+  {
+    "id": 19,
+    "title": "Yoga para principiantes en casa — posturas básicas paso a paso",
+    "slug": "yoga-principiantes-casa-posturas-basicas",
+    "meta_description": "Empieza a practicar yoga en casa con estas 15 posturas para principiantes. Explicación paso a paso con fotos y consejos.",
+    "target_keyword": "yoga para principiantes en casa",
+    "secondary_keywords": ["posturas de yoga básicas", "empezar yoga desde cero", "yoga en casa rutina"],
+    "outline": [
+      "H2: Beneficios del yoga para principiantes",
+      "H2: Qué necesitas para empezar yoga en casa",
+      "H2: 15 posturas básicas explicadas paso a paso",
+      "H2: Rutina de yoga de 20 minutos para principiantes",
+      "H2: Errores comunes al empezar con yoga",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "ejercicio",
+    "month_suggested": 5
+  },
+  {
+    "id": 20,
+    "title": "Cómo evitar golpes de calor en verano — prevención y primeros auxilios",
+    "slug": "como-evitar-golpes-calor-verano",
+    "meta_description": "Prevén los golpes de calor este verano con estos consejos. Aprende a reconocer los síntomas y actuar con primeros auxilios.",
+    "target_keyword": "cómo evitar golpes de calor",
+    "secondary_keywords": ["golpe de calor síntomas", "prevención golpe de calor", "primeros auxilios calor"],
+    "outline": [
+      "H2: Qué es un golpe de calor y por qué es peligroso",
+      "H2: Síntomas de alerta — reconócelos a tiempo",
+      "H2: 10 consejos para prevenir golpes de calor",
+      "H2: Primeros auxilios si alguien sufre un golpe de calor",
+      "H2: Grupos de riesgo — niños, mayores y deportistas",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2000,
+    "category": "salud estacional",
+    "month_suggested": 6
+  },
+  {
+    "id": 21,
+    "title": "Cenas ligeras y saludables para no engordar — 15 recetas rápidas",
+    "slug": "cenas-ligeras-saludables-recetas-rapidas",
+    "meta_description": "15 recetas de cenas ligeras y saludables listas en 20 minutos. Come bien por la noche sin acumular grasa mientras duermes.",
+    "target_keyword": "cenas ligeras y saludables",
+    "secondary_keywords": ["qué cenar para no engordar", "recetas cena ligera", "cenas rápidas sanas"],
+    "outline": [
+      "H2: Reglas básicas para una cena saludable",
+      "H2: 8 cenas ligeras con proteína",
+      "H2: 7 cenas vegetarianas rápidas",
+      "H2: Qué evitar en la cena — alimentos prohibidos",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2000,
+    "category": "nutrición",
+    "month_suggested": 6
+  },
+  {
+    "id": 22,
+    "title": "Beneficios de la meditación — cómo empezar a meditar en 5 minutos",
+    "slug": "beneficios-meditacion-como-empezar",
+    "meta_description": "Descubre los beneficios de la meditación avalados por la ciencia y aprende a meditar en solo 5 minutos al día. Guía fácil.",
+    "target_keyword": "beneficios de la meditación",
+    "secondary_keywords": ["cómo empezar a meditar", "meditación para principiantes", "meditación guiada 5 minutos"],
+    "outline": [
+      "H2: 10 beneficios de meditar comprobados científicamente",
+      "H2: Tipos de meditación — cuál elegir según tu objetivo",
+      "H2: Cómo meditar en 5 minutos — guía paso a paso",
+      "H2: Apps y recursos gratuitos para meditar",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2000,
+    "category": "salud mental",
+    "month_suggested": 6
+  },
+  {
+    "id": 23,
+    "title": "Remedios caseros para el dolor de garganta que funcionan rápido",
+    "slug": "remedios-caseros-dolor-garganta",
+    "meta_description": "Alivia el dolor de garganta con estos 10 remedios caseros naturales. Miel, gárgaras, infusiones y más — alivio en minutos.",
+    "target_keyword": "remedios caseros dolor de garganta",
+    "secondary_keywords": ["aliviar dolor garganta rápido", "dolor de garganta remedios naturales", "gárgaras dolor garganta"],
+    "outline": [
+      "H2: Causas del dolor de garganta — virus, bacterias u otras",
+      "H2: 10 remedios caseros que alivian rápido",
+      "H2: Infusiones y gárgaras paso a paso",
+      "H2: Cuándo ir al médico por dolor de garganta",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 1800,
+    "category": "remedios naturales",
+    "month_suggested": 6
+  },
+  {
+    "id": 24,
+    "title": "Cómo proteger la piel del sol en verano — más allá de la crema solar",
+    "slug": "como-proteger-piel-sol-verano",
+    "meta_description": "Protege tu piel del sol este verano con 10 consejos que van más allá de la crema. Ropa, alimentación, horarios y más.",
+    "target_keyword": "cómo proteger la piel del sol",
+    "secondary_keywords": ["protección solar verano", "cuidado piel verano", "quemaduras solares prevención"],
+    "outline": [
+      "H2: Cómo daña el sol tu piel — rayos UVA vs UVB",
+      "H2: Crema solar — la base pero no lo único",
+      "H2: Ropa con protección UV — qué buscar",
+      "H2: Alimentos que protegen tu piel del sol",
+      "H2: Horarios seguros y zonas de sombra",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2000,
+    "category": "cuidado de la piel",
+    "month_suggested": 7
+  },
+  {
+    "id": 25,
+    "title": "Cómo mantener una dieta sana en vacaciones sin obsesionarte",
+    "slug": "dieta-sana-vacaciones-sin-obsesionarte",
+    "meta_description": "Disfruta las vacaciones sin arruinar tu dieta. 8 estrategias para comer sano de viaje sin renunciar al placer ni obsesionarte.",
+    "target_keyword": "cómo comer sano en vacaciones",
+    "secondary_keywords": ["dieta en vacaciones", "no engordar en vacaciones", "mantener peso vacaciones"],
+    "outline": [
+      "H2: La mentalidad correcta — disfruta sin culpa",
+      "H2: 8 estrategias para comer bien de viaje",
+      "H2: Restaurantes — cómo elegir opciones sanas",
+      "H2: Snacks saludables para llevar de viaje",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 1800,
+    "category": "nutrición",
+    "month_suggested": 7
+  },
+  {
+    "id": 26,
+    "title": "Beneficios del agua con limón en ayunas — verdad o mito",
+    "slug": "agua-con-limon-en-ayunas-beneficios-mitos",
+    "meta_description": "¿El agua con limón en ayunas adelgaza y desintoxica? Analizamos lo que dice la ciencia real vs los mitos virales de internet.",
+    "target_keyword": "agua con limón en ayunas beneficios",
+    "secondary_keywords": ["agua limón mañanas", "agua tibia con limón", "limón ayunas mito o verdad"],
+    "outline": [
+      "H2: Qué dice la ciencia sobre el agua con limón",
+      "H2: Beneficios reales comprobados",
+      "H2: Mitos que deberías dejar de creer",
+      "H2: Cómo prepararlo correctamente",
+      "H2: Contraindicaciones — quién no debería tomarlo",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 1800,
+    "category": "nutrición",
+    "month_suggested": 7
+  },
+  {
+    "id": 27,
+    "title": "Cómo mejorar la postura corporal — ejercicios y hábitos diarios",
+    "slug": "como-mejorar-postura-corporal-ejercicios",
+    "meta_description": "Corrige tu postura corporal con estos ejercicios diarios de 10 minutos. Evita dolores y mejora tu salud postural desde hoy.",
+    "target_keyword": "cómo mejorar la postura corporal",
+    "secondary_keywords": ["ejercicios para corregir postura", "mala postura corrección", "mejorar postura espalda"],
+    "outline": [
+      "H2: Test rápido — cómo saber si tu postura es mala",
+      "H2: Consecuencias de una mala postura a largo plazo",
+      "H2: 8 ejercicios diarios para corregir la postura",
+      "H2: Hábitos posturales en el día a día",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2000,
+    "category": "ejercicio",
+    "month_suggested": 7
+  },
+  {
+    "id": 28,
+    "title": "Cómo cuidar la salud mental en el trabajo — burnout y límites",
+    "slug": "salud-mental-trabajo-burnout-limites",
+    "meta_description": "Protege tu salud mental en el trabajo. Identifica el burnout a tiempo, pon límites sanos y recupera tu bienestar laboral.",
+    "target_keyword": "salud mental en el trabajo",
+    "secondary_keywords": ["burnout laboral síntomas", "cómo poner límites en el trabajo", "estrés laboral soluciones"],
+    "outline": [
+      "H2: Señales de que tu trabajo afecta tu salud mental",
+      "H2: Burnout — qué es y cómo identificarlo",
+      "H2: Cómo poner límites sanos en el trabajo",
+      "H2: Técnicas de desconexión al salir de la oficina",
+      "H2: Cuándo pedir ayuda profesional",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "salud mental",
+    "month_suggested": 8
+  },
+  {
+    "id": 29,
+    "title": "Superalimentos reales vs marketing — cuáles merecen la pena",
+    "slug": "superalimentos-reales-vs-marketing",
+    "meta_description": "¿Los superalimentos son reales o puro marketing? Analizamos 15 con ciencia. Descubre cuáles valen la pena y cuáles no.",
+    "target_keyword": "superalimentos reales o marketing",
+    "secondary_keywords": ["superalimentos que funcionan", "lista superalimentos España", "superalimentos mito"],
+    "outline": [
+      "H2: Qué es un superalimento — definición real vs comercial",
+      "H2: 8 superalimentos que SÍ valen la pena",
+      "H2: 7 superalimentos que son puro marketing",
+      "H2: Alternativas baratas a los superalimentos caros",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2000,
+    "category": "nutrición",
+    "month_suggested": 8
+  },
+  {
+    "id": 30,
+    "title": "Cómo aliviar la ansiedad sin pastillas — 10 técnicas naturales",
+    "slug": "como-aliviar-ansiedad-sin-pastillas",
+    "meta_description": "Alivia tu ansiedad de forma natural con estas 10 técnicas probadas por psicólogos. Sin medicación, sin efectos secundarios.",
+    "target_keyword": "cómo aliviar la ansiedad sin pastillas",
+    "secondary_keywords": ["remedios naturales ansiedad", "técnicas ansiedad sin medicación", "relajación para ansiedad"],
+    "outline": [
+      "H2: Ansiedad normal vs trastorno de ansiedad",
+      "H2: 5 técnicas de respiración que calman en minutos",
+      "H2: Ejercicio físico y ansiedad — la conexión",
+      "H2: Alimentos y suplementos para la ansiedad",
+      "H2: Cuándo sí necesitas un profesional",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "salud mental",
+    "month_suggested": 8
+  },
+  {
+    "id": 31,
+    "title": "Beneficios de las legumbres y cómo cocinarlas para que no den gases",
+    "slug": "beneficios-legumbres-cocinar-sin-gases",
+    "meta_description": "Las legumbres son el alimento más completo y barato. Aprende a cocinarlas para evitar gases y disfruta de sus beneficios.",
+    "target_keyword": "beneficios de las legumbres",
+    "secondary_keywords": ["legumbres sin gases", "cómo cocinar legumbres", "legumbres más saludables"],
+    "outline": [
+      "H2: Por qué las legumbres son el superalimento olvidado",
+      "H2: Beneficios nutricionales de cada tipo de legumbre",
+      "H2: Cómo cocinarlas para evitar gases e hinchazón",
+      "H2: 5 recetas fáciles con legumbres",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2000,
+    "category": "nutrición",
+    "month_suggested": 8
+  },
+  {
+    "id": 32,
+    "title": "Vuelta al cole — cómo preparar a los niños para la rutina",
+    "slug": "vuelta-al-cole-preparar-ninos-rutina",
+    "meta_description": "Prepara la vuelta al cole sin dramas. Rutinas de sueño, alimentación y organización para que los niños empiecen el curso bien.",
+    "target_keyword": "vuelta al cole preparar niños rutina",
+    "secondary_keywords": ["vuelta al colegio consejos", "rutina niños septiembre", "preparar vuelta al cole"],
+    "outline": [
+      "H2: Cuándo empezar a preparar la vuelta al cole",
+      "H2: Recuperar la rutina de sueño paso a paso",
+      "H2: Desayunos y meriendas saludables para el cole",
+      "H2: Gestionar la ansiedad infantil de septiembre",
+      "H2: Organización escolar — material y horarios",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2000,
+    "category": "salud infantil",
+    "month_suggested": 9
+  },
+  {
+    "id": 33,
+    "title": "Cómo prevenir resfriados y gripe este otoño — guía completa",
+    "slug": "como-prevenir-resfriados-gripe-otono",
+    "meta_description": "Prepárate para la temporada de gripes y resfriados. 12 medidas de prevención que reducen tu riesgo de enfermar este otoño.",
+    "target_keyword": "cómo prevenir resfriados y gripe",
+    "secondary_keywords": ["prevenir catarros otoño", "evitar gripe naturalmente", "reforzar defensas otoño"],
+    "outline": [
+      "H2: Por qué enfermamos más en otoño e invierno",
+      "H2: 12 medidas de prevención que funcionan",
+      "H2: Vacuna de la gripe — quién debería ponérsela",
+      "H2: Suplementos para prevenir catarros — cuáles tienen evidencia",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2000,
+    "category": "salud estacional",
+    "month_suggested": 9
+  },
+  {
+    "id": 34,
+    "title": "Cómo perder peso de forma saludable y sin efecto rebote",
+    "slug": "como-perder-peso-saludable-sin-efecto-rebote",
+    "meta_description": "Pierde peso de forma saludable y sin efecto rebote. Dieta, ejercicio y hábitos que funcionan a largo plazo. Sin milagros.",
+    "target_keyword": "cómo perder peso de forma saludable",
+    "secondary_keywords": ["adelgazar sin efecto rebote", "perder peso sin dieta estricta", "bajar de peso saludablemente"],
+    "outline": [
+      "H2: Por qué la mayoría de dietas fallan — el error del déficit extremo",
+      "H2: Cómo calcular un déficit calórico saludable",
+      "H2: Alimentos saciantes con pocas calorías",
+      "H2: Ejercicio para perder grasa — cardio vs fuerza",
+      "H2: Hábitos que evitan el efecto rebote",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 3000,
+    "category": "nutrición",
+    "month_suggested": 9
+  },
+  {
+    "id": 35,
+    "title": "Magnesio — para qué sirve, síntomas de deficiencia y cómo tomarlo",
+    "slug": "magnesio-para-que-sirve-deficiencia-como-tomar",
+    "meta_description": "Todo sobre el magnesio: para qué sirve, síntomas de déficit, tipos de suplementos y dosis recomendada. La guía definitiva.",
+    "target_keyword": "magnesio para qué sirve",
+    "secondary_keywords": ["deficiencia de magnesio síntomas", "mejor suplemento magnesio", "cuánto magnesio tomar"],
+    "outline": [
+      "H2: Funciones del magnesio en tu cuerpo",
+      "H2: Síntomas de que te falta magnesio",
+      "H2: Alimentos ricos en magnesio",
+      "H2: Tipos de suplementos de magnesio — cuál elegir",
+      "H2: Dosis recomendada y contraindicaciones",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2000,
+    "category": "vitaminas",
+    "month_suggested": 9
+  },
+  {
+    "id": 36,
+    "title": "Cómo cuidar las articulaciones a partir de los 40",
+    "slug": "como-cuidar-articulaciones-partir-40",
+    "meta_description": "Protege tus articulaciones a partir de los 40 con ejercicios, alimentación y suplementos. Prevén el desgaste y el dolor.",
+    "target_keyword": "cómo cuidar las articulaciones",
+    "secondary_keywords": ["dolor articulaciones 40 años", "suplementos articulaciones", "ejercicios proteger articulaciones"],
+    "outline": [
+      "H2: Qué les pasa a tus articulaciones a partir de los 40",
+      "H2: Ejercicios que protegen las articulaciones",
+      "H2: Alimentación para articulaciones sanas",
+      "H2: Suplementos — colágeno, glucosamina, ¿funcionan?",
+      "H2: Señales de alerta — cuándo ir al traumatólogo",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2000,
+    "category": "salud general",
+    "month_suggested": 10
+  },
+  {
+    "id": 37,
+    "title": "Alimentos ricos en hierro para combatir la anemia",
+    "slug": "alimentos-ricos-hierro-combatir-anemia",
+    "meta_description": "Lista de alimentos ricos en hierro para prevenir y combatir la anemia. Cómo mejorar la absorción del hierro en tu dieta.",
+    "target_keyword": "alimentos ricos en hierro",
+    "secondary_keywords": ["dieta anemia ferropénica", "hierro en alimentos", "subir hierro en sangre"],
+    "outline": [
+      "H2: Tipos de hierro — hemo vs no hemo",
+      "H2: Top 15 alimentos ricos en hierro",
+      "H2: Cómo mejorar la absorción del hierro",
+      "H2: Alimentos que bloquean la absorción",
+      "H2: Menú semanal rico en hierro",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2000,
+    "category": "nutrición",
+    "month_suggested": 10
+  },
+  {
+    "id": 38,
+    "title": "Cómo dejar de fumar — métodos que funcionan según la ciencia",
+    "slug": "como-dejar-de-fumar-metodos-funcionan",
+    "meta_description": "Guía para dejar de fumar con métodos que SÍ funcionan según la ciencia. Parches, terapia, apps y los primeros 30 días.",
+    "target_keyword": "cómo dejar de fumar métodos",
+    "secondary_keywords": ["dejar de fumar consejos", "dejar el tabaco de golpe", "síndrome abstinencia tabaco"],
+    "outline": [
+      "H2: Qué le pasa a tu cuerpo cuando dejas de fumar — timeline",
+      "H2: Métodos que funcionan — rankings por efectividad",
+      "H2: Los primeros 30 días — qué esperar y cómo aguantar",
+      "H2: Apps y recursos gratuitos para dejar de fumar",
+      "H2: Cómo evitar recaídas",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "adicciones",
+    "month_suggested": 10
+  },
+  {
+    "id": 39,
+    "title": "Rutina de estiramientos matutinos — 10 minutos para empezar el día",
+    "slug": "rutina-estiramientos-matutinos-10-minutos",
+    "meta_description": "Rutina de estiramientos de 10 minutos para hacer al despertar. Activa tu cuerpo, reduce rigidez y empieza el día con energía.",
+    "target_keyword": "rutina estiramientos matutinos",
+    "secondary_keywords": ["estiramientos al despertar", "estiramientos mañana", "estirar por la mañana beneficios"],
+    "outline": [
+      "H2: Por qué estirar al despertar cambia tu día",
+      "H2: 10 estiramientos matutinos paso a paso",
+      "H2: Rutina de 10 minutos — orden recomendado",
+      "H2: Errores al estirar que debes evitar",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 1800,
+    "category": "ejercicio",
+    "month_suggested": 10
+  },
+  {
+    "id": 40,
+    "title": "Cómo cuidar la vista si pasas muchas horas frente a la pantalla",
+    "slug": "cuidar-vista-muchas-horas-pantalla",
+    "meta_description": "Protege tu vista del daño por pantallas con estas técnicas. Regla 20-20-20, ejercicios oculares y ajustes que funcionan.",
+    "target_keyword": "cómo cuidar la vista pantallas",
+    "secondary_keywords": ["ojos cansados pantalla", "fatiga visual digital", "ejercicios para la vista"],
+    "outline": [
+      "H2: Síndrome visual informático — qué es y quién lo sufre",
+      "H2: La regla 20-20-20 y otras técnicas de descanso",
+      "H2: Ajustes de pantalla que reducen la fatiga visual",
+      "H2: Ejercicios oculares que puedes hacer en la oficina",
+      "H2: Gafas con filtro de luz azul — ¿funcionan?",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2000,
+    "category": "salud visual",
+    "month_suggested": 11
+  },
+  {
+    "id": 41,
+    "title": "Cómo tener más energía durante el día sin cafeína",
+    "slug": "como-tener-mas-energia-sin-cafeina",
+    "meta_description": "10 formas de tener más energía durante el día sin depender del café. Sueño, nutrición, movimiento y trucos que funcionan.",
+    "target_keyword": "cómo tener más energía durante el día",
+    "secondary_keywords": ["falta de energía causas", "energía sin café", "cansancio todo el día causas"],
+    "outline": [
+      "H2: Por qué estás siempre cansado — causas comunes",
+      "H2: 10 formas de aumentar tu energía sin cafeína",
+      "H2: Alimentos que te dan energía de verdad",
+      "H2: El papel del sueño y los ritmos circadianos",
+      "H2: Cuándo el cansancio es una señal de algo más grave",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2000,
+    "category": "energía",
+    "month_suggested": 11
+  },
+  {
+    "id": 42,
+    "title": "Mitos de nutrición que sigues creyendo — la ciencia los desmonta",
+    "slug": "mitos-nutricion-ciencia-desmonta",
+    "meta_description": "15 mitos de nutrición que casi todo el mundo cree. La ciencia los desmonta uno a uno. ¿Cuántos te sigues creyendo?",
+    "target_keyword": "mitos de nutrición",
+    "secondary_keywords": ["mitos alimentación falsos", "bulos nutrición", "creencias falsas comida"],
+    "outline": [
+      "H2: Mitos sobre grasas y colesterol",
+      "H2: Mitos sobre carbohidratos y azúcar",
+      "H2: Mitos sobre proteínas y músculo",
+      "H2: Mitos sobre detox y dietas milagro",
+      "H2: Cómo identificar información nutricional fiable",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "nutrición",
+    "month_suggested": 11
+  },
+  {
+    "id": 43,
+    "title": "Cómo preparar tu cuerpo para el invierno — refuerza tus defensas",
+    "slug": "preparar-cuerpo-invierno-reforzar-defensas",
+    "meta_description": "Prepara tu cuerpo para el invierno reforzando tus defensas. Vitaminas, alimentación y hábitos para pasar un invierno sin enfermar.",
+    "target_keyword": "preparar cuerpo invierno defensas",
+    "secondary_keywords": ["reforzar defensas invierno", "vitaminas para el invierno", "no enfermar en invierno"],
+    "outline": [
+      "H2: Por qué enfermamos más en invierno — la ciencia",
+      "H2: Alimentación de invierno que refuerza tus defensas",
+      "H2: Vitaminas y suplementos clave para el frío",
+      "H2: Hábitos diarios que protegen tu salud en invierno",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2000,
+    "category": "salud estacional",
+    "month_suggested": 11
+  },
+  {
+    "id": 44,
+    "title": "Recetas saludables para Navidad — disfruta sin pasarte",
+    "slug": "recetas-saludables-navidad",
+    "meta_description": "Recetas navideñas saludables y deliciosas para disfrutar las fiestas sin remordimientos. Entrantes, principales y postres ligeros.",
+    "target_keyword": "recetas saludables Navidad",
+    "secondary_keywords": ["comida navidad saludable", "menú navideño ligero", "postres navidad sin azúcar"],
+    "outline": [
+      "H2: Entrantes navideños ligeros y vistosos",
+      "H2: Platos principales más saludables que el clásico",
+      "H2: Postres navideños sin azúcar añadido",
+      "H2: Cómo gestionar los excesos navideños",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2000,
+    "category": "nutrición",
+    "month_suggested": 12
+  },
+  {
+    "id": 45,
+    "title": "Cómo mantener el peso en Navidad sin renunciar a nada",
+    "slug": "como-mantener-peso-navidad",
+    "meta_description": "Disfruta la Navidad sin engordar los típicos 3 kilos. 10 estrategias realistas para mantener tu peso durante las fiestas.",
+    "target_keyword": "cómo mantener el peso en Navidad",
+    "secondary_keywords": ["no engordar en Navidad", "dieta Navidad consejos", "cenas navidad sin engordar"],
+    "outline": [
+      "H2: Por qué engordamos en Navidad — el dato real",
+      "H2: 10 estrategias para no ganar peso en fiestas",
+      "H2: Qué hacer antes y después de una cena copiosa",
+      "H2: Ejercicio durante las Navidades — rutinas express",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2000,
+    "category": "nutrición",
+    "month_suggested": 12
+  },
+  {
+    "id": 46,
+    "title": "Probióticos y prebióticos — qué son, diferencias y cuáles tomar",
+    "slug": "probioticos-prebioticos-diferencias-cuales-tomar",
+    "meta_description": "Entiende la diferencia entre probióticos y prebióticos. Qué hacen, cuándo tomarlos y los mejores para tu salud intestinal.",
+    "target_keyword": "probióticos y prebióticos diferencias",
+    "secondary_keywords": ["mejores probióticos", "alimentos probióticos", "para qué sirven los prebióticos"],
+    "outline": [
+      "H2: Qué son los probióticos y para qué sirven",
+      "H2: Qué son los prebióticos y en qué se diferencian",
+      "H2: Alimentos ricos en probióticos y prebióticos",
+      "H2: Suplementos — cuándo y cuáles tomar",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2000,
+    "category": "digestión",
+    "month_suggested": 12
+  },
+  {
+    "id": 47,
+    "title": "Cómo empezar a correr desde cero — plan de 8 semanas para principiantes",
+    "slug": "como-empezar-correr-desde-cero-plan",
+    "meta_description": "Plan de 8 semanas para empezar a correr desde cero. De no correr nada a 30 minutos seguidos, paso a paso y sin lesiones.",
+    "target_keyword": "cómo empezar a correr desde cero",
+    "secondary_keywords": ["plan running principiantes", "empezar a correr 40 años", "programa correr desde cero"],
+    "outline": [
+      "H2: Antes de empezar — zapatillas, ropa y chequeo médico",
+      "H2: Plan de 8 semanas — semana a semana",
+      "H2: Técnica de carrera para principiantes",
+      "H2: Cómo evitar lesiones al empezar a correr",
+      "H2: Alimentación e hidratación para runners novatos",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "ejercicio",
+    "month_suggested": 12
+  },
+  {
+    "id": 48,
+    "title": "Dolor de cabeza frecuente — causas, remedios y cuándo preocuparte",
+    "slug": "dolor-cabeza-frecuente-causas-remedios",
+    "meta_description": "¿Tienes dolor de cabeza frecuente? Descubre las causas más comunes, remedios efectivos y señales de que debes ir al médico.",
+    "target_keyword": "dolor de cabeza frecuente causas",
+    "secondary_keywords": ["cefalea tensional remedios", "dolor de cabeza todos los días", "migraña vs cefalea"],
+    "outline": [
+      "H2: Tipos de dolor de cabeza — tensional, migraña y otros",
+      "H2: Causas más comunes del dolor de cabeza frecuente",
+      "H2: Remedios naturales que alivian rápido",
+      "H2: Cuándo los analgésicos son necesarios",
+      "H2: Señales de alarma — ve al médico si notas esto",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2000,
+    "category": "salud general",
+    "month_suggested": 3
+  },
+  {
+    "id": 49,
+    "title": "Hábitos saludables que puedes adoptar hoy mismo — lista práctica",
+    "slug": "habitos-saludables-adoptar-hoy-lista",
+    "meta_description": "30 hábitos saludables que puedes empezar hoy sin esfuerzo. Pequeños cambios con grandes resultados para tu salud diaria.",
+    "target_keyword": "hábitos saludables fáciles",
+    "secondary_keywords": ["hábitos de vida saludable", "cambios saludables diarios", "mejorar salud hábitos simples"],
+    "outline": [
+      "H2: 10 hábitos de alimentación fáciles de implementar",
+      "H2: 10 hábitos de movimiento que no requieren gimnasio",
+      "H2: 10 hábitos de bienestar mental",
+      "H2: Cómo crear hábitos que duren — la ciencia del hábito",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "hábitos",
+    "month_suggested": 1
+  },
+  {
+    "id": 50,
+    "title": "Efectos del alcohol en la salud — cuánto es demasiado",
+    "slug": "efectos-alcohol-salud-cuanto-es-demasiado",
+    "meta_description": "¿Cuánto alcohol es seguro beber? La OMS dice que ninguno. Conoce los efectos reales del alcohol y toma decisiones informadas.",
+    "target_keyword": "efectos del alcohol en la salud",
+    "secondary_keywords": ["cuánto alcohol es peligroso", "alcohol moderado salud", "daños del alcohol cuerpo"],
+    "outline": [
+      "H2: Qué le hace el alcohol a tu cuerpo — órgano por órgano",
+      "H2: La nueva posición de la OMS — no existe consumo seguro",
+      "H2: Alcohol y riesgo de cáncer — los datos",
+      "H2: Señales de que deberías reducir tu consumo",
+      "H2: Cómo reducir el alcohol gradualmente",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "adicciones",
+    "month_suggested": 4
+  },
+  {
+    "id": 51,
+    "title": "Cómo mejorar la circulación sanguínea con ejercicios y alimentación",
+    "slug": "como-mejorar-circulacion-sanguinea",
+    "meta_description": "Mejora tu circulación sanguínea con estos ejercicios, alimentos y hábitos. Adiós piernas hinchadas, manos frías y varices.",
+    "target_keyword": "cómo mejorar la circulación sanguínea",
+    "secondary_keywords": ["mala circulación piernas remedios", "alimentos mejorar circulación", "ejercicios circulación sanguínea"],
+    "outline": [
+      "H2: Síntomas de mala circulación — no los ignores",
+      "H2: Ejercicios que activan la circulación",
+      "H2: Alimentos que mejoran el flujo sanguíneo",
+      "H2: Hábitos que empeoran tu circulación sin saberlo",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2000,
+    "category": "salud cardiovascular",
+    "month_suggested": 5
+  },
+  {
+    "id": 52,
+    "title": "Guía de primeros auxilios básicos que todo el mundo debería saber",
+    "slug": "primeros-auxilios-basicos-guia",
+    "meta_description": "Aprende primeros auxilios básicos: RCP, Heimlich, quemaduras, hemorragias. Lo que necesitas saber para actuar en emergencias.",
+    "target_keyword": "primeros auxilios básicos",
+    "secondary_keywords": ["guía primeros auxilios casa", "cómo hacer RCP", "maniobra de Heimlich paso a paso"],
+    "outline": [
+      "H2: RCP básica — paso a paso para adultos y niños",
+      "H2: Maniobra de Heimlich — atragantamientos",
+      "H2: Quemaduras — qué hacer y qué NO hacer",
+      "H2: Hemorragias — cómo detener el sangrado",
+      "H2: Botiquín de primeros auxilios — qué debe tener",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "salud general",
+    "month_suggested": 6
+  }
+]

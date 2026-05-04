@@ -1,0 +1,133 @@
+{
+  "title": "🏃 Ejercicio Mínimo Efectivo: Cuánto Necesitas Según Estudios",
+  "description": "¿Cuánto ejercicio necesitas realmente para vivir más y mejor? Analizamos los estudios más grandes del mundo con millones de participantes. La respuesta te sorprenderá: menos de lo que crees, pero de un tipo específico. Datos del Lancet, JAMA, British Journal of Sports Medicine y más.\n\n#ejercicio #fitness #salud #longevidad #actividadfísica",
+  "tags": ["ejercicio", "actividad física", "fitness", "salud", "longevidad", "entrenamiento", "caminar", "fuerza", "HIIT", "sedentarismo"],
+  "segments": [
+    {
+      "voice": "¿Y si te dijera que once minutos de caminata rápida al día son suficientes para reducir tu riesgo de muerte prematura en un veintitrés por ciento? No es una exageración de un influencer fitness. Es el resultado de un metaanálisis publicado en el British Journal of Sports Medicine en 2023 con más de treinta millones de participantes. Once minutos. Eso es menos de lo que tardas en tomarte un café.",
+      "visual": "person walking briskly on sidewalk with fitness tracker showing eleven minutes on wrist",
+      "duration": 25
+    },
+    {
+      "voice": "La Organización Mundial de la Salud recomienda ciento cincuenta minutos de ejercicio moderado por semana, o setenta y cinco de ejercicio vigoroso. Pero la realidad es que el treinta y uno por ciento de los adultos en el mundo no cumplen ni siquiera el mínimo según datos de Lancet Global Health de 2022. En España, el treinta y seis por ciento de la población es sedentaria según la Encuesta Nacional de Salud de 2023.",
+      "visual": "world map infographic showing sedentary population statistics by region",
+      "duration": 25
+    },
+    {
+      "voice": "El estudio más grande jamás realizado sobre ejercicio y mortalidad fue publicado en Lancet en 2017 por el equipo del estudio PURE, con más de ciento treinta mil participantes de diecisiete países seguidos durante siete años. Concluyeron que ciento cincuenta minutos semanales de cualquier actividad física, incluyendo caminar al trabajo o subir escaleras, reduce la mortalidad total en un veintiocho por ciento y los eventos cardiovasculares en un veinte por ciento.",
+      "visual": "large research data center with global health statistics on multiple screens",
+      "duration": 25
+    },
+    {
+      "voice": "Pero aquí viene lo interesante: los mayores beneficios se obtienen al pasar de no hacer nada a hacer un poco. Un estudio de la Universidad de Cambridge publicado en JAMA Internal Medicine en 2015 con más de trescientas treinta mil personas demostró que el mayor salto en reducción de mortalidad ocurre entre los sedentarios totales y los que hacen solo veinte minutos de caminata diaria. Después de eso, los beneficios adicionales siguen pero con rendimientos decrecientes.",
+      "visual": "graph showing steep mortality reduction curve from sedentary to minimal exercise",
+      "duration": 25
+    },
+    {
+      "voice": "El entrenamiento de fuerza es la gran revelación de la última década. Un metaanálisis publicado en British Journal of Sports Medicine en 2022 por investigadores japoneses que revisó dieciséis estudios con más de cuatrocientos ochenta mil participantes encontró que el entrenamiento de fuerza reduce la mortalidad por todas las causas en un quince por ciento, independientemente del ejercicio aeróbico. Y solo necesitas entre treinta y sesenta minutos a la semana.",
+      "visual": "person doing basic strength training with dumbbells in home gym setup",
+      "duration": 25
+    },
+    {
+      "voice": "Lo que pocos saben es que el entrenamiento de fuerza tiene una relación no lineal con la mortalidad. El mismo metaanálisis japonés encontró que los beneficios máximos se alcanzan con treinta a sesenta minutos semanales. Más de sesenta minutos no aporta beneficios adicionales para la mortalidad. Es decir, dos sesiones de treinta minutos por semana son el punto dulce que maximiza los beneficios con el mínimo esfuerzo.",
+      "visual": "simple weight training routine with timer showing thirty minute sessions twice weekly",
+      "duration": 25
+    },
+    {
+      "voice": "La masa muscular es el predictor más fiable de longevidad que no estás midiendo. Un estudio de la UCLA publicado en American Journal of Medicine en 2014 con más de tres mil novecientos participantes demostró que la masa muscular se correlaciona inversamente con la mortalidad total, incluso después de ajustar por grasa corporal, edad y comorbilidades. Más músculo significa más supervivencia.",
+      "visual": "body composition scan showing muscle mass distribution in human body",
+      "duration": 25
+    },
+    {
+      "voice": "A partir de los treinta años, pierdes entre el tres y el ocho por ciento de masa muscular por década si no entrenas fuerza. Este proceso se llama sarcopenia. Un estudio del Journal of the American Geriatrics Society en 2014 demostró que la sarcopenia duplica el riesgo de caídas en mayores de sesenta y cinco años, y las caídas son la segunda causa de muerte accidental en el mundo según la OMS.",
+      "visual": "comparison of healthy muscle tissue versus sarcopenic muscle tissue in medical illustration",
+      "duration": 25
+    },
+    {
+      "voice": "El HIIT, entrenamiento de intervalos de alta intensidad, ofrece beneficios superiores en menos tiempo. Un estudio de la Clínica Mayo publicado en Cell Metabolism en 2017 comparó HIIT, fuerza y combinado durante doce semanas. El HIIT fue el único que mejoró la capacidad mitocondrial, esencialmente rejuveneciendo las fábricas de energía de las células. En mayores de sesenta y cinco años, la mejora mitocondrial fue del sesenta y nueve por ciento.",
+      "visual": "person doing interval training on stationary bike with heart rate monitor showing intensity",
+      "duration": 25
+    },
+    {
+      "voice": "Un protocolo de HIIT popular es el cuatro por cuatro noruego: cuatro intervalos de cuatro minutos al ochenta y cinco a noventa y cinco por ciento de tu frecuencia cardíaca máxima, con tres minutos de recuperación entre intervalos. Un estudio de la Universidad de Ciencia y Tecnología de Noruega publicado en Circulation en 2012 demostró que este protocolo mejora el VO2max en un diez por ciento en solo diez semanas.",
+      "visual": "athletic track with interval markers and heart rate zones displayed on smart watch",
+      "duration": 25
+    },
+    {
+      "voice": "El VO2max, la capacidad máxima de consumo de oxígeno, es quizás el predictor más potente de longevidad. Un estudio de la Clínica Cleveland publicado en JAMA Network Open en 2018 con más de ciento veintidós mil participantes encontró que un VO2max bajo es un predictor de muerte más fuerte que la diabetes, la hipertensión o el tabaquismo. Pasar de baja a moderada condición física reduce la mortalidad en un cincuenta por ciento.",
+      "visual": "VO2max test being performed with mask and treadmill in sports medicine lab",
+      "duration": 25
+    },
+    {
+      "voice": "Caminar es subestimado. Un estudio publicado en JAMA Internal Medicine en 2019 con más de dieciséis mil mujeres mayores de sesenta y dos años demostró que las que caminaban solo cuatro mil cuatrocientos pasos diarios, unos tres kilómetros y medio, tenían un cuarenta y uno por ciento menos de mortalidad que las que caminaban dos mil setecientos. No necesitas los diez mil pasos. La mitad ya salva vidas.",
+      "visual": "elderly woman walking confidently on park path with step counter showing daily count",
+      "duration": 25
+    },
+    {
+      "voice": "El mito de los diez mil pasos nació de una campaña de marketing. En 1965, la empresa japonesa Yamasa lanzó un podómetro llamado Manpo-kei, que significa medidor de diez mil pasos. No tenía base científica. Un estudio de JAMA en 2020 con casi cinco mil participantes encontró que los beneficios de caminar se estabilizan alrededor de siete mil quinientos a ocho mil pasos diarios. Más allá de eso, el beneficio adicional es mínimo.",
+      "visual": "vintage Japanese pedometer next to modern fitness tracker comparing step counts",
+      "duration": 25
+    },
+    {
+      "voice": "Sentarse es el nuevo fumar. Un metaanálisis publicado en Lancet en 2016 con más de un millón de personas demostró que estar sentado más de ocho horas al día aumenta el riesgo de muerte prematura en un cincuenta y nueve por ciento. Sin embargo, entre sesenta y setenta y cinco minutos de ejercicio moderado diario eliminan completamente este riesgo aumentado. Si no puedes hacer tanto, cada movimiento cuenta.",
+      "visual": "office worker sitting at desk for long hours with clock showing prolonged sedentary time",
+      "duration": 25
+    },
+    {
+      "voice": "Los micro movimientos durante el día son más importantes de lo que piensas. Un estudio de la Universidad de Columbia publicado en Medicine and Science in Sports and Exercise en 2023 demostró que levantarse y caminar cinco minutos cada media hora durante la jornada laboral reduce la glucosa postprandial en un cincuenta y ocho por ciento y la presión arterial en un cuatro a cinco milímetros de mercurio.",
+      "visual": "person standing up from desk and walking around office taking movement break",
+      "duration": 25
+    },
+    {
+      "voice": "El ejercicio excesivo también tiene riesgos. Un estudio del Copenhagen City Heart Study publicado en JACC en 2015 encontró una curva en forma de U invertida: los corredores que hacían ejercicio vigoroso más de cuatro horas y media por semana tenían la misma mortalidad que los sedentarios. El punto óptimo era correr entre una y dos horas y media por semana, a ritmo lento o moderado, en dos a tres sesiones.",
+      "visual": "U-shaped curve graph showing exercise dose and mortality relationship on screen",
+      "duration": 25
+    },
+    {
+      "voice": "El ejercicio de flexibilidad y equilibrio es el tercer pilar olvidado. Un estudio publicado en British Journal of Sports Medicine en 2020 demostró que la incapacidad de mantenerse en equilibrio sobre una pierna durante diez segundos después de los cincuenta años se asocia con un ochenta y cuatro por ciento más de riesgo de muerte por cualquier causa en los siguientes siete años. Es una prueba que puedes hacer ahora mismo.",
+      "visual": "person practicing balance exercise standing on one leg in living room",
+      "duration": 25
+    },
+    {
+      "voice": "El yoga combina flexibilidad, equilibrio y fuerza. Un metaanálisis publicado en European Journal of Preventive Cardiology en 2014 con más de tres mil participantes encontró que el yoga reduce la presión arterial sistólica en cinco milímetros de mercurio, el colesterol LDL en doce miligramos por decilitro y el peso corporal en dos kilogramos. Todo comparable a los efectos del ejercicio aeróbico convencional.",
+      "visual": "group yoga class in bright studio with people in various poses",
+      "duration": 25
+    },
+    {
+      "voice": "Un hallazgo de 2024 está cambiando las recomendaciones. Un estudio del UK Biobank publicado en Nature Medicine con más de setenta y un mil participantes que usaban acelerómetros demostró que las actividades vigorosas intermitentes del estilo de vida, como subir escaleras rápido, correr para alcanzar el autobús o llevar bolsas pesadas, reducen la mortalidad cardiovascular en un cuarenta y nueve por ciento en personas que no hacen ejercicio formal.",
+      "visual": "person running up stairs in modern building with dynamic energy and movement",
+      "duration": 25
+    },
+    {
+      "voice": "Esto significa que no necesitas ropa deportiva ni gimnasio. Un estudio de la Universidad de Sydney publicado en Nature Medicine en 2022 confirmó que tres a cuatro ráfagas de actividad vigorosa de uno a dos minutos cada una durante el día, como subir escaleras a toda velocidad, son suficientes para reducir la mortalidad por cáncer en un cuarenta por ciento y la cardiovascular en un cuarenta y nueve por ciento.",
+      "visual": "person energetically carrying grocery bags up stairs in apartment building",
+      "duration": 25
+    },
+    {
+      "voice": "La fuerza de agarre es un biomarcador sorprendente de longevidad. Un metaanálisis publicado en BMJ en 2018 con casi dos millones de participantes encontró que por cada cinco kilogramos menos de fuerza de agarre, el riesgo de mortalidad total aumenta en un diecisiete por ciento. Puedes medirla con un dinamómetro de mano. Los hombres deberían alcanzar al menos cuarenta kilogramos y las mujeres veinticinco.",
+      "visual": "hand grip dynamometer being squeezed with strength measurement display showing reading",
+      "duration": 25
+    },
+    {
+      "voice": "El ejercicio en la naturaleza, llamado green exercise, tiene beneficios adicionales sobre el ejercicio en interiores. Un metaanálisis publicado en Environmental Science and Technology en 2011 encontró que solo cinco minutos de ejercicio en espacios verdes mejoran significativamente el estado de ánimo y la autoestima. El efecto es mayor cerca del agua, lo que los investigadores llaman blue space exercise.",
+      "visual": "person jogging along river path through green park with trees and water",
+      "duration": 25
+    },
+    {
+      "voice": "El mejor momento del día para hacer ejercicio depende de tus objetivos. Un estudio de la Universidad de Skidmore publicado en Frontiers in Physiology en 2022 encontró que el ejercicio matutino es mejor para la pérdida de grasa y la presión arterial, mientras que el ejercicio vespertino es mejor para el rendimiento, la fuerza y el control glucémico. Pero lo más importante es la consistencia: el mejor ejercicio es el que realmente haces.",
+      "visual": "split screen showing morning sunrise run versus evening gym workout session",
+      "duration": 25
+    },
+    {
+      "voice": "Resumiendo la ciencia: necesitas tres componentes de ejercicio. Primero, ciento cincuenta minutos semanales de ejercicio aeróbico moderado, o setenta y cinco vigoroso, o combinación. Segundo, dos sesiones de treinta minutos de fuerza por semana. Tercero, algo de flexibilidad y equilibrio. Si no puedes hacer nada de esto, empieza con once minutos de caminata rápida al día. Es suficiente para cambiar tu pronóstico de vida.",
+      "visual": "weekly exercise schedule board with three types of training mapped out",
+      "duration": 25
+    },
+    {
+      "voice": "Si esto te ha parecido útil, lo que viene la próxima semana te va a sorprender. Vamos a hablar de cómo la meditación cambia físicamente la estructura de tu cerebro, con datos de resonancias magnéticas y neuroimagen que puedes ver. Suscríbete, activa la campana y cuéntame en los comentarios cuántos minutos de ejercicio haces a la semana. El cuerpo que tienes a los setenta se decide con lo que haces a los treinta.",
+      "visual": "sunrise over mountain trail with hiking path leading to distant peak",
+      "duration": 25
+    }
+  ],
+  "thumbnail_text": "SOLO 11 MINUTOS"
+}

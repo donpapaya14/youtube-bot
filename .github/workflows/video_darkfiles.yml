@@ -2,10 +2,8 @@ name: "Video: DarkFiles"
 
 on:
   schedule:
-    # 3 videos/semana: Martes, Jueves, Sábado
-    - cron: '0 14 * * 2'   # Martes 16:00 España
-    - cron: '0 14 * * 4'   # Jueves 16:00 España
-    - cron: '0 14 * * 6'   # Sábado 16:00 España
+    # Diario a las 16:00 España (14:00 UTC)
+    - cron: '0 14 * * *'
   workflow_dispatch:
 
 jobs:

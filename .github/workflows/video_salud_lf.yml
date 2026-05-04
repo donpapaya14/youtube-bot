@@ -1,0 +1,16 @@
+name: "Video: SaludLongevidad (Long-Form)"
+
+on:
+  schedule:
+    # 3 videos/semana: Lunes, Miércoles, Viernes 10:00 España (8:00 UTC)
+    - cron: '0 8 * * 1'
+    - cron: '0 8 * * 3'
+    - cron: '0 8 * * 5'
+  workflow_dispatch:
+
+jobs:
+  video:
+    uses: ./.github/workflows/longform_engine.yml
+    with:
+      channel: salud_longevidad_lf
+    secrets: inherit

@@ -131,11 +131,18 @@ def _call_with_fallback(prompt: str, primary: str = "groq", temperature: float =
 
 CONTENT_FORMULAS = {
     "finanzas": [
-        "Un truco de ahorro concreto con pasos exactos y cifras reales en euros",
-        "Un dato curioso sobre dinero o economía que la mayoría no sabe, con fuente real",
-        "Un error financiero específico que te cuesta X euros al año con ejemplo numérico",
-        "Una regla financiera famosa (50/30/20, regla del 72, etc.) explicada con ejemplo real del día a día",
-        "Un hábito de ahorro que practican millonarios reales con dato verificable de fuente seria",
+        # MICRO-NICHO 1: Autónomos España
+        "Un truco fiscal REAL para autónomos en España: deducción concreta con artículo de ley y cifra exacta de ahorro anual",
+        "Un error que cometen el 80% de autónomos en España con Hacienda: qué hacen mal, cuánto les cuesta, y cómo evitarlo paso a paso",
+        "Una cuota o gasto que los autónomos pagan de más sin saberlo: cifra real, alternativa legal, pasos para reclamar",
+        # MICRO-NICHO 2: Ahorro con sueldo bajo
+        "Un truco de ahorro REAL para quien gana menos de 1.500€/mes: cifra exacta de ahorro mensual con ejemplo del día a día en España",
+        "Un gasto hormiga concreto que te cuesta más de 500€ al año sin darte cuenta: cálculo real y alternativa gratuita",
+        "Un método de presupuesto específico para sueldos bajos con ejemplo real de distribución de un sueldo de 1.200€",
+        # MICRO-NICHO 3: Trucos de Hacienda
+        "Una deducción de la declaración de la renta que el 90% de españoles no aplica: artículo de ley, requisitos y cifra de ahorro",
+        "Un truco LEGAL para pagar menos IRPF este año: paso a paso con cifras reales y base legal",
+        "Un derecho frente a Hacienda que pocos conocen: qué puedes reclamar, cómo hacerlo y plazo exacto",
     ],
     "legal": [
         "Un derecho del consumidor específico con artículo de ley y ejemplo de uso real",
@@ -238,7 +245,87 @@ def _get_recent_titles(channel: dict) -> list[str]:
         return []
 
 
+CHANNEL_TOPICS_MAP = {
+    "VidaSana360": "vidasana360.json",
+    "SaludLongevidad": "saludlongevidad.json",
+    "CatBrothers": "catbrothers.json",
+    "HogarInteligente": "hogarinteligente.json",
+    "FinanzasClara": "finanzasclara.json",
+}
+
+
+def _load_prewritten_topic(channel: dict) -> dict | None:
+    """Carga un tema pre-escrito del banco, marcándolo como usado."""
+    topics_file = CHANNEL_TOPICS_MAP.get(channel["name"])
+    if not topics_file:
+        return None
+
+    project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    path = os.path.join(project_root, "topics", topics_file)
+
+    if not os.path.exists(path):
+        return None
+
+    try:
+        with open(path) as f:
+            topics = json.load(f)
+
+        # Merge con archivo _extra si existe
+        extra_path = path.replace(".json", "_extra.json")
+        if os.path.exists(extra_path):
+            with open(extra_path) as f:
+                topics.extend(json.load(f))
+
+        # Cargar IDs ya usados
+        used_file = path + ".used"
+        used_ids = set()
+        if os.path.exists(used_file):
+            with open(used_file) as f:
+                used_ids = {int(x.strip()) for x in f.read().strip().split("\n") if x.strip()}
+
+        # Obtener títulos recientes para dedup extra
+        recent_titles = _get_recent_titles(channel)
+        recent_lower = {t.lower() for t in recent_titles}
+
+        # Filtrar disponibles
+        available = [t for t in topics if t["id"] not in used_ids]
+        if not available:
+            log.info("Banco de temas agotado para %s, usando AI", channel["name"])
+            return None
+
+        # Evitar temas similares a videos recientes
+        best = None
+        for t in available:
+            topic_lower = t["topic"].lower()
+            if not any(topic_lower[:20] in rt or rt[:20] in topic_lower for rt in recent_lower):
+                best = t
+                break
+        if not best:
+            best = random.choice(available)
+
+        # Marcar como usado
+        with open(used_file, "a") as f:
+            f.write(str(best["id"]) + "\n")
+
+        log.info("Tema pre-escrito #%d: %s", best["id"], best["topic"])
+        return {
+            "topic": best["topic"],
+            "hook": best["hook"],
+            "key_points": best["key_points"],
+            "search_terms": best["search_terms"],
+        }
+    except Exception as e:
+        log.warning("Error cargando banco de temas: %s", str(e)[:100])
+        return None
+
+
 def research_topic(channel: dict) -> dict:
+    # 1. Intentar tema pre-escrito primero (mayor calidad)
+    prewritten = _load_prewritten_topic(channel)
+    if prewritten:
+        return prewritten
+
+    # 2. Fallback: generar con AI
     niche_key = NICHE_MAP.get(channel["name"], "ia")
     formulas = CONTENT_FORMULAS.get(niche_key, CONTENT_FORMULAS["ia"])
     formula = random.choice(formulas)
@@ -303,7 +390,11 @@ REGLAS:
 2. Cada frase de voz: MÁXIMO 15 palabras. Cortas, directas, sin subordinadas
 3. Texto en pantalla = resumen ultra corto (máx 20 chars)
 4. PRIMER segmento = gancho que para el scroll
-5. ÚLTIMO segmento = "Sígueme para más tips"
+5. ÚLTIMO segmento = CTA con URGENCIA y curiosidad. Ejemplos:
+   - "Mañana subo algo que te va a cambiar [tema]. Suscríbete para no perdértelo"
+   - "Si esto te ha servido, lo que viene mañana te va a sorprender. Dale a seguir"
+   - "Esto es solo la punta del iceberg. Suscríbete, mañana viene lo mejor"
+   NUNCA uses "Sígueme para más tips" — es genérico y no convierte
 6. Sin emojis en el texto
 7. CADA segmento aporta INFO NUEVA y CONCRETA
 8. Hablar de TÚ al espectador

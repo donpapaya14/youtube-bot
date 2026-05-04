@@ -1,0 +1,987 @@
+[
+  {
+    "id": 1,
+    "title": "Qué es la longevidad saludable y cómo la ciencia está alargando la vida",
+    "slug": "que-es-longevidad-saludable-ciencia",
+    "meta_description": "La ciencia de la longevidad explicada: cómo vivir más y mejor según los últimos estudios. Healthspan vs lifespan al detalle.",
+    "target_keyword": "longevidad saludable qué es",
+    "secondary_keywords": ["ciencia longevidad", "vivir más años sano", "healthspan vs lifespan"],
+    "outline": [
+      "H2: Longevidad vs envejecimiento saludable — la diferencia clave",
+      "H2: Los 9 hallmarks del envejecimiento",
+      "H2: Zonas azules — qué nos enseñan los centenarios",
+      "H2: El futuro de la longevidad — terapias en desarrollo",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "longevidad",
+    "month_suggested": 1
+  },
+  {
+    "id": 2,
+    "title": "Restricción calórica y longevidad — qué dice la ciencia actual",
+    "slug": "restriccion-calorica-longevidad-ciencia",
+    "meta_description": "La restricción calórica puede alargar la vida hasta un 30% en modelos animales. Qué sabemos en humanos y cómo aplicarlo.",
+    "target_keyword": "restricción calórica y longevidad",
+    "secondary_keywords": ["dieta restricción calórica", "comer menos vivir más", "CALERIE estudio"],
+    "outline": [
+      "H2: Qué es la restricción calórica — definición científica",
+      "H2: Evidencia en modelos animales — los datos",
+      "H2: Estudio CALERIE — resultados en humanos",
+      "H2: Cómo aplicar restricción calórica de forma segura",
+      "H2: Riesgos y contraindicaciones",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "nutrición longevidad",
+    "month_suggested": 1
+  },
+  {
+    "id": 3,
+    "title": "NAD+ y envejecimiento — el suplemento que promete rejuvenecer las células",
+    "slug": "nad-envejecimiento-suplemento-celulas",
+    "meta_description": "NAD+ desciende con la edad y eso acelera el envejecimiento. ¿Funcionan los suplementos de NMN y NR? Revisamos la evidencia.",
+    "target_keyword": "NAD+ envejecimiento suplemento",
+    "secondary_keywords": ["NMN suplemento longevidad", "NR nicotinamida ribósido", "NAD+ antienvejecimiento"],
+    "outline": [
+      "H2: Qué es el NAD+ y por qué importa para envejecer",
+      "H2: Por qué el NAD+ baja con la edad",
+      "H2: NMN vs NR — precursores de NAD+ comparados",
+      "H2: Estudios clínicos actuales — ¿funcionan en humanos?",
+      "H2: Dosis, marcas y precauciones",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "suplementos longevidad",
+    "month_suggested": 1
+  },
+  {
+    "id": 4,
+    "title": "Telómeros y envejecimiento — cómo proteger el reloj biológico de tus células",
+    "slug": "telomeros-envejecimiento-proteger-reloj-biologico",
+    "meta_description": "Los telómeros se acortan cada vez que tus células se dividen. Aprende qué los desgasta y cómo protegerlos según la ciencia.",
+    "target_keyword": "telómeros y envejecimiento",
+    "secondary_keywords": ["alargar telómeros", "telomerasa y longevidad", "edad biológica telómeros"],
+    "outline": [
+      "H2: Qué son los telómeros y cómo funcionan",
+      "H2: Telómeros cortos — consecuencias para la salud",
+      "H2: Factores que aceleran el acortamiento telomérico",
+      "H2: Hábitos que protegen tus telómeros — la evidencia",
+      "H2: Telomerasa — la enzima que regenera telómeros",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "biología del envejecimiento",
+    "month_suggested": 1
+  },
+  {
+    "id": 5,
+    "title": "Autofagia — qué es, cómo activarla y su papel en la longevidad",
+    "slug": "autofagia-que-es-como-activarla-longevidad",
+    "meta_description": "La autofagia es el sistema de reciclaje celular. Descubre cómo activarla con ayuno, ejercicio y dieta para vivir más sano.",
+    "target_keyword": "autofagia qué es cómo activarla",
+    "secondary_keywords": ["autofagia y ayuno", "activar autofagia", "autofagia beneficios"],
+    "outline": [
+      "H2: Qué es la autofagia — el premio Nobel que la descubrió",
+      "H2: Cómo la autofagia protege contra el envejecimiento",
+      "H2: 4 formas de activar la autofagia naturalmente",
+      "H2: Autofagia y cáncer — una relación compleja",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "biología del envejecimiento",
+    "month_suggested": 2
+  },
+  {
+    "id": 6,
+    "title": "Metformina para la longevidad — el fármaco antidiabético que podría retrasar el envejecimiento",
+    "slug": "metformina-longevidad-antienvejecimiento",
+    "meta_description": "La metformina se estudia como fármaco antienvejecimiento en el ensayo TAME. ¿Funciona para no diabéticos? Lo que dice la ciencia.",
+    "target_keyword": "metformina longevidad",
+    "secondary_keywords": ["metformina antienvejecimiento", "estudio TAME metformina", "metformina no diabéticos"],
+    "outline": [
+      "H2: Metformina — de fármaco antidiabético a candidato antienvejecimiento",
+      "H2: Mecanismos de acción sobre el envejecimiento",
+      "H2: Estudio TAME — el ensayo que puede cambiarlo todo",
+      "H2: Evidencia actual en personas no diabéticas",
+      "H2: Riesgos y efectos secundarios",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "farmacología longevidad",
+    "month_suggested": 2
+  },
+  {
+    "id": 7,
+    "title": "Edad biológica vs edad cronológica — cómo medir tu envejecimiento real",
+    "slug": "edad-biologica-vs-cronologica-medir",
+    "meta_description": "Tu edad biológica puede ser mayor o menor que tu edad real. Aprende a medirla con relojes epigenéticos y análisis de sangre.",
+    "target_keyword": "edad biológica vs cronológica",
+    "secondary_keywords": ["cómo medir edad biológica", "reloj epigenético", "test edad biológica"],
+    "outline": [
+      "H2: Qué es la edad biológica y por qué importa más que los años",
+      "H2: Relojes epigenéticos — Horvath, GrimAge, PhenoAge",
+      "H2: Biomarcadores que reflejan tu edad biológica",
+      "H2: Tests disponibles para medir tu edad biológica",
+      "H2: Cómo reducir tu edad biológica con evidencia",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "biomarcadores",
+    "month_suggested": 2
+  },
+  {
+    "id": 8,
+    "title": "Senolíticos — los fármacos que eliminan células zombi del cuerpo",
+    "slug": "senoliticos-farmacos-celulas-zombi",
+    "meta_description": "Las células senescentes aceleran el envejecimiento. Los senolíticos las eliminan. Revisamos la ciencia y qué hay disponible.",
+    "target_keyword": "senolíticos células senescentes",
+    "secondary_keywords": ["células zombi envejecimiento", "quercetina dasatinib senolítico", "fármacos antienvejecimiento"],
+    "outline": [
+      "H2: Qué son las células senescentes y por qué dañan",
+      "H2: Cómo funcionan los senolíticos",
+      "H2: Compuestos senolíticos estudiados — dasatinib, quercetina, fisetina",
+      "H2: Ensayos clínicos en curso",
+      "H2: ¿Debería tomarlos ya? Riesgos y estado actual",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "farmacología longevidad",
+    "month_suggested": 2
+  },
+  {
+    "id": 9,
+    "title": "Dieta mediterránea y longevidad — la evidencia científica completa",
+    "slug": "dieta-mediterranea-longevidad-evidencia",
+    "meta_description": "La dieta mediterránea reduce la mortalidad un 25%. Revisamos toda la evidencia y cómo seguirla para vivir más y mejor.",
+    "target_keyword": "dieta mediterránea longevidad evidencia",
+    "secondary_keywords": ["dieta mediterránea beneficios", "dieta mediterránea envejecimiento", "PREDIMED resultados"],
+    "outline": [
+      "H2: Qué es la dieta mediterránea — más allá del aceite de oliva",
+      "H2: Estudio PREDIMED y otras evidencias de peso",
+      "H2: Mecanismos por los que alarga la vida",
+      "H2: Guía práctica — menú semanal mediterráneo",
+      "H2: Dieta mediterránea vs otras dietas longevas",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "nutrición longevidad",
+    "month_suggested": 3
+  },
+  {
+    "id": 10,
+    "title": "Resveratrol — ¿realmente funciona para la longevidad?",
+    "slug": "resveratrol-funciona-longevidad",
+    "meta_description": "El resveratrol se promociona como elixir de juventud. Revisamos 20 años de investigación para separar ciencia de marketing.",
+    "target_keyword": "resveratrol longevidad funciona",
+    "secondary_keywords": ["resveratrol beneficios", "resveratrol dosis", "resveratrol estudios"],
+    "outline": [
+      "H2: Qué es el resveratrol y de dónde viene",
+      "H2: La hipótesis de David Sinclair — sirtuinas y resveratrol",
+      "H2: Evidencia en laboratorio vs en humanos",
+      "H2: Dosis, biodisponibilidad y formas de tomarlo",
+      "H2: Veredicto actual de la ciencia",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2000,
+    "category": "suplementos longevidad",
+    "month_suggested": 3
+  },
+  {
+    "id": 11,
+    "title": "Ejercicio y longevidad — cuánto entrenar para vivir más según la ciencia",
+    "slug": "ejercicio-longevidad-cuanto-entrenar",
+    "meta_description": "El ejercicio es la intervención antienvejecimiento más potente. Cuánto, qué tipo y a qué intensidad para máxima longevidad.",
+    "target_keyword": "ejercicio y longevidad cuánto entrenar",
+    "secondary_keywords": ["ejercicio antienvejecimiento", "entrenar para vivir más", "VO2 max longevidad"],
+    "outline": [
+      "H2: El ejercicio como medicina antienvejecimiento — los datos",
+      "H2: Cuántos minutos semanales son óptimos",
+      "H2: Fuerza, cardio y VO2 max — importancia de cada uno",
+      "H2: VO2 max como predictor de mortalidad",
+      "H2: Protocolos específicos para longevidad",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "ejercicio longevidad",
+    "month_suggested": 3
+  },
+  {
+    "id": 12,
+    "title": "Inflamación crónica de bajo grado — el asesino silencioso del envejecimiento",
+    "slug": "inflamacion-cronica-bajo-grado-envejecimiento",
+    "meta_description": "La inflamación crónica de bajo grado (inflammaging) acelera todas las enfermedades del envejecimiento. Cómo medirla y reducirla.",
+    "target_keyword": "inflamación crónica bajo grado envejecimiento",
+    "secondary_keywords": ["inflammaging", "inflamación silenciosa", "PCR ultrasensible inflamación"],
+    "outline": [
+      "H2: Qué es el inflammaging y por qué importa",
+      "H2: Biomarcadores de inflamación — PCR, IL-6, TNF-alfa",
+      "H2: Causas de la inflamación crónica de bajo grado",
+      "H2: Estrategias antiinflamatorias con evidencia",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "biología del envejecimiento",
+    "month_suggested": 3
+  },
+  {
+    "id": 13,
+    "title": "Sueño y longevidad — por qué dormir mal te envejece más rápido",
+    "slug": "sueno-longevidad-dormir-mal-envejece",
+    "meta_description": "Dormir menos de 7 horas acorta telómeros y acelera el envejecimiento celular. La ciencia del sueño y la longevidad al detalle.",
+    "target_keyword": "sueño y longevidad relación",
+    "secondary_keywords": ["dormir mal envejece", "sueño profundo longevidad", "fases del sueño envejecimiento"],
+    "outline": [
+      "H2: Cómo el mal sueño acelera el envejecimiento celular",
+      "H2: Sueño profundo y glinfático — limpieza cerebral nocturna",
+      "H2: Cuántas horas son óptimas para la longevidad",
+      "H2: Protocolos de optimización del sueño avanzados",
+      "H2: Wearables para medir calidad del sueño",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "sueño longevidad",
+    "month_suggested": 4
+  },
+  {
+    "id": 14,
+    "title": "Rapamicina y longevidad — el inmunosupresor que podría alargar la vida",
+    "slug": "rapamicina-longevidad-inmunosupresor",
+    "meta_description": "La rapamicina es el fármaco que más consistentemente alarga la vida en animales. ¿Es segura en humanos? Revisamos la evidencia.",
+    "target_keyword": "rapamicina longevidad",
+    "secondary_keywords": ["rapamicina antienvejecimiento", "mTOR inhibidor longevidad", "rapamicina dosis baja"],
+    "outline": [
+      "H2: Qué es la rapamicina y la vía mTOR",
+      "H2: Evidencia en modelos animales — los resultados impresionantes",
+      "H2: Ensayos en humanos — PEARL, marTOR y otros",
+      "H2: Dosis baja intermitente — el protocolo off-label",
+      "H2: Riesgos y efectos secundarios",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "farmacología longevidad",
+    "month_suggested": 4
+  },
+  {
+    "id": 15,
+    "title": "Estrés oxidativo y antioxidantes — lo que la ciencia sabe de verdad",
+    "slug": "estres-oxidativo-antioxidantes-ciencia",
+    "meta_description": "Los antioxidantes no funcionan como pensábamos. Revisamos la ciencia real del estrés oxidativo y qué estrategias sí funcionan.",
+    "target_keyword": "estrés oxidativo antioxidantes ciencia",
+    "secondary_keywords": ["radicales libres envejecimiento", "suplementos antioxidantes", "hormesis oxidativa"],
+    "outline": [
+      "H2: Radicales libres y estrés oxidativo — la teoría clásica",
+      "H2: Por qué los suplementos antioxidantes decepcionaron",
+      "H2: Hormesis — cuando un poco de estrés es beneficioso",
+      "H2: Activar las defensas antioxidantes propias — Nrf2",
+      "H2: Estrategias con evidencia real",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "biología del envejecimiento",
+    "month_suggested": 4
+  },
+  {
+    "id": 16,
+    "title": "Exposición al frío y longevidad — crioterapia, duchas frías y proteínas de choque",
+    "slug": "exposicion-frio-longevidad-crioterapia",
+    "meta_description": "Las duchas frías y la crioterapia activan proteínas de choque y grasa parda. ¿Sirven para la longevidad? Revisamos la ciencia.",
+    "target_keyword": "exposición al frío longevidad",
+    "secondary_keywords": ["duchas frías beneficios ciencia", "crioterapia envejecimiento", "proteínas choque térmico frío"],
+    "outline": [
+      "H2: Respuesta fisiológica al frío — qué ocurre en tu cuerpo",
+      "H2: Proteínas de choque térmico y hormesis",
+      "H2: Grasa parda y termogénesis",
+      "H2: Evidencia científica en longevidad",
+      "H2: Protocolos prácticos — duchas, inmersión, crioterapia",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "biohacking",
+    "month_suggested": 4
+  },
+  {
+    "id": 17,
+    "title": "Microbioma intestinal y envejecimiento — cómo tus bacterias determinan cuánto vives",
+    "slug": "microbioma-intestinal-envejecimiento",
+    "meta_description": "Tu microbioma intestinal cambia con la edad y esos cambios aceleran el envejecimiento. Cómo mantener un microbioma joven.",
+    "target_keyword": "microbioma intestinal envejecimiento",
+    "secondary_keywords": ["bacterias intestinales longevidad", "microbiota y edad", "diversidad bacteriana envejecimiento"],
+    "outline": [
+      "H2: Cómo cambia tu microbioma con la edad",
+      "H2: Microbioma de centenarios — qué los hace diferentes",
+      "H2: Eje intestino-cerebro y neurodegeneración",
+      "H2: Cómo rejuvenecer tu microbioma — estrategias con evidencia",
+      "H2: Trasplante fecal — el futuro de la longevidad intestinal",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "microbioma",
+    "month_suggested": 5
+  },
+  {
+    "id": 18,
+    "title": "Epigenética y envejecimiento — cómo tu estilo de vida cambia tus genes",
+    "slug": "epigenetica-envejecimiento-estilo-vida",
+    "meta_description": "La epigenética demuestra que tu estilo de vida activa o silencia genes del envejecimiento. Cómo reprogramar tu epigenoma.",
+    "target_keyword": "epigenética envejecimiento estilo vida",
+    "secondary_keywords": ["metilación ADN edad", "reprogramación epigenética", "Yamanaka longevidad"],
+    "outline": [
+      "H2: Qué es la epigenética — genes que se encienden y apagan",
+      "H2: Metilación del ADN y relojes epigenéticos",
+      "H2: Cómo el estilo de vida modifica tu epigenoma",
+      "H2: Reprogramación celular — factores de Yamanaka y rejuvenecimiento",
+      "H2: Estado actual y ensayos clínicos",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "biología del envejecimiento",
+    "month_suggested": 5
+  },
+  {
+    "id": 19,
+    "title": "Sauna y longevidad — beneficios cardiovasculares y reducción de mortalidad",
+    "slug": "sauna-longevidad-beneficios-cardiovasculares",
+    "meta_description": "Usar sauna 4-7 veces/semana reduce mortalidad cardiovascular un 50% según estudios finlandeses. La ciencia de la sauna y vivir más.",
+    "target_keyword": "sauna longevidad beneficios",
+    "secondary_keywords": ["sauna finlandesa salud", "sauna infrarroja beneficios", "proteínas choque calor sauna"],
+    "outline": [
+      "H2: Estudios finlandeses — los datos de 20 años",
+      "H2: Mecanismos biológicos — proteínas de choque y hormesis",
+      "H2: Beneficios cardiovasculares documentados",
+      "H2: Sauna y demencia — la conexión sorprendente",
+      "H2: Protocolos óptimos — temperatura, duración, frecuencia",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "biohacking",
+    "month_suggested": 5
+  },
+  {
+    "id": 20,
+    "title": "GLP-1 agonistas y longevidad — semaglutida más allá de la pérdida de peso",
+    "slug": "glp1-agonistas-longevidad-semaglutida",
+    "meta_description": "Ozempic y compañía muestran beneficios más allá del peso: corazón, riñón, hígado. ¿Son fármacos de longevidad? La evidencia.",
+    "target_keyword": "GLP-1 agonistas longevidad semaglutida",
+    "secondary_keywords": ["Ozempic longevidad", "semaglutida más allá peso", "GLP-1 beneficios extrapeso"],
+    "outline": [
+      "H2: Qué son los GLP-1 agonistas y cómo funcionan",
+      "H2: SELECT, FLOW y otros ensayos — resultados cardiovasculares",
+      "H2: Beneficios extrapeso — hígado, riñón, inflamación",
+      "H2: ¿Son fármacos de longevidad? El debate científico",
+      "H2: Riesgos a largo plazo — lo que no sabemos",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "farmacología longevidad",
+    "month_suggested": 5
+  },
+  {
+    "id": 21,
+    "title": "Proteína y envejecimiento — cuánta necesitas a partir de los 50",
+    "slug": "proteina-envejecimiento-cuanta-50",
+    "meta_description": "La sarcopenia empieza a los 30 y se acelera a los 50. Cuánta proteína necesitas para mantener masa muscular y vivir más.",
+    "target_keyword": "proteína envejecimiento cuánta necesitas",
+    "secondary_keywords": ["sarcopenia prevención", "proteína mayores 50", "leucina masa muscular edad"],
+    "outline": [
+      "H2: Sarcopenia — la pérdida de músculo que mata silenciosamente",
+      "H2: Requerimientos proteicos por edad — la ciencia actualizada",
+      "H2: Leucina y mTOR — el aminoácido clave para los mayores",
+      "H2: Fuentes óptimas de proteína para longevidad",
+      "H2: Proteína y función renal — ¿mito o realidad?",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "nutrición longevidad",
+    "month_suggested": 6
+  },
+  {
+    "id": 22,
+    "title": "Omega-3 DHA/EPA y cerebro — evidencia para prevenir demencia",
+    "slug": "omega-3-dha-epa-cerebro-demencia",
+    "meta_description": "Los omega-3 DHA y EPA protegen tu cerebro del deterioro cognitivo. Dosis, fuentes y lo que dicen los estudios sobre demencia.",
+    "target_keyword": "omega-3 cerebro prevenir demencia",
+    "secondary_keywords": ["DHA cerebro beneficios", "omega-3 Alzheimer evidencia", "suplemento omega-3 dosis"],
+    "outline": [
+      "H2: DHA — el ácido graso que construye tu cerebro",
+      "H2: Evidencia en prevención de deterioro cognitivo",
+      "H2: Omega-3 y Alzheimer — estudios clínicos",
+      "H2: Índice omega-3 — cómo medirlo en sangre",
+      "H2: Fuentes, dosis y cómo elegir un buen suplemento",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "suplementos longevidad",
+    "month_suggested": 6
+  },
+  {
+    "id": 23,
+    "title": "Hormona de crecimiento y envejecimiento — mitos vs ciencia",
+    "slug": "hormona-crecimiento-envejecimiento-mitos",
+    "meta_description": "¿La hormona de crecimiento rejuvenece o acelera el cáncer? La relación GH/IGF-1 y longevidad es más compleja de lo que crees.",
+    "target_keyword": "hormona de crecimiento envejecimiento",
+    "secondary_keywords": ["GH antienvejecimiento", "IGF-1 longevidad", "hormona crecimiento mito"],
+    "outline": [
+      "H2: Qué hace la hormona de crecimiento en adultos",
+      "H2: La paradoja GH/IGF-1 — más no es mejor",
+      "H2: Enanos de Laron — la prueba genética",
+      "H2: Terapia con GH — riesgos documentados",
+      "H2: Cómo optimizar la GH naturalmente",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "endocrinología longevidad",
+    "month_suggested": 6
+  },
+  {
+    "id": 24,
+    "title": "Ayuno prolongado y longevidad — beneficios, riesgos y protocolos",
+    "slug": "ayuno-prolongado-longevidad-protocolos",
+    "meta_description": "El ayuno prolongado activa autofagia profunda y regeneración de células madre. Protocolos de 24h a 5 días con evidencia.",
+    "target_keyword": "ayuno prolongado longevidad",
+    "secondary_keywords": ["ayuno 72 horas beneficios", "ayuno 5 días Valter Longo", "FMD dieta imitación ayuno"],
+    "outline": [
+      "H2: Qué ocurre en tu cuerpo hora a hora durante un ayuno",
+      "H2: Autofagia y regeneración de células madre",
+      "H2: Dieta FMD de Valter Longo — el ayuno que imita al ayuno",
+      "H2: Protocolos por duración — 24h, 48h, 72h, 5 días",
+      "H2: Riesgos y contraindicaciones absolutas",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 3000,
+    "category": "nutrición longevidad",
+    "month_suggested": 6
+  },
+  {
+    "id": 25,
+    "title": "Análisis de sangre para longevidad — los biomarcadores que debes controlar",
+    "slug": "analisis-sangre-longevidad-biomarcadores",
+    "meta_description": "Los 15 biomarcadores en sangre que predicen tu envejecimiento. Qué pedir en tu analítica y cómo interpretar los resultados.",
+    "target_keyword": "análisis sangre longevidad biomarcadores",
+    "secondary_keywords": ["biomarcadores envejecimiento", "analítica completa longevidad", "marcadores salud preventiva"],
+    "outline": [
+      "H2: Por qué una analítica estándar no es suficiente",
+      "H2: 15 biomarcadores clave para la longevidad",
+      "H2: Cómo interpretar rangos óptimos vs rangos normales",
+      "H2: Frecuencia recomendada de analíticas",
+      "H2: Dónde hacerse analíticas completas en España",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "biomarcadores",
+    "month_suggested": 7
+  },
+  {
+    "id": 26,
+    "title": "Glicación y AGEs — el daño oculto del azúcar en el envejecimiento",
+    "slug": "glicacion-ages-azucar-envejecimiento",
+    "meta_description": "Los AGEs son productos de glicación que dañan tus tejidos y aceleran el envejecimiento. Cómo se forman y cómo reducirlos.",
+    "target_keyword": "glicación AGEs envejecimiento",
+    "secondary_keywords": ["productos glicación avanzada", "AGEs y piel", "azúcar envejecimiento celular"],
+    "outline": [
+      "H2: Qué son los AGEs y cómo se forman",
+      "H2: Daño de los AGEs en órganos y piel",
+      "H2: Alimentos con más AGEs — cocción y temperatura",
+      "H2: Cómo reducir la formación de AGEs",
+      "H2: Suplementos anti-AGEs — carnosina, benfotiamina",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2000,
+    "category": "biología del envejecimiento",
+    "month_suggested": 7
+  },
+  {
+    "id": 27,
+    "title": "Vitamina K2 y calcificación vascular — el nutriente olvidado de la longevidad",
+    "slug": "vitamina-k2-calcificacion-vascular",
+    "meta_description": "La vitamina K2 dirige el calcio a los huesos y lo saca de las arterias. Crucial para longevidad cardiovascular y ósea.",
+    "target_keyword": "vitamina K2 calcificación vascular",
+    "secondary_keywords": ["vitamina K2 MK7 beneficios", "K2 arterias calcio", "vitamina K2 longevidad"],
+    "outline": [
+      "H2: Vitamina K2 vs K1 — diferencias cruciales",
+      "H2: El mecanismo — proteína GLA de la matriz y osteocalcina",
+      "H2: Evidencia en salud cardiovascular y ósea",
+      "H2: MK-4 vs MK-7 — cuál suplementar",
+      "H2: Dosis, fuentes y sinergias con D3",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2000,
+    "category": "suplementos longevidad",
+    "month_suggested": 7
+  },
+  {
+    "id": 28,
+    "title": "Disfunción mitocondrial y envejecimiento — cómo mantener tus centrales de energía",
+    "slug": "disfuncion-mitocondrial-envejecimiento",
+    "meta_description": "Las mitocondrias pierden eficiencia con la edad causando fatiga y enfermedades. Estrategias para optimizar la función mitocondrial.",
+    "target_keyword": "disfunción mitocondrial envejecimiento",
+    "secondary_keywords": ["mitocondrias y edad", "biogénesis mitocondrial", "CoQ10 mitocondrias"],
+    "outline": [
+      "H2: Mitocondrias — las centrales energéticas que envejecen",
+      "H2: Cómo la disfunción mitocondrial causa enfermedades",
+      "H2: Biogénesis mitocondrial — cómo crear nuevas mitocondrias",
+      "H2: Ejercicio, frío y ayuno — activadores naturales",
+      "H2: Suplementos mitocondriales — CoQ10, PQQ, urolitina A",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "biología del envejecimiento",
+    "month_suggested": 7
+  },
+  {
+    "id": 29,
+    "title": "Espermidina y longevidad — el compuesto natural que activa la autofagia",
+    "slug": "espermidina-longevidad-autofagia",
+    "meta_description": "La espermidina activa la autofagia y se asocia a menor mortalidad en estudios epidemiológicos. Fuentes, dosis y evidencia.",
+    "target_keyword": "espermidina longevidad",
+    "secondary_keywords": ["espermidina suplemento", "espermidina alimentos", "espermidina autofagia"],
+    "outline": [
+      "H2: Qué es la espermidina y por qué interesa en longevidad",
+      "H2: Evidencia epidemiológica — estudio Bruneck",
+      "H2: Mecanismos de acción — autofagia y más",
+      "H2: Alimentos ricos en espermidina",
+      "H2: Suplementación — dosis y estado de los ensayos",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2000,
+    "category": "suplementos longevidad",
+    "month_suggested": 8
+  },
+  {
+    "id": 30,
+    "title": "Entrenamiento de fuerza después de los 60 — la mejor inversión en longevidad",
+    "slug": "entrenamiento-fuerza-despues-60-longevidad",
+    "meta_description": "Entrenar fuerza después de los 60 reduce mortalidad, caídas y dependencia. Guía con ejercicios seguros y progresiones.",
+    "target_keyword": "entrenamiento fuerza después 60",
+    "secondary_keywords": ["musculación mayores 60", "ejercicios fuerza tercera edad", "pesas personas mayores"],
+    "outline": [
+      "H2: Por qué la fuerza es la capacidad más importante al envejecer",
+      "H2: Beneficios del entrenamiento de fuerza en mayores",
+      "H2: Programa de inicio — ejercicios seguros y progresiones",
+      "H2: Frecuencia, volumen e intensidad óptimos",
+      "H2: Precauciones y cuándo consultar al médico",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "ejercicio longevidad",
+    "month_suggested": 8
+  },
+  {
+    "id": 31,
+    "title": "Contaminación del aire y envejecimiento — cómo afecta y cómo protegerte",
+    "slug": "contaminacion-aire-envejecimiento",
+    "meta_description": "La contaminación del aire acorta telómeros y acelera el envejecimiento cerebral. Cómo protegerte según la evidencia científica.",
+    "target_keyword": "contaminación aire envejecimiento",
+    "secondary_keywords": ["PM2.5 salud efectos", "polución y longevidad", "purificador aire beneficios"],
+    "outline": [
+      "H2: Cómo la polución envejece tus órganos",
+      "H2: PM2.5 — las partículas que penetran hasta tu sangre",
+      "H2: Contaminación y deterioro cognitivo — la conexión",
+      "H2: Estrategias de protección con evidencia",
+      "H2: Purificadores de aire — ¿merecen la pena?",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2000,
+    "category": "medioambiente y salud",
+    "month_suggested": 8
+  },
+  {
+    "id": 32,
+    "title": "Glucosa en sangre y envejecimiento — por qué controlar la glucemia aunque no seas diabético",
+    "slug": "glucosa-sangre-envejecimiento-control",
+    "meta_description": "Los picos de glucosa aceleran la glicación y el envejecimiento. Por qué y cómo controlar tu glucemia aunque no seas diabético.",
+    "target_keyword": "glucosa sangre envejecimiento control",
+    "secondary_keywords": ["picos glucosa daño", "monitor continuo glucosa", "variabilidad glucémica"],
+    "outline": [
+      "H2: Por qué la glucosa alta envejece aunque no seas diabético",
+      "H2: Variabilidad glucémica — el nuevo marcador importante",
+      "H2: Monitores continuos de glucosa — cómo usarlos",
+      "H2: Estrategias para aplanar la curva de glucosa",
+      "H2: Objetivos de glucemia para longevidad óptima",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "biomarcadores",
+    "month_suggested": 8
+  },
+  {
+    "id": 33,
+    "title": "Terapia con péptidos para la longevidad — BPC-157, epitalon y más",
+    "slug": "terapia-peptidos-longevidad-bpc157",
+    "meta_description": "Los péptidos como BPC-157, epitalon y thymosin alfa son tendencia en longevidad. ¿Qué dice la ciencia? Revisión sin hype.",
+    "target_keyword": "péptidos longevidad BPC-157",
+    "secondary_keywords": ["epitalon telómeros", "terapia péptidos antienvejecimiento", "BPC-157 regeneración"],
+    "outline": [
+      "H2: Qué son los péptidos terapéuticos",
+      "H2: BPC-157 — regeneración y curación",
+      "H2: Epitalon — el péptido pineal y los telómeros",
+      "H2: Thymosin alfa-1 — inmunidad y envejecimiento",
+      "H2: Estado legal, seguridad y dónde estamos realmente",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "farmacología longevidad",
+    "month_suggested": 9
+  },
+  {
+    "id": 34,
+    "title": "Fotobiomodulación y luz roja — evidencia en antienvejecimiento",
+    "slug": "fotobiomodulacion-luz-roja-antienvejecimiento",
+    "meta_description": "La terapia con luz roja e infrarroja cercana mejora mitocondrias, piel y cognición. Revisamos la evidencia y los dispositivos.",
+    "target_keyword": "fotobiomodulación luz roja antienvejecimiento",
+    "secondary_keywords": ["terapia luz roja beneficios", "paneles luz roja", "infrarrojo cercano piel"],
+    "outline": [
+      "H2: Qué es la fotobiomodulación y cómo actúa en las células",
+      "H2: Evidencia en piel, colágeno y arrugas",
+      "H2: Beneficios cognitivos — estudios en cerebro",
+      "H2: Dispositivos — paneles, gorros, máscaras — qué comprar",
+      "H2: Protocolos de uso — distancia, tiempo, frecuencia",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2000,
+    "category": "biohacking",
+    "month_suggested": 9
+  },
+  {
+    "id": 35,
+    "title": "Resistencia a la insulina y envejecimiento acelerado — cómo revertirla",
+    "slug": "resistencia-insulina-envejecimiento-revertir",
+    "meta_description": "La resistencia a la insulina es una de las causas raíz del envejecimiento acelerado. Cómo detectarla y revertirla paso a paso.",
+    "target_keyword": "resistencia insulina envejecimiento",
+    "secondary_keywords": ["revertir resistencia insulina", "HOMA-IR qué es", "insulina alta envejecimiento"],
+    "outline": [
+      "H2: Qué es la resistencia a la insulina y cómo envejece",
+      "H2: HOMA-IR y otros marcadores para detectarla",
+      "H2: Causas — más allá del azúcar",
+      "H2: Protocolo de reversión — dieta, ejercicio, timing",
+      "H2: Suplementos con evidencia — berberina, cromo, canela",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "endocrinología longevidad",
+    "month_suggested": 9
+  },
+  {
+    "id": 36,
+    "title": "Función cognitiva con la edad — cómo mantener tu cerebro joven",
+    "slug": "funcion-cognitiva-edad-cerebro-joven",
+    "meta_description": "Tu cerebro envejece pero puedes frenarlo. Estrategias con evidencia para mantener la función cognitiva y prevenir demencia.",
+    "target_keyword": "función cognitiva edad cerebro joven",
+    "secondary_keywords": ["prevenir deterioro cognitivo", "mantener memoria edad", "neuroprotección envejecimiento"],
+    "outline": [
+      "H2: Cómo cambia el cerebro con la edad",
+      "H2: BDNF — el factor que mantiene tu cerebro plástico",
+      "H2: Ejercicio aeróbico y neurogénesis — la evidencia",
+      "H2: Alimentación neuroprotectora — dieta MIND",
+      "H2: Sueño, socialización y estimulación cognitiva",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "neurociencia longevidad",
+    "month_suggested": 9
+  },
+  {
+    "id": 37,
+    "title": "Terapia con testosterona en hombres mayores — beneficios y riesgos reales",
+    "slug": "terapia-testosterona-hombres-mayores",
+    "meta_description": "La TRT en hombres mayores genera debate. Revisamos la evidencia del ensayo TRAVERSE y otros sobre beneficios y riesgos reales.",
+    "target_keyword": "terapia testosterona hombres mayores",
+    "secondary_keywords": ["TRT riesgos beneficios", "testosterona baja hombres", "reemplazo hormonal masculino"],
+    "outline": [
+      "H2: Declive de testosterona con la edad — qué es normal",
+      "H2: Síntomas de testosterona baja",
+      "H2: Ensayo TRAVERSE — lo que aprendimos sobre seguridad",
+      "H2: Beneficios documentados de la TRT",
+      "H2: Riesgos y cómo monitorizarla correctamente",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "endocrinología longevidad",
+    "month_suggested": 10
+  },
+  {
+    "id": 38,
+    "title": "HIIT y longevidad — el entrenamiento de alta intensidad que rejuvenece las células",
+    "slug": "hiit-longevidad-rejuvenece-celulas",
+    "meta_description": "El HIIT mejora la función mitocondrial y revierte marcadores de envejecimiento celular según el estudio Mayo Clinic. Protocolos.",
+    "target_keyword": "HIIT longevidad rejuvenece células",
+    "secondary_keywords": ["HIIT mitocondrias estudio", "entrenamiento alta intensidad mayores", "HIIT vs cardio moderado longevidad"],
+    "outline": [
+      "H2: Estudio Mayo Clinic — HIIT y envejecimiento celular",
+      "H2: Mecanismos — mitocondrias, telómeros y epigenética",
+      "H2: HIIT vs cardio moderado para longevidad",
+      "H2: Protocolos HIIT adaptados por edad",
+      "H2: Precauciones para mayores de 50",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "ejercicio longevidad",
+    "month_suggested": 10
+  },
+  {
+    "id": 39,
+    "title": "Curcumina y longevidad — potente antiinflamatorio bajo la lupa científica",
+    "slug": "curcumina-longevidad-antiinflamatorio",
+    "meta_description": "La curcumina es antiinflamatoria y antioxidante pero su absorción es un reto. La ciencia real y cómo tomarla eficazmente.",
+    "target_keyword": "curcumina longevidad antiinflamatorio",
+    "secondary_keywords": ["cúrcuma beneficios ciencia", "curcumina biodisponibilidad", "curcumina suplemento mejor"],
+    "outline": [
+      "H2: Curcumina vs cúrcuma — la diferencia importante",
+      "H2: Evidencia antiinflamatoria y antioxidante",
+      "H2: El problema de la biodisponibilidad — soluciones",
+      "H2: Estudios clínicos relevantes",
+      "H2: Dosis, formas y marcas con buena biodisponibilidad",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2000,
+    "category": "suplementos longevidad",
+    "month_suggested": 10
+  },
+  {
+    "id": 40,
+    "title": "Estrés crónico y envejecimiento acelerado — la conexión telómero-cortisol",
+    "slug": "estres-cronico-envejecimiento-acelerado",
+    "meta_description": "El estrés crónico acorta telómeros, altera la epigenética y acelera 10+ años tu envejecimiento biológico. Cómo contrarrestarlo.",
+    "target_keyword": "estrés crónico envejecimiento acelerado",
+    "secondary_keywords": ["cortisol y envejecimiento", "estrés telómeros Elizabeth Blackburn", "estrés acelera edad"],
+    "outline": [
+      "H2: El estudio de Elizabeth Blackburn — estrés y telómeros",
+      "H2: Cortisol crónico — daño sistémico documentado",
+      "H2: Estrés y epigenética — cambios que se heredan",
+      "H2: Intervenciones antiestrés con mayor evidencia",
+      "H2: Meditación, coherencia cardíaca y naturaleza",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "psiconeuroinmunología",
+    "month_suggested": 10
+  },
+  {
+    "id": 41,
+    "title": "Trasplante de plasma joven y parabiosis — ¿el futuro del rejuvenecimiento?",
+    "slug": "trasplante-plasma-joven-parabiosis",
+    "meta_description": "Los experimentos de parabiosis muestran que la sangre joven rejuvenece. Del laboratorio a las clínicas: estado de la ciencia.",
+    "target_keyword": "trasplante plasma joven parabiosis",
+    "secondary_keywords": ["parabiosis rejuvenecimiento", "sangre joven antienvejecimiento", "factores rejuvenecimiento sangre"],
+    "outline": [
+      "H2: Experimentos de parabiosis — la historia",
+      "H2: Factores en la sangre joven — GDF11, TIMP2 y klotho",
+      "H2: Ensayos clínicos actuales en humanos",
+      "H2: Ambrosia, Alkahest y las startups del plasma",
+      "H2: Ética y estado regulatorio",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "medicina regenerativa",
+    "month_suggested": 11
+  },
+  {
+    "id": 42,
+    "title": "Creatina más allá del músculo — beneficios cognitivos y longevidad",
+    "slug": "creatina-beneficios-cognitivos-longevidad",
+    "meta_description": "La creatina no solo es para el gimnasio. Evidencia creciente en neuroprotección, cognición y longevidad. El suplemento infravalorado.",
+    "target_keyword": "creatina beneficios cognitivos longevidad",
+    "secondary_keywords": ["creatina cerebro", "creatina mayores 50", "creatina neuroprotección"],
+    "outline": [
+      "H2: Creatina — más que un suplemento deportivo",
+      "H2: Evidencia en función cognitiva y neuroprotección",
+      "H2: Creatina y envejecimiento muscular",
+      "H2: Seguridad a largo plazo — lo que dicen los estudios",
+      "H2: Dosis óptima para longevidad — sin fase de carga",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2000,
+    "category": "suplementos longevidad",
+    "month_suggested": 11
+  },
+  {
+    "id": 43,
+    "title": "Terapia génica y longevidad — edición CRISPR contra el envejecimiento",
+    "slug": "terapia-genica-longevidad-crispr",
+    "meta_description": "CRISPR podría editar genes del envejecimiento en el futuro. Estado actual de la terapia génica para longevidad y los desafíos.",
+    "target_keyword": "terapia génica longevidad CRISPR",
+    "secondary_keywords": ["CRISPR envejecimiento", "edición genética longevidad", "terapia génica antienvejecimiento"],
+    "outline": [
+      "H2: Qué es CRISPR y cómo funciona en longevidad",
+      "H2: Genes del envejecimiento — candidatos para edición",
+      "H2: Experimentos en animales con terapia génica antienvejecimiento",
+      "H2: Startups y laboratorios líderes — Altos Labs, Retro Bio",
+      "H2: Desafíos técnicos y éticos",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "medicina regenerativa",
+    "month_suggested": 11
+  },
+  {
+    "id": 44,
+    "title": "Polifenoles y longevidad — los compuestos vegetales que protegen tus células",
+    "slug": "polifenoles-longevidad-compuestos-vegetales",
+    "meta_description": "Los polifenoles activan sirtuinas, reducen inflamación y protegen contra enfermedades del envejecimiento. Los más potentes.",
+    "target_keyword": "polifenoles longevidad protección celular",
+    "secondary_keywords": ["polifenoles antienvejecimiento", "alimentos ricos polifenoles", "quercetina fisetina longevidad"],
+    "outline": [
+      "H2: Qué son los polifenoles y cómo actúan",
+      "H2: Los polifenoles más estudiados en longevidad",
+      "H2: Xenohormesis — la hipótesis del estrés vegetal",
+      "H2: Alimentos con mayor concentración de polifenoles",
+      "H2: Suplementación — cuándo tiene sentido",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2000,
+    "category": "nutrición longevidad",
+    "month_suggested": 11
+  },
+  {
+    "id": 45,
+    "title": "Oxígeno hiperbárico y envejecimiento — la terapia que alarga telómeros",
+    "slug": "oxigeno-hiperbarcio-envejecimiento-telomeros",
+    "meta_description": "Un estudio israelí mostró que la TOHB alarga telómeros y elimina células senescentes. Revisamos la evidencia y limitaciones.",
+    "target_keyword": "oxígeno hiperbárico envejecimiento telómeros",
+    "secondary_keywords": ["cámara hiperbárica longevidad", "TOHB antienvejecimiento", "oxígeno hiperbárico beneficios"],
+    "outline": [
+      "H2: Qué es la terapia de oxígeno hiperbárico",
+      "H2: El estudio de Efrati — telómeros y células senescentes",
+      "H2: Mecanismos propuestos — hiperoxia-hipoxia intermitente",
+      "H2: Otros beneficios documentados",
+      "H2: Coste, accesibilidad y protocolos en España",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2000,
+    "category": "biohacking",
+    "month_suggested": 12
+  },
+  {
+    "id": 46,
+    "title": "Menopausia y longevidad — terapia hormonal sustitutiva revisada",
+    "slug": "menopausia-longevidad-terapia-hormonal",
+    "meta_description": "La THS en menopausia ha sido rehabilitada por la ciencia. Beneficios, riesgos y la ventana de oportunidad para la longevidad.",
+    "target_keyword": "menopausia terapia hormonal longevidad",
+    "secondary_keywords": ["THS menopausia beneficios", "estrógenos longevidad mujer", "menopausia envejecimiento acelerado"],
+    "outline": [
+      "H2: Menopausia y envejecimiento acelerado — la evidencia",
+      "H2: THS — la historia de la controversia",
+      "H2: Evidencia actual — la ventana de oportunidad",
+      "H2: Hormonas bioidénticas vs sintéticas",
+      "H2: Criterios para decidir si la THS es para ti",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "endocrinología longevidad",
+    "month_suggested": 12
+  },
+  {
+    "id": 47,
+    "title": "Suplementos antienvejecimiento con evidencia — ranking actualizado",
+    "slug": "suplementos-antienvejecimiento-evidencia-ranking",
+    "meta_description": "Ranking de suplementos antienvejecimiento por nivel de evidencia. De los que funcionan a los que son puro marketing, sin hype.",
+    "target_keyword": "suplementos antienvejecimiento evidencia",
+    "secondary_keywords": ["mejores suplementos longevidad", "suplementos que funcionan edad", "stack antienvejecimiento"],
+    "outline": [
+      "H2: Criterios para evaluar la evidencia de cada suplemento",
+      "H2: Tier 1 — evidencia fuerte en humanos",
+      "H2: Tier 2 — evidencia prometedora pero incompleta",
+      "H2: Tier 3 — más hype que ciencia",
+      "H2: Cómo construir un stack personalizado",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 3000,
+    "category": "suplementos longevidad",
+    "month_suggested": 12
+  },
+  {
+    "id": 48,
+    "title": "Soledad y mortalidad — el factor social que acorta más la vida",
+    "slug": "soledad-mortalidad-factor-social",
+    "meta_description": "La soledad crónica aumenta la mortalidad tanto como fumar 15 cigarrillos/día. La ciencia del aislamiento y cómo combatirlo.",
+    "target_keyword": "soledad mortalidad factor social",
+    "secondary_keywords": ["soledad mata estudio", "aislamiento social salud", "conexión social longevidad"],
+    "outline": [
+      "H2: La epidemia de soledad — los datos alarmantes",
+      "H2: Cómo la soledad daña biológicamente tu cuerpo",
+      "H2: Soledad vs estar solo — la diferencia clave",
+      "H2: Conexiones sociales en zonas azules",
+      "H2: Estrategias para combatir la soledad con evidencia",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "psiconeuroinmunología",
+    "month_suggested": 12
+  },
+  {
+    "id": 49,
+    "title": "Berberina — la metformina natural para glucosa, lípidos y longevidad",
+    "slug": "berberina-metformina-natural-longevidad",
+    "meta_description": "La berberina activa AMPK como la metformina y mejora glucosa y lípidos. ¿Es un suplemento de longevidad? Revisión científica.",
+    "target_keyword": "berberina metformina natural longevidad",
+    "secondary_keywords": ["berberina beneficios", "berberina glucosa", "berberina vs metformina"],
+    "outline": [
+      "H2: Qué es la berberina y cómo actúa",
+      "H2: Berberina vs metformina — similitudes y diferencias",
+      "H2: Evidencia en glucosa, lípidos e inflamación",
+      "H2: Berberina y AMPK — la vía de la longevidad",
+      "H2: Dosis, efectos secundarios y precauciones",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2000,
+    "category": "suplementos longevidad",
+    "month_suggested": 3
+  },
+  {
+    "id": 50,
+    "title": "Zonificación del sueño — cronotipos y ritmos circadianos para longevidad",
+    "slug": "cronotipos-ritmos-circadianos-longevidad",
+    "meta_description": "Respetar tu cronotipo y ritmos circadianos impacta directamente en tu longevidad. Cómo alinear tu reloj biológico para vivir más.",
+    "target_keyword": "cronotipos ritmos circadianos longevidad",
+    "secondary_keywords": ["cronotipo y salud", "reloj biológico envejecimiento", "disrupción circadiana mortalidad"],
+    "outline": [
+      "H2: Relojes circadianos y envejecimiento — la conexión",
+      "H2: Cronotipos — búho, alondra y cómo descubrir el tuyo",
+      "H2: Disrupción circadiana y mortalidad — los datos",
+      "H2: Cómo alinear tu vida con tu reloj biológico",
+      "H2: Cronofarmacología — tomar suplementos a la hora correcta",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "sueño longevidad",
+    "month_suggested": 4
+  },
+  {
+    "id": 51,
+    "title": "Medicina de precisión y longevidad — analítica personalizada para envejecer mejor",
+    "slug": "medicina-precision-longevidad-personalizada",
+    "meta_description": "La medicina de precisión personaliza tu estrategia de longevidad según tu genética, epigenética y biomarcadores. El futuro es hoy.",
+    "target_keyword": "medicina precisión longevidad personalizada",
+    "secondary_keywords": ["medicina personalizada envejecimiento", "genómica longevidad", "clínicas longevidad España"],
+    "outline": [
+      "H2: Qué es la medicina de precisión aplicada a longevidad",
+      "H2: Tests genéticos útiles — polimorfismos que importan",
+      "H2: Panel de biomarcadores personalizado",
+      "H2: Clínicas de longevidad en España — dónde ir",
+      "H2: Coste-beneficio — ¿merece la pena?",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 2500,
+    "category": "medicina preventiva",
+    "month_suggested": 5
+  },
+  {
+    "id": 52,
+    "title": "Plan anual de longevidad — protocolo mes a mes basado en evidencia",
+    "slug": "plan-anual-longevidad-protocolo-evidencia",
+    "meta_description": "Tu plan de longevidad para todo el año: analíticas, suplementos, ejercicio y hábitos organizados mes a mes. Protocolo completo.",
+    "target_keyword": "plan anual longevidad protocolo",
+    "secondary_keywords": ["protocolo longevidad completo", "rutina antienvejecimiento anual", "plan longevidad paso a paso"],
+    "outline": [
+      "H2: Enero-Marzo — diagnóstico basal y fundamentos",
+      "H2: Abril-Junio — optimización de nutrición y ejercicio",
+      "H2: Julio-Septiembre — suplementos y biohacking avanzado",
+      "H2: Octubre-Diciembre — evaluación, ajustes y consolidación",
+      "H2: Checklist mensual de biomarcadores y hábitos",
+      "H2: FAQ — preguntas frecuentes"
+    ],
+    "word_count_target": 3000,
+    "category": "longevidad",
+    "month_suggested": 1
+  }
+]

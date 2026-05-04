@@ -1,0 +1,133 @@
+{
+  "title": "🧍 Dolor de Espalda: Mitos y Ciencia Real Que Nadie Te Cuenta",
+  "description": "El 80% de personas sufrirá dolor de espalda en su vida. La mayoría de lo que crees saber es falso. Analizamos los mitos sobre postura, hernias discales, cirugías y qué funciona realmente según estudios del NEJM, The Lancet y la Universidad de Oxford.\n\nFuentes: New England Journal of Medicine, The Lancet, BMJ, British Journal of Sports Medicine.\n\n#dolordeespalda #postura #hernia #columna #ciencia #salud #ejercicio #ergonomía #lumbar #longevidad",
+  "tags": ["dolor de espalda", "postura", "hernia discal", "columna vertebral", "ergonomía", "lumbar", "ciencia", "salud", "ejercicio", "fisioterapia"],
+  "segments": [
+    {
+      "voice": "El dolor de espalda es la primera causa de discapacidad en el mundo según el Global Burden of Disease Study de The Lancet. El ochenta por ciento de las personas lo sufrirá al menos una vez en su vida. Y aquí viene lo que no te cuentan: la mayoría de lo que crees saber sobre postura y dolor de espalda está basado en mitos que la ciencia moderna ha demolido.",
+      "visual": "person holding lower back in pain while sitting at office desk",
+      "duration": 25
+    },
+    {
+      "voice": "Primer mito: la mala postura causa dolor de espalda. Un estudio de Slater y colegas publicado en el Journal of Orthopaedic and Sports Physical Therapy en 2019 revisó la evidencia disponible y concluyó que no existe un vínculo causal consistente entre la postura sentada y el dolor lumbar. Personas con posturas supuestamente perfectas sufren dolor y personas con posturas terribles no.",
+      "visual": "comparison of different sitting postures in ergonomic study setting",
+      "duration": 25
+    },
+    {
+      "voice": "Esto no significa que la postura no importe en absoluto. Lo que dice la ciencia es que la mejor postura es la siguiente postura. Un estudio de O'Sullivan publicado en el British Journal of Sports Medicine demostró que es la inmovilidad prolongada, no la postura específica, la que se asocia con mayor dolor. Cambiar de posición frecuentemente es más importante que sentarse recto.",
+      "visual": "person changing positions at standing desk throughout the workday",
+      "duration": 25
+    },
+    {
+      "voice": "Segundo mito: las hernias discales causan dolor de espalda. Un estudio revolucionario de Brinjikji publicado en el American Journal of Neuroradiology en 2015 realizó resonancias magnéticas a personas sin ningún dolor y encontró que el cincuenta y dos por ciento de los adultos de treinta años ya tenían degeneración discal y el treinta y siete por ciento tenían protrusiones discales. Sin síntomas.",
+      "visual": "MRI scan of spine showing disc conditions on medical display screen",
+      "duration": 25
+    },
+    {
+      "voice": "A los sesenta años, el noventa y seis por ciento de las personas sin dolor tenían degeneración discal visible en la resonancia. Esto significa que encontrar una hernia o degeneración en tu resonancia no explica necesariamente tu dolor. Un estudio de Jarvik publicado en el NEJM confirmó que las resonancias tempranas para dolor de espalda no mejoran los resultados y pueden llevar a tratamientos innecesarios.",
+      "visual": "elderly active person hiking on trail without back pain in nature",
+      "duration": 25
+    },
+    {
+      "voice": "Tercer mito: necesitas cirugía si tienes una hernia discal. La serie de estudios SPORT publicada en JAMA siguió a pacientes con hernias discales tratados con cirugía versus tratamiento conservador durante ocho años. Los resultados a largo plazo fueron similares en ambos grupos. La mayoría de las hernias discales se reabsorben naturalmente en seis a doce meses según un metaanálisis de Zhong publicado en International Orthopaedics.",
+      "visual": "surgeon in operating room versus physical therapist working with patient",
+      "duration": 25
+    },
+    {
+      "voice": "El dolor de espalda es biopsicosocial. El modelo médico moderno, respaldado por tres series de The Lancet en 2018 sobre dolor lumbar, reconoce que factores psicológicos como el estrés, la ansiedad, la catastrofización y las creencias sobre el dolor influyen tanto o más que los factores físicos. El miedo al movimiento, llamado kinesiofobia, es uno de los mayores predictores de cronificación.",
+      "visual": "diagram showing biopsychosocial model of pain with interconnected factors",
+      "duration": 25
+    },
+    {
+      "voice": "Un estudio de Wertli publicado en Pain en 2014 demostró que las creencias negativas sobre el dolor de espalda predicen peores resultados a largo plazo independientemente de la patología física. Creer que tu espalda es frágil, que el movimiento la dañará o que necesitas reposo perpetuo son factores que convierten el dolor agudo en dolor crónico.",
+      "visual": "anxious person afraid to bend down or lift light objects at home",
+      "duration": 25
+    },
+    {
+      "voice": "El reposo en cama, recomendado durante décadas, es ahora considerado perjudicial. Un ensayo clínico de Hagen publicado en BMJ demostró que los pacientes que mantuvieron su actividad normal se recuperaron más rápido que los que guardaron reposo. Las guías clínicas internacionales ahora recomiendan mantener la actividad y volver al movimiento lo antes posible.",
+      "visual": "person gradually returning to normal activity after back pain episode",
+      "duration": 25
+    },
+    {
+      "voice": "El ejercicio es el tratamiento más efectivo para el dolor de espalda crónico. Un metaanálisis de Hayden publicado en el Cochrane Database en 2021 con más de doscientos cuarenta y nueve ensayos clínicos confirmó que el ejercicio reduce el dolor y mejora la función en dolor lumbar crónico. No importa tanto qué tipo de ejercicio hagas, lo que importa es que te muevas.",
+      "visual": "person doing gentle exercises for back health in gym with trainer",
+      "duration": 25
+    },
+    {
+      "voice": "Los estudios comparan pilates, yoga, natación, caminata, entrenamiento de fuerza y ejercicios específicos de estabilización. Un estudio de Owen publicado en JAMA Internal Medicine en 2020 encontró que el yoga y el entrenamiento de fuerza fueron ligeramente superiores, pero la diferencia entre tipos de ejercicio fue mucho menor que la diferencia entre hacer ejercicio y no hacer nada.",
+      "visual": "split screen showing yoga pilates swimming and weight training activities",
+      "duration": 25
+    },
+    {
+      "voice": "El core, esos abdominales profundos de los que tanto se habla, fue sobrevalorado durante años. Un estudio de Lederman publicado en el Journal of Bodywork and Movement Therapies demostró que no hay evidencia de que los ejercicios específicos de core sean superiores al ejercicio general para el dolor de espalda. Tu espalda necesita movimiento general, no un músculo específico más fuerte.",
+      "visual": "person doing various core exercises on mat in fitness studio",
+      "duration": 25
+    },
+    {
+      "voice": "El levantar peso no daña la espalda si se hace progresivamente. Un metaanálisis de Hayden mostró que el entrenamiento de fuerza pesada reduce el dolor lumbar. Un estudio de Steele publicado en el British Journal of Sports Medicine encontró que los deadlifts, el peso muerto, reducen el dolor y la discapacidad en pacientes con dolor lumbar crónico mecánico.",
+      "visual": "person performing proper deadlift technique with barbell in gym",
+      "duration": 25
+    },
+    {
+      "voice": "Cuarto mito: sentarse es el nuevo fumar. Esta frase viral no tiene base científica real para el dolor de espalda específicamente. Un estudio de Kwon publicado en el American Journal of Epidemiology analizó a más de ochenta mil personas y no encontró una asociación significativa entre el tiempo sentado y el dolor lumbar. Lo que sí importa es la falta de movimiento general.",
+      "visual": "office workers at desks some sitting some standing in modern workplace",
+      "duration": 25
+    },
+    {
+      "voice": "Los escritorios de pie tampoco son la solución mágica. Un estudio de Karakolis y Callaghan publicado en Ergonomics encontró que estar de pie prolongadamente causa tanto malestar como estar sentado prolongadamente. La solución es alternar: un estudio de Dutta publicado en Ergonomics demostró que cambiar entre sentado y de pie cada treinta a sesenta minutos reduce el malestar.",
+      "visual": "adjustable standing desk with timer showing position change reminder",
+      "duration": 25
+    },
+    {
+      "voice": "El sueño y el dolor de espalda tienen una relación bidireccional. Un estudio de Agmon y Armon publicado en el European Spine Journal en 2014 demostró que la mala calidad de sueño predice nuevos episodios de dolor de espalda. A su vez, el dolor interrumpe el sueño. Mejorar la higiene del sueño puede romper este ciclo vicioso según datos del mismo estudio.",
+      "visual": "person sleeping comfortably on supportive mattress in dark bedroom",
+      "duration": 25
+    },
+    {
+      "voice": "Los colchones son otro tema plagado de mitos. Un estudio controlado de Kovacs publicado en The Lancet comparó colchones duros con colchones de firmeza media y encontró que los de firmeza media eran superiores para el dolor lumbar. No existe el colchón perfecto universal, pero la idea de que cuanto más duro mejor ha sido desmentida.",
+      "visual": "person testing different mattress firmness levels in furniture store",
+      "duration": 25
+    },
+    {
+      "voice": "El estrés psicológico es un factor enormemente subestimado. Un estudio prospectivo de Linton publicado en el European Journal of Pain siguió a trabajadores sanos y encontró que los que reportaban mayores niveles de estrés y ansiedad al inicio del estudio tenían el doble de probabilidades de desarrollar dolor de espalda en los meses siguientes, independientemente del tipo de trabajo físico.",
+      "visual": "stressed office worker at computer with tense shoulders and posture",
+      "duration": 25
+    },
+    {
+      "voice": "La terapia cognitivo-conductual es un tratamiento efectivo para el dolor de espalda crónico. Un ensayo clínico de Cherkin publicado en JAMA en 2016 comparó la TCC con la reducción de estrés basada en mindfulness y la atención habitual. Tanto la TCC como el mindfulness superaron significativamente a la atención habitual en reducir el dolor y la discapacidad a los veintiséis semanas.",
+      "visual": "therapy session with psychologist and patient discussing pain management",
+      "duration": 25
+    },
+    {
+      "voice": "La educación sobre dolor es en sí misma un tratamiento. Un estudio de Louw publicado en Archives of Physical Medicine and Rehabilitation demostró que explicar a los pacientes la neurociencia del dolor, que el dolor no siempre significa daño tisular, reduce la catastrofización, mejora la función y reduce el uso de medicamentos. Entender tu dolor es el primer paso para superarlo.",
+      "visual": "doctor explaining spine anatomy model to attentive patient in clinic",
+      "duration": 25
+    },
+    {
+      "voice": "Las inyecciones de cortisona, los antiinflamatorios crónicos y los opioides son soluciones temporales con riesgos significativos. Un estudio del NEJM de 2014 por Friedly encontró que las inyecciones epidurales de esteroides no proporcionaron beneficio a largo plazo para la estenosis espinal lumbar. The Lancet recomienda el ejercicio y la educación como primera línea de tratamiento.",
+      "visual": "medicine bottles and pills on medical tray in clinical setting",
+      "duration": 25
+    },
+    {
+      "voice": "Caminar es quizás el ejercicio más subestimado para el dolor de espalda. Un ensayo clínico de Shnayderman y Katz-Leurer publicado en Clinical Rehabilitation en 2013 demostró que caminar es tan efectivo como los ejercicios específicos de fortalecimiento lumbar para reducir el dolor y la discapacidad. Es gratis, accesible y tiene mínimo riesgo de lesión.",
+      "visual": "person walking on path through park in morning light with good posture",
+      "duration": 25
+    },
+    {
+      "voice": "Si tienes dolor de espalda ahora mismo, la ciencia te dice: muévete en la medida que puedas, no tengas miedo de tu espalda, el movimiento es medicina. Si el dolor persiste más de doce semanas, es crónico y el enfoque debe incluir ejercicio progresivo, manejo del estrés y posiblemente terapia psicológica. Las banderas rojas que sí requieren atención urgente son pérdida de control de esfínteres, debilidad progresiva en piernas o pérdida de peso inexplicable.",
+      "visual": "person doing gentle stretching on yoga mat in bright living room",
+      "duration": 25
+    },
+    {
+      "voice": "Resumen: la postura perfecta no existe, las hernias son normales y suelen reabsorberse, el reposo empeora el dolor, el ejercicio es el mejor tratamiento, el miedo al movimiento cronifica el dolor, y caminar es tan efectivo como programas complejos. Tu espalda es fuerte, no frágil. Trátala como tal.",
+      "visual": "strong healthy person confidently lifting everyday objects without fear",
+      "duration": 25
+    },
+    {
+      "voice": "Si este vídeo cambió tu forma de ver el dolor de espalda, suscríbete y activa la campana porque desmontamos mitos de salud cada semana con ciencia real. Comparte este vídeo con alguien que lleva meses en reposo por miedo a moverse. Deja en los comentarios si alguno de estos mitos te sorprendió. Tu espalda está esperando que dejes de tenerle miedo.",
+      "visual": "active people exercising outdoors in park with sunshine and green trees",
+      "duration": 25
+    }
+  ],
+  "thumbnail_text": "MITOS ESPALDA"
+}

@@ -1,0 +1,1562 @@
+[
+  {
+    "id": 1,
+    "topic": "La molécula NAD+ y por qué tus células envejecen sin ella",
+    "hook": "A los 50 tienes la mitad de NAD+",
+    "key_points": [
+      "NAD+ es una coenzima presente en todas las células vivas — sin ella, las mitocondrias no pueden producir energía (ATP)",
+      "Según un estudio de Harvard de David Sinclair (2013, Cell), los niveles de NAD+ caen un 50% entre los 40 y 60 años",
+      "Investigadores de la Universidad de Washington demostraron que restaurar NAD+ en ratones revirtió signos de envejecimiento muscular (Cell Metabolism, 2016)",
+      "Formas naturales de aumentar NAD+: ejercicio intenso, ayuno intermitente y alimentos ricos en niacina (vitamina B3)"
+    ],
+    "search_terms": ["cell biology microscope", "aging science research", "laboratory molecular biology"],
+    "category": "antiaging"
+  },
+  {
+    "id": 2,
+    "topic": "Telómeros: el reloj biológico que marca tu edad real",
+    "hook": "Tus cromosomas se acortan cada día",
+    "key_points": [
+      "Los telómeros son secuencias repetitivas de ADN en los extremos de los cromosomas que se acortan con cada división celular",
+      "Elizabeth Blackburn ganó el Nobel de Medicina en 2009 por descubrir la telomerasa, la enzima que puede alargar telómeros",
+      "Un estudio de la Universidad de California (The Lancet Oncology, 2013) mostró que cambios en dieta y ejercicio alargaron telómeros un 10% en 5 años",
+      "El estrés crónico acelera el acortamiento telómico — madres cuidadoras de hijos enfermos mostraron telómeros equivalentes a 10 años más de envejecimiento (PNAS, 2004)"
+    ],
+    "search_terms": ["DNA chromosome close up", "telomere biology aging", "genetics laboratory research"],
+    "category": "antiaging"
+  },
+  {
+    "id": 3,
+    "topic": "Zonas azules: los 5 lugares donde la gente vive más de 100 años",
+    "hook": "5 lugares donde centenarios son normales",
+    "key_points": [
+      "Las zonas azules son: Okinawa (Japón), Cerdeña (Italia), Nicoya (Costa Rica), Icaria (Grecia) y Loma Linda (California)",
+      "Dan Buettner identificó 9 factores comunes (Power 9): movimiento natural, propósito, reducción de estrés, regla del 80%, dieta vegetal, vino moderado, comunidad, familia y tribu",
+      "En Okinawa consumen un 40% menos de calorías que el promedio occidental y tienen 5 veces más centenarios por capita (National Geographic, 2005)",
+      "El factor más determinante no es la dieta sino las conexiones sociales — en Cerdeña, los hombres viven tanto como las mujeres, caso único mundial"
+    ],
+    "search_terms": ["elderly healthy active lifestyle", "mediterranean village elderly", "okinawa japan elderly"],
+    "category": "longevidad"
+  },
+  {
+    "id": 4,
+    "topic": "Autofagia: cómo tu cuerpo se recicla a sí mismo para rejuvenecer",
+    "hook": "Tu cuerpo tiene un sistema de reciclaje celular",
+    "key_points": [
+      "Yoshinori Ohsumi ganó el Nobel de Medicina en 2016 por descubrir los mecanismos de la autofagia — el proceso donde las células digieren sus propios componentes dañados",
+      "La autofagia se activa principalmente durante el ayuno prolongado (16-24 horas sin comer), según estudios del Instituto Karolinska",
+      "Un estudio en Nature (2019) demostró que la autofagia deficiente está vinculada a Alzheimer, Parkinson y cáncer",
+      "El ejercicio intenso también activa la autofagia — 30 minutos de ejercicio vigoroso inducen autofagia muscular (Journal of Cell Biology, 2012)"
+    ],
+    "search_terms": ["cell autophagy process", "cellular biology microscope", "fasting science research"],
+    "category": "antiaging"
+  },
+  {
+    "id": 5,
+    "topic": "La proteína mTOR: el interruptor maestro del envejecimiento",
+    "hook": "Una proteína decide si envejeces rápido",
+    "key_points": [
+      "mTOR (mechanistic Target of Rapamycin) es una proteína que regula el crecimiento celular — cuando está hiperactiva, acelera el envejecimiento",
+      "Ratones tratados con rapamicina (inhibidor de mTOR) vivieron un 25% más según un estudio del National Institute on Aging (Nature, 2009)",
+      "La restricción calórica y el ayuno intermitente inhiben mTOR naturalmente, activando procesos de reparación celular (Science, 2012)",
+      "Matt Kaeberlein de la Universidad de Washington está probando rapamicina en perros domésticos en el Dog Aging Project, con resultados preliminares prometedores"
+    ],
+    "search_terms": ["protein molecule 3D structure", "aging research laboratory", "cellular signaling pathway"],
+    "category": "antiaging"
+  },
+  {
+    "id": 6,
+    "topic": "Células senescentes: las células zombi que te envejecen",
+    "hook": "Tienes células zombi que te envejecen",
+    "key_points": [
+      "Las células senescentes son células que dejan de dividirse pero no mueren — se acumulan con la edad y secretan sustancias inflamatorias (SASP)",
+      "Investigadores de la Clínica Mayo (Nature Medicine, 2018) eliminaron células senescentes en ratones y extendieron su vida un 36%",
+      "Un ensayo clínico en humanos (The Lancet, 2019) usó dasatinib + quercetina para eliminar células senescentes en pacientes con fibrosis pulmonar",
+      "El ejercicio regular reduce la acumulación de células senescentes — personas activas de 75 años tenían niveles similares a personas de 40 (Aging Cell, 2018)"
+    ],
+    "search_terms": ["senescent cells microscope", "zombie cells aging", "cellular aging biology"],
+    "category": "antiaging"
+  },
+  {
+    "id": 7,
+    "topic": "El reloj epigenético de Horvath: tu edad biológica real",
+    "hook": "Tu DNI miente sobre tu edad real",
+    "key_points": [
+      "Steve Horvath de UCLA desarrolló en 2013 un reloj que mide la edad biológica analizando la metilación del ADN en 353 sitios del genoma (Genome Biology, 2013)",
+      "La diferencia entre edad cronológica y biológica puede ser de hasta 20 años — personas con edad biológica mayor tienen 2x más riesgo de muerte prematura",
+      "Un estudio de Nature Aging (2021) demostró que el ejercicio aeróbico regular puede revertir el reloj epigenético hasta 3 años en 8 meses",
+      "Factores que aceleran el reloj: tabaco (+4.6 años), obesidad (+3.3 años), insomnio crónico (+2.1 años), según datos del UK Biobank"
+    ],
+    "search_terms": ["DNA methylation epigenetics", "biological age clock", "genome research laboratory"],
+    "category": "antiaging"
+  },
+  {
+    "id": 8,
+    "topic": "Mitocondrias: las baterías celulares que determinan tu energía vital",
+    "hook": "Tus células tienen 10 millones de baterías",
+    "key_points": [
+      "Cada célula humana contiene entre 1,000 y 2,500 mitocondrias — producen el 90% de la energía (ATP) que tu cuerpo necesita para funcionar",
+      "La disfunción mitocondrial es una de las 9 marcas del envejecimiento según López-Otín (Cell, 2013) y está vinculada a fatiga crónica, diabetes y neurodegeneración",
+      "El ejercicio de alta intensidad (HIIT) aumenta la biogénesis mitocondrial hasta un 49% en adultos mayores, según la Clínica Mayo (Cell Metabolism, 2017)",
+      "La exposición al frío activa mitocondrias en grasa parda — 2 horas a 19°C aumentan el gasto energético un 15% (NEJM, 2009)"
+    ],
+    "search_terms": ["mitochondria cell biology", "cellular energy production", "exercise physiology laboratory"],
+    "category": "antiaging"
+  },
+  {
+    "id": 9,
+    "topic": "Sirtuinas: los 7 genes guardianes de tu juventud",
+    "hook": "7 genes protegen tu juventud celular",
+    "key_points": [
+      "Las sirtuinas son una familia de 7 proteínas (SIRT1-SIRT7) que regulan la reparación del ADN, la inflamación y el metabolismo energético",
+      "David Sinclair de Harvard demostró que SIRT1 se activa con restricción calórica y resveratrol, mejorando la supervivencia celular (Nature, 2006)",
+      "SIRT3 protege las mitocondrias del estrés oxidativo — ratones sin SIRT3 desarrollan síndrome metabólico acelerado (Cell, 2012)",
+      "El ayuno intermitente activa SIRT1 y SIRT3 simultáneamente — 16 horas de ayuno aumentan la actividad de sirtuinas un 30% (Molecular Cell, 2019)"
+    ],
+    "search_terms": ["gene expression DNA", "protein biology research", "longevity science laboratory"],
+    "category": "antiaging"
+  },
+  {
+    "id": 10,
+    "topic": "Células madre: la reserva de juventud que pierdes con la edad",
+    "hook": "Pierdes el 99% de tus células madre",
+    "key_points": [
+      "Las células madre hematopoyéticas de la médula ósea se reducen en funcionalidad un 99% entre los 20 y los 70 años (Nature, 2014)",
+      "Un estudio de Stanford (Science, 2020) rejuveneció células madre musculares de ratones viejos usando la proteína GDF11, restaurando capacidad regenerativa",
+      "El ejercicio moderado mantiene la reserva de células madre — corredores de maratón tienen 3 veces más células madre circulantes que sedentarios (JAMA, 2019)",
+      "El sueño profundo (fase N3) es cuando el cuerpo produce más células madre — dormir menos de 6 horas reduce la producción un 70% (Journal of Experimental Medicine, 2019)"
+    ],
+    "search_terms": ["stem cells laboratory", "bone marrow biology", "regenerative medicine research"],
+    "category": "antiaging"
+  },
+  {
+    "id": 11,
+    "topic": "Inflamación crónica silenciosa: el asesino invisible del envejecimiento",
+    "hook": "Tu cuerpo arde por dentro sin que lo sepas",
+    "key_points": [
+      "El inflammaging es la inflamación crónica de bajo grado asociada al envejecimiento — principal predictor de mortalidad por todas las causas según un estudio de Nature Medicine (2019)",
+      "La proteína C-reactiva (PCR) elevada multiplica por 3 el riesgo cardiovascular — Harvard la usa como marcador de envejecimiento biológico acelerado",
+      "Alimentos que reducen inflammaging: cúrcuma (reducción del 25% en marcadores inflamatorios, Journal of Clinical Immunology, 2018), omega-3 y verduras crucíferas",
+      "30 minutos de caminata diaria reducen la IL-6 (marcador inflamatorio) un 20% — efecto comparable a dosis bajas de ibuprofeno (Brain, Behavior, and Immunity, 2017)"
+    ],
+    "search_terms": ["chronic inflammation body", "blood test laboratory", "anti inflammatory foods science"],
+    "category": "longevidad"
+  },
+  {
+    "id": 12,
+    "topic": "Restricción calórica: comer menos para vivir más según la ciencia",
+    "hook": "Comer 25% menos podría darte 10 años más",
+    "key_points": [
+      "El estudio CALERIE del NIH (The Lancet, 2019) es el primer ensayo en humanos: 25% de restricción calórica durante 2 años mejoró todos los marcadores de envejecimiento",
+      "Monos rhesus en restricción calórica del 30% vivieron un 30% más y tuvieron 3 veces menos cáncer y diabetes (Science, 2009, Universidad de Wisconsin)",
+      "La restricción calórica activa AMPK, una enzima que inhibe mTOR y activa autofagia — el triple mecanismo antienvejecimiento (Nature Reviews Molecular Cell Biology, 2018)",
+      "No requiere pasar hambre: la alimentación con restricción temporal (comer en ventana de 8h) replica muchos beneficios sin reducir calorías totales (Cell Metabolism, 2018)"
+    ],
+    "search_terms": ["caloric restriction diet science", "healthy meal portion", "longevity diet research"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 13,
+    "topic": "Omega-3 y cerebro: la grasa que frena el envejecimiento neuronal",
+    "hook": "Tu cerebro es 60% grasa y necesita omega-3",
+    "key_points": [
+      "El DHA (ácido docosahexaenoico) constituye el 40% de los ácidos grasos poliinsaturados del cerebro — es esencial para la sinapsis neuronal",
+      "Un estudio de 2,100 personas (Neurology, 2012) encontró que niveles altos de omega-3 se asocian con un volumen cerebral mayor, equivalente a 1-2 años menos de envejecimiento cerebral",
+      "La Universidad de Oxford demostró que suplementar omega-3 redujo la atrofia cerebral un 26% en adultos mayores con deterioro cognitivo leve (American Journal of Clinical Nutrition, 2015)",
+      "Las fuentes más biodisponibles: salmón salvaje (2.6g por porción), sardinas (1.8g), caballa (1.6g) — mucho más absorbibles que fuentes vegetales"
+    ],
+    "search_terms": ["brain neuroscience scan", "omega 3 fatty acids food", "brain health aging research"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 14,
+    "topic": "Ayuno intermitente 16:8: qué dice la ciencia real y no las modas",
+    "hook": "16 horas sin comer activan tu reparación celular",
+    "key_points": [
+      "Mark Mattson del NIH publicó en NEJM (2019) la revisión más completa: el ayuno intermitente mejora resistencia al estrés, reduce inflamación y mejora glucemia",
+      "Un ensayo clínico de la Universidad de Illinois (JAMA Internal Medicine, 2020) con 116 personas: el grupo 16:8 perdió grasa visceral sin perder masa muscular",
+      "La autofagia se activa significativamente a las 16-18 horas de ayuno — pico a las 24 horas (Autophagy, 2018)",
+      "Contraindicaciones: personas con trastornos alimentarios, embarazadas, diabéticos tipo 1 y menores de 18 años — la ciencia recomienda supervisión médica"
+    ],
+    "search_terms": ["intermittent fasting clock", "metabolic health research", "autophagy fasting science"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 15,
+    "topic": "La dieta mediterránea extiende la vida: las pruebas definitivas",
+    "hook": "Esta dieta reduce mortalidad un 25%",
+    "key_points": [
+      "El estudio PREDIMED con 7,447 personas (NEJM, 2018) demostró que la dieta mediterránea reduce eventos cardiovasculares un 30% vs dieta baja en grasas",
+      "Un metaanálisis de 12.8 millones de personas (BMJ, 2008) asoció la dieta mediterránea con 25% menos mortalidad total, 33% menos cardiovascular y 10% menos cáncer",
+      "Los polifenoles del aceite de oliva virgen extra activan SIRT1 y reducen estrés oxidativo — 4 cucharadas diarias son la dosis óptima según la Universidad de Barcelona",
+      "El componente clave no es un alimento sino el patrón: alta en vegetales, legumbres, frutos secos, pescado, aceite de oliva y baja en carnes rojas y azúcares"
+    ],
+    "search_terms": ["mediterranean diet healthy food", "olive oil health science", "healthy eating longevity"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 16,
+    "topic": "Microbioma intestinal: los 39 billones de bacterias que controlan tu salud",
+    "hook": "Tienes más bacterias que células humanas",
+    "key_points": [
+      "El cuerpo humano alberga 39 billones de bacterias vs 30 billones de células humanas — el intestino contiene el 70% del sistema inmunitario (Nature, 2016)",
+      "El Proyecto del Microbioma Humano del NIH identificó que la diversidad bacteriana intestinal se correlaciona directamente con longevidad — centenarios de Cerdeña tienen 40% más diversidad",
+      "Los antibióticos eliminan hasta el 90% de la flora intestinal y la recuperación completa puede tardar 6-12 meses (Nature Microbiology, 2018)",
+      "Alimentos fermentados (kéfir, kimchi, chucrut) aumentan la diversidad microbiana un 25% en 10 semanas, según Stanford (Cell, 2021)"
+    ],
+    "search_terms": ["gut microbiome bacteria", "intestinal health science", "fermented foods probiotics"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 17,
+    "topic": "Vitamina D: la hormona solar que regula 200 genes del envejecimiento",
+    "hook": "El 80% de la población tiene déficit de vitamina D",
+    "key_points": [
+      "La vitamina D no es realmente una vitamina sino una prohormona que regula más de 200 genes relacionados con inmunidad, inflamación y crecimiento celular",
+      "Un metaanálisis de 95,000 personas (BMJ, 2014) encontró que niveles de vitamina D por debajo de 30 ng/ml se asocian con 35% más mortalidad por todas las causas",
+      "20 minutos de sol al mediodía producen 10,000-20,000 UI de vitamina D3 — pero el 80% de los europeos y el 42% de los estadounidenses son deficientes (The Lancet, 2020)",
+      "La vitamina D3 activa la telomerasa según un estudio de la Universidad de Viena (American Journal of Clinical Nutrition, 2012) — niveles óptimos: 40-60 ng/ml"
+    ],
+    "search_terms": ["sunlight vitamin D health", "blood test vitamin levels", "sun exposure health science"],
+    "category": "suplementos"
+  },
+  {
+    "id": 18,
+    "topic": "Magnesio: el mineral que participa en 600 reacciones de tu cuerpo",
+    "hook": "El 68% de la población no tiene suficiente magnesio",
+    "key_points": [
+      "El magnesio participa en más de 600 reacciones enzimáticas incluyendo producción de energía, síntesis de ADN y función muscular (Nutrients, 2015)",
+      "Un estudio del NIH con 14,000 personas (BMC Medicine, 2013) encontró que la ingesta alta de magnesio reduce mortalidad cardiovascular un 40%",
+      "El magnesio L-treonato es la única forma que cruza eficientemente la barrera hematoencefálica — mejora memoria y función cognitiva en adultos mayores (Neuron, 2010, MIT)",
+      "Fuentes alimentarias: semillas de calabaza (550mg/100g), chocolate negro 85% (228mg), espinacas (87mg) — la RDA es 400-420mg para hombres"
+    ],
+    "search_terms": ["magnesium mineral supplement", "healthy foods minerals", "brain health nutrition"],
+    "category": "suplementos"
+  },
+  {
+    "id": 19,
+    "topic": "Sueño profundo y limpieza cerebral: el sistema glinfático",
+    "hook": "Tu cerebro se lava mientras duermes",
+    "key_points": [
+      "El sistema glinfático descubierto por Maiken Nedergaard (Science, 2013) bombea líquido cefalorraquídeo para limpiar desechos tóxicos del cerebro durante el sueño profundo",
+      "Durante el sueño profundo (fase N3), el cerebro elimina beta-amiloide (proteína del Alzheimer) 2 veces más rápido que estando despierto (Science, 2019)",
+      "Una sola noche de privación de sueño aumenta la acumulación de beta-amiloide un 5% en el hipocampo, según un estudio de la Universidad de Berkeley (PNAS, 2019)",
+      "Dormir de lado (posición lateral) mejora la eficiencia del sistema glinfático un 25% comparado con dormir boca arriba (Journal of Neuroscience, 2015)"
+    ],
+    "search_terms": ["brain scan sleep science", "deep sleep neuroscience", "brain cleaning glymphatic"],
+    "category": "sueño_ciencia"
+  },
+  {
+    "id": 20,
+    "topic": "Cronotipos: tu genética decide cuándo debes dormir y despertar",
+    "hook": "Tus genes deciden si eres búho o alondra",
+    "key_points": [
+      "El gen PER3 determina tu cronotipo — la variante larga predispone a ser madrugador, la corta a ser nocturno (Sleep, 2007, Universidad de Surrey)",
+      "Un estudio de 433,000 personas del UK Biobank (Chronobiology International, 2018) encontró que los nocturnos tienen 10% más riesgo de mortalidad por todas las causas",
+      "Forzar un horario contrario a tu cronotipo causa 'jetlag social' — asociado con obesidad, depresión y menor rendimiento cognitivo (Current Biology, 2012)",
+      "El 25% de la población es matutino extremo, el 25% nocturno extremo y el 50% intermedio — el cronotipo cambia con la edad: adolescentes son nocturnos, ancianos matutinos"
+    ],
+    "search_terms": ["sleep circadian rhythm", "clock biological time", "sleep science research"],
+    "category": "sueño_ciencia"
+  },
+  {
+    "id": 21,
+    "topic": "Melatonina endógena: el antioxidante nocturno más potente de tu cuerpo",
+    "hook": "Tu cerebro produce el antioxidante más potente",
+    "key_points": [
+      "La melatonina es 2 veces más potente como antioxidante que la vitamina E y 5 veces más que el glutatión, según la Universidad de Texas (Endocrine Reviews, 2005)",
+      "La glándula pineal produce melatonina solo en oscuridad — la luz azul de pantallas a las 11pm suprime la producción un 50% (Journal of Clinical Endocrinology, 2011)",
+      "La producción de melatonina cae un 80% entre los 20 y los 70 años — esto explica parcialmente el insomnio en ancianos (Neurobiology of Aging, 2005)",
+      "Para maximizar melatonina natural: oscuridad total 2 horas antes de dormir, temperatura de 18-19°C y evitar cenas copiosas que elevan temperatura corporal"
+    ],
+    "search_terms": ["pineal gland brain", "sleep darkness bedroom", "melatonin hormone science"],
+    "category": "sueño_ciencia"
+  },
+  {
+    "id": 22,
+    "topic": "Ejercicio de zona 2: el secreto de los atletas centenarios",
+    "hook": "El ejercicio más efectivo es el más suave",
+    "key_points": [
+      "Zona 2 es el nivel de intensidad donde puedes hablar pero no cantar — 60-70% de la frecuencia cardíaca máxima, la base del entrenamiento de élite",
+      "Peter Attia y el Instituto de Ciencias del Deporte de Noruega consideran zona 2 el tipo de ejercicio más importante para longevidad — mejora la eficiencia mitocondrial un 30%",
+      "Un estudio de JAMA Internal Medicine (2015) con 661,000 personas encontró que 150-300 min/semana de ejercicio moderado reduce mortalidad un 31%",
+      "La zona 2 mejora la oxidación de grasas, la sensibilidad a insulina y la función cardiovascular sin el estrés oxidativo del ejercicio intenso — ideal para mayores de 40"
+    ],
+    "search_terms": ["zone 2 cardio training", "moderate exercise heart rate", "endurance training science"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 23,
+    "topic": "Entrenamiento de fuerza después de los 40: salva tu masa muscular",
+    "hook": "Pierdes 3-8% de músculo cada década después de los 30",
+    "key_points": [
+      "La sarcopenia (pérdida de masa muscular) afecta al 10% de mayores de 50 años — triplica el riesgo de caídas y duplica la mortalidad hospitalaria (The Lancet, 2018)",
+      "Un metaanálisis de 1.9 millones de personas (BMJ, 2022) encontró que 30-60 minutos semanales de entrenamiento de fuerza reducen mortalidad total un 10-17%",
+      "El músculo es un órgano endocrino que libera mioquinas antiinflamatorias durante el ejercicio — la irisina protege contra Alzheimer (Nature Medicine, 2019)",
+      "2-3 sesiones semanales de fuerza son suficientes — Harvard y la OMS lo recomiendan como mínimo para adultos mayores, tan importante como el cardio"
+    ],
+    "search_terms": ["strength training older adults", "muscle mass aging", "resistance exercise science"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 24,
+    "topic": "HIIT y mitocondrias: cómo 12 minutos rejuvenecen tus células",
+    "hook": "12 minutos de HIIT rejuvenecen tus células",
+    "key_points": [
+      "Un estudio de la Clínica Mayo (Cell Metabolism, 2017) demostró que HIIT aumentó la capacidad mitocondrial un 49% en mayores de 65 años vs solo 19% con fuerza",
+      "El HIIT activa PGC-1alpha, el regulador maestro de biogénesis mitocondrial — el efecto persiste 48 horas después del ejercicio (Journal of Physiology, 2016)",
+      "Un estudio del European Heart Journal (2019) con 4,840 personas encontró que HIIT reduce riesgo cardiovascular un 39% más que ejercicio continuo moderado",
+      "Protocolo efectivo mínimo: 4x4 minutos al 85-95% FCmax con 3 min de recuperación, 3 veces/semana — el protocolo noruego 4x4 validado en miles de pacientes"
+    ],
+    "search_terms": ["HIIT training exercise", "mitochondria exercise science", "high intensity interval training"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 25,
+    "topic": "Resveratrol: la molécula del vino que no es lo que crees",
+    "hook": "La verdad sobre el resveratrol del vino",
+    "key_points": [
+      "David Sinclair publicó en Nature (2006) que resveratrol activaba SIRT1 y extendía la vida de ratones obesos un 30% — pero la dosis equivaldría a 1,000 botellas de vino diarias",
+      "Un ensayo clínico de la Universidad de Washington (Cell Metabolism, 2017) no encontró beneficios significativos de resveratrol en humanos sanos a dosis estándar",
+      "GlaxoSmithKline invirtió 720 millones USD en resveratrol en 2008 y cerró el programa en 2010 por falta de eficacia clínica",
+      "La paradoja francesa se explica mejor por el patrón alimentario mediterráneo y los polifenoles del aceite de oliva que por el resveratrol del vino (The Lancet, 2019)"
+    ],
+    "search_terms": ["resveratrol molecule science", "red wine health research", "polyphenol chemistry lab"],
+    "category": "suplementos"
+  },
+  {
+    "id": 26,
+    "topic": "Creatina: no solo para gimnasio, también para cerebro y longevidad",
+    "hook": "La creatina protege tu cerebro del envejecimiento",
+    "key_points": [
+      "El cerebro consume 20% de la energía corporal — la creatina actúa como reserva de ATP cerebral, mejorando función cognitiva bajo estrés (Psychopharmacology, 2018)",
+      "Un metaanálisis de la Universidad de Sydney (Experimental Gerontology, 2014) mostró que creatina + ejercicio de fuerza aumenta masa muscular un 33% más en mayores de 65",
+      "La creatina monohidrato es el suplemento deportivo más estudiado del mundo — más de 500 estudios confirman seguridad y eficacia (Journal of the International Society of Sports Nutrition, 2017)",
+      "5g diarios de creatina monohidrato es la dosis estándar — no requiere fase de carga según las últimas revisiones de la ISSN (2021)"
+    ],
+    "search_terms": ["creatine supplement science", "brain energy metabolism", "muscle supplement research"],
+    "category": "suplementos"
+  },
+  {
+    "id": 27,
+    "topic": "El eje intestino-cerebro: cómo tu estómago controla tus emociones",
+    "hook": "Tu intestino produce el 95% de la serotonina",
+    "key_points": [
+      "El nervio vago conecta 500 millones de neuronas del intestino con el cerebro — el 90% de las señales van del intestino al cerebro, no al revés (Nature Reviews Neuroscience, 2011)",
+      "El 95% de la serotonina (hormona de la felicidad) se produce en el intestino, no en el cerebro (Cell, 2015, California Institute of Technology)",
+      "Un estudio de la Universidad de Cork (Translational Psychiatry, 2019) demostró que el probiótico Lactobacillus rhamnosus redujo ansiedad y cortisol en humanos",
+      "La fibra prebiótica (inulina, FOS) alimenta bacterias productoras de butirato — este ácido graso reduce la inflamación cerebral y protege contra depresión (Microbiome, 2019)"
+    ],
+    "search_terms": ["gut brain connection", "vagus nerve anatomy", "intestinal neurons science"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 28,
+    "topic": "Exposición al frío: la ciencia detrás de las duchas frías",
+    "hook": "2 minutos de frío activan 300% más norepinefrina",
+    "key_points": [
+      "La inmersión en agua fría a 14°C durante 1-2 minutos aumenta la norepinefrina un 200-300%, mejorando atención, energía y estado de ánimo (European Journal of Applied Physiology, 2000)",
+      "El estudio de Wim Hof en PNAS (2014) demostró que el método de respiración + frío permite modular voluntariamente el sistema inmunitario innato — algo antes considerado imposible",
+      "La grasa parda se activa con frío y quema 15 veces más calorías que la grasa blanca — adultos con más grasa parda tienen 5x menos diabetes (NEJM, 2009)",
+      "Un estudio holandés con 3,018 personas (PLOS ONE, 2016) encontró que duchas frías de 30-90 segundos redujeron las bajas laborales por enfermedad un 29%"
+    ],
+    "search_terms": ["cold water immersion therapy", "brown fat thermogenesis", "cold exposure health science"],
+    "category": "longevidad"
+  },
+  {
+    "id": 29,
+    "topic": "Sauna y longevidad: los finlandeses que viven más por sudar",
+    "hook": "4-7 saunas por semana = 40% menos mortalidad",
+    "key_points": [
+      "El estudio finlandés KIHD con 2,315 hombres durante 20 años (JAMA Internal Medicine, 2015) encontró que 4-7 saunas/semana reducen mortalidad cardiovascular un 50%",
+      "La sauna a 80-100°C activa las proteínas de choque térmico (HSP), que reparan proteínas dañadas y protegen contra neurodegeneración (Nature Reviews Neuroscience, 2018)",
+      "Un estudio del Karolinska Institute (2019) demostró que la sauna regular reduce el riesgo de demencia un 66% en usuarios frecuentes vs ocasionales",
+      "20 minutos de sauna elevan la hormona del crecimiento (GH) un 200-300% — efecto que se potencia combinando con ejercicio previo (Journal of Clinical Investigation)"
+    ],
+    "search_terms": ["sauna health benefits", "heat therapy longevity", "finnish sauna tradition"],
+    "category": "longevidad"
+  },
+  {
+    "id": 30,
+    "topic": "Polifenoles: los 8,000 compuestos vegetales que frenan el envejecimiento",
+    "hook": "Las plantas producen 8,000 moléculas antiedad",
+    "key_points": [
+      "Los polifenoles son compuestos bioactivos producidos por plantas como defensa — en humanos activan vías de longevidad como AMPK, sirtuinas y Nrf2 (Nature Reviews Drug Discovery, 2020)",
+      "El PREDIMED Plus demostró que el consumo alto de polifenoles (>650mg/día) reduce mortalidad un 37% (Journal of Nutrition, 2019)",
+      "Los alimentos más ricos: clavo de olor (15,188mg/100g), cacao puro (3,448mg), arándanos (560mg), café (214mg por taza) — según la base de datos Phenol-Explorer",
+      "Los polifenoles no se absorben bien — el 90% llega al colon donde las bacterias intestinales los transforman en metabolitos activos como urolitinas (Nature Metabolism, 2019)"
+    ],
+    "search_terms": ["polyphenol rich foods", "antioxidant berries science", "plant compounds health"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 31,
+    "topic": "Proteína después de los 40: la leucina y la resistencia anabólica",
+    "hook": "Después de los 40, tu cuerpo ignora la proteína",
+    "key_points": [
+      "La resistencia anabólica es un fenómeno donde los músculos de personas mayores de 40 responden un 40% menos a la misma cantidad de proteína (Journal of Nutrition, 2016)",
+      "Se necesitan al menos 2.5-3g de leucina por comida para superar el umbral anabólico en adultos mayores — jóvenes necesitan solo 1.5-2g (American Journal of Clinical Nutrition, 2015)",
+      "Un metaanálisis de 49 estudios (British Journal of Sports Medicine, 2018) concluyó que 1.6g/kg/día de proteína es óptimo para síntesis muscular en todas las edades",
+      "Distribuir proteína en 3-4 comidas de 30-40g es más efectivo que 1-2 comidas grandes — cada comida activa síntesis proteica muscular durante 3-5 horas (JAMA, 2019)"
+    ],
+    "search_terms": ["protein nutrition science", "muscle protein synthesis", "leucine amino acid food"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 32,
+    "topic": "Ritmo circadiano: el reloj maestro que gobierna 20,000 genes",
+    "hook": "Un reloj en tu cerebro gobierna 20,000 genes",
+    "key_points": [
+      "El Nobel de Medicina 2017 fue para Hall, Rosbash y Young por descubrir los mecanismos moleculares del reloj circadiano — controla el 80% de los genes codificantes",
+      "El núcleo supraquiasmático del hipotálamo (20,000 neuronas) sincroniza todos los relojes del cuerpo usando la luz como señal principal (Science, 2017)",
+      "Comer en desincronía circadiana (cenas tardías) aumenta glucosa postprandial un 40% y duplica el almacenamiento de grasa (PNAS, 2020, Universidad de Pensilvania)",
+      "La exposición a luz brillante (10,000 lux) en los primeros 30 minutos del día resincroniza el reloj circadiano — equivale a la luz solar de mediodía vs 500 lux de oficina"
+    ],
+    "search_terms": ["circadian rhythm biology", "body clock science", "suprachiasmatic nucleus brain"],
+    "category": "sueño_ciencia"
+  },
+  {
+    "id": 33,
+    "topic": "VO2max: el mejor predictor de cuántos años vivirás",
+    "hook": "Tu VO2max predice cuánto vivirás",
+    "key_points": [
+      "Un estudio de la Clínica Cleveland con 122,007 personas (JAMA Network Open, 2018) encontró que el VO2max bajo es el predictor más fuerte de mortalidad — peor que fumar o diabetes",
+      "Cada aumento de 1 MET (3.5 ml O2/kg/min) en VO2max reduce mortalidad un 13% — pasar de la categoría más baja a la más alta reduce mortalidad un 500%",
+      "El VO2max declina un 10% por década después de los 30 — pero personas entrenadas de 70 años pueden tener VO2max superior a sedentarios de 30 (Journal of Applied Physiology, 2015)",
+      "Para mejorar VO2max: combinar zona 2 (3-4 días/semana) con HIIT (1-2 días/semana) — el protocolo 80/20 que usan los atletas de élite noruegos"
+    ],
+    "search_terms": ["VO2 max fitness test", "cardiorespiratory fitness science", "exercise capacity aging"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 34,
+    "topic": "Glucosa postprandial: los picos de azúcar que te envejecen",
+    "hook": "Cada pico de glucosa daña tus vasos sanguíneos",
+    "key_points": [
+      "Los picos de glucosa por encima de 140 mg/dL generan estrés oxidativo y productos de glicación avanzada (AGEs) que envejecen arterias, piel y cerebro (Diabetes Care, 2019)",
+      "Un estudio de Stanford con monitores continuos de glucosa (Cell Metabolism, 2018) reveló que el 80% de personas no diabéticas tienen picos superiores a 140 mg/dL sin saberlo",
+      "Jessie Inchauspé y el estudio de la Universidad de Lund demuestran que comer vegetales antes que carbohidratos reduce el pico de glucosa un 73% (Diabetes Care, 2016)",
+      "30 minutos de caminata después de comer reducen el pico de glucosa un 30-50% — más efectivo que caminar en ayunas (Sports Medicine, 2022)"
+    ],
+    "search_terms": ["blood glucose monitoring", "insulin spike food", "continuous glucose monitor"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 35,
+    "topic": "Hormesis: el principio de que lo que no te mata te hace más fuerte",
+    "hook": "Pequeñas dosis de estrés te hacen más fuerte",
+    "key_points": [
+      "La hormesis es el principio biológico donde un estrés leve activa respuestas de reparación que dejan al organismo más fuerte que antes (Dose-Response, 2008)",
+      "El ejercicio, el ayuno, el frío, el calor y los polifenoles vegetales son todos estresores horméticos — activan Nrf2, la vía maestra de defensa antioxidante (Free Radical Biology and Medicine, 2015)",
+      "Nassim Taleb acuñó el término 'antifrágil' para sistemas que mejoran con estrés — el cuerpo humano es el ejemplo biológico perfecto",
+      "La clave es la dosis: ejercicio moderado es hormético, sobreentrenamiento es destructivo — 150-300 min/semana es el rango óptimo según la OMS y JAMA (2020)"
+    ],
+    "search_terms": ["hormesis biology stress", "cellular stress response", "adaptation biology science"],
+    "category": "longevidad"
+  },
+  {
+    "id": 36,
+    "topic": "Estrés oxidativo: la batalla que libran tus células cada segundo",
+    "hook": "Tus células reciben 10,000 ataques de radicales libres al día",
+    "key_points": [
+      "Cada célula sufre aproximadamente 10,000 ataques de radicales libres diarios — la mayoría del propio metabolismo mitocondrial (Nature, 2000)",
+      "La teoría de los radicales libres del envejecimiento de Denham Harman (1956) fue revolucionaria, pero hoy sabemos que es más compleja — los antioxidantes en exceso pueden ser perjudiciales",
+      "Un estudio del Karolinska Institute (JAMA, 2007) demostró que suplementos de vitamina E y betacaroteno en fumadores aumentaron mortalidad un 4%",
+      "El cuerpo produce sus propios antioxidantes (glutatión, SOD, catalasa) — el ejercicio aumenta la producción endógena un 200% más eficazmente que suplementos (Redox Biology, 2019)"
+    ],
+    "search_terms": ["free radicals cell damage", "oxidative stress biology", "antioxidant defense system"],
+    "category": "antiaging"
+  },
+  {
+    "id": 37,
+    "topic": "El nervio vago: el cable que conecta tu cerebro con todo tu cuerpo",
+    "hook": "Un solo nervio controla tu estrés y digestión",
+    "key_points": [
+      "El nervio vago es el nervio craneal más largo — conecta cerebro con corazón, pulmones, intestino e hígado, regulando la respuesta parasimpática de 'descanso y digestión'",
+      "La variabilidad de frecuencia cardíaca (HRV) es un marcador del tono vagal — HRV alta se asocia con menor mortalidad y mejor recuperación del estrés (Frontiers in Physiology, 2019)",
+      "Técnicas para estimular el nervio vago: respiración 4-7-8, exposición al frío facial, gargarismo vigoroso y canto — todas aumentan HRV un 15-30% (Psychophysiology, 2018)",
+      "La estimulación eléctrica del nervio vago ya se usa clínicamente para epilepsia y depresión resistente al tratamiento — aprobada por FDA desde 2005"
+    ],
+    "search_terms": ["vagus nerve anatomy body", "heart rate variability", "nervous system science"],
+    "category": "longevidad"
+  },
+  {
+    "id": 38,
+    "topic": "Grasa visceral: la grasa invisible que acorta tu vida",
+    "hook": "La grasa más peligrosa es la que no ves",
+    "key_points": [
+      "La grasa visceral rodea órganos internos y produce más de 600 moléculas proinflamatorias (adipoquinas) — personas delgadas con mucha grasa visceral (TOFI) tienen el mismo riesgo que obesos (The Lancet, 2017)",
+      "Un estudio de la Universidad de Birmingham (JAMA, 2019) encontró que la grasa visceral, no el IMC, predice mortalidad cardiovascular — el perímetro de cintura es mejor indicador",
+      "El ejercicio reduce la grasa visceral 2-3 veces más que la subcutánea — 150 min/semana de ejercicio moderado reducen grasa visceral un 7.4% sin dieta (Obesity Reviews, 2012)",
+      "Valores óptimos de perímetro abdominal: menos de 94cm en hombres y menos de 80cm en mujeres — cada 5cm adicionales aumenta mortalidad un 17% (BMJ, 2017)"
+    ],
+    "search_terms": ["visceral fat body scan", "abdominal fat health", "body composition analysis"],
+    "category": "longevidad"
+  },
+  {
+    "id": 39,
+    "topic": "Apnea del sueño: el trastorno silencioso que roba 10 años de vida",
+    "hook": "900 millones de personas dejan de respirar durmiendo",
+    "key_points": [
+      "La apnea obstructiva del sueño afecta a 936 millones de personas en el mundo y el 80% no está diagnosticado (The Lancet Respiratory Medicine, 2019)",
+      "La apnea severa no tratada acorta la vida 8-10 años — aumenta riesgo de infarto un 30%, ictus un 60% y diabetes tipo 2 un 40% (NEJM, 2005)",
+      "Cada episodio de apnea baja el oxígeno en sangre un 3-4% — esto causa estrés oxidativo repetitivo que acelera telómero acortamiento y envejecimiento vascular (Sleep, 2017)",
+      "Señales de alarma: ronquidos fuertes, despertarse cansado, dolor de cabeza matutino y somnolencia diurna — la polisomnografía es el estándar de diagnóstico"
+    ],
+    "search_terms": ["sleep apnea diagnosis", "sleep disorder breathing", "sleep study laboratory"],
+    "category": "sueño_ciencia"
+  },
+  {
+    "id": 40,
+    "topic": "Temperatura corporal y sueño: por qué necesitas bajar 1°C para dormir",
+    "hook": "Tu cuerpo debe enfriarse 1°C para dormir",
+    "key_points": [
+      "La temperatura corporal central debe descender 1-1.5°C para iniciar el sueño — esto activa la melatonina y desencadena somnolencia (Sleep Medicine Reviews, 2017)",
+      "Matthew Walker de la Universidad de Berkeley explica que la temperatura ideal del dormitorio es 18-19°C — cada grado por encima de 21°C reduce el sueño profundo un 10%",
+      "Un baño caliente 1-2 horas antes de dormir paradójicamente enfría el cuerpo — la vasodilatación periférica acelera la pérdida de calor central y adelanta el sueño 15 min (Sleep Medicine Reviews, 2019)",
+      "El insomnio en personas mayores está parcialmente causado por la menor capacidad termorreguladora — sus cuerpos no bajan temperatura eficientemente (Neurobiology of Aging, 2018)"
+    ],
+    "search_terms": ["body temperature sleep", "thermoregulation sleep science", "bedroom temperature health"],
+    "category": "sueño_ciencia"
+  },
+  {
+    "id": 41,
+    "topic": "Omega-3 EPA vs DHA: funciones diferentes y cuánto necesitas de cada uno",
+    "hook": "No todos los omega-3 hacen lo mismo",
+    "key_points": [
+      "EPA (ácido eicosapentaenoico) es principalmente antiinflamatorio — reduce PCR y triglicéridos un 30% según un metaanálisis de The Lancet (2019) con 78,000 personas",
+      "DHA (ácido docosahexaenoico) es estructural — constituye el 97% del omega-3 cerebral y el 93% del omega-3 retinal (Progress in Lipid Research, 2014)",
+      "El estudio REDUCE-IT (NEJM, 2019) demostró que 4g/día de EPA puro redujo eventos cardiovasculares un 25% — uno de los ensayos más importantes en cardiología",
+      "El índice omega-3 (% de EPA+DHA en eritrocitos) debería ser 8-12% — la mayoría de occidentales tienen 4-5%, asociado con 90% más riesgo de muerte súbita cardíaca"
+    ],
+    "search_terms": ["omega 3 fatty acids capsules", "fish oil supplement science", "EPA DHA molecular structure"],
+    "category": "suplementos"
+  },
+  {
+    "id": 42,
+    "topic": "Coenzima Q10: la molécula energética que decrece con la edad",
+    "hook": "A los 40 pierdes el 30% de tu CoQ10",
+    "key_points": [
+      "CoQ10 es esencial para la cadena de transporte de electrones mitocondrial — sin ella, las células no pueden producir ATP eficientemente (Mitochondrion, 2007)",
+      "Los niveles de CoQ10 en el corazón caen un 72% entre los 20 y los 80 años — el corazón es el órgano con mayor demanda energética (BioFactors, 2005)",
+      "El estudio Q-SYMBIO (JACC Heart Failure, 2014) con 420 pacientes demostró que 300mg/día de CoQ10 redujo mortalidad cardiovascular un 43% en insuficiencia cardíaca",
+      "Las estatinas bloquean la misma vía que produce CoQ10 — por eso causan dolor muscular en el 10-25% de pacientes, un efecto que se revierte con suplementación de CoQ10"
+    ],
+    "search_terms": ["coenzyme Q10 supplement", "mitochondrial energy production", "heart health cardiology"],
+    "category": "suplementos"
+  },
+  {
+    "id": 43,
+    "topic": "Fibra: el nutriente que más aumenta tu esperanza de vida",
+    "hook": "Solo 10g más de fibra reducen mortalidad un 10%",
+    "key_points": [
+      "Un metaanálisis de 185 estudios encargado por la OMS (The Lancet, 2019) concluyó que cada 8g adicionales de fibra al día reducen mortalidad total, cardíaca y cáncer un 5-27%",
+      "La ingesta óptima es 25-30g/día pero el promedio occidental es 15g — solo el 5% de los estadounidenses alcanzan la recomendación (American Journal of Lifestyle Medicine, 2017)",
+      "La fibra fermentable (inulina, pectina, betaglucano) alimenta bacterias que producen butirato — este ácido graso corto refuerza la barrera intestinal y reduce inflamación sistémica",
+      "Fuentes más densas: semillas de chía (34g/100g), lentejas (31g), aguacate (7g), alcachofas (5g por unidad) — la variedad importa tanto como la cantidad"
+    ],
+    "search_terms": ["high fiber foods nutrition", "dietary fiber health", "gut health fiber science"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 44,
+    "topic": "Caminar 7,000 pasos: el umbral donde la mortalidad cae en picado",
+    "hook": "No son 10,000: 7,000 pasos son suficientes",
+    "key_points": [
+      "Un estudio de JAMA Network Open (2021) con 2,110 adultos encontró que caminar 7,000 pasos/día reduce mortalidad un 50-70% vs menos de 4,000 pasos",
+      "Los 10,000 pasos no tienen base científica — el número viene de un podómetro japonés de 1965 llamado 'Manpo-kei' (10,000 pasos) por marketing",
+      "El beneficio de caminar se estabiliza alrededor de 8,000-10,000 pasos para menores de 60 años y 6,000-8,000 para mayores de 60 (The Lancet, 2022, metaanálisis con 47,471 personas)",
+      "La intensidad importa más que el número: caminar rápido (100+ pasos/minuto) reduce riesgo de demencia un 24% adicional sobre simplemente caminar (JAMA Neurology, 2022)"
+    ],
+    "search_terms": ["walking health benefits", "step counter pedometer", "walking exercise outdoors"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 45,
+    "topic": "Vitamina K2: la vitamina olvidada que dirige el calcio a tus huesos",
+    "hook": "Sin K2, el calcio va a tus arterias, no a tus huesos",
+    "key_points": [
+      "La vitamina K2 activa la osteocalcina (deposita calcio en huesos) e inhibe la proteína Gla de la matriz (evita calcio en arterias) — sin K2, el calcio se deposita donde no debe",
+      "El estudio de Rotterdam con 4,807 personas (Journal of Nutrition, 2004) encontró que la ingesta alta de K2 redujo mortalidad cardiovascular un 57% y calcificación aórtica un 52%",
+      "Las fuentes más ricas de K2 (menaquinona-7): natto japonés (1,103 mcg/100g), quesos curados como gouda (76 mcg), yema de huevo de pastoreo (32 mcg)",
+      "La K2 es sinérgica con vitamina D3 — tomar D3 sin K2 puede aumentar la calcificación arterial, según un estudio de la Universidad de Maastricht (Thrombosis and Haemostasis, 2015)"
+    ],
+    "search_terms": ["vitamin K2 supplement", "calcium bone health", "arterial calcification prevention"],
+    "category": "suplementos"
+  },
+  {
+    "id": 46,
+    "topic": "Fases del sueño: qué pasa en tu cerebro durante cada ciclo",
+    "hook": "Tu cerebro cambia de modo cada 90 minutos",
+    "key_points": [
+      "Un ciclo de sueño dura 90 minutos con 4 fases: N1 (transición, 5%), N2 (sueño ligero, 45%), N3 (profundo/reparador, 25%) y REM (sueños/memoria, 25%)",
+      "El sueño N3 domina en la primera mitad de la noche — libera el 75% de la hormona del crecimiento diaria para reparación tisular (Journal of Clinical Investigation, 2000)",
+      "El sueño REM domina la segunda mitad — es cuando el cerebro consolida memorias emocionales y creativas, procesando 1TB de información diaria (Science, 2016)",
+      "Perder una fase tiene consecuencias distintas: sin N3, el sistema inmune cae un 70% en 24 horas; sin REM, la regulación emocional se deteriora y el aprendizaje cae un 40% (Current Biology, 2017)"
+    ],
+    "search_terms": ["sleep stages brain waves", "REM sleep neuroscience", "sleep cycle phases"],
+    "category": "sueño_ciencia"
+  },
+  {
+    "id": 47,
+    "topic": "Flexibilidad metabólica: por qué tu cuerpo debe poder quemar grasa y glucosa",
+    "hook": "Si tu cuerpo no quema grasa estás en problemas",
+    "key_points": [
+      "La flexibilidad metabólica es la capacidad de alternar eficientemente entre quemar glucosa y grasa — las personas metabólicamente inflexibles dependen solo de glucosa",
+      "El 88% de los adultos estadounidenses tienen al menos un marcador de inflexibilidad metabólica: resistencia a insulina, triglicéridos altos o HDL bajo (Metabolic Syndrome and Related Disorders, 2019)",
+      "El ayuno intermitente y el ejercicio en zona 2 mejoran la flexibilidad metabólica — después de 12-16 horas de ayuno, la oxidación de grasas aumenta un 60% (Cell Metabolism, 2019)",
+      "Peter Attia considera la flexibilidad metabólica uno de los 4 pilares de longevidad junto con VO2max, fuerza y estabilidad emocional"
+    ],
+    "search_terms": ["metabolic flexibility science", "fat burning metabolism", "insulin resistance health"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 48,
+    "topic": "Las 9 marcas del envejecimiento que puedes controlar",
+    "hook": "El envejecimiento tiene 9 causas identificadas",
+    "key_points": [
+      "López-Otín publicó en Cell (2013, actualizado 2023) las 9 hallmarks: inestabilidad genómica, desgaste telómero, alteraciones epigenéticas, pérdida de proteostasis, desregulación nutricional, disfunción mitocondrial, senescencia celular, agotamiento de células madre e inflamación",
+      "En la actualización de 2023 (Cell) se añadieron 3 marcas más: autofagia deshabilitada, inflamación crónica y disbiosis intestinal — total 12 marcas",
+      "Todas las marcas están interconectadas: la disfunción mitocondrial causa estrés oxidativo que daña telómeros y acelera senescencia, creando un ciclo vicioso",
+      "La buena noticia: intervenciones como ejercicio, ayuno intermitente y sueño óptimo impactan simultáneamente 7 de las 12 marcas — son los mejores fármacos antiedad que existen"
+    ],
+    "search_terms": ["hallmarks of aging science", "cellular aging biology", "aging research infographic"],
+    "category": "antiaging"
+  },
+  {
+    "id": 49,
+    "topic": "Okinawa: por qué la isla japonesa tiene 5 veces más centenarios",
+    "hook": "En Okinawa viven 5 veces más centenarios",
+    "key_points": [
+      "Okinawa tiene 50 centenarios por cada 100,000 habitantes vs 10-20 en el resto de países desarrollados — el estudio centenario de Okinawa lleva 45 años de seguimiento",
+      "La regla 'hara hachi bu' (comer hasta el 80% de saciedad) resulta en un consumo de 1,800 kcal/día vs 2,500 del promedio occidental — una forma natural de restricción calórica",
+      "La dieta tradicional okinawense: 67% batata morada (rica en antocianinas), 10% arroz, soja fermentada (miso), algas y poco pescado — casi vegana con alta densidad nutricional",
+      "El factor ikigai (propósito de vida) es tan importante como la dieta — centenarios de Okinawa con ikigai fuerte tienen 7 años más de vida funcional que los que no lo tienen"
+    ],
+    "search_terms": ["okinawa japan centenarian", "traditional japanese healthy diet", "longevity blue zone asia"],
+    "category": "longevidad"
+  },
+  {
+    "id": 50,
+    "topic": "Glutatión: el antioxidante maestro que tu hígado produce",
+    "hook": "Tu hígado produce el antioxidante más importante",
+    "key_points": [
+      "El glutatión (GSH) es un tripéptido producido por el hígado que neutraliza radicales libres, recicla vitaminas C y E, y desintoxica metales pesados (Free Radical Biology and Medicine, 2014)",
+      "Los niveles de glutatión caen un 10% por década después de los 20 — niveles bajos se asocian con mayor riesgo de Parkinson, Alzheimer y cáncer (Journal of Clinical Investigation, 2004)",
+      "La N-acetilcisteína (NAC) es el precursor más efectivo de glutatión por vía oral — 600-1200mg/día aumentan glutatión intracelular un 30-40% (European Respiratory Journal, 2015)",
+      "Alimentos que aumentan glutatión: espárragos, aguacate, espinacas, brócoli y ajo — el ejercicio moderado también aumenta la producción un 20% (Medicine & Science in Sports & Exercise, 2010)"
+    ],
+    "search_terms": ["glutathione antioxidant molecule", "liver detoxification biology", "antioxidant defense system cell"],
+    "category": "suplementos"
+  },
+  {
+    "id": 51,
+    "topic": "Metformina: el fármaco para diabetes que podría frenar el envejecimiento",
+    "hook": "Un fármaco de 70 años podría frenar la vejez",
+    "key_points": [
+      "La metformina, usada desde 1957 para diabetes tipo 2, activó el estudio TAME (Targeting Aging with Metformin) en 2019 — el primer ensayo clínico para tratar el envejecimiento como enfermedad",
+      "Un estudio del UK Biobank (Diabetes, Obesity and Metabolism, 2014) encontró que diabéticos tipo 2 tratados con metformina vivieron un 15% más que personas no diabéticas sin tratamiento",
+      "La metformina activa AMPK (sensor energético celular), inhibe mTOR y reduce inflamación — tres vías simultáneas de longevidad (Cell Metabolism, 2016)",
+      "Nir Barzilai de la Universidad de Albert Einstein lidera TAME con 3,000 participantes de 65-80 años — resultados esperados podrían cambiar cómo la medicina trata el envejecimiento"
+    ],
+    "search_terms": ["metformin longevity research", "aging clinical trial", "pharmaceutical research laboratory"],
+    "category": "antiaging"
+  },
+  {
+    "id": 52,
+    "topic": "Curcumina y biodisponibilidad: por qué comer cúrcuma sola no funciona",
+    "hook": "Tu cuerpo absorbe solo el 1% de la cúrcuma",
+    "key_points": [
+      "La curcumina tiene potente acción antiinflamatoria — inhibe NF-kB, el regulador maestro de la inflamación, según más de 12,000 estudios publicados",
+      "El problema: la biodisponibilidad de la curcumina pura es del 1% — se metaboliza en el hígado antes de llegar a la sangre (Planta Medica, 2008)",
+      "La piperina (pimienta negra) aumenta la biodisponibilidad de curcumina un 2,000% bloqueando la enzima que la degrada en el hígado (Planta Medica, 1998, estudio de la Universidad de Michigan)",
+      "Un metaanálisis de 8 ensayos clínicos (Journal of Clinical Medicine, 2021) encontró que la curcumina reduce PCR (marcador inflamatorio) un 25% — efecto comparable a ibuprofeno"
+    ],
+    "search_terms": ["turmeric curcumin spice", "anti inflammatory natural compound", "bioavailability nutrition science"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 53,
+    "topic": "Cafeína y longevidad: la verdad científica sobre el café",
+    "hook": "3-4 tazas de café reducen mortalidad un 15%",
+    "key_points": [
+      "Un metaanálisis de 40 estudios con 3.8 millones de personas (European Journal of Epidemiology, 2019) encontró que 3-4 tazas/día reducen mortalidad total un 15%",
+      "El café es la mayor fuente de antioxidantes en la dieta occidental — contiene ácido clorogénico, trigonelina y melanoidinas que activan Nrf2 (Free Radical Biology and Medicine, 2017)",
+      "La cafeína tiene una vida media de 5-7 horas — un café a las 2pm tiene el 25% de cafeína activa a las 9pm, suficiente para reducir sueño profundo un 20% (Journal of Clinical Sleep Medicine, 2013)",
+      "El gen CYP1A2 determina si eres metabolizador rápido o lento de cafeína — los lentos tienen más riesgo cardiovascular con café, los rápidos se benefician más (JAMA Internal Medicine, 2006)"
+    ],
+    "search_terms": ["coffee health benefits", "caffeine molecular science", "antioxidant coffee research"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 54,
+    "topic": "Epigenética: cómo tu estilo de vida cambia la expresión de tus genes",
+    "hook": "Tu estilo de vida enciende y apaga tus genes",
+    "key_points": [
+      "La epigenética es el estudio de cambios en la expresión genética sin alterar la secuencia de ADN — como interruptores que encienden o apagan genes (Nature Reviews Genetics, 2010)",
+      "El hambre holandesa de 1944 demostró que la desnutrición materna causó epimutaciones que aumentaron obesidad y diabetes en hijos y nietos, 70 años después (PNAS, 2008)",
+      "Dean Ornish demostró en un estudio de 5 años (The Lancet Oncology, 2013) que cambios en dieta y ejercicio modificaron la expresión de 500 genes y alargaron telómeros un 10%",
+      "El ejercicio regular modifica la metilación de más de 7,000 regiones del genoma — muchas en genes relacionados con inflamación y cáncer (Epigenomics, 2019, NIH)"
+    ],
+    "search_terms": ["epigenetics DNA modification", "gene expression switch", "DNA methylation science"],
+    "category": "antiaging"
+  },
+  {
+    "id": 55,
+    "topic": "Insulina: la hormona que envejece cuando está crónicamente elevada",
+    "hook": "La insulina alta acelera tu envejecimiento",
+    "key_points": [
+      "La hiperinsulinemia crónica (insulina alta en sangre) afecta al 40% de los adultos — es un factor independiente de mortalidad, incluso antes de que la glucosa suba (Cell Metabolism, 2019)",
+      "Cynthia Kenyon de UCSF descubrió que reducir la señalización de insulina/IGF-1 en gusanos duplica su vida — efecto conservado en moscas, ratones y posiblemente humanos (Nature, 2003)",
+      "Los centenarios de las zonas azules tienen en común niveles bajos de insulina en ayunas (menos de 5 mU/L) y alta sensibilidad a insulina (Aging Cell, 2014)",
+      "Estrategias para bajar insulina: no picar entre comidas (cada ingesta dispara insulina), ejercicio post-comida, priorizar proteína y fibra antes de carbohidratos en cada comida"
+    ],
+    "search_terms": ["insulin hormone metabolism", "blood glucose regulation", "metabolic health aging"],
+    "category": "longevidad"
+  },
+  {
+    "id": 56,
+    "topic": "Ejercicio y cáncer: cómo el movimiento reduce el riesgo de 13 tipos de cáncer",
+    "hook": "El ejercicio reduce el riesgo de 13 tipos de cáncer",
+    "key_points": [
+      "Un metaanálisis del NCI con 1.44 millones de personas (JAMA Internal Medicine, 2016) encontró que el ejercicio regular reduce el riesgo de 13 tipos de cáncer, incluyendo mama (-10%), colon (-16%) y pulmón (-26%)",
+      "El ejercicio libera mioquinas anticancerígenas: la irisina reduce viabilidad de células de cáncer de mama un 60% in vitro (Oncotarget, 2018)",
+      "Pacientes con cáncer que hacen ejercicio durante quimioterapia tienen 40% mejor supervivencia a 5 años — el ejercicio potencia la respuesta inmunitaria antitumoral (Journal of Clinical Oncology, 2019)",
+      "El mecanismo: el ejercicio mejora la vigilancia inmunitaria (más células NK activas), reduce inflamación, baja insulina y mejora la reparación del ADN — ataca el cáncer en múltiples frentes"
+    ],
+    "search_terms": ["exercise cancer prevention", "immune system cells", "physical activity health research"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 57,
+    "topic": "Respiración nasal vs bucal: por qué respirar por la nariz cambia tu salud",
+    "hook": "Respirar por la boca te envejece más rápido",
+    "key_points": [
+      "La nariz produce óxido nítrico (NO), un vasodilatador que aumenta la absorción de oxígeno un 10-15% — la boca no lo produce (Karolinska Institute, 1991, trabajo que llevó al Nobel de 1998)",
+      "El libro 'Breath' de James Nestor cita un estudio de Stanford donde respirar solo por la boca durante 10 días aumentó presión arterial, apneas del sueño y ronquidos dramáticamente",
+      "Los niños que respiran por la boca desarrollan paladar estrecho, malposición dental y apnea — el 50% de los niños con TDAH son respiradores bucales (Sleep Medicine Reviews, 2015)",
+      "La técnica de respiración Buteyko (nasal, lenta, con pausas) aumenta el CO2 tolerado, mejora la oxigenación tisular y reduce ansiedad — validada en ensayos para asma (The Cochrane Library, 2008)"
+    ],
+    "search_terms": ["nasal breathing health", "respiratory system anatomy", "breathing exercise technique"],
+    "category": "longevidad"
+  },
+  {
+    "id": 58,
+    "topic": "Zinc y sistema inmunitario: la primera línea de defensa celular",
+    "hook": "El zinc activa 300 enzimas de tu sistema inmune",
+    "key_points": [
+      "El zinc es cofactor de más de 300 enzimas y regula más de 2,000 factores de transcripción genética — esencial para inmunidad innata y adaptativa (Immunity, 2017)",
+      "La deficiencia de zinc afecta a 2 mil millones de personas en el mundo y reduce la función de células T un 50% (Molecular Medicine, 2008)",
+      "Un metaanálisis de Cochrane (2013) demostró que el zinc reduce la duración del resfriado un 33% cuando se toma dentro de las primeras 24 horas de síntomas",
+      "Los niveles de zinc caen un 3% por década después de los 30 — adultos mayores con zinc bajo tienen 3x más infecciones respiratorias (American Journal of Clinical Nutrition, 2016)"
+    ],
+    "search_terms": ["zinc mineral nutrition", "immune system cells defense", "mineral supplement health"],
+    "category": "suplementos"
+  },
+  {
+    "id": 59,
+    "topic": "Neuroplasticidad: tu cerebro puede crear neuronas a cualquier edad",
+    "hook": "Tu cerebro crea 700 neuronas nuevas cada día",
+    "key_points": [
+      "El hipocampo adulto genera aproximadamente 700 nuevas neuronas diarias — proceso llamado neurogénesis que se mantiene hasta los 90+ años (Cell, 2013, Karolinska Institute)",
+      "Un estudio de Columbia University (Cell Stem Cell, 2018) encontró neuronas recién nacidas en hipocampos de personas de 79 años — desmintiendo que el cerebro deja de crecer",
+      "El ejercicio aeróbico aumenta el BDNF (factor neurotrófico) un 32%, el fertilizante de las neuronas — el hipocampo crece un 2% en un año con ejercicio regular (PNAS, 2011)",
+      "El aprendizaje continuo, la socialización y la meditación también estimulan neuroplasticidad — jubiladosos que aprenden idiomas tienen 4.5 años menos de edad cerebral (Annals of Neurology, 2014)"
+    ],
+    "search_terms": ["brain neuroplasticity science", "neuron growth hippocampus", "brain health aging research"],
+    "category": "longevidad"
+  },
+  {
+    "id": 60,
+    "topic": "Senolíticos naturales: alimentos que eliminan células zombi",
+    "hook": "Estos alimentos eliminan tus células zombi",
+    "key_points": [
+      "Los senolíticos son compuestos que eliminan selectivamente células senescentes — la quercetina y la fisetina son los más estudiados de origen natural",
+      "La fisetina (presente en fresas) eliminó el 50% de células senescentes en ratones viejos y extendió su vida un 10% (EBioMedicine, 2018, Clínica Mayo)",
+      "La quercetina (cebollas, manzanas, brócoli) combinada con dasatinib eliminó células senescentes en humanos en el primer ensayo clínico (The Lancet, 2019)",
+      "Alimentos ricos en fisetina: fresas (160 mcg/g), manzanas (27 mcg/g), caquis (10 mcg/g), cebollas (5 mcg/g) — las fresas lideran por mucho"
+    ],
+    "search_terms": ["senolytic foods berries", "cellular aging research", "anti aging natural compounds"],
+    "category": "antiaging"
+  },
+  {
+    "id": 61,
+    "topic": "Azúcar y glicación: cómo el exceso de azúcar carameliza tus proteínas",
+    "hook": "El azúcar carameliza tus proteínas por dentro",
+    "key_points": [
+      "La glicación es la unión no enzimática de azúcares a proteínas, formando AGEs (productos de glicación avanzada) que endurecen tejidos y causan arrugas, arteriosclerosis y cataratas",
+      "Las personas diabéticas envejecen biológicamente 5-10 años más rápido que las no diabéticas — los AGEs se acumulan exponencialmente con niveles altos de glucosa (Diabetes Care, 2014)",
+      "La hemoglobina glicosilada (HbA1c) es un marcador de glicación: cada 1% de aumento se asocia con 20% más riesgo cardiovascular y 37% más complicaciones microvasculares (The Lancet, 2010)",
+      "Cocinar a alta temperatura (freír, asar, grillar) produce AGEs exógenos — hervir y cocinar al vapor produce 10x menos AGEs que freír el mismo alimento (Journal of the American Dietetic Association, 2010)"
+    ],
+    "search_terms": ["sugar glycation damage", "AGEs protein damage", "blood sugar health effects"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 62,
+    "topic": "El poder del propósito: tener ikigai reduce la mortalidad un 40%",
+    "hook": "Tener propósito de vida reduce mortalidad un 40%",
+    "key_points": [
+      "Un metaanálisis de 10 estudios con 136,000 personas (JAMA Network Open, 2019) encontró que tener un propósito de vida fuerte reduce mortalidad por todas las causas un 40%",
+      "El estudio de Ohsaki (Japón) con 43,000 personas durante 7 años encontró que quienes reportaron ikigai tenían 50% menos mortalidad cardiovascular (Psychosomatic Medicine, 2008)",
+      "El propósito de vida reduce cortisol basal un 15%, mejora calidad de sueño y aumenta la actividad de células NK (sistema inmune) un 30% (Psychoneuroendocrinology, 2015)",
+      "No requiere grandes logros: cuidar un jardín, enseñar a nietos, voluntariado o un hobby absorbente — lo que importa es la razón para levantarte cada mañana"
+    ],
+    "search_terms": ["purpose life ikigai", "meaningful life happiness", "elderly active purpose"],
+    "category": "longevidad"
+  },
+  {
+    "id": 63,
+    "topic": "Deuda de sueño: por qué no puedes 'recuperar' horas perdidas el fin de semana",
+    "hook": "Las horas de sueño perdidas no se recuperan",
+    "key_points": [
+      "La deuda de sueño es acumulativa — perder 1 hora cada noche durante una semana equivale a una noche entera sin dormir en deterioro cognitivo (Sleep, 2003, Universidad de Pensilvania)",
+      "Un estudio de Current Biology (2019) demostró que dormir más el fin de semana NO revierte los daños metabólicos de dormir poco entre semana — la sensibilidad a insulina empeoró igualmente",
+      "6 horas de sueño por noche durante 2 semanas produce el mismo deterioro cognitivo que 2 noches sin dormir — pero las personas no lo perciben (Sleep, 2003)",
+      "Solo el sueño constante de 7-9 horas reparar: después de 1 semana de privación, se necesitan 4 noches de sueño óptimo para normalizar marcadores inflamatorios (Brain, Behavior, and Immunity, 2017)"
+    ],
+    "search_terms": ["sleep deprivation effects", "sleep debt health", "tired fatigue brain fog"],
+    "category": "sueño_ciencia"
+  },
+  {
+    "id": 64,
+    "topic": "AMPK: la enzima que tu cuerpo activa cuando necesita sobrevivir",
+    "hook": "Una enzima detecta cuándo estás en peligro",
+    "key_points": [
+      "AMPK (proteína quinasa activada por AMP) es el sensor energético maestro de la célula — se activa cuando la energía baja y enciende procesos de supervivencia y reparación",
+      "AMPK activa autofagia, inhibe mTOR, mejora sensibilidad a insulina y aumenta oxidación de grasas — es el nexo donde convergen todos los mecanismos de longevidad (Nature Reviews Molecular Cell Biology, 2018)",
+      "El ejercicio activa AMPK — incluso 20 minutos de caminata rápida aumentan la actividad de AMPK muscular un 50% (Journal of Applied Physiology, 2009)",
+      "La metformina, la berberina y la restricción calórica también activan AMPK — es el mecanismo común que explica por qué intervenciones tan diferentes extienden la vida"
+    ],
+    "search_terms": ["AMPK enzyme cellular", "energy sensing cell biology", "metabolic pathway longevity"],
+    "category": "antiaging"
+  },
+  {
+    "id": 65,
+    "topic": "Sarcopenia: la epidemia silenciosa que afecta al 10% de los mayores de 50",
+    "hook": "Después de los 50, pierdes fuerza cada año",
+    "key_points": [
+      "La sarcopenia es la pérdida progresiva de masa y fuerza muscular — afecta al 10-16% de mayores de 60 y al 50% de mayores de 80 (Age and Ageing, 2014)",
+      "La pérdida de fuerza de agarre predice mortalidad mejor que la presión arterial — cada 5kg menos de fuerza de agarre aumenta mortalidad un 17% (The Lancet, 2015, estudio de 140,000 personas)",
+      "La causa principal es la resistencia anabólica + sedentarismo — solo 2 semanas de inactividad causan pérdida equivalente a 10 años de envejecimiento muscular en mayores de 65 (JAMA, 2015)",
+      "Prevención: entrenamiento de fuerza 2-3x/semana + proteína distribuida (1.2-1.6g/kg/día) — nunca es tarde: personas de 90+ años ganan fuerza un 170% con entrenamiento (JAMA, 1994)"
+    ],
+    "search_terms": ["sarcopenia muscle loss aging", "elderly strength training", "grip strength health test"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 66,
+    "topic": "Probióticos: qué cepas tienen evidencia real y para qué sirven",
+    "hook": "Solo 5 cepas de probióticos tienen evidencia real",
+    "key_points": [
+      "La mayoría de probióticos comerciales no tienen evidencia clínica para las condiciones que prometen — los efectos son cepa-específicos, no genéricos (The Lancet Gastroenterology, 2019)",
+      "Cepas con evidencia sólida: Lactobacillus rhamnosus GG (diarrea infantil), Saccharomyces boulardii (diarrea por antibióticos), Bifidobacterium infantis 35624 (síndrome de intestino irritable)",
+      "Un estudio del Weizmann Institute (Cell, 2018) demostró que los probióticos genéricos no colonizan el intestino de todas las personas — la respuesta es individual",
+      "Los alimentos fermentados (kéfir, kimchi, yogur natural) son más efectivos que cápsulas para diversificar el microbioma — 6 porciones/semana reducen 19 marcadores inflamatorios (Cell, 2021, Stanford)"
+    ],
+    "search_terms": ["probiotics gut health", "fermented foods microbiome", "bacteria culture laboratory"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 67,
+    "topic": "La paradoja de la actividad física: por qué los deportistas de élite no viven más",
+    "hook": "Los atletas de élite no viven más que tú",
+    "key_points": [
+      "Un metaanálisis de British Journal of Sports Medicine (2012) encontró que los atletas olímpicos viven solo 2.8 años más que la población general — menos de lo esperado",
+      "El sobreentrenamiento crónico genera estrés oxidativo excesivo, fibrosis cardíaca y supresión inmunitaria — la curva de beneficio del ejercicio tiene forma de U invertida",
+      "Un estudio de Circulation (2017) encontró que corredores de maratón tienen 5x más riesgo de fibrilación auricular que personas con ejercicio moderado",
+      "La dosis óptima de ejercicio para longevidad: 150-300 min/semana de moderado o 75-150 de vigoroso — por encima de 600 min/semana los beneficios se reducen (JAMA Internal Medicine, 2015)"
+    ],
+    "search_terms": ["elite athlete health", "overtraining syndrome", "exercise dose response curve"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 68,
+    "topic": "Berberina: el compuesto vegetal que imita la metformina",
+    "hook": "Una planta antigua imita al fármaco antiedad",
+    "key_points": [
+      "La berberina es un alcaloide presente en plantas como Berberis vulgaris — activa AMPK igual que la metformina, el fármaco antidiabético más prescrito del mundo",
+      "Un metaanálisis de 27 ensayos clínicos (Metabolism, 2015) demostró que la berberina reduce glucosa en ayunas un 15%, HbA1c un 12% y triglicéridos un 25% — comparable a metformina",
+      "La berberina modula el microbioma intestinal, aumentando Akkermansia muciniphila, una bacteria protectora asociada con menor obesidad y diabetes (Nature Medicine, 2013)",
+      "Limitaciones: biodisponibilidad del 5%, interactúa con muchos fármacos (CYP3A4) y puede causar molestias gastrointestinales — no sustituye supervisión médica"
+    ],
+    "search_terms": ["berberine plant compound", "herbal medicine research", "natural diabetes treatment science"],
+    "category": "suplementos"
+  },
+  {
+    "id": 69,
+    "topic": "Estrés crónico y cortisol: cómo la hormona del estrés te envejece",
+    "hook": "El estrés crónico te envejece 10 años biológicos",
+    "key_points": [
+      "El cortisol crónicamente elevado destruye sinapsis en el hipocampo, reduce volumen cerebral un 14% y deteriora memoria — efecto visible en resonancias magnéticas (Neurology, 2018)",
+      "El estudio de Elissa Epel en PNAS (2004) demostró que mujeres con estrés crónico tenían telómeros equivalentes a 10 años más de edad — primera prueba de que el estrés envejece el ADN",
+      "El cortisol alto suprime el sistema inmunitario un 40%, aumenta grasa visceral, eleva glucosa y destruye colágeno — mecanismo directo de envejecimiento acelerado",
+      "La meditación mindfulness de 8 semanas reduce cortisol un 25% y aumenta telomerasa un 30% — programa MBSR validado por Jon Kabat-Zinn (Psychoneuroendocrinology, 2016)"
+    ],
+    "search_terms": ["stress cortisol hormone", "chronic stress brain damage", "meditation mindfulness practice"],
+    "category": "longevidad"
+  },
+  {
+    "id": 70,
+    "topic": "Agua: la verdad sobre los 8 vasos diarios y la hidratación real",
+    "hook": "Los 8 vasos de agua diarios son un mito",
+    "key_points": [
+      "La recomendación de 8 vasos (2L) no tiene base científica — se originó en una interpretación errónea de un informe del US National Research Council de 1945 (BMJ, 2007)",
+      "Las necesidades reales varían enormemente: 1.5-3.5L según peso, actividad, clima y dieta — el 20% del agua diaria viene de alimentos (frutas, verduras, sopas)",
+      "Un estudio de 11,000 adultos (The Lancet, 2023) encontró que la hidratación óptima (sodio sérico 137-142 mEq/L) se asocia con 15% menos envejecimiento biológico y 20% menos enfermedad crónica",
+      "La deshidratación del 2% reduce rendimiento cognitivo un 20% y físico un 25% — el color de la orina (amarillo pálido) es mejor indicador que contar vasos (Medicine & Science in Sports, 2007)"
+    ],
+    "search_terms": ["hydration water health", "drinking water science", "dehydration effects body"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 71,
+    "topic": "Sentadilla profunda: el ejercicio más importante para envejecer bien",
+    "hook": "Si no puedes hacer sentadilla profunda, tienes un problema",
+    "key_points": [
+      "La capacidad de sentarse y levantarse del suelo sin usar las manos predice mortalidad — cada apoyo extra multiplica riesgo por 1.21 (European Journal of Preventive Cardiology, 2014)",
+      "La sentadilla profunda trabaja 200+ músculos y mantiene la movilidad de cadera, rodilla y tobillo — las articulaciones que más se deterioran con la edad",
+      "Poblaciones que se sientan en el suelo (Japón, India) tienen 50% menos artrosis de rodilla que las que usan sillas exclusivamente (Journal of Bone and Joint Surgery, 2013)",
+      "Peter Attia considera la sentadilla profunda con peso el ejercicio más funcional para longevidad — mantener la capacidad de levantarte del suelo a los 80 es la verdadera medida de fitness"
+    ],
+    "search_terms": ["deep squat exercise form", "mobility flexibility aging", "functional fitness elderly"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 72,
+    "topic": "Luz azul y envejecimiento: lo que tus pantallas le hacen a tu cuerpo",
+    "hook": "La luz azul de tu móvil envejece tu piel",
+    "key_points": [
+      "La luz azul (400-490nm) de pantallas penetra la piel más profundamente que los UVA — genera radicales libres que degradan colágeno y causan hiperpigmentación (Journal of Investigative Dermatology, 2018)",
+      "4 horas de exposición a pantallas generan el mismo estrés oxidativo en la piel que 20 minutos de sol de mediodía — según un estudio de la Universidad de Cincinnati (Oxidative Medicine and Cellular Longevity, 2019)",
+      "La luz azul después de las 8pm suprime melatonina un 55% y retrasa el reloj circadiano 1.5 horas — más que cualquier otra longitud de onda (PNAS, 2015, Harvard)",
+      "Usar gafas con filtro de luz azul 2 horas antes de dormir mejora el sueño profundo un 58% y la melatonina un 70% — efecto mayor que apagar pantallas (Chronobiology International, 2017)"
+    ],
+    "search_terms": ["blue light screen effect", "digital screen eye damage", "blue light filter glasses"],
+    "category": "sueño_ciencia"
+  },
+  {
+    "id": 73,
+    "topic": "Espermidina: la molécula de la longevidad presente en el queso curado",
+    "hook": "El queso curado contiene una molécula antiedad",
+    "key_points": [
+      "La espermidina es una poliamina que induce autofagia — ratones suplementados con espermidina vivieron un 25% más (Nature Medicine, 2016, Universidad de Graz)",
+      "Un estudio prospectivo de 20 años con 829 personas (American Journal of Clinical Nutrition, 2018) encontró que el tercil más alto de ingesta de espermidina tiene 40% menos mortalidad cardiovascular",
+      "El primer ensayo clínico en humanos (Aging Cell, 2018) demostró que espermidina de germen de trigo mejora memoria en adultos mayores con deterioro cognitivo subjetivo",
+      "Fuentes alimentarias: germen de trigo (243 nmol/g), queso curado (200 nmol/g), soja (207 nmol/g), champiñones (89 nmol/g), guisantes (65 nmol/g)"
+    ],
+    "search_terms": ["spermidine longevity molecule", "aged cheese nutrition", "autophagy food science"],
+    "category": "antiaging"
+  },
+  {
+    "id": 74,
+    "topic": "Conexiones sociales y longevidad: el aislamiento mata más que fumar",
+    "hook": "La soledad mata más que fumar 15 cigarrillos",
+    "key_points": [
+      "Un metaanálisis de 148 estudios con 308,849 personas (PLOS Medicine, 2010) encontró que la soledad aumenta mortalidad un 26% — equivalente a fumar 15 cigarrillos diarios",
+      "El Surgeon General de EEUU declaró en 2023 la soledad como epidemia de salud pública — el 50% de adultos estadounidenses reportan soledad significativa",
+      "El aislamiento social eleva cortisol un 30%, inflamación (IL-6) un 40% y riesgo de demencia un 50% — impacto similar a la hipertensión no tratada (The Lancet, 2015)",
+      "Los centenarios de todas las zonas azules comparten vínculos sociales fuertes — en Okinawa, los 'moai' (grupos de apoyo de 5 amigos de por vida) son la base de la longevidad social"
+    ],
+    "search_terms": ["social connection elderly health", "loneliness health effects", "community friendship longevity"],
+    "category": "longevidad"
+  },
+  {
+    "id": 75,
+    "topic": "Colágeno: la proteína estructural que pierdes un 1% cada año",
+    "hook": "Pierdes 1% de colágeno al año después de los 25",
+    "key_points": [
+      "El colágeno constituye el 30% de las proteínas del cuerpo — es la estructura de piel, huesos, tendones, cartílago y vasos sanguíneos que se degrada con la edad",
+      "Un metaanálisis de 19 ensayos clínicos (International Journal of Dermatology, 2021) encontró que los péptidos de colágeno hidrolizado mejoran elasticidad de la piel un 15% y hidratación un 28%",
+      "La vitamina C es esencial para la síntesis de colágeno — sin ella, el colágeno producido es defectuoso (escorbuto), según Linus Pauling (PNAS, 1973)",
+      "Factores que destruyen colágeno aceleradamente: azúcar (glicación de fibras), UV sin protección, tabaco (reduce síntesis un 40%) y cortisol crónico (Clinical Interventions in Aging, 2017)"
+    ],
+    "search_terms": ["collagen protein skin", "skin aging science", "connective tissue biology"],
+    "category": "antiaging"
+  },
+  {
+    "id": 76,
+    "topic": "Hormona del crecimiento en adultos: por qué baja y cómo mantenerla",
+    "hook": "A los 60 produces 80% menos hormona del crecimiento",
+    "key_points": [
+      "La hormona del crecimiento (GH) baja un 14% por década desde los 30 — a los 60, los niveles son un 80% menores que a los 20 (somatopausia)",
+      "La GH es esencial para reparación tisular, metabolismo de grasas y mantenimiento de masa muscular — su declive se asocia con fragilidad y acumulación de grasa visceral (JCEM, 2006)",
+      "El sueño profundo (N3) es cuando se libera el 75% de la GH diaria — dormir menos de 7 horas reduce la liberación de GH un 70% (Journal of Clinical Investigation, 2000)",
+      "Formas naturales de aumentar GH: sueño profundo, HIIT (hasta 300% de aumento), ayuno intermitente (aumenta GH un 1,300% tras 24h de ayuno, según el Intermountain Medical Center, 2011)"
+    ],
+    "search_terms": ["growth hormone aging", "sleep hormones production", "endocrine system health"],
+    "category": "antiaging"
+  },
+  {
+    "id": 77,
+    "topic": "Equilibrio y caídas: la habilidad que predice tu supervivencia después de los 60",
+    "hook": "No poder estar en un pie predice tu mortalidad",
+    "key_points": [
+      "Las caídas son la primera causa de muerte accidental en mayores de 65 — 37.3 millones de caídas anuales requieren atención médica en el mundo (OMS, 2021)",
+      "Un estudio de British Journal of Sports Medicine (2022) con 1,702 personas encontró que no poder mantenerse en un pie 10 segundos duplica el riesgo de muerte en los siguientes 7 años",
+      "El sistema vestibular pierde un 40% de receptores entre los 55 y 75 años — la propiocepción también declina un 30% (Journal of Neurophysiology, 2016)",
+      "Ejercicios preventivos: 30 segundos en un pie con ojos cerrados, 3 veces al día — tai chi reduce caídas un 43% en mayores de 65, más que cualquier otra intervención (JAMA Internal Medicine, 2017)"
+    ],
+    "search_terms": ["balance exercise elderly", "fall prevention older adults", "proprioception training"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 78,
+    "topic": "Nicotinamida mononucleótido (NMN): el precursor de NAD+ más prometedor",
+    "hook": "La molécula que podría revertir el envejecimiento celular",
+    "key_points": [
+      "NMN es un precursor directo de NAD+ que cruza la barrera intestinal y eleva NAD+ en sangre un 40% en 60 días, según un ensayo clínico en humanos (Science, 2022, Universidad de Washington)",
+      "David Sinclair de Harvard demostró que NMN revirtió la resistencia a insulina, la pérdida visual y el deterioro vascular en ratones viejos (Cell, 2018)",
+      "El primer ensayo clínico de NMN en humanos (250mg/día) mejoró la sensibilidad a insulina muscular en mujeres prediabéticas postmenopáusicas (Science, 2021)",
+      "NMN se encuentra naturalmente en edamame (0.47-1.88 mg/100g), brócoli (0.25-1.12 mg) y aguacate (0.36-1.60 mg) — pero en cantidades miles de veces menores que las dosis de ensayos"
+    ],
+    "search_terms": ["NMN molecule science", "NAD precursor research", "anti aging supplement laboratory"],
+    "category": "suplementos"
+  },
+  {
+    "id": 79,
+    "topic": "Microplásticos en sangre: la amenaza invisible que apenas entendemos",
+    "hook": "El 77% de las personas tiene plástico en la sangre",
+    "key_points": [
+      "Un estudio de la Universidad de Amsterdam (Environment International, 2022) detectó microplásticos en la sangre del 77% de las personas analizadas — primera evidencia en humanos",
+      "Un humano promedio ingiere 5 gramos de plástico por semana (equivalente a una tarjeta de crédito) a través de agua, alimentos y aire (WWF/Universidad de Newcastle, 2019)",
+      "Los microplásticos contienen ftalatos y bisfenoles que son disruptores endocrinos — interfieren con hormonas tiroideas, reproductivas y metabolismo (The Lancet Planetary Health, 2022)",
+      "Un estudio de NEJM (2024) encontró que pacientes con microplásticos detectados en placas arteriales tenían 4.5 veces más riesgo de infarto, ictus o muerte en 34 meses"
+    ],
+    "search_terms": ["microplastics pollution health", "plastic contamination water", "environmental health toxins"],
+    "category": "longevidad"
+  },
+  {
+    "id": 80,
+    "topic": "Sueño y sistema inmunitario: una noche mala baja tus defensas un 70%",
+    "hook": "Una mala noche baja tus defensas un 70%",
+    "key_points": [
+      "Dormir menos de 6 horas reduce la actividad de las células NK (Natural Killer) un 70% — estas células son la primera línea de defensa contra virus y células cancerosas (Sleep, 2019, UC San Francisco)",
+      "Personas que duermen menos de 7 horas tienen 4.2 veces más probabilidad de resfriarse cuando se les expone al virus vs personas que duermen 8+ horas (Sleep, 2015)",
+      "La eficacia de las vacunas se reduce a la mitad en personas con privación de sueño — dormir 4 horas la noche antes de la vacuna produce 50% menos anticuerpos (Sleep, 2002)",
+      "Durante el sueño profundo, el sistema inmunitario produce citoquinas antivirales y redistribuye células T a los ganglios linfáticos — es cuando se 'actualiza' la memoria inmunitaria"
+    ],
+    "search_terms": ["immune system sleep health", "natural killer cells defense", "sleep deprivation illness"],
+    "category": "sueño_ciencia"
+  },
+  {
+    "id": 81,
+    "topic": "Músculo como órgano endocrino: las mioquinas que te protegen de enfermedades",
+    "hook": "Tu músculo produce medicinas cuando lo usas",
+    "key_points": [
+      "El músculo esquelético secreta más de 600 mioquinas durante la contracción — funcionan como medicinas antiinflamatorias, antidiabéticas y anticancerígenas (Nature Reviews Endocrinology, 2012)",
+      "La irisina (descubierta por Harvard en 2012) convierte grasa blanca en grasa parda, quemando calorías — también cruza barrera hematoencefálica y protege neuronas del Alzheimer",
+      "La IL-6 muscular (distinta de la IL-6 inflamatoria) se libera durante el ejercicio y reduce grasa visceral, mejora sensibilidad a insulina y activa autofagia hepática (Cell Metabolism, 2016)",
+      "Más masa muscular = más capacidad de producir mioquinas protectoras — por eso el entrenamiento de fuerza reduce mortalidad total un 15% independientemente del cardio (BMJ, 2022)"
+    ],
+    "search_terms": ["muscle endocrine organ", "myokines exercise science", "skeletal muscle biology"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 82,
+    "topic": "Ácido úrico: el antioxidante infraestimado que también puede matar",
+    "hook": "El ácido úrico es antioxidante y veneno a la vez",
+    "key_points": [
+      "El ácido úrico es el antioxidante más abundante en la sangre humana — proporciona el 60% de la capacidad antioxidante plasmática, más que la vitamina C (Free Radical Biology and Medicine, 2003)",
+      "Los humanos perdimos la enzima uricasa hace 15 millones de años — esto elevó el ácido úrico y posiblemente nos dio ventaja de supervivencia durante períodos de hambruna (PNAS, 2014)",
+      "El nivel óptimo es una U invertida: muy bajo (<3mg/dL) se asocia con peor función cognitiva; muy alto (>7mg/dL) con gota, enfermedad renal y cardiovascular (Arthritis & Rheumatology, 2019)",
+      "El exceso de fructosa es la causa principal de hiperuricemia — 2 refrescos azucarados diarios aumentan ácido úrico un 85% y riesgo de gota un 85% (BMJ, 2008)"
+    ],
+    "search_terms": ["uric acid blood test", "gout uric acid crystal", "antioxidant blood chemistry"],
+    "category": "longevidad"
+  },
+  {
+    "id": 83,
+    "topic": "Proteínas de choque térmico: cómo el calor repara tus proteínas dañadas",
+    "hook": "El calor activa la reparación de tus proteínas",
+    "key_points": [
+      "Las proteínas de choque térmico (HSP) son chaperonas moleculares que se activan con estrés (calor, ejercicio, ayuno) para reparar proteínas mal plegadas y prevenir agregación tóxica",
+      "La sauna aumenta HSP70 un 50% — esta proteína protege contra neurodegeneración, y su deficiencia está vinculada a Alzheimer y Parkinson (Neurobiology of Disease, 2019)",
+      "Un estudio de Nature Medicine (2015) demostró que restaurar HSP en ratones con Alzheimer redujo las placas amiloides un 30% y mejoró memoria significativamente",
+      "El ejercicio también induce HSP — 30 minutos a intensidad moderada aumentan HSP72 un 200%, protegiendo corazón y cerebro del estrés oxidativo (Journal of Applied Physiology, 2007)"
+    ],
+    "search_terms": ["heat shock proteins biology", "protein folding cell", "sauna heat therapy health"],
+    "category": "antiaging"
+  },
+  {
+    "id": 84,
+    "topic": "Suelo pélvico: el músculo invisible que afecta tu longevidad y calidad de vida",
+    "hook": "Un músculo que nadie entrena determina tu vejez",
+    "key_points": [
+      "El suelo pélvico sostiene vejiga, intestino y órganos reproductivos — su debilitamiento causa incontinencia en el 50% de mujeres mayores de 50 y el 25% de hombres mayores de 70",
+      "La incontinencia urinaria triplica el riesgo de depresión, duplica el aislamiento social y aumenta caídas un 40% por las carreras al baño (JAMA Internal Medicine, 2017)",
+      "Ejercicios de Kegel con evidencia: 3 series de 10 contracciones diarias durante 3 meses reducen episodios de incontinencia un 56% en mujeres — tasa de éxito del 70% (Neurourology and Urodynamics, 2018)",
+      "El entrenamiento de fuerza con sentadillas y peso muerto fortalece el suelo pélvico indirectamente — la co-contracción abdominal-pélvica es automática durante estos ejercicios"
+    ],
+    "search_terms": ["pelvic floor anatomy", "core muscle exercise", "physical therapy rehabilitation"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 85,
+    "topic": "Polifenoles del cacao: el chocolate negro como medicina cardiovascular",
+    "hook": "40g de chocolate negro bajan tu presión arterial",
+    "key_points": [
+      "El cacao puro contiene más de 200 compuestos bioactivos — los flavanoles del cacao mejoran la función endotelial y aumentan la biodisponibilidad de óxido nítrico (Circulation, 2009)",
+      "Un metaanálisis de 35 ensayos clínicos (BMJ, 2012) demostró que el consumo regular de chocolate negro reduce presión arterial sistólica 2-3 mmHg — efecto clínicamente significativo a nivel poblacional",
+      "El estudio COSMOS (JAMA, 2022) con 21,442 participantes encontró que los suplementos de flavanoles de cacao redujeron muerte cardiovascular un 27% en personas con baja ingesta basal",
+      "Chocolate negro 85%+ es medicinal; chocolate con leche pierde el 50% de polifenoles por la caseína láctea que bloquea absorción — el azúcar añadido anula beneficios (Nature, 2003)"
+    ],
+    "search_terms": ["dark chocolate health benefits", "cocoa flavanols science", "cardiovascular health nutrition"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 86,
+    "topic": "Testosterona en hombres: por qué baja un 1% al año después de los 30",
+    "hook": "Después de los 30, tu testosterona baja cada año",
+    "key_points": [
+      "La testosterona total en hombres cae aproximadamente un 1-2% por año desde los 30 — a los 70, los niveles son un 30-50% menores (JCEM, 2007, Massachusetts Male Aging Study)",
+      "La testosterona baja se asocia con sarcopenia, osteoporosis, depresión, disfunción cognitiva y síndrome metabólico — pero la terapia de reemplazo tiene riesgos y no es para todos",
+      "Formas naturales de optimizar testosterona: entrenamiento de fuerza (+20-25%, Journal of Strength and Conditioning, 2016), dormir 7-9h (dormir 5h reduce testosterona un 15%, JAMA, 2011)",
+      "Otros factores: mantener grasa corporal bajo 20%, zinc y vitamina D adecuados, reducir estrés (el cortisol suprime testosterona directamente) y evitar exceso de alcohol"
+    ],
+    "search_terms": ["testosterone hormone health", "male aging endocrine", "strength training hormones"],
+    "category": "longevidad"
+  },
+  {
+    "id": 87,
+    "topic": "Densidad ósea: el capital que construyes hasta los 30 y pierdes después",
+    "hook": "Tu capital óseo se cierra a los 30 años",
+    "key_points": [
+      "La masa ósea máxima se alcanza a los 25-30 años — después se pierde un 1% anual, acelerado a 2-3% en mujeres postmenopáusicas (The Lancet, 2017)",
+      "La osteoporosis causa 8.9 millones de fracturas anuales en el mundo — una fractura de cadera en mayores de 65 tiene 20-30% de mortalidad al año (Osteoporosis International, 2016)",
+      "El entrenamiento de fuerza con impacto es la intervención más efectiva: sentadillas, peso muerto y saltos aumentan densidad ósea un 1-3% anual — el cardio suave no fortalece huesos (JBMR, 2018)",
+      "La vitamina D, el calcio (1000-1200mg/día de fuentes alimentarias) y la vitamina K2 son esenciales — pero sin ejercicio de impacto, el hueso no incorpora eficientemente el calcio"
+    ],
+    "search_terms": ["bone density scan", "osteoporosis prevention", "bone health exercise weight"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 88,
+    "topic": "Flavonoides y cerebro: cómo los arándanos protegen tu memoria",
+    "hook": "Los arándanos rejuvenecen tu cerebro 5 años",
+    "key_points": [
+      "Un estudio de Harvard con 77,000 enfermeras durante 20 años (Annals of Neurology, 2012) encontró que el consumo alto de flavonoides retrasa el deterioro cognitivo 2.5 años",
+      "Los arándanos contienen antocianinas que cruzan la barrera hematoencefálica y se acumulan en el hipocampo — mejoran memoria episódica un 16% en adultos mayores (Nutritional Neuroscience, 2017)",
+      "Un ensayo clínico de la Universidad de Exeter (American Journal of Clinical Nutrition, 2017) demostró que 12 semanas de zumo de arándanos mejoran flujo sanguíneo cerebral y función cognitiva en mayores",
+      "Ranking de flavonoides por porción: arándanos (300mg), fresas (200mg), uvas moradas (180mg), manzanas (150mg), cacao puro (140mg) — la variedad de colores importa"
+    ],
+    "search_terms": ["blueberries brain health", "flavonoids antioxidant food", "cognitive health nutrition"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 89,
+    "topic": "Klotho: la proteína antiedad descubierta hace solo 25 años",
+    "hook": "Una proteína descubierta en 1997 frena el envejecimiento",
+    "key_points": [
+      "Klotho fue descubierta en 1997 — ratones sin Klotho envejecen aceleradamente; ratones con Klotho extra viven un 30% más (Nature, 1997, Universidad de Texas)",
+      "Klotho circulante en sangre declina con la edad y predice mortalidad — personas con Klotho alto viven más y tienen mejor función cognitiva (JAMA, 2011)",
+      "La inyección de Klotho mejoró la cognición en ratones viejos en solo 4 horas — efecto que duró 2 semanas, según un estudio de UCSF (Cell Reports, 2023)",
+      "El ejercicio aumenta Klotho circulante un 20-30% — la intensidad moderada-vigorosa es más efectiva que la leve (Journal of Clinical Investigation, 2019)"
+    ],
+    "search_terms": ["klotho protein aging", "anti aging protein research", "longevity biomarker science"],
+    "category": "antiaging"
+  },
+  {
+    "id": 90,
+    "topic": "Adenosina y presión del sueño: por qué el café es solo una máscara",
+    "hook": "La cafeína no te quita el sueño, lo oculta",
+    "key_points": [
+      "La adenosina es un neurotransmisor que se acumula cada hora despierto, creando 'presión de sueño' — después de 16 horas, la presión es máxima y necesitas dormir",
+      "La cafeína bloquea los receptores de adenosina (A1 y A2A) sin eliminarla — cuando el efecto pasa, toda la adenosina acumulada golpea de golpe, causando el 'crash' (Nature Reviews Neuroscience, 2016)",
+      "La adenosina se elimina completamente solo durante el sueño profundo (N3) — el sueño ligero la reduce parcialmente, por eso dormir mal no refresca (Sleep Medicine Reviews, 2018)",
+      "Cortar la cafeína 10 horas antes de dormir es la recomendación de Matthew Walker (UC Berkeley) — el metabolismo individual varía: metabolizadores lentos (gen CYP1A2) necesitan 12+ horas"
+    ],
+    "search_terms": ["adenosine sleep pressure", "caffeine brain receptor", "sleep neuroscience mechanism"],
+    "category": "sueño_ciencia"
+  },
+  {
+    "id": 91,
+    "topic": "Rapamicina: el fármaco de trasplantes que podría ser el elixir de la juventud",
+    "hook": "Un fármaco de trasplantes podría frenar tu vejez",
+    "key_points": [
+      "La rapamicina se descubrió en la Isla de Pascua en 1972 — inhibe mTOR y extendió la vida de ratones un 25%, el mayor aumento logrado con un solo fármaco (Nature, 2009)",
+      "Matt Kaeberlein administró rapamicina a perros en el Dog Aging Project — mejoró función cardíaca en 8 semanas a dosis bajas intermitentes (GeroScience, 2023)",
+      "A dosis bajas e intermitentes, la rapamicina parece mejorar la inmunidad en vez de suprimirla — un ensayo en ancianos mostró 20% mejor respuesta a vacuna de gripe (Science Translational Medicine, 2014)",
+      "Más de 1,500 personas se automedican rapamicina off-label para antienvejecimiento — la comunidad científica advierte que aún no hay ensayos de fase III en humanos sanos"
+    ],
+    "search_terms": ["rapamycin drug research", "mTOR inhibitor science", "longevity drug clinical trial"],
+    "category": "antiaging"
+  },
+  {
+    "id": 92,
+    "topic": "GLP-1 y metabolismo: la hormona intestinal que revoluciona la medicina",
+    "hook": "Una hormona intestinal revoluciona la medicina moderna",
+    "key_points": [
+      "GLP-1 (péptido similar al glucagón tipo 1) es una incretina intestinal que regula insulina, apetito y vaciamiento gástrico — su descubrimiento llevó al Nobel de Medicina 2024",
+      "Los agonistas de GLP-1 (semaglutida) reducen peso corporal un 15-17% y eventos cardiovasculares un 20% — datos del estudio SELECT (NEJM, 2023) con 17,604 personas",
+      "Más allá de obesidad: GLP-1 muestra beneficios en Alzheimer (reduce acumulación de beta-amiloide), NAFLD (reduce grasa hepática un 50%) y enfermedad renal (The Lancet, 2024)",
+      "Formas naturales de aumentar GLP-1: proteína en cada comida, fibra fermentable, yerba mate y evitar ultraprocesados que reducen la producción endógena de GLP-1"
+    ],
+    "search_terms": ["GLP-1 hormone intestine", "metabolic hormone science", "gut hormone research"],
+    "category": "longevidad"
+  },
+  {
+    "id": 93,
+    "topic": "Protección solar y longevidad: el hábito que más frena el envejecimiento de la piel",
+    "hook": "El 80% del envejecimiento de la piel es por el sol",
+    "key_points": [
+      "El fotoenvejecimiento causa el 80% de los signos visibles de envejecimiento facial — arrugas, manchas y pérdida de elasticidad son mayoritariamente por radiación UV, no por la edad (NEJM, 2012)",
+      "Un famoso estudio de un camionero de 69 años (NEJM, 2012) mostró la mitad izquierda de su cara envejecida 20 años más que la derecha por 28 años de exposición solar unilateral",
+      "El protector solar SPF30+ usado diariamente reduce el fotoenvejecimiento un 24% en 4.5 años — el estudio más riguroso realizado (Annals of Internal Medicine, 2013, Nambour Trial)",
+      "UVA penetra cristales y nubes, UVB no — necesitas protección incluso en días nublados y dentro del coche, especialmente en la ventanilla del conductor"
+    ],
+    "search_terms": ["sunscreen UV protection", "skin photoaging sun damage", "UV radiation skin science"],
+    "category": "antiaging"
+  },
+  {
+    "id": 94,
+    "topic": "Yoga y telómeros: la práctica ancestral con evidencia antiedad",
+    "hook": "12 semanas de yoga alargan tus telómeros",
+    "key_points": [
+      "Un estudio de AIIMS Delhi (Oxidative Medicine and Cellular Longevity, 2017) encontró que 12 semanas de yoga aumentan telomerasa un 30% y reducen cortisol un 25% y IL-6 un 30%",
+      "El yoga activa el sistema nervioso parasimpático vía nervio vago, reduciendo la respuesta de 'lucha o huida' que cronifica estrés y acelera envejecimiento",
+      "Un metaanálisis de 42 ensayos clínicos (Psychoneuroendocrinology, 2017) demostró que el yoga reduce PCR, IL-6 y TNF-alpha — los tres principales marcadores de inflammaging",
+      "Los beneficios no requieren posturas avanzadas: la combinación de respiración controlada (pranayama), posturas suaves y meditación produce la mayoría de efectos en 30 min/día"
+    ],
+    "search_terms": ["yoga practice health benefits", "meditation mindfulness", "telomere yoga science"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 95,
+    "topic": "La regla de las 5 porciones: frutas y verduras que realmente extienden la vida",
+    "hook": "5 porciones de frutas y verduras salvan tu vida",
+    "key_points": [
+      "Un metaanálisis con 2 millones de personas (Circulation, 2021) encontró que 5 porciones diarias (2 fruta + 3 verdura) reducen mortalidad total un 13% — más de 5 no añade beneficio significativo",
+      "Las verduras de hoja verde son las más protectoras — una porción diaria reduce riesgo de diabetes tipo 2 un 14% (BMJ, 2010, metaanálisis de 220,000 personas)",
+      "Los tubérculos con almidón (patata) y los zumos de fruta no cuentan en los estudios — no tienen el mismo efecto protector que frutas y verduras enteras",
+      "El motivo: fibra + polifenoles + vitaminas + minerales + agua en una matriz alimentaria que no se replica con suplementos — el alimento entero es más que la suma de sus partes"
+    ],
+    "search_terms": ["fruits vegetables healthy diet", "plant based nutrition", "five a day health research"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 96,
+    "topic": "Cerdeña: por qué los hombres sardos viven tanto como las mujeres",
+    "hook": "En Cerdeña los hombres viven tanto como las mujeres",
+    "key_points": [
+      "Cerdeña tiene 10 veces más centenarios hombres por capita que el promedio mundial — es el único lugar donde la ratio centenarios hombres/mujeres es 1:1 (Experimental Gerontology, 2004)",
+      "Los pastores sardos de montaña caminan 8-15km diarios en terreno irregular — combinan ejercicio aeróbico y de fuerza funcional toda su vida",
+      "La dieta sarda tradicional: pan integral de masa madre, fave (habas), pecorino (rico en omega-3 por el pasto), vino cannonau (3x más antioxidantes que vinos comunes)",
+      "El factor social clave: los ancianos sardos viven con familia extendida y mantienen roles activos — el aislamiento social de hombres ancianos en el resto de Europa es la norma"
+    ],
+    "search_terms": ["sardinia italy centenarian", "mediterranean village life", "elderly active healthy community"],
+    "category": "longevidad"
+  },
+  {
+    "id": 97,
+    "topic": "Ayuno prolongado de 3 días: la regeneración inmunitaria según Valter Longo",
+    "hook": "3 días de ayuno regeneran tu sistema inmunitario",
+    "key_points": [
+      "Valter Longo de USC demostró que 72 horas de ayuno regeneran el sistema inmunitario — las células madre hematopoyéticas producen linfocitos nuevos como en la juventud (Cell Stem Cell, 2014)",
+      "El ayuno prolongado reduce IGF-1 un 70%, activa autofagia masiva y elimina células inmunitarias viejas — al realimentar, se generan células nuevas y funcionales",
+      "La dieta que mimetiza el ayuno (FMD, 5 días) de Longo logra el 70% de los beneficios sin ayuno completo — reduce IGF-1, PCR, glucosa y presión arterial (Science Translational Medicine, 2015)",
+      "No es para todos: contraindicado en diabéticos tipo 1, bajo peso (IMC <18.5), trastornos alimentarios, embarazo y menores de 18 — siempre bajo supervisión médica"
+    ],
+    "search_terms": ["prolonged fasting science", "immune system regeneration", "fasting mimicking diet research"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 98,
+    "topic": "Vitamina B12 y deterioro cognitivo: la deficiencia más común en mayores",
+    "hook": "El 40% de mayores de 60 tiene falta de B12",
+    "key_points": [
+      "La vitamina B12 es esencial para la mielinización neuronal y la síntesis de ADN — su deficiencia causa daño neurológico irreversible si no se trata a tiempo",
+      "El 40% de personas mayores de 60 años tienen niveles subóptimos de B12 (<400 pg/mL) por la reducción de ácido gástrico con la edad (American Journal of Clinical Nutrition, 2000)",
+      "Un estudio de Oxford (Neurology, 2008) encontró que niveles bajos de B12 se asocian con 6 veces más atrofia cerebral y deterioro cognitivo acelerado",
+      "Los veganos sin suplementación desarrollan deficiencia en 2-5 años — la B12 solo se encuentra naturalmente en productos animales, no hay fuentes vegetales fiables (NEJM, 2013)"
+    ],
+    "search_terms": ["vitamin B12 deficiency", "cognitive decline aging", "brain health nutrition elderly"],
+    "category": "suplementos"
+  },
+  {
+    "id": 99,
+    "topic": "Ratio cintura-cadera: mejor predictor de mortalidad que el peso",
+    "hook": "Tu cintura predice mortalidad mejor que tu peso",
+    "key_points": [
+      "Un estudio de The Lancet (2005) con 27,000 personas de 52 países encontró que el ratio cintura-cadera es el predictor más fuerte de infarto — mejor que IMC, peso o colesterol",
+      "Valores óptimos: hombres <0.90, mujeres <0.85 — por encima de 1.0 en hombres y 0.90 en mujeres, el riesgo cardiovascular se triplica",
+      "El IMC no distingue entre músculo y grasa — una persona musculosa puede ser 'obesa' por IMC pero metabólicamente sana; una persona delgada con grasa visceral (TOFI) puede estar en riesgo real",
+      "La medición es gratuita y más predictiva que análisis de sangre caros — medir cintura a nivel del ombligo y cadera en el punto más ancho, dividir cintura/cadera"
+    ],
+    "search_terms": ["waist hip ratio measurement", "body composition health", "visceral fat measurement"],
+    "category": "longevidad"
+  },
+  {
+    "id": 100,
+    "topic": "Ultrasonido enfocado: la tecnología que destruye células senescentes sin cirugía",
+    "hook": "Ultrasonido destruye células zombi sin cirugía",
+    "key_points": [
+      "Investigadores de la Universidad de Michigan (Aging, 2023) demostraron que ultrasonido enfocado de baja intensidad destruye selectivamente células senescentes sin dañar células sanas",
+      "Las células senescentes son más grandes y rígidas que las normales — el ultrasonido explota esta diferencia física para destruirlas selectivamente (principio de resonancia mecánica)",
+      "En ratones tratados, la eliminación de células senescentes con ultrasonido mejoró marcadores de función renal, hepática y cardíaca — todo sin fármacos ni efectos secundarios",
+      "Esta tecnología podría ser la primera terapia senolítica no farmacológica — eliminando la necesidad de medicamentos como dasatinib + quercetina que tienen efectos secundarios"
+    ],
+    "search_terms": ["focused ultrasound therapy", "senescent cell destruction", "non invasive anti aging technology"],
+    "category": "antiaging"
+  },
+  {
+    "id": 101,
+    "topic": "Alcohol y cáncer: lo que la OMS dice que nadie quiere escuchar",
+    "hook": "No existe dosis segura de alcohol para cáncer",
+    "key_points": [
+      "La OMS y la IARC clasifican el alcohol como carcinógeno del Grupo 1 — no existe dosis segura para cáncer, ni siquiera consumo moderado (The Lancet Oncology, 2021)",
+      "Incluso 1 bebida diaria aumenta riesgo de cáncer de mama un 5-9%, esófago un 20% y oral un 15% — el acetaldehído (metabolito del alcohol) daña directamente el ADN (Nature, 2018)",
+      "Un estudio de The Lancet (2018) con datos de 195 países concluyó que el nivel de consumo que minimiza el daño total a la salud es cero — contradiciendo décadas de 'beber moderado es saludable'",
+      "El beneficio cardiovascular del vino moderado se explicaba mejor por el perfil sociodemográfico de los bebedores moderados que por el alcohol en sí — sesgo de selección del abstemio enfermo (JAMA Network Open, 2023)"
+    ],
+    "search_terms": ["alcohol cancer risk science", "drinking health effects", "alcohol DNA damage research"],
+    "category": "longevidad"
+  },
+  {
+    "id": 102,
+    "topic": "Fascia: la red de tejido conectivo que determina tu movilidad y dolor",
+    "hook": "Una red invisible conecta todo tu cuerpo",
+    "key_points": [
+      "La fascia es un tejido conectivo continuo que envuelve cada músculo, hueso, nervio y órgano — funciona como una red tridimensional que transmite fuerza y tensión por todo el cuerpo",
+      "La fascia contiene 6-10 veces más receptores sensoriales que los músculos — es el órgano sensorial más grande del cuerpo y una fuente principal de dolor crónico (Journal of Bodywork and Movement Therapies, 2012)",
+      "La inactividad hace que la fascia se adhiera y endurezca — las personas sedentarias tienen fascina un 40% más rígida que las activas, contribuyendo a dolor de espalda y pérdida de movilidad",
+      "El foam rolling y el movimiento variado mantienen la fascia hidratada y flexible — 2 minutos de foam rolling aumentan rango de movimiento un 10% sin pérdida de fuerza (Journal of Athletic Training, 2015)"
+    ],
+    "search_terms": ["fascia connective tissue body", "myofascial release therapy", "body flexibility movement"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 103,
+    "topic": "Inositol: la molécula que mejora sueño, ansiedad y resistencia a insulina",
+    "hook": "Una molécula natural trata ansiedad e insulina",
+    "key_points": [
+      "El myo-inositol es un pseudovitamina que actúa como segundo mensajero en las vías de señalización de insulina, serotonina y dopamina (Endocrine Reviews, 2012)",
+      "Un metaanálisis de 8 ensayos clínicos (Psychopharmacology, 2011) encontró que 12-18g/día de inositol reduce ansiedad y ataques de pánico comparable a fluvoxamina pero sin efectos secundarios",
+      "4g/día de myo-inositol mejora sensibilidad a insulina y ovulación en mujeres con SOP — eficacia comparable a metformina en el síndrome de ovario poliquístico (Gynecological Endocrinology, 2012)",
+      "Fuentes alimentarias: melón cantaloupe (355mg/100g), cítricos (307mg), frijoles (224mg), nueces (198mg) — pero las dosis terapéuticas requieren suplementación"
+    ],
+    "search_terms": ["inositol supplement molecule", "anxiety treatment natural", "insulin sensitivity metabolism"],
+    "category": "suplementos"
+  },
+  {
+    "id": 104,
+    "topic": "El test del sitting-rising: la prueba de 5 segundos que predice tu mortalidad",
+    "hook": "Cómo te sientas en el suelo predice cuánto vivirás",
+    "key_points": [
+      "El sitting-rising test (SRT) fue desarrollado por Claudio Gil Araújo — sentarse y levantarse del suelo sin apoyos predice mortalidad a 6 años con alta precisión",
+      "Cada apoyo extra (mano, rodilla) al levantarse multiplica el riesgo de muerte por 1.21 — personas que necesitan 2+ apoyos tienen 6.5 veces más mortalidad (European Journal of Preventive Cardiology, 2014)",
+      "El test mide simultáneamente fuerza, flexibilidad, equilibrio, propiocepción y coordinación — es un 'test integral de fitness funcional' en 10 segundos",
+      "La buena noticia: es entrenable — practicar sentarse y levantarse del suelo 5-10 veces al día mejora la puntuación en 3-6 meses, especialmente en mayores de 50"
+    ],
+    "search_terms": ["sitting rising test fitness", "functional fitness assessment", "mobility test aging"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 105,
+    "topic": "Sulforafano: el compuesto del brócoli más potente que cualquier suplemento",
+    "hook": "El brócoli contiene el antiaging más potente",
+    "key_points": [
+      "El sulforafano es un isotiocianato presente en crucíferas que activa Nrf2, el regulador maestro de más de 200 genes de defensa antioxidante y antiinflamatoria (PNAS, 2004)",
+      "Un estudio de Johns Hopkins (Cancer Prevention Research, 2012) demostró que el sulforafano reduce marcadores de cáncer de mama un 50% e inhibe células madre cancerosas",
+      "Los brotes de brócoli contienen 50-100 veces más sulforafano que el brócoli maduro — la glucorafanina se convierte en sulforafano al masticar o cortar (Universidad de Johns Hopkins, 1997)",
+      "Cocinar brócoli al vapor 3-4 minutos preserva la mirosinasa (enzima convertidora); hervir más de 1 minuto destruye el 90% del sulforafano — añadir mostaza en polvo restaura la enzima"
+    ],
+    "search_terms": ["sulforaphane broccoli sprouts", "cruciferous vegetables health", "Nrf2 pathway science"],
+    "category": "nutrición_ciencia"
+  },
+  {
+    "id": 106,
+    "topic": "Reprogramación Yamanaka: borrar el envejecimiento celular sin borrar la identidad",
+    "hook": "4 genes pueden borrar el envejecimiento de una célula",
+    "key_points": [
+      "Shinya Yamanaka ganó el Nobel 2012 por descubrir que 4 factores (OSKM) reprograman cualquier célula adulta a célula madre — borrando marcas de envejecimiento",
+      "El laboratorio de David Sinclair en Harvard (Nature, 2023) usó 3 de los 4 factores Yamanaka para revertir el envejecimiento ocular en ratones viejos ciegos — recuperaron la vista",
+      "Altos Labs (financiada por Jeff Bezos con 3 mil millones USD) y Calico (Google) investigan reprogramación parcial como terapia antienvejecimiento en humanos",
+      "El desafío: aplicar reprogramación suficiente para rejuvenecer sin llegar a crear células madre (riesgo de tumores) — encontrar el punto medio es el santo grial del antiaging"
+    ],
+    "search_terms": ["Yamanaka factors reprogramming", "cellular rejuvenation science", "stem cell research laboratory"],
+    "category": "antiaging"
+  },
+  {
+    "id": 107,
+    "topic": "Parasomnia y bruxismo: los problemas del sueño que no conoces",
+    "hook": "Tu cuerpo hace cosas extrañas mientras duermes",
+    "key_points": [
+      "Las parasomnias afectan al 10% de la población — incluyen sonambulismo, terrores nocturnos, trastorno de conducta REM y bruxismo (Sleep Medicine Reviews, 2018)",
+      "El bruxismo nocturno afecta al 8-13% de adultos — genera fuerzas de hasta 113kg sobre los dientes (6x más que masticar normal), causa desgaste dental, cefaleas y dolor de ATM",
+      "El trastorno de conducta REM (actuar los sueños) es un predictor temprano de Parkinson — el 80% de pacientes con este trastorno desarrollan Parkinson en 15 años (The Lancet Neurology, 2013)",
+      "El estrés y la ansiedad son los principales desencadenantes de parasomnia — técnicas de higiene del sueño y reducción de estrés son la primera línea de tratamiento"
+    ],
+    "search_terms": ["sleep disorder parasomnia", "bruxism teeth grinding", "sleep behavior disorder"],
+    "category": "sueño_ciencia"
+  },
+  {
+    "id": 108,
+    "topic": "Grasa parda: el tejido que quema calorías para generar calor",
+    "hook": "Un tipo de grasa quema calorías en vez de almacenarlas",
+    "key_points": [
+      "La grasa parda (tejido adiposo marrón) contiene muchas mitocondrias que queman calorías para producir calor — es abundante en bebés pero se pensaba que desaparecía en adultos",
+      "Un estudio de NEJM (2009) descubrió que los adultos mantienen grasa parda funcional — personas con más grasa parda tienen 5 veces menos probabilidad de tener síndrome metabólico",
+      "La exposición regular al frío (19°C, 2h/día durante 6 semanas) aumenta la grasa parda un 42% y el gasto energético un 10% (Journal of Clinical Investigation, 2013)",
+      "El estudio de la Universidad Rockefeller (Nature Medicine, 2021) con 52,000 personas encontró que tener grasa parda detectable reduce riesgo de diabetes un 43%, dislipidemia un 19% e hipertensión un 27%"
+    ],
+    "search_terms": ["brown fat tissue science", "thermogenesis metabolism", "cold exposure adipose tissue"],
+    "category": "longevidad"
+  },
+  {
+    "id": 109,
+    "topic": "Vitamina C y colágeno: por qué Linus Pauling estaba parcialmente correcto",
+    "hook": "Sin vitamina C tu cuerpo se desmorona literalmente",
+    "key_points": [
+      "La vitamina C es cofactor esencial de las enzimas prolil y lisil hidroxilasa — sin ella, el colágeno producido es inestable y el tejido conectivo se desintegra (escorbuto)",
+      "Linus Pauling (2 veces Nobel) propuso megadosis de vitamina C para prevenir resfriados — los metaanálisis de Cochrane (2013) muestran solo un 8% de reducción en duración, no en incidencia",
+      "Sin embargo, tenía razón parcial: la vitamina C a 200-500mg/día reduce estrés oxidativo, mejora función endotelial y es esencial para biosíntesis de carnitina (transporte de ácidos grasos a mitocondrias)",
+      "Fuentes más potentes: guayaba (228mg/100g), pimiento rojo (190mg), kiwi (93mg), fresa (59mg), naranja (53mg) — la cocción destruye el 50-60% de la vitamina C"
+    ],
+    "search_terms": ["vitamin C ascorbic acid", "collagen synthesis biology", "scurvy historical disease"],
+    "category": "suplementos"
+  },
+  {
+    "id": 110,
+    "topic": "Nicoya de Costa Rica: la zona azul más pobre y la segunda más longeva",
+    "hook": "Los campesinos de Nicoya viven más que los millonarios",
+    "key_points": [
+      "La península de Nicoya tiene una tasa de mortalidad a los 90 años un 10% menor que Japón — con un PIB per cápita 5 veces menor (Demographic Research, 2013)",
+      "El agua de Nicoya tiene la mayor concentración de calcio y magnesio de Costa Rica — esto podría explicar parcialmente la baja mortalidad cardiovascular del área",
+      "El 'Plan de Vida' nicoyanense (equivalente al ikigai japonés) es un factor clave — los centenarios mantienen propósito, fe, familia cercana y trabajo físico diario en la milpa (huerta)",
+      "La dieta: frijoles negros, tortilla de maíz nixtamalizado (libera niacina), calabaza, plátano y huevos — rica en fibra, antioxidantes y proteína vegetal de bajo costo"
+    ],
+    "search_terms": ["nicoya costa rica longevity", "blue zone latin america", "centenarian rural life"],
+    "category": "longevidad"
+  },
+  {
+    "id": 111,
+    "topic": "Siesta y salud cardiovascular: la evidencia de dormir 20 minutos al mediodía",
+    "hook": "Siestas de 20 minutos reducen infartos un 37%",
+    "key_points": [
+      "Un estudio griego con 23,000 personas durante 6 años (Archives of Internal Medicine, 2007) encontró que siestas regulares de 20-30 minutos reducen mortalidad coronaria un 37%",
+      "La siesta ideal dura 10-20 minutos — entrar en N2 pero no en N3 (sueño profundo) evita la inercia del sueño, esa sensación de aturdimiento al despertar",
+      "La NASA estudió la siesta en pilotos (1995): 26 minutos de siesta mejoraron rendimiento un 34% y alerta un 54% — el 'NASA nap' se adoptó como protocolo de seguridad aérea",
+      "Siestas de más de 60 minutos se asocian con 30% más riesgo cardiovascular y diabetes — la relación es en forma de J, con el óptimo en 15-30 minutos (European Heart Journal, 2019)"
+    ],
+    "search_terms": ["power nap health benefits", "siesta cardiovascular health", "daytime sleep science"],
+    "category": "sueño_ciencia"
+  },
+  {
+    "id": 112,
+    "topic": "Selenio y tiroides: el mineral traza esencial para tu metabolismo",
+    "hook": "La tiroides necesita selenio más que cualquier órgano",
+    "key_points": [
+      "La tiroides contiene la mayor concentración de selenio por gramo de tejido de todo el cuerpo — necesita selenio para producir las enzimas deiodinasas que activan la hormona tiroidea T3",
+      "Un metaanálisis de The Lancet (2018) con 9 ensayos clínicos demostró que la suplementación de selenio reduce anticuerpos anti-TPO un 36% en tiroiditis de Hashimoto",
+      "La nuez de Brasil es la fuente más concentrada: 1 sola nuez contiene 68-91 mcg de selenio (más que la RDA de 55 mcg) — 2 nueces de Brasil diarias normalizan selenio plasmático en 12 semanas",
+      "El exceso es tóxico: más de 400 mcg/día causa selenosis (pérdida de pelo, uñas quebradizas, fatiga) — el rango terapéutico es estrecho: 55-200 mcg/día"
+    ],
+    "search_terms": ["selenium mineral thyroid", "brazil nut nutrition", "thyroid health function"],
+    "category": "suplementos"
+  },
+  {
+    "id": 113,
+    "topic": "Crossfit vs Calistenia vs Pesas: cuál es mejor para longevidad según la ciencia",
+    "hook": "La ciencia dice cuál ejercicio te hace vivir más",
+    "key_points": [
+      "No existe un tipo de entrenamiento de fuerza superior para longevidad — lo que importa es la adherencia, la progresión y cubrir los patrones de movimiento básicos (BMJ, 2022)",
+      "El metaanálisis más grande (British Journal of Sports Medicine, 2022) encontró que 30-60 min/semana de cualquier entrenamiento de fuerza reduce mortalidad total un 10-17%",
+      "La calistenia tiene ventaja en movilidad y menor riesgo de lesión; las pesas en carga progresiva para densidad ósea; el CrossFit en comunidad y adherencia — pero todos funcionan",
+      "Peter Attia recomienda un enfoque híbrido: zona 2 cardio + fuerza + estabilidad + movilidad — no casarse con un solo método sino cubrir los 4 pilares de fitness funcional"
+    ],
+    "search_terms": ["strength training comparison", "functional fitness workout", "resistance training longevity"],
+    "category": "ejercicio_ciencia"
+  },
+  {
+    "id": 114,
+    "topic": "Loma Linda California: los adventistas que viven 10 años más que sus vecinos",
+    "hook": "Una comunidad de California vive 10 años más",
+    "key_points": [
+      "Los adventistas del séptimo día en Loma Linda viven 7-10 años más que el promedio californiano — es la única zona azul en Norteamérica (Adventist Health Study-2, JAMA Internal Medicine, 2013)",
+      "El 50% de los adventistas son vegetarianos — los veganos adventistas tienen 15% menos mortalidad que los no vegetarianos del mismo grupo (JAMA Internal Medicine, 2013)",
+      "Los adventistas practican el sábado como día de descanso completo (Sabbath) — 24 horas sin trabajo, con naturaleza, familia y comunidad — un 'reset' semanal de estrés",
+      "Factores clave: no fuman, no beben alcohol, dieta basada en plantas, ejercicio regular, comunidad religiosa fuerte y propósito de vida — la combinación es más poderosa que cualquier factor aislado"
+    ],
+    "search_terms": ["loma linda california health", "adventist community longevity", "plant based diet community"],
+    "category": "longevidad"
+  },
+  {
+    "id": 115,
+    "topic": "Taurina: el aminoácido que podría ser clave en el envejecimiento",
+    "hook": "Un estudio de Science dice que la taurina frena la vejez",
+    "key_points": [
+      "Un estudio landmark de Science (2023) demostró que la taurina extiende la vida de ratones un 10-12% y mejora fuerza, memoria, densidad ósea e inmunidad en primates",
+      "Los niveles de taurina caen un 80% con la edad en humanos — los investigadores de Columbia University llaman a la deficiencia de taurina un 'motor del envejecimiento'",
+      "La taurina es el aminoácido libre más abundante en el corazón, cerebro y retina — estabiliza membranas celulares, regula calcio y actúa como antioxidante (Amino Acids, 2019)",
+      "Fuentes alimentarias: mariscos (655mg/100g), carne oscura de pollo (170mg), huevos (14mg) — los veganos tienen niveles un 22% menores que los omnívoros"
+    ],
+    "search_terms": ["taurine amino acid science", "aging research supplement", "longevity molecule study"],
+    "category": "suplementos"
+  },
+  {
+    "id": 116,
+    "topic": "Cáncer y sueño: dormir menos de 6 horas aumenta tu riesgo de tumores",
+    "hook": "Dormir poco aumenta tu riesgo de cáncer",
+    "key_points": [
+      "Un metaanálisis de 5.2 millones de personas (Journal of Clinical Sleep Medicine, 2021) encontró que dormir menos de 6 horas aumenta riesgo de cáncer colorrectal un 36% y de mama un 20%",
+      "La OMS clasificó el trabajo nocturno como probable carcinógeno (Grupo 2A) — las enfermeras con turnos nocturnos de 20+ años tienen 36% más riesgo de cáncer de mama (International Journal of Cancer, 2018)",
+      "El mecanismo: la privación de sueño reduce las células NK (asesinas naturales) un 70% en 24 horas — estas células vigilan y destruyen células precancerosas diariamente (Sleep, 2019)",
+      "La melatonina suprimida por privación de sueño es oncostática (frena tumores) — sin melatonina nocturna, los tumores experimentales crecen 2-3 veces más rápido (Cancer Research, 2005)"
+    ],
+    "search_terms": ["sleep cancer risk research", "night shift health effects", "immune surveillance cancer"],
+    "category": "sueño_ciencia"
+  },
+  {
+    "id": 117,
+    "topic": "Reloj biológico de órganos: cada órgano envejece a ritmo diferente",
+    "hook": "Tus órganos tienen edades diferentes entre sí",
+    "key_points": [
+      "Un estudio de Nature (2023) midió la edad biológica de 11 órganos en 5,676 personas — descubrieron que el 20% tiene al menos un órgano que envejece significativamente más rápido",
+      "El corazón envejecido acelera mortalidad cardíaca 2.5x; el cerebro envejecido aumenta riesgo de Alzheimer 1.8x; el riñón envejecido predice diabetes e hipertensión",
+      "Los investigadores de Stanford usaron proteómica (análisis de 5,000 proteínas plasmáticas) para medir la edad de cada órgano con una sola muestra de sangre",
+      "El hallazgo más sorprendente: el envejecimiento acelerado de un órgano es específico y no necesariamente refleja el envejecimiento del resto — puedes tener un corazón joven pero un cerebro viejo"
+    ],
+    "search_terms": ["organ aging biology", "biological age organs", "proteomics aging research"],
+    "category": "antiaging"
+  },
+  {
+    "id": 118,
+    "topic": "Óxido nítrico: la molécula gaseosa que mantiene tus arterias jóvenes",
+    "hook": "Un gas mantiene tus arterias flexibles y jóvenes",
+    "key_points": [
+      "El óxido nítrico (NO) dilata vasos sanguíneos, previene coágulos y reduce inflamación arterial — su descubrimiento ganó el Nobel de Medicina 1998 (Furchgott, Ignarro, Murad)",
+      "La producción de NO disminuye un 75% entre los 25 y los 70 años — esta caída se correlaciona directamente con rigidez arterial y enfermedad cardiovascular (Circulation Research, 2009)",
+      "La remolacha es la fuente más rica de nitratos que el cuerpo convierte en NO — 500ml de zumo de remolacha reducen presión arterial 5-8 mmHg en 3 horas (Hypertension, 2015)",
+      "El ejercicio aeróbico aumenta la producción endotelial de NO un 30-50% — el estrés de cizallamiento (flujo sanguíneo rápido) en las arterias durante el ejercicio activa la enzima eNOS"
+    ],
+    "search_terms": ["nitric oxide blood vessels", "arterial health circulation", "beetroot juice health"],
+    "category": "longevidad"
+  },
+  {
+    "id": 119,
+    "topic": "Resistencia a insulina: la epidemia silenciosa que afecta al 40% de adultos",
+    "hook": "El 40% de adultos tiene resistencia a insulina sin saberlo",
+    "key_points": [
+      "La resistencia a insulina precede a la diabetes tipo 2 en 10-15 años — el 40% de adultos occidentales la tienen pero la mayoría no está diagnosticada porque la glucosa en ayunas es 'normal' (Cell Metabolism, 2019)",
+      "La insulina en ayunas (no incluida en analíticas estándar) es un marcador 10 años más temprano que la glucosa — valores óptimos: menos de 5 mU/L en ayunas",
+      "Un estudio de Stanford con monitores continuos de glucosa (Cell Metabolism, 2018) reveló que el 80% de personas 'sanas' tienen picos de glucosa superiores a 140 mg/dL",
+      "Revertir la resistencia a insulina: ejercicio (reduce resistencia un 40% en 6 meses), pérdida de grasa visceral (cada 5% de peso perdido mejora sensibilidad un 30%), y evitar carbohidratos refinados aislados"
+    ],
+    "search_terms": ["insulin resistance diagnosis", "prediabetes health screening", "metabolic health blood test"],
+    "category": "longevidad"
+  },
+  {
+    "id": 120,
+    "topic": "Urolitina A: el postbiótico de las granadas que rejuvenece mitocondrias",
+    "hook": "La granada produce una molécula que rejuvenece mitocondrias",
+    "key_points": [
+      "La urolitina A es un metabolito producido cuando las bacterias intestinales fermentan elagitaninos de la granada — activa mitofagia (reciclaje de mitocondrias dañadas)",
+      "Un estudio del EPFL suizo (Nature Metabolism, 2019) demostró que urolitina A mejora la función mitocondrial y la resistencia muscular en ratones envejecidos un 42%",
+      "El primer ensayo clínico en humanos (JAMA Network Open, 2022) con adultos de 40-65 años mostró que 1,000mg/día de urolitina A durante 4 meses mejoró la fuerza muscular y biomarcadores mitocondriales",
+      "El problema: solo el 40% de personas produce urolitina A al comer granada — depende de tener las bacterias intestinales correctas (Gordonibacter urolithinfaciens), el resto necesita suplemento directo"
+    ],
+    "search_terms": ["urolithin A pomegranate", "mitochondria rejuvenation", "postbiotic supplement science"],
+    "category": "suplementos"
+  }
+]
