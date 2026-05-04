@@ -143,6 +143,14 @@ CONTENT_FORMULAS = {
         "Una deducción de la declaración de la renta que el 90% de españoles no aplica: artículo de ley, requisitos y cifra de ahorro",
         "Un truco LEGAL para pagar menos IRPF este año: paso a paso con cifras reales y base legal",
         "Un derecho frente a Hacienda que pocos conocen: qué puedes reclamar, cómo hacerlo y plazo exacto",
+        # MICRO-NICHO 4: Inversión para principiantes
+        "Una forma de invertir desde 10€/mes sin comisiones con nombre de plataforma real y rendimiento histórico",
+        "Un error de inversión que comete el 90% de principiantes con cifra de cuánto dinero pierden por ello",
+        "Una diferencia clave entre dos productos financieros que los bancos no te explican con datos reales",
+        # MICRO-NICHO 5: Trucos bancarios
+        "Un servicio bancario que estás pagando sin necesitarlo con cifra exacta y cómo cancelarlo",
+        "Una cuenta o tarjeta sin comisiones con nombre real del banco y comparativa de ahorro anual",
+        "Un truco para negociar con tu banco que funciona: qué decir exactamente y resultado esperado",
     ],
     "legal": [
         "Un derecho del consumidor específico con artículo de ley y ejemplo de uso real",
