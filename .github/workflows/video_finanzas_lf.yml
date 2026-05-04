@@ -2,9 +2,11 @@ name: "Video: FinanzasClara (Long-Form)"
 
 on:
   schedule:
-    # 3 videos/semana: Lunes, Miércoles, Viernes 14:00 España (12:00 UTC)
+    # 5 videos/semana: Lun-Vie 14:00 España (12:00 UTC)
     - cron: '0 12 * * 1'
+    - cron: '0 12 * * 2'
     - cron: '0 12 * * 3'
+    - cron: '0 12 * * 4'
     - cron: '0 12 * * 5'
   workflow_dispatch:
 

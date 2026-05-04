@@ -1,11 +1,13 @@
-name: "Video: ChillOrbit"
+name: "Video: MindWired"
 
 on:
   schedule:
-    # 2 videos/semana: Lunes, Jueves
-    # (necesita tracks en assets/music/lofi/ — generados manualmente con MusicFX)
-    - cron: '0 18 * * 1'   # Lunes 20:00 España
-    - cron: '0 18 * * 4'   # Jueves 20:00 España
+    # 5 videos/semana: Lun-Vie 18:00 España (16:00 UTC)
+    - cron: '0 16 * * 1'
+    - cron: '0 16 * * 2'
+    - cron: '0 16 * * 3'
+    - cron: '0 16 * * 4'
+    - cron: '0 16 * * 5'
   workflow_dispatch:
 
 jobs:

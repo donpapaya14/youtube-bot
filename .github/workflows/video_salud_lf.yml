@@ -2,9 +2,11 @@ name: "Video: SaludLongevidad (Long-Form)"
 
 on:
   schedule:
-    # 3 videos/semana: Lunes, Miércoles, Viernes 10:00 España (8:00 UTC)
+    # 5 videos/semana: Lun-Vie 10:00 España (8:00 UTC)
     - cron: '0 8 * * 1'
+    - cron: '0 8 * * 2'
     - cron: '0 8 * * 3'
+    - cron: '0 8 * * 4'
     - cron: '0 8 * * 5'
   workflow_dispatch:
 

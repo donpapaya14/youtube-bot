@@ -39,6 +39,9 @@ jobs:
           YT_TOKEN_CHILLORBIT: ${{ secrets.YT_TOKEN_CHILLORBIT }}
           YT_TOKEN_CALMEARTH: ${{ secrets.YT_TOKEN_CALMEARTH }}
           YT_TOKEN_DARKFILES: ${{ secrets.YT_TOKEN_DARKFILES }}
+          YT_TOKEN_SALUD: ${{ secrets.YT_TOKEN_SALUD }}
+          YT_TOKEN_CATBROTHERS: ${{ secrets.YT_TOKEN_CATBROTHERS }}
+          YT_TOKEN_FINANZAS: ${{ secrets.YT_TOKEN_FINANZAS }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}

@@ -1,11 +1,13 @@
-name: "Video: CalmEarth"
+name: "Video: DisasterDecode"
 
 on:
   schedule:
-    # 3 videos/semana: Lunes, Miércoles, Viernes
-    - cron: '0 6 * * 1'   # Lunes 8:00 España
-    - cron: '0 6 * * 3'   # Miércoles 8:00 España
-    - cron: '0 6 * * 5'   # Viernes 8:00 España
+    # 5 videos/semana: Lun-Vie 16:00 España (14:00 UTC)
+    - cron: '0 14 * * 1'
+    - cron: '0 14 * * 2'
+    - cron: '0 14 * * 3'
+    - cron: '0 14 * * 4'
+    - cron: '0 14 * * 5'
   workflow_dispatch:
 
 jobs:
