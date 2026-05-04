@@ -1,0 +1,101 @@
+{
+  "id": 7,
+  "title": "How Coffee Roasting Actually Works (The Science From Green to Brown)",
+  "description": "A green coffee bean smells like hay and tastes like nothing. In 10 to 15 minutes of heat, it transforms into one of the most complex flavor systems in the food world. We explain the exact chemistry of roasting: the Maillard reaction, first crack, second crack, pyrolysis, and why dark roast actually has less caffeine. #coffeeroasting #roastery #coffeescience #Maillard #coffeechemistry #greenbeans #roaster",
+  "tags": ["coffee roasting", "green coffee beans", "roastery", "Maillard reaction", "coffee chemistry", "first crack", "second crack", "dark roast", "light roast", "coffee science", "roast profile", "coffee flavor", "coffee education"],
+  "segments": [
+    {
+      "voice": "Pick up a raw green coffee bean and smell it. It smells like fresh cut grass, hay, and very faintly, something vegetal. It tastes like almost nothing — slightly bitter, slightly vegetal, utterly unremarkable. Now watch what happens when you apply heat. In the span of 10 to 15 minutes, that completely uninteresting seed will undergo over 800 chemical reactions and emerge as one of the most complex flavor systems in the entire food world.",
+      "visual": "green coffee beans raw unroasted smell"
+    },
+    {
+      "voice": "Coffee roasting is essentially controlled pyrolysis — the application of heat in the absence of oxygen sufficient to cause the breakdown and transformation of organic compounds. The roaster's job is not to apply heat uniformly. It's to choreograph a precise sequence of thermal events, each building on the last, to create a specific flavor outcome. Every degree of temperature, every second of timing, every airflow adjustment changes the result.",
+      "visual": "coffee roasting drum machine professional roastery"
+    },
+    {
+      "voice": "Phase one: drying. Green coffee beans contain 8 to 12 percent moisture by weight. The first few minutes of roasting drive off this moisture — the beans are essentially dehydrating. During this phase, very little color change occurs and almost no flavor development happens. But the moisture removal is critical because it sets up the bean's internal structure for the reactions to come. Rush this phase and the rest of the roast will be uneven.",
+      "visual": "coffee bean moisture drying roasting temperature"
+    },
+    {
+      "voice": "Around 250 degrees Fahrenheit, the Maillard reaction begins. This is the same reaction that creates the brown crust on bread, the sear on a steak, the toasty color of a baked cookie. Named after French chemist Louis-Camille Maillard who first described it in 1912, the Maillard reaction occurs when amino acids and reducing sugars interact under heat to produce hundreds of new flavor and aroma compounds called melanoidins.",
+      "visual": "bread crust browning Maillard reaction food science"
+    },
+    {
+      "voice": "The Maillard reaction in coffee is responsible for virtually all the roasty, nutty, caramel, chocolatey, and complex flavors you associate with the beverage. It's an extraordinarily complex cascade — one Maillard product can trigger further reactions with other molecules, creating new compounds in a branching chain of transformation. Coffee researchers have identified over 1,000 volatile compounds produced during roasting, the vast majority formed through Maillard pathways.",
+      "visual": "coffee roasting chemical reactions flavor compounds"
+    },
+    {
+      "voice": "Caramelization happens alongside the Maillard reaction as temperatures climb past 340 degrees Fahrenheit. Simple sugars — sucrose, glucose, fructose — break down and reform into hundreds of new compounds that contribute sweetness, caramel flavor, and some bitterness. During caramelization, sucrose breaks down completely. A dark roast coffee retains essentially zero sucrose — all of it has been transformed into either pleasant caramel compounds or bitter degradation products.",
+      "visual": "sugar caramelization browning pan science"
+    },
+    {
+      "voice": "Then comes First Crack — one of the most dramatic events in the roasting process. At around 385 to 400 degrees Fahrenheit, the steam and CO2 building inside each bean exceed the structural strength of the cell walls. The beans audibly crack — a sound exactly like popcorn popping — as each bean's interior explodes, doubling in size and losing significant density. First crack marks the beginning of the roast range that most roasters consider drinkable.",
+      "visual": "coffee roasting first crack loud sound beans"
+    },
+    {
+      "voice": "A roast pulled immediately after first crack is called a light roast. The beans will be tan to pale brown, dense, bright in acidity, and full of the origin's original character — the fruity, floral, or earthy notes specific to that farm and region. Light roasts are the preference of modern specialty coffee because they preserve what makes the individual bean unique. They also, counterintuitively, contain the most caffeine.",
+      "visual": "light roast coffee beans pale brown specialty"
+    },
+    {
+      "voice": "Wait — light roast has more caffeine than dark roast? Yes. This surprises almost everyone. Caffeine is a thermally stable molecule — it doesn't break down easily under roasting heat. But as beans are roasted longer and darker, they lose mass. The density decreases. By volume, a dark roast scoop contains more beans by count but less coffee by weight, and therefore less caffeine per gram. When comparing equal weights — which is correct — light roasts have more caffeine.",
+      "visual": "caffeine content light dark roast comparison"
+    },
+    {
+      "voice": "Continuing past first crack, the roast enters what professionals call the development phase — the period after first crack ends and before second crack begins. This is the most sensitive part of the entire roast. Small changes in temperature or time during development phase have outsized effects on flavor. A development time of 20 percent of total roast time tends to produce sweet, balanced cups. Longer development creates deeper body; shorter creates brighter but less integrated flavors.",
+      "visual": "coffee roast development phase time temperature"
+    },
+    {
+      "voice": "Around 435 to 450 degrees Fahrenheit comes Second Crack — a second round of audible popping, this time smaller and more rapid, as the cell structure of the bean begins to fragment. Second crack marks the transition into what we call dark roast territory. At this point, many of the delicate aromatic compounds formed during the Maillard reaction begin to vaporize or degrade. The bean's individual origin character is being systematically erased and replaced with roast character.",
+      "visual": "dark roast second crack coffee beans oily"
+    },
+    {
+      "voice": "Continue past second crack and you get espresso roast, French roast, Italian roast — progressively darker, oilier, more bitter, and more carbon-like. At the extreme end, the beans are approaching charcoal. Some Italian roasters go past second crack intentionally, arguing that this profile works best in milk drinks. Specialty coffee professionals generally stop at or before the start of second crack, arguing that anything darker destroys the bean's unique identity.",
+      "visual": "very dark roast French Italian roast oily beans"
+    },
+    {
+      "voice": "The roast profile — a graph of bean temperature over time — is the roaster's primary tool. A fast roast with steep temperature increases is called a fast development curve. A slow roast with gradual temperature increase is a slow-development curve. The same beans roasted on different curves taste dramatically different. A fast profile emphasizes bright acidity. A slow profile develops more body and sweetness. There is no single correct profile — it depends on the bean and the intended flavor outcome.",
+      "visual": "coffee roast profile graph temperature chart"
+    },
+    {
+      "voice": "Charge temperature — the temperature of the drum when green beans are loaded — is one of a roaster's most important variables. Loading cold beans into a very hot drum causes rapid, sometimes uneven initial heating. A lower charge temperature with a slower initial rise gives the roaster more control over the drying phase. Most roasters charge between 350 and 420 degrees Fahrenheit depending on batch size, bean density, and desired profile.",
+      "visual": "roaster loading beans drum charge temperature"
+    },
+    {
+      "voice": "Airflow in the roaster affects both heat transfer and smoke removal. Coffee produces significant amounts of smoke and chaff — the thin paper-like skin that separates during roasting. Too little airflow and smoke deposits phenolic compounds on the beans, creating a 'smoky' or 'ashy' off-flavor. Too much airflow and convective cooling slows heat transfer, extending roast time unpredictably. Airflow management is as important as temperature management.",
+      "visual": "coffee roaster airflow smoke drum ventilation"
+    },
+    {
+      "voice": "After roasting, the beans must be cooled rapidly — typically to near room temperature within 2 to 3 minutes. If beans cool slowly, they continue to roast via stored heat — called 'baking' — which destroys the bright acidity and produces a flat, dull flavor. Professional roasters use a combination of airflow and water misting (adding about 2 percent water by weight) to achieve rapid cooling. Home drum roasters often lack this rapid cooling capability.",
+      "visual": "coffee beans cooling after roasting quick cool"
+    },
+    {
+      "voice": "Degassing is the hidden post-roast process most people don't know about. Freshly roasted coffee contains enormous amounts of CO2 trapped inside bean cells — produced during roasting. These gases escape slowly over 24 to 72 hours. If you brew too-fresh coffee, the CO2 creates turbulence in the extraction, channeling water unevenly through the grounds. This is why most roasters recommend waiting 2 to 5 days after roasting before brewing espresso, and 24 hours for pour-over.",
+      "visual": "coffee degassing valve bag fresh roasted CO2"
+    },
+    {
+      "voice": "The one-way valve on specialty coffee bags is specifically designed to manage degassing. The valve lets CO2 out but prevents oxygen from getting in. Oxygen is coffee's primary enemy post-roast — it triggers oxidation of aromatic compounds, creating rancidity and stale flavors. A coffee in an oxygen-sealed bag with a one-way valve stays fresh significantly longer than coffee in an open container or a bag without a valve.",
+      "visual": "coffee bag one way valve specialty packaging"
+    },
+    {
+      "voice": "Home coffee roasting has become a genuine hobby movement. From simple popcorn-popper roasting to dedicated drum roasters like the Behmor, home roasters can now achieve consistent results with green beans purchased directly from importers. Green beans cost 3 to 8 dollars per pound — a fraction of roasted specialty coffee prices. The trade-off is time, learning curve, and the inevitable batch of accidentally burned beans.",
+      "visual": "home coffee roasting popcorn popper hobby"
+    },
+    {
+      "voice": "The world's most respected roasters — Counter Culture, Intelligentsia, Stumptown, Tim Wendelboe — have developed what could fairly be called a scientific methodology. Every roast batch is logged, tasted, scored, and compared against previous batches. When a new crop arrives with a slightly different moisture content or density than the previous year, the profile is adjusted. The best roasters treat roasting the way winemakers treat vinification — as an interpretive act guided by science.",
+      "visual": "specialty coffee roastery professional quality control"
+    },
+    {
+      "voice": "Climate change is beginning to affect roasting in unexpected ways. Beans from the same farms, same varieties, but grown under increasingly stressful conditions — higher temperatures, more erratic rainfall — arrive with different density and moisture profiles year over year. Roasters who have roasted a particular origin for a decade are finding their established profiles no longer work. Roasting is adapting in real time to a changing agricultural reality.",
+      "visual": "climate change coffee farm drought weather impact"
+    },
+    {
+      "voice": "From a 10-minute-old green bean to the cup in your hand, coffee undergoes a transformation so chemically complex that food scientists have spent entire careers studying individual aspects of it. Over 800 reactions. Over 1,000 volatile compounds. One drink. And at the end of all that chemistry — a 30-cent cup that 2.5 billion people consume every single day without giving it a second thought.",
+      "visual": "coffee cup simple morning beautiful warm"
+    },
+    {
+      "voice": "Next time you open a fresh bag of coffee and smell that rush of aromatics — that combination of roasty sweetness, fruit, and complexity — remember what you're smelling: the result of a thousand chemical reactions carefully orchestrated by a human being who has spent years learning to control heat. That's not a commodity. That's craft.",
+      "visual": "opening fresh coffee bag aroma smell roasted"
+    }
+  ],
+  "thumbnail_text": "GREEN TO PERFECT"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "CashCafe",
+  "handle": "@cashcafe",
+  "type": "longform",
+  "content_type": "narrated_educational",
+  "language": "en",
+  "niche": "Coffee science, brewing mastery, café culture, and the global coffee industry explained",
+  "tone": "Warm, knowledgeable, like a passionate barista sharing secrets — documentary style with personality",
+  "duration_minutes": 12,
+  "format": "landscape",
+  "topics": [
+    "coffee extraction science",
+    "espresso vs filter brewing methods",
+    "history of coffee from Ethiopia",
+    "how coffee roasting works",
+    "best hidden coffee shops Europe",
+    "water chemistry for coffee",
+    "latte art science and technique",
+    "coffee farm to cup process",
+    "decaf coffee science",
+    "cold brew vs iced coffee"
+  ],
+  "style": {
+    "primary_color": "#78350F",
+    "secondary_color": "#D97706",
+    "text_color": "#FFFFFF"
+  },
+  "refresh_token_env": "YT_TOKEN_CASHCAFE",
+  "category_id": "26",
+  "default_tags": ["coffee", "espresso", "brewing", "barista", "coffee science", "cafe culture", "specialty coffee", "coffee guide"],
+  "thumbnail_style": "warm coffee tones, close-up espresso, steam, cozy lighting, editorial feel",
+  "voice": "en-US-GuyNeural",
+  "web_url": "https://cashcafe.es",
+  "cta_description": "\n\n☕ Full guide: https://cashcafe.es\n📩 Weekly newsletter: one café every Saturday\n👍 Subscribe & hit 🔔"
+}

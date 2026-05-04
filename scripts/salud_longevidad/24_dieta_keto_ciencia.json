@@ -1,0 +1,69 @@
+{
+  "id": 24,
+  "title": "Dieta Keto: Lo Que Funciona, Lo Que No, y Lo Que Te Ocultan",
+  "description": "Analizamos la evidencia científica real sobre la dieta cetogénica: epilepsia, pérdida de peso, diabetes tipo 2, rendimiento cognitivo y riesgos. Sin marketing, solo datos.",
+  "tags": ["dieta keto", "cetogénica", "pérdida de peso", "cetosis", "diabetes", "epilepsia", "carbohidratos", "grasas", "metabolismo", "ciencia nutricional"],
+  "thumbnail_text": "KETO VERDAD COMPLETA",
+  "segments": [
+    {
+      "voice": "La dieta keto es uno de los fenómenos nutricionales más polarizantes de los últimos años. Para unos es la solución a todos los males, para otros es un camino directo al infarto. La realidad, como casi siempre en ciencia nutricional, es bastante más matizada. Vamos a ver qué dice la evidencia real, separando los casos donde funciona de aquellos donde el marketing supera a los datos.",
+      "visual": "ketogenic diet food avocado eggs meat low carb nutrition"
+    },
+    {
+      "voice": "La dieta cetogénica no es nueva. Fue desarrollada en 1921 en la Clínica Mayo por el médico Russell Wilder como tratamiento para la epilepsia infantil refractaria, es decir, resistente a medicamentos. En aquella época no existían los fármacos antiepilépticos modernos y la dieta era literalmente la única opción para algunos niños. Hoy, un siglo después, sigue siendo el uso con mayor evidencia científica.",
+      "visual": "epilepsy treatment hospital pediatric medicine brain seizures"
+    },
+    {
+      "voice": "¿Qué es la cetosis? Cuando reduces los carbohidratos a menos de 50 gramos diarios, el cuerpo agota el glucógeno hepático en 24 a 48 horas. Sin glucosa disponible, el hígado comienza a sintetizar cuerpos cetónicos a partir de ácidos grasos: principalmente beta-hidroxibutirato, acetoacetato y acetona. El cerebro, que normalmente prefiere glucosa, puede usar beta-hidroxibutirato como combustible alternativo con gran eficiencia.",
+      "visual": "ketosis metabolism liver fatty acid ketone bodies biochemistry"
+    },
+    {
+      "voice": "Para epilepsia, la evidencia es sólida. Un metaanálisis de 2020 en Cochrane que revisó 11 ensayos controlados con 932 niños encontró que el 57 por ciento de los pacientes en dieta cetogénica presentaron una reducción de más del 50 por ciento en la frecuencia de convulsiones, comparado con el 14 por ciento en el grupo control. En un 10 por ciento de los casos, las convulsiones desaparecieron completamente. La Academia Americana de Neurología la recomienda como segunda línea tras los fármacos.",
+      "visual": "epilepsy child brain treatment seizure reduction medical"
+    },
+    {
+      "voice": "Para la pérdida de peso, la keto funciona a corto plazo, pero no por razones mágicas. Un metaanálisis de 2022 en el British Medical Journal con 61 ensayos y 6.925 participantes mostró que la keto produce mayor pérdida de peso que las dietas bajas en grasa a los 6 meses, pero esa diferencia se elimina completamente al año. La ventaja inicial se debe principalmente a la pérdida de glucógeno y agua, no solo grasa.",
+      "visual": "weight loss scale body fat measurement diet comparison results"
+    },
+    {
+      "voice": "El mecanismo de pérdida de peso real en keto no es la cetosis mágica. Es principalmente el mayor efecto saciante de las proteínas y las grasas, que reduce el apetito y la ingesta calórica espontánea. Un ensayo controlado de 2021 en Cell Metabolism demostró que sujetos en keto comían de media 700 calorías menos al día sin intentarlo, simplemente porque tenían menos hambre. La restricción calórica involuntaria es la clave.",
+      "visual": "appetite satiety hunger hormones ghrelin leptin food intake"
+    },
+    {
+      "voice": "Para diabetes tipo 2, los resultados son notables. Un ensayo de 2019 en Diabetes Therapy con 262 pacientes siguió dos grupos durante un año. El grupo en dieta muy baja en carbohidratos redujo la hemoglobina glicosilada HbA1c en 1,3 puntos porcentuales y el 60 por ciento pudo reducir o eliminar la medicación. El grupo de dieta estándar redujo 0,5 puntos. La diferencia es clínicamente significativa.",
+      "visual": "diabetes type 2 blood sugar monitoring insulin glycemic control"
+    },
+    {
+      "voice": "Para el cerebro y el Alzheimer, la keto genera hipótesis interesantes pero evidencia aún limitada. El cerebro con Alzheimer muestra una resistencia a la glucosa similar a la diabetes tipo 3, término que algunos investigadores usan. Los cuerpos cetónicos evitan esa resistencia. Un estudio piloto de 2020 con 26 pacientes con deterioro cognitivo leve mostró mejoras en memoria y función ejecutiva tras 12 semanas de keto. Pero los estudios son pequeños y de corta duración.",
+      "visual": "Alzheimer brain cognitive function memory ketones research"
+    },
+    {
+      "voice": "Para el rendimiento deportivo de alta intensidad, la keto tiene limitaciones reales. Los músculos necesitan glucosa para esfuerzos anaeróbicos intensos como sprints, levantamiento de pesas pesado o deportes de equipo. Un estudio de 2017 en el Journal of Sports Medicine con atletas de élite en cetosis mostró un 8 por ciento de reducción en el rendimiento en ejercicios de alta intensidad. La keto funciona mejor para deportes de resistencia larga distancia con intensidad moderada.",
+      "visual": "athlete performance high intensity training sprint endurance sport"
+    },
+    {
+      "voice": "Los riesgos no son triviales. El perfil lipídico es el más debatido. Un metaanálisis de 2023 en Current Problems in Cardiology con 41 estudios mostró que la keto aumenta el LDL colesterol en promedio un 35 por ciento. En la mayoría, también aumenta el HDL y reduce los triglicéridos, lo que puede ser neutral o beneficioso. Pero en un subgrupo de personas, los llamados hiperrespondedores, el LDL sube de forma extrema, aumentando el riesgo aterosclerótico.",
+      "visual": "cholesterol LDL HDL blood lipids cardiovascular risk testing"
+    },
+    {
+      "voice": "El microbioma intestinal es otro punto crítico. Un estudio de 2022 en Cell Host and Microbe analizó las heces de 38 adultos sanos antes y después de 3 meses de keto estricta. Los resultados mostraron una reducción significativa en la diversidad bacteriana, específicamente en especies productoras de butirato como Bifidobacterium y Lactobacillus, asociadas con salud intestinal y protección frente a cáncer colorrectal.",
+      "visual": "gut microbiome bacteria intestinal health diet microbiota"
+    },
+    {
+      "voice": "Los efectos secundarios comunes en las primeras semanas incluyen lo que se conoce como gripe keto: fatiga, dolor de cabeza, irritabilidad, calambres musculares y niebla mental. Ocurre por la pérdida de electrolitos asociada a la reducción de glucógeno. Suelen desaparecer en 1 a 2 semanas y se atenúan con buena hidratación y suplementación de sodio, potasio y magnesio.",
+      "visual": "keto flu symptoms fatigue headache electrolytes dehydration"
+    },
+    {
+      "voice": "¿Para quién tiene más sentido la keto? La evidencia más sólida la respalda para epilepsia refractaria, diabetes tipo 2 con seguimiento médico y pérdida de peso a corto plazo en personas que toleran bien la restricción de carbohidratos. Para el resto de personas sanas sin patología específica, no hay evidencia de que supere a una dieta mediterránea o a cualquier patrón alimentario que incluya proteína suficiente, fibra y restricción de ultraprocesados.",
+      "visual": "balanced nutrition diet comparison Mediterranean food healthy eating"
+    },
+    {
+      "voice": "La gran trampa del marketing keto es presentarla como un estado metabólico superior para todos. La ciencia dice que es una herramienta clínica potente en contextos específicos, con riesgos reales a largo plazo que no se mencionan en los blogs de bienestar. Como cualquier dieta restrictiva, la adherencia a largo plazo es baja. Los estudios con seguimiento de 2 años o más muestran que la mayoría abandona antes de completarlos.",
+      "visual": "diet adherence long-term compliance nutrition research real world"
+    },
+    {
+      "voice": "La nutrición no es una guerra entre dietas. La keto tiene casos de uso reales y bien documentados. También tiene limitaciones y riesgos que hay que conocer. Si tienes diabetes tipo 2, habla con tu médico. Si tienes epilepsia refractaria, es una opción seria. Si eres una persona sana que quiere perder peso, los datos no demuestran que sea superior a largo plazo a cualquier patrón alimentario que mantengas de verdad y que incluya comida real.",
+      "visual": "personalized nutrition health goals individual diet lifestyle"
+    }
+  ]
+}

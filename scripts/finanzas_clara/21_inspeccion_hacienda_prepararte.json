@@ -1,0 +1,73 @@
+{
+  "id": 21,
+  "title": "Inspección de Hacienda — Qué Miran y Cómo Prepararte Antes de que Lleguen",
+  "description": "Descubre cómo funciona una inspección tributaria en España, qué indicadores usa Hacienda para seleccionarte, cuáles son tus derechos y cómo preparar la documentación para salir sin sanción.",
+  "tags": ["inspeccion hacienda españa", "comprobacion tributaria", "derechos contribuyente", "hacienda autonomos", "carta hacienda", "procedimiento inspector", "ley general tributaria"],
+  "thumbnail_text": "Hacienda llama — qué hacer",
+  "segments": [
+    {
+      "voice": "Recibir una carta de la Agencia Tributaria provoca pánico en muchas personas, pero no siempre tiene por qué. Hay diferentes tipos de actuaciones, desde un simple requerimiento de información hasta una inspección formal. Entender la diferencia, conocer tus derechos y saber qué documentación preparar es lo que separa a quien sale de una inspección sin problemas de quien acaba pagando sanciones que podría haber evitado. Hoy te explico exactamente qué pasa en una inspección de Hacienda.",
+      "visual": "Hacienda Spain tax inspection letter envelope warning official"
+    },
+    {
+      "voice": "Los tres tipos de actuaciones de la AEAT. Primero, la comprobación limitada, que es la más habitual. Hacienda te pide información sobre declaraciones concretas sin acudir a tu domicilio. Segundo, el procedimiento de verificación de datos, que revisa errores formales en tus declaraciones. Tercero, la inspección tributaria propiamente dicha, la más seria, donde un inspector puede visitar tu negocio, solicitar toda tu contabilidad y revisar varios ejercicios. Cada tipo tiene sus propios plazos y efectos según los artículos 136 a 175 de la Ley General Tributaria.",
+      "visual": "Spain tax audit types limited check data verification full inspection"
+    },
+    {
+      "voice": "¿Cómo te selecciona Hacienda para una inspección? La AEAT usa modelos estadísticos y cruces de información. Los criterios más documentados incluyen: grandes diferencias entre ingresos declarados e indicadores externos, gastos deducidos muy elevados en proporción a los ingresos, IVA repercutido que no cuadra con el declarado, operaciones con empresas en paraísos fiscales, y declaraciones de la renta con importes llamativamente bajos para el sector en el que operas. También se cruzan datos de informaciones de terceros, de bancos y de entidades financieras.",
+      "visual": "tax selection criteria Spain AEAT algorithm risk analysis data"
+    },
+    {
+      "voice": "Las declaraciones informativas que alimentan el sistema. Hacienda cruza constantemente datos. El modelo 347 obliga a informar sobre operaciones con terceros superiores a 3.005,06 euros anuales. El modelo 190 es el resumen de retenciones sobre rentas del trabajo. Los bancos informan sobre movimientos significativos. Las plataformas de venta online como Wallapop o Amazon también deben informar a Hacienda de vendedores que superan ciertos umbrales según la Directiva DAC7 transpuesta en 2023.",
+      "visual": "Spain tax information cross-check modelo 347 bank data third parties"
+    },
+    {
+      "voice": "Señales de riesgo que aumentan la probabilidad de inspección. Módulos o estimación objetiva con cuotas muy bajas. Actividad donde los gastos en efectivo son habituales, como hostelería o construcción. Autónomos que siempre salen muy cercanos a cero en sus declaraciones trimestrales. Empresas que no tienen empleados pero facturan varios cientos de miles de euros. Cambios bruscos de ingresos sin explicación aparente. No presentar algún modelo obligatorio y luego regularizarlo tarde.",
+      "visual": "Spain tax risk indicators autonomo flag inspection probability"
+    },
+    {
+      "voice": "Tus derechos ante una inspección. El artículo 34 de la Ley General Tributaria recoge la Carta de Derechos del Contribuyente. Tienes derecho a ser informado del alcance y naturaleza de la actuación. Derecho a actuar asistido por asesor fiscal. Derecho a que la inspección no dure más de 18 meses, ampliables a 27 en casos complejos, según el artículo 150 LGT. Derecho a no aportar documentación que no te hayan pedido expresamente. Y derecho a que el procedimiento se paralice si hay error de forma en la notificación.",
+      "visual": "taxpayer rights Spain legal protection Hacienda inspection constitution"
+    },
+    {
+      "voice": "Qué hacer cuando recibes una notificación. Paso uno: lee con atención el tipo de actuación y el plazo de respuesta. Los plazos suelen ser de 10 días hábiles para comprobaciones limitadas y requerimientos. Paso dos: no respondas impulsivamente sin revisar la documentación solicitada. Paso tres: contrata a un asesor fiscal si el importe en juego es significativo. El coste de un asesor en un procedimiento puede ser muchísimo menor que la sanción o la deuda resultante de una mala defensa.",
+      "visual": "Spain tax notification response process steps advisor legal"
+    },
+    {
+      "voice": "Documentación que debes tener siempre preparada. Las facturas emitidas y recibidas de los últimos cuatro años. Los libros de registro obligatorios: libro de facturas emitidas, libro de facturas recibidas y libro de bienes de inversión. Los modelos trimestrales presentados. Los justificantes de gastos deducidos. Los contratos con clientes y proveedores principales. Y el certificado de estar al corriente con la Seguridad Social. El plazo de prescripción tributaria es de cuatro años desde el artículo 66 LGT, así que guarda todo ese tiempo.",
+      "visual": "Spain tax documentation archive four years records organized files"
+    },
+    {
+      "voice": "Los libros de registro obligatorios para autónomos. En estimación directa simplificada, los artículos 68 y 69 del Reglamento IRPF y el artículo 69 del Reglamento IVA obligan a llevar libro de ingresos y ventas, libro de gastos e inversiones, libro de bienes de inversión y, si hay empleados, libro de retenciones. Estos libros no hay que presentarlos a Hacienda de forma ordinaria, pero en una inspección o comprobación deben aportarse de inmediato. Si no los llevas, eso de por sí es una infracción tributaria.",
+      "visual": "Spain accounting books autonomo registro obligatorio income expenses ledger"
+    },
+    {
+      "voice": "Las sanciones tributarias: tipos y cuantías. El artículo 191 LGT regula las infracciones por dejar de ingresar deuda tributaria. La sanción base para una infracción leve es el 50% de la cuota defraudada. Para infracciones graves, que implican ocultación, la sanción sube al 100%. Para muy graves, fraude con medios fraudulentos, hasta el 150%. A estas sanciones se añaden los intereses de demora, que en 2026 están al 5,5% anual. Si presentas regularización voluntaria antes de que Hacienda actúe, las sanciones se reducen significativamente.",
+      "visual": "Spain tax penalty amounts leve grave muy grave LGT sanction"
+    },
+    {
+      "voice": "La regularización voluntaria: cuando conviene adelantarse. Si detectas un error en una declaración ya presentada, presentar una declaración complementaria voluntariamente antes de recibir ninguna notificación evita las sanciones del artículo 191 LGT. Solo pagas la deuda más el recargo por presentación extemporánea, que va del 1% al 15% según el tiempo transcurrido, más intereses. Comparado con el 50% de sanción mínima más intereses si Hacienda lo descubre ella, la regularización voluntaria siempre sale mejor.",
+      "visual": "voluntary tax regularization Spain complementary declaration early"
+    },
+    {
+      "voice": "El acta de inspección: qué significa cada tipo. Al finalizar una inspección, el inspector emite un acta. Acta de conformidad: estás de acuerdo con los resultados, pagas la deuda con una reducción del 30% en la sanción según el artículo 188 LGT. Acta de disconformidad: no estás de acuerdo, puedes recurrir. Acta con acuerdo: pactas con el inspector los términos, con reducción del 50% en sanción. En la mayoría de casos, llegar a un acuerdo o firmar en conformidad es financieramente mejor que recurrir, salvo que el error sea claro.",
+      "visual": "Spain tax inspection act agreement disagreement procedure document"
+    },
+    {
+      "voice": "Cómo preparar una defensa fiscal efectiva. Si recibes un requerimiento por gastos que consideras legítimos, la defensa se basa en tres pilares: justificación documental, vinculación con la actividad y jurisprudencia aplicable. Recoge las facturas completas, contratos, emails que demuestren la relación comercial. Busca consultas vinculantes de la DGT favorables a tu posición. Y si hay jurisprudencia del Tribunal Económico-Administrativo Central, el TEAC, o del Tribunal Supremo en tu favor, cítala en tus alegaciones.",
+      "visual": "Spain tax defense documentation legal jurisprudence TEAC Supreme Court"
+    },
+    {
+      "voice": "Plazos para recurrir resoluciones de Hacienda. Si no estás de acuerdo con la resolución de una comprobación, tienes varias opciones. Reclamación económico-administrativa ante el TEAR, Tribunal Económico-Administrativo Regional, en el plazo de un mes desde la notificación. Si el TEAR te da la razón, no pagas nada. Si no, puedes recurrir ante el TEAC o ante la vía contencioso-administrativa. Estos procesos son largos, pero si el importe es alto y hay argumentos sólidos, pueden compensar.",
+      "visual": "Spain tax appeal TEAR TEAC administrative tribunal process timeline"
+    },
+    {
+      "voice": "Herramientas para reducir el riesgo de inspección. Usa software de contabilidad y facturación que genere automáticamente los modelos tributarios. Presenta siempre en plazo y de forma correcta. No deduzcas gastos dudosos sin consultar. Guarda justificantes detallados de los gastos más elevados. Ten coherencia entre los modelos de IVA, los pagos fraccionados de IRPF y la declaración anual de la renta. Y si facturas más de 600.000 euros anuales, considera el SII, Suministro Inmediato de Información, que ya es obligatorio para grandes empresas.",
+      "visual": "Spain tax risk reduction software accounting compliance autonomo"
+    },
+    {
+      "voice": "Resumen práctico. Hacienda inspecciona a quien tiene inconsistencias en sus declaraciones, gastos elevados sin justificación o ingresos muy bajos para su sector. Tus derechos son sólidos: plazo máximo de inspección, derecho a asesor, derecho a recurrir. Mantén siempre tus libros de registro actualizados y guarda facturas cuatro años. Si detectas un error, regulariza voluntariamente antes de recibir notificación. Y ante cualquier actuación, acude con asesor fiscal. La inversión en asesoramiento en momentos críticos siempre vale más que su coste.",
+      "visual": "Spain tax inspection summary preparation rights autonomo checklist"
+    }
+  ]
+}

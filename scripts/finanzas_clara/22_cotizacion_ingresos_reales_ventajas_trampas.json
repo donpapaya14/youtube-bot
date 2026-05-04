@@ -1,0 +1,73 @@
+{
+  "id": 22,
+  "title": "Cotización por Ingresos Reales para Autónomos — Ventajas Reales y Trampas Ocultas",
+  "description": "El nuevo sistema de cotización por ingresos reales prometía ser más justo para los autónomos. Analizamos sus ventajas reales, las trampas que nadie te cuenta y cómo sacarle partido.",
+  "tags": ["cotizacion ingresos reales autonomos", "nuevo sistema cotizacion", "real decreto 13/2022", "tramos cotizacion autonomo", "pension autonomo", "cuota autonomos reforma", "cotizacion justa autonomos"],
+  "thumbnail_text": "El sistema que nadie te explica",
+  "segments": [
+    {
+      "voice": "En 2023 España cambió radicalmente cómo cotizan los autónomos a la Seguridad Social. El nuevo sistema, aprobado en el Real Decreto-ley 13/2022, vincula la cuota mensual a los ingresos reales netos. Se prometió que sería más justo, que los que ganan poco pagarán menos y los que ganan mucho pagarán más. Pero como siempre en fiscalidad, el diablo está en los detalles. Hoy analizamos qué ventajas son reales, qué trampas tiene el sistema y cómo gestionarlo para no llevarte sorpresas.",
+      "visual": "Spain autonomo reform 2023 social security real income system change"
+    },
+    {
+      "voice": "La promesa del sistema: cotización proporcional a los ingresos. Antes de 2023, más del 85% de los autónomos cotizaban por la base mínima con independencia de sus ingresos reales. Un autónomo que ganaba 5.000 euros al mes pagaba la misma cuota que uno que ganaba 700 euros. El nuevo sistema establece 15 tramos de rendimiento neto mensual, desde menos de 670 euros hasta más de 6.000 euros, con cuotas que van de 225 a 590 euros al mes en 2026. La idea es redistributiva y correcta en principio.",
+      "visual": "comparison old new contribution system Spain autonomo fairness reform"
+    },
+    {
+      "voice": "Ventaja uno: quienes ganan poco pagan menos. Si tu rendimiento neto mensual es inferior a 670 euros, tu cuota es de 225,83 euros en 2026, frente a los 294 euros de cuota mínima que se pagaban en 2022 antes de la reforma. Para un autónomo con ingresos bajos, eso son casi 70 euros al mes de ahorro, más de 800 euros al año. Especialmente relevante para emprendedores en fases tempranas, creativos, artistas y trabajadores de plataformas con ingresos irregulares.",
+      "visual": "Spain autonomo low income benefit lower social security quota 2026"
+    },
+    {
+      "voice": "Ventaja dos: la flexibilidad de cambiar de tramo. Puedes ajustar tu base de cotización hasta seis veces al año. Si tienes un mes de octubre muy flojo porque eres fotógrafo de bodas y la temporada ha terminado, puedes bajar el tramo en noviembre. Esta flexibilidad no existía antes. Los plazos para cambiar son el primero de marzo, mayo, julio, septiembre, noviembre y enero. El cambio tiene efecto desde el primer día del mes siguiente al de la solicitud.",
+      "visual": "Spain autonomo flexible contribution change six times year calendar"
+    },
+    {
+      "voice": "Ventaja tres: mayor protección social para quien cotiza bien. Si cotizas por un tramo alto, tu prestación por incapacidad temporal será mayor. Tu pensión de jubilación será más alta. La prestación por cese de actividad, el paro del autónomo, se calcula sobre la base de cotización promedio de los doce meses anteriores. Para un autónomo que gana bien y cotiza por ingresos reales en el tramo correspondiente, la protección social mejora significativamente respecto al sistema anterior.",
+      "visual": "Spain higher social protection autonomo pension sick leave better benefits"
+    },
+    {
+      "voice": "Trampa uno: el cálculo del rendimiento neto es confuso. Para determinar en qué tramo estás, debes calcular tu rendimiento neto anual previsto y dividirlo entre doce. Pero el rendimiento neto incluye descontar la propia cuota de autónomos del año. Es un cálculo circular: tu cuota depende de tu rendimiento neto, pero el rendimiento neto depende de la cuota que descuentas. Esto genera confusión. La solución es usar las calculadoras de la Seguridad Social que resuelven el bucle matemático automáticamente.",
+      "visual": "Spain autonomo contribution calculation confusion circular formula net income"
+    },
+    {
+      "voice": "Trampa dos: la regularización anual puede ser una sorpresa desagradable. Al final del año, la Tesorería cruza tus cotizaciones con los datos del IRPF. Si has cotizado por un tramo bajo pero declaras más ingresos de los esperados, recibirás una liquidación adicional. Esa liquidación puede llegar hasta un año y medio después de que acabó el ejercicio. Si no has provisionado ese dinero, puede ser un golpe de tesorería importante. Provisiona siempre un 5-10% extra sobre la cuota que pagas por si acaso.",
+      "visual": "Spain social security annual regularization surprise payment autonomo debt"
+    },
+    {
+      "voice": "Trampa tres: ingresos irregulares y la estimación anual. Si tienes ingresos muy variables, como un autónomo de proyectos que a veces cobra 0 y otros meses cobra 10.000 euros, es difícil estimar correctamente el tramo. Si cotizas bajo para cubrirte ante meses malos y luego el año resulta bueno, pagas la regularización. Si cotizas alto para no tener problemas y el año resulta malo, pierdes dinero esperando la devolución durante meses. No hay fórmula perfecta, pero monitorizar tus ingresos mensualmente ayuda a ajustar el tramo oportunamente.",
+      "visual": "Spain irregular income freelancer contribution uncertainty monthly tracking"
+    },
+    {
+      "voice": "Trampa cuatro: la devolución puede tardar mucho. Si has cotizado de más porque tus ingresos resultaron menores de los estimados, tienes derecho a la devolución. Pero la Seguridad Social tiene hasta el segundo semestre del año siguiente para procesarla. En la práctica, si cerraste el año con ingresos bajos en diciembre, puedes esperar hasta septiembre o incluso noviembre del año siguiente para recibir la devolución. Un autónomo con problemas de liquidez no puede contar con esa devolución para sus cuentas corrientes.",
+      "visual": "Spain social security refund delay autonomo cash flow waiting"
+    },
+    {
+      "voice": "Trampa cinco: el impacto en la pensión de cotizar siempre por el mínimo. El sistema anterior permitía que un autónomo con ingresos altos cotizara por la base mínima, pagando menos cuota pero construyendo una pensión paupérrima. Con el nuevo sistema eso sigue siendo posible pero se desincentiva porque cotizar bajo es más difícil de justificar si tus ingresos en IRPF son altos. Hacienda y Seguridad Social comparten información. Si declaras 50.000 euros al año en IRPF pero cotizas por el tramo más bajo, eso genera una discrepancia que la Tesorería revisará.",
+      "visual": "Spain pension impact low contribution autonomo future income discrepancy"
+    },
+    {
+      "voice": "Cómo optimizar el sistema: estrategia para autónomos con ingresos variables. Si tienes meses de ingresos altos concentrados, como en verano o en campaña navideña, una estrategia útil es: cotizar por el tramo que corresponde a tu promedio anual durante todo el año en lugar de intentar cambiar cada dos meses. Los cambios frecuentes generan carga administrativa y el beneficio marginal es menor de lo esperado. Calculando bien el tramo promedio anual, la regularización final es pequeña o nula.",
+      "visual": "Spain autonomo annual income strategy contribution optimization planning"
+    },
+    {
+      "voice": "El impacto acumulado a 20 años: la diferencia entre cotizar bien y mal. Ejemplo comparativo. Autónomo A: ingresos netos de 25.000 euros anuales, cotiza siempre por la base mínima durante 20 años. Pensión estimada: 450 euros al mes. Autónomo B: mismos ingresos, cotiza por el tramo correcto. Cuota media: 340 euros al mes. Pensión estimada: 900 euros al mes. La diferencia es 450 euros al mes de pensión, multiplicados por 20 años de jubilación, son 108.000 euros. La diferencia de cuota pagada fue de unos 26.000 euros en 20 años. Sale a cuenta cotizar correctamente.",
+      "visual": "Spain pension comparison 20 years correct contribution vs minimum simulation"
+    },
+    {
+      "voice": "Situaciones especiales: socios de sociedades limitadas que cobran como autónomos. Los socios que controlan más del 50% de una SL y trabajan en ella cotizan como autónomos, no como asalariados. El nuevo sistema se aplica igual a ellos. Su rendimiento neto se calcula a partir del resultado de la sociedad atribuible al socio, no solo de lo que se pagan como salario. Esto es importante porque muchos socios-administradores se pagaban salarios bajos para cotizar menos, una estrategia que ahora es más difícil de sostener.",
+      "visual": "Spain SL company partner autonomo RETA contribution calculation"
+    },
+    {
+      "voice": "Autónomos societarios y la nueva vigilancia de la Tesorería. La Tesorería ha incrementado los cruces de información con el Registro Mercantil para detectar socios de SL que cotizan por debajo de su capacidad real. Si eres socio controlador de una SL con facturación de 200.000 euros y cotizas por el tramo mínimo, es una señal de alerta para la Tesorería. No significa inspección automática, pero la coherencia entre lo que factura la empresa y lo que cotiza el socio es cada vez más importante.",
+      "visual": "Spain SL partner contribution TGSS data cross-check mercantil registry"
+    },
+    {
+      "voice": "Herramientas prácticas para gestionar el sistema. La web import@ss de la Seguridad Social en ss.gob.es permite ver tu tramo actual, solicitar cambio de tramo, consultar el historial de bases y calcular la regularización estimada. También puedes solicitar un informe de vida laboral actualizado para verificar que tus cotizaciones se están registrando correctamente. La aplicación móvil de la Seguridad Social tiene acceso a todas estas funciones desde el teléfono.",
+      "visual": "Spain import@ss social security app digital portal autonomo management"
+    },
+    {
+      "voice": "Resumen: cómo sacarle partido al sistema. Calcula tu rendimiento neto anual estimado correctamente, descontando gastos y la propia cuota. Elige el tramo que más se aproxime a ese promedio mensual. Revisa trimestralmente si tus ingresos están evolucionando según lo previsto y ajusta si hay desviación significativa. Provisiona un 5-10% sobre la cuota para absorber regularizaciones. Y si tus ingresos crecen, sube el tramo voluntariamente. Cotizar correctamente no es solo obligación legal, es construir tu red de seguridad futura.",
+      "visual": "Spain autonomo contribution system optimization summary action plan 2026"
+    }
+  ]
+}

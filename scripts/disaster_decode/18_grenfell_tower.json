@@ -1,0 +1,97 @@
+{
+  "id": 18,
+  "title": "Grenfell Tower: The Cladding That Was Chosen to Save £300,000",
+  "description": "On June 14, 2017, Grenfell Tower in London burned from the 4th to the 24th floor in under an hour. 72 people died. The fire spread because a refurbishment had wrapped the building in cladding that acted as fuel. The cheaper cladding had been chosen to save £300,000. Investigators found emails showing everyone involved knew it wasn't fire-safe. #GrenfellTower #BuildingFire #London #DisasterDecode",
+  "tags": ["Grenfell Tower", "London fire", "cladding fire", "building fire", "72 dead", "social housing", "fire safety", "ACM cladding", "engineering failure", "disaster documentary", "disaster decode", "UK fire disaster"],
+  "thumbnail_text": "SAVED £300K. LOST 72 LIVES.",
+  "segments": [
+    {
+      "voice": "At 12:54 AM on June 14, 2017, a malfunctioning Hotpoint refrigerator in a 4th floor flat of Grenfell Tower in North Kensington, London, caught fire. Under normal circumstances, this would have been a contained kitchen fire. The building's design — a concrete social housing tower — was intended to resist fire spread, containing any fire to the flat of origin while residents in other flats sheltered in place. What happened instead was that the fire climbed the outside of the building with terrifying speed, reaching the top of the 24-storey tower in approximately 15 minutes. Seventy-two people died.",
+      "visual": "Grenfell Tower fire London night orange flames 2017"
+    },
+    {
+      "voice": "Grenfell Tower was built in 1974 as part of the Lancaster West Estate, a social housing development in the Royal Borough of Kensington and Chelsea — one of the wealthiest local authorities in the United Kingdom. The contrast between the affluence of the surrounding neighborhood and the conditions inside the tower had been a source of tension for decades. The Grenfell Action Group — a residents' committee — had been raising fire safety concerns about the building since 2012, warning specifically that a major fire could result in mass casualties. Those warnings had been ignored.",
+      "visual": "Grenfell Tower social housing London urban contrast wealthy"
+    },
+    {
+      "voice": "In 2014, the building's management company — Kensington and Chelsea Tenant Management Organisation, known as KCTMO — began a major refurbishment of the tower. The refurbishment was intended to improve the building's energy efficiency and aesthetics. The key element of the refurbishment was the addition of external cladding — panels attached to the outside of the building with insulation behind them — that would give the tower a modern appearance and reduce heat loss. The choice of which cladding to use would determine whether 72 people lived or died.",
+      "visual": "building renovation cladding installation workers exterior"
+    },
+    {
+      "voice": "The cladding system chosen was manufactured by Arconic and consisted of aluminium composite material panels — known as ACM panels — with a polyethylene core. The specific product chosen was Reynobond PE — the variant with a plastic polyethylene core rather than a fire-resistant mineral core. The PE variant was approximately £2 per square meter cheaper than the fire-resistant alternative. On a project the size of Grenfell's refurbishment, that difference amounted to approximately £300,000. The fire-resistant product was available. It was not ordered.",
+      "visual": "cladding panel comparison ACM polyethylene fire resistant cost"
+    },
+    {
+      "voice": "The role of polyethylene in fire spread is not a matter of scientific debate. Polyethylene is a petroleum-based plastic that burns intensely. When ACM panels with PE cores are heated to ignition temperature, the polyethylene core melts, flows downward, and continues to burn — effectively acting as a wick that carries flame along the surface of the building. This property was known before the Grenfell refurbishment. The Building Research Establishment had published research on ACM panel fire behavior. Arconic's own documents showed that Reynobond PE was not approved for use on tall buildings in Europe.",
+      "visual": "polyethylene burning ACM cladding panel fire test laboratory"
+    },
+    {
+      "voice": "The cladding procurement involved a chain of companies: the building owner KCTMO, the refurbishment contractor Rydon, the cladding subcontractor Harley Facades, and the cladding manufacturer Arconic. At each link of the chain, decisions were made about fire safety that were driven more by cost and schedule than by rigorous engineering analysis. Building regulations required that external cladding on tall buildings meet certain fire performance standards. The question of whether Reynobond PE met those standards was answered by a desktop study — a paper exercise — that involved no physical testing of the actual system being installed on the actual building.",
+      "visual": "supply chain procurement cladding contractor subcontractor decisions"
+    },
+    {
+      "voice": "The building regulations in England had been weakened over decades through a process of deregulation that reduced mandatory testing requirements and allowed greater use of desktop assessments and insurance-based compliance rather than independent technical verification. The construction industry had lobbied successfully for reduced regulation on the grounds of cost and speed. The result was a system where building owners could, in effect, self-certify compliance with fire safety standards using assessments conducted by parties with a financial interest in the project proceeding.",
+      "visual": "building regulations reform deregulation UK construction industry"
+    },
+    {
+      "voice": "The night of June 14, 2017 was warm enough that some residents had left their windows open. The fire in flat 16 on the 4th floor spread quickly and broke a window. Burning material fell onto the newly installed cladding below the window. The cladding ignited. The fire moved upward along the cladding surface faster than any fire on the exterior of a concrete building should be capable of moving. Within 15 minutes, the fire had reached the top of the tower. Within an hour, the entire cladding system was involved.",
+      "visual": "fire spread building exterior cladding rapid upward flames"
+    },
+    {
+      "voice": "The London Fire Brigade's advice to residents — 'stay put' — is the standard protocol for fires in concrete tower blocks, based on the assumption that the concrete construction will contain fire to the flat of origin. The advice is correct for fires that don't spread through external cladding. As the fire spread up the exterior, the stay-put advice kept hundreds of people in their flats as smoke and heat entered through windows and vents. Some followed the advice and survived. Others followed it and did not.",
+      "visual": "stay put advice fire brigade tower block emergency protocol"
+    },
+    {
+      "voice": "The people who died in Grenfell Tower were predominantly from ethnic minority communities and low-income households — the demographics typical of social housing in inner London. Among the dead were entire families: parents and children who could not escape together. The youngest victim was Logan Gomes, who was stillborn after his mother, Andreia Gomes, was overcome by smoke on the 21st floor. She survived. The oldest victim was 84-year-old Sheila Jarvis on the 22nd floor, who had lived in the tower for years.",
+      "visual": "London community vigil Grenfell multicultural memorial tribute"
+    },
+    {
+      "voice": "The public inquiry into the Grenfell fire, chaired by Sir Martin Moore-Bick, has produced the most detailed investigation of a building fire in British history. The inquiry has held public hearings, examined thousands of documents, and heard testimony from hundreds of witnesses including architects, contractors, building inspectors, and survivors. The Phase 1 report, published in 2019, focused on the night of the fire. The Phase 2 report, published in 2024, examined the broader systemic failures — the regulatory failures, the procurement decisions, and the corporate conduct that made the disaster possible.",
+      "visual": "Grenfell public inquiry hearing witnesses Moore-Bick London"
+    },
+    {
+      "voice": "The Phase 2 report made findings that were extraordinary in their directness. It found that Arconic had been 'dishonest' in its marketing of Reynobond PE — selling a product for use on high-rise buildings that its own internal documents showed was not approved for such use. It found that Celotex, the insulation manufacturer, had manipulated fire test results to fraudulently market their insulation product for use on tall buildings. It found that KCTMO and Rydon had prioritized cost over safety in the selection of cladding. And it found that building regulatory bodies had failed in their oversight responsibilities.",
+      "visual": "inquiry report Phase 2 findings corporate dishonesty cladding"
+    },
+    {
+      "voice": "The inquiry found evidence of emails within Arconic showing that company representatives knew Reynobond PE was not approved for high-rise use but took a deliberate decision to sell it for the Grenfell refurbishment anyway. The specific email exchanges, read aloud at the inquiry, were some of the most damning corporate documents ever placed on the public record in a British legal proceeding. They showed commercial consideration overriding fire safety in a decision with entirely predictable consequences for the people who lived in the building.",
+      "visual": "corporate email evidence documents inquiry damning fire safety"
+    },
+    {
+      "voice": "The Grenfell Tower fire prompted immediate action on ACM cladding across the UK. Over 450 high-rise residential buildings were found to have ACM cladding of the Reynobond PE type. Remediation — the removal and replacement of the dangerous cladding — was required. But the cost of remediation fell initially on building owners, leaseholders, and residents rather than on the companies that had installed the dangerous cladding. For years after the disaster, people were living in buildings with flammable cladding because the question of who should pay for its removal was disputed in court and in government.",
+      "visual": "cladding removal remediation building scaffolding workers UK"
+    },
+    {
+      "voice": "The social housing context of Grenfell — the fact that the victims were primarily poor, primarily from ethnic minorities, and living in a borough represented by one of the wealthiest local authorities in the country — has been central to public understanding of the disaster. The Grenfell Action Group's pre-disaster warnings about fire safety had been dismissed. Residents' complaints about the refurbishment process had been ignored. The inquiry found evidence of systemic contempt for the views and concerns of social housing residents by the management structures responsible for their safety.",
+      "visual": "social housing residents rights community voice ignored UK"
+    },
+    {
+      "voice": "The physical remains of Grenfell Tower have been the subject of intense debate. Covered in a white shroud since the fire, it stands in North Kensington as a visible monument and a source of ongoing trauma. Decisions about what to do with the site — demolish it, preserve it, memorialize it — have been the subject of extensive consultation with bereaved families and survivors. The memorial, whatever form it takes, will need to carry the weight of what happened: not just a fire but a systematic failure of the institutions and industries that were supposed to keep people safe in their homes.",
+      "visual": "Grenfell Tower white shroud memorial site North Kensington"
+    },
+    {
+      "voice": "The Building Safety Act 2022 — passed in the aftermath of Grenfell — represents the most significant reform of building safety legislation in the UK in decades. It introduced a new Building Safety Regulator, mandatory registration of high-rise buildings, more rigorous approval processes for construction work, and new legal avenues for residents to challenge unsafe building decisions. It also addressed the cladding remediation scandal by shifting liability away from leaseholders. The legislation is described by its architects as directly informed by what Grenfell revealed about the previous regulatory framework.",
+      "visual": "Building Safety Act 2022 UK legislation reform Parliament"
+    },
+    {
+      "voice": "No criminal charges had been brought in relation to the Grenfell Tower fire as of early 2025 — seven years after the disaster. The inquiry's findings of corporate dishonesty and systemic regulatory failure represent some of the clearest findings of culpability in any British disaster investigation. Whether they translate into criminal prosecutions is a separate question, involving different legal standards and a Crown Prosecution Service that has historically been cautious about corporate manslaughter prosecutions in complex multi-party cases.",
+      "visual": "criminal prosecution legal accountability Grenfell fire justice"
+    },
+    {
+      "voice": "The Grenfell Tower fire burned for 60 hours before it was fully extinguished. In those 60 hours, a 24-story building was gutted from the outside. The concrete structure remained standing — exactly as designed. The cladding wrapped around it burned as a fuel source, not as a protection. The building's designers had created a structure that would contain fire. A refurbishment contractor had wrapped that structure in material that spread fire. The concrete did its job. The cladding undid it.",
+      "visual": "concrete structure fire damage exterior cladding comparison"
+    },
+    {
+      "voice": "The insulation behind the cladding — Celotex RS5000 — also contributed to the fire spread. Celotex had conducted fire tests on their product that produced results suggesting it could meet building regulation standards. Later investigation found the tests had been conducted with configurations that did not reflect real-world installation conditions — configurations designed to produce a passing result rather than to accurately assess actual fire performance. This is not a minor technical distinction. It means that a product marketed as fire-safe and approved as fire-safe was, in actual installation, not fire-safe.",
+      "visual": "fire test manipulation insulation product false certification"
+    },
+    {
+      "voice": "Seventy-two people died in Grenfell Tower. Among them: firefighters who entered the building, children who were carried by parents who couldn't get out, elderly residents who had lived in the building for decades, immigrants who had come to Britain and made a home in a tower block in one of the world's great cities. They died because someone chose the cheaper cladding. They died because regulators had been defanged. They died because residents' concerns had been treated as nuisances rather than safety intelligence. They died in a building that should never have been able to burn like that.",
+      "visual": "victims memorial Grenfell 72 names photographs tribute green"
+    },
+    {
+      "voice": "The green color associated with Grenfell remembrance — heart-shaped green ribbons, green lights on buildings, the green wall in the local area covered with messages — comes from the distinctive green color of the tower's cladding. The color chosen to make the building look modern and attractive became the color of mourning. In the years since the fire, that green has appeared on buildings around the world as a symbol of solidarity with the victims and a reminder that the question of who is responsible for keeping people safe in their homes is never only a technical question. It is always also a political one.",
+      "visual": "green ribbon memorial solidarity Grenfell color symbolic"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": 23,
+  "title": "Contaminación del Aire: El Asesino Invisible Que Entra en Tu Casa",
+  "description": "La OMS dice que el 99% de la humanidad respira aire contaminado. Analizamos el impacto real de las partículas PM2.5 en esperanza de vida, cerebro y corazón. Qué puedes hacer hoy.",
+  "tags": ["contaminación del aire", "PM2.5", "calidad del aire", "salud respiratoria", "longevidad", "OMS", "partículas finas", "polución", "salud cardiovascular", "cerebro"],
+  "thumbnail_text": "AIRE MATA EN SILENCIO",
+  "segments": [
+    {
+      "voice": "En 2024, la Organización Mundial de la Salud publicó una cifra que debería habernos perturbado mucho más: siete millones de personas mueren cada año por contaminación del aire. Es más que el VIH, la tuberculosis y la malaria juntos. Pero como el veneno es invisible, apenas hablamos de ello. Hoy vamos a cambiar eso.",
+      "visual": "air pollution city smog haze industrial contamination"
+    },
+    {
+      "voice": "El contaminante más peligroso se llama PM2.5: partículas finas con un diámetro inferior a 2,5 micrómetros. Para tener una referencia, un cabello humano mide entre 50 y 70 micrómetros. Las PM2.5 son 25 veces más pequeñas que eso. Son tan diminutas que no las podemos ver, y precisamente por eso son tan peligrosas: atraviesan el sistema respiratorio sin que podamos defendernos.",
+      "visual": "PM2.5 fine particles microscopy air pollution size comparison"
+    },
+    {
+      "voice": "Las PM2.5 no se quedan en los pulmones. Cruzan la barrera alvéolo-capilar y entran directamente en el torrente sanguíneo. Desde ahí llegan al corazón, al cerebro y a todos los órganos. Un estudio de 2023 en Nature Communications analizó tejidos de autopsias en 224 personas de ciudades con alta contaminación y encontró micropartículas de polución en el tejido cardíaco, cerebral y hepático en el 100 por ciento de los casos.",
+      "visual": "lungs respiratory system particles bloodstream biology anatomy"
+    },
+    {
+      "voice": "El impacto cardiovascular es el más documentado. Un metaanálisis de 2022 en el European Heart Journal que revisó 68 estudios con 34 millones de participantes concluyó que cada aumento de 10 microgramos por metro cúbico en PM2.5 se asocia con un 17 por ciento más de riesgo de enfermedad coronaria, un 14 por ciento más de riesgo de ictus y un 11 por ciento más de mortalidad cardiovascular.",
+      "visual": "heart disease cardiovascular risk statistics pollution data"
+    },
+    {
+      "voice": "El mecanismo es la inflamación sistémica. Las partículas finas activan el sistema inmune innato, desencadenando la liberación de citocinas proinflamatorias como IL-6, TNF-alfa y PCR. Esta inflamación crónica daña el endotelio vascular, promueve la formación de placas ateroscleróticas y aumenta la coagulabilidad de la sangre. Es exactamente el mismo proceso que el tabaquismo, solo que más lento y silencioso.",
+      "visual": "inflammation blood vessels endothelium atherosclerosis arterial plaque"
+    },
+    {
+      "voice": "El daño cerebral es quizás el más alarmante. Un estudio de 2020 en PNAS siguió a 998 adultos mayores en Boston durante 12 años y encontró que quienes vivían en zonas con mayor PM2.5 presentaban un 24 por ciento más de atrofia cerebral en zonas frontales. Otro estudio en el British Medical Journal de 2023 con 460.000 personas en el Reino Unido confirmó que la exposición crónica a PM2.5 aumenta el riesgo de demencia en un 31 por ciento.",
+      "visual": "brain atrophy dementia aging MRI scan urban pollution"
+    },
+    {
+      "voice": "Los niños son especialmente vulnerables. Sus sistemas respiratorio y nervioso están en desarrollo. Un estudio longitudinal de 2024 en The Lancet seguió a 8.500 niños en España desde el nacimiento hasta los 10 años. Los que vivían cerca de vías con alto tráfico tenían un coeficiente intelectual 2,5 puntos menor y una reducción de 3 por ciento en volumen de materia gris frontal comparado con niños en zonas de menor exposición.",
+      "visual": "children brain development urban traffic pollution school"
+    },
+    {
+      "voice": "La contaminación interior puede ser peor que la exterior. Según la EPA estadounidense, el aire dentro de los hogares puede ser entre 2 y 5 veces más contaminado que el exterior. Las fuentes incluyen cocinar con gas o carbón, velas, incienso, humo del tabaco, productos de limpieza, pinturas, materiales de construcción y hasta el polvo acumulado. En muchos países en desarrollo, la cocina con biomasa es la principal causa de muerte prematura en mujeres.",
+      "visual": "indoor air pollution cooking gas fumes home interior"
+    },
+    {
+      "voice": "España tiene un problema real de contaminación. Según el informe de la Agencia Europea de Medio Ambiente de 2024, Madrid superó los límites de PM2.5 recomendados por la OMS de 5 microgramos por metro cúbico en un 280 por ciento. Barcelona, Valencia y Sevilla también están en zonas de alerta. Y esto ocurre mientras los límites legales europeos, aún más permisivos que los de la OMS, siguen sin cumplirse en muchas zonas.",
+      "visual": "Spain Madrid Barcelona pollution city air quality monitoring"
+    },
+    {
+      "voice": "¿Qué puedes hacer de forma práctica? Primero, conoce la calidad del aire en tu zona. Apps como IQAir, BreezoMeter o el portal oficial de Copernicus dan datos en tiempo real. En días con alta contaminación, evita hacer ejercicio intenso al aire libre, especialmente entre las 14 y las 20 horas cuando los niveles de ozono son máximos.",
+      "visual": "air quality monitoring app smartphone IQAir outdoor health"
+    },
+    {
+      "voice": "En interiores, un purificador de aire con filtro HEPA puede reducir las PM2.5 interiores entre un 50 y un 85 por ciento según el estudio de la Universidad de Berkeley de 2022. Prioriza el dormitorio, donde pasas entre 7 y 9 horas. La ventilación cruzada en horas de menor contaminación también ayuda. Evita cocinar con gas si puedes, o usa siempre extractora. Las plantas de interior ayudan poco con PM2.5: ese mito fue desmentido por la NASA en condiciones reales de uso doméstico.",
+      "visual": "HEPA air purifier home bedroom indoor air quality filter"
+    },
+    {
+      "voice": "Las mascarillas N95 o FFP2 filtran entre el 95 y el 99 por ciento de las partículas finas. Una revisión de 2023 en el International Journal of Environmental Research and Public Health confirma que su uso en días de alta contaminación reduce marcadores inflamatorios como la PCR en usuarios regulares. Las mascarillas quirúrgicas convencionales filtran solo el 30 a 40 por ciento de las PM2.5.",
+      "visual": "N95 mask pollution protection outdoor city respiratory"
+    },
+    {
+      "voice": "La dieta puede modular parcialmente el daño. Un estudio de 2021 en la Universidad de Harvard con 111.000 participantes mostró que una dieta rica en antioxidantes, especialmente vitaminas C y E, betacarotenos y polifenoles, redujo el riesgo de mortalidad asociada a contaminación en un 19 por ciento. El mecanismo es la neutralización del estrés oxidativo inducido por las partículas. No elimina el riesgo pero lo amortigua.",
+      "visual": "antioxidant foods vegetables fruits berries colorful diet nutrition"
+    },
+    {
+      "voice": "El ejercicio regular también contrarresta parte del daño. Aunque durante el ejercicio al aire libre se inhalan más partículas, el beneficio neto del ejercicio supera el riesgo para la mayoría de las personas que viven en ciudades de contaminación moderada. Un análisis de 2023 en el British Journal of Sports Medicine concluyó que en ciudades con PM2.5 menor de 50 microgramos por metro cúbico, el beneficio del ejercicio siempre supera al daño por exposición.",
+      "visual": "exercise outdoor park running urban air exposure health"
+    },
+    {
+      "voice": "La contaminación del aire es un problema de salud pública que requiere soluciones colectivas: transporte público, vehículos eléctricos, industria más limpia, zonas de bajas emisiones. Pero mientras esperamos esos cambios estructurales, reducir la exposición personal y fortalecer las defensas del organismo no es una derrota, es una estrategia inteligente. La información es el primer paso para actuar.",
+      "visual": "clean energy electric transport sustainable city future"
+    }
+  ]
+}

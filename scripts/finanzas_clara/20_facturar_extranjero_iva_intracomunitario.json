@@ -1,0 +1,77 @@
+{
+  "id": 20,
+  "title": "Facturar al Extranjero como Autónomo — IVA Intracomunitario Explicado Fácil",
+  "description": "Si eres autónomo y tienes clientes en Europa o fuera de la UE, este vídeo te explica cómo funciona el IVA intracomunitario, cuándo se aplica, cuándo no, y cómo hacer la factura correctamente.",
+  "tags": ["iva intracomunitario autonomos", "facturar extranjero españa", "factura cliente europeo", "iva 0 exportacion", "nif intracomunitario", "modelo 349 resumen intracomunitario", "autónomo clientes europa"],
+  "thumbnail_text": "Factura sin IVA legal",
+  "segments": [
+    {
+      "voice": "Cada vez más autónomos españoles tienen clientes fuera de España. Un programador que trabaja para una empresa alemana, un diseñador con clientes en Francia, un consultor que factura a una startup de Londres. En todos estos casos surge la misma duda: ¿pongo IVA en la factura o no? La respuesta depende de varios factores, y equivocarse tiene consecuencias fiscales serias. Hoy te explico cómo funciona el IVA cuando facturas al extranjero.",
+      "visual": "Spain freelancer international clients Europe billing invoice"
+    },
+    {
+      "voice": "El principio básico del IVA: dónde tributa el servicio. El IVA es un impuesto de consumo que, en principio, tributa en el país donde se consume el servicio. La Directiva 2006/112/CE del Consejo Europeo establece las reglas de localización de los servicios. La Ley 37/1992 del IVA española transpone esa directiva. El artículo 69 de esta ley regula específicamente dónde se consideran prestados los servicios entre empresarios, que es el caso de la mayoría de autónomos.",
+      "visual": "Europe tax law VAT directive service location country"
+    },
+    {
+      "voice": "Regla general para servicios entre empresarios europeos. Cuando un autónomo español presta un servicio a un empresario o profesional de otro país de la UE, el servicio se localiza en el país del destinatario. Esto significa que el IVA no lo repercutes tú en España, sino que lo declara el cliente en su país mediante el mecanismo de inversión del sujeto pasivo. Resultado práctico: tú emites la factura sin IVA español. El cliente alemán, francés o italiano declara ese IVA en su país.",
+      "visual": "B2B EU invoice Spain no VAT reverse charge mechanism"
+    },
+    {
+      "voice": "Qué es el NIF intracomunitario y cómo obtenerlo. Para poder emitir facturas a empresas de la UE sin IVA, necesitas estar dado de alta en el Registro de Operadores Intracomunitarios, el ROI. Esto se hace presentando el modelo 036 en Hacienda y marcando la casilla de operador intracomunitario. Una vez aprobado, Hacienda te asigna un NIF intracomunitario que comienza con las letras ES seguidas de tu NIF. Por ejemplo, ESB12345678. Sin este registro, Hacienda puede cuestionarte las operaciones.",
+      "visual": "intracomunitario NIF Spain VAT registration number EU operator"
+    },
+    {
+      "voice": "El modelo 349: el resumen de operaciones intracomunitarias. Cada vez que facturas a un cliente europeo sin IVA, estás realizando una operación intracomunitaria. Estas operaciones debes declararlas en el modelo 349, que es el resumen de operaciones intracomunitarias. Se presenta de forma mensual o trimestral dependiendo de tu volumen de operaciones. Si el importe total anual no supera 35.000 euros, puedes presentarlo trimestralmente junto con el modelo 303.",
+      "visual": "modelo 349 Spain intracomunitario declaration EU quarterly annual"
+    },
+    {
+      "voice": "Cómo verificar que tu cliente europeo es empresa de verdad. Antes de emitir la factura sin IVA, debes verificar que el cliente tiene un NIF intracomunitario válido. Hacienda tiene una herramienta gratuita llamada VIES, por sus siglas en inglés, disponible en ec.europa.eu/vies. Introduces el NIF intracomunitario del cliente y compruebas si está registrado y activo en su país. Si no está en el VIES, no puedes emitir la factura sin IVA. Si emites sin IVA y luego Hacienda descubre que el cliente no era empresa, tú eres responsable del IVA no repercutido.",
+      "visual": "VIES VAT validation Europe Spain check company number online"
+    },
+    {
+      "voice": "¿Y si el cliente europeo es un particular, no una empresa? Aquí cambia todo. Cuando facturas a un consumidor final, a una persona física, en otro país de la UE, la regla general cambia. Para la mayoría de servicios digitales, el artículo 70 de la Ley IVA dice que el servicio tributa en el país del consumidor. Si facturas más de 10.000 euros anuales a consumidores de otros países de la UE, debes registrarte en el sistema OSS, Ventanilla Única, y declarar ese IVA.",
+      "visual": "B2C EU consumer Spain digital services VAT OSS registration"
+    },
+    {
+      "voice": "El sistema OSS: Ventanilla Única para servicios a consumidores europeos. El sistema OSS, operativo desde julio de 2021, permite declarar y pagar el IVA de todos los países de la UE en una sola declaración trimestral en España. Evita tener que registrarse en cada país donde tienes clientes. Se solicita alta en la AEAT y se presenta una declaración trimestral con el IVA desglosado por país. Los tipos de IVA aplicables son los del país del consumidor, que varían: Alemania 19%, Francia 20%, Italia 22%.",
+      "visual": "OSS VAT system Spain EU one stop shop consumer digital services"
+    },
+    {
+      "voice": "¿Y si facturas a clientes fuera de la UE? Si tu cliente está en Estados Unidos, México, Reino Unido post-Brexit, Japón o cualquier país fuera de la UE, aplica el artículo 69 Uno 1 de la Ley IVA: el servicio se localiza en el país del destinatario empresario, por lo tanto está exento de IVA español. No llevas esas operaciones al modelo 349 porque no son intracomunitarias, son exportaciones de servicios. Sí las declaras en el modelo 303 en la casilla de operaciones no sujetas o exentas.",
+      "visual": "export services outside EU Spain UK USA Japan invoice no VAT"
+    },
+    {
+      "voice": "Cómo redactar la factura a cliente europeo sin IVA. La factura debe incluir el NIF intracomunitario tanto del emisor como del receptor. En el concepto de IVA debes indicar: Operación exenta de IVA por inversión del sujeto pasivo, artículo 69 de la Ley 37/1992 del IVA. Si es para un cliente fuera de la UE: Operación no sujeta a IVA por reglas de localización, artículo 69 Ley 37/1992. No pongas ninguna casilla de IVA con tipo 0%, simplemente no hay IVA en la factura.",
+      "visual": "invoice template EU Spain intracomunitario legal text reverse charge"
+    },
+    {
+      "voice": "Retención de IRPF en facturas internacionales. Si el cliente está en España, sí aplicas la retención de IRPF. Pero si el cliente está en el extranjero, no aplicas retención española. El IRPF es un impuesto personal español que solo aplica cuando hay relación con la Administración Tributaria española. Un cliente alemán no tiene obligación de retenerte nada para España. Por lo tanto, la factura a un cliente europeo o internacional: sin IVA, sin retención de IRPF.",
+      "visual": "IRPF retention Spain international client invoice no retention"
+    },
+    {
+      "voice": "¿Qué pasa con el IVA soportado cuando facturas sin IVA? Aquí hay una ventaja importante. Aunque no repercutes IVA a tu cliente europeo, sí puedes deducir el IVA que pagas en tus gastos españoles. Por ejemplo, si pagas 100 euros más 21 euros de IVA por software, esos 21 euros los recuperas en el modelo 303. Hacienda clasifica estas operaciones como 'exentas con derecho a deducción', lo que significa que no pierdes el derecho a recuperar el IVA de tus gastos.",
+      "visual": "VAT deduction Spain freelancer international expenses recovery modelo 303"
+    },
+    {
+      "voice": "Resumen de casuísticas más habituales. Caso uno: eres diseñador y facturas a empresa alemana registrada en VIES. Factura sin IVA, sin retención, declaras en modelo 349. Caso dos: eres desarrollador y facturas a startup de California. Factura sin IVA, sin retención, no hay modelo 349, declaras en 303 como no sujeta. Caso tres: vendes un curso online a consumidor francés particular. Facturas con IVA francés del 20%, declaras en OSS si superas 10.000 euros anuales en la UE.",
+      "visual": "case study Spain freelancer international billing examples"
+    },
+    {
+      "voice": "Errores que cometen los autónomos con la facturación internacional. Error uno: poner IVA español del 21% en facturas a empresas europeas. El cliente lo puede reclamar y Hacienda puede sancionar por declaración incorrecta. Error dos: no registrarse en el ROI antes de empezar a facturar sin IVA. Error tres: no verificar el VIES y emitir sin IVA a quien no era empresa. Error cuatro: olvidar el modelo 349 cuando hay operaciones intracomunitarias. Estos errores generan comprobaciones tributarias.",
+      "visual": "billing errors Spain EU freelancer VAT mistakes Hacienda inspection"
+    },
+    {
+      "voice": "Tipo de cambio y moneda extranjera en las facturas. Si cobras en dólares, libras o cualquier otra moneda, la factura debe expresarse en euros para Hacienda. Usa el tipo de cambio del Banco Central Europeo del día de la operación. Este tipo lo encuentras en ecb.europa.eu. El importe en euros es el que declaras en los modelos de IVA e IRPF. Las diferencias de cambio entre el día de factura y el día de cobro pueden generar ganancias o pérdidas patrimoniales a declarar en la renta.",
+      "visual": "currency exchange euros dollars Spain invoice ECB rate"
+    },
+    {
+      "voice": "Plataformas digitales: Upwork, Fiverr, Malt. Si cobras a través de plataformas como Upwork o Fiverr, la plataforma actúa como intermediaria y puede estar localizada fuera de España. Las reglas son las mismas, pero hay que verificar si la plataforma ya retiene o declara el IVA en tu nombre. Upwork, por ejemplo, aplica sus propias reglas según el país del cliente y del freelancer. Consulta los términos de cada plataforma y asegúrate de que lo que declaran en tu nombre cuadra con lo que tú tienes que declarar.",
+      "visual": "Upwork Fiverr Spain freelancer platform international payment VAT"
+    },
+    {
+      "voice": "Resumen final. Si facturas a empresa de la UE: sin IVA, necesitas NIF intracomunitario, modelo 349. Si facturas a empresa fuera de la UE: sin IVA, sin modelo 349, declaras en 303 como exenta. Si facturas a consumidor de la UE: con IVA del país del consumidor, posiblemente OSS. Si facturas a consumidor fuera de la UE: sin IVA. Verifica siempre el VIES, redacta la factura con el texto legal correcto, y lleva un registro de todas las operaciones internacionales. La fiscalidad internacional no es complicada si entiendes las reglas básicas.",
+      "visual": "international billing Spain freelancer summary VAT rules EU world"
+    }
+  ]
+}

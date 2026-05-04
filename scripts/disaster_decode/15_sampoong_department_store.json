@@ -1,0 +1,109 @@
+{
+  "id": 15,
+  "title": "Sampoong Collapse: The Store That Killed 502 People for Profit",
+  "description": "On June 29, 1995, the Sampoong Department Store in Seoul, South Korea collapsed in 20 seconds, killing 502 people. The building had been illegally modified four times. The owner had been warned the day before. He chose not to close the store. This is the story of how greed built a death trap and kept it open. #SampoongCollapse #BuildingCollapse #Seoul #DisasterDecode",
+  "tags": ["Sampoong department store", "building collapse", "Seoul Korea", "502 dead", "structural failure", "engineering failure", "construction fraud", "disaster documentary", "disaster decode", "worst building collapse", "Korea disaster", "corrupt construction"],
+  "thumbnail_text": "502 DIED FOR PROFIT",
+  "segments": [
+    {
+      "voice": "At 5:52 PM on June 29, 1995, a five-story department store in Seocho-gu, Seoul, South Korea collapsed without warning. In twenty seconds, the entire southern wing of the building fell in on itself. Of the 1,500 people inside, 502 died and 937 were injured. It remains the deadliest peacetime building collapse in modern history. The collapse was not caused by an earthquake or extreme weather. It was caused by years of illegal modifications, ignored warnings, and deliberate decisions made by the building's owner to keep the store open on the day he knew it would fall.",
+      "visual": "building collapse rubble rescue South Korea urban"
+    },
+    {
+      "voice": "The Sampoong Department Store opened in 1990 in the affluent Seocho district of Seoul. It was a luxurious five-story retail complex built to impress — a place where the emerging Korean middle class came to shop for clothes, electronics, and food. Its owner, Lee Joon, was a politically connected businessman who had built his fortune in construction and retail. The building was, to all external appearances, the height of modern Korean commercial development. Its structural problems had been visible to engineers for years before anyone died.",
+      "visual": "department store Seoul Korea luxury shopping 1990s"
+    },
+    {
+      "voice": "The problems began before the building was finished. The original design called for the building to be an office complex, not a retail department store. When Lee Joon changed the use, significant structural adjustments were required — heavier floor loads, different column configurations, revised foundation design. The contractor refused to make the changes Lee demanded because they compromised structural integrity. Lee fired the contractor and hired a more compliant one. This was the first decision that would eventually kill 502 people.",
+      "visual": "building blueprint construction plans change modification"
+    },
+    {
+      "voice": "The second critical change came at the rooftop. Lee Joon wanted to operate a restaurant on the roof. The original design had no such facility. He ordered the installation of a large traditional Korean oven — a kind of industrial heating system requiring a massive concrete platform. The oven and its housing weighed approximately 300 tons more than the roof was designed to carry. When workers attempted to move it into position by pushing it on rollers across the roof, each push caused audible cracking in the floors below. The cracks were documented. Nothing was done.",
+      "visual": "rooftop construction heavy equipment industrial oven building"
+    },
+    {
+      "voice": "The fifth floor was also added without adequate structural compensation. Original designs called for the top floor to be supported by columns that terminated differently from the floors below. During construction, Lee ordered the columns to be repositioned — moved by several meters to accommodate the retail floor plan he preferred. Repositioning columns in a reinforced concrete structure requires recalculating the load paths through the entire building. No such recalculation was performed. The loads were now being carried by an arrangement the building's engineering had not accounted for.",
+      "visual": "reinforced concrete structure column load path engineering"
+    },
+    {
+      "voice": "The air conditioning units — large, heavy industrial systems — were also added to the roof without structural analysis. And they were not simply placed on the roof: they were dragged across it periodically for maintenance, which meant cyclic loading on a structure that was already overstressed. In the months before the collapse, cracks had appeared in the ceiling of the fourth and fifth floors. The pattern of the cracking was a textbook sign of punch-through shear failure — the specific mode by which flat-plate concrete construction fails when overloaded.",
+      "visual": "concrete ceiling crack structural failure signs close-up"
+    },
+    {
+      "voice": "On the morning of June 29, 1995, the cracks were visibly worse. Staff on the upper floors noticed the floor was deflecting — bowing downward — and the ceiling above was cracking more extensively than before. A construction company was called to inspect. Their engineer made a clear recommendation: close the building immediately. An emergency meeting of Sampoong executives was held. They discussed the structural concerns. Lee Joon was briefed. The decision was made not to close. Employees were not told about the concerns. The store remained open.",
+      "visual": "building inspection engineer report warning close decision"
+    },
+    {
+      "voice": "Some executives chose to move their offices to the north wing of the building — which was structurally separate from the failing south wing — during the day. Some managers left the building during the morning. The staff on the shop floors, the cleaners, the food court workers, the customers — none of them were told there was a structural emergency in progress. The building's management knew what was coming. They protected themselves and left everyone else in place.",
+      "visual": "building evacuation partial managers leaving workers inside"
+    },
+    {
+      "voice": "At 5:52 PM, a column on the fifth floor failed in punch-through shear. In flat-plate concrete construction, this is the critical failure mode: when a column can no longer carry the load from the floor slab, the slab effectively punches through around the column head. Once one column fails, the loads redistribute to neighboring columns — which are also overloaded. They fail in rapid succession. The progressive collapse took approximately twenty seconds from first failure to complete pancake collapse of the southern wing.",
+      "visual": "concrete building collapse progressive failure pancake rapid"
+    },
+    {
+      "voice": "The survivors who were closest to the collapse described a deep groaning sound in the seconds before the floors gave way — the sound of concrete in the final stages of failure. Some ran when they heard it. Those closest to the escalators and exits had seconds to react. Those deeper in the store, in the food court and clothing departments, had almost no time at all. The dust cloud that engulfed the neighborhood was visible from kilometers away. Rescue teams began arriving within minutes.",
+      "visual": "building collapse dust cloud urban street Seoul rescue"
+    },
+    {
+      "voice": "The rescue operation lasted for seventeen days. Workers picked through the rubble manually, using dogs and acoustic sensors to locate survivors in voids. The rubble was so dense and unstable that rescue crews worked at risk of their own lives from secondary collapses. Among the last survivors pulled from the wreckage was Yoo Ji-hwan — a 19-year-old female department store worker — who was found alive after seventeen days trapped in a void, sustained by limited food and water from the area around her. Her survival was extraordinary.",
+      "visual": "urban search rescue workers rubble 17 days survivor"
+    },
+    {
+      "voice": "The engineering investigation was thorough and damning. Investigators found that the concrete used in the building had been mixed with too much water — a common cost-cutting measure that reduces strength. The reinforcing bar was inadequately distributed. The column sizes were below specification in multiple locations. The connections between slabs and columns were insufficient for the loads actually carried. The building had never met the specifications of its design — and even those specifications had been illegally modified from a design that was already structurally inadequate for the changed use.",
+      "visual": "engineering investigation concrete sample testing lab analysis"
+    },
+    {
+      "voice": "Prosecutors investigated the corruption that had allowed the building to be constructed and modified in violation of building codes. Building inspectors had approved illegal modifications. Officials had been bribed. This was not a unique situation in South Korea's construction industry at the time — the country's rapid economic development had created a construction sector where speed and cost-cutting were rewarded and regulatory oversight was weakly enforced. The Sampoong disaster was extreme, but the conditions that produced it were systemic.",
+      "visual": "government corruption investigation bribery construction Korea"
+    },
+    {
+      "voice": "Lee Joon, the building's owner, was convicted of negligence causing death and sentenced to ten and a half years in prison. His son, Lee Han-sang, who was an executive at the company, received a sentence of seven years. Several building inspectors and Seoul city officials were also convicted. The total sentences were widely seen as insufficient. Multiple appeals and remands followed. Lee Joon served several years before being released. The 502 people who died in his building's collapse had no equivalent in any courtroom.",
+      "visual": "trial conviction courtroom Korea legal sentencing formal"
+    },
+    {
+      "voice": "The disaster had immediate consequences for South Korean building regulation. The government launched emergency inspections of over 1,500 buildings across the country. Hundreds were found to have significant structural deficiencies. Many were ordered closed or demolished. The Sampoong collapse had been singular in its scale, but it had not been singular in its causes — the construction shortcuts, the illegal modifications, the captured inspectors — these were common features of the boom-era construction sector.",
+      "visual": "building inspection survey Korea urban safety check"
+    },
+    {
+      "voice": "The collapse came just one year after another major South Korean construction disaster: the collapse of the Seongsu Bridge in Seoul, which killed 32 people. That collapse had also been caused by inadequate maintenance and construction deficiencies. The back-to-back disasters created enormous political pressure for construction safety reform. They also contributed to a cultural reckoning about the cost of South Korea's explosive economic growth — what had been built in the rush to modernize, and how well it had really been built.",
+      "visual": "bridge collapse Korea 1994 comparison disaster history"
+    },
+    {
+      "voice": "The site of the Sampoong Department Store is now a park. Seoul Metropolitan Government purchased the land after demolition. The park includes a memorial to the 502 victims. It is a quiet space in one of Seoul's busiest districts, surrounded by the glass towers of modern development. Visitors often don't know what happened there — the park looks like any urban green space. The memory of the disaster lives in the older residents of Seoul, in the families of the victims, and in the building regulations that were written in its aftermath.",
+      "visual": "park memorial Seoul Korea victims urban green space quiet"
+    },
+    {
+      "voice": "Punch-through shear failure — the engineering mechanism that destroyed the Sampoong building — is now one of the most studied failure modes in structural engineering education. The Sampoong case appears in structural engineering textbooks worldwide as the definitive example of what happens when flat-plate concrete construction is overloaded beyond its shear capacity. Every structural engineering student learns from the 502 people who died in a department store that was never properly built.",
+      "visual": "structural engineering textbook flat plate failure punch shear"
+    },
+    {
+      "voice": "The concrete had a compressive strength far below the specified minimum — in some samples, less than half the required strength. This was discovered by post-collapse testing of the concrete from the rubble. The water-to-cement ratio had been increased to make the concrete easier to pour — a shortcut that made construction faster and cheaper at the direct cost of structural strength. Every cubic meter of concrete in the building was weaker than it should have been. The entire structure was, from the moment of its construction, less safe than its design required.",
+      "visual": "concrete sample testing compression strength laboratory"
+    },
+    {
+      "voice": "The food court on the top floors was operating at full capacity when the building fell. Families eating dinner. Workers on lunch breaks. People shopping after work. The specific timing — early evening on a weekday — meant the building was at near-maximum occupancy when the columns finally gave way. Had the executives who left the building during the afternoon told anyone — a single announcement, a quiet word to floor managers — hundreds of people might have been outside when the first column failed. That knowledge was available and was deliberately withheld.",
+      "visual": "food court restaurant families dinner busy shopping mall"
+    },
+    {
+      "voice": "The criminal negligence concept in the Sampoong case is unusually clear. There was a warning. There was an expert recommendation to close the building. There was a decision not to close it. There were 502 subsequent deaths. The causal chain is direct and documented. And yet the legal outcomes — sentences measured in years rather than decades — reflect the profound difficulty that legal systems have in holding corporations and their executives to the same standards of accountability that would apply to individuals acting with equivalent recklessness.",
+      "visual": "legal accountability corporate negligence law justice balance"
+    },
+    {
+      "voice": "The building industry worldwide has used the Sampoong case to study what engineers call the 'authority gradient' — the way that power differentials within organizations suppress safety-relevant information. The engineer who recommended closing the building was heard by executives. His recommendation was overruled. The staff who noticed the cracks were not empowered to act independently. The chain of safety information flowed upward and was blocked. It is a pattern that appears in every major organizational disaster — different details, same structure.",
+      "visual": "organizational hierarchy authority gradient safety information"
+    },
+    {
+      "voice": "In the thirty years since Sampoong, South Korea has rebuilt its construction regulatory framework significantly. Building inspections are more frequent and independent. Construction companies face stronger criminal liability for violations. The technical standards for concrete mix design and reinforcement are more strictly enforced. But enforcement always has limits — and the economic pressures that led to Sampoong's corners being cut are not unique to Korea or to the 1990s. They exist wherever construction margins are thin, timelines are tight, and inspectors can be convinced to look the other way.",
+      "visual": "modern Korea construction safety standards inspection reform"
+    },
+    {
+      "voice": "Five hundred and two people came to the Sampoong Department Store on June 29, 1995, to buy clothes, eat dinner, pick up groceries. They died because the building they were in had been illegally built, illegally modified, and then kept deliberately open by an owner who knew it was about to fall. The victims had no way of knowing any of this. The building looked normal. It had safety certificates. It had been inspected. It had operated for five years. And beneath the polished floors and neon signs, it had been killing time.",
+      "visual": "victims memorial name list Korea 502 flowers tribute"
+    },
+    {
+      "voice": "The Sampoong Department Store is the clearest illustration of a truth that every disaster investigation confirms: the building that kills you doesn't look dangerous. It looks exactly like every building around it. The danger is invisible, accumulated in documents that weren't read, calculations that weren't made, and warnings that weren't acted on. Safety is not a visible property — it is an invisible one, present only in the diligence of every person in the chain from design to construction to inspection to operation. When that chain breaks, buildings fall.",
+      "visual": "building exterior normal appearance hidden danger structure"
+    }
+  ]
+}

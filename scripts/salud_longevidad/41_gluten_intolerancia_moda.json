@@ -1,0 +1,61 @@
+{
+  "id": 41,
+  "title": "Gluten: Intolerancia Real vs Moda Sin Ciencia (Con Datos)",
+  "description": "La industria sin gluten factura 8.000 millones anuales. Analizamos celiaquía, sensibilidad no celíaca al gluten, FODMAP, microbioma y por qué la mayoría no debería evitar el gluten.",
+  "tags": ["gluten", "celiaquía", "intolerancia al gluten", "sensibilidad gluten", "dieta sin gluten", "FODMAP", "trigo", "microbioma", "alergia", "nutrición"],
+  "thumbnail_text": "GLUTEN MODA VS CIENCIA",
+  "segments": [
+    {
+      "voice": "La industria de los productos sin gluten factura más de 8.000 millones de dólares anuales y crece un 9 por ciento cada año. Sin embargo, la celiaquía, la única condición en que eliminar el gluten es médicamente imprescindible, afecta al 1 por ciento de la población. ¿Cómo se explica esa brecha? ¿Hay otras razones válidas para evitar el gluten? ¿O estamos ante uno de los mayores fenómenos de marketing de la historia nutricional? Vamos a verlo con ciencia.",
+      "visual": "gluten free market products industry celiac disease statistics"
+    },
+    {
+      "voice": "El gluten es una mezcla de proteínas, principalmente gliadina y glutenina, presentes en el trigo, la cebada, el centeno y la espelta. No es intrínsecamente dañino para la mayoría. Su valor es tecnológico: crea la red elástica que da estructura y esponjosidad al pan. Sin gluten, muchos panes y pasteles serían densos y quebradizos.",
+      "visual": "gluten wheat protein network bread elastic structure baking"
+    },
+    {
+      "voice": "La celiaquía es una enfermedad autoinmune en la que la ingesta de gluten desencadena una respuesta inmune que destruye las vellosidades del intestino delgado. Afecta al 1 por ciento de la población mundial, aunque el 70 por ciento de los casos no están diagnosticados. Los síntomas incluyen diarrea crónica, malabsorción, anemia y dolor abdominal, pero hasta el 40 por ciento presenta formas silentes sin síntomas digestivos. El diagnóstico requiere serología y biopsia intestinal.",
+      "visual": "celiac disease intestinal villi autoimmune damage diagnosis biopsy"
+    },
+    {
+      "voice": "La sensibilidad no celíaca al gluten o SNCG es la categoría más debatida. Personas que reportan síntomas al consumir trigo, como hinchazón, fatiga y niebla mental, pero sin celiaquía ni alergia al trigo confirmadas. Un ensayo doble ciego de 2011 de Peter Gibson en la Universidad de Monash parecía confirmar su existencia. Pero su propio grupo publicó un estudio de seguimiento en 2013 que dio un giro radical.",
+      "visual": "non-celiac gluten sensitivity NCGS symptoms wheat bloating research"
+    },
+    {
+      "voice": "El estudio de Gibson de 2013, publicado en Gastroenterology, sometió a 37 personas que se consideraban sensibles al gluten a un protocolo cruzado doble ciego con dieta baja en FODMAP de base y luego añadiendo gluten, fructanos de trigo o placebo. Los síntomas fueron iguales con el gluten y con el placebo. Lo que producía los síntomas no era el gluten sino los FODMAPs, fermentable oligosacárides, disacáridos, monosacáridos y polioles, carbohidratos fermentables también presentes en el trigo.",
+      "visual": "FODMAP wheat fructan double blind study Gibson gastroenterology gluten"
+    },
+    {
+      "voice": "¿Qué son los FODMAPs? Son carbohidratos de cadena corta que se fermentan en el colon y generan gas, hinchazón y dolor en personas con intestino irritable. El trigo contiene fructanos, un tipo de FODMAP, además del gluten. Muchas personas que creen ser sensibles al gluten son en realidad sensibles a los fructanos del trigo. La diferencia importa porque una dieta baja en FODMAPs es distinta y más amplia que simplemente eliminar el gluten.",
+      "visual": "FODMAPs fermentation colon irritable bowel syndrome fructans gut gas"
+    },
+    {
+      "voice": "El impacto de la dieta sin gluten en personas sanas. Un metaanálisis de 2020 en Journal of Human Nutrition and Dietetics mostró que las personas sin celiaquía que siguen una dieta sin gluten no muestran beneficios en ningún marcador de salud medido, incluyendo peso, glucosa, inflamación ni bienestar general, comparado con dietas con gluten equivalentes. La creencia de sentirse mejor puede explicarse por el efecto placebo o por la reducción de ultraprocesados que suele ocurrir al cambiar a una dieta sin gluten.",
+      "visual": "gluten free healthy people no benefit markers study diet"
+    },
+    {
+      "voice": "Los productos sin gluten comerciales son a menudo peores nutricionalmente. Para compensar la ausencia del gluten, los fabricantes añaden más azúcar, grasas, almidones refinados, sal y aditivos. Una galleta sin gluten típica tiene entre un 15 y un 30 por ciento más de azúcar y entre un 20 y un 25 por ciento más de grasa saturada que su equivalente con gluten. Además, suelen ser más pobres en fibra y proteínas.",
+      "visual": "gluten free products nutrition label sugar fat comparison regular"
+    },
+    {
+      "voice": "Para el microbioma, la dieta sin gluten puede ser contraproducente en personas sanas. El trigo integral contiene arabinoxilanos y fructooligosacáridos que son prebióticos que alimentan bifidobacterias y lactobacilos. Un estudio de 2009 en Gut con 21 voluntarios sanos que siguieron una dieta sin gluten durante 4 semanas mostró reducción significativa en Bifidobacterium, Lactobacillus y Faecalibacterium prausnitzii, bacterias antiinflamatorias.",
+      "visual": "gut microbiome gluten free diet bifidobacterium healthy bacteria reduction"
+    },
+    {
+      "voice": "¿Quién sí debe evitar el gluten? Las personas con celiaquía diagnosticada, la única condición en que la dieta sin gluten es un tratamiento médico y no una opción. Las personas con alergia al trigo mediada por IgE, menos común pero igualmente seria. Y posiblemente personas con síndrome de intestino irritable que han probado que los FODMAPs del trigo les generan síntomas. Para todos los demás, no hay evidencia de beneficio.",
+      "visual": "celiac disease wheat allergy IBS diagnosis who needs gluten free"
+    },
+    {
+      "voice": "La alergia al trigo es distinta de la celiaquía y la sensibilidad al gluten. Es una reacción mediada por IgE que puede causar urticaria, asma, rinitis o anafilaxia. Afecta al 0,1 al 0,5 por ciento de la población. Un test de alergia específico IgE al trigo confirma el diagnóstico. Como en todas las alergias alimentarias, la evitación del alérgeno es obligatoria, pero la base biológica es completamente diferente.",
+      "visual": "wheat allergy IgE immune response urticaria anaphylaxis testing"
+    },
+    {
+      "voice": "El trigo moderno vs antiguo es otro debate vivo. El trigo actual fue seleccionado para mayor rendimiento y mayor contenido proteico, incluyendo más gliadina. Algunos investigadores proponen que el trigo moderno es más proinflamatorio que variedades antiguas como la espelta, el emmer o el einkorn. Un estudio de 2018 en Nutrients mostró menor activación de marcadores inflamatorios intestinales con trigo antiguo en personas con celiaquía en remisión, aunque la celiaquía seguía activa con cualquier trigo.",
+      "visual": "ancient grain spelt einkorn emmer modern wheat comparison gluten"
+    },
+    {
+      "voice": "La conclusión práctica: el 1 por ciento con celiaquía debe evitar el gluten de por vida sin excepciones. El resto puede disfrutar del pan de calidad, la pasta integral y los cereales sin culpa ni necesidad. Si tienes síntomas digestivos al comer trigo, la clave está en descartar celiaquía con un análisis y una biopsia, y si la prueba es negativa, explorar si la causa son los FODMAPs, el gluten u otros factores antes de adoptar una dieta restrictiva cara e innecesariamente complicada.",
+      "visual": "bread whole grain pasta cereal healthy normal diet practical advice"
+    }
+  ]
+}

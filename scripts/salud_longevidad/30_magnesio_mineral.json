@@ -1,0 +1,65 @@
+{
+  "id": 30,
+  "title": "Magnesio: El Mineral Que Te Falta y No Lo Sabes (Respaldado por Ciencia)",
+  "description": "El 50% de la población tiene deficiencia de magnesio sin saberlo. Analizamos sus 300 funciones enzimáticas, relación con sueño, ansiedad, migraña, diabetes y qué forma absorberse mejor.",
+  "tags": ["magnesio", "deficiencia magnesio", "suplemento magnesio", "sueño", "ansiedad", "migraña", "diabetes", "mineral", "salud", "nutrición"],
+  "thumbnail_text": "MAGNESIO QUE TE FALTA",
+  "segments": [
+    {
+      "voice": "El magnesio es el cuarto mineral más abundante del cuerpo humano y el segundo más abundante en el interior de las células. Participa en más de 300 reacciones enzimáticas, desde la producción de ATP hasta la síntesis de proteínas, la regulación de la presión arterial y el control del azúcar en sangre. Y sin embargo, las encuestas nutricionales estiman que entre el 48 y el 68 por ciento de la población de países occidentales tiene ingesta insuficiente.",
+      "visual": "magnesium mineral periodic table chemical element body function"
+    },
+    {
+      "voice": "La dificultad para detectar la deficiencia es que el 99 por ciento del magnesio corporal está dentro de los huesos y las células. Solo el 1 por ciento circula en sangre, y el cuerpo mantiene ese 1 por ciento dentro del rango normal incluso cuando las reservas están agotadas, robando magnesio de los huesos y los músculos. Un análisis de magnesio sérico normal no descarta deficiencia intracelular.",
+      "visual": "blood test magnesium serum deficiency diagnosis laboratory"
+    },
+    {
+      "voice": "¿Por qué hay tanta deficiencia hoy? Tres razones principales. Primero, la dieta occidental es pobre en alimentos ricos en magnesio como verduras de hoja verde, legumbres, frutos secos y cereales integrales. Segundo, el procesamiento industrial de los alimentos elimina entre el 50 y el 80 por ciento del magnesio original. Tercer factor: el suelo agrícola moderno tiene menos magnesio que hace 50 años por el agotamiento del monocultivo y el uso de fertilizantes con nitrógeno y potasio que desplazan el magnesio.",
+      "visual": "magnesium depleted soil agriculture food processing mineral loss"
+    },
+    {
+      "voice": "Los síntomas de deficiencia subclínica son vagos e inespecíficos: calambres musculares, fatiga, irritabilidad, insomnio, ansiedad, cefaleas frecuentes y palpitaciones. Son síntomas que solemos atribuir al estrés o al ritmo de vida moderno, sin pensar que pueden tener una causa nutricional corregible. Un estudio de 2020 en Magnesium Research encontró que el 60 por ciento de los pacientes que acudían a urgencias por calambres musculares severos tenían niveles intracelulares de magnesio bajos.",
+      "visual": "muscle cramps fatigue anxiety symptoms magnesium deficiency signs"
+    },
+    {
+      "voice": "Para el sueño, la evidencia es sólida. El magnesio activa el sistema nervioso parasimpático, regula los receptores GABA, el principal neurotransmisor inhibidor del cerebro, y regula la melatonina a través de su efecto sobre la glándula pineal. Un ensayo clínico doble ciego de 2012 con 46 adultos mayores mostró que 500 miligramos diarios de magnesio durante 8 semanas aumentaron el tiempo total de sueño en 30 minutos y redujeron los despertares nocturnos.",
+      "visual": "sleep magnesium GABA melatonin quality insomnia supplement night"
+    },
+    {
+      "voice": "Para la ansiedad y la depresión, un metaanálisis de 2017 en PLoS One analizó 18 estudios y encontró una correlación inversa consistente entre ingesta de magnesio y síntomas de ansiedad y depresión. El mecanismo propuesto incluye la regulación del eje HPA del estrés, la modulación del receptor NMDA del glutamato, que está hiperactivo en la depresión, y la reducción de la inflamación sistémica.",
+      "visual": "anxiety depression brain magnesium mental health neurotransmitter"
+    },
+    {
+      "voice": "En migraña, el magnesio tiene uno de sus usos más documentados. Un metaanálisis de 2016 en Pain Physician con 593 pacientes mostró que la suplementación con 600 miligramos diarios de magnesio redujo la frecuencia de episodios de migraña en un 42 por ciento, comparado con un 17 por ciento en el grupo placebo. La American Headache Society incluye el magnesio en sus guías de tratamiento preventivo de la migraña como opción de primera línea.",
+      "visual": "migraine headache prevention magnesium supplement neurology treatment"
+    },
+    {
+      "voice": "Para la diabetes tipo 2 y la prediabetes, la relación es especialmente relevante. El magnesio es cofactor de las enzimas involucradas en el metabolismo de la glucosa y la señalización de la insulina. Un metaanálisis de 2021 en Nutrients con 25 estudios y 637.000 participantes mostró que la ingesta alta de magnesio se asocia con un 23 por ciento menos de riesgo de desarrollar diabetes tipo 2. En personas con diabetes establecida, la suplementación mejoró la glucosa en ayunas y la HbA1c.",
+      "visual": "diabetes insulin resistance blood sugar magnesium metabolism glucose"
+    },
+    {
+      "voice": "La salud ósea es otro beneficio frecuentemente ignorado. El 60 por ciento del magnesio corporal está en los huesos. El magnesio modula la actividad de los osteoblastos y osteoclastos y regula la vitamina D activa. Un estudio de 2023 en Osteoporosis International mostró que mujeres posmenopáusicas con mayor ingesta de magnesio tenían una densidad ósea 3 por ciento mayor en la cadera y 5 por ciento mayor en la columna lumbar.",
+      "visual": "bone density osteoporosis magnesium calcium women menopause health"
+    },
+    {
+      "voice": "La tensión arterial también responde al magnesio. Un metaanálisis de 2016 en Hypertension con 34 ensayos clínicos y 2.028 participantes encontró que suplementar con 300 miligramos diarios durante 3 meses redujo la presión sistólica 2 mmHg y la diastólica 1,8 mmHg. El efecto es modesto pero consistente, y es sinérgico con el potasio y una dieta rica en vegetales.",
+      "visual": "blood pressure hypertension magnesium reduction effect monitoring"
+    },
+    {
+      "voice": "No todas las formas de magnesio son iguales. El óxido de magnesio es el más común y barato en el mercado, pero tiene una biodisponibilidad de solo el 4 por ciento. El citrato de magnesio tiene una absorción del 90 por ciento y es la opción más respaldada para uso general. El glicinato de magnesio es el de mayor biodisponibilidad y tolerabilidad digestiva. El treonato de magnesio, el más caro, tiene mayor capacidad para cruzar la barrera hematoencefálica y es el más estudiado para efectos cognitivos.",
+      "visual": "magnesium forms glycinate citrate threonate oxide bioavailability comparison"
+    },
+    {
+      "voice": "Los alimentos más ricos en magnesio por cada 100 gramos: semillas de calabaza con 592 mg, cacao puro con 499 mg, semillas de lino con 392 mg, almendras con 270 mg, anacardos con 260 mg, legumbres con entre 60 y 80 mg, y verduras de hoja verde como espinacas y acelgas con entre 50 y 80 mg. La cocción reduce el contenido en un 20 a 30 por ciento, y el agua de cocción retiene gran parte del magnesio lixiviado.",
+      "visual": "magnesium rich foods pumpkin seeds cacao almonds spinach nutrition"
+    },
+    {
+      "voice": "¿Cuánto tomar si decides suplementar? La dosis estudiada en la mayoría de ensayos con efectos positivos está entre 300 y 400 miligramos diarios para adultos. La ingesta diaria recomendada es 400 mg para hombres y 310 mg para mujeres. El límite superior seguro de suplementación es 350 miligramos adicionales a la dieta. El exceso se elimina principalmente por los riñones, pero en personas con insuficiencia renal puede acumularse y ser tóxico.",
+      "visual": "magnesium dosage supplement daily intake recommended adults"
+    },
+    {
+      "voice": "El magnesio es uno de esos nutrientes donde la brecha entre necesidad fisiológica y consumo real es grande, especialmente en dietas procesadas. Antes de suplementar, la prioridad debería ser la alimentación: añadir semillas, frutos secos, verduras y legumbres cubre fácilmente los requerimientos. Si tras mejorar la dieta persisten síntomas como calambres, insomnio o ansiedad, un suplemento de citrato o glicinato de magnesio tiene una base científica sólida y un perfil de seguridad excelente.",
+      "visual": "magnesium healthy diet lifestyle supplement balance nutrition"
+    }
+  ]
+}

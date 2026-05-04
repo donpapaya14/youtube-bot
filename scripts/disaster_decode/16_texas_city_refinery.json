@@ -1,0 +1,101 @@
+{
+  "id": 16,
+  "title": "Texas City: BP's Other Disaster That Killed 15 and Nobody Talks About",
+  "description": "Five years before Deepwater Horizon, BP killed 15 workers at their Texas City refinery and injured 180 more. The Baker Panel investigation found a company-wide safety culture failure that BP had been warned about for years and chose to ignore. This is the disaster that should have stopped Deepwater Horizon — and didn't. #TexasCity #BP #IndustrialDisaster #DisasterDecode",
+  "tags": ["Texas City", "BP refinery", "refinery explosion", "industrial disaster", "process safety", "BP disaster", "Texas explosion", "15 dead", "chemical plant explosion", "disaster documentary", "disaster decode", "occupational safety"],
+  "thumbnail_text": "BP DID IT TWICE",
+  "segments": [
+    {
+      "voice": "On March 23, 2005, at 1:20 in the afternoon, a hydrocarbon vapor cloud ignited at the Texas City refinery owned by BP. The explosion and fire killed 15 workers and injured 180 others. It was the deadliest industrial accident in the United States in over a decade. It occurred at one of the largest refineries in America, in a company with billions of dollars for safety investment, on a day with clear skies and calm conditions. Five years later, in the same company, on a platform in the Gulf of Mexico, 11 more workers would die. Some lessons are never learned.",
+      "visual": "refinery explosion fire Texas industrial plant thick smoke"
+    },
+    {
+      "voice": "The Texas City refinery was one of the largest in North America — processing approximately 460,000 barrels of crude oil per day. BP had acquired it in 2000 when it merged with Amoco. The facility was aging — much of its equipment dated from the 1950s — and it had a troubled safety record. Between 1994 and 2004, there had been 23 worker fatalities at the refinery. That is not a number that appears in a well-managed facility. It is a number that indicates systemic failure. It was, apparently, tolerable to BP's management.",
+      "visual": "oil refinery Texas industrial complex aerial view aging"
+    },
+    {
+      "voice": "The specific process unit at the center of the disaster was the ISOM — isomerization unit — which processes light naphtha into higher-octane gasoline components. Like most refinery units, it requires precise management of liquid levels, temperatures, and pressures during startup. On March 23, the unit was being restarted after maintenance. The startup procedure involved filling a distillation column called a raffinate splitter with a highly flammable liquid hydrocarbon, then carefully heating it to separate components. The margin for error was thin. The equipment that was supposed to prevent overflow had been broken for months.",
+      "visual": "oil refinery distillation column industrial process plant"
+    },
+    {
+      "voice": "The raffinate splitter had a level indicator — an instrument that told operators how full the column was — that had been faulty for years. Operators worked around it using inaccurate reference measurements. The high-level alarm that should have warned of an overfill condition was not working reliably. The pressure relief system — designed to vent dangerous overpressure to a safe location — discharged to a blowdown drum and stack rather than a modern flare system. The blowdown stack was designed to release vapor into the atmosphere — directly above grade level, where workers and vehicles were present.",
+      "visual": "faulty equipment gauge industrial plant maintenance deferred"
+    },
+    {
+      "voice": "On the morning of the disaster, the supervisor who was supposed to manage the startup was on his second day back after 40 days away. He had not slept well. He had multiple responsibilities that divided his attention. The workers managing the column were also fatigued — some had worked multiple days of 12-hour shifts. BP's Texas City refinery had a culture of operating short-staffed, with maintenance deferred and overtime normalized. These conditions had been documented in internal BP safety audits. They had not been corrected.",
+      "visual": "industrial worker fatigue night shift overtime control room"
+    },
+    {
+      "voice": "During the startup, the raffinate splitter was overfilled. The faulty level indicators showed readings that didn't accurately represent what was inside the column. Operators continued feeding liquid into the column for hours beyond what was appropriate. The column began to pressurize beyond its design limits. Hydrocarbon vapor began to vent through the relief system into the blowdown drum. The drum filled. Liquid began to carry over into the atmospheric blowdown stack. And then it simply poured out of the top of the stack — onto the ground, vaporizing instantly in the warm Texas air.",
+      "visual": "chemical spill vaporization industrial plant ground hydrocarbon"
+    },
+    {
+      "voice": "The vapor cloud expanded rapidly across the work area. A contractor's pickup truck — parked with its engine idling near the blowdown drum — is believed to have been the ignition source. The explosion that followed was equivalent to roughly 15 tons of TNT. It destroyed trailer offices that BP had placed near the ISOM unit — offices occupied by contractors during a planned maintenance turnaround. The trailers had been placed in a hazardous location despite previous recommendations to move them. Fifteen of the dead were in those trailers.",
+      "visual": "vapor cloud explosion industrial site trailer offices blast"
+    },
+    {
+      "voice": "The trailer placement is one of the most investigated decisions in the disaster. Internal documents showed that BP managers had received recommendations to relocate the contractor trailers away from process units. Risk assessments had flagged their proximity to hazardous areas. The relocation had not been done — reportedly due to cost and convenience. When the explosion occurred, the trailers directly in the blast wave absorbed the energy that killed the 15 workers inside. Their location was a known risk that was accepted and then left unaddressed.",
+      "visual": "trailer office placement industrial zone risk assessment"
+    },
+    {
+      "voice": "The U.S. Chemical Safety and Hazard Investigation Board — the CSB — conducted the primary technical investigation. Their findings, published in 2007, were comprehensive and devastating. They found that the direct causes of the explosion were completely understandable — equipment failures, fatigue, inadequate procedures. But the root causes went far deeper: a management system that focused on personal safety metrics — slips, trips, falls — while ignoring process safety metrics — the indicators that would reveal when a system was approaching a catastrophic failure.",
+      "visual": "chemical safety board investigation CSB report analysis"
+    },
+    {
+      "voice": "The distinction between personal safety and process safety is critical and often misunderstood outside the chemical industry. A refinery can have an excellent personal safety record — few lost-time injuries, low incident rates — while its process equipment is deteriorating, its procedures are inadequate, and the risk of a catastrophic release is growing. BP's Texas City refinery had improved its personal safety metrics in the years before the disaster. Its process safety was in crisis. Management was measuring the wrong things and congratulating itself on the results.",
+      "visual": "safety metrics dashboard KPI personal vs process safety"
+    },
+    {
+      "voice": "BP commissioned an independent investigation led by former U.S. Secretary of State James Baker. The Baker Panel report, published in January 2007, was one of the most significant corporate safety reviews in American industrial history. It found that BP had a systemic, company-wide process safety management failure — not just at Texas City, but across its U.S. refining operations. It found that BP's executive management did not have an accurate picture of process safety risk because the information they received was filtered through metrics that didn't measure what mattered.",
+      "visual": "Baker panel report cover corporate safety review formal"
+    },
+    {
+      "voice": "The Baker Panel made 10 recommendations, all of which BP accepted. It called for a fundamental overhaul of BP's process safety management culture, a new process safety leadership structure, implementation of leading process safety indicators, and an independent panel to monitor BP's progress over five years. BP CEO John Browne said the right things. His successor Tony Hayward said the right things. And then, on April 20, 2010, the Macondo well blew out on the Deepwater Horizon platform, killing 11 workers. The same systemic failures, different context.",
+      "visual": "BP CEO press conference apologetic corporate response"
+    },
+    {
+      "voice": "OSHA proposed the largest fine in its history for the Texas City disaster — 21 million dollars for 439 safety violations. BP contested many of the citations. In 2009, after negotiation, BP agreed to pay 87 million dollars in fines — the largest in OSHA history at that time — for failing to correct hazards identified after the 2005 explosion. Even that record fine was a fraction of a single quarter's profit for a company that earned billions annually. The economic incentive structure never changed.",
+      "visual": "OSHA fine corporate penalty financial calculation comparison"
+    },
+    {
+      "voice": "The families of the 15 workers who died received settlements from BP. The amounts were not disclosed publicly. Eva Rowe, whose parents both died in the blast, refused an early settlement offer and went to trial. She ultimately settled, but used part of the proceeds to fund an online archive of internal BP safety documents released during litigation — one of the most comprehensive collections of corporate safety failures ever made public. Those documents showed BP executives being warned, repeatedly, about Texas City's conditions.",
+      "visual": "family victim survivor legal settlement documents archive"
+    },
+    {
+      "voice": "Among the warning signs that had been documented and ignored: a 2004 safety survey of workers at Texas City found that 53 percent of respondents said production was prioritized over safety, that safety procedures were routinely bypassed with management awareness, and that workers feared reprisal for reporting safety concerns. A Telos Group audit in 2004 described the safety culture as representing 'a broken safety culture' and 'an exceptional degree of fear' of raising safety issues. BP's management received this report. The trailer offices were not moved.",
+      "visual": "safety survey results documents corporate culture warning"
+    },
+    {
+      "voice": "The blowdown drum and stack system — the specific equipment that allowed hydrocarbons to be released directly to atmosphere — was already known to be outdated and dangerous at the time of the explosion. Modern refineries use closed systems that route releases to flares rather than open stacks. The EPA had published guidance recommending phase-out of these older systems. BP had assessed the Texas City blowdown system and known it was a hazard. The cost of replacement had been approved but the work had been deprioritized. It hadn't been completed by the day of the disaster.",
+      "visual": "flare system modern refinery blowdown stack comparison old"
+    },
+    {
+      "voice": "The broader refinery industry took notice of Texas City's implications. The American Petroleum Institute developed new recommended practices for process safety management. The Process Safety Management standard was more rigorously applied. Independent audits of major refineries increased. The concept of process safety culture — distinct from personal safety culture — became a significant focus of industry education. But cultural change in large corporations moves slowly. The gap between announced intention and operational reality is large and hard to close.",
+      "visual": "refinery industry safety training education process culture"
+    },
+    {
+      "voice": "Fifteen people who went to work at a Texas refinery on a March morning in 2005 never came home. They were contractors — some were full-time BP employees, others were brought in for the maintenance turnaround, young workers beginning careers in the energy industry. Their names are on a memorial at the Texas City refinery. They died because deferred maintenance, faulty instruments, normalized risk, and the consistent prioritization of production cost over safety created conditions where a catastrophic explosion was not a matter of if but of when.",
+      "visual": "memorial Texas City refinery names workers tribute"
+    },
+    {
+      "voice": "The Texas City refinery is still operating today — now owned by Marathon Petroleum, which acquired it from BP in 2013. Marathon has invested heavily in process safety improvements and the facility's safety record has significantly improved. But the questions raised by the 2005 disaster — about how organizations manage the invisible risk of catastrophic failure, about how corporate safety culture either prevents or produces disasters, and about whether financial penalties are sufficient deterrent when the fine is a rounding error in quarterly earnings — remain unresolved.",
+      "visual": "Texas City refinery modern operations Marathon Petroleum"
+    },
+    {
+      "voice": "The accident sequence at Texas City lasted approximately three hours from the first overfill of the raffinate splitter to the explosion. During those three hours, the instruments were giving inaccurate readings. The alarms were not working reliably. The operators were following procedures that had been written for equipment that worked as designed. They were not negligent — they were operating in a system that had been allowed to deteriorate to the point where competent operation was no longer possible. You cannot operate safely in an unsafe system.",
+      "visual": "timeline accident sequence industrial analysis investigation board"
+    },
+    {
+      "voice": "The CSB investigation found 195 causal factors in the Texas City disaster — a number that speaks to the complexity of catastrophic accidents in complex systems. Not one cause, not three, not ten. One hundred and ninety-five. Each factor represents a decision, a maintenance deferral, a procedure shortcut, a management choice that, at the time it was made, seemed acceptable. The accumulation of 195 acceptable decisions created one unacceptable outcome. This is what James Reason calls the Swiss cheese model: holes aligned across multiple layers until there was nothing between the hazard and the harm.",
+      "visual": "swiss cheese model safety barriers layers holes diagram"
+    },
+    {
+      "voice": "BP's Texas City disaster, Deepwater Horizon five years later, and dozens of other process industry catastrophes in between share a common DNA: organizations that had safety programs, safety officers, safety metrics, and safety cultures that looked acceptable on paper and failed catastrophically in practice. The gap between declared and actual safety culture is one of the most dangerous gaps in industrial management. It exists in companies that genuinely believe they are managing safety well. The dissonance between belief and reality is not visible until something explodes.",
+      "visual": "refinery safety culture gap reality declared practice"
+    },
+    {
+      "voice": "Texas City is the disaster that BP should have used to transform itself — the near-mortal warning before the lethal blow of Deepwater Horizon. The Baker Panel told them exactly what was wrong. The CSB told them exactly what was wrong. The workers' survey told them. The lawyers defending the lawsuits read documents that told them. The refinery had been telling anyone who looked closely what was wrong for years before 2005. The problem was not information. The problem was that no one in a position of authority had the will to make the pain of change feel less than the pain of consequence.",
+      "visual": "oil industry accountability reform missed opportunity lesson"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": 39,
+  "title": "Circuitos Circadianos: Por Qué Comer a Deshora Te Enferma",
+  "description": "El horario en que comes importa tanto como lo que comes. Analizamos la crononutrición, time-restricted eating, ritmos circadianos del metabolismo y por qué el turno de noche acorta la vida.",
+  "tags": ["ritmo circadiano", "crononutrición", "time-restricted eating", "metabolismo", "horario comidas", "sueño", "diabetes", "turno noche", "reloj biológico", "salud"],
+  "thumbnail_text": "CUÁNDO COMES IMPORTA",
+  "segments": [
+    {
+      "voice": "Imagina dos personas que comen exactamente lo mismo: las mismas calorías, los mismos nutrientes, el mismo reparto de macros. Una lo come entre las 8 de la mañana y las 8 de la noche. La otra come la misma cantidad pero con el patrón invertido, picando a deshoras hasta medianoche. Sus metabolismos producirán resultados completamente diferentes. Y la razón es que nuestro cuerpo tiene relojes biológicos en cada célula que regulan cuándo podemos procesar la energía de forma eficiente.",
+      "visual": "eating timing circadian clock metabolism food schedule comparison"
+    },
+    {
+      "voice": "El reloj maestro del cuerpo es el núcleo supraquiasmático del hipotálamo, sincronizado principalmente por la luz solar. Pero casi todos los órganos tienen sus propios relojes periféricos: el hígado, el páncreas, el tejido adiposo, el músculo y el intestino tienen genes de reloj que regulan su funcionamiento metabólico. El sincronizador de estos relojes periféricos no es la luz, sino la comida. Comer a ciertas horas literalmente pone en hora el metabolismo.",
+      "visual": "circadian clock SCN hypothalamus peripheral clocks liver pancreas"
+    },
+    {
+      "voice": "Satchin Panda, del Salk Institute, es uno de los investigadores más importantes de este campo. Sus estudios con ratones mostraron algo dramático: ratones alimentados con una dieta rica en grasas pero solo durante 8 horas de su fase activa eran metabólicamente más sanos que ratones comiendo la misma dieta a voluntad durante 24 horas. Mismo número de calorías, resultados completamente distintos. El timing importa independientemente de la cantidad.",
+      "visual": "Salk Institute time restricted feeding mice Satchin Panda research"
+    },
+    {
+      "voice": "En humanos, la insulinemia varía a lo largo del día. La respuesta insulínica al mismo estímulo glucídico es entre 2 y 4 veces más alta en las horas nocturnas que en las matutinas. Un experimento de 2021 en el American Journal of Clinical Nutrition con 30 adultos sanos mostró que consumir la misma comida alta en glucosa a las 8 de la mañana versus a las 8 de la noche producía un pico glucémico 56 por ciento más alto en el horario nocturno.",
+      "visual": "insulin response glucose circadian blood sugar morning evening comparison"
+    },
+    {
+      "voice": "La crononutrición es la ciencia que estudia cómo el horario de las comidas interactúa con el ritmo circadiano. Sus recomendaciones más robustas: concentrar la mayor parte de la ingesta calórica en las horas diurnas, evitar comer en las 2 a 3 horas antes de dormir y mantener una ventana de ayuno nocturno de al menos 12 horas. Un metaanálisis de 2023 en Advances in Nutrition con 34 estudios apoya estas recomendaciones con evidencia de nivel moderado.",
+      "visual": "chrononutrition meal timing daytime calories fasting window night"
+    },
+    {
+      "voice": "El time-restricted eating o alimentación restringida en el tiempo es la aplicación práctica más estudiada. Satchin Panda realizó el primer ensayo en humanos en 2020 con 19 participantes con síndrome metabólico. Comer en una ventana de 10 horas durante 12 semanas, sin restricción calórica explícita, redujo el peso corporal un 3 por ciento, la presión arterial 5 puntos, los triglicéridos un 11 por ciento y la glucosa en ayunas un 3 por ciento.",
+      "visual": "time-restricted eating TRE 10 hour window metabolic syndrome results"
+    },
+    {
+      "voice": "Para el peso, la evidencia del TRE es prometedora pero no superior a la restricción calórica simple. Un ensayo controlado de 2022 en New England Journal of Medicine con 139 adultos con obesidad comparó TRE de 8 horas más restricción calórica versus restricción calórica sola durante un año. Ambos grupos perdieron aproximadamente el mismo peso. La ventaja del TRE es que la restricción calórica ocurre de forma espontánea sin necesidad de contar calorías.",
+      "visual": "time restricted eating weight loss calorie restriction comparison NEJM"
+    },
+    {
+      "voice": "El turno de noche es el experimento natural más contundente sobre el daño del desajuste circadiano. Trabajar de noche revierte el ciclo luz-oscuridad y obliga al metabolismo a procesar alimentos en horas biológicamente inadecuadas. Un metaanálisis de 2019 en Occupational and Environmental Medicine con 226.652 trabajadores mostró que el trabajo nocturno se asocia con un 37 por ciento mayor riesgo de diabetes tipo 2 y un 23 por ciento mayor riesgo de enfermedad cardiovascular.",
+      "visual": "night shift work metabolic disease diabetes cardiovascular risk circadian"
+    },
+    {
+      "voice": "Los mecanismos del daño circadiano por comer a deshoras son múltiples. La termogénesis inducida por la dieta, la energía que gasta el cuerpo digiriendo, es 30 por ciento menor por la noche. La oxidación de grasas es menor y el almacenamiento de grasa mayor después de las 20 horas. El microbioma intestinal tiene también un ritmo circadiano propio, y comer a deshoras desincroniza los ritmos bacterianos, reduciendo la producción de ácidos grasos de cadena corta beneficiosos.",
+      "visual": "diet-induced thermogenesis fat oxidation microbiome circadian night eating"
+    },
+    {
+      "voice": "El desayuno y su importancia dependen del contexto circadiano. Para personas con horarios diurnos, desayunar mejora la sensibilidad a la insulina matinal y ayuda a sincronizar el reloj metabólico. Un estudio de 2023 en Nutrients con 697 adultos con prediabetes encontró que tomar el 35 por ciento de las calorías en el desayuno versus saltárselo mejoraba la HbA1c en 0,4 puntos en 3 meses. Pero para personas que no tienen hambre por la mañana, saltarse el desayuno y concentrar la ventana de comida más tarde en el día también tiene respaldo.",
+      "visual": "breakfast importance circadian insulin sensitivity morning meal diabetes"
+    },
+    {
+      "voice": "La última comida del día es donde la mayoría de las personas puede ganar más. Adelantar la cena antes de las 20 horas versus después de las 21 horas se asoció con un 23 por ciento menor riesgo de cáncer de mama y un 26 por ciento menor riesgo de cáncer de próstata en un estudio de 2018 con 2.100 participantes del Instituto de Salud Global de Barcelona. El mecanismo propuesto incluye mayor período de reparación celular nocturna y mejor regulación hormonal.",
+      "visual": "early dinner before 8pm cancer risk circadian Barcelona study"
+    },
+    {
+      "voice": "El jet lag social, el desfase entre el ritmo natural de sueño y vigilia y los horarios laborales, afecta a entre el 40 y el 80 por ciento de la población en países industrializados. Este desajuste crónico tiene efectos metabólicos similares al turno de noche pero más sutiles. Un estudio de 2024 en Current Biology con 40.000 personas del UK Biobank mostró que el jet lag social de solo 1 hora se asociaba con mayor índice de masa corporal, triglicéridos y PCR.",
+      "visual": "social jet lag sleep timing metabolic effects body weight inflammation"
+    },
+    {
+      "voice": "Las recomendaciones prácticas derivadas de esta ciencia son simples: intenta comer en un rango de 10 a 12 horas durante el día, preferiblemente entre las 8 de la mañana y las 8 de la noche. Evita picar después de las 20 o 21 horas. Mantén horarios de sueño consistentes, incluso los fines de semana, para minimizar el jet lag social. Exponte a luz solar por la mañana para sincronizar tu reloj maestro. Son cambios de cuándo, no necesariamente de qué.",
+      "visual": "eating window 10 hours practical advice consistent sleep schedule"
+    }
+  ]
+}

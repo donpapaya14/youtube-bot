@@ -1,0 +1,101 @@
+{
+  "id": 1,
+  "title": "Why Your Coffee Tastes Bitter (The Chemistry Nobody Explains)",
+  "description": "Ever wondered why your coffee tastes bitter no matter what you do? The answer isn't your beans or your brewing — it's chemistry. In this video we break down the exact compounds responsible for bitterness, how extraction time, temperature, and grind size interact at a molecular level, and the surprisingly simple fixes most baristas never tell you. Learn about chlorogenic acids, caffeine, melanoidins, and how to dial in the perfect cup every time. #coffee #bitterness #coffeescience #brewing #coffechemistry",
+  "tags": ["coffee", "bitter coffee", "coffee chemistry", "coffee science", "brewing tips", "espresso", "over extraction", "coffee taste", "chlorogenic acid", "caffeine", "coffee guide", "barista tips", "coffee education"],
+  "segments": [
+    {
+      "voice": "You make a cup of coffee. You take a sip. And there it is — that harsh, almost unpleasant bitterness that coats the back of your throat. You bought good beans. You followed the instructions. So what went wrong? The answer isn't your fault. It's chemistry. And once you understand it, you'll never brew a bitter cup again.",
+      "visual": "coffee cup closeup steam morning light"
+    },
+    {
+      "voice": "Coffee contains over a thousand distinct chemical compounds. When you brew, hot water pulls those compounds out of the grounds in a very specific order. First come the acids — bright, fruity, and pleasant. Then the sugars — sweet and round. Then the oils — rich and heavy. And finally, if you let the water keep working, the bitter compounds flood in and ruin everything.",
+      "visual": "coffee brewing pour over extraction slow motion"
+    },
+    {
+      "voice": "The main villain is a group of molecules called chlorogenic acids. Raw coffee beans are loaded with them — up to 12 percent by weight. They're actually antioxidants, which sounds healthy. But when heat transforms them during roasting and brewing, they degrade into quinic acid and caffeic acid. Those degradation products are sharply, unpleasantly bitter.",
+      "visual": "coffee beans macro closeup detail texture"
+    },
+    {
+      "voice": "Here's where it gets interesting. Chlorogenic acids degrade faster at higher temperatures. That's why a cup brewed at 205 degrees Fahrenheit tastes noticeably more bitter than one brewed at 195. You're not imagining it. The chemistry is actually different. The same beans, the same grind, the same water — just ten degrees of difference creates a measurably different bitter profile.",
+      "visual": "thermometer coffee brewing temperature kettle"
+    },
+    {
+      "voice": "Then there's caffeine itself. Yes, caffeine is bitter — directly, chemically bitter. It activates the T2R43 bitter taste receptor on your tongue. The amount of caffeine in a typical cup contributes about 10 to 15 percent of the total perceived bitterness. So if you want less bitter coffee, ironically, you'd want less caffeine — which is why some people find lighter roasts easier to drink.",
+      "visual": "coffee espresso shot pouring closeup"
+    },
+    {
+      "voice": "But the biggest variable most people never think about is extraction. Think of coffee grounds like a sponge. In the first 20 to 30 percent of brewing time, water extracts all the pleasant stuff — acids, sweetness, aromatics. In the next phase, it pulls out body and balance. In the final phase, it extracts the heavy, bitter compounds that ruin the cup. Stop too early and it's sour. Go too long and it's bitter.",
+      "visual": "coffee grounds extraction brewing timer"
+    },
+    {
+      "voice": "Scientists call this the extraction yield — the percentage of the dry grounds that actually dissolve into your water. The Specialty Coffee Association has spent decades studying this. Their finding? The ideal range is 18 to 22 percent extraction. Below 18, sour and thin. Above 22, bitter and harsh. That narrow window is everything.",
+      "visual": "barista measuring coffee scale precision"
+    },
+    {
+      "voice": "Your grind size controls extraction more than anything else. Finer grind means more surface area, which means faster extraction. So a super-fine grind might hit 24 percent extraction in the same time a coarser grind hits 19. Dialing in your grinder — not your brewing time — is the single most powerful tool you have against bitterness.",
+      "visual": "coffee grinder burr grind closeup"
+    },
+    {
+      "voice": "Water temperature is the second lever. Most home coffee makers brew at 200 to 212 degrees — way too hot for delicate light roasts. Specialty baristas often brew light roasts at 200 to 205 Fahrenheit and dark roasts as low as 190. Dark roasts have already had their chlorogenic acids degraded by the roasting process, so high heat just piles on more bitterness unnecessarily.",
+      "visual": "gooseneck kettle water pour temperature control"
+    },
+    {
+      "voice": "Speaking of roasting — that's the third factor. During roasting, green beans are exposed to temperatures between 370 and 540 degrees Fahrenheit. The Maillard reaction — the same browning reaction that happens when you sear a steak — creates hundreds of new flavor compounds. It also creates melanoidins, large brown polymers that contribute to body and some bitterness.",
+      "visual": "coffee roasting machine drum beans rotating"
+    },
+    {
+      "voice": "The darker the roast, the more melanoidins form, and the more the original chlorogenic acids break down into their bitter byproducts. This is counterintuitive to many people who think dark roast means strong, bold, not bitter. Strong, yes. Bold, yes. But dark roast coffee is actually chemically more bitter than light roast — measurably, verifiably more bitter.",
+      "visual": "dark roast light roast coffee beans comparison"
+    },
+    {
+      "voice": "Here's another bitterness source nobody talks about: your brewing vessel. Old coffee oils build up on the inside of your French press, your portafilter, your drip carafe. Those rancid oils are genuinely, aggressively bitter. A study in the journal Food Chemistry found that unwashed brewing equipment contributed a measurable bitterness increase within just 24 hours of use. Clean your equipment. Seriously.",
+      "visual": "cleaning coffee equipment barista cafe"
+    },
+    {
+      "voice": "Water hardness plays a role too. Water that's too soft extracts bitter compounds faster because there are fewer minerals buffering the interaction between water and coffee. Water that's too hard deposits calcium on your equipment and blocks extraction entirely, creating sour, uneven flavor. The Specialty Coffee Association recommends water with about 150 parts per million of total dissolved solids. Most tap water is nowhere near that ideal.",
+      "visual": "water pouring coffee brewing mineral water"
+    },
+    {
+      "voice": "There's a psychological layer to bitterness as well. Research from the University of Queensland found that people with certain genetic variations in their bitter taste receptors perceive coffee bitterness more intensely. If you've always found coffee unpleasantly bitter while your friends love it, you may genuinely be tasting more bitterness than they are. It's not sensitivity — it's genetics.",
+      "visual": "coffee tasting sensory evaluation flavor"
+    },
+    {
+      "voice": "Salt. Yes, salt. A tiny pinch of sodium chloride — about one-eighth of a teaspoon per liter of water — chemically suppresses bitter taste receptors. This isn't a folk remedy; it's peer-reviewed food science. Sodium ions block bitter taste receptor activation. Many specialty baristas add a small amount of salt to their brewing water specifically for this reason.",
+      "visual": "salt pinch coffee water brewing science"
+    },
+    {
+      "voice": "Milk and cream don't neutralize bitterness so much as they dilute and coat it. The proteins and fats in dairy physically bind to some bitter compounds, reducing the amount that reaches your taste receptors. This is why an Americano tastes more bitter than a latte with the exact same espresso — the milk is literally capturing some of the bitterness.",
+      "visual": "milk pouring latte coffee cream barista"
+    },
+    {
+      "voice": "The ratio of coffee to water matters enormously. The standard recommendation is about 1 to 15 — one gram of coffee for every 15 grams of water. Going stronger, like 1 to 12, doesn't just make the coffee more intense — it changes the extraction dynamics, often pulling more bitter compounds because the water is working harder per gram of grounds.",
+      "visual": "coffee scale ratio measurement brewing precision"
+    },
+    {
+      "voice": "Pre-infusion — wetting the grounds before full brewing — dramatically reduces bitterness. When you wet grounds first, you release CO2 trapped inside, which allows water to penetrate evenly during the actual brew. Uneven extraction means some parts of the puck extract too much, hitting those bitter end compounds, while other parts stay under-extracted and sour. The result is the worst of both worlds.",
+      "visual": "coffee bloom pre infusion pour over drip"
+    },
+    {
+      "voice": "Brewing method itself shifts the bitter profile significantly. Espresso, despite its intense flavor, actually contains less total bitter compounds per serving than drip coffee because the extraction time is so short — 25 to 30 seconds versus 4 minutes. The bitterness in espresso feels different, more concentrated, but the total bitter compound load is lower. French press, because of its long steep and unfiltered oils, often tastes the most bitter of all methods.",
+      "visual": "espresso machine vs french press coffee methods"
+    },
+    {
+      "voice": "There's also the issue of stale coffee. Coffee beans begin oxidizing the moment they're roasted. That oxidation creates fatty acid breakdown products — some of which are bitter. Beans that are more than a month past their roast date can taste bitter not because of your brewing technique, but because the beans themselves have chemically degraded. Freshness isn't a marketing claim. It's chemistry.",
+      "visual": "fresh coffee beans bag roast date specialty"
+    },
+    {
+      "voice": "Here's your practical takeaway. Bitter coffee? Check these five things in order: one, grind size — coarser if over-extracted; two, water temperature — lower it to 195 Fahrenheit for dark roasts; three, extraction time — shorter brew; four, coffee freshness — check the roast date; five, equipment cleanliness — when did you last deep-clean your brewer? Fix those five, and bitterness becomes optional.",
+      "visual": "barista checklist coffee brewing tips cafe"
+    },
+    {
+      "voice": "The most important thing to understand is that bitterness in coffee is not a sign of strength or quality. It's a sign of chemistry gone slightly wrong. The world's best baristas aren't trying to make strong coffee — they're trying to make balanced coffee, where acids, sweetness, body, and just a whisper of bitterness work together in harmony. That balance is achievable. And now you know exactly how.",
+      "visual": "specialty coffee perfect cup barista award"
+    },
+    {
+      "voice": "Coffee at its best has almost no bitterness at all. Think of a perfectly ripe strawberry — sweet, bright, with just enough tartness to be interesting. That's what great coffee tastes like when the chemistry is right. Bitter coffee isn't authentic or traditional. It's just a chemistry problem waiting to be solved.",
+      "visual": "beautiful coffee cup latte art morning light"
+    }
+  ],
+  "thumbnail_text": "WHY SO BITTER?"
+}

@@ -1,0 +1,93 @@
+{
+  "id": 21,
+  "title": "Lac-Mégantic: A Single Engineer Left a Train. It Rolled Into a Town and Killed 47.",
+  "description": "On July 6, 2013, a 73-car crude oil train rolled unmanned down a grade into the town of Lac-Mégantic, Quebec, and exploded. 47 people died. The investigation found that the Montreal, Maine & Atlantic Railway had a single-person crew operating a train that industry standards required to have multiple. The engineer had parked the train, set the brakes, and gone to sleep in a hotel. Nobody told him the rules were wrong. #LacMegantic #TrainDerailment #RailwayDisaster #DisasterDecode",
+  "tags": ["Lac-Mégantic", "train derailment", "crude oil train", "Quebec disaster", "47 dead", "railway disaster", "single operator", "MM&A railway", "oil by rail", "disaster documentary", "disaster decode", "Canada disaster"],
+  "thumbnail_text": "ONE ENGINEER. 47 DEAD.",
+  "segments": [
+    {
+      "voice": "At approximately 1:15 AM on July 6, 2013, a 73-car crude oil train rolled unmanned down a 1.2 percent grade into the downtown core of Lac-Mégantic, a town of 6,000 people in Quebec, Canada. The train derailed. The cars carrying Bakken crude oil from North Dakota ruptured and ignited. The downtown was destroyed in a fireball that lasted for days. Forty-seven people died — a significant fraction of the people who were out on a Friday night in a small Canadian town. The investigation found an almost unbroken chain of decisions, by individuals and by regulators, that had made this exact outcome predictable.",
+      "visual": "train derailment fire Lac-Mégantic Quebec crude oil night 2013"
+    },
+    {
+      "voice": "The Montreal, Maine and Atlantic Railway — MM&A — was a small, financially stressed short-line railroad that operated through Quebec and Maine. It had acquired the route through Lac-Mégantic as part of a larger rail network purchase. Like many short-line operators in North America, it operated with minimal staff and narrow margins. One of the cost-cutting measures that Transport Canada had approved was single-person train operations — one engineer in the cab, alone, for the entire run. This approval would later be recognized as a catastrophic regulatory error.",
+      "visual": "short line railway rural Canada MM&A train locomotive"
+    },
+    {
+      "voice": "The train — identified as MMA-002 — consisted of a locomotive consist of five diesel-electric engines followed by 73 DOT-111 tank cars loaded with crude oil from the Bakken Shale formation in North Dakota. The Bakken crude was significantly more volatile than conventional crude oil — a fact that the railroad's oil transport contracts did not reflect in safety requirements. The DOT-111 tank cars were an older design known within the industry to be vulnerable to puncture and rupture in derailments. Both facts — the crude's volatility and the tank cars' vulnerability — were known. Neither had triggered regulatory action.",
+      "visual": "DOT-111 tank car crude oil railway Bakken shale volatile"
+    },
+    {
+      "voice": "On the evening of July 5, engineer Tom Harding parked the train on a grade just outside Nantes, a village seven kilometers uphill from Lac-Mégantic. He set the independent brakes on the locomotive — the air brakes that hold the locomotive consist — and applied handbrakes on a number of cars. He left the lead locomotive running to maintain air pressure in the brake system. This was standard practice: leaving a locomotive running overnight to keep the air brakes pressurized and functional. Then he went to a hotel in Nantes. He was the only crew member.",
+      "visual": "train parked overnight grade hill locomotive brakes set"
+    },
+    {
+      "voice": "Shortly after Harding left, the Nantes fire department received a report of a fire on the lead locomotive. Firefighters responded and extinguished the engine fire. Standard procedure when dealing with an engine fire is to shut down the engine to prevent reignition. They shut it down. This was the correct action for a fire. But it had an unintended consequence: the air brake system, which required the running engine to maintain pressure, began to slowly bleed air. As air pressure dropped over the following hours, the air brakes progressively released.",
+      "visual": "locomotive fire extinguished firefighters Nantes engine shutdown"
+    },
+    {
+      "voice": "The firefighters notified MM&A's rail traffic control. MM&A's dispatcher acknowledged the shutdown but did not send anyone to inspect the brake status or apply additional handbrakes. The handbrakes Harding had applied — investigators later determined — were insufficient to hold a 10,000-ton train on the grade without the supplementary air brakes. The train, as the air bled from the system through the night, was held by an inadequate number of handbrakes and nothing else. At approximately 11:00 PM, it began to move.",
+      "visual": "train rolling unmanned overnight handbrakes insufficient grade"
+    },
+    {
+      "voice": "The train accelerated down the grade toward Lac-Mégantic. There was no engineer aboard. There was no automatic system to detect that an unmanned train was accelerating on a mainline. The positive train control technology — GPS-based systems capable of automatically stopping a runaway train — had not been implemented on this section of track. In the United States, positive train control had been mandated by Congress in 2008 with a 2015 deadline; most railroads were not compliant by that deadline. In Canada, the requirements were less stringent.",
+      "visual": "positive train control PTC technology railway safety mandate"
+    },
+    {
+      "voice": "A resident in Nantes saw the unmanned train moving. He called 911. The call was logged. But the response — reaching the railroad dispatcher, who would then need to alert traffic control, who would need to throw a switch or find a way to stop the train — was too slow for the speed the train had reached. By the time any warning could have been acted upon, the train was approaching Lac-Mégantic at over 100 kilometers per hour — approximately three times the speed limit for that section of track.",
+      "visual": "emergency call 911 warning too late train speed acceleration"
+    },
+    {
+      "voice": "At 1:14 AM, the train entered the sharper curves of the downtown area of Lac-Mégantic at approximately 105 kilometers per hour. The first cars derailed on the curve. The subsequent cars piled into them. Within seconds, DOT-111 tank cars ruptured. The Bakken crude oil — under pressure from the weight of the cars above — erupted and ignited. The fireball engulfed the downtown core, including the Musi-Café bar, which was full of people on a Friday night. The fire burned for two days. Forty-seven people died.",
+      "visual": "train derailment downtown explosion bar destroyed Lac-Megantic"
+    },
+    {
+      "voice": "The Transportation Safety Board of Canada's investigation — one of the most comprehensive railway safety investigations in Canadian history — identified 18 contributing factors to the disaster. These included: the single-person crew policy, the inadequate handbrake application, the failure of MM&A's dispatcher to respond appropriately to the fire notification, the absence of positive train control, the volatile classification of the Bakken crude, and the vulnerability of the DOT-111 tank cars. No single factor caused the disaster. All 18 factors had to align for it to happen exactly as it did.",
+      "visual": "TSB investigation 18 factors contributing disaster analysis"
+    },
+    {
+      "voice": "The DOT-111 tank car question was particularly significant. These older tank cars had thinner shells and less robust end fittings than newer designs. In the industry, there had been growing recognition for years that DOT-111 cars were inadequate for carrying flammable liquids. Multiple prior derailments had resulted in DOT-111 cars rupturing and igniting in ways that newer cars had resisted. The rail industry had lobbied against rapid phase-out of the older cars, citing cost. Regulators had accepted delayed timelines. The cars that burned in Lac-Mégantic had been flagged in prior safety reviews as problematic.",
+      "visual": "DOT-111 tank car vulnerability comparison newer standard safer"
+    },
+    {
+      "voice": "Tom Harding — the engineer who had parked the train — was charged with criminal negligence causing death. Two other MM&A employees were also charged. Their trial, in 2018, resulted in acquittals for all three. The jury found that the evidence did not establish personal criminal guilt beyond a reasonable doubt — that the failures were systemic rather than individual. MM&A itself had declared bankruptcy in the weeks after the disaster. Its assets were insufficient to fully compensate the victims and the community. The company that had operated the train and set the regulatory conditions for the disaster no longer existed.",
+      "visual": "criminal trial acquittal Harding railway employees verdict 2018"
+    },
+    {
+      "voice": "The settlement paid to victims and the town of Lac-Mégantic came primarily from the insurance of other companies in the liability chain: the shippers, the tank car manufacturers, and CP Rail — which had operated some of the infrastructure. The total settlements exceeded 400 million Canadian dollars. The town's downtown core was rebuilt. But the human losses — including an entire social network that had been at the Musi-Café that night — cannot be compensated financially. The physical town was rebuilt. The community that existed on the night of July 5, 2013, cannot be.",
+      "visual": "town rebuilt Lac-Megantic downtown reconstruction memorial Canada"
+    },
+    {
+      "voice": "The regulatory response in both Canada and the United States was significant. Transport Canada accelerated the phase-out of DOT-111 tank cars for flammable liquids — replacing them with newer TC-117 and CPC-1232 designs with thicker shells and better end fittings. Single-person crew operations for trains carrying dangerous goods were re-examined. The positive train control mandate timeline was tightened. Emergency response planning requirements for oil-by-rail routes were strengthened. The changes came after 47 people died in a town center at 1 AM on a summer weekend.",
+      "visual": "regulatory reform railway safety Canada US tank car phase out"
+    },
+    {
+      "voice": "The 'oil by rail' phenomenon that brought the Bakken crude through Lac-Mégantic was a product of the shale oil boom of the early 2010s. The Keystone XL pipeline — which would have moved Bakken crude to refineries by the safest possible route — was in regulatory limbo. Without pipeline capacity, the oil moved by rail — through whatever communities the existing track happened to pass through. The routing of hazardous materials through small towns was not a risk that those communities had been consulted about or had the power to prevent.",
+      "visual": "oil by rail pipeline alternative shale boom North Dakota crude"
+    },
+    {
+      "voice": "The residents of Lac-Mégantic had no knowledge that a train carrying approximately 7.7 million liters of explosive crude oil was parked seven kilometers uphill from their downtown. They had no knowledge of its composition, its volatility class, or the adequacy of the brakes holding it in place. Under the regulatory framework that existed in 2013, communities along railway routes carrying dangerous goods were not entitled to that information. The secrecy was commercial in origin — shippers considered cargo manifests proprietary. Forty-seven people died in part because a town didn't know what was parked above it.",
+      "visual": "community right to know dangerous goods railway transparency"
+    },
+    {
+      "voice": "The railway that passed through Lac-Mégantic had been there since the 1870s. The town had grown around it. The downtown — the restaurants, the bars, the Musi-Café — were there because the railway had been a reason for the town's existence. The very infrastructure that had founded the community was the infrastructure that destroyed it. This is a pattern in rail disasters: the railway is not a foreign imposition on a community but a part of its history, its economy, and its geography. When it fails, it fails at the heart of what it helped create.",
+      "visual": "railway history town founding heritage community infrastructure"
+    },
+    {
+      "voice": "The air brake system and the handbrake application are the mechanical core of the disaster, but engineers who study Lac-Mégantic focus on a human factors principle: the engineered system was not fail-safe. A train parked on a grade with air brakes only was stable only as long as the air supply was maintained. The fire suppression — correctly applied by the firefighters — removed the air supply. The train then had only the handbrakes Harding had applied, which were insufficient. The system had a single failure mode that led directly to disaster, and the people in the response chain that night did not recognize it.",
+      "visual": "brake system fail safe engineering design analysis train"
+    },
+    {
+      "voice": "The downtown of Lac-Mégantic was rebuilt within a few years of the disaster. New buildings stand where the Musi-Café burned. A memorial — a simple series of plaques on a wall near the former bar location — lists the 47 names. The railway has been rerouted away from the downtown area, at enormous cost, to prevent any future train running through the center of the town. The rerouting was one of the first tangible safety improvements: the most obvious hazard — a mainline railway through a downtown — was physically eliminated.",
+      "visual": "memorial plaques 47 names Lac-Megantic railway rerouted bypass"
+    },
+    {
+      "voice": "The families of the 47 victims have been active in advocacy for railway safety reforms in both Canada and the United States. The pressure they applied was instrumental in accelerating the tank car replacement timeline and in improving dangerous goods routing notification requirements. Their advocacy represents one of the clearest examples of disaster victims driving safety improvement — not because the industry or the regulator acted on its own initiative, but because the people who had lost the most were the ones who refused to let the lessons be buried with the dead.",
+      "visual": "family advocacy safety reform railway victim survivor activism"
+    },
+    {
+      "voice": "Lac-Mégantic is a disaster where the systemic causes are unusually legible. Single-person crew. Inadequate handbrake protocol. Volatile crude misclassified. Vulnerable tank cars. No positive train control. Each item on that list was a known problem with known solutions before the disaster. Each solution had been delayed by cost, lobbying, or bureaucratic inertia. Forty-seven people died not because the solutions didn't exist, but because implementing them had been judged less urgent than the financial pressures against doing so. That is a calculation made somewhere. Someone made it. And forty-seven people paid for it.",
+      "visual": "safety reform delay cost pressure regulatory inertia accountability"
+    }
+  ]
+}
