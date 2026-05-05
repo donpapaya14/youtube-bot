@@ -40,15 +40,12 @@ def upload_to_youtube(
     if cta:
         description = f"{description}\n\n{cta}"
 
-    # Añadir link Amazon basado en tags del video
-    amazon_tag = channel_config.get("amazon_tag", "vladys-21")
-    if tags:
-        search_kw = "+".join(tags[:3]).replace(" ", "+")
-        amazon_link = f"https://www.amazon.com/s?k={search_kw}&tag={amazon_tag}"
+    # Personalizar link Amazon del CTA con tags del vídeo actual
+    if tags and channel_config.get("amazon_search"):
         description = description.replace(
-            channel_config.get("amazon_search", ""),
-            "+".join(tags[:2]).replace(" ", "+")
-        ) if channel_config.get("amazon_search") else description
+            channel_config["amazon_search"],
+            "+".join(tags[:2]).replace(" ", "+"),
+        )
 
     language = channel_config.get("language", "en")
     category_id = channel_config.get("category_id", "22")
@@ -57,7 +54,7 @@ def upload_to_youtube(
         "snippet": {
             "title": title[:100],
             "description": description[:5000],
-            "tags": tags[:30],
+            "tags": list(set(tags))[:30],
             "categoryId": category_id,
             "defaultLanguage": language,
             "defaultAudioLanguage": language,

@@ -274,7 +274,7 @@ def _compose_final(bg_video, voice_path, slide_pngs, segments, total_duration, o
 
 def generate_shorts_thumbnail(hook: str, channel: dict, output_path: str) -> str:
     """Genera thumbnail YouTube 1280×720 con el hook del vídeo."""
-    W, H = 1280, 720
+    W, H = 1080, 1920
     primary = _hex_to_rgb(channel["style"].get("primary_color", "#1A1A1A"))
     text_col = _hex_to_rgb(channel["style"].get("text_color", "#FFFFFF"))
     font_path = _find_font()
