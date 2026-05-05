@@ -1,0 +1,11 @@
+name: "Video: VidaSana360 (Long-Form)"
+on:
+  schedule:
+    - cron: '0 11 * * *'
+  workflow_dispatch:
+jobs:
+  video:
+    uses: ./.github/workflows/longform_engine.yml
+    with:
+      channel: vida_sana_360_lf
+    secrets: inherit

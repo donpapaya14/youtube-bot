@@ -1,0 +1,33 @@
+{
+  "name": "VidaSana360",
+  "handle": "@VidaaSana360",
+  "type": "longform",
+  "content_type": "narrated_educational",
+  "language": "en",
+  "niche": "Science-backed health, fat loss, fitness and wellness for everyday people",
+  "tone": "Energetic, direct, evidence-based — like a knowledgeable friend who skips the fluff",
+  "duration_minutes": 12,
+  "format": "landscape",
+  "topics": [
+    "fat loss science that actually works",
+    "metabolism myths debunked",
+    "best exercises for real results",
+    "intermittent fasting complete guide",
+    "sleep and weight connection",
+    "gut health and overall wellness",
+    "stress cortisol and fat storage",
+    "protein timing for muscle",
+    "cold exposure benefits",
+    "posture and hormones"
+  ],
+  "style": {
+    "primary_color": "#16A34A",
+    "secondary_color": "#DCFCE7",
+    "text_color": "#FFFFFF"
+  },
+  "refresh_token_env": "YT_TOKEN_PRINCIPAL",
+  "category_id": "26",
+  "default_tags": ["health", "fitness", "weight loss", "wellness", "science", "fat loss", "healthy lifestyle", "nutrition"],
+  "thumbnail_style": "clean fitness aesthetic, green tones, bold stats, before/after style",
+  "voice": "en-US-GuyNeural"
+}

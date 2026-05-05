@@ -1,0 +1,11 @@
+name: "Video: EspacioInteligente (Long-Form)"
+on:
+  schedule:
+    - cron: '0 13 * * *'
+  workflow_dispatch:
+jobs:
+  video:
+    uses: ./.github/workflows/longform_engine.yml
+    with:
+      channel: hogarinteligente_lf
+    secrets: inherit

@@ -1,0 +1,33 @@
+{
+  "name": "EspacioInteligente",
+  "handle": "@EspacioInteligente",
+  "type": "longform",
+  "content_type": "narrated_educational",
+  "language": "en",
+  "niche": "Home hacks, smart organization, cleaning science and energy-saving tips",
+  "tone": "Practical, satisfying, surprising — like discovering your home could work so much better",
+  "duration_minutes": 10,
+  "format": "landscape",
+  "topics": [
+    "cleaning hacks with household ingredients",
+    "home organization systems that actually stick",
+    "energy saving secrets most people ignore",
+    "kitchen mistakes costing you money",
+    "decluttering psychology and method",
+    "bathroom deep clean science",
+    "laundry mistakes that ruin clothes",
+    "smart storage solutions",
+    "natural pest control methods",
+    "home air quality improvement"
+  ],
+  "style": {
+    "primary_color": "#0891B2",
+    "secondary_color": "#CFFAFE",
+    "text_color": "#FFFFFF"
+  },
+  "refresh_token_env": "YT_TOKEN_HOGARINTELIGENTE",
+  "category_id": "26",
+  "default_tags": ["home hacks", "cleaning tips", "organization", "home improvement", "life hacks", "cleaning science", "smart home"],
+  "thumbnail_style": "clean organized home, before/after split, bright lighting, satisfying transformation",
+  "voice": "en-US-GuyNeural"
+}
