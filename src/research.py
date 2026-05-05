@@ -31,7 +31,11 @@ def _parse_json(text: str) -> dict:
         text = text.rsplit("```", 1)[0]
     # Strip control characters that break json.loads (except \t \n \r)
     text = _re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]", "", text)
-    return json.loads(text.strip())
+    try:
+        return json.loads(text.strip())
+    except json.JSONDecodeError:
+        # strict=False allows control chars inside JSON strings
+        return json.loads(text.strip(), strict=False)
 
 
 def _call_nvidia(prompt: str, temperature: float = 0.9) -> dict:
@@ -54,7 +58,7 @@ def _call_nvidia(prompt: str, temperature: float = 0.9) -> dict:
         )
         return _parse_json(response.choices[0].message.content)
     except Exception as e:
-        log.warning("NVIDIA v4-flash: %s → probando llama-3.3", str(e)[:60])
+        log.warning("NVIDIA fast (%s): %s → probando stable", NVIDIA_FAST, str(e)[:60])
 
     response = client.chat.completions.create(
         model=NVIDIA_STABLE,
