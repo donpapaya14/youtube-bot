@@ -69,7 +69,7 @@ Respond JSON:
     log.info("Obteniendo imagen de fondo...")
     bg_image = _get_background_image(topic, channel, work_dir)
 
-    # 4. Música: librería local primero, Lyria gratis como fallback
+    # 4. Música: librería local obligatoria (sin generación de audio externa)
     music_dir = os.path.join(project_root, "assets", "music", "lofi")
     music_files = [os.path.join(music_dir, f) for f in os.listdir(music_dir)
                    if f.endswith((".mp3", ".wav", ".ogg"))] if os.path.isdir(music_dir) else []
@@ -78,7 +78,7 @@ Respond JSON:
         music_track = random.choice(music_files)
         log.info("Track local: %s", os.path.basename(music_track))
     else:
-        log.info("Sin tracks locales, intentando Lyria (tier gratis)...")
+        log.info("Sin tracks locales. Pon MP3s en assets/music/lofi/")
         music_track = _generate_lofi_track_free(topic, work_dir)
 
     # 5. Ensamblar
@@ -100,38 +100,7 @@ Respond JSON:
 
 
 def _get_background_image(topic: str, channel: dict, work_dir: str) -> str:
-    """Intenta Imagen 4 (tier gratis), fallback a Pexels."""
-    # Intentar Imagen 4 primero (gratis hasta cierta cuota)
-    api_key = os.getenv("GEMINI_API_KEY")
-    if api_key:
-        try:
-            import requests as req
-            import base64
-            prompt = (
-                f"Anime aesthetic illustration for lo-fi music video background, "
-                f"theme: {topic}, cozy atmosphere, soft lighting, "
-                f"{channel.get('thumbnail_style', 'purple blue gradient, night sky')}, "
-                f"no text, no watermark, high quality, 4K wallpaper style"
-            )
-            resp = req.post(
-                "https://generativelanguage.googleapis.com/v1beta/models/imagen-4.0-generate-001:predict",
-                headers={"x-goog-api-key": api_key, "Content-Type": "application/json"},
-                json={"instances": [{"prompt": prompt}], "parameters": {"sampleCount": 1, "aspectRatio": "16:9"}},
-                timeout=120,
-            )
-            data = resp.json()
-            if "predictions" in data:
-                img_bytes = base64.b64decode(data["predictions"][0]["bytesBase64Encoded"])
-                path = os.path.join(work_dir, "background.png")
-                with open(path, "wb") as f:
-                    f.write(img_bytes)
-                log.info("Imagen 4 (gratis): %d KB", len(img_bytes) // 1024)
-                return path
-            log.warning("Imagen 4 sin cuota gratis, usando Pexels")
-        except Exception as e:
-            log.warning("Imagen 4 fallback: %s", str(e)[:80])
-
-    # Fallback: Pexels (siempre gratis)
+    """Descarga imagen de fondo desde Pexels."""
     return _download_pexels_image(topic, work_dir)
 
 
@@ -178,38 +147,8 @@ def _download_pexels_image(topic: str, work_dir: str) -> str:
 
 
 def _generate_lofi_track_free(topic: str, work_dir: str) -> str:
-    """Genera track con Lyria (tier gratis). Falla si no hay cuota."""
-    import base64
-    import urllib.request
-
-    api_key = os.getenv("GEMINI_API_KEY")
-    if not api_key:
-        raise RuntimeError("Sin tracks locales ni GEMINI_API_KEY. Pon MP3s en assets/music/lofi/")
-
-    prompt = (
-        f"lofi hip hop beat, {topic}, chill piano melody, vinyl crackle, "
-        f"soft drums, warm analog sound, relaxing, study music"
-    )
-    body = json.dumps({
-        "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {"responseModalities": ["audio"]},
-    }).encode()
-
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/lyria-3-pro-preview:generateContent?key={api_key}"
-    req = urllib.request.Request(url, data=body, headers={"Content-Type": "application/json"})
-    resp = urllib.request.urlopen(req, timeout=120)
-    data = json.loads(resp.read())
-
-    for part in data.get("candidates", [{}])[0].get("content", {}).get("parts", []):
-        if "inlineData" in part:
-            audio = base64.b64decode(part["inlineData"]["data"])
-            path = os.path.join(work_dir, "lofi_track.mp3")
-            with open(path, "wb") as f:
-                f.write(audio)
-            log.info("Lyria track (gratis): %d KB", len(audio) // 1024)
-            return path
-
-    raise RuntimeError("Lyria sin cuota gratis disponible")
+    """No disponible — pon MP3s en assets/music/lofi/."""
+    raise RuntimeError("Sin tracks locales. Pon MP3s en assets/music/lofi/")
 
 
 # ============================================================
@@ -327,39 +266,8 @@ def _download_nature_clips(queries: list[str], work_dir: str, num_clips: int = 2
 
 
 def _generate_nature_thumbnail(topic: str, channel: dict, work_dir: str) -> str:
-    """Genera thumbnail cinematográfico con Imagen 4."""
-    api_key = os.getenv("GEMINI_API_KEY")
-    if not api_key:
-        return None
-
-    import requests as req
-    import base64
-
-    prompt = (
-        f"Cinematic nature photograph, {topic}, "
-        f"golden hour lighting, dramatic landscape, "
-        f"National Geographic style, no text, no watermark, ultra HD"
-    )
-
-    resp = req.post(
-        "https://generativelanguage.googleapis.com/v1beta/models/imagen-4.0-generate-001:predict",
-        headers={"x-goog-api-key": api_key, "Content-Type": "application/json"},
-        json={
-            "instances": [{"prompt": prompt}],
-            "parameters": {"sampleCount": 1, "aspectRatio": "16:9"},
-        },
-        timeout=120,
-    )
-    resp.raise_for_status()
-    data = resp.json()
-    if "error" in data:
-        return None
-
-    img_bytes = base64.b64decode(data["predictions"][0]["bytesBase64Encoded"])
-    path = os.path.join(work_dir, "thumbnail.png")
-    with open(path, "wb") as f:
-        f.write(img_bytes)
-    return path
+    """Thumbnail deshabilitado."""
+    return None
 
 
 # ============================================================
@@ -532,41 +440,8 @@ def _generate_english_voice(segments: list[dict], work_dir: str, voice_id: str) 
 
 
 def _generate_truecrime_thumbnail(script: dict, channel: dict, work_dir: str) -> str:
-    """Genera thumbnail oscuro/misterioso con Imagen 4."""
-    api_key = os.getenv("GEMINI_API_KEY")
-    if not api_key:
-        return None
-
-    import requests as req
-    import base64
-
-    text_overlay = script.get("thumbnail_text", "DARK FILES")
-    prompt = (
-        f"Dark dramatic YouTube thumbnail, true crime documentary style, "
-        f"text overlay says '{text_overlay}', "
-        f"dark moody lighting, red accent, noir atmosphere, "
-        f"cinematic composition, no watermark"
-    )
-
-    resp = req.post(
-        "https://generativelanguage.googleapis.com/v1beta/models/imagen-4.0-generate-001:predict",
-        headers={"x-goog-api-key": api_key, "Content-Type": "application/json"},
-        json={
-            "instances": [{"prompt": prompt}],
-            "parameters": {"sampleCount": 1, "aspectRatio": "16:9"},
-        },
-        timeout=120,
-    )
-    resp.raise_for_status()
-    data = resp.json()
-    if "error" in data:
-        return None
-
-    img_bytes = base64.b64decode(data["predictions"][0]["bytesBase64Encoded"])
-    path = os.path.join(work_dir, "thumbnail.png")
-    with open(path, "wb") as f:
-        f.write(img_bytes)
-    return path
+    """Thumbnail deshabilitado."""
+    return None
 
 
 # ============================================================
@@ -739,42 +614,7 @@ def _load_prewritten_script(channel: dict) -> dict | None:
 
 
 def _generate_educational_thumbnail(script: dict, channel: dict, work_dir: str) -> str:
-    """Genera thumbnail educativo con Imagen 4."""
-    api_key = os.getenv("GEMINI_API_KEY")
-    if not api_key:
-        return None
-
-    import requests as req
-    import base64
-
-    text_overlay = script.get("thumbnail_text", channel["name"])
-    style = channel.get("thumbnail_style", "clean educational")
-    prompt = (
-        f"Professional YouTube thumbnail, {style}, "
-        f"bold text overlay says '{text_overlay}', "
-        f"eye-catching, clean design, no watermark, HD"
-    )
-
-    try:
-        resp = req.post(
-            "https://generativelanguage.googleapis.com/v1beta/models/imagen-4.0-generate-001:predict",
-            headers={"x-goog-api-key": api_key, "Content-Type": "application/json"},
-            json={
-                "instances": [{"prompt": prompt}],
-                "parameters": {"sampleCount": 1, "aspectRatio": "16:9"},
-            },
-            timeout=120,
-        )
-        resp.raise_for_status()
-        data = resp.json()
-        if "predictions" in data:
-            img_bytes = base64.b64decode(data["predictions"][0]["bytesBase64Encoded"])
-            path = os.path.join(work_dir, "thumbnail.png")
-            with open(path, "wb") as f:
-                f.write(img_bytes)
-            return path
-    except Exception as e:
-        log.warning("Thumbnail Imagen 4: %s", str(e)[:80])
+    """Thumbnail deshabilitado."""
     return None
 
 
