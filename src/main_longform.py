@@ -700,6 +700,8 @@ def _load_prewritten_script(channel: dict) -> dict | None:
         "DisasterDecode": "disaster_decode",
         "MindWired": "mind_wired",
         "CashCafe": "cash_cafe",
+        "EspacioInteligente": "hogarinteligente",
+        "VidaSana360": "vidasana360",
     }
     dir_name = name_map.get(channel["name"], channel["name"].lower())
     scripts_dir = os.path.join(project_root, "scripts", dir_name)
