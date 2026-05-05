@@ -1,33 +1,144 @@
 {
-  "title": "Las 10 Razas de Gatos Más INTELIGENTES del Mundo 🐱",
-  "description": "Ranking de las razas de gatos más inteligentes según estudios científicos. Desde el Abisinio hasta el Siamés, descubre qué razas destacan en resolución de problemas, memoria y aprendizaje. Basado en investigaciones de comportamiento animal y pruebas cognitivas realizadas por universidades y centros veterinarios de todo el mundo.",
-  "tags": ["gatos inteligentes", "razas de gatos", "gatos más listos", "inteligencia felina", "abisinio", "siamés", "bengalí", "curiosidades de gatos", "comportamiento felino", "mejores razas de gatos"],
-  "segments": [
-    {"voice": "Un gato Abisinio resolvió un laberinto de doce pasos en menos de cuarenta segundos durante un experimento de la Universidad de Kyoto. Para comparación, la mayoría de gatos domésticos tardan más de tres minutos. La inteligencia felina existe, se puede medir, y algunas razas están muy por encima del promedio. Hoy te mostramos las diez más brillantes.", "visual": "abyssinian cat playing with puzzle toy", "duration": 25},
-    {"voice": "Bienvenidos a CatBrothers. Antes de comenzar el ranking, aclaremos algo importante: la inteligencia en gatos no se mide igual que en perros. Los investigadores Edward Thorndike y Katsuki Ito han demostrado que los gatos tienen una inteligencia más independiente. No obedecen por complacer, resuelven problemas porque les interesa. Eso es pura inteligencia adaptativa.", "visual": "smart cat looking curious at camera", "duration": 25},
-    {"voice": "Número diez: el gato Común Europeo. Sorpresa, el gato de toda la vida. Un estudio de la Universidad de Lincoln en Reino Unido demostró que los gatos mestizos tienen una diversidad genética que favorece la adaptabilidad cognitiva. Su inteligencia callejera, perfeccionada por siglos de supervivencia urbana, los hace excelentes solucionadores de problemas cotidianos.", "visual": "european shorthair cat exploring outdoors", "duration": 25},
-    {"voice": "Número nueve: el Bosque de Noruega. Esta raza ancestral de los vikingos no solo sobrevivió los inviernos escandinavos más duros, sino que desarrolló habilidades de caza excepcionales. Investigadores del Instituto Noruego de Investigación en Naturaleza documentaron su capacidad para recordar ubicaciones de presas hasta seis meses después del último avistamiento.", "visual": "norwegian forest cat in snow", "duration": 25},
-    {"voice": "Número ocho: el Birmano. El doctor Benjamin Hart de la Universidad de California en Davis clasificó al Birmano como una de las razas con mayor sociabilidad activa. Estos gatos aprenden trucos con facilidad, responden a su nombre consistentemente y algunos dueños reportan que abren puertas y cajones observando a sus humanos. Aprendizaje por observación puro.", "visual": "burmese cat playing with owner indoors", "duration": 25},
-    {"voice": "Número siete: el Savannah. Este híbrido entre gato doméstico y serval africano hereda la astucia salvaje de su ancestro. Un estudio del Centro de Comportamiento Animal de Atlanta documentó que los Savannah pueden aprender a abrir grifos, encender luces y resolver cajas puzzle en la mitad de tiempo que la mayoría de razas domésticas.", "visual": "savannah cat jumping high indoors", "duration": 25},
-    {"voice": "Número seis: el Cornish Rex. No te dejes engañar por su apariencia frágil. Investigadores de la Universidad de Helsinki incluyeron al Cornish Rex entre las razas con mayor curiosidad exploratoria. Estos gatos investigan cada objeto nuevo, manipulan juguetes con precisión y muestran una persistencia notable al resolver problemas. Su cerebro no descansa jamás.", "visual": "cornish rex cat playing active", "duration": 25},
-    {"voice": "Número cinco: el Scottish Fold. Famoso por sus orejas dobladas, este gato es mucho más que una cara bonita. La doctora Sarah Ellis del programa de comportamiento felino de la Universidad de Lincoln demostró que los Scottish Fold tienen una capacidad superior para leer las emociones humanas y adaptar su comportamiento en consecuencia. Inteligencia emocional felina.", "visual": "scottish fold cat with folded ears close up", "duration": 25},
-    {"voice": "Número cuatro: el Bengalí. Descendiente del gato leopardo asiático, el Bengalí combina instinto salvaje con adaptación doméstica. Un estudio publicado en Applied Animal Behaviour Science mostró que los Bengalíes resuelven cajas puzzle significativamente más rápido que otras razas y mantienen el interés en juguetes novedosos durante más tiempo, indicando alta estimulación cognitiva.", "visual": "bengal cat playing with water", "duration": 25},
-    {"voice": "El Bengalí también destaca por su memoria espacial. Investigadores de la Universidad de Budapest demostraron que pueden recordar la ubicación de objetos escondidos hasta veinticuatro horas después, superando a la mayoría de razas domésticas. Algunos dueños reportan que sus Bengalíes memorizan horarios de comida con precisión de minutos.", "visual": "bengal cat searching for hidden toy", "duration": 25},
-    {"voice": "Número tres: el Siamés. Esta raza milenaria originaria de Tailandia ha fascinado a los investigadores durante décadas. El psicólogo animal John Bradshaw documentó que los Siameses tienen una de las vocalizaciones más complejas del mundo felino, con más de cien sonidos diferentes. Cada vocalización tiene un propósito comunicativo específico.", "visual": "siamese cat meowing vocalization", "duration": 25},
-    {"voice": "Los Siameses también sobresalen en pruebas de permanencia de objeto, un indicador clave de inteligencia. Entienden que un objeto sigue existiendo aunque no puedan verlo, una habilidad cognitiva que los bebés humanos no desarrollan hasta los ocho meses. Los Siameses la dominan desde las pocas semanas de vida según estudios de la Universidad de Kyoto.", "visual": "siamese cat watching toy hidden under cup", "duration": 25},
-    {"voice": "Número dos: el Sphynx. El gato sin pelo más famoso del mundo es también uno de los más inteligentes. Investigadores de la Universidad de Guelph en Canadá documentaron que los Sphynx muestran niveles excepcionales de aprendizaje social. Observan el comportamiento de otros gatos y humanos, y replican acciones complejas como abrir recipientes de comida.", "visual": "sphynx cat interacting with puzzle feeder", "duration": 25},
-    {"voice": "El Sphynx también muestra una adaptabilidad social extraordinaria. Un estudio del Journal of Veterinary Behavior reveló que se adaptan a nuevos hogares y personas más rápido que cualquier otra raza evaluada. Su necesidad de calor corporal los ha hecho excepcionalmente sociables, desarrollando una inteligencia interpersonal comparable a la de los primates sociales.", "visual": "sphynx cat cuddling with person", "duration": 25},
-    {"voice": "Y en el número uno: el Abisinio. Considerado el Einstein de los gatos. Investigadores de la Universidad de Tokio demostraron que los Abisinios superan a todas las razas evaluadas en pruebas de resolución de problemas secuenciales. Pueden encadenar hasta cuatro acciones distintas para obtener una recompensa, algo que pocas especies animales logran.", "visual": "abyssinian cat solving complex toy", "duration": 25},
-    {"voice": "El Abisinio tiene una curiosidad insaciable que los investigadores comparan con la de los primates. La doctora Ádám Miklósi de la Universidad Eötvös Loránd en Budapest documentó que exploran nuevos entornos de forma sistemática, revisando cada esquina en un patrón organizado. No es curiosidad aleatoria, es exploración metódica, señal de procesamiento cognitivo superior.", "visual": "abyssinian cat exploring new room", "duration": 25},
-    {"voice": "Un dato fascinante sobre la inteligencia felina general: los gatos tienen aproximadamente trescientos millones de neuronas en la corteza cerebral, mientras que los perros tienen alrededor de quinientos treinta millones. Sin embargo, las neuronas felinas tienen conexiones más densas y especializadas, según un estudio publicado en Frontiers in Neuroanatomy.", "visual": "cat brain illustration animation", "duration": 25},
-    {"voice": "La doctora Kristyn Vitale de la Universidad Estatal de Oregón demostró algo revolucionario en 2019: los gatos pueden distinguir su nombre de otras palabras. Pero aquí está lo brillante. Eligen cuándo responder. Su inteligencia incluye la capacidad de ignorar selectivamente, algo que requiere más procesamiento cognitivo que simplemente obedecer siempre.", "visual": "cat ignoring owner calling name", "duration": 25},
-    {"voice": "La memoria de los gatos también es impresionante. Un estudio japonés publicado en Animal Cognition demostró que los gatos tienen memoria episódica, similar a la humana. Recuerdan qué comieron, dónde lo comieron y con quién estaban. Pueden acceder a estos recuerdos hasta dieciséis horas después del evento. Tu gato recuerda más de lo que crees.", "visual": "cat remembering food location", "duration": 25},
-    {"voice": "¿Se puede aumentar la inteligencia de tu gato? Los expertos dicen que sí. La doctora Mikel Delgado de la Universidad de California en Davis recomienda juguetes puzzle, entrenamiento con clicker y rotación regular de juguetes. Los gatos que reciben estimulación cognitiva diaria muestran mayor densidad sináptica y mejor rendimiento en pruebas de aprendizaje.", "visual": "cat training with clicker treat", "duration": 25},
-    {"voice": "También se ha demostrado que los gatos que viven con otros gatos o perros desarrollan mayor inteligencia social. Un estudio de la Universidad de Bristol con quinientos gatos domésticos encontró que los gatos en hogares multi-mascota resuelven problemas sociales más eficientemente y muestran mayor flexibilidad conductual que los gatos que viven solos.", "visual": "cat and dog playing together friendly", "duration": 25},
-    {"voice": "La edad también influye. Los gatos alcanzan su pico cognitivo entre los dos y los seis años. Después, como en los humanos, puede haber un declive gradual. La buena noticia es que la estimulación mental constante puede retrasar este declive significativamente, según investigaciones del Centro de Cognición Animal de la Universidad de Viena.", "visual": "senior cat playing with toy mouse", "duration": 25},
-    {"voice": "Un mito que debemos derribar: los gatos no son menos inteligentes que los perros, son inteligentes de forma diferente. El doctor Brian Hare del Centro de Cognición Canina de la Universidad de Duke explica que comparar la inteligencia de gatos y perros es como comparar delfines con chimpancés. Cada especie evolucionó para resolver los problemas de su nicho ecológico.", "visual": "cat and dog side by side looking at camera", "duration": 25},
-    {"voice": "Recuerda que cada gato es único. Independientemente de la raza, el factor más importante para la inteligencia de tu gato es el enriquecimiento ambiental que le ofrezcas. Juegos diarios, nuevos estímulos, interacción social y desafíos mentales. Un gato estimulado es un gato inteligente, y un gato inteligente es un gato feliz.", "visual": "happy playful cat with various toys", "duration": 25},
-    {"voice": "Si amas a los gatos tanto como nosotros, suscríbete a CatBrothers y activa la campana. Lo que viene la próxima semana te va a encantar. Vamos a descifrar el lenguaje corporal completo de los gatos, para que por fin entiendas todo lo que tu gato intenta decirte. Nos vemos en el próximo documental.", "visual": "cute cat winking at camera", "duration": 20}
+  "title": "The 10 MOST INTELLIGENT Cat Breeds in the World 🐱",
+  "description": "Ranking of the most intelligent cat breeds according to scientific studies. From the Abyssinian to the Siamese, discover which breeds excel in problem-solving, memory, and learning. Based on animal behavior research and cognitive tests conducted by universities and veterinary centers worldwide.",
+  "tags": [
+    "smart cats",
+    "cat breeds",
+    "cleverest cats",
+    "feline intelligence",
+    "abyssinian",
+    "siamese",
+    "bengal",
+    "cat facts",
+    "feline behavior",
+    "best cat breeds"
   ],
-  "thumbnail_text": "GATOS GENIOS"
+  "segments": [
+    {
+      "voice": "An Abyssinian cat solved a twelve-step maze in under forty seconds during an experiment at Kyoto University. For comparison, most domestic cats take over three minutes. Feline intelligence exists, it can be measured, and some breeds are far above average. Today, we show you the ten brightest.",
+      "visual": "abyssinian cat playing with puzzle toy",
+      "duration": 25
+    },
+    {
+      "voice": "Welcome to CatBrothers. Before we begin the ranking, let's clarify something important: intelligence in cats isn't measured the same way as in dogs. Researchers Edward Thorndike and Katsuki Ito have shown that cats have a more independent intelligence. They don't obey to please—they solve problems because they're interested. That's pure adaptive intelligence.",
+      "visual": "smart cat looking curious at camera",
+      "duration": 25
+    },
+    {
+      "voice": "Number ten: the European Shorthair. Surprise—the everyday cat. A study by the University of Lincoln in the UK showed that mixed-breed cats have genetic diversity that favors cognitive adaptability. Their street smarts, honed by centuries of urban survival, make them excellent problem-solvers for everyday challenges.",
+      "visual": "european shorthair cat exploring outdoors",
+      "duration": 25
+    },
+    {
+      "voice": "Number nine: the Norwegian Forest Cat. This ancestral Viking breed not only survived the harshest Scandinavian winters but also developed exceptional hunting skills. Researchers at the Norwegian Institute for Nature Research documented their ability to remember prey locations up to six months after the last sighting.",
+      "visual": "norwegian forest cat in snow",
+      "duration": 25
+    },
+    {
+      "voice": "Number eight: the Burmese. Dr. Benjamin Hart from the University of California, Davis, classified the Burmese as one of the breeds with the highest active sociability. These cats learn tricks easily, consistently respond to their names, and some owners report them opening doors and drawers by observing their humans. Pure observational learning.",
+      "visual": "burmese cat playing with owner indoors",
+      "duration": 25
+    },
+    {
+      "voice": "Number seven: the Savannah. This hybrid between a domestic cat and an African serval inherits the wild cunning of its ancestor. A study by the Atlanta Animal Behavior Center documented that Savannahs can learn to turn on faucets, switch lights, and solve puzzle boxes in half the time of most domestic breeds.",
+      "visual": "savannah cat jumping high indoors",
+      "duration": 25
+    },
+    {
+      "voice": "Number six: the Cornish Rex. Don't be fooled by their fragile appearance. Researchers at the University of Helsinki included the Cornish Rex among the breeds with the highest exploratory curiosity. These cats investigate every new object, manipulate toys with precision, and show remarkable persistence in solving problems. Their brains never rest.",
+      "visual": "cornish rex cat playing active",
+      "duration": 25
+    },
+    {
+      "voice": "Number five: the Scottish Fold. Famous for their folded ears, this cat is much more than a pretty face. Dr. Sarah Ellis from the University of Lincoln's feline behavior program demonstrated that Scottish Folds have a superior ability to read human emotions and adapt their behavior accordingly. Feline emotional intelligence.",
+      "visual": "scottish fold cat with folded ears close up",
+      "duration": 25
+    },
+    {
+      "voice": "Number four: the Bengal. Descended from the Asian leopard cat, the Bengal combines wild instinct with domestic adaptation. A study published in Applied Animal Behaviour Science showed that Bengals solve puzzle boxes significantly faster than other breeds and maintain interest in novel toys longer, indicating high cognitive stimulation.",
+      "visual": "bengal cat playing with water",
+      "duration": 25
+    },
+    {
+      "voice": "The Bengal also excels in spatial memory. Researchers at the University of Budapest demonstrated they can remember the location of hidden objects up to twenty-four hours later, outperforming most domestic breeds. Some owners report their Bengals memorize meal times down to the minute.",
+      "visual": "bengal cat searching for hidden toy",
+      "duration": 25
+    },
+    {
+      "voice": "Number three: the Siamese. This ancient breed from Thailand has fascinated researchers for decades. Animal psychologist John Bradshaw documented that Siamese cats have one of the most complex vocalizations in the feline world, with over a hundred distinct sounds. Each vocalization has a specific communicative purpose.",
+      "visual": "siamese cat meowing vocalization",
+      "duration": 25
+    },
+    {
+      "voice": "Siamese cats also excel in object permanence tests, a key indicator of intelligence. They understand that an object continues to exist even when out of sight—a cognitive skill human babies don’t develop until eight months. Siamese cats master it within weeks of birth, according to Kyoto University studies.",
+      "visual": "siamese cat watching toy hidden under cup",
+      "duration": 25
+    },
+    {
+      "voice": "Number two: the Sphynx. The world's most famous hairless cat is also one of the smartest. Researchers at the University of Guelph in Canada documented that Sphynxes show exceptional levels of social learning. They observe the behavior of other cats and humans and replicate complex actions like opening food containers.",
+      "visual": "sphynx cat interacting with puzzle feeder",
+      "duration": 25
+    },
+    {
+      "voice": "The Sphynx also shows extraordinary social adaptability. A study in the Journal of Veterinary Behavior revealed they adapt to new homes and people faster than any other evaluated breed. Their need for body warmth has made them exceptionally sociable, developing interpersonal intelligence comparable to social primates.",
+      "visual": "sphynx cat cuddling with person",
+      "duration": 25
+    },
+    {
+      "voice": "And at number one: the Abyssinian. Considered the Einstein of cats. Researchers at the University of Tokyo demonstrated that Abyssinians outperform all evaluated breeds in sequential problem-solving tests. They can chain up to four distinct actions to obtain a reward—something few animal species achieve.",
+      "visual": "abyssinian cat solving complex toy",
+      "duration": 25
+    },
+    {
+      "voice": "The Abyssinian has an insatiable curiosity that researchers compare to primates. Dr. Ádám Miklósi from Eötvös Loránd University in Budapest documented that they explore new environments systematically, checking every corner in an organized pattern. It's not random curiosity—it's methodical exploration, a sign of superior cognitive processing.",
+      "visual": "abyssinian cat exploring new room",
+      "duration": 25
+    },
+    {
+      "voice": "A fascinating fact about feline intelligence: cats have approximately 300 million neurons in their cerebral cortex, while dogs have around 530 million. However, feline neurons have denser and more specialized connections, according to a study published in Frontiers in Neuroanatomy.",
+      "visual": "cat brain illustration animation",
+      "duration": 25
+    },
+    {
+      "voice": "Dr. Kristyn Vitale from Oregon State University demonstrated something revolutionary in 2019: cats can distinguish their names from other words. But here's the brilliant part. They choose when to respond. Their intelligence includes the ability to selectively ignore—something that requires more cognitive processing than simply always obeying.",
+      "visual": "cat ignoring owner calling name",
+      "duration": 25
+    },
+    {
+      "voice": "Cat memory is also impressive. A Japanese study published in Animal Cognition showed that cats have episodic memory, similar to humans. They remember what they ate, where they ate it, and who they were with. They can access these memories up to sixteen hours after the event. Your cat remembers more than you think.",
+      "visual": "cat remembering food location",
+      "duration": 25
+    },
+    {
+      "voice": "Can you boost your cat's intelligence? Experts say yes. Dr. Mikel Delgado from the University of California, Davis, recommends puzzle toys, clicker training, and regular toy rotation. Cats receiving daily cognitive stimulation show greater synaptic density and better learning test performance.",
+      "visual": "cat training with clicker treat",
+      "duration": 25
+    },
+    {
+      "voice": "It's also been shown that cats living with other cats or dogs develop greater social intelligence. A University of Bristol study of 500 domestic cats found that cats in multi-pet households solve social problems more efficiently and show greater behavioral flexibility than solo cats.",
+      "visual": "cat and dog playing together friendly",
+      "duration": 25
+    },
+    {
+      "voice": "Age also plays a role. Cats reach their cognitive peak between two and six years. After that, as with humans, there can be a gradual decline. The good news is that constant mental stimulation can significantly delay this decline, according to research from the University of Vienna's Animal Cognition Center.",
+      "visual": "senior cat playing with toy mouse",
+      "duration": 25
+    },
+    {
+      "voice": "A myth we must debunk: cats aren't less intelligent than dogs—they're intelligent differently. Dr. Brian Hare from Duke University's Canine Cognition Center explains that comparing cat and dog intelligence is like comparing dolphins to chimpanzees. Each species evolved to solve problems in their ecological niche.",
+      "visual": "cat and dog side by side looking at camera",
+      "duration": 25
+    },
+    {
+      "voice": "Remember, every cat is unique. Regardless of breed, the most important factor for your cat's intelligence is the environmental enrichment you provide. Daily play, new stimuli, social interaction, and mental challenges. A stimulated cat is a smart cat, and a smart cat is a happy cat.",
+      "visual": "happy playful cat with various toys",
+      "duration": 25
+    },
+    {
+      "voice": "If you love cats as much as we do, subscribe to CatBrothers and hit the bell. What's coming next week will delight you. We'll decode the complete body language of cats so you can finally understand everything your cat is trying to tell you. See you in the next documentary.",
+      "visual": "cute cat winking at camera",
+      "duration": 20
+    }
+  ],
+  "thumbnail_text": "GENIUS CATS"
 }

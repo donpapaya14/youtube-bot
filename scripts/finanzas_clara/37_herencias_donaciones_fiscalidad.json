@@ -1,0 +1,65 @@
+{
+  "id": 37,
+  "title": "Herencias y Donaciones en Vida — La Fiscalidad Real que Nadie Te Explica",
+  "description": "Impuesto de sucesiones y donaciones en España: cómo funciona, diferencias entre comunidades autónomas, si conviene heredar o recibir donación en vida y cómo minimizar la carga fiscal legalmente.",
+  "tags": ["impuesto sucesiones españa", "herencia donacion fiscalidad", "impuesto herencias comunidades", "donacion en vida irpf", "planificacion sucesoria", "heredar piso españa", "reduccion herencia autonomica"],
+  "thumbnail_text": "Hereda sin arruinarte",
+  "segments": [
+    {
+      "voice": "Cuando alguien fallece y deja una herencia, o cuando un padre decide donar un bien a sus hijos en vida, entra en juego uno de los impuestos más incomprendidos en España: el Impuesto sobre Sucesiones y Donaciones, regulado en la Ley 29/1987. Este impuesto es cedido a las comunidades autónomas, lo que significa que lo que pagas puede variar enormemente dependiendo de dónde vives. En este vídeo te explicamos cómo funciona realmente y cómo planificarlo para pagar lo mínimo legal.",
+      "visual": "Spain inheritance donation tax law 1987 regional differences"
+    },
+    {
+      "voice": "El Impuesto sobre Sucesiones y Donaciones: quién lo gestiona. Aunque existe una normativa estatal básica en la Ley 29/1987, las comunidades autónomas tienen amplias competencias para establecer reducciones, bonificaciones y tipos propios. El resultado es una brecha enorme entre comunidades. En Madrid y Andalucía, los hijos y cónyuges tienen bonificaciones del 99% en este impuesto, lo que en la práctica significa tributación casi cero. En otras comunidades como Aragón, Asturias o Valencia, el impuesto puede ser significativo incluso entre padres e hijos.",
+      "visual": "Spain inheritance tax regional differences Madrid Andalusia bonification"
+    },
+    {
+      "voice": "¿Quién paga el impuesto de sucesiones? Lo paga el heredero o legatario, no el fallecido. Y se paga en la comunidad autónoma donde residía el fallecido, no donde vive el heredero. Si tu padre residía en Extremadura y tú en Madrid, tributas en Extremadura. El plazo para presentar el impuesto es de 6 meses desde el fallecimiento, prorrogables otros 6 meses solicitando la prórroga en los primeros 5 meses. No presentar en plazo genera recargos automáticos.",
+      "visual": "Spain inheritance tax payer heir residence region 6 months deadline"
+    },
+    {
+      "voice": "Los grupos de parentesco y su importancia fiscal. La ley divide a los herederos en cuatro grupos según el parentesco. Grupo I: descendientes menores de 21 años, con la reducción más alta. Grupo II: descendientes mayores de 21 años, cónyuge y ascendientes, con reducción significativa. Grupo III: colaterales de segundo y tercer grado, como hermanos, sobrinos, tíos. Grupo IV: colaterales de cuarto grado o más y personas sin relación familiar. A menor grupo, menor parentesco y mayor tributación. Heredar de un tío puede costar mucho más que heredar de un padre.",
+      "visual": "Spain inheritance groups parentage I II III IV taxation levels"
+    },
+    {
+      "voice": "Reducciones estatales por parentesco. La normativa estatal establece reducciones mínimas que las comunidades pueden mejorar pero no empeorar. Grupo I, descendientes menores de 21 años: 15.956 euros más 3.990 euros por cada año menos de 21 que tenga el heredero. Grupo II, descendientes mayores de 21 y cónyuge: 15.956 euros. Grupo III: 7.993 euros. Grupo IV: sin reducción estatal. Estos importes se aplican a la base imponible antes de calcular el impuesto. Pero muchas comunidades amplían estas reducciones hasta hacerlas virtualmente totales.",
+      "visual": "Spain inheritance reduction state minimum parentage groups euros amounts"
+    },
+    {
+      "voice": "La variación entre comunidades: ejemplos concretos. En Madrid: bonificación del 99% en cuota para descendientes, ascendientes y cónyuge. Resultado: prácticamente sin impuesto. En Andalucía: misma bonificación del 99%. En País Vasco y Navarra: régimen foral completamente diferente, con tipos más bajos para familiares directos. En Asturias: reducciones menos generosas, el impuesto puede representar entre el 5 y el 20% de la herencia para descendientes en ciertos importes. Antes de cualquier planificación sucesoria, analiza el régimen de la comunidad donde reside el futuro causante.",
+      "visual": "Spain inheritance tax comparison regions Madrid Andalusia Asturias"
+    },
+    {
+      "voice": "Herencia de la vivienda habitual: la reducción especial. En la normativa estatal existe una reducción específica del 95% para la herencia de la vivienda habitual del fallecido, con un límite de 122.606 euros por heredero. Esta reducción aplica para cónyuge, descendientes y ascendientes. La condición es que el heredero mantenga la vivienda durante al menos 10 años, de lo contrario debe devolver el impuesto ahorrrado. Muchas comunidades mejoran esta reducción y reducen el plazo de mantenimiento.",
+      "visual": "Spain main home inheritance 95 percent reduction keep 10 years"
+    },
+    {
+      "voice": "¿Conviene más la herencia o la donación en vida? Esta es la pregunta estratégica central en planificación sucesoria. La donación en vida del mismo bien puede tributar de forma diferente. Para la donación en vida de un inmueble, el donatario, quien recibe, paga el Impuesto sobre Donaciones, y el donante, quien da, puede tener una ganancia patrimonial en su IRPF si el valor del inmueble ha subido desde que lo compró. Esto puede hacer que la donación en vida sea más cara fiscalmente que esperar a la herencia.",
+      "visual": "Spain donation vs inheritance comparison lifetime gift tax planning"
+    },
+    {
+      "voice": "El IRPF del donante en las donaciones de inmuebles. Cuando donas un inmueble a tus hijos, desde el punto de vista del IRPF del donante, la operación tributa como si hubieras vendido el bien al valor de mercado. Si compraste el piso por 100.000 euros hace 20 años y ahora vale 200.000 euros, Hacienda considera que tienes una ganancia patrimonial de 100.000 euros aunque no hayas recibido dinero. Esa ganancia tributa en la base del ahorro del IRPF al 19-27%. Esto es un punto crítico que muchas familias no conocen y que puede generar una factura fiscal inesperada.",
+      "visual": "Spain donor IRPF gift property capital gain tax problem unknown"
+    },
+    {
+      "voice": "La plusvalía municipal en herencias y donaciones. Además del Impuesto de Sucesiones y del IRPF, en las transmisiones de inmuebles hay que considerar la plusvalía municipal, el Impuesto sobre el Incremento del Valor de los Terrenos de Naturaleza Urbana. En las herencias, la paga el heredero. En las donaciones, la paga el donatario. Tras la sentencia del Tribunal Constitucional de octubre de 2021, el impuesto fue reformado y ahora existe la opción de calcular la plusvalía por el método real o el objetivo, eligiendo el que resulte más favorable.",
+      "visual": "Spain municipal capital gains tax inheritance donation plusvalia 2021"
+    },
+    {
+      "voice": "Pactos sucesorios en comunidades donde están permitidos. En Galicia, Cataluña, País Vasco, Navarra, Aragón y Baleares, los llamados pactos sucesorios permiten transmitir bienes de padres a hijos en vida con un tratamiento fiscal más favorable. En algunos de estos territorios, la transmisión por pacto sucesorio queda exenta de plusvalía municipal y la ganancia patrimonial del donante no tributa en el IRPF. Son instrumentos muy eficientes en los territorios que los permiten, pero requieren escritura notarial.",
+      "visual": "Spain succession pact regional law Galicia Catalonia inheritance plan"
+    },
+    {
+      "voice": "El seguro de vida como herramienta de planificación sucesoria. Los capitales de seguros de vida que se cobran por fallecimiento del asegurado tributan en el Impuesto de Sucesiones, no en el IRPF. Pero tienen una reducción estatal específica de 9.195 euros por beneficiario del grupo I y II. Además, en algunas comunidades el seguro de vida tiene bonificaciones adicionales. Un seguro de vida bien estructurado puede ser una forma eficiente de transmitir capital a los beneficiarios con menor carga fiscal.",
+      "visual": "Spain life insurance inheritance tax succession planning beneficiary"
+    },
+    {
+      "voice": "El usufructo viudal como instrumento de planificación. El cónyuge superviviente tiene derecho legal al tercio de usufructo del tercio de mejora y al tercio de libre disposición según el Código Civil. En términos fiscales, cuando se divide el pleno dominio en nuda propiedad para los hijos y usufructo para el cónyuge, cada parte tributa por su proporción. El usufructo se valora como el 70% del valor total menos el 1% por cada año de edad del usufructuario. Esta división puede reducir la carga fiscal total de la herencia.",
+      "visual": "Spain usufruct widower inheritance tax split bare ownership strategy"
+    },
+    {
+      "voice": "Resumen de planificación sucesoria básica. Primero: conoce la normativa de la comunidad autónoma donde resides, que puede ser muy diferente de la estatal. Segundo: si el patrimonio principal es un inmueble, analiza los costes fiscales tanto de donación en vida como de herencia, incluyendo el IRPF del donante. Tercero: en comunidades con bonificaciones del 99% como Madrid y Andalucía, la herencia prácticamente no tributa para hijos y cónyuge, haciendo innecesaria la planificación compleja. Cuarto: consulta con notario y asesor fiscal para importes significativos, el coste del asesoramiento siempre es inferior al ahorro posible.",
+      "visual": "Spain succession planning summary community region notary advisor strategy"
+    }
+  ]
+}

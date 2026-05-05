@@ -1,0 +1,61 @@
+{
+  "id": 48,
+  "title": "Postura y Dolor Crónico: La Ciencia de Sentarse Bien (Y Los Mitos)",
+  "description": "La postura perfecta no existe. Analizamos la relación real entre postura, dolor de espalda, text neck, movimiento vs estatismo y qué dice la ciencia sobre sillas, de pie y lumbar.",
+  "tags": ["postura", "dolor espalda", "dolor crónico", "ergonomía", "lumbar", "cervicales", "text neck", "silla", "espalda", "sedentarismo"],
+  "thumbnail_text": "POSTURA DOLOR ESPALDA CIENCIA",
+  "segments": [
+    {
+      "voice": "El 80 por ciento de las personas sufrirá dolor lumbar incapacitante en algún momento de su vida. Es la principal causa de baja laboral en todo el mundo y la primera causa de discapacidad global según la OMS. Cada año se gastan en España más de 12.000 millones de euros en tratamientos para el dolor de espalda. Y sin embargo, la mayor parte de lo que nos enseñaron sobre postura y espalda es simplificado o directamente incorrecto.",
+      "visual": "back pain lumbar chronic disability workplace statistics global"
+    },
+    {
+      "voice": "El mito más arraigado es que existe una postura perfecta estática que debemos mantener. La realidad es que ninguna postura es correcta si se mantiene indefinidamente. Los discos intervertebrales son estructuras avasculares que se nutren por difusión durante el movimiento. El movimiento intermitente es más importante que la postura correcta. Como dijo la investigadora Marjolein van der Molen: la mejor postura es la próxima postura.",
+      "visual": "spine discs nutrition movement sedentary static posture lumbar"
+    },
+    {
+      "voice": "El estudio más citado sobre postura y dolor lumbar es el análisis de Straker et al. de 2021 en PLOS ONE con 4.873 adultos. No encontró correlación significativa entre la curvatura lumbar medida por imagen y la intensidad o frecuencia del dolor lumbar. Personas con hiperlordosis, con cifosis y con espina plana tenían distribuciones similares de dolor. La postura radiológica predice mal el dolor clínico.",
+      "visual": "lumbar curvature posture pain correlation imaging study no relationship"
+    },
+    {
+      "voice": "Text neck, el supuesto síndrome de inclinación de cabeza hacia el teléfono, se popularizó enormemente tras un artículo de 2014 que calculaba que inclinar la cabeza 60 grados equivale a un peso de 27 kilogramos sobre la columna cervical. El cálculo es correcto biomecánicamente. El problema es que el artículo era un modelo biomecánico teórico, no un estudio de personas con dolor. Una revisión de 2023 en BMC Public Health no encontró evidencia robusta de que el uso de smartphones cause dolor cervical crónico de forma independiente.",
+      "visual": "text neck smartphone phone cervical spine posture biomechanics myth"
+    },
+    {
+      "voice": "Lo que sí tiene evidencia sólida como factor de riesgo es el tiempo total en sedentarismo. Un metaanálisis de 2015 en Occupational and Environmental Medicine con 37 estudios encontró que el trabajo sentado prolongado sin interrupciones se asocia con mayor riesgo de dolor lumbar, pero el efecto se atenúa significativamente cuando se interrumpe el sedentarismo cada 30 minutos con movimiento, aunque sea breve.",
+      "visual": "sitting sedentary time lumbar pain risk interruption breaks movement"
+    },
+    {
+      "voice": "Las sillas ergonómicas tienen un respaldo científico más modesto de lo que su precio sugiere. Un ensayo clínico de 2020 en Applied Ergonomics con 200 trabajadores de oficina que llevaban sillas estándar versus sillas de alta gama ergonómicas durante 6 meses no encontró diferencia significativa en la incidencia de dolor lumbar ni en la incomodidad reportada al final del día. Lo que sí redujo el dolor fue la formación sobre cómo variar la postura y tomarse descansos.",
+      "visual": "ergonomic chair office trial study lumbar pain no difference expensive"
+    },
+    {
+      "voice": "Los escritorios de pie son otra solución popular con evidencia mixta. Un metaanálisis de 2019 en Applied Ergonomics con 33 estudios mostró que pasar de sentado a de pie reduce el dolor lumbar a corto plazo. Pero también aumenta la fatiga en piernas y pies, la tensión en venas varicosas y el riesgo de problemas circulatorios de miembros inferiores con uso prolongado. La solución óptima es la alternancia: sentado y de pie a lo largo del día, no exclusivamente uno ni otro.",
+      "visual": "standing desk sit-stand office alternating posture evidence"
+    },
+    {
+      "voice": "El ejercicio es el tratamiento más efectivo para el dolor lumbar crónico con mayor evidencia. Un metaanálisis de 2021 en British Journal of Sports Medicine con 249 ensayos clínicos y 24.486 participantes concluyó que el ejercicio reduce el dolor lumbar crónico en un 38 por ciento y la discapacidad en un 36 por ciento. Los efectos son independientes del tipo de ejercicio, aunque el pilates, el yoga y el entrenamiento de fuerza del core mostraron los mayores beneficios.",
+      "visual": "exercise back pain treatment Pilates yoga core strength meta-analysis"
+    },
+    {
+      "voice": "El core, conjunto de músculos del tronco que incluyen el transverso abdominal, los multífidos, el diafragma y el suelo pélvico, protege la columna lumbar al crear presión intraabdominal estabilizadora. Pero los abdominales tradicionales o crunches no son la mejor forma de entrenar el core para la protección lumbar. El investigador Stuart McGill de la Universidad de Waterloo demostró que los crunches generan una fuerza de compresión discal de más de 3.000 newtons, por encima del umbral de microfractura.",
+      "visual": "core muscles transverse abdominal multifidus spine stability McGill"
+    },
+    {
+      "voice": "Los ejercicios de McGill Big Three son los más respaldados científicamente para la estabilización lumbar: el curl-up (no crunch), el bird-dog y el side bridge. Fortalecen el core con mínima carga compresiva en la columna. Un ensayo clínico de 2018 con 120 pacientes con lumbalgia crónica mostró que 8 semanas de estos ejercicios específicos reducía el dolor en un 51 por ciento versus el 32 por ciento con fisioterapia convencional.",
+      "visual": "McGill Big Three exercises core stability bird dog side bridge"
+    },
+    {
+      "voice": "El nervio ciático es otra fuente de confusión. El 90 por ciento de las lumbalgias no tiene una causa estructural identificable por imagen. Las hernias discales visibles en resonancia magnética están presentes en el 40 por ciento de adultos asintomáticos mayores de 40 años. Un estudio de 2020 en BMJ mostró que los pacientes que no se hacían resonancia magnética para su dolor lumbar inespecífico se recuperaban igual de rápido y con menores tasas de cirugía innecesaria.",
+      "visual": "lumbar MRI herniated disc incidental finding asymptomatic imaging"
+    },
+    {
+      "voice": "Caminar es quizás el mejor tratamiento preventivo y rehabilitador del dolor lumbar. Un ensayo clínico de 2024 publicado en The Lancet con 701 adultos con lumbalgia crónica comparó un programa de caminata progresiva durante 12 semanas con educación versus atención habitual. El grupo de caminata tuvo un 43 por ciento menos de episodios de recurrencia en el año siguiente. Simple, gratuito y con el mejor ratio coste-evidencia.",
+      "visual": "walking back pain prevention rehabilitation Lancet trial evidence"
+    },
+    {
+      "voice": "El mensaje principal sobre postura y dolor de espalda: muévete más y varía, no te quedes quieto en ninguna postura, ni la perfecta ni la terrible. El dolor lumbar inespecífico es frecuentemente un problema de sedentarismo, desacondicionamiento muscular y miedo al movimiento, no de mala postura. El movimiento regular, el fortalecimiento del core sin compresión, el sueño de calidad y reducir el catastrofismo sobre el dolor tienen más evidencia que cualquier silla ergonómica.",
+      "visual": "movement variety posture back health practical advice lifestyle"
+    }
+  ]
+}

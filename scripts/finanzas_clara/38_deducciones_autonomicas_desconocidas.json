@@ -1,0 +1,65 @@
+{
+  "id": 38,
+  "title": "Deducciones Autonómicas que Casi Nadie Aplica — Dinero que Estás Dejando a Hacienda",
+  "description": "Cada comunidad autónoma tiene deducciones propias en el IRPF que la mayoría desconoce. Por nacimiento, alquiler, estudios, cuidado de mayores, rehabilitación de vivienda. Dinero real que no reclamas.",
+  "tags": ["deducciones autonomicas irpf", "deducciones comunidad autonoma renta", "deducciones regionales spain", "renta irpf autonomico desconocidas", "deducciones madrid cataluna andalucia", "ahorro irpf autonomico", "declaracion renta deducciones"],
+  "thumbnail_text": "Tu comunidad te debe dinero",
+  "segments": [
+    {
+      "voice": "Cada comunidad autónoma en España tiene el poder de establecer sus propias deducciones en la parte autonómica del IRPF. Estas deducciones autonómicas son adicionales a las del Estado y se aplican sobre la cuota íntegra autonómica. El problema es que Hacienda no las incluye automáticamente en el borrador. Debes reclamarlas tú. Y la mayoría de contribuyentes las desconoce completamente. En este vídeo repasamos las más relevantes de las principales comunidades.",
+      "visual": "Spain regional IRPF deductions unknown autonomic community money"
+    },
+    {
+      "voice": "El impacto de las deducciones autonómicas: cómo funcionan. El IRPF en España tiene dos partes: la estatal y la autonómica, cada una aproximadamente del 50% del impuesto total. Las deducciones autonómicas se aplican sobre la cuota autonómica. Si tienes derecho a una deducción autonómica de 300 euros, esos 300 euros se restan directamente de lo que debes a tu comunidad autónoma. No es una reducción de la base imponible, sino una deducción directa en cuota, lo que la hace aún más valiosa.",
+      "visual": "Spain IRPF state regional split 50 percent deduction cuota autonomic"
+    },
+    {
+      "voice": "Madrid: algunas de las deducciones más generosas. La Comunidad de Madrid tiene un catálogo extenso de deducciones autonómicas. Deducción por nacimiento o adopción de hijos: 600 euros por el primer hijo, 750 por el segundo y 900 por el tercero y siguientes. Deducción por familia numerosa: entre 900 y 3.600 euros según categoría. Deducción por acogimiento de menores: 600 euros por menor acogido. Deducción por cuidado de hijos menores de 3 años: 1.000 euros adicionales si se usa guardería. Deducción por gastos de estudios en educación básica y secundaria: hasta 1.000 euros.",
+      "visual": "Spain Madrid regional deductions birth children studies family 2026"
+    },
+    {
+      "voice": "Madrid: deducciones por vivienda y alquiler. Deducción por arrendamiento de vivienda habitual para menores de 35 años: el 30% de las cantidades satisfechas con un límite de 1.000 euros de deducción. Para mayores de 35 años y familias numerosas que alquilan su vivienda habitual hay otras condiciones específicas. Deducción por instalación de equipos de climatización y agua caliente solar: el 15% del coste con límite de 1.000 euros. Y deducción por donativos a fundaciones o entidades de la Comunidad de Madrid adicional a la nacional.",
+      "visual": "Spain Madrid rent deduction under 35 solar heating climate IRPF"
+    },
+    {
+      "voice": "Cataluña: deducciones específicas de la Generalitat. En Cataluña, la deducción por alquiler de vivienda habitual es del 10% de las cantidades satisfechas, con un máximo de 300 euros anuales, para contribuyentes con base imponible inferior a 20.000 euros. Deducción por nacimiento o adopción de hijos con partos múltiples: 300 euros adicionales por parto. Deducción por contribuyentes con discapacidad: 150 euros. Deducción por donaciones a entidades del tercer sector de Cataluña o al propio patrimonio cultural catalán.",
+      "visual": "Spain Catalonia Generalitat regional deductions rent birth disability"
+    },
+    {
+      "voice": "Andalucía: deducciones del nuevo modelo fiscal. Tras las reformas de 2022, Andalucía eliminó el impuesto de patrimonio para contribuyentes residentes y mejoró varias deducciones autonómicas del IRPF. Deducción por inversión en vivienda habitual en zonas rurales o en municipios pequeños: hasta 30.000 euros de base de deducción al 7,5%. Deducción por gastos educativos incluyendo libros de texto, material escolar y actividades extraescolares: hasta 200 euros por hijo. Deducción por adquisición de acciones en startups y empresas jóvenes andaluzas.",
+      "visual": "Spain Andalusia IRPF deductions rural housing education children startups"
+    },
+    {
+      "voice": "Valencia: las deducciones familiares más variadas. La Comunitat Valenciana tiene un catálogo muy amplio de deducciones. Por nacimiento, adopción o acogimiento: 270 euros por el primer hijo, 224 por el segundo y 247 por el tercero o más. Por hijos con discapacidad superior al 65%: 12.000 euros adicionales. Por cuidado de familiares mayores de 65 años con discapacidad que viven con el contribuyente: 179 euros. Por gastos de escolarización de menores de 3 años: 270 euros. Por adquisición de material escolar: 100 euros por hijo.",
+      "visual": "Spain Valencia regional IRPF deductions children disability elderly care"
+    },
+    {
+      "voice": "País Vasco y Navarra: el régimen foral completamente diferente. Las Haciendas forales del País Vasco, con Álava, Guipúzcoa y Vizcaya, y la Hacienda Foral de Navarra tienen competencia normativa plena en el IRPF. Sus sistemas son completamente diferentes al resto de España. En términos generales, el régimen foral es más favorable en muchos aspectos, con tipos más bajos para rentas medias, mínimos personales y familiares más altos y deducciones más generosas por vivienda, familia y cultura. Si resides en estos territorios, infórmate específicamente de las normas forales.",
+      "visual": "Spain Basque Country Navarra foral tax system IRPF autonomous different"
+    },
+    {
+      "voice": "Castilla y León: deducciones por ruralidad y natalidad. Castilla y León ofrece deducciones específicas para incentivar la permanencia en zonas rurales y la natalidad. Deducción por adquisición o rehabilitación de vivienda en municipios con riesgo de despoblación: hasta 20.000 euros de base al 15%, con una deducción potencial de 3.000 euros. Para estos municipios, que son los de menos de 10.000 habitantes, la deducción puede ser de hasta 7.500 euros para jóvenes menores de 36 años. Deducción por nacimiento de hijos en familias monoparentales con reducción de base de 3.000 euros.",
+      "visual": "Spain Castilla Leon rural depopulation young housing birth deduction"
+    },
+    {
+      "voice": "Galicia: deducciones por rehabilitación y patrimonio. Galicia tiene deducciones relevantes por rehabilitación de vivienda habitual, especialmente en zonas rurales y en el patrimonio histórico. Deducción del 15% de las cantidades invertidas en rehabilitación de vivienda habitual con un máximo de 9.040 euros de base, que supone hasta 1.356 euros de deducción. Deducción por arrendamiento de vivienda para jóvenes menores de 35 años del 10% de la renta anual. Deducción por contribuyentes que empiecen actividades económicas nuevas: reducción especial en los primeros tres años.",
+      "visual": "Spain Galicia rehabilitation housing historic youth rent entrepreneur deduction"
+    },
+    {
+      "voice": "Cómo encontrar las deducciones de tu comunidad. La AEAT publica en su web un compendio de las deducciones autonómicas vigentes cada año. La ruta es hacienda.gob.es, apartado de IRPF, deducciones autonómicas. También cada comunidad autónoma publica en su propia web de hacienda el catálogo de deducciones. Y el programa de Renta Web de la AEAT muestra las deducciones disponibles para la comunidad de residencia del contribuyente con casillas específicas para cada una.",
+      "visual": "Spain AEAT regional deductions catalogue website lookup Renta Web"
+    },
+    {
+      "voice": "El error de no revisar las deducciones autonómicas en el borrador. El borrador de la renta no incluye automáticamente las deducciones autonómicas en muchos casos. Solo aparecen las que Hacienda puede cruzar con datos de terceros, como la deducción por maternidad. Deducciones por alquiler, por nacimiento, por discapacidad de familiar o por estudios de los hijos debes introducirlas tú manualmente en la declaración. Si confirmas el borrador sin revisar el apartado de deducciones autonómicas, estás regalando dinero a Hacienda.",
+      "visual": "Spain borrador draft no autonomic deductions automatic manual entry needed"
+    },
+    {
+      "voice": "Deducciones para autónomos en ciertas comunidades. Algunas comunidades tienen deducciones específicas para autónomos o para inversión en nuevos negocios. Canarias tiene la reserva para inversiones en Canarias, que permite a los autónomos con establecimiento permanente en las islas reducir la base imponible invirtiendo en activos para el negocio. Otras comunidades tienen deducciones por creación de empleo, por inversión en I+D de pequeñas empresas o por implantación en zonas de especial interés económico.",
+      "visual": "Spain Canary Islands entrepreneur deduction RIC investment regional bonus"
+    },
+    {
+      "voice": "Resumen: cómo aprovechar al máximo las deducciones autonómicas. Primero: identifica tu comunidad autónoma de residencia y busca el catálogo de deducciones del ejercicio en curso. Segundo: repasa tu situación personal: hijos, alquiler, discapacidad, mayores a cargo, estudios, donaciones locales. Tercero: en la declaración de la renta, revisa el apartado de deducciones autonómicas y añade manualmente las que te corresponden con la documentación de respaldo. Cuarto: si hay deducciones de ejercicios anteriores que no reclamaste, puedes rectificar hasta cuatro años atrás. El esfuerzo de una tarde puede devolverte cientos de euros.",
+      "visual": "Spain regional deductions claim guide summary action steps annual check"
+    }
+  ]
+}
