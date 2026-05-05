@@ -1,8 +1,11 @@
 name: "Video: CatBrothers"
 on:
   schedule:
-    - cron: '30 9 * * *'
-    - cron: '30 17 * * *'
+    - cron: '30 7 * * *'
+    - cron: '30 11 * * *'
+    - cron: '30 15 * * *'
+    - cron: '30 19 * * *'
+    - cron: '30 23 * * *'
   workflow_dispatch:
 jobs:
   video:

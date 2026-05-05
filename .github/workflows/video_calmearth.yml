@@ -2,12 +2,7 @@ name: "Video: DisasterDecode"
 
 on:
   schedule:
-    # 5 videos/semana: Lun-Vie 16:00 España (14:00 UTC)
-    - cron: '0 14 * * 1'
-    - cron: '0 14 * * 2'
-    - cron: '0 14 * * 3'
-    - cron: '0 14 * * 4'
-    - cron: '0 14 * * 5'
+    - cron: '0 14 * * *'
   workflow_dispatch:
 
 jobs:

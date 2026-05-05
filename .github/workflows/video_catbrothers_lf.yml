@@ -1,15 +1,8 @@
 name: "Video: CatBrothers (Long-Form)"
-
 on:
   schedule:
-    # 5 videos/semana: Lun-Vie 12:00 España (10:00 UTC)
-    - cron: '0 10 * * 1'
-    - cron: '0 10 * * 2'
-    - cron: '0 10 * * 3'
-    - cron: '0 10 * * 4'
-    - cron: '0 10 * * 5'
+    - cron: '0 10 * * *'
   workflow_dispatch:
-
 jobs:
   video:
     uses: ./.github/workflows/longform_engine.yml

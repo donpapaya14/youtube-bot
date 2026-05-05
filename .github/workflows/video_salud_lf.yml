@@ -1,15 +1,8 @@
 name: "Video: SaludLongevidad (Long-Form)"
-
 on:
   schedule:
-    # 5 videos/semana: Lun-Vie 10:00 España (8:00 UTC)
-    - cron: '0 8 * * 1'
-    - cron: '0 8 * * 2'
-    - cron: '0 8 * * 3'
-    - cron: '0 8 * * 4'
-    - cron: '0 8 * * 5'
+    - cron: '0 8 * * *'
   workflow_dispatch:
-
 jobs:
   video:
     uses: ./.github/workflows/longform_engine.yml

@@ -2,12 +2,7 @@ name: "Video: MindWired"
 
 on:
   schedule:
-    # 5 videos/semana: Lun-Vie 18:00 España (16:00 UTC)
-    - cron: '0 16 * * 1'
-    - cron: '0 16 * * 2'
-    - cron: '0 16 * * 3'
-    - cron: '0 16 * * 4'
-    - cron: '0 16 * * 5'
+    - cron: '0 16 * * *'
   workflow_dispatch:
 
 jobs:
