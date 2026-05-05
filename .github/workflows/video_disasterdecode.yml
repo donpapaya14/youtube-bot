@@ -1,7 +1,7 @@
 name: "Video: DisasterDecode (Long-Form)"
 on:
   schedule:
-    - cron: '0 9 * * *'
+    - cron: '30 21 * * *'
   workflow_dispatch:
 jobs:
   video:

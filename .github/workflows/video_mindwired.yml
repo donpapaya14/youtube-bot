@@ -1,7 +1,7 @@
 name: "Video: MindWired (Long-Form)"
 on:
   schedule:
-    - cron: '0 17 * * *'
+    - cron: '0 22 * * *'
   workflow_dispatch:
 jobs:
   video:

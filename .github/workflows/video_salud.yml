@@ -1,11 +1,7 @@
 name: "Video: SaludLongevidad"
 on:
   schedule:
-    - cron: '30 6 * * *'
-    - cron: '30 10 * * *'
-    - cron: '30 14 * * *'
-    - cron: '30 18 * * *'
-    - cron: '30 22 * * *'
+    - cron: '30 15 * * *'
   workflow_dispatch:
 jobs:
   video:

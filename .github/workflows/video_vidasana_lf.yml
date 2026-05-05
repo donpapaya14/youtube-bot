@@ -1,7 +1,7 @@
 name: "Video: VidaSana360 (Long-Form)"
 on:
   schedule:
-    - cron: '0 11 * * *'
+    - cron: '0 17 * * *'
   workflow_dispatch:
 jobs:
   video:

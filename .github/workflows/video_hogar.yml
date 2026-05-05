@@ -1,11 +1,7 @@
 name: "Video: HogarInteligente"
 on:
   schedule:
-    - cron: '0 8 * * *'
-    - cron: '0 12 * * *'
-    - cron: '0 16 * * *'
-    - cron: '0 20 * * *'
-    - cron: '0 0 * * *'
+    - cron: '30 19 * * *'
   workflow_dispatch:
 jobs:
   video:

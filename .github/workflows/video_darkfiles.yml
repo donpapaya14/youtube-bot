@@ -3,7 +3,7 @@ name: "Video: DarkFiles"
 on:
   schedule:
     # Diario a las 16:00 España (14:00 UTC)
-    - cron: '0 14 * * *'
+    - cron: '0 21 * * *'
   workflow_dispatch:
 
 jobs:
