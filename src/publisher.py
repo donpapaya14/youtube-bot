@@ -18,6 +18,7 @@ def upload_to_youtube(
     description: str,
     tags: list[str],
     channel_config: dict,
+    thumbnail_path: str | None = None,
 ) -> str:
     """Sube video a YouTube. Devuelve URL del video."""
     token_env = channel_config.get("refresh_token_env", "YOUTUBE_REFRESH_TOKEN")
@@ -43,20 +44,23 @@ def upload_to_youtube(
     amazon_tag = channel_config.get("amazon_tag", "vladys-21")
     if tags:
         search_kw = "+".join(tags[:3]).replace(" ", "+")
-        amazon_link = f"https://www.amazon.es/s?k={search_kw}&tag={amazon_tag}"
+        amazon_link = f"https://www.amazon.com/s?k={search_kw}&tag={amazon_tag}"
         description = description.replace(
             channel_config.get("amazon_search", ""),
             "+".join(tags[:2]).replace(" ", "+")
         ) if channel_config.get("amazon_search") else description
+
+    language = channel_config.get("language", "en")
+    category_id = channel_config.get("category_id", "22")
 
     body = {
         "snippet": {
             "title": title[:100],
             "description": description[:5000],
             "tags": tags[:30],
-            "categoryId": "22",  # People & Blogs
-            "defaultLanguage": "es",
-            "defaultAudioLanguage": "es",
+            "categoryId": category_id,
+            "defaultLanguage": language,
+            "defaultAudioLanguage": language,
         },
         "status": {
             "privacyStatus": "public",
@@ -86,6 +90,18 @@ def upload_to_youtube(
             log.info("Subido: %d%%", int(status.progress() * 100))
 
     video_id = response["id"]
+
+    # Subir thumbnail si existe
+    if thumbnail_path and os.path.exists(thumbnail_path):
+        try:
+            youtube.thumbnails().set(
+                videoId=video_id,
+                media_body=MediaFileUpload(thumbnail_path, mimetype="image/png"),
+            ).execute()
+            log.info("Thumbnail subido")
+        except Exception as e:
+            log.warning("Error subiendo thumbnail: %s", e)
+
     video_url = f"https://youtube.com/shorts/{video_id}"
     log.info("Video publicado: %s", video_url)
     return video_url
