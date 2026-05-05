@@ -112,6 +112,7 @@ def run(channel_name: str):
             hook=topic_data.get("hook", content["title"]),
             channel=channel,
             output_path=thumbnail_path,
+            search_term=topic_data.get("search_terms", [None])[0],
         )
         log.info("Thumbnail generado")
     except Exception as e:

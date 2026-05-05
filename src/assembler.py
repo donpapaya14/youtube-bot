@@ -272,43 +272,100 @@ def _compose_final(bg_video, voice_path, slide_pngs, segments, total_duration, o
         raise RuntimeError(f"Error composición: {result.stderr[-500:]}")
 
 
-def generate_shorts_thumbnail(hook: str, channel: dict, output_path: str) -> str:
-    """Genera thumbnail YouTube 1280×720 con el hook del vídeo."""
+def _fetch_pexels_background(query: str, w: int, h: int):
+    """Descarga imagen de Pexels y recorta a 9:16. Devuelve PIL Image o None."""
+    import os as _os
+    import requests as _req
+    from io import BytesIO
+    api_key = _os.getenv("PEXELS_API_KEY")
+    if not api_key:
+        return None
+    try:
+        for orientation in ("portrait", "landscape"):
+            resp = _req.get(
+                "https://api.pexels.com/v1/search",
+                headers={"Authorization": api_key},
+                params={"query": query, "per_page": 5, "orientation": orientation, "size": "large"},
+                timeout=10,
+            )
+            photos = resp.json().get("photos", [])
+            if photos:
+                break
+        if not photos:
+            return None
+        photo = random.choice(photos[:3])
+        url = photo["src"].get("portrait") or photo["src"].get("large2x") or photo["src"]["large"]
+        img_resp = _req.get(url, timeout=15)
+        img_resp.raise_for_status()
+        img = Image.open(BytesIO(img_resp.content)).convert("RGB")
+        # Crop to 9:16
+        iw, ih = img.size
+        if iw / ih > w / h:
+            nw = int(ih * w / h)
+            img = img.crop(((iw - nw) // 2, 0, (iw - nw) // 2 + nw, ih))
+        else:
+            nh = int(iw * h / w)
+            img = img.crop((0, (ih - nh) // 2, iw, (ih - nh) // 2 + nh))
+        return img.resize((w, h), Image.LANCZOS)
+    except Exception as e:
+        log.warning("Pexels thumbnail: %s", str(e)[:60])
+        return None
+
+
+def generate_shorts_thumbnail(hook: str, channel: dict, output_path: str, search_term: str = None) -> str:
+    """Genera thumbnail 1080×1920 con fondo Pexels + texto con stroke."""
     W, H = 1080, 1920
     primary = _hex_to_rgb(channel["style"].get("primary_color", "#1A1A1A"))
+    accent = _hex_to_rgb(channel["style"].get("secondary_color",
+                         channel["style"].get("primary_color", "#FF6600")))
     text_col = _hex_to_rgb(channel["style"].get("text_color", "#FFFFFF"))
     font_path = _find_font()
 
-    img = Image.new("RGB", (W, H), primary)
+    # 1. Fondo: Pexels o degradado
+    bg = _fetch_pexels_background(search_term or hook, W, H)
+    if bg:
+        img = bg.convert("RGBA")
+        # Overlay oscuro para legibilidad
+        Image.alpha_composite(img, Image.new("RGBA", (W, H), (0, 0, 0, 155))).convert("RGB")
+        overlay = Image.new("RGBA", (W, H), (0, 0, 0, 155))
+        img = Image.alpha_composite(img, overlay)
+        # Degradado inferior con color del canal
+        grad = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+        gd = ImageDraw.Draw(grad)
+        for y in range(H // 3, H):
+            a = int(200 * (y - H // 3) / (H * 2 // 3))
+            gd.line([(0, y), (W, y)], fill=(*primary, a))
+        img = Image.alpha_composite(img, grad).convert("RGB")
+    else:
+        img = Image.new("RGB", (W, H), primary)
+        dark = tuple(max(0, c - 80) for c in primary)
+        gd = ImageDraw.Draw(img)
+        for y in range(H):
+            t = y / H
+            gd.line([(0, y), (W, y)], fill=(
+                int(primary[0] * (1-t) + dark[0] * t),
+                int(primary[1] * (1-t) + dark[1] * t),
+                int(primary[2] * (1-t) + dark[2] * t),
+            ))
+
     draw = ImageDraw.Draw(img)
 
-    # Degradado: oscurece hacia abajo
-    dark = tuple(max(0, c - 60) for c in primary)
-    for y in range(H):
-        t = y / H
-        r = int(primary[0] * (1 - t) + dark[0] * t)
-        g = int(primary[1] * (1 - t) + dark[1] * t)
-        b = int(primary[2] * (1 - t) + dark[2] * t)
-        draw.line([(0, y), (W, y)], fill=(r, g, b))
+    # 2. Barra de acento superior
+    draw.rectangle([0, 0, W, 22], fill=accent)
 
-    # Barra de acento superior
-    draw.rectangle([0, 0, W, 14], fill=text_col)
-
-    # Texto principal: hook en mayúsculas, grande y centrado
+    # 3. Hook en mayúsculas, centrado, con stroke grueso
     clean = _strip_emojis(hook).upper().strip()
-    font_size = 110
+    font_size = 115
     try:
         font = ImageFont.truetype(font_path, font_size) if font_path else ImageFont.load_default()
     except Exception:
         font = ImageFont.load_default()
 
-    # Wrap: máx ~18 chars/línea a este tamaño
     words = clean.split()
     lines, cur = [], ""
     for w in words:
         test = (cur + " " + w).strip()
-        bbox = draw.textbbox((0, 0), test, font=font)
-        if bbox[2] > W - 80 and cur:
+        if draw.textbbox((0, 0), test, font=font)[2] > W - 60 and cur:
             lines.append(cur)
             cur = w
         else:
@@ -316,27 +373,28 @@ def generate_shorts_thumbnail(hook: str, channel: dict, output_path: str) -> str
     if cur:
         lines.append(cur)
 
-    lh = font_size + 18
-    block_h = len(lines) * lh
-    y0 = (H - block_h) // 2 - 20
+    lh = font_size + 22
+    y0 = (H - len(lines) * lh) // 2 - 40
 
     for i, line in enumerate(lines):
-        bbox = draw.textbbox((0, 0), line, font=font)
-        tx = (W - (bbox[2] - bbox[0])) // 2
-        ty = y0 + i * lh
-        # Sombra
-        draw.text((tx + 4, ty + 4), line, font=font, fill=(0, 0, 0))
+        bw = draw.textbbox((0, 0), line, font=font)[2] - draw.textbbox((0, 0), line, font=font)[0]
+        tx, ty = (W - bw) // 2, y0 + i * lh
+        # Stroke (8 offsets)
+        for ox, oy in [(-5,-5),(-5,0),(-5,5),(0,-5),(0,5),(5,-5),(5,0),(5,5)]:
+            draw.text((tx+ox, ty+oy), line, font=font, fill=(0, 0, 0))
         draw.text((tx, ty), line, font=font, fill=text_col)
 
-    # Nombre del canal abajo
+    # 4. Nombre del canal abajo con color de acento
     try:
-        small = ImageFont.truetype(font_path, 38) if font_path else ImageFont.load_default()
+        small = ImageFont.truetype(font_path, 40) if font_path else ImageFont.load_default()
     except Exception:
         small = ImageFont.load_default()
-    ch = channel.get("name", "").upper()
-    bbox = draw.textbbox((0, 0), ch, font=small)
-    draw.text(((W - (bbox[2] - bbox[0])) // 2, H - 58), ch, font=small,
-              fill=tuple(min(255, c + 50) for c in text_col))
+    ch_name = channel.get("name", "").upper()
+    bw = draw.textbbox((0, 0), ch_name, font=small)[2] - draw.textbbox((0, 0), ch_name, font=small)[0]
+    cx = (W - bw) // 2
+    for ox, oy in [(-2,-2),(2,-2),(-2,2),(2,2)]:
+        draw.text((cx+ox, H-68+oy), ch_name, font=small, fill=(0, 0, 0))
+    draw.text((cx, H-68), ch_name, font=small, fill=accent)
 
     img.save(output_path, "PNG")
     return output_path

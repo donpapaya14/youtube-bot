@@ -101,6 +101,26 @@ def upload_to_youtube(
 
     video_url = f"https://youtube.com/shorts/{video_id}"
     log.info("Video publicado: %s", video_url)
+
+    # Publicar comentario fijo
+    comment_text = channel_config.get("pinned_comment")
+    if comment_text:
+        try:
+            youtube.commentThreads().insert(
+                part="snippet",
+                body={
+                    "snippet": {
+                        "videoId": video_id,
+                        "topLevelComment": {
+                            "snippet": {"textOriginal": comment_text}
+                        },
+                    }
+                },
+            ).execute()
+            log.info("Comentario publicado")
+        except Exception as e:
+            log.warning("Error publicando comentario: %s", e)
+
     return video_url
 
 

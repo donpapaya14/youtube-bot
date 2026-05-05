@@ -1,98 +1,111 @@
 {
-  "title": "Toxoplasma en Gatos: El Parásito que Controla Humanos",
-  "description": "El Toxoplasma gondii es un parásito que vive en gatos y afecta a 2 mil millones de humanos. ¿Puede realmente cambiar el comportamiento? Descubre la ciencia detrás de este parásito microscópico fascinante y controlador.",
-  "tags": ["toxoplasma", "parásito", "gatos", "salud humana", "comportamiento", "control mental", "microbiología", "infección", "zoonosis", "ciencia médica", "curiosidades", "parásitos"],
+  "title": "Toxoplasma in Cats: The Parasite that Controls Humans",
+  "description": "Toxoplasma gondii is a parasite that lives in cats and affects 2 billion humans. Can it really change behavior? Discover the science behind this fascinating and controlling microscopic parasite.",
+  "tags": [
+    "toxoplasma",
+    "parasite",
+    "cats",
+    "human health",
+    "behavior",
+    "mind control",
+    "microbiology",
+    "infection",
+    "zoonosis",
+    "medical science",
+    "curiosities",
+    "parasites"
+  ],
   "segments": [
     {
-      "voice": "Existe un parásito microscópico llamado Toxoplasma gondii que vive en los gatos. Este parásito ha infectado aproximadamente a 2 mil millones de humanos en todo el mundo, casi el 30% de la población mundial.",
+      "voice": "There's a microscopic parasite called Toxoplasma gondii that lives in cats. This parasite has infected approximately 2 billion humans worldwide, nearly 30% of the global population.",
       "visual": "toxoplasma parasite microscope",
       "duration": 23
     },
     {
-      "voice": "El Toxoplasma gondii es fascinante porque tiene un ciclo de vida que requiere dos huéspedes específicos: un huésped felino y un huésped intermedio, que puede ser casi cualquier mamífero, incluyendo humanos.",
+      "voice": "Toxoplasma gondii is fascinating because it has a life cycle that requires two specific hosts: a feline host and an intermediate host, which can be almost any mammal, including humans.",
       "visual": "parasite lifecycle diagram",
       "duration": 24
     },
     {
-      "voice": "Los gatos son el huésped definitivo del parásito. Es el único lugar donde el parásito puede reproducirse sexualmente. Los huéspedes intermedios portan el parásito en sus tejidos, pero no pueden reproducirlo.",
+      "voice": "Cats are the definitive host of the parasite. It's the only place where the parasite can reproduce sexually. Intermediate hosts carry the parasite in their tissues, but they can't reproduce it.",
       "visual": "cat host parasite",
       "duration": 22
     },
     {
-      "voice": "Los gatos se infectan al comer roedores infectados. Luego, los gatos liberan quistes del parásito en sus heces durante aproximadamente 1-2 semanas después de la infección inicial.",
+      "voice": "Cats become infected by eating infected rodents. Then, cats release parasite cysts in their feces for about 1-2 weeks after the initial infection.",
       "visual": "infected rodent hunting",
       "duration": 22
     },
     {
-      "voice": "Los humanos pueden infectarse de varias maneras: consumiendo carne poco cocinada, tocando heces de gato infectadas, o a través de la transmisión vertical de madre a feto durante el embarazo.",
+      "voice": "Humans can become infected in several ways: by consuming undercooked meat, touching infected cat feces, or through vertical transmission from mother to fetus during pregnancy.",
       "visual": "transmission hygiene hands",
       "duration": 23
     },
     {
-      "voice": "Aquí viene la parte perturbadora: el Toxoplasma gondii puede afectar el comportamiento de sus huéspedes. Un estudio revolucionario de 2000 publicado en Proceedings of the Royal Society encontró evidencia de comportamiento alterado en huéspedes infectados.",
+      "voice": "Here comes the disturbing part: Toxoplasma gondii can affect the behavior of its hosts. A groundbreaking 2000 study published in Proceedings of the Royal Society found evidence of altered behavior in infected hosts.",
       "visual": "behavior change psychology study",
       "duration": 24
     },
     {
-      "voice": "Los investigadores descubrieron que los roedores infectados con Toxoplasma mostraban una disminución del miedo a los gatos. De hecho, algunos roedores infectados eran atraídos a los gatos. Esto es una manipulación genial del parásito.",
+      "voice": "Researchers discovered that infected rodents showed a decrease in fear of cats. In fact, some infected rodents were attracted to cats. This is a brilliant manipulation by the parasite.",
       "visual": "mouse cat attraction behavior",
       "duration": 24
     },
     {
-      "voice": "El mecanismo es que el Toxoplasma produce dopamina, un neurotransmisor relacionado con la recompensa. El parásito estimula la producción de dopamina en el cerebro del roedor infectado, haciendo que el roedor sea atraído a los gatos.",
+      "voice": "The mechanism is that Toxoplasma produces dopamine, a neurotransmitter related to reward. The parasite stimulates dopamine production in the infected rodent's brain, making the rodent attracted to cats.",
       "visual": "dopamine brain chemistry",
       "duration": 24
     },
     {
-      "voice": "Esto es un acto de parasitismo manipulador perfecto. El roedor infectado es más fácil de capturar porque su miedo a los gatos se reduce. El gato come el roedor, completando el ciclo de vida del parásito.",
+      "voice": "This is a perfect example of manipulative parasitism. The infected rodent is easier to catch because its fear of cats is reduced. The cat eats the rodent, completing the parasite's life cycle.",
       "visual": "predator prey cycle",
       "duration": 23
     },
     {
-      "voice": "Ahora, la pregunta importante: ¿puede el Toxoplasma afectar el comportamiento de los humanos infectados? Los estudios sugieren que sí, aunque de manera más sutil.",
+      "voice": "Now, the important question: can Toxoplasma affect the behavior of infected humans? Studies suggest that it can, although in a more subtle way.",
       "visual": "human behavior psychology",
       "duration": 22
     },
     {
-      "voice": "Investigadores de la Universidad de Chicago encontraron que los hombres infectados con Toxoplasma mostraban más comportamiento de toma de riesgos. Las mujeres infectadas mostraban comportamiento más sociable.",
+      "voice": "Researchers from the University of Chicago found that infected men showed more risk-taking behavior. Infected women showed more sociable behavior.",
       "visual": "gender differences behavior",
       "duration": 23
     },
     {
-      "voice": "Otros estudios han encontrado asociaciones entre infección de Toxoplasma y esquizofrenia, trastorno bipolar y cambios de personalidad. Sin embargo, estos vínculos son correlacionales, no causales confirmados.",
+      "voice": "Other studies have found associations between Toxoplasma infection and schizophrenia, bipolar disorder, and personality changes. However, these links are correlational, not confirmed causal.",
       "visual": "mental health correlation",
       "duration": 24
     },
     {
-      "voice": "La teoría es que el Toxoplasma podría estar alterando los niveles de dopamina y neurotransmisores en el cerebro humano, similar a cómo lo hace en los roedores. Pero el efecto es probablemente mucho más sutil en humanos.",
+      "voice": "The theory is that Toxoplasma could be altering dopamine and neurotransmitter levels in the human brain, similar to how it does in rodents. But the effect is likely much more subtle in humans.",
       "visual": "neurotransmitter brain function",
       "duration": 24
     },
     {
-      "voice": "Un estudio fascinante de la Universidad de Stanford encontró que los hombres infectados con Toxoplasma tenían 1.4 veces más probabilidad de ser emprendedores. ¿Podría el parásito estar aumentando la toma de riesgos?",
+      "voice": "A fascinating study from Stanford University found that infected men were 1.4 times more likely to be entrepreneurs. Could the parasite be increasing risk-taking?",
       "visual": "entrepreneur risk taking business",
       "duration": 24
     },
     {
-      "voice": "Algunos investigadores especulan que el Toxoplasma podría explicar el dicho de que los gatos son responsables de que los humanos actúen de manera extraña. Pero esto es principalmente teorización.",
+      "voice": "Some researchers speculate that Toxoplasma could explain the saying that cats are responsible for making humans act strangely. But this is mainly speculation.",
       "visual": "cat human relationship",
       "duration": 22
     },
     {
-      "voice": "La mayoría de las personas infectadas con Toxoplasma no experimentan síntomas. El sistema inmune controla el parásito y lo mantiene en estado latente. El peligro real es para mujeres embarazadas y personas inmunodeprimidas.",
+      "voice": "Most people infected with Toxoplasma don't experience symptoms. The immune system controls the parasite and keeps it in a latent state. The real danger is for pregnant women and immunocompromised individuals.",
       "visual": "immune system health",
       "duration": 23
     },
     {
-      "voice": "Para prevenir la infección, simplemente mantén buena higiene: lava tus manos después de limpiar la caja de arena de tu gato, cocina la carne a temperaturas adecuadas, y lava las verduras.",
+      "voice": "To prevent infection, simply maintain good hygiene: wash your hands after cleaning your cat's litter box, cook meat to adequate temperatures, and wash vegetables.",
       "visual": "hygiene prevention washing",
       "duration": 23
     },
     {
-      "voice": "En conclusión, el Toxoplasma gondii es un parásito notablemente sofisticado que ha co-evolucionado con gatos durante millones de años. Su capacidad para alterar el comportamiento es un ejemplo extraordinario de cómo los parásitos pueden manipular a sus huéspedes.",
+      "voice": "In conclusion, Toxoplasma gondii is a remarkably sophisticated parasite that has co-evolved with cats over millions of years. Its ability to alter behavior is an extraordinary example of how parasites can manipulate their hosts.",
       "visual": "evolution parasite cat",
       "duration": 24
     }
   ],
-  "thumbnail_text": "PARÁSITO GATO"
+  "thumbnail_text": "CAT PARASITE"
 }
