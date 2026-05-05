@@ -26,12 +26,13 @@ jobs:
           TOTAL_MISSING=0
           REPORT=""
 
-          # By 13:00: each channel should have ~2 videos
-          # By 22:00: each channel should have 5 videos
+          # Cada canal tiene 2 crons/día (8:xx UTC y 16:xx UTC)
+          # By 13:00 UTC: el primero ya corrió → esperamos 1
+          # By 22:00 UTC: ambos corrieron → esperamos 2
           if [ "$HOUR" -lt 15 ]; then
-            VIDA_EXP=2; SALUD_EXP=2; FINANZAS_EXP=2; CAT_EXP=2; HOGAR_EXP=2
+            VIDA_EXP=1; SALUD_EXP=1; FINANZAS_EXP=1; CAT_EXP=1; HOGAR_EXP=1
           else
-            VIDA_EXP=5; SALUD_EXP=5; FINANZAS_EXP=5; CAT_EXP=5; HOGAR_EXP=5
+            VIDA_EXP=2; SALUD_EXP=2; FINANZAS_EXP=2; CAT_EXP=2; HOGAR_EXP=2
           fi
 
           count_success() {
