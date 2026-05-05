@@ -1,19 +1,19 @@
 {
-  "name": "HogarInteligente",
-  "handle": "@HogarInteligente",
-  "niche": "Tips, trucos y datos curiosos para el hogar",
-  "tone": "Práctico, directo, como un amigo que sabe trucos útiles para casa.",
+  "name": "HomeHacks",
+  "handle": "@HomeHacks",
+  "niche": "Home hacks, cleaning tricks and smart living tips backed by science",
+  "tone": "Practical, direct. Like a friend who knows useful home tricks.",
   "topics": [
-    "trucos de limpieza caseros",
-    "ahorro energético en casa",
-    "organización inteligente",
-    "datos curiosos del hogar",
-    "errores comunes en casa",
-    "domótica básica",
-    "trucos de cocina",
-    "mantenimiento del hogar",
-    "reciclaje y sostenibilidad",
-    "hacks para espacios pequeños"
+    "cleaning hacks",
+    "energy saving tips",
+    "smart home organization",
+    "home curiosities",
+    "common home mistakes",
+    "basic smart home",
+    "cooking tricks",
+    "home maintenance",
+    "recycling hacks",
+    "small space hacks"
   ],
   "style": {
     "primary_color": "#1976D2",
@@ -21,10 +21,11 @@
     "box_opacity": 0.85,
     "font_size": 58
   },
-  "cta": "📖 Más tips ↓\nhttps://espaciointeligente.org\n\n🏠 Recomendaciones hogar ↓\nhttps://www.amazon.es/s?k=hogar+organización&tag=vladys-21\n\n👍 Suscríbete y activa la 🔔",
+  "cta": "📖 More tips ↓\nhttps://espaciointeligente.org\n\n🏠 Home picks ↓\nhttps://www.amazon.com/s?k=home+organization+gadgets&tag=vladys-21\n\n🔔 Subscribe for daily home hacks",
   "refresh_token_env": "YT_TOKEN_HOGARINTELIGENTE",
   "web_url": "https://espaciointeligente.org",
   "amazon_tag": "vladys-21",
-  "amazon_search": "gadgets+hogar+cocina",
-  "no_voice": true
+  "amazon_search": "home+organization+gadgets",
+  "no_voice": true,
+  "language": "en"
 }

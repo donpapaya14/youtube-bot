@@ -1,19 +1,19 @@
 {
-  "name": "FinanzasClara",
-  "handle": "@FinanzasClara-l3w",
-  "niche": "Finanzas personales y ahorro para hispanohablantes",
-  "tone": "Cercano, práctico, sin tecnicismos. Como un amigo que sabe de dinero.",
+  "name": "MoneyClara",
+  "handle": "@MoneyClara",
+  "niche": "Personal finance, savings hacks and money tips for real people",
+  "tone": "Practical, direct, no jargon. Like a friend who actually knows money.",
   "topics": [
-    "ahorro doméstico",
-    "inversión para principiantes",
-    "salir de deudas",
-    "presupuesto mensual",
-    "errores financieros comunes",
-    "ingresos pasivos",
-    "ahorro hormiga",
-    "tarjetas de crédito",
-    "fondo de emergencia",
-    "inflación y poder adquisitivo"
+    "household savings",
+    "investing for beginners",
+    "getting out of debt",
+    "monthly budgeting",
+    "common financial mistakes",
+    "passive income",
+    "micro savings",
+    "credit card tricks",
+    "emergency fund",
+    "inflation survival tips"
   ],
   "style": {
     "primary_color": "#2ECC71",
@@ -21,10 +21,11 @@
     "box_opacity": 0.85,
     "font_size": 58
   },
-  "cta": "📖 Artículo completo ↓\nhttps://finanzasclara.uk\n\n📚 Libros recomendados ↓\nhttps://www.amazon.es/s?k=libros+finanzas+personales&tag=vladys-21\n\n📩 Newsletter gratis ↓\nhttps://eepurl.com/c_iwJy-3pL\n\n👍 Suscríbete y activa la 🔔",
+  "cta": "📖 Full guide ↓\nhttps://finanzasclara.uk\n\n📚 Best money books ↓\nhttps://www.amazon.com/s?k=personal+finance+books&tag=vladys-21\n\n🔔 Subscribe for daily money tips",
   "refresh_token_env": "YT_TOKEN_FINANZAS",
   "web_url": "https://finanzasclara.uk",
   "amazon_tag": "vladys-21",
-  "amazon_search": "libros+finanzas+personales",
-  "no_voice": true
+  "amazon_search": "personal+finance+books",
+  "no_voice": true,
+  "language": "en"
 }

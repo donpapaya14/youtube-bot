@@ -1,19 +1,19 @@
 {
-  "name": "VidaSana360",
-  "handle": "@VidaSana360",
-  "niche": "Salud, bajada de peso y bienestar basado en ciencia",
-  "tone": "Directo, motivador, con datos científicos reales. Como un entrenador personal que sabe de ciencia.",
+  "name": "HealthSpark",
+  "handle": "@HealthSpark",
+  "niche": "Science-backed health, fat loss and wellness tips",
+  "tone": "Direct, motivating, data-driven. Like a personal trainer who knows the science.",
   "topics": [
-    "pérdida de peso con evidencia",
-    "ayuno intermitente",
-    "déficit calórico",
-    "ejercicios para quemar grasa",
-    "alimentos que aceleran metabolismo",
-    "errores comunes en dietas",
-    "rutinas de ejercicio en casa",
-    "suplementos con evidencia científica",
-    "hábitos para perder peso",
-    "mitos de nutrición desmontados"
+    "science-backed fat loss",
+    "intermittent fasting results",
+    "caloric deficit explained",
+    "exercises to burn fat fast",
+    "foods that boost metabolism",
+    "common diet mistakes",
+    "home workout routines",
+    "supplements with real evidence",
+    "weight loss habits",
+    "nutrition myths debunked"
   ],
   "style": {
     "primary_color": "#C62828",
@@ -21,10 +21,11 @@
     "box_opacity": 0.85,
     "font_size": 58
   },
-  "cta": "📖 Artículo completo ↓\nhttps://vida-sana-360.com\n\n🛒 Recomendaciones ↓\nhttps://www.amazon.es/s?k=suplementos+naturales+salud&tag=vladys-21\n\n📩 Newsletter gratis ↓\nhttps://eepurl.com/c_iwJy-3pL\n\n👍 Suscríbete y activa la 🔔",
+  "cta": "📖 Full article ↓\nhttps://vida-sana-360.com\n\n🛒 Recommended products ↓\nhttps://www.amazon.com/s?k=natural+health+supplements&tag=vladys-21\n\n🔔 Subscribe for daily science tips",
   "refresh_token_env": "YT_TOKEN_PRINCIPAL",
   "web_url": "https://vida-sana-360.com",
   "amazon_tag": "vladys-21",
-  "amazon_search": "suplementos+naturales+salud",
-  "no_voice": true
+  "amazon_search": "natural+health+supplements",
+  "no_voice": true,
+  "language": "en"
 }
