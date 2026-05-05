@@ -272,6 +272,76 @@ def _compose_final(bg_video, voice_path, slide_pngs, segments, total_duration, o
         raise RuntimeError(f"Error composición: {result.stderr[-500:]}")
 
 
+def generate_shorts_thumbnail(hook: str, channel: dict, output_path: str) -> str:
+    """Genera thumbnail YouTube 1280×720 con el hook del vídeo."""
+    W, H = 1280, 720
+    primary = _hex_to_rgb(channel["style"].get("primary_color", "#1A1A1A"))
+    text_col = _hex_to_rgb(channel["style"].get("text_color", "#FFFFFF"))
+    font_path = _find_font()
+
+    img = Image.new("RGB", (W, H), primary)
+    draw = ImageDraw.Draw(img)
+
+    # Degradado: oscurece hacia abajo
+    dark = tuple(max(0, c - 60) for c in primary)
+    for y in range(H):
+        t = y / H
+        r = int(primary[0] * (1 - t) + dark[0] * t)
+        g = int(primary[1] * (1 - t) + dark[1] * t)
+        b = int(primary[2] * (1 - t) + dark[2] * t)
+        draw.line([(0, y), (W, y)], fill=(r, g, b))
+
+    # Barra de acento superior
+    draw.rectangle([0, 0, W, 14], fill=text_col)
+
+    # Texto principal: hook en mayúsculas, grande y centrado
+    clean = _strip_emojis(hook).upper().strip()
+    font_size = 110
+    try:
+        font = ImageFont.truetype(font_path, font_size) if font_path else ImageFont.load_default()
+    except Exception:
+        font = ImageFont.load_default()
+
+    # Wrap: máx ~18 chars/línea a este tamaño
+    words = clean.split()
+    lines, cur = [], ""
+    for w in words:
+        test = (cur + " " + w).strip()
+        bbox = draw.textbbox((0, 0), test, font=font)
+        if bbox[2] > W - 80 and cur:
+            lines.append(cur)
+            cur = w
+        else:
+            cur = test
+    if cur:
+        lines.append(cur)
+
+    lh = font_size + 18
+    block_h = len(lines) * lh
+    y0 = (H - block_h) // 2 - 20
+
+    for i, line in enumerate(lines):
+        bbox = draw.textbbox((0, 0), line, font=font)
+        tx = (W - (bbox[2] - bbox[0])) // 2
+        ty = y0 + i * lh
+        # Sombra
+        draw.text((tx + 4, ty + 4), line, font=font, fill=(0, 0, 0))
+        draw.text((tx, ty), line, font=font, fill=text_col)
+
+    # Nombre del canal abajo
+    try:
+        small = ImageFont.truetype(font_path, 38) if font_path else ImageFont.load_default()
+    except Exception:
+        small = ImageFont.load_default()
+    ch = channel.get("name", "").upper()
+    bbox = draw.textbbox((0, 0), ch, font=small)
+    draw.text(((W - (bbox[2] - bbox[0])) // 2, H - 58), ch, font=small,
+              fill=tuple(min(255, c + 50) for c in text_col))
+
+    img.save(output_path, "PNG")
+    return output_path
+
+
 def _strip_emojis(text: str) -> str:
     pattern = re.compile(
         "[\U0001F600-\U0001F64F\U0001F300-\U0001F5FF\U0001F680-\U0001F6FF"

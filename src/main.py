@@ -23,7 +23,7 @@ from research import research_topic, generate_content
 from voice import generate_voice_segments
 from video_generator import generate_video
 from pexels_fallback import download_clips
-from assembler import assemble_video
+from assembler import assemble_video, generate_shorts_thumbnail
 from publisher import upload_to_youtube, notify_telegram
 
 logging.basicConfig(
@@ -105,7 +105,20 @@ def run(channel_name: str):
         raise RuntimeError("No se pudo obtener ningún clip de video")
     log.info("Clips: %d", len(clips))
 
-    # 6. Ensamblar: clips + voz + texto + música
+    # 6. Thumbnail personalizado con el hook
+    thumbnail_path = os.path.join(work_dir, "thumbnail.png")
+    try:
+        generate_shorts_thumbnail(
+            hook=topic_data.get("hook", content["title"]),
+            channel=channel,
+            output_path=thumbnail_path,
+        )
+        log.info("Thumbnail generado")
+    except Exception as e:
+        log.warning("Thumbnail falló: %s", e)
+        thumbnail_path = None
+
+    # 7. Ensamblar: clips + texto + música (± voz)
     log.info("Ensamblando video...")
     output_path = os.path.join(work_dir, "final_short.mp4")
     music = find_music(project_root)
@@ -122,7 +135,7 @@ def run(channel_name: str):
     size_mb = os.path.getsize(output_path) / (1024 * 1024)
     log.info("Video final: %.1f MB", size_mb)
 
-    # 7. Subir a YouTube
+    # 8. Subir a YouTube
     log.info("Subiendo a YouTube...")
     video_url = upload_to_youtube(
         video_path=output_path,
@@ -130,6 +143,7 @@ def run(channel_name: str):
         description=content["description"],
         tags=content["tags"],
         channel_config=channel,
+        thumbnail_path=thumbnail_path,
     )
 
     # 8. Telegram

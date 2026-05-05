@@ -519,7 +519,7 @@ REGLAS:
 Responde JSON:
 {{
   "topic": "tema concreto",
-  "hook": "frase gancho de 8 palabras máximo",
+  "hook": "frase de MÁXIMO 8 palabras que PARA EL SCROLL. Usa sorpresa, dato concreto o contradicción. Empieza con número, verbo de acción o pregunta directa. NUNCA empieces con 'Descubre' o 'Aprende'. Ej: 'El 80% de españoles comete este error', 'Esto te cuesta 300€ al año sin saberlo'",
   "key_points": ["dato real 1", "dato real 2", "dato real 3", "dato real 4"],
   "search_terms": ["búsqueda visual en inglés muy específica del tema para encontrar video de fondo 1", "término visual 2", "término visual 3"]
 }}"""
@@ -581,7 +581,7 @@ EJEMPLO BUENO (canal IA):
 
 Responde SOLO JSON:
 {{
-  "title": "titulo SEO max 60 chars con 1 emoji",
+  "title": "titulo para YouTube búsqueda, max 60 chars, incluye la keyword exacta que alguien escribiría en el buscador (ej: 'cómo ahorrar dinero', 'alimentos tóxicos para gatos'), puede ser pregunta o afirmación con dato concreto, 1 emoji al inicio. NUNCA clickbait genérico sin contenido",
   "description": "descripcion 3 lineas con keywords naturales y CTA al canal.",
   "tags": ["tag1", "tag2", "tag3", "tag4", "tag5", "tag6", "tag7", "tag8"],
   "segments": [
