@@ -465,43 +465,46 @@ def run_narrated_educational(channel: dict, work_dir: str) -> dict:
         niche = channel.get("niche", "educación")
         tone = channel.get("tone", "informativo")
         lang = channel.get("language", "es")
+        forbidden = channel.get("content_forbidden", "")
+        lang_label = "en español" if lang == "es" else "in English"
         target_segments = max(25, duration_min * 2)
         target_words = max(1800, duration_min * 150)
 
         for attempt in range(3):
-            script = _call_with_fallback(f"""Eres un guionista de documentales educativos para YouTube en español.
-Canal: {channel['name']} | Nicho: {niche}
-Tono: {tone}
+            script = _call_with_fallback(f"""You are a documentary scriptwriter for YouTube.
+Channel: {channel['name']} | Niche: {niche}
+Tone: {tone}
+{f"STRICT RULE: {forbidden}" if forbidden else ""}
 
-CREA UN DOCUMENTAL COMPLETO SOBRE: {topic}
+CREATE A COMPLETE DOCUMENTARY ABOUT: {topic}
 
-REQUISITOS DE CONTENIDO:
-- OBLIGATORIO: {target_segments} segmentos mínimo
-- Cada segmento: 3-5 frases de narración (50-80 palabras)
-- Total: {target_words}+ palabras de narración
-- TODO real y VERIFICABLE — cita estudios, universidades, fuentes reales
-- Si mencionas un dato, di DE DÓNDE viene (universidad, estudio, año)
-- Lenguaje {'en español' if lang == 'es' else 'en inglés'}, accesible, sin tecnicismos innecesarios
+CONTENT REQUIREMENTS:
+- MANDATORY: {target_segments} segments minimum
+- Each segment: 3-5 narration sentences (50-80 words)
+- Total: {target_words}+ narration words
+- ALL facts REAL and VERIFIABLE — cite studies, universities, real sources
+- If you mention data, say WHERE it comes from (university, study, year)
+- Language: {lang_label}, accessible, no unnecessary jargon
 
-ESTRUCTURA:
-1-3: Gancho impactante + dato que sorprenda + contexto del tema
-4-8: Desarrollo principal — datos, estudios, explicaciones
-9-14: Profundización — casos reales, ejemplos prácticos
-15-20: Más evidencia, contrastes, mitos vs realidad
-21-{target_segments}: Conclusiones prácticas + CTA potente
+STRUCTURE:
+1-3: Impactful hook + surprising fact + topic context
+4-8: Main development — data, studies, explanations
+9-14: Deep dive — real cases, practical examples
+15-20: More evidence, contrasts, myths vs reality
+21-{target_segments}: Practical conclusions + strong CTA
 
-ÚLTIMO SEGMENTO: CTA con urgencia — "Si esto te ha parecido útil, lo que viene la próxima semana te va a sorprender. Suscríbete para no perdértelo."
+LAST SEGMENT: Urgency CTA — "If this changed how you see things, what I'm posting next week will go even deeper. Subscribe now."
 
-Responde JSON:
+Respond JSON:
 {{
-  "title": "título SEO max 60 chars, con 1 emoji relevante",
-  "description": "descripción YouTube 3-4 líneas con keywords naturales, fuentes mencionadas, y CTA al canal",
+  "title": "SEO title max 60 chars, 1 relevant emoji",
+  "description": "YouTube description 3-4 lines with natural keywords, sources mentioned, channel CTA",
   "tags": ["tag1", "tag2", ..., "tag10"],
   "segments": [
-    {{"voice": "narración completa 3-5 frases con datos reales", "visual": "descripción visual para B-roll en inglés (búsqueda Pexels)", "duration": 25}},
-    ... (mínimo {target_segments} segmentos)
+    {{"voice": "full narration 3-5 sentences with real data", "visual": "visual description for B-roll Pexels search in English", "duration": 25}},
+    ... (minimum {target_segments} segments)
   ],
-  "thumbnail_text": "2-3 palabras impactantes para thumbnail"
+  "thumbnail_text": "2-3 impactful words for thumbnail"
 }}""", primary="github", temperature=0.7)
 
             num_segs = len(script.get("segments", []))

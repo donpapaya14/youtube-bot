@@ -1,19 +1,19 @@
 {
   "name": "VidaSana360",
   "handle": "@VidaaSana360",
-  "niche": "Science-backed health, fat loss and wellness tips",
-  "tone": "Direct, motivating, data-driven. Like a personal trainer who knows the science.",
+  "niche": "Salud, pérdida de grasa y bienestar basados en ciencia",
+  "tone": "Directo, motivador, basado en datos. Como un entrenador personal que conoce la ciencia.",
   "topics": [
-    "science-backed fat loss",
-    "intermittent fasting results",
-    "caloric deficit explained",
-    "exercises to burn fat fast",
-    "foods that boost metabolism",
-    "common diet mistakes",
-    "home workout routines",
-    "supplements with real evidence",
-    "weight loss habits",
-    "nutrition myths debunked"
+    "pérdida de grasa basada en ciencia",
+    "ayuno intermitente resultados",
+    "déficit calórico explicado",
+    "ejercicios para quemar grasa",
+    "alimentos que aceleran el metabolismo",
+    "errores comunes en dietas",
+    "rutinas de ejercicio en casa",
+    "suplementos con evidencia real",
+    "hábitos para perder peso",
+    "mitos de nutrición desmontados"
   ],
   "style": {
     "primary_color": "#C62828",
@@ -21,11 +21,11 @@
     "box_opacity": 0.85,
     "font_size": 58
   },
-  "cta": "📖 Full article ↓\nhttps://vida-sana-360.com\n\n🛒 Recommended products ↓\nhttps://www.amazon.com/s?k=natural+health+supplements&tag=vds96-20\n\n🔔 Subscribe for daily science tips",
+  "cta": "📖 Artículo completo ↓\nhttps://vida-sana-360.com\n\n🛒 Productos recomendados ↓\nhttps://www.amazon.com/s?k=suplementos+naturales&tag=vds96-20\n\n🔔 Suscríbete para tips diarios de salud",
   "refresh_token_env": "YT_TOKEN_PRINCIPAL",
   "web_url": "https://vida-sana-360.com",
   "amazon_tag": "vds96-20",
   "amazon_search": "natural+health+supplements",
-  "no_voice": true,
-  "language": "en"
+  "no_voice": false,
+  "language": "es"
 }

@@ -29,5 +29,6 @@
   "category_id": "27",
   "default_tags": ["psychology", "dark psychology", "cognitive bias", "social experiment", "human behavior", "mind tricks", "brain science", "psychology documentary"],
   "thumbnail_style": "brain imagery, dark purple tones, eye close-up, mysterious lighting, bold text",
-  "voice": "en-US-GuyNeural"
+  "voice": "en-US-GuyNeural",
+  "content_forbidden": "NEVER write true crime narratives, missing person cases, criminal investigations, murder cases, or crime scene stories. This is a psychology/neuroscience channel ONLY."
 }
