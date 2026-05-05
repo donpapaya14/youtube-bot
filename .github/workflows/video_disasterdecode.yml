@@ -1,0 +1,11 @@
+name: "Video: DisasterDecode (Long-Form)"
+on:
+  schedule:
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+jobs:
+  video:
+    uses: ./.github/workflows/longform_engine.yml
+    with:
+      channel: calm_earth
+    secrets: inherit

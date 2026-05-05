@@ -1,0 +1,11 @@
+name: "Video: MindWired (Long-Form)"
+on:
+  schedule:
+    - cron: '0 17 * * *'
+  workflow_dispatch:
+jobs:
+  video:
+    uses: ./.github/workflows/longform_engine.yml
+    with:
+      channel: chill_orbit
+    secrets: inherit
