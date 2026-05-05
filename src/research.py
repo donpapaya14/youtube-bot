@@ -182,17 +182,11 @@ CONTENT_FORMULAS = {
 }
 
 NICHE_MAP = {
-    # Spanish channels (legacy)
-    "FinanzasClara": "finanzas",
-    "SaludLongevidad": "salud_longevidad",
-    "VidaSana360": "salud_bienestar",
+    "FinanzasClara": "finance_en",
+    "SaludLongevidad": "longevity_en",
+    "VidaSana360": "health_en",
     "CatBrothers": "cats_en",
-    "HogarInteligente": "hogar",
-    # English channels
-    "MoneyClara": "finance_en",
-    "LongevityLab": "longevity_en",
-    "HealthSpark": "health_en",
-    "HomeHacks": "home_en",
+    "EspacioInteligente": "home_en",
 }
 
 CONTENT_FORMULAS["finance_en"] = [
@@ -461,7 +455,7 @@ CHANNEL_TOPICS_MAP = {
     "VidaSana360": "vidasana360.json",
     "SaludLongevidad": "saludlongevidad.json",
     "CatBrothers": "catbrothers.json",
-    "HogarInteligente": "hogarinteligente.json",
+    "EspacioInteligente": "hogarinteligente.json",
     "FinanzasClara": "finanzasclara.json",
 }
 
