@@ -26,7 +26,7 @@
     "text_color": "#FFFFFF"
   },
   "voice": "en-US-GuyNeural",
-  "refresh_token_env": "YT_TOKEN_DARKFILES",
+  "refresh_token_env": "YT_TOKEN_CHILLORBIT",
   "category_id": "24",
   "default_tags": ["true crime", "unsolved mysteries", "cold cases", "crime documentary", "mystery", "dark files", "criminal investigation"],
   "thumbnail_style": "dark moody atmosphere, crime scene, noir detective, red accent lighting"
