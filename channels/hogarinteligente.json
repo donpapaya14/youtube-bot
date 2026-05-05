@@ -25,5 +25,6 @@
   "refresh_token_env": "YT_TOKEN_HOGARINTELIGENTE",
   "web_url": "https://espaciointeligente.org",
   "amazon_tag": "vladys-21",
-  "amazon_search": "gadgets+hogar+cocina"
+  "amazon_search": "gadgets+hogar+cocina",
+  "no_voice": true
 }

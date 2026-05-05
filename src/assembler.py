@@ -28,6 +28,7 @@ def assemble_video(
     style: dict,
     output_path: str,
     music_path: str | None = None,
+    no_voice: bool = False,
 ) -> str:
     work_dir = tempfile.mkdtemp(prefix="ytbot_")
 
@@ -40,16 +41,21 @@ def assemble_video(
     concat_path = os.path.join(work_dir, "concat.mp4")
     _concat_clips(processed, concat_path)
 
-    # 3. Concatenar audios de voz
-    voice_path = os.path.join(work_dir, "voice_full.mp3")
-    total_duration = _concat_voice(voiced_segments, voice_path)
+    # 3. Audio: voz TTS o silencio
+    if no_voice:
+        total_duration = min(sum(s.get("duration", 4.0) for s in voiced_segments), 58.0)
+        voice_path = None
+        log.info("Sin voz: duración total %.0fs", total_duration)
+    else:
+        voice_path = os.path.join(work_dir, "voice_full.mp3")
+        total_duration = _concat_voice(voiced_segments, voice_path)
 
     # 4. Generar PNGs de texto
     slide_pngs = _generate_slide_pngs(voiced_segments, style, work_dir)
 
-    # 5. Componer todo: video + voz + texto overlay + música
+    # 5. Componer todo: video + texto overlay + música (± voz)
     _compose_final(concat_path, voice_path, slide_pngs, voiced_segments,
-                   total_duration, output_path, music_path)
+                   total_duration, output_path, music_path, no_voice=no_voice)
 
     log.info("Video ensamblado: %s", output_path)
     return output_path
@@ -194,39 +200,54 @@ def _render_slide(text, font, font_size, bg_rgb, bg_opacity, txt_rgb, output, id
     img.save(output, "PNG")
 
 
-def _compose_final(bg_video, voice_path, slide_pngs, segments, total_duration, output, music_path):
-    """Compone: video looped + voz + overlay texto + música baja."""
+def _compose_final(bg_video, voice_path, slide_pngs, segments, total_duration, output, music_path, no_voice=False):
+    """Compone: video looped + overlay texto + música (± voz TTS)."""
     inputs = ["-stream_loop", "-1", "-i", bg_video]  # 0: video
-    inputs += ["-i", voice_path]                       # 1: voz
-    for png in slide_pngs:
-        inputs += ["-i", png]  # 2+: slides
 
-    # Overlay de texto sincronizado con timing de voz
+    # 1: voz (solo si hay voz)
+    if voice_path is not None:
+        inputs += ["-i", voice_path]
+        png_start_idx = 2
+    else:
+        png_start_idx = 1
+
+    for png in slide_pngs:
+        inputs += ["-i", png]  # png_start_idx+: slides
+
+    # Overlay de texto sincronizado
     filters = []
     current_time = 0.0
     for i, seg in enumerate(segments):
-        dur = seg["duration"]
+        dur = seg.get("duration", 4.0)
         start = current_time
         end = current_time + dur
         src = f"[v{i}]" if i > 0 else "[0:v]"
         dst = f"[v{i+1}]"
-        img_idx = i + 2  # offset por video(0) + voice(1)
+        img_idx = i + png_start_idx
         filters.append(
             f"{src}[{img_idx}:v]overlay=0:0:enable='between(t,{start:.1f},{end:.1f})'{dst}"
         )
         current_time = end
 
     last_video = f"[v{len(segments)}]"
+    fade_st = max(total_duration - 2, 0)
 
-    # Audio: mezclar voz + música
+    # Audio
     if music_path and os.path.exists(music_path):
-        music_idx = len(slide_pngs) + 2
+        music_idx = png_start_idx + len(slide_pngs)
         inputs += ["-i", music_path]
-        # Voz al 100%, música al 12%
-        filters.append(f"[{music_idx}:a]volume=0.12,afade=t=out:st={total_duration-2}:d=2[mus]")
-        filters.append(f"[1:a][mus]amix=inputs=2:duration=first:dropout_transition=2[aout]")
-    else:
+        if no_voice:
+            # Solo música, volumen alto
+            filters.append(f"[{music_idx}:a]volume=0.75,afade=t=out:st={fade_st:.1f}:d=2[aout]")
+        else:
+            # Voz al 100% + música al 12%
+            filters.append(f"[{music_idx}:a]volume=0.12,afade=t=out:st={fade_st:.1f}:d=2[mus]")
+            filters.append(f"[1:a][mus]amix=inputs=2:duration=first:dropout_transition=2[aout]")
+    elif voice_path is not None:
         filters.append("[1:a]acopy[aout]")
+    else:
+        # Sin voz, sin música: silencio
+        filters.append(f"anullsrc=r=44100:cl=mono[aout]")
 
     filter_str = ";".join(filters)
 

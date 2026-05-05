@@ -25,5 +25,6 @@
   "refresh_token_env": "YT_TOKEN_PRINCIPAL",
   "web_url": "https://vida-sana-360.com",
   "amazon_tag": "vladys-21",
-  "amazon_search": "suplementos+naturales+salud"
+  "amazon_search": "suplementos+naturales+salud",
+  "no_voice": true
 }

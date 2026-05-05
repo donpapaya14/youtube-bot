@@ -70,7 +70,7 @@ def run(channel_name: str):
     content = generate_content(channel, topic_data)
     log.info("Título: %s", content["title"])
 
-    # 4. Generar voz para cada segmento
+    # 4. Generar voz (o segmentos silenciosos si no_voice=true)
     log.info("Generando voz...")
     segments = content.get("segments", [])
     if not segments:
@@ -78,8 +78,21 @@ def run(channel_name: str):
         segments = [{"voice": s.get("voice", s.get("text", "")), "text": s.get("text", "")}
                     for s in content.get("text_slides", [])]
 
-    voiced_segments = generate_voice_segments(segments, work_dir, voice="male")
-    log.info("Voz generada: %d segmentos", len(voiced_segments))
+    no_voice = channel.get("no_voice", False)
+    if no_voice:
+        voiced_segments = [
+            {
+                "text": s.get("text", s.get("voice", "")),
+                "voice": s.get("voice", s.get("text", "")),
+                "audio_path": None,
+                "duration": 4.0,
+            }
+            for s in segments
+        ]
+        log.info("Modo sin voz: %d segmentos × 4s = %.0fs", len(voiced_segments), len(voiced_segments) * 4)
+    else:
+        voiced_segments = generate_voice_segments(segments, work_dir, voice="male")
+        log.info("Voz generada: %d segmentos", len(voiced_segments))
 
     # 5. Obtener clips de video
     log.info("Obteniendo clips de video...")
@@ -103,6 +116,7 @@ def run(channel_name: str):
         style=channel["style"],
         output_path=output_path,
         music_path=music,
+        no_voice=no_voice,
     )
 
     size_mb = os.path.getsize(output_path) / (1024 * 1024)

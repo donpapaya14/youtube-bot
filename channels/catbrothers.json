@@ -25,5 +25,6 @@
   "refresh_token_env": "YT_TOKEN_CATBROTHERS",
   "web_url": "https://catbrothers.uk",
   "amazon_tag": "vladys-21",
-  "amazon_search": "juguetes+gatos"
+  "amazon_search": "juguetes+gatos",
+  "no_voice": true
 }

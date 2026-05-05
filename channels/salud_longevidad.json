@@ -25,5 +25,6 @@
   "refresh_token_env": "YT_TOKEN_SALUD",
   "web_url": "https://saludlongevidad.org",
   "amazon_tag": "vladys-21",
-  "amazon_search": "suplementos+longevidad"
+  "amazon_search": "suplementos+longevidad",
+  "no_voice": true
 }

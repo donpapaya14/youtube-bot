@@ -25,5 +25,6 @@
   "refresh_token_env": "YT_TOKEN_FINANZAS",
   "web_url": "https://finanzasclara.uk",
   "amazon_tag": "vladys-21",
-  "amazon_search": "libros+finanzas+personales"
+  "amazon_search": "libros+finanzas+personales",
+  "no_voice": true
 }
