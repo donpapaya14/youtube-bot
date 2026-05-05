@@ -14,8 +14,8 @@ from openai import OpenAI
 
 log = logging.getLogger(__name__)
 
-NVIDIA_FAST = "deepseek-ai/deepseek-v4-flash"
-NVIDIA_STABLE = "meta/llama-3.3-70b-instruct"
+NVIDIA_FAST = "meta/llama-3.3-70b-instruct"
+NVIDIA_STABLE = "mistralai/mistral-7b-instruct-v0.3"
 GROQ_MODEL = "llama-3.3-70b-versatile"
 GITHUB_MODEL = "DeepSeek-V3-0324"
 
@@ -29,6 +29,8 @@ def _parse_json(text: str) -> dict:
         text = text.split("\n", 1)[1] if "\n" in text else text[3:]
     if text.endswith("```"):
         text = text.rsplit("```", 1)[0]
+    # Strip control characters that break json.loads (except \t \n \r)
+    text = _re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]", "", text)
     return json.loads(text.strip())
 
 
