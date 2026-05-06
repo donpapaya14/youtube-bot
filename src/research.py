@@ -438,20 +438,64 @@ def _save_local_title(channel_name: str, title: str):
         f.write(f"{time.time()}|{title}\n")
 
 
-def _is_duplicate(new_title: str, existing_titles: list[str], threshold: float = 0.5) -> bool:
-    """Check si título es demasiado similar a uno existente (word overlap)."""
-    new_words = set(_re.sub(r"[^\w\s]", "", new_title.lower()).split())
-    if len(new_words) < 2:
+_STOPWORDS = {
+    # ES
+    "el", "la", "los", "las", "un", "una", "unos", "unas", "de", "del", "al", "a", "en", "y", "o", "u",
+    "que", "para", "por", "con", "sin", "es", "son", "ser", "este", "esta", "estos", "estas", "su", "sus",
+    "lo", "le", "se", "te", "me", "mi", "tu", "como", "cuando", "donde", "porque", "tambien", "muy", "mas", "menos",
+    "todo", "todos", "toda", "todas", "no", "si", "ya", "asi", "pero", "hay", "tiene", "tienen", "hacer",
+    # EN
+    "the", "a", "an", "of", "in", "on", "at", "to", "for", "with", "and", "or", "but", "is", "are", "was", "were",
+    "be", "been", "being", "this", "that", "these", "those", "it", "its", "as", "by", "from", "have", "has",
+    "do", "does", "did", "will", "would", "can", "could", "should", "may", "your", "you", "i", "we", "they", "he", "she",
+    "what", "when", "where", "why", "how", "all", "any", "more", "less", "no", "not", "so", "if", "than", "then",
+}
+
+
+def _significant_words(title: str) -> set[str]:
+    """Extrae palabras significativas: 4+ chars, no stopwords, sin números puros."""
+    words = _re.sub(r"[^\w\s]", " ", title.lower()).split()
+    return {w for w in words if len(w) >= 4 and w not in _STOPWORDS and not w.isdigit()}
+
+
+def _is_duplicate(new_title: str, existing_titles: list[str], threshold: float = 0.35) -> bool:
+    """Detecta duplicados con 3 capas: substring exacto, sustantivos compartidos, word overlap."""
+    new_norm = _re.sub(r"\s+", " ", _re.sub(r"[^\w\s]", " ", new_title.lower())).strip()
+    new_sig = _significant_words(new_title)
+
+    if not new_sig:
         return False
+
     for existing in existing_titles:
-        existing_words = set(_re.sub(r"[^\w\s]", "", existing.lower()).split())
-        if len(existing_words) < 2:
-            continue
-        overlap = len(new_words & existing_words)
-        similarity = overlap / min(len(new_words), len(existing_words))
-        if similarity >= threshold:
-            log.warning("Duplicado detectado (%.0f%%): '%s' ≈ '%s'", similarity * 100, new_title[:40], existing[:40])
+        existing_norm = _re.sub(r"\s+", " ", _re.sub(r"[^\w\s]", " ", existing.lower())).strip()
+
+        # Capa 1: substring 5+ palabras
+        new_chunks = new_norm.split()
+        existing_chunks = existing_norm.split()
+        if len(new_chunks) >= 5 and len(existing_chunks) >= 5:
+            for i in range(len(new_chunks) - 4):
+                chunk = " ".join(new_chunks[i:i+5])
+                if chunk in existing_norm:
+                    log.warning("DUP substring: '%s' ⊂ '%s'", chunk, existing[:50])
+                    return True
+
+        # Capa 2: 2+ sustantivos significativos compartidos = duplicado
+        existing_sig = _significant_words(existing)
+        shared_sig = new_sig & existing_sig
+        if len(shared_sig) >= 2:
+            log.warning("DUP sustantivos (%d compartidos: %s): '%s' ≈ '%s'",
+                        len(shared_sig), shared_sig, new_title[:50], existing[:50])
             return True
+
+        # Capa 3: ratio overlap (más estricto)
+        if not existing_sig:
+            continue
+        overlap = len(shared_sig)
+        similarity = overlap / min(len(new_sig), len(existing_sig))
+        if similarity >= threshold:
+            log.warning("DUP overlap (%.0f%%): '%s' ≈ '%s'", similarity * 100, new_title[:50], existing[:50])
+            return True
+
     return False
 
 
@@ -658,10 +702,9 @@ Responde JSON:
         log.warning("Intento %d: tema duplicado '%s', reintentando con otra fórmula", attempt + 1, data["topic"][:40])
         all_titles.append(data["topic"])  # Evitar regenerar el mismo
 
-    # Si 3 intentos fallan, subir igual pero con warning
-    _save_local_title(channel["name"], data["topic"])
-    log.warning("DEDUP: 3 intentos fallaron, usando último resultado: %s", data["topic"][:50])
-    return data
+    # Si 3 intentos fallan, ABORTAR — NO subir duplicado
+    log.error("DEDUP: 3 intentos fallaron. Último topic: %s. Abortando para no duplicar.", data["topic"][:50])
+    raise RuntimeError(f"DEDUP failed after 3 attempts. Last topic: {data['topic'][:80]}")
 
 
 def generate_content(channel: dict, topic_data: dict) -> dict:
