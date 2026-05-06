@@ -505,6 +505,10 @@ CHANNEL_TOPICS_MAP = {
     "CatBrothers": "catbrothers.json",
     "EspacioInteligente": "hogarinteligente.json",
     "FinanzasClara": "finanzasclara.json",
+    "DarkFiles": "darkfiles.json",
+    "DisasterDecode": "disasterdecode.json",
+    "MindWired": "mindwired.json",
+    "CashCafe": "cashcafe.json",
 }
 
 # Canales que comparten nicho — cross-channel dedup
@@ -515,7 +519,13 @@ SIBLING_CHANNELS = {
 
 
 def _load_prewritten_topic(channel: dict) -> dict | None:
-    """Carga un tema pre-escrito del banco, marcándolo como usado."""
+    """Carga un tema pre-escrito del banco, marcándolo como usado.
+
+    Lee TODOS los archivos topics/<canal>*.json (base, _extra, _3months, etc.)
+    y mergea. Permite añadir bancos adicionales sin tocar este código.
+    """
+    import glob as _glob
+
     topics_file = CHANNEL_TOPICS_MAP.get(channel["name"])
     if not topics_file:
         return None
@@ -527,16 +537,29 @@ def _load_prewritten_topic(channel: dict) -> dict | None:
         return None
 
     try:
-        with open(path) as f:
-            topics = json.load(f)
+        # Glob: <stem>.json + <stem>_*.json (cualquier sufijo)
+        stem = topics_file.replace(".json", "")
+        pattern = os.path.join(project_root, "topics", f"{stem}*.json")
+        topic_files = sorted(_glob.glob(pattern))
+        # Excluir archivos .used.json u otros no-banco
+        topic_files = [f for f in topic_files if not f.endswith(".used") and not f.endswith(".used.json")]
 
-        # Merge con archivo _extra si existe
-        extra_path = path.replace(".json", "_extra.json")
-        if os.path.exists(extra_path):
-            with open(extra_path) as f:
-                topics.extend(json.load(f))
+        topics = []
+        seen_ids = set()
+        for tf in topic_files:
+            with open(tf) as f:
+                batch = json.load(f)
+            for t in batch:
+                tid = t.get("id")
+                if tid is None or tid in seen_ids:
+                    continue
+                seen_ids.add(tid)
+                topics.append(t)
 
-        # Cargar IDs ya usados
+        if not topics:
+            return None
+
+        # Cargar IDs ya usados (un único .used file por canal base)
         used_file = path + ".used"
         used_ids = set()
         if os.path.exists(used_file):
