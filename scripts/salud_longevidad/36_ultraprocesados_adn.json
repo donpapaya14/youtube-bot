@@ -1,61 +1,85 @@
 {
   "id": 36,
-  "title": "Comida Ultraprocesada: Lo Que Le Hace a Tu ADN y No Te Cuentan",
-  "description": "Estudios recientes muestran que la comida ultraprocesada acorta los telómeros, altera la metilación del ADN y acelera el envejecimiento biológico. Analizamos los mecanismos con datos reales.",
-  "tags": ["ultraprocesados", "ADN", "telómeros", "epigenética", "envejecimiento", "dieta", "cáncer", "microbioma", "salud", "nutrición"],
-  "thumbnail_text": "ULTRAPROCESADOS DAÑAN ADN",
+  "title": "Ultra-Processed Food: What It Does to Your DNA and What They Don't Tell You",
+  "description": "Recent studies show that ultra-processed food shortens telomeres, alters DNA methylation, and accelerates biological aging. We analyze the mechanisms with real data.",
+  "tags": [
+    "ultra-processed",
+    "DNA",
+    "telomeres",
+    "epigenetics",
+    "aging",
+    "diet",
+    "cancer",
+    "microbiome",
+    "health",
+    "nutrition"
+  ],
+  "thumbnail_text": "ULTRA-PROCESSED FOOD DAMAGES DNA",
   "segments": [
     {
-      "voice": "El 58 por ciento de las calorías que consumen los españoles provienen de alimentos ultraprocesados según el estudio ANIBES de 2023. En el Reino Unido llega al 57 por ciento, en Estados Unidos al 67 por ciento. Y ahora los estudios más recientes están revelando que estos alimentos no solo engordan: están alterando literalmente la expresión de nuestros genes y acelerando el envejecimiento biológico.",
-      "visual": "ultra-processed food junk food packaging supermarket calories diet"
+      "voice": "58 percent of the calories consumed by Spaniards come from ultra-processed foods according to the 2023 ANIBES study. In the UK, it reaches 57 percent, and in the US, 67 percent. Now, the most recent studies are revealing that these foods not only lead to weight gain: they are literally altering the expression of our genes and accelerating biological aging.",
+      "visual": "ultra-processed food junk food packaging supermarket calories diet",
+      "duration": 25
     },
     {
-      "voice": "¿Qué es exactamente un alimento ultraprocesado? La clasificación NOVA, desarrollada por Carlos Monteiro en la Universidad de Sao Paulo, lo define como alimentos que contienen ingredientes que no se usan en cocina doméstica y que han sido formulados industrialmente con aditivos funcionales. Incluye desde cereales de desayuno y embutidos industriales hasta refrescos, bollería, galletas, salsas envasadas y muchos yogures de sabores.",
-      "visual": "NOVA classification ultra-processed food ingredients industrial additives"
+      "voice": "What exactly is an ultra-processed food? The NOVA classification, developed by Carlos Monteiro at the University of Sao Paulo, defines it as foods that contain ingredients not used in domestic cooking and that have been industrially formulated with functional additives. This includes everything from breakfast cereals and industrial cold cuts to soft drinks, pastries, cookies, packaged sauces, and many flavored yogurts.",
+      "visual": "NOVA classification ultra-processed food ingredients industrial additives",
+      "duration": 25
     },
     {
-      "voice": "Los telómeros son los tapones protectores de los extremos de los cromosomas. Con cada división celular se acortan un poco, y su longitud es uno de los marcadores más fiables del envejecimiento biológico. Un estudio de 2020 en el American Journal of Clinical Nutrition con 886 adultos de la cohorte española PREDIMED-Plus encontró que el consumo de tres o más raciones diarias de alimentos ultraprocesados se asociaba con un 29 por ciento mayor probabilidad de tener telómeros cortos.",
-      "visual": "telomeres chromosomes aging biological age DNA caps short"
+      "voice": "Telomeres are the protective caps on the ends of chromosomes. With each cell division, they shorten slightly, and their length is one of the most reliable markers of biological aging. A 2020 study in the American Journal of Clinical Nutrition with 886 adults from the Spanish PREDIMED-Plus cohort found that consuming three or more daily servings of ultra-processed foods was associated with a 29 percent higher probability of having short telomeres.",
+      "visual": "telomeres chromosomes aging biological age DNA caps short",
+      "duration": 25
     },
     {
-      "voice": "La epigenética es el segundo nivel de impacto. Un estudio de 2024 en Nature Aging con 1.007 participantes adultos comparó el reloj epigenético de Horvath, medido por la metilación del ADN, con los patrones dietéticos. Las personas con mayor consumo de ultraprocesados mostraban una edad biológica 3,8 años mayor que su edad cronológica comparado con los que seguían una dieta mayoritariamente no procesada. Cada porción diaria adicional de ultraprocesado sumaba 0,4 años de envejecimiento biológico.",
-      "visual": "epigenetic clock methylation DNA aging ultra-processed biological age"
+      "voice": "Epigenetics is the second level of impact. A 2024 study in Nature Aging with 1,007 adult participants compared the Horvath epigenetic clock, measured by DNA methylation, with dietary patterns. Individuals with higher ultra-processed food consumption showed a biological age 3.8 years older than their chronological age compared to those who followed a predominantly non-processed diet. Each additional daily serving of ultra-processed food added 0.4 years of biological aging.",
+      "visual": "epigenetic clock methylation DNA aging ultra-processed biological age",
+      "duration": 25
     },
     {
-      "voice": "¿Cuáles son los mecanismos moleculares? Primero, la inflamación crónica de bajo grado. Los ultraprocesados son pobres en fibra y ricos en azúcares libres, grasas trans y grasas saturadas de baja calidad. Esos componentes aumentan la permeabilidad intestinal y los niveles de endotoxinas bacterianas en sangre, un proceso llamado endotoxemia metabólica que activa de forma crónica el NF-kappaB y la producción de IL-6 y TNF-alfa.",
-      "visual": "gut permeability endotoxemia inflammation metabolic barrier intestinal"
+      "voice": "What are the molecular mechanisms? First, chronic low-grade inflammation. Ultra-processed foods are low in fiber and high in free sugars, trans fats, and low-quality saturated fats. These components increase intestinal permeability and blood levels of bacterial endotoxins, a process called metabolic endotoxemia that chronically activates NF-kappaB and the production of IL-6 and TNF-alpha.",
+      "visual": "gut permeability endotoxemia inflammation metabolic barrier intestinal",
+      "duration": 25
     },
     {
-      "voice": "Los aditivos específicos también tienen efectos moleculares documentados. Los emulsionantes polisorbato 80 y carboximetilcelulosa, presentes en helados, salsas y pan industrial, alteraron el microbioma de ratones de forma severa en un estudio del Georgia State de 2015, induciendo colitis e inflamación sistémica a dosis equivalentes a las que consumimos humanos. Estudios en humanos de seguimiento publicados en 2022 mostraron correlaciones similares.",
-      "visual": "emulsifiers polysorbate carboxymethylcellulose food additive gut microbiome"
+      "voice": "Specific additives also have documented molecular effects. Emulsifiers like polysorbate 80 and carboxymethylcellulose, found in ice cream, sauces, and industrial bread, severely altered the microbiome of mice in a 2015 Georgia State study, inducing colitis and systemic inflammation at doses equivalent to human consumption. Follow-up human studies published in 2022 showed similar correlations.",
+      "visual": "emulsifiers polysorbate carboxymethylcellulose food additive gut microbiome",
+      "duration": 25
     },
     {
-      "voice": "Los nitratos y nitritos de los embutidos procesados se convierten en nitrosaminas carcinogénicas en el estómago. La IARC de la OMS clasificó las carnes procesadas como carcinógeno del grupo 1, con evidencia suficiente de que causan cáncer colorrectal. Un análisis de 2021 en el International Journal of Epidemiology con 475.000 participantes europeos estimó que el 4,4 por ciento de los cánceres colorrectales serían atribuibles al consumo de carne procesada.",
-      "visual": "processed meat nitrites nitrosamines cancer colorectal risk WHO IARC"
+      "voice": "The nitrates and nitrites in processed meats are converted into carcinogenic nitrosamines in the stomach. The IARC of the WHO classified processed meats as a group 1 carcinogen, with sufficient evidence that they cause colorectal cancer. A 2021 analysis in the International Journal of Epidemiology with 475,000 European participants estimated that 4.4 percent of colorectal cancers would be attributable to processed meat consumption.",
+      "visual": "processed meat nitrites nitrosamines cancer colorectal risk WHO IARC",
+      "duration": 25
     },
     {
-      "voice": "El azúcar libre en exceso activa la glicación de proteínas. Las proteínas glicosiladas, llamadas AGE (advanced glycation end-products), se acumulan en tejidos, endurecen arterias, dañan el colágeno de la piel y generan radicales libres. Un estudio de 2023 en JAMA Network Open mostró que por cada 100 gramos adicionales de azúcar libre diaria, los niveles de AGE en plasma aumentaban un 22 por ciento y la rigidez arterial medida por velocidad de onda de pulso subía un 8 por ciento.",
-      "visual": "advanced glycation end products AGE sugar proteins artery stiffness"
+      "voice": "Excessive free sugar activates protein glycation. Glycosylated proteins, known as AGE (advanced glycation end-products), accumulate in tissues, harden arteries, damage skin collagen, and generate free radicals. A 2023 study in JAMA Network Open showed that for every additional 100 grams of daily free sugar, plasma AGE levels increased by 22 percent, and arterial stiffness measured by pulse wave velocity rose by 8 percent.",
+      "visual": "advanced glycation end products AGE sugar proteins artery stiffness",
+      "duration": 25
     },
     {
-      "voice": "La sal en exceso de los ultraprocesados tiene un efecto directo sobre el microbioma. Experimentos de la Universidad de Berlín en 2018 mostraron que una dieta alta en sal reducía dramáticamente Lactobacillus en el intestino de ratones y humanos. Lactobacillus produce ácido láctico, que mantiene el pH intestinal y protege contra la hipertensión. Los participantes humanos del estudio que tomaron sal adicional mostraron reducción en su microbioma protector en solo 2 semanas.",
-      "visual": "salt sodium microbiome lactobacillus gut hypertension blood pressure"
+      "voice": "The excess salt in ultra-processed foods has a direct effect on the microbiome. Experiments by the University of Berlin in 2018 showed that a high-salt diet dramatically reduced Lactobacillus in the intestines of mice and humans. Lactobacillus produces lactic acid, which maintains intestinal pH and protects against hypertension. Human participants who took additional salt showed a reduction in their protective microbiome in just 2 weeks.",
+      "visual": "salt sodium microbiome lactobacillus gut hypertension blood pressure",
+      "duration": 25
     },
     {
-      "voice": "Un metaanálisis de 2024 en The BMJ que analizó 45 estudios con 9,8 millones de participantes estableció las asociaciones más robustas entre ultraprocesados y enfermedades específicas. El mayor riesgo se encontró para: muerte prematura por cualquier causa +21 por ciento, diabetes tipo 2 +40 por ciento, enfermedad cardiovascular +22 por ciento, depresión +22 por ciento y cáncer de tiroides +58 por ciento.",
-      "visual": "ultra-processed food disease risk BMJ meta-analysis statistics 2024"
+      "voice": "A 2024 meta-analysis in The BMJ that analyzed 45 studies with 9.8 million participants established the most robust associations between ultra-processed foods and specific diseases. The highest risk was found for: premature death from any cause +21 percent, type 2 diabetes +40 percent, cardiovascular disease +22 percent, depression +22 percent, and thyroid cancer +58 percent.",
+      "visual": "ultra-processed food disease risk BMJ meta-analysis statistics 2024",
+      "duration": 25
     },
     {
-      "voice": "El impacto en el microbioma merece capítulo propio. Un estudio de 2021 en Cell con 21 participantes que siguieron dietas de alimentos fermentados versus ultraprocesados durante 10 semanas mostró que los ultraprocesados reducían la diversidad bacteriana intestinal en un 14 por ciento y aumentaban los marcadores de inflamación sistémica. La dieta de fermentados aumentó la diversidad en un 19 por ciento y redujo la inflamación.",
-      "visual": "microbiome diversity ultra-processed fermented food bacteria gut health"
+      "voice": "The impact on the microbiome deserves its own chapter. A 2021 study in Cell with 21 participants who followed fermented food versus ultra-processed food diets for 10 weeks showed that ultra-processed foods reduced intestinal bacterial diversity by 14 percent and increased markers of systemic inflammation. The fermented food diet increased diversity by 19 percent and reduced inflammation.",
+      "visual": "microbiome diversity ultra-processed fermented food bacteria gut health",
+      "duration": 25
     },
     {
-      "voice": "Los ultraprocesados afectan específicamente al cerebro a través del eje intestino-cerebro. Un estudio de 2023 en JAMA Psychiatry con 31.712 participantes seguidos durante 8 años encontró que el consumo de ultraprocesados superior al tercil más alto se asociaba con un 23 por ciento mayor riesgo de depresión y un 28 por ciento mayor riesgo de ansiedad. El mecanismo propuesto incluye alteración del microbioma, reducción de neurotransmisores producidos por bacterias intestinales como el 90 por ciento de la serotonina corporal.",
-      "visual": "gut brain axis serotonin microbiome depression anxiety ultra-processed"
+      "voice": "Ultra-processed foods specifically affect the brain through the gut-brain axis. A 2023 study in JAMA Psychiatry with 31,712 participants followed over 8 years found that consuming ultra-processed foods above the highest tertile was associated with a 23 percent higher risk of depression and a 28 percent higher risk of anxiety. The proposed mechanism includes alteration of the microbiome, reduction of neurotransmitters produced by intestinal bacteria such as 90 percent of the body's serotonin.",
+      "visual": "gut brain axis serotonin microbiome depression anxiety ultra-processed",
+      "duration": 25
     },
     {
-      "voice": "¿Qué hacer de forma práctica? No se trata de perfeccionismo sino de proporciones. La regla 80-20 tiene base científica: en el estudio PREDIMED-Plus, adherir a una dieta mediterránea en más del 75 por ciento de las comidas eliminaba prácticamente el riesgo adicional atribuible a los ultraprocesados consumidos el 25 por ciento restante. Cocinar más, leer etiquetas y reconocer los ingredientes de lo que comes es el hábito preventivo más asequible y de mayor impacto individual.",
-      "visual": "Mediterranean diet home cooking reading labels healthy food choice"
+      "voice": "What to do in practice? It's not about perfectionism but proportions. The 80-20 rule has a scientific basis: in the PREDIMED-Plus study, adhering to a Mediterranean diet in more than 75 percent of meals virtually eliminated the additional risk attributable to ultra-processed foods consumed in the remaining 25 percent. Cooking more, reading labels, and recognizing the ingredients of what you eat is the most accessible and impactful preventive habit.",
+      "visual": "Mediterranean diet home cooking reading labels healthy food choice",
+      "duration": 25
     }
   ]
 }

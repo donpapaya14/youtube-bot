@@ -1,33 +1,144 @@
 {
-  "title": "🧮 IVA para Autónomos: Guía Completa Sin Problemas",
-  "description": "Todo lo que necesitas saber sobre el IVA como autónomo en España. Tipos de IVA, modelo 303, IVA deducible, régimen de recargo de equivalencia, operaciones intracomunitarias y errores frecuentes con Hacienda.\n\nIVA autónomos, modelo 303, IVA deducible, fiscalidad España, Hacienda.",
-  "tags": ["IVA autónomos", "modelo 303", "IVA deducible", "fiscalidad España", "Hacienda", "autónomos España", "tipos IVA", "recargo equivalencia", "facturación IVA", "impuesto valor añadido"],
-  "segments": [
-    {"voice": "El IVA es el impuesto que más dolores de cabeza causa a los autónomos en España. No porque sea complicado, sino porque nadie te lo explica bien. Errores en las facturas, deducciones que no aplicas, modelos que presentas tarde. Todo eso te cuesta dinero y problemas con Hacienda. Hoy te voy a explicar el IVA para autónomos de principio a fin, para que nunca más tengas un susto con la Agencia Tributaria.", "visual": "tax form frustration papers calculator desk", "duration": 27},
-    {"voice": "Empecemos por lo básico. El IVA es un impuesto indirecto que grava el consumo. Tú como autónomo no pagas el IVA de tu bolsillo. Lo cobras a tus clientes y se lo entregas a Hacienda. Eres un intermediario recaudador. La diferencia entre el IVA que cobras, el IVA repercutido, y el IVA que pagas en tus compras profesionales, el IVA soportado, es lo que ingresas o te devuelve Hacienda cada trimestre.", "visual": "vat flow diagram business collection payment cycle", "duration": 27},
-    {"voice": "Los tipos de IVA en España son tres. El general: veintiuno por ciento, que se aplica a la mayoría de productos y servicios profesionales. El reducido: diez por ciento, para alimentos no básicos, transporte de viajeros, hostelería, reformas de vivienda, y espectáculos culturales. Y el superreducido: cuatro por ciento, para pan, leche, huevos, frutas, verduras, libros, medicamentos y viviendas de protección oficial.", "visual": "three vat rates comparison chart percentages spain", "duration": 27},
-    {"voice": "¿Qué tipo de IVA aplicas en tus facturas? Depende de tu actividad. Si eres programador, diseñador, consultor, abogado o cualquier profesional de servicios, aplicas el veintiuno por ciento. Si tienes un restaurante, aplicas el diez por ciento a la comida y bebida. Si vendes libros, el cuatro por ciento. Y ojo, hay actividades exentas de IVA como la enseñanza reglada, los servicios médicos, y las operaciones de seguros. Artículo 20 de la Ley del IVA.", "visual": "different business types services products vat rates", "duration": 28},
-    {"voice": "El modelo 303 es la declaración trimestral del IVA que todo autónomo debe presentar. Se presenta en los primeros veinte días naturales del mes siguiente al trimestre. Es decir: primer trimestre en abril, segundo en julio, tercero en octubre, y cuarto en enero del año siguiente. Si domicilias el pago, el plazo se extiende cinco días más. Si te retrasas, hay recargo automático del uno por ciento más uno adicional por cada mes de retraso.", "visual": "calendar quarterly deadlines model 303 tax dates", "duration": 28},
-    {"voice": "Vamos con un ejemplo práctico. En el primer trimestre, emitiste facturas por un total de diez mil euros más veintiuno por ciento de IVA, que son dos mil cien euros de IVA repercutido. A su vez, tuviste gastos profesionales por tres mil euros más IVA, que son seiscientos treinta euros de IVA soportado deducible. La diferencia: dos mil cien menos seiscientos treinta, igual a mil cuatrocientos setenta euros. Eso es lo que ingresas a Hacienda.", "visual": "calculation example vat collected versus vat paid", "duration": 27},
-    {"voice": "¿Qué IVA puedes deducir? El IVA de todas las compras y gastos directamente relacionados con tu actividad profesional. Material de oficina, equipos informáticos, software, teléfono profesional, desplazamientos de trabajo, formación, seguros profesionales, y suministros de tu local. Artículo 92 de la Ley del IVA. La clave es que el gasto esté vinculado a tu actividad y que tengas factura completa.", "visual": "deductible expenses list receipts invoices organized", "duration": 27},
-    {"voice": "Requisitos imprescindibles para deducir el IVA. Primero: factura completa con todos los datos. No vale un ticket. La factura debe incluir NIF del emisor, NIF del destinatario que eres tú, descripción del servicio o producto, base imponible, tipo de IVA, cuota de IVA, y fecha. Segundo: que el gasto esté registrado en tu libro de facturas recibidas. Tercero: que el gasto esté vinculado a tu actividad económica.", "visual": "invoice requirements checklist complete data fields", "duration": 27},
-    {"voice": "Un error muy frecuente: deducir el IVA de facturas simplificadas o tickets. La factura simplificada, lo que antes era el ticket, solo permite la deducción del IVA si incluye el NIF del destinatario. Si compras en una papelería y te dan un ticket sin tu NIF, ese IVA no es deducible. Solución: pide siempre factura completa con tu NIF. Es tu derecho como profesional según el artículo 2 del Reglamento de facturación.", "visual": "receipt versus full invoice comparison documents", "duration": 27},
-    {"voice": "El IVA del coche es uno de los temas más conflictivos. Por defecto, solo puedes deducir el cincuenta por ciento del IVA de los gastos del vehículo: compra, combustible, reparaciones, seguro. Para deducir el cien por cien, debes demostrar que el vehículo se usa exclusivamente para la actividad, como en el caso de taxistas, transportistas o representantes comerciales. Artículo 95.3.2 de la Ley del IVA.", "visual": "car business use fuel gas station receipt vehicle", "duration": 27},
-    {"voice": "Los gastos mixtos, los que son parcialmente profesionales y parcialmente personales, tienen reglas especiales para el IVA. El teléfono que usas para trabajo y para uso personal, el ordenador que usan tus hijos para jugar, los suministros del hogar si trabajas desde casa. En estos casos, debes aplicar un porcentaje de afectación a la actividad. Hacienda acepta el cincuenta por ciento como criterio razonable para gastos mixtos, pero puede exigir justificación.", "visual": "mixed use expenses personal professional split ratio", "duration": 28},
-    {"voice": "Hablemos del régimen simplificado del IVA, también conocido como módulos. Si tu actividad está incluida en la lista de actividades para módulos y facturas menos de cierto umbral, puedes tributar por un sistema de cuotas fijas trimestrales calculadas según índices como metros cuadrados de local, número de empleados o kilovatios de potencia. Es más sencillo administrativamente, pero no siempre es el más ventajoso económicamente.", "visual": "simplified regime modules calculation fixed quota", "duration": 27},
-    {"voice": "El recargo de equivalencia. Si eres comerciante minorista, persona física, y vendes productos sin transformar, estás obligado a aplicar el régimen de recargo de equivalencia. Tus proveedores te cobran el IVA normal más un recargo adicional: cinco con dos por ciento para el tipo general, uno con cuatro para el reducido, y cero con cinco para el superreducido. A cambio, tú no presentas el modelo 303 ni llevas libros de IVA.", "visual": "retail shop store equivalence surcharge merchant", "duration": 28},
-    {"voice": "Operaciones intracomunitarias. Si vendes servicios o productos a empresas de otros países de la Unión Europea, no aplicas IVA español. La operación está sujeta a inversión del sujeto pasivo. Pero necesitas registrarte en el ROI, el Registro de Operadores Intracomunitarios, y presentar el modelo 349 de declaración recapitulativa. Si no lo haces, Hacienda puede considerarla una operación interior y reclamarte el IVA.", "visual": "european union trade international business map eu", "duration": 27},
-    {"voice": "Para registrarte en el ROI, presenta el modelo 036 de declaración censal marcando la casilla correspondiente. La Agencia Tributaria suele hacer una comprobación antes de concederte el número de operador intracomunitario, que es tu NIF precedido de la letra ES. Una vez registrado, verifica siempre el número de IVA de tus clientes europeos en el sistema VIES de la Comisión Europea antes de emitir facturas sin IVA.", "visual": "vies system verification eu vat number check", "duration": 27},
-    {"voice": "Las facturas rectificativas. Si cometiste un error en una factura ya emitida, no la borres ni la modifiques. Debes emitir una factura rectificativa que anule o corrija la original. La factura rectificativa debe hacer referencia a la factura original, indicar la rectificación que se realiza, y tener su propia numeración. Artículo 15 del Reglamento de facturación. Esto afecta directamente al IVA del trimestre en que emitas la rectificativa.", "visual": "corrective invoice amendment document correction", "duration": 27},
-    {"voice": "Un error que veo constantemente: no declarar el IVA de los anticipos. Si un cliente te paga un anticipo antes de entregar el servicio, debes repercutir el IVA en el momento del cobro del anticipo, no cuando entregues el servicio. Artículo 75.Dos de la Ley del IVA. Muchos autónomos esperan a emitir la factura final para declarar todo el IVA, y eso es incorrecto y puede generar una liquidación paralela de Hacienda.", "visual": "advance payment deposit invoice timing calendar", "duration": 27},
-    {"voice": "La devolución del IVA. Si en un trimestre tu IVA soportado supera al repercutido, el resultado del modelo 303 es negativo. Tienes IVA a tu favor. En los tres primeros trimestres, solo puedes compensar ese saldo negativo en los trimestres siguientes del mismo año. La solicitud de devolución solo se puede hacer en el cuarto trimestre, con el modelo 303 del último período. Hacienda tiene seis meses para devolverte.", "visual": "vat refund negative balance compensation timeline", "duration": 27},
-    {"voice": "Si Hacienda tarda más de seis meses en devolverte el IVA, te deben intereses de demora. Muchos autónomos no lo saben y no reclaman. Si presentaste la solicitud de devolución en enero y en agosto aún no has recibido el dinero, tienes derecho a reclamar los intereses. Presenta un escrito a la Agencia Tributaria solicitando el abono de los intereses de demora correspondientes. Artículo 31 de la Ley General Tributaria.", "visual": "refund delay interest claim document calendar wait", "duration": 27},
-    {"voice": "El SII, Suministro Inmediato de Información. Si facturas más de seis millones de euros al año, estás obligado al SII, un sistema de registro electrónico de facturas en tiempo real. Pero si facturas menos, que es el caso del noventa y nueve por ciento de autónomos, puedes llevar tus libros de IVA de forma tradicional. Aun así, muchos programas de facturación ya integran el SII y te facilitan la presentación del 303.", "visual": "electronic invoicing system digital records computer", "duration": 27},
-    {"voice": "Los libros registro del IVA. Todo autónomo debe llevar al menos tres libros: el libro de facturas expedidas, el de facturas recibidas, y el de bienes de inversión. Si realizas operaciones intracomunitarias, también el libro de determinadas operaciones intracomunitarias. Estos libros no necesitan formato oficial, pero deben contener toda la información de cada factura: fecha, número, NIF, base imponible, tipo y cuota de IVA.", "visual": "accounting books records organized filing system", "duration": 27},
-    {"voice": "Errores que Hacienda detecta automáticamente. La Agencia Tributaria cruza los datos de tus modelos 303 con los de tus clientes y proveedores. Si tu cliente declara que te pagó una factura con IVA y tú no la declaraste en tu modelo 303, Hacienda lo detecta. Si declaras un IVA soportado de un proveedor que no coincide con lo que el proveedor declaró como repercutido, también lo detecta. Las discrepancias generan requerimientos automáticos.", "visual": "computer cross checking data audit automatic alert", "duration": 28},
-    {"voice": "Resumen de obligaciones trimestrales del IVA. Cada trimestre debes presentar el modelo 303 con el resultado del IVA repercutido menos el soportado. En enero, además del 303 del cuarto trimestre, presentas el modelo 390, que es el resumen anual del IVA. Si tienes operaciones intracomunitarias, presentas también el modelo 349. Y si realizas retenciones, el modelo 111 trimestral y el 190 anual. Marca estas fechas en tu calendario.", "visual": "quarterly obligations checklist calendar deadlines", "duration": 27},
-    {"voice": "Mi consejo final: automatiza la gestión del IVA. Usa un programa de facturación que calcule el IVA automáticamente, registre las facturas emitidas y recibidas, y te genere el borrador del modelo 303. El coste de un buen software de facturación es de entre diez y treinta euros al mes. Compáralo con la multa mínima de Hacienda por presentar el 303 fuera de plazo: cien euros. La automatización se paga sola.", "visual": "accounting software dashboard automated invoicing", "duration": 27},
-    {"voice": "El IVA no debería quitarte el sueño. Es un impuesto de paso, no sale de tu bolsillo. Cobra el IVA correcto, deduce todo lo que puedas con factura, presenta el modelo 303 en plazo, y lleva tus libros al día. Con eso, nunca tendrás problemas con Hacienda. Suscríbete y activa la campana para más contenido de fiscalidad práctica para autónomos. Comparte este vídeo con quien esté empezando. Nos vemos en el próximo.", "visual": "subscribe button notification bell tax peace mind", "duration": 25}
+  "title": "☐ VAT for Freelancers: Complete Guide Without Hassles",
+  "description": "Everything you need to know about VAT as a freelancer in the US/UK. Types of VAT, quarterly tax return, deductible VAT, equivalence surcharge regime, intra-community operations, and common errors with the tax authority.\n\nVAT freelancers, quarterly tax return, deductible VAT, UK/US taxation, tax authority.",
+  "tags": [
+    "VAT freelancers",
+    "quarterly tax return",
+    "deductible VAT",
+    "UK/US taxation",
+    "tax authority",
+    "freelancers UK/US",
+    "VAT types",
+    "equivalence surcharge",
+    "VAT invoicing",
+    "value added tax"
   ],
-  "thumbnail_text": "IVA SIN LÍOS"
+  "segments": [
+    {
+      "voice": "VAT is the tax that causes the most headaches for freelancers in the US/UK. Not because it's complicated, but because nobody explains it well. Errors in invoices, deductions you don't apply, returns you submit late. All that costs you money and problems with the tax authority. Today, I'm going to explain VAT for freelancers from start to finish, so you'll never have a shock with the tax authority again.",
+      "visual": "tax form frustration papers calculator desk",
+      "duration": 27
+    },
+    {
+      "voice": "Let's start with the basics. VAT is an indirect tax that taxes consumption. As a freelancer, you don't pay VAT out of your pocket. You charge it to your clients and hand it over to the tax authority. You're an intermediary collector. The difference between the VAT you charge, the VAT you pass on, and the VAT you pay on your professional purchases, the VAT you bear, is what you pay to or get back from the tax authority each quarter.",
+      "visual": "vat flow diagram business collection payment cycle",
+      "duration": 27
+    },
+    {
+      "voice": "There are three types of VAT in the US/UK. The standard: twenty-one percent, which applies to most products and professional services. The reduced: ten percent, for non-essential food, passenger transport, hospitality, home renovations, and cultural events. And the zero-rated: zero percent, for basic food, books, medications, and social housing.",
+      "visual": "three vat rates comparison chart percentages us/uk",
+      "duration": 27
+    },
+    {
+      "voice": "What type of VAT do you apply on your invoices? It depends on your activity. If you're a programmer, designer, consultant, lawyer, or any professional service provider, you apply the twenty-one percent. If you have a restaurant, you apply the ten percent to food and drink. If you sell books, the zero percent. And be careful, there are activities exempt from VAT like regulated education, medical services, and insurance operations. According to tax law.",
+      "visual": "different business types services products vat rates",
+      "duration": 28
+    },
+    {
+      "voice": "The quarterly tax return is the quarterly VAT declaration that every freelancer must submit. It's submitted in the first twenty days of the month following the quarter. That is: first quarter in April, second in July, third in October, and fourth in January of the following year. If you direct debit the payment, the deadline is extended by five days. If you're late, there's an automatic surcharge of one percent plus one additional percent for each month of delay.",
+      "visual": "calendar quarterly deadlines model 303 tax dates",
+      "duration": 28
+    },
+    {
+      "voice": "Let's go with a practical example. In the first quarter, you issued invoices for a total of ten thousand dollars plus twenty-one percent VAT, which are two thousand one hundred dollars of VAT you passed on. At the same time, you had professional expenses of three thousand dollars plus VAT, which are six hundred thirty dollars of deductible VAT. The difference: two thousand one hundred minus six hundred thirty, equals one thousand four hundred seventy dollars. That's what you pay to the tax authority.",
+      "visual": "calculation example vat collected versus vat paid",
+      "duration": 27
+    },
+    {
+      "voice": "What VAT can you deduct? The VAT of all purchases and expenses directly related to your professional activity. Office supplies, computer equipment, software, professional phone, work trips, training, professional insurance, and supplies for your premises. According to tax law. The key is that the expense is linked to your activity and that you have a complete invoice.",
+      "visual": "deductible expenses list receipts invoices organized",
+      "duration": 27
+    },
+    {
+      "voice": "Essential requirements to deduct VAT. First: complete invoice with all the data. A receipt is not enough. The invoice must include the issuer's tax ID, your tax ID as the recipient, service or product description, taxable base, VAT rate, VAT amount, and date. Second: that the expense is recorded in your book of received invoices. Third: that the expense is linked to your economic activity.",
+      "visual": "invoice requirements checklist complete data fields",
+      "duration": 27
+    },
+    {
+      "voice": "A very common mistake: deducting VAT from simplified invoices or receipts. A simplified invoice, what used to be a receipt, only allows VAT deduction if it includes your tax ID. If you buy from a stationery store and they give you a receipt without your tax ID, that VAT is not deductible. Solution: always ask for a complete invoice with your tax ID. It's your right as a professional according to tax law.",
+      "visual": "receipt versus full invoice comparison documents",
+      "duration": 27
+    },
+    {
+      "voice": "VAT on cars is one of the most contentious issues. By default, you can only deduct fifty percent of the VAT on vehicle expenses: purchase, fuel, repairs, insurance. To deduct one hundred percent, you must prove that the vehicle is used exclusively for your activity, as in the case of taxi drivers, transporters, or sales representatives. According to tax law.",
+      "visual": "car business use fuel gas station receipt vehicle",
+      "duration": 27
+    },
+    {
+      "voice": "Mixed expenses, those that are partially professional and partially personal, have special rules for VAT. The phone you use for work and personal use, the computer your children use to play, home supplies if you work from home. In these cases, you must apply a percentage of allocation to your activity. The tax authority accepts fifty percent as a reasonable criterion for mixed expenses, but may require justification.",
+      "visual": "mixed use expenses personal professional split ratio",
+      "duration": 28
+    },
+    {
+      "voice": "Let's talk about the simplified VAT regime, also known as the flat rate scheme. If your activity is included in the list of activities for the flat rate scheme and you invoice less than a certain threshold, you can pay tax through a system of fixed quarterly quotas calculated based on factors like premises size, number of employees, or kilowatts of power. It's simpler administratively, but not always the most economically advantageous.",
+      "visual": "simplified regime modules calculation fixed quota",
+      "duration": 27
+    },
+    {
+      "voice": "The equivalence surcharge. If you're a retail trader, an individual, and you sell products without transforming them, you're required to apply the equivalence surcharge regime. Your suppliers charge you the normal VAT plus an additional surcharge: five point two percent for the standard rate, one point four percent for the reduced rate, and zero point five percent for the zero-rated. In return, you don't submit the quarterly tax return or keep VAT records.",
+      "visual": "retail shop store equivalence surcharge merchant",
+      "duration": 28
+    },
+    {
+      "voice": "Intra-community operations. If you sell services or products to companies in other EU countries, you don't charge UK/US VAT. The operation is subject to the reverse charge mechanism. But you need to register for a VAT number and submit the VAT return. If you don't, the tax authority can consider it a domestic transaction and claim the VAT.",
+      "visual": "european union trade international business map eu",
+      "duration": 27
+    },
+    {
+      "voice": "To register for a VAT number, you need to apply through the tax authority's website. The tax authority usually carries out a check before granting you a VAT number. Once registered, always verify your clients' VAT numbers in the VIES system before issuing invoices without VAT.",
+      "visual": "vies system verification eu vat number check",
+      "duration": 27
+    },
+    {
+      "voice": "Corrective invoices. If you made an error in an already issued invoice, don't erase or modify it. You must issue a corrective invoice that cancels or corrects the original. The corrective invoice must refer to the original invoice, indicate the correction made, and have its own numbering. According to tax law. This directly affects the VAT of the quarter in which you issue the correction.",
+      "visual": "corrective invoice amendment document correction",
+      "duration": 27
+    },
+    {
+      "voice": "An error I see constantly: not declaring VAT on advances. If a client pays you an advance before you deliver the service, you must pass on the VAT at the time of receiving the advance, not when you deliver the service. According to tax law. Many freelancers wait until they issue the final invoice to declare all the VAT, and that's incorrect and can generate a parallel VAT settlement by the tax authority.",
+      "visual": "advance payment deposit invoice timing calendar",
+      "duration": 27
+    },
+    {
+      "voice": "VAT refund. If in a quarter your deductible VAT exceeds the VAT you pass on, the result of your VAT return is negative. You have VAT in your favor. In the first three quarters, you can only offset this negative balance in the following quarters of the same year. The refund request can only be made in the fourth quarter, with the VAT return of the last period. The tax authority has six months to refund you.",
+      "visual": "vat refund negative balance compensation timeline",
+      "duration": 27
+    },
+    {
+      "voice": "If the tax authority takes more than six months to refund your VAT, you're entitled to late payment interest. Many freelancers don't know this and don't claim it. If you submitted your refund request in January and by August you still haven't received the money, you have the right to claim the late payment interest. Submit a written request to the tax authority asking for the payment of the corresponding late payment interest. According to tax law.",
+      "visual": "refund delay interest claim document calendar wait",
+      "duration": 27
+    },
+    {
+      "voice": "Making Tax Digital. If you invoice more than the VAT threshold, you're required to use Making Tax Digital, an electronic system for VAT records. But if you invoice less, which is the case for most freelancers, you can keep your VAT records in a traditional way. Even so, many invoicing programs already integrate Making Tax Digital and make it easier for you to submit your VAT return.",
+      "visual": "electronic invoicing system digital records computer",
+      "duration": 27
+    },
+    {
+      "voice": "VAT records. Every freelancer must keep at least three records: the book of issued invoices, the book of received invoices, and the book of capital assets. If you carry out intra-community operations, you must also keep the book of certain intra-community operations. These records don't need an official format, but they must contain all the information of each invoice: date, number, tax ID, taxable base, VAT rate, and VAT amount.",
+      "visual": "accounting books records organized filing system",
+      "duration": 27
+    },
+    {
+      "voice": "Errors that the tax authority detects automatically. The tax authority cross-checks the data from your VAT returns with those of your clients and suppliers. If your client declares that they paid you an invoice with VAT and you didn't declare it in your VAT return, the tax authority detects it. If you declare a deductible VAT from a supplier that doesn't match what the supplier declared as VAT they passed on, the tax authority also detects it. Discrepancies generate automatic requests.",
+      "visual": "computer cross checking data audit automatic alert",
+      "duration": 28
+    },
+    {
+      "voice": "Summary of quarterly VAT obligations. Each quarter, you must submit the VAT return with the result of the VAT you passed on minus the VAT you bore. In January, in addition to the VAT return of the fourth quarter, you submit the annual VAT summary. If you have intra-community operations, you also submit the intra-community operations declaration. And if you make withholding taxes, the quarterly and annual withholding tax returns. Mark these dates on your calendar.",
+      "visual": "quarterly obligations checklist calendar deadlines",
+      "duration": 27
+    },
+    {
+      "voice": "My final advice: automate VAT management. Use an invoicing program that automatically calculates VAT, records issued and received invoices, and generates a draft of your VAT return. The cost of good invoicing software is between ten and thirty dollars a month. Compare it to the minimum fine from the tax authority for submitting the VAT return late: one hundred dollars. Automation pays for itself.",
+      "visual": "accounting software dashboard automated invoicing",
+      "duration": 27
+    },
+    {
+      "voice": "VAT shouldn't keep you up at night. It's a pass-through tax, not coming out of your pocket. Charge the correct VAT, deduct everything you can with an invoice, submit the VAT return on time, and keep your records up to date. With that, you'll never have problems with the tax authority. Subscribe and turn on the notification bell for more practical tax content for freelancers. Share this video with someone who's just starting out. See you in the next one.",
+      "visual": "subscribe button notification bell tax peace mind",
+      "duration": 25
+    }
+  ],
+  "thumbnail_text": "VAT WITHOUT HEADACHES"
 }

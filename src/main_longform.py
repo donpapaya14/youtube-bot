@@ -23,6 +23,7 @@ load_dotenv()
 
 from publisher import upload_to_youtube_longform, notify_telegram
 from assembler_longform import assemble_lofi, assemble_nature, assemble_truecrime
+from assembler import generate_longform_thumbnail
 
 logging.basicConfig(
     level=logging.INFO,
@@ -440,8 +441,15 @@ def _generate_english_voice(segments: list[dict], work_dir: str, voice_id: str) 
 
 
 def _generate_truecrime_thumbnail(script: dict, channel: dict, work_dir: str) -> str:
-    """Thumbnail deshabilitado."""
-    return None
+    """Thumbnail landscape para true crime."""
+    output_path = os.path.join(work_dir, "thumbnail_lf.png")
+    search = script.get("thumbnail_text", script.get("title", "dark mystery"))
+    return generate_longform_thumbnail(
+        title=script.get("title", ""),
+        channel=channel,
+        output_path=output_path,
+        search_term=search,
+    )
 
 
 # ============================================================
@@ -617,8 +625,15 @@ def _load_prewritten_script(channel: dict) -> dict | None:
 
 
 def _generate_educational_thumbnail(script: dict, channel: dict, work_dir: str) -> str:
-    """Thumbnail deshabilitado."""
-    return None
+    """Thumbnail landscape para documentales educativos."""
+    output_path = os.path.join(work_dir, "thumbnail_lf.png")
+    search = script.get("thumbnail_text", script.get("title", "documentary science"))
+    return generate_longform_thumbnail(
+        title=script.get("title", ""),
+        channel=channel,
+        output_path=output_path,
+        search_term=search,
+    )
 
 
 # ============================================================

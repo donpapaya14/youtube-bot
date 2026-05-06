@@ -1,33 +1,143 @@
 {
-  "title": "🚀 Tarifa Plana Autónomos 2025 — Requisitos y Trampas",
-  "description": "¿Vas a darte de alta como autónomo? La tarifa plana te permite pagar solo 80€ al mes durante el primer año. Te explico todos los requisitos, duración, bonificaciones y las trampas que nadie te cuenta. Legislación española actualizada 2025.\n\nFinanzas personales, tarifa plana autónomos, cuota autónomos, alta autónomos España.",
-  "tags": ["tarifa plana autónomos", "cuota autónomos 2025", "alta autónomos", "bonificación autónomos", "RETA", "Seguridad Social", "emprender España", "autónomos nuevos", "finanzas personales", "ahorro autónomos"],
-  "segments": [
-    {"voice": "Si estás pensando en hacerte autónomo en España, hay una bonificación que puede ahorrarte más de tres mil euros en los dos primeros años. Se llama tarifa plana y permite pagar solo ochenta euros al mes de cuota a la Seguridad Social durante los primeros doce meses. Pero tiene trampas que nadie te cuenta y hoy te las explico todas.", "visual": "person starting new business laptop excited", "duration": 25},
-    {"voice": "La tarifa plana está regulada en el artículo 38 ter de la Ley 20/2007 del Estatuto del Trabajo Autónomo, modificado por el Real Decreto Ley 13/2022 que estableció el nuevo sistema de cotización por ingresos reales. Esta bonificación se aplica desde el uno de enero de dos mil veintitrés con las nuevas condiciones del sistema de tramos.", "visual": "spanish law documents official gazette BOE", "duration": 25},
-    {"voice": "Los requisitos para acceder a la tarifa plana son estos. Primero, no haber estado dado de alta como autónomo en los dos años anteriores, o tres años si ya disfrutaste de la tarifa plana anteriormente. Segundo, no ser autónomo colaborador familiar. Y tercero, no tener deudas pendientes con la Seguridad Social ni con Hacienda.", "visual": "checklist requirements document approval stamp", "duration": 25},
-    {"voice": "Durante los primeros doce meses, pagas una cuota reducida de ochenta euros al mes, independientemente de tus ingresos. Esto incluye la cotización por contingencias comunes, profesionales y cese de actividad. Es una cuota fija que no varía con el tramo de ingresos que declares. Son novecientos sesenta euros al año frente a los más de tres mil que pagarías sin bonificación.", "visual": "calculator savings money comparison euros coins", "duration": 27},
-    {"voice": "Pero aquí viene la primera trampa. Cuando terminen esos doce meses, tu cuota se calcula según tus ingresos reales del sistema de tramos. Si durante el primer año declaraste ingresos netos por encima del Salario Mínimo Interprofesional, la subida puede ser brutal. De ochenta euros puedes pasar a trescientos o cuatrocientos euros de golpe. Muchos nuevos autónomos no planifican este salto.", "visual": "graph rising costs shock surprise person", "duration": 28},
-    {"voice": "Existe una prórroga de la tarifa plana. Si al terminar los primeros doce meses tus rendimientos netos están por debajo del Salario Mínimo Interprofesional, que en dos mil veinticinco es de mil ciento treinta y cuatro euros al mes, puedes pedir una prórroga de otros doce meses más a ochenta euros. Total, veinticuatro meses a cuota reducida. Esto está en el artículo 38 ter apartado 2.", "visual": "calendar extension time twelve months bonus", "duration": 27},
-    {"voice": "Segunda trampa importante. La tarifa plana aplica sobre la base mínima de cotización. Eso significa que durante el tiempo que la disfrutes, tu base de cotización será la mínima. Y eso afecta directamente a tus prestaciones futuras: baja por enfermedad, jubilación, cese de actividad. Cuanto menor sea tu base de cotización, menor será la prestación que recibas.", "visual": "retirement pension calculation future planning", "duration": 26},
-    {"voice": "Tercera trampa que casi nadie menciona. Si te das de baja como autónomo antes de cumplir los doce meses y vuelves a darte de alta, pierdes la tarifa plana. No puedes retomarla donde la dejaste. Tendrías que esperar otros dos años sin estar de alta para volver a solicitarla. Esto disuade a muchos de probar una actividad por meses y obliga a planificar bien.", "visual": "stop sign warning caution red flag alert", "duration": 26},
-    {"voice": "Hay una excepción importante para las comunidades autónomas. Algunas como Madrid, Andalucía o la Comunidad Valenciana ofrecen bonificaciones adicionales a la tarifa plana estatal. En Madrid, por ejemplo, los nuevos autónomos menores de treinta años o mujeres de cualquier edad pueden acceder a cuotas aún más reducidas o ampliaciones del periodo bonificado según la normativa autonómica.", "visual": "spain map regions autonomous communities flags", "duration": 27},
-    {"voice": "Para solicitar la tarifa plana, el proceso es sencillo. Cuando te das de alta en el RETA a través del portal Import@ss de la Seguridad Social, marcas la casilla de bonificación por inicio de actividad. No necesitas presentar documentación adicional en el momento del alta. El sistema comprueba automáticamente si cumples el requisito de no haber estado de alta los dos años anteriores.", "visual": "computer screen online form registration process", "duration": 27},
-    {"voice": "Un error frecuente es darse de alta primero en Hacienda con el modelo 036 o 037 y olvidarse de solicitar la tarifa plana al darse de alta en la Seguridad Social. El alta en Hacienda y el alta en la Seguridad Social son trámites separados, aunque deben hacerse en un plazo máximo de sesenta días. Si no marcas la bonificación en el alta del RETA, luego es más complicado reclamarla.", "visual": "tax office hacienda forms bureaucracy paperwork", "duration": 28},
-    {"voice": "Cuarta trampa. Si eres autónomo societario, es decir, si te das de alta como administrador de una Sociedad Limitada, NO puedes acceder a la tarifa plana. Esta bonificación es exclusiva para autónomos persona física dados de alta en el RETA. Los autónomos societarios tienen una base mínima de cotización superior y no acceden a esta reducción según el artículo 38 ter.", "visual": "business meeting corporate office company formation", "duration": 27},
-    {"voice": "Ahora bien, ¿merece la pena la tarifa plana? Hagamos números. Sin tarifa plana, un autónomo en el tramo mínimo de ingresos paga alrededor de doscientos treinta euros al mes en dos mil veinticinco. Con tarifa plana son ochenta euros. La diferencia son ciento cincuenta euros al mes, mil ochocientos euros al año. Si consigues la prórroga, son tres mil seiscientos euros en dos años.", "visual": "savings calculation spreadsheet money growing chart", "duration": 27},
-    {"voice": "Otro aspecto que debes conocer: la tarifa plana es compatible con la prestación por cese de actividad parcial. Es decir, si previamente has cotizado lo suficiente, puedes cobrar el cese de actividad mientras disfrutas de la tarifa plana en una nueva actividad. Esto está contemplado en el artículo 37 del Estatuto del Trabajo Autónomo.", "visual": "safety net unemployment benefits documents approval", "duration": 25},
-    {"voice": "Quinta trampa. El sistema de cotización por ingresos reales te obliga a hacer una previsión de tus rendimientos netos al darte de alta. Si al final del año tus ingresos reales son superiores a lo previsto, la Seguridad Social te regularizará al alza y tendrás que pagar la diferencia. Esto ocurre al año siguiente y puede suponer un pago inesperado de varios cientos de euros.", "visual": "surprised person unexpected bill payment shock", "duration": 27},
-    {"voice": "Si tus ingresos reales son inferiores a lo previsto, la Seguridad Social te devuelve la diferencia. Pero cuidado, si declaraste ingresos por debajo del SMI para mantener la prórroga de la tarifa plana y luego facturas más, perderás la prórroga retroactivamente. Hacienda y la Seguridad Social cruzan datos. No intentes engañar al sistema porque sale más caro.", "visual": "data analysis cross reference government database", "duration": 27},
-    {"voice": "Para autónomos en pluriactividad, es decir, que trabajan por cuenta ajena y además se dan de alta como autónomos, existe una reducción adicional del cincuenta por ciento en la base mínima de cotización durante los primeros dieciocho meses y del veinticinco por ciento los siguientes dieciocho meses, según el artículo 313 de la Ley General de la Seguridad Social.", "visual": "person working two jobs office and laptop home", "duration": 27},
-    {"voice": "Esta reducción por pluriactividad es compatible con la tarifa plana. Es decir, podrías pagar ochenta euros los primeros doce meses y luego beneficiarte de la reducción por pluriactividad durante los siguientes dieciocho meses. Es una combinación que muy pocos asesores mencionan y que puede ahorrarte más de cinco mil euros en tres años.", "visual": "money savings stacking coins growing investment", "duration": 25},
-    {"voice": "Un caso especial son los autónomos con discapacidad igual o superior al treinta y tres por ciento. Ellos tienen una tarifa plana extendida de sesenta euros durante los primeros veinticuatro meses directamente, sin necesidad de demostrar ingresos bajos para la prórroga. Esto está regulado en el artículo 38 quáter de la Ley del Estatuto del Trabajo Autónomo.", "visual": "disability rights inclusion accessibility workplace", "duration": 26},
-    {"voice": "También tienen tarifa plana especial las víctimas de violencia de género y las víctimas de terrorismo que se den de alta como autónomas. En estos casos, la cuota reducida se extiende igualmente a veinticuatro meses desde el inicio de la actividad, con las mismas condiciones que los autónomos con discapacidad.", "visual": "support protection legal rights woman empowerment", "duration": 25},
-    {"voice": "Sexta trampa final. Algunos gestores cobran entre cien y trescientos euros por tramitar el alta como autónomo con tarifa plana. Es un trámite que puedes hacer tú mismo online en menos de treinta minutos a través de Import@ss y el modelo 036 de Hacienda. No pagues a nadie por algo que puedes hacer gratis desde tu ordenador con tu certificado digital o Cl@ve.", "visual": "person using computer online government portal easy", "duration": 27},
-    {"voice": "Hablemos del certificado digital. Para darte de alta online necesitas el certificado digital de persona física que emite la FNMT gratuitamente, o el sistema Cl@ve. Te recomiendo sacar el certificado digital porque lo vas a necesitar para todo: presentar impuestos, consultar la Seguridad Social, firmar documentos. Se solicita en la web de la FNMT y se recoge en una oficina de la Agencia Tributaria.", "visual": "digital certificate computer security authentication", "duration": 28},
-    {"voice": "Resumiendo: la tarifa plana es una oportunidad excelente para los nuevos autónomos, pero debes planificar qué pasará cuando termine. Ahorra parte de lo que te ahorras en cuota durante estos primeros meses para amortiguar el salto posterior. Mi consejo es que reserves al menos cien euros al mes de ese ahorro para cuando la cuota suba a su nivel real.", "visual": "piggy bank savings plan financial strategy", "duration": 26},
-    {"voice": "Para calcular tu cuota real después de la tarifa plana, entra en el simulador de cuotas de la Seguridad Social en la web de Import@ss. Introduce tu previsión de rendimientos netos anuales y el sistema te dice en qué tramo caes y cuánto pagarás. Así no habrá sorpresas. La información es poder, especialmente cuando se trata de tu dinero.", "visual": "simulation calculator web portal results screen", "duration": 26},
-    {"voice": "Si este vídeo te ha ayudado a entender la tarifa plana y sus trampas, dale like y suscríbete al canal. Cada semana publico contenido sobre finanzas personales y fiscalidad para autónomos en España. Comparte este vídeo con quien esté pensando en hacerse autónomo, puede ahorrarle miles de euros y más de un disgusto. Nos vemos en el próximo vídeo.", "visual": "subscribe button notification bell thumbs up", "duration": 25}
+  "title": "Flat Rate for Freelancers 2025 — Requirements and Pitfalls",
+  "description": "Are you going to register as a freelancer? The flat rate allows you to pay just $80 per month for the first year. I explain all the requirements, duration, bonuses, and pitfalls that no one tells you. Updated US/UK tax law 2025.\n\nPersonal finance, flat rate freelancers, freelancer fees, freelancer registration, tax authority.",
+  "tags": [
+    "flat rate freelancers",
+    "freelancer fees 2025",
+    "freelancer registration",
+    "freelancer bonus",
+    "self-employment tax",
+    "tax authority",
+    "new freelancers",
+    "personal finance",
+    "freelancer savings"
   ],
-  "thumbnail_text": "80€ AL MES"
+  "segments": [
+    {
+      "voice": "If you're thinking of becoming a freelancer, there's a bonus that can save you over $3,000 in the first two years. It's called the flat rate and allows you to pay just $80 per month in self-employment tax during the first twelve months. But there are pitfalls that no one tells you, and today I'll explain them all.",
+      "visual": "person starting new business laptop excited",
+      "duration": 25
+    },
+    {
+      "voice": "The flat rate is regulated according to tax law, which established a new system of taxation based on real income. This bonus applies from January 1, 2023, with the new conditions of the income tax system.",
+      "visual": "tax law documents official gazette",
+      "duration": 25
+    },
+    {
+      "voice": "The requirements to access the flat rate are as follows. First, you must not have been registered as a freelancer in the previous two years, or three years if you previously enjoyed the flat rate. Second, you must not be a family collaborator. And third, you must not have outstanding debts with the tax authority or the social security system.",
+      "visual": "checklist requirements document approval stamp",
+      "duration": 25
+    },
+    {
+      "voice": "During the first twelve months, you pay a reduced fee of $80 per month, regardless of your income. This includes taxation for common contingencies, professional contingencies, and cessation of activity. It's a fixed fee that doesn't vary with the income tax bracket you declare. That's $960 per year, compared to over $3,000 without the bonus.",
+      "visual": "calculator savings money comparison dollars coins",
+      "duration": 27
+    },
+    {
+      "voice": "But here's the first pitfall. When those twelve months are over, your fee is calculated based on your real income from the tax system. If during the first year you declared net income above the minimum wage, the increase can be brutal. You can go from $80 to $300 or $400 per month overnight. Many new freelancers don't plan for this jump.",
+      "visual": "graph rising costs shock surprise person",
+      "duration": 28
+    },
+    {
+      "voice": "There is an extension of the flat rate. If, after the first twelve months, your net income is below the minimum wage, which in 2025 is $1,134 per month, you can request an extension for another twelve months at $80 per month. That's a total of twenty-four months at a reduced fee. This is according to tax law.",
+      "visual": "calendar extension time twelve months bonus",
+      "duration": 27
+    },
+    {
+      "voice": "Second important pitfall. The flat rate applies to the minimum taxation base. That means that during the time you enjoy it, your taxation base will be the minimum. And that directly affects your future benefits: sickness leave, retirement, cessation of activity. The lower your taxation base, the lower the benefit you'll receive.",
+      "visual": "retirement pension calculation future planning",
+      "duration": 26
+    },
+    {
+      "voice": "Third pitfall that almost no one mentions. If you cancel your registration as a freelancer before completing the twelve months and then re-register, you lose the flat rate. You can't resume it where you left off. You'd have to wait another two years without being registered to apply for it again. This discourages many from trying an activity for a few months and forces them to plan well.",
+      "visual": "stop sign warning caution red flag alert",
+      "duration": 26
+    },
+    {
+      "voice": "There's an important exception for certain regions. Some, like certain states or counties, offer additional bonuses to the national flat rate. For example, in some areas, new freelancers under thirty or women of any age can access even lower fees or extensions of the bonus period according to regional regulations.",
+      "visual": "US/UK map regions flags",
+      "duration": 27
+    },
+    {
+      "voice": "To apply for the flat rate, the process is simple. When you register with the tax authority through their online portal, you check the box for the startup bonus. You don't need to submit additional documentation at the time of registration. The system automatically checks if you meet the requirement of not having been registered in the previous two years.",
+      "visual": "computer screen online form registration process",
+      "duration": 27
+    },
+    {
+      "voice": "A common mistake is to register first with the tax authority and forget to apply for the flat rate when registering with the social security system. Registration with the tax authority and the social security system are separate procedures, although they must be done within a maximum of sixty days. If you don't check the bonus when registering, it's more complicated to claim it later.",
+      "visual": "tax office forms bureaucracy paperwork",
+      "duration": 28
+    },
+    {
+      "voice": "Fourth pitfall. If you're a corporate freelancer, i.e., if you register as an administrator of a Limited Company, you CAN'T access the flat rate. This bonus is exclusive to individual freelancers registered with the tax authority. Corporate freelancers have a higher minimum taxation base and don't have access to this reduction according to tax law.",
+      "visual": "business meeting corporate office company formation",
+      "duration": 27
+    },
+    {
+      "voice": "Now, is the flat rate worth it? Let's do the math. Without the flat rate, a freelancer in the minimum income bracket pays around $230 per month in 2025. With the flat rate, it's $80. The difference is $150 per month, $1,800 per year. If you get the extension, it's $3,600 in two years.",
+      "visual": "savings calculation spreadsheet money growing chart",
+      "duration": 27
+    },
+    {
+      "voice": "Another aspect you should know: the flat rate is compatible with the partial cessation of activity benefit. That is, if you've previously contributed enough, you can receive the cessation of activity benefit while enjoying the flat rate in a new activity. This is contemplated in tax law.",
+      "visual": "safety net unemployment benefits documents approval",
+      "duration": 25
+    },
+    {
+      "voice": "Fifth pitfall. The real income taxation system requires you to forecast your net income when you register. If at the end of the year your real income is higher than forecasted, the tax authority will adjust your fee upwards, and you'll have to pay the difference. This happens the following year and can mean an unexpected payment of several hundred dollars.",
+      "visual": "surprised person unexpected bill payment shock",
+      "duration": 27
+    },
+    {
+      "voice": "If your real income is lower than forecasted, the tax authority will refund the difference. But be careful, if you declared income below the minimum wage to maintain the flat rate extension and then invoice more, you'll lose the extension retroactively. The tax authority and social security system cross-check data. Don't try to cheat the system because it's more expensive.",
+      "visual": "data analysis cross reference government database",
+      "duration": 27
+    },
+    {
+      "voice": "For freelancers in multiple activities, i.e., those who work as employees and also register as freelancers, there's an additional reduction of 50% in the minimum taxation base during the first eighteen months and 25% in the following eighteen months, according to tax law.",
+      "visual": "person working two jobs office and laptop home",
+      "duration": 27
+    },
+    {
+      "voice": "This reduction for multiple activities is compatible with the flat rate. That is, you could pay $80 for the first twelve months and then benefit from the reduction for multiple activities during the next eighteen months. It's a combination that few advisors mention and can save you over $5,000 in three years.",
+      "visual": "money savings stacking coins growing investment",
+      "duration": 25
+    },
+    {
+      "voice": "A special case is freelancers with a disability of 33% or more. They have an extended flat rate of $60 for the first twenty-four months directly, without needing to demonstrate low income for the extension. This is regulated according to tax law.",
+      "visual": "disability rights inclusion accessibility workplace",
+      "duration": 26
+    },
+    {
+      "voice": "Victims of gender violence and terrorism who register as freelancers also have a special flat rate. In these cases, the reduced fee is extended to twenty-four months from the start of the activity, with the same conditions as freelancers with disabilities.",
+      "visual": "support protection legal rights woman empowerment",
+      "duration": 25
+    },
+    {
+      "voice": "Sixth and final pitfall. Some managers charge between $100 and $300 to process the registration as a freelancer with a flat rate. It's a procedure you can do yourself online in less than thirty minutes through the tax authority's portal and the tax return form. Don't pay anyone for something you can do for free from your computer with your digital certificate or login credentials.",
+      "visual": "person using computer online government portal easy",
+      "duration": 27
+    },
+    {
+      "voice": "Let's talk about the digital certificate. To register online, you need a digital certificate of natural person issued by the relevant authority, or the Cl@ve system. I recommend getting the digital certificate because you'll need it for everything: filing taxes, consulting the social security system, signing documents. You can request it on the authority's website and pick it up at a tax office.",
+      "visual": "digital certificate computer security authentication",
+      "duration": 28
+    },
+    {
+      "voice": "In summary: the flat rate is an excellent opportunity for new freelancers, but you must plan what will happen when it ends. Save part of what you save in fees during these first months to cushion the subsequent jump. My advice is to set aside at least $100 per month from that savings for when the fee rises to its real level.",
+      "visual": "piggy bank savings plan financial strategy",
+      "duration": 26
+    },
+    {
+      "voice": "To calculate your real fee after the flat rate, enter the tax authority's fee simulator on their website. Introduce your forecast of annual net income, and the system will tell you which bracket you fall into and how much you'll pay. That way, there won't be any surprises. Information is power, especially when it comes to your money.",
+      "visual": "simulation calculator web portal results screen",
+      "duration": 26
+    },
+    {
+      "voice": "If this video has helped you understand the flat rate and its pitfalls, give it a like and subscribe to the channel. Each week, I publish content about personal finance and taxation for freelancers in the US/UK. Share this video with anyone thinking of becoming a freelancer; it could save them thousands of dollars and more than one headache. See you in the next video.",
+      "visual": "subscribe button notification bell thumbs up",
+      "duration": 25
+    }
+  ],
+  "thumbnail_text": "FLAT RATE $80/MONTH"
 }

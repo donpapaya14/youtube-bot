@@ -400,6 +400,93 @@ def generate_shorts_thumbnail(hook: str, channel: dict, output_path: str, search
     return output_path
 
 
+def generate_longform_thumbnail(title: str, channel: dict, output_path: str, search_term: str = None) -> str:
+    """Genera thumbnail 1280×720 (landscape) para vídeos largos con fondo Pexels + texto."""
+    W, H = 1280, 720
+    primary = _hex_to_rgb(channel.get("style", {}).get("primary_color", "#1A1A1A"))
+    secondary = _hex_to_rgb(channel.get("style", {}).get("secondary_color",
+                            channel.get("style", {}).get("primary_color", "#FF6600")))
+    text_col = _hex_to_rgb(channel.get("style", {}).get("text_color", "#FFFFFF"))
+    font_path = _find_font()
+
+    # 1. Fondo: Pexels landscape
+    bg = _fetch_pexels_background(search_term or title, W, H)
+    if bg:
+        img = bg.convert("RGBA")
+        overlay = Image.new("RGBA", (W, H), (0, 0, 0, 170))
+        img = Image.alpha_composite(img, overlay)
+        # Degradado lateral izquierdo con color del canal
+        grad = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+        gd = ImageDraw.Draw(grad)
+        for x in range(W // 2):
+            a = int(180 * (1 - x / (W // 2)))
+            gd.line([(x, 0), (x, H)], fill=(*primary, a))
+        img = Image.alpha_composite(img, grad).convert("RGB")
+    else:
+        img = Image.new("RGB", (W, H), primary)
+        dark = tuple(max(0, c - 60) for c in primary)
+        gd = ImageDraw.Draw(img)
+        for x in range(W):
+            t = x / W
+            gd.line([(x, 0), (x, H)], fill=(
+                int(primary[0] * (1-t) + dark[0] * t),
+                int(primary[1] * (1-t) + dark[1] * t),
+                int(primary[2] * (1-t) + dark[2] * t),
+            ))
+
+    draw = ImageDraw.Draw(img)
+
+    # 2. Barra lateral de acento
+    draw.rectangle([0, 0, 8, H], fill=secondary)
+
+    # 3. Título: bold, wrap a la izquierda con margen
+    clean = _strip_emojis(title).upper().strip()
+    font_size = 64
+    try:
+        font = ImageFont.truetype(font_path, font_size) if font_path else ImageFont.load_default()
+    except Exception:
+        font = ImageFont.load_default()
+
+    margin_left = 50
+    max_width = W - margin_left - 80
+    words = clean.split()
+    lines, cur = [], ""
+    for w in words:
+        test = (cur + " " + w).strip()
+        if draw.textbbox((0, 0), test, font=font)[2] > max_width and cur:
+            lines.append(cur)
+            cur = w
+        else:
+            cur = test
+    if cur:
+        lines.append(cur)
+
+    # Limitar a 4 líneas
+    lines = lines[:4]
+    lh = font_size + 16
+    y0 = (H - len(lines) * lh) // 2
+
+    for i, line in enumerate(lines):
+        tx, ty = margin_left, y0 + i * lh
+        # Stroke (8 offsets)
+        for ox, oy in [(-3,-3),(-3,0),(-3,3),(0,-3),(0,3),(3,-3),(3,0),(3,3)]:
+            draw.text((tx+ox, ty+oy), line, font=font, fill=(0, 0, 0))
+        draw.text((tx, ty), line, font=font, fill=text_col)
+
+    # 4. Nombre del canal abajo-izquierda con color de acento
+    try:
+        small = ImageFont.truetype(font_path, 30) if font_path else ImageFont.load_default()
+    except Exception:
+        small = ImageFont.load_default()
+    ch_name = channel.get("name", "").upper()
+    for ox, oy in [(-2,-2),(2,-2),(-2,2),(2,2)]:
+        draw.text((margin_left+ox, H-52+oy), ch_name, font=small, fill=(0, 0, 0))
+    draw.text((margin_left, H-52), ch_name, font=small, fill=secondary)
+
+    img.save(output_path, "PNG")
+    return output_path
+
+
 def _strip_emojis(text: str) -> str:
     pattern = re.compile(
         "[\U0001F600-\U0001F64F\U0001F300-\U0001F5FF\U0001F680-\U0001F6FF"

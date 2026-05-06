@@ -1,69 +1,95 @@
 {
   "id": 26,
-  "title": "NAD+ y Sirtuinas: La Ciencia Real del Envejecimiento Celular",
-  "description": "David Sinclair, NMN, resveratrol, NR: analizamos sin hype la evidencia real sobre NAD+ y sirtuinas en el envejecimiento. Qué dicen los estudios en humanos, no solo en ratones.",
-  "tags": ["NAD+", "sirtuinas", "envejecimiento", "NMN", "NR", "David Sinclair", "longevidad", "mitocondrias", "epigenética", "suplementos antiaging"],
-  "thumbnail_text": "NAD+ VERDAD CIENTÍFICA",
+  "title": "NAD+ and Sirtuins: The Real Science of Cellular Aging",
+  "description": "David Sinclair, NMN, resveratrol, NR: we analyze without hype the real evidence on NAD+ and sirtuins in aging. What do human studies say, not just mouse studies.",
+  "tags": [
+    "NAD+",
+    "sirtuins",
+    "aging",
+    "NMN",
+    "NR",
+    "David Sinclair",
+    "longevity",
+    "mitochondria",
+    "epigenetics",
+    "anti-aging supplements"
+  ],
+  "thumbnail_text": "NAD+ SCIENTIFIC TRUTH",
   "segments": [
     {
-      "voice": "En 2019, el genetista de Harvard David Sinclair publicó su libro Lifespan y el mundo del antienvejecimiento entró en erupción. NAD+, sirtuinas, NMN, resveratrol. La industria de suplementos facturó millones. Pero ¿qué dice realmente la ciencia más allá del hype mediático? ¿Qué está demostrado en humanos y qué sigue siendo solo promesa basada en ratones? Hoy lo analizamos sin filtros.",
-      "visual": "aging longevity research laboratory NAD science molecules"
+      "voice": "In 2019, Harvard geneticist David Sinclair published his book Lifespan and the anti-aging world erupted. NAD+, sirtuins, NMN, resveratrol. The supplement industry made millions. But what does the science really say beyond the media hype? What has been proven in humans and what remains just a promise based on mouse studies? We analyze it without filters today.",
+      "visual": "aging longevity research laboratory NAD science molecules",
+      "duration": 25
     },
     {
-      "voice": "El NAD+ es una coenzima presente en todas las células vivas, fundamental para el metabolismo energético. Sus siglas significan nicotinamida adenina dinucleótido. Actúa como transportador de electrones en la mitocondria durante la producción de ATP. Pero también tiene un papel regulador crucial: es el sustrato imprescindible para las sirtuinas, un grupo de proteínas desacetilasas con roles centrales en la longevidad.",
-      "visual": "NAD+ coenzyme mitochondria energy production cellular biology"
+      "voice": "NAD+ is a coenzyme present in all living cells, fundamental for energy metabolism. Its acronym stands for nicotinamide adenine dinucleotide. It acts as an electron carrier in the mitochondria during ATP production. But it also has a crucial regulatory role: it is the indispensable substrate for sirtuins, a group of deacetylase proteins with central roles in longevity.",
+      "visual": "NAD+ coenzyme mitochondria energy production cellular biology",
+      "duration": 25
     },
     {
-      "voice": "Las sirtuinas son una familia de 7 proteínas, SIRT1 a SIRT7, que regulan procesos clave del envejecimiento: reparación del ADN, expresión genética, inflamación, metabolismo mitocondrial y respuesta al estrés. Se activan en condiciones de restricción calórica y ejercicio intenso. El problema es que para funcionar necesitan NAD+, y los niveles de NAD+ caen entre el 40 y el 60 por ciento entre los 20 y los 60 años.",
-      "visual": "sirtuins proteins DNA repair epigenetics aging cellular regulation"
+      "voice": "Sirtuins are a family of 7 proteins, SIRT1 to SIRT7, that regulate key aging processes: DNA repair, gene expression, inflammation, mitochondrial metabolism, and stress response. They are activated under caloric restriction and intense exercise conditions. The problem is that for them to function, they need NAD+, and NAD+ levels drop by 40 to 60 percent between the ages of 20 and 60.",
+      "visual": "sirtuins proteins DNA repair epigenetics aging cellular regulation",
+      "duration": 25
     },
     {
-      "voice": "¿Por qué cae el NAD+? Varios factores. Con la edad aumenta la actividad de la enzima CD38, que degrada el NAD+. También aumentan las PARP, proteínas de reparación del ADN que consumen NAD+ masivamente ante el daño genético acumulado. En paralelo, la síntesis de novo disminuye. Es un doble problema: se consume más y se produce menos.",
-      "visual": "NAD decline aging CD38 enzyme PARP DNA damage depletion"
+      "voice": "Why does NAD+ decline? Several factors. With age, the activity of the CD38 enzyme increases, which degrades NAD+. PARP proteins, which consume NAD+ massively in response to accumulated genetic damage, also increase. In parallel, de novo synthesis decreases. It's a double problem: more is consumed and less is produced.",
+      "visual": "NAD decline aging CD38 enzyme PARP DNA damage depletion",
+      "duration": 25
     },
     {
-      "voice": "En ratones, los resultados de elevar el NAD+ son espectaculares. Estudios del MIT con NMN en ratones viejos mostraron reversión de marcadores de envejecimiento muscular, cardiovascular y metabólico. Ratones viejos corrían como ratones jóvenes. La esperanza de vida media aumentó hasta un 20 por ciento en algunos modelos. Sinclair publicó en Cell en 2013 cómo la restauración del NAD+ revertía el deterioro vascular muscular.",
-      "visual": "mice aging reversal laboratory experiment longevity study"
+      "voice": "In mice, the results of elevating NAD+ are spectacular. MIT studies with NMN in old mice showed reversal of muscular, cardiovascular, and metabolic aging markers. Old mice ran like young mice. Median lifespan increased by up to 20 percent in some models. Sinclair published in Cell in 2013 how restoring NAD+ reversed vascular muscle deterioration.",
+      "visual": "mice aging reversal laboratory experiment longevity study",
+      "duration": 25
     },
     {
-      "voice": "Pero los humanos no somos ratones. La gran pregunta es qué pasa en ensayos clínicos con personas. Los precursores del NAD+ más estudiados son el NR, nicotinamida ribósido, y el NMN, nicotinamida mononucleótido. Un ensayo de 2018 en Nature Communications con 120 adultos mayores mostró que 500 miligramos diarios de NR aumentaron los niveles de NAD+ en sangre y músculo entre un 40 y un 60 por ciento. Eso está claro. El problema es lo que ocurrió después.",
-      "visual": "NMN NR supplements clinical trial blood NAD levels humans"
+      "voice": "But humans are not mice. The big question is what happens in clinical trials with people. The most studied NAD+ precursors are NR, nicotinamide riboside, and NMN, nicotinamide mononucleotide. A 2018 trial in Nature Communications with 120 elderly adults showed that 500 milligrams of NR daily increased NAD+ levels in blood and muscle by 40 to 60 percent. That's clear. The problem is what happened next.",
+      "visual": "NMN NR supplements clinical trial blood NAD levels humans",
+      "duration": 25
     },
     {
-      "voice": "Aumentar el NAD+ en sangre no se ha traducido todavía en beneficios clínicos claros en humanos. Un metaanálisis de 2024 en Ageing Research Reviews que reunió 23 ensayos clínicos con NR y NMN concluyó: sí, los suplementos aumentan el NAD+ plasmático de forma consistente. Pero los efectos sobre fatiga, función cognitiva, fuerza muscular o marcadores inflamatorios son inconsistentes, modestos y no siempre estadísticamente significativos.",
-      "visual": "clinical trial results inconsistent evidence meta-analysis aging"
+      "voice": "Increasing NAD+ in blood has not yet translated into clear clinical benefits in humans. A 2024 meta-analysis in Ageing Research Reviews that gathered 23 clinical trials with NR and NMN concluded: yes, supplements consistently increase plasma NAD+. But the effects on fatigue, cognitive function, muscle strength, or inflammatory markers are inconsistent, modest, and not always statistically significant.",
+      "visual": "clinical trial results inconsistent evidence meta-analysis aging",
+      "duration": 25
     },
     {
-      "voice": "El ensayo MIB-626 de 2022, financiado por el NIA de Estados Unidos, fue el más robusto hasta la fecha: 250 miligramos de NMN dos veces al día en 100 adultos mayores durante 10 semanas. Resultado: NAD+ en sangre 40 por ciento más alto. Pero sin diferencias en movilidad, fuerza de prensión, composición corporal ni función cognitiva comparado con placebo. Los investigadores señalaron que el NAD+ plasmático puede no reflejar lo que ocurre dentro de las células.",
-      "visual": "NMN trial elderly supplements biomarkers no difference placebo"
+      "voice": "The MIB-626 trial from 2022, funded by the US NIA, was the most robust to date: 250 milligrams of NMN twice a day in 100 elderly adults for 10 weeks. Result: 40 percent higher NAD+ in blood. But no differences in mobility, grip strength, body composition, or cognitive function compared to placebo. Researchers noted that plasma NAD+ may not reflect what happens inside cells.",
+      "visual": "NMN trial elderly supplements biomarkers no difference placebo",
+      "duration": 25
     },
     {
-      "voice": "Las sirtuinas tienen el mismo problema: excelentes resultados en modelos animales, evidencia escasa en humanos. El resveratrol, el activador de sirtuinas más famoso presente en el vino tinto, funcionó de maravilla en ratones. Pero el ensayo CALERIE de Harvard con 3 gramos diarios en humanos mostró nulos efectos sobre longevidad y biomarcadores, y algunos participantes desarrollaron problemas gastrointestinales severos.",
-      "visual": "resveratrol red wine sirtuin activator human trial results"
+      "voice": "Sirtuins have the same problem: excellent results in animal models, scarce evidence in humans. Resveratrol, the most famous sirtuin activator found in red wine, worked wonders in mice. But the CALERIE trial at Harvard with 3 grams daily in humans showed no effects on longevity and biomarkers, and some participants developed severe gastrointestinal problems.",
+      "visual": "resveratrol red wine sirtuin activator human trial results",
+      "duration": 25
     },
     {
-      "voice": "La biodisponibilidad es el talón de Aquiles del resveratrol oral. Se absorbe bien pero se metaboliza tan rápido en el intestino e hígado que su biodisponibilidad sistémica es menor del 1 por ciento de la dosis administrada. Las formulaciones liposomales o con piperina mejoran algo la absorción, pero los datos en humanos siguen siendo insuficientes para recomendar dosis terapéuticas.",
-      "visual": "bioavailability absorption metabolism supplement oral drug delivery"
+      "voice": "Bioavailability is the Achilles' heel of oral resveratrol. It is well absorbed but metabolized so quickly in the intestine and liver that its systemic bioavailability is less than 1 percent of the administered dose. Liposomal or piperine formulations improve absorption somewhat, but human data remains insufficient to recommend therapeutic doses.",
+      "visual": "bioavailability absorption metabolism supplement oral drug delivery",
+      "duration": 25
     },
     {
-      "voice": "Lo que sí funciona con evidencia sólida para mantener el NAD+ alto es el ejercicio. Un estudio de 2019 en Cell Metabolism demostró que el ejercicio de resistencia moderado aumenta el NAD+ muscular entre un 20 y un 30 por ciento en adultos mayores, con mejoras asociadas en función mitocondrial. La restricción calórica y el ayuno intermitente también elevan el NAD+ mediante la activación de AMPK.",
-      "visual": "exercise NAD increase mitochondria aging muscle cell biology"
+      "voice": "What does work with solid evidence to keep NAD+ high is exercise. A 2019 study in Cell Metabolism demonstrated that moderate resistance exercise increases muscle NAD+ by 20 to 30 percent in elderly adults, with associated improvements in mitochondrial function. Caloric restriction and intermittent fasting also elevate NAD+ by activating AMPK.",
+      "visual": "exercise NAD increase mitochondria aging muscle cell biology",
+      "duration": 25
     },
     {
-      "voice": "La espermidina es otro activador de la autofagia y la longevidad que no requiere pastillas. Presente en alimentos como el germen de trigo, el queso curado, las setas y las legumbres, un estudio prospectivo de 2018 en el American Journal of Clinical Nutrition con 829 personas mayores mostró que la ingesta alta de espermidina se asoció con un 44 por ciento de reducción en mortalidad por todas las causas a lo largo de 20 años.",
-      "visual": "spermidine food sources wheat germ cheese mushrooms longevity diet"
+      "voice": "Spermidine is another autophagy and longevity activator that doesn't require pills. Found in foods like wheat germ, aged cheese, mushrooms, and legumes, a 2018 prospective study in the American Journal of Clinical Nutrition with 829 elderly individuals showed that high spermidine intake was associated with a 44 percent reduction in all-cause mortality over 20 years.",
+      "visual": "spermidine food sources wheat germ cheese mushrooms longevity diet",
+      "duration": 25
     },
     {
-      "voice": "Los inhibidores de CD38 son quizás la estrategia más prometedora para elevar el NAD+ de forma eficiente. La apigenina, un flavonoide presente en el perejil, el apio y la manzanilla, inhibe la CD38 y ha mostrado elevar el NAD+ muscular en ratones hasta en un 50 por ciento. No hay ensayos en humanos todavía, pero el mecanismo es biológicamente plausible y el compuesto es seguro.",
-      "visual": "apigenin parsley celery quercetin flavonoid CD38 inhibitor"
+      "voice": "CD38 inhibitors are perhaps the most promising strategy to efficiently elevate NAD+. Apigenin, a flavonoid found in parsley, celery, and chamomile, inhibits CD38 and has been shown to increase muscle NAD+ in mice by up to 50 percent. There are no human trials yet, but the mechanism is biologically plausible and the compound is safe.",
+      "visual": "apigenin parsley celery quercetin flavonoid CD38 inhibitor",
+      "duration": 25
     },
     {
-      "voice": "¿Dónde está la evidencia ahora mismo en 2025? El NAD+ como molécula es fundamental, eso no está en duda. Que sus niveles caen con la edad es un hecho. Que elevarlos en animales produce beneficios espectaculares, también. Pero trasladar eso a humanos sin efectos secundarios conocidos, con dosis correctas y con endpoints clínicamente relevantes sigue siendo un trabajo en progreso. Los suplementos de NR y NMN son probablemente seguros, pero pagar 80 euros al mes esperando resultados demostrados sería prematuro.",
-      "visual": "NAD supplements cost evidence human trial research progress"
+      "voice": "Where is the evidence now in 2025? NAD+ as a molecule is fundamental, that's not in doubt. That its levels drop with age is a fact. That elevating it in animals produces spectacular benefits, also. But translating that to humans without known side effects, with correct doses, and with clinically relevant endpoints remains a work in progress. NR and NMN supplements are probably safe, but paying 80 euros a month expecting proven results would be premature.",
+      "visual": "NAD supplements cost evidence human trial research progress",
+      "duration": 25
     },
     {
-      "voice": "La biología del envejecimiento es una de las fronteras más emocionantes de la ciencia. El NAD+, las sirtuinas y las rutas de señalización de la longevidad representan una revolución conceptual genuina. Pero la ciencia rigurosa exige paciencia. Hacer ejercicio, dormir bien, no fumar, comer real y gestionar el estrés elevan el NAD+ y activan las sirtuinas de formas que ningún suplemento ha superado todavía en ensayos humanos controlados. Lo básico sigue ganando.",
-      "visual": "healthy lifestyle exercise sleep diet aging prevention longevity"
+      "voice": "The biology of aging is one of the most exciting frontiers of science. NAD+, sirtuins, and longevity signaling pathways represent a genuine conceptual revolution. But rigorous science demands patience. Exercising, sleeping well, not smoking, eating real food, and managing stress elevate NAD+ and activate sirtuins in ways that no supplement has yet surpassed in controlled human trials. The basics still win.",
+      "visual": "healthy lifestyle exercise sleep diet aging prevention longevity",
+      "duration": 25
     }
   ]
 }

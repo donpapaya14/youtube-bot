@@ -1,69 +1,92 @@
 {
   "id": 24,
-  "title": "Pluriactividad en España — Ser Autónomo y Asalariado a la Vez: Cómo Funciona",
-  "description": "¿Puedes ser autónomo y trabajar por cuenta ajena al mismo tiempo? Sí, pero hay reglas fiscales y de Seguridad Social que debes conocer. Te explicamos la pluriactividad con cifras reales.",
-  "tags": ["pluriactividad españa", "autonomo y asalariado", "cotizacion doble regimen", "reintegro exceso cotizacion", "dos trabajos españa", "irpf dos fuentes ingresos", "compatibilidad autonomo empleo"],
-  "thumbnail_text": "Dos fuentes un sueldo",
+  "title": "Multiple Income Streams in the US/UK — Being a Freelancer and Employee at the Same Time: How it Works",
+  "description": "Can you be self-employed and work as an employee simultaneously? Yes, but there are tax rules and social security regulations you need to understand. We explain multiple income streams with real data.",
+  "tags": [
+    "multiple income streams US/UK",
+    "freelancer and employee",
+    "double contribution regime",
+    "excess contribution refund",
+    "two jobs US/UK",
+    "income tax two sources",
+    "compatibility freelancer employment"
+  ],
+  "thumbnail_text": "Two Sources One Salary",
   "segments": [
     {
-      "voice": "En España es completamente legal tener empleo por cuenta ajena y al mismo tiempo desarrollar una actividad como autónomo. Esto se llama pluriactividad y es una situación cada vez más frecuente, especialmente entre freelancers que empiezan a construir una base de clientes mientras mantienen su trabajo fijo. Sin embargo, la doble cotización, la gestión fiscal de dos fuentes de ingresos y las obligaciones tributarias tienen matices que conviene conocer antes de empezar.",
-      "visual": "Spain dual work employment freelance both jobs pluriactividad"
+      "voice": "In the US/UK, it's completely legal to have an employee job and at the same time develop a self-employed activity. This is called multiple income streams and is a situation that's becoming more frequent, especially among freelancers who start building a client base while keeping their full-time job. However, the double contribution, the tax management of two income sources, and the tax obligations have nuances that are worth knowing before starting.",
+      "visual": "US/UK dual work employment freelance both jobs multiple income streams",
+      "duration": 25
     },
     {
-      "voice": "Las dos dimensiones de la pluriactividad. Hay que distinguir dos aspectos. Primero, la cotización a la Seguridad Social: cuando eres asalariado y autónomo a la vez, cotizas por los dos regímenes simultáneamente, el Régimen General y el RETA. Segundo, la tributación por IRPF: tus ingresos de ambas fuentes se suman y tributan conjuntamente en la declaración de la renta anual, aplicando los tipos progresivos del IRPF sobre el total. Cada aspecto tiene sus propias reglas y ventajas.",
-      "visual": "Spain dual regime social security general RETA tax income two sources"
+      "voice": "The two dimensions of multiple income streams. There are two aspects to distinguish. First, the social security contribution: when you're an employee and self-employed at the same time, you contribute to both regimes simultaneously, the general regime and self-employment tax. Second, the income tax: your income from both sources is added and taxed jointly in the annual tax return, applying the progressive tax rates on the total. Each aspect has its own rules and advantages.",
+      "visual": "US/UK dual regime social security general self-employment tax income two sources",
+      "duration": 25
     },
     {
-      "voice": "El alta como autónomo cuando ya eres asalariado. Si tienes un trabajo por cuenta ajena y empiezas a desarrollar una actividad económica propia de forma habitual, estás obligado a darte de alta en el RETA y en el IAE con Hacienda. La habitualidad no tiene una definición legal exacta, pero la doctrina de la Seguridad Social considera que si obtienes ingresos de forma regular de una actividad propia, aunque sean pequeños, hay obligación de alta. No esperes a tener muchos clientes para formalizarlo.",
-      "visual": "Spain registration autonomo RETA while employed habitualidad definition"
+      "voice": "Registering as self-employed when you're already an employee. If you have an employee job and start developing a self-employed activity on a regular basis, you're required to register with the tax authority and obtain any necessary licenses. Regularity doesn't have an exact legal definition, but the tax authority considers that if you receive income from a self-employed activity regularly, even if it's small, there's an obligation to register. Don't wait until you have many clients to formalize it.",
+      "visual": "US/UK registration self-employed while employed regularity definition",
+      "duration": 25
     },
     {
-      "voice": "¿Cuánto pagas a la Seguridad Social en pluriactividad? Pagas la cotización del Régimen General como asalariado, que descuenta tu empresa de la nómina. Y además pagas la cuota del RETA como autónomo. En 2026, si tus ingresos del negocio son bajos, la cuota mínima del RETA sería de 225 euros al mes. Si tienes derecho a la tarifa plana por ser tu primer alta, pagas 80 euros durante los primeros 12 meses. En la práctica, la pluriactividad implica pagar dos cotizaciones.",
-      "visual": "Spain double contribution calculation RETA employed 2026 monthly cost"
+      "voice": "How much do you pay to the tax authority in multiple income streams? You pay the general regime contribution as an employee, which your company deducts from your paycheck. And you also pay the self-employment tax as a freelancer. In 2026, if your business income is low, the minimum self-employment tax would be $225 per month. If you're eligible for a reduced rate for being your first registration, you pay $80 during the first 12 months. In practice, multiple income streams imply paying two contributions.",
+      "visual": "US/UK double contribution calculation self-employment tax employed 2026 monthly cost",
+      "duration": 25
     },
     {
-      "voice": "El reintegro por exceso de cotización: el dinero que te puede devolver la Seguridad Social. Si la suma de las bases de cotización del Régimen General y del RETA supera la base máxima de cotización, tienes derecho a la devolución del exceso. En 2026, la base máxima mensual es 4.909,50 euros. Si entre tu nómina y el negocio superas esa base, la Tesorería te devuelve la diferencia. Este reintegro lo solicitas en la Tesorería antes del 30 de abril del año siguiente mediante el modelo de solicitud de reintegro.",
-      "visual": "Spain social security refund excess contribution pluriactividad reintegro"
+      "voice": "The refund for excess contribution: the money the tax authority can refund you. If the sum of the contribution bases of the general regime and self-employment tax exceeds the maximum contribution base, you're entitled to a refund of the excess. In 2026, the maximum monthly base is $4,909.50. If between your paycheck and business you exceed that base, the tax authority refunds the difference. You request this refund from the tax authority before April 30th of the following year through the refund request form.",
+      "visual": "US/UK tax authority refund excess contribution multiple income streams refund",
+      "duration": 25
     },
     {
-      "voice": "Cómo funciona el IRPF con dos fuentes de ingresos. En la declaración anual de la renta, sumas todos los ingresos: rendimientos del trabajo de la nómina y rendimientos de actividades económicas del negocio. El tipo de IRPF se aplica sobre el total, que a menudo cae en tramos más altos que si solo tuvieras una fuente de ingresos. Si con tu nómina ya llegas al tramo del 30% de IRPF y encima tienes ingresos del negocio, esos ingresos adicionales tributan al 37% o al 45% si son elevados.",
-      "visual": "Spain IRPF two income sources salary freelance progressive tax rate"
+      "voice": "How income tax works with two income sources. In the annual tax return, you add all your income: employment income from your paycheck and business income from your self-employed activity. The tax rate applies to the total, which often falls into higher tax brackets than if you only had one income source. If with your paycheck you already reach the 30% tax bracket and on top of that you have business income, that additional income is taxed at 37% or 45% if it's high.",
+      "visual": "US/UK income tax two income sources salary freelance progressive tax rate",
+      "duration": 25
     },
     {
-      "voice": "El pago fraccionado trimestral cuando eres asalariado y autónomo. Como autónomo, debes presentar el modelo 130 de pago fraccionado de IRPF cada trimestre. Pero si los rendimientos del trabajo, tu nómina, representan más del 70% de tus ingresos totales y tu empresa te retiene correctamente, estás exento de presentar el modelo 130. Esto lo recoge el artículo 68.4 del Reglamento IRPF. En la práctica, muchos pluriactivos con nómina principal no tienen que pagar trimestres de IRPF, solo el IVA si aplica.",
-      "visual": "Spain modelo 130 exemption salary 70 percent rule IRPF quarterly"
+      "voice": "The quarterly tax payment when you're an employee and self-employed. As a self-employed individual, you must file the quarterly tax return each quarter. But if your employment income represents more than 70% of your total income and your company withholds taxes correctly, you're exempt from filing the quarterly return. This is according to tax law. In practice, many individuals with a primary employee job don't have to pay quarterly taxes, only the sales tax if applicable.",
+      "visual": "US/UK quarterly tax exemption salary 70 percent rule income tax",
+      "duration": 25
     },
     {
-      "voice": "La retención del IRPF de tu nómina en pluriactividad. El problema práctico más habitual es que tu empresa te retiene en nómina basándose solo en tu salario, sin conocer que tienes ingresos adicionales del negocio. Al hacer la renta, puede salirte a pagar una cantidad inesperada porque tu tipo real de IRPF era mayor que la retención aplicada. La solución es comunicar a tu empresa, mediante el modelo 145, que tienes otras fuentes de ingresos para que ajusten la retención. Así no te llevas sorpresas en abril.",
-      "visual": "Spain modelo 145 IRPF retention adjustment pluriactividad employer inform"
+      "voice": "The income tax withholding from your paycheck in multiple income streams. The most common practical issue is that your company withholds taxes from your paycheck based only on your salary, without knowing you have additional business income. When doing your taxes, you might end up owing an unexpected amount because your actual tax rate was higher than the withholding applied. The solution is to inform your company, using the necessary form, that you have other income sources so they can adjust the withholding. This way, you avoid surprises in April.",
+      "visual": "US/UK income tax withholding adjustment multiple income streams employer inform",
+      "duration": 25
     },
     {
-      "voice": "Derechos laborales: ¿puedes tener autonomía aunque tu contrato lo prohíba? Muchos contratos laborales incluyen cláusulas de exclusividad o no competencia. Si tu empresa tiene una cláusula de exclusividad, desarrollar una actividad autónoma competidora puede ser causa de despido disciplinario. Sin embargo, si la actividad autónoma no compite con tu empleador y no le perjudica, es difícil que sea causa de despido válida. Lee tu contrato y, si hay dudas, consulta la situación con un laboralista antes de empezar.",
-      "visual": "Spain employment contract exclusivity non-compete freelance clause legal"
+      "voice": "Labor rights: can you have autonomy even if your contract prohibits it? Many employment contracts include exclusivity or non-compete clauses. If your company has an exclusivity clause, developing a competing self-employed activity can be grounds for disciplinary dismissal. However, if the self-employed activity doesn't compete with your employer and doesn't harm them, it's difficult for it to be a valid reason for dismissal. Read your contract, and if there are doubts, consult the situation with a labor lawyer before starting.",
+      "visual": "US/UK employment contract exclusivity non-compete freelance clause legal",
+      "duration": 25
     },
     {
-      "voice": "Compatibilidad del salario con la prestación de desempleo. Si en algún momento pierdes tu trabajo y cobras el desempleo, no puedes compatibilizarlo con actividad autónoma de forma indefinida. Sin embargo, puedes cobrar el desempleo durante un máximo de 270 días mientras tienes actividad autónoma si el negocio tiene perspectivas de consolidación, según el artículo 282 del Texto Refundido de la Ley General de la Seguridad Social. Pasado ese plazo, si sigues como autónomo, debes elegir entre continuar con la actividad o cobrar el paro.",
-      "visual": "Spain unemployment benefit compatible autonomo 270 days rule SEPE"
+      "voice": "Compatibility of salary with unemployment benefits. If at some point you lose your job and receive unemployment benefits, you can't combine this with self-employed activity indefinitely. However, you can receive unemployment benefits for up to 270 days while having a self-employed activity if the business has prospects of consolidation, according to tax law. After this period, if you continue as self-employed, you must choose between continuing with the business or receiving unemployment benefits.",
+      "visual": "US/UK unemployment benefit compatible self-employed 270 days rule",
+      "duration": 25
     },
     {
-      "voice": "La baja médica en pluriactividad: cómo funciona. Si estás de baja por enfermedad, la prestación de incapacidad temporal la cobras por los dos regímenes si cotizas por los dos. Por el Régimen General la prestación es el 60% de la base reguladora del día cuarto al vigésimo, y el 75% desde el día veintiuno. Por el RETA la prestación empieza a partir del cuarto día también. Las dos prestaciones son compatibles y se cobran simultáneamente, una por cada régimen en el que cotizas.",
-      "visual": "Spain sick leave pluriactividad two regimes incapacity temporal dual"
+      "voice": "Sick leave in multiple income streams: how it works. If you're on sick leave, the temporary disability benefit is paid for both regimes if you contribute to both. For the general regime, the benefit is 60% of the regulatory base from the fourth day to the twentieth, and 75% from the twenty-first day. For self-employment, the benefit starts from the fourth day as well. Both benefits are compatible and are paid simultaneously, one for each regime you contribute to.",
+      "visual": "US/UK sick leave multiple income streams two regimes temporary disability dual",
+      "duration": 25
     },
     {
-      "voice": "Planificación fiscal para pluriactivos: cómo optimizar la carga tributaria. Algunas estrategias legales para reducir la factura fiscal en pluriactividad. Maximizar los gastos deducibles del negocio reduce el rendimiento neto y por tanto la base imponible del IRPF. Diferir ingresos del negocio al siguiente año si estás en un año de ingresos altos de la nómina. Estudiar si la tributación conjunta o separada es más ventajosa en caso de matrimonio. Y valorar si tiene sentido crear una SL para el negocio si los ingresos son altos.",
-      "visual": "Spain tax optimization pluriactividad deductions strategies planning"
+      "voice": "Tax planning for multiple income streams: how to optimize your tax burden. Some legal strategies to reduce your tax bill in multiple income streams. Maximizing deductible business expenses reduces the net income and thus the taxable base of the income tax. Deferring business income to the next year if you're in a year of high employment income. Studying whether joint or separate taxation is more advantageous in the case of marriage. And evaluating whether it makes sense to create a limited company for the business if the income is high.",
+      "visual": "US/UK tax optimization multiple income streams deductions strategies planning",
+      "duration": 25
     },
     {
-      "voice": "¿Cuándo conviene crear una SL en lugar de seguir de autónomo en pluriactividad? Si los ingresos del negocio superan de forma estable los 50.000 o 60.000 euros anuales, puede tener sentido tributar a través de una Sociedad Limitada al tipo del Impuesto de Sociedades, el 23% o 15% para startups los primeros dos años, en lugar de al tipo marginal del IRPF que puede superar el 40% o el 45% en pluriactividad. Esta decisión depende de muchos factores y requiere análisis individualizado con asesor fiscal.",
-      "visual": "Spain SL company vs autonomo pluriactividad income threshold tax rate"
+      "voice": "When does it make sense to create a limited company instead of continuing as self-employed in multiple income streams? If your business income consistently exceeds $50,000 or $60,000 annually, it might make sense to tax the business through a limited company at the corporate tax rate, 23% or 15% for startups in the first two years, instead of the marginal tax rate that can exceed 40% or 45% in multiple income streams. This decision depends on many factors and requires individualized analysis with a tax advisor.",
+      "visual": "US/UK limited company vs self-employed multiple income streams income threshold tax rate",
+      "duration": 25
     },
     {
-      "voice": "Errores frecuentes en la pluriactividad. No comunicar a la empresa el cambio de situación para ajustar retenciones. No solicitar el reintegro por exceso de cotización cuando corresponde. No guardar facturas y gastos del negocio pensando que son ingresos pequeños. Olvidar el modelo 303 de IVA trimestral si el negocio tiene IVA repercutido. Y no tener en cuenta el impacto en tramos del IRPF al planificar los ingresos del negocio a lo largo del año.",
-      "visual": "Spain pluriactividad common mistakes tax IVA IRPF errors warning"
+      "voice": "Common mistakes in multiple income streams. Not informing your company about the change in situation to adjust withholdings. Not requesting the refund for excess contribution when it's due. Not keeping business invoices and expenses, thinking they're small. Forgetting the quarterly sales tax return if the business has sales tax. And not considering the impact on tax brackets when planning business income throughout the year.",
+      "visual": "US/UK multiple income streams common mistakes tax sales tax errors warning",
+      "duration": 25
     },
     {
-      "voice": "Resumen práctico para pluriactivos. Alta en RETA y en Hacienda cuando empieces con el negocio. Ajusta la retención de tu nómina con el modelo 145. Presenta el modelo 303 de IVA trimestralmente si aplica. Verifica si estás exento del modelo 130. Guarda todos los gastos del negocio. Solicita el reintegro de exceso de cotización si la suma de bases supera el máximo. Y cada año, al hacer la renta, verifica el impacto de los ingresos combinados en el tipo efectivo de IRPF para planificar el año siguiente.",
-      "visual": "Spain pluriactividad checklist summary action steps freelance employed"
+      "voice": "Practical summary for multiple income streams. Register with the tax authority when you start your business. Adjust your paycheck withholding with the necessary form. File the quarterly sales tax return if applicable. Verify if you're exempt from the quarterly income tax return. Keep all business expenses. Request the refund for excess contribution if the sum of bases exceeds the maximum. And each year, when doing your taxes, verify the impact of combined income on your effective tax rate to plan for the next year.",
+      "visual": "US/UK multiple income streams checklist summary action steps freelance employed",
+      "duration": 25
     }
   ]
 }

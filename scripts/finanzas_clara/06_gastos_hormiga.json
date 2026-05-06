@@ -1,33 +1,144 @@
 {
-  "title": "🐜 10 Gastos Hormiga que Te Cuestan +2.000€ al Año",
-  "description": "Los gastos hormiga más comunes en España que te roban más de 2.000 euros al año sin que te des cuenta. Con cifras reales, ejemplos prácticos y soluciones concretas para eliminarlos de tu vida.\n\nGastos hormiga, ahorro dinero, finanzas personales, gastos innecesarios España.",
-  "tags": ["gastos hormiga", "ahorro dinero", "finanzas personales", "gastos innecesarios", "ahorrar España", "presupuesto mensual", "control gastos", "dinero perdido", "hábitos financieros", "economía doméstica"],
-  "segments": [
-    {"voice": "Hay un ladrón que te roba más de dos mil euros al año y ni siquiera te das cuenta. No es tu banco, no es Hacienda, no es la inflación. Son tus propios gastos hormiga. Pequeñas cantidades que parecen insignificantes pero que, sumadas, se comen una parte enorme de tu sueldo. Hoy te voy a mostrar los diez peores con cifras exactas. Y te garantizo que al menos cinco de ellos te van a doler.", "visual": "money leaking wallet small coins disappearing", "duration": 27},
-    {"voice": "Definamos qué es un gasto hormiga. Es cualquier gasto recurrente de pequeña cuantía que haces de forma automática, sin pensar, y que individualmente parece irrelevante. Un euro aquí, tres euros allá. Pero estas hormigas trabajan en equipo y, cuando las sumas, forman un ejército que devora tu capacidad de ahorro. Un estudio del Banco de España estima que los gastos hormiga representan entre el diez y el veinte por ciento del presupuesto familiar.", "visual": "small expenses adding up growing pile coins", "duration": 28},
-    {"voice": "Gasto hormiga número uno: el café fuera de casa. El café de máquina o cafetería cuesta entre uno con veinte y dos con cincuenta euros. Si tomas uno al día de lunes a viernes, son entre seis y doce con cincuenta a la semana. Al mes, entre veintiséis y cincuenta y cuatro euros. Al año, entre trescientos doce y seiscientos cuarenta y ocho euros. Solo en café. Hacerlo en casa cuesta menos de quince céntimos por taza.", "visual": "coffee cup cafe counter daily routine morning", "duration": 27},
-    {"voice": "No te estoy diciendo que nunca tomes café fuera. Te estoy diciendo que seas consciente de lo que cuesta. Si reduces de cinco cafés a la semana a dos, y los demás los haces en casa, ahorras entre ciento ochenta y trescientos noventa euros al año. Lleva un termo al trabajo, invierte en un buen café de supermercado, y reserva el café de cafetería para los momentos que realmente lo disfrutes.", "visual": "thermos coffee home made versus cafe comparison", "duration": 26},
-    {"voice": "Gasto hormiga número dos: suscripciones que no usas. Netflix, HBO Max, Spotify, Amazon Prime, Disney Plus, el gimnasio, la app de meditación, la revista digital, el almacenamiento en la nube extra. El español medio tiene entre cuatro y siete suscripciones activas y paga una media de sesenta y cinco euros al mes en ellas. Según un estudio de la OCU, el cuarenta y dos por ciento de las suscripciones no se usan regularmente.", "visual": "smartphone subscription apps streaming services list", "duration": 28},
-    {"voice": "Haz este ejercicio ahora mismo: abre tu extracto bancario y busca todos los cargos recurrentes mensuales. Apunta cada suscripción y pregúntate cuándo fue la última vez que la usaste. Si no la has usado en el último mes, cancélala. Puedes reactivarla cuando quieras. Te garantizo que encuentras entre veinte y cuarenta euros al mes en suscripciones olvidadas. Son entre doscientos cuarenta y cuatrocientos ochenta euros al año.", "visual": "bank statement highlighting recurring charges phone", "duration": 27},
-    {"voice": "Gasto hormiga número tres: comer fuera entre semana. No hablo de restaurantes con amigos el fin de semana. Hablo del menú del día por nueve o doce euros, el bocadillo de la cafetería por cinco euros, o pedir comida a domicilio al trabajo. Si comes fuera tres veces por semana a diez euros de media, son ciento veinte euros al mes. Al año, mil cuatrocientos cuarenta euros. Preparar la comida en casa cuesta entre dos y tres euros por ración.", "visual": "lunch takeaway food delivery office eating", "duration": 28},
-    {"voice": "La solución es el batch cooking o cocina en lote. Dedica dos horas del domingo a preparar las comidas de la semana. Cocina en cantidad, guarda en tuppers, y llévalos al trabajo. El ahorro es brutal: entre ochenta y cien euros al mes. Y la comida casera suele ser más sana. Si cocinas cuatro raciones de lentejas, el coste por ración es de menos de un euro con cincuenta. Compara con los diez euros del menú del día.", "visual": "meal prep containers kitchen cooking weekly batch", "duration": 27},
-    {"voice": "Gasto hormiga número cuatro: las compras impulsivas online. Amazon, Shein, AliExpress. Un producto por aquí, otro por allá. Cada compra parece pequeña, pero el patrón se repite cada semana. Según la Asociación Española de Comercio Electrónico, el español medio gasta cuatrocientos euros al año en compras impulsivas online. Muchas de esas compras acaban en un cajón sin usar o se devuelven semanas después.", "visual": "online shopping cart packages delivery impulse buying", "duration": 27},
-    {"voice": "El truco para combatir esto es la regla de las setenta y dos horas. Cuando veas algo que quieras comprar online, añádelo al carrito pero no lo compres. Espera setenta y dos horas. Si pasado ese tiempo sigues queriéndolo y encaja en tu presupuesto, cómpralo. Estudios de comportamiento del consumidor muestran que el ochenta por ciento de las compras impulsivas se cancelan con esta técnica. Son más de trescientos euros al año de ahorro.", "visual": "shopping cart waiting timer clock patience online", "duration": 28},
-    {"voice": "Gasto hormiga número cinco: las comisiones bancarias. Mantenimiento de cuenta, tarjeta de crédito, transferencias, descubiertos, cambio de divisa. El banco medio cobra entre treinta y sesenta euros al año solo en comisiones básicas. Y si alguna vez te has quedado en descubierto, la comisión puede ser de hasta treinta euros más intereses. Son gastos evitables al cien por cien cambiando de banco.", "visual": "bank fees charges statement hidden costs alert", "duration": 26},
-    {"voice": "Hoy existen bancos sin comisiones en España. Bancos online como Openbank, ING, Revolut o N26 ofrecen cuentas sin comisión de mantenimiento, sin comisión por tarjeta, y con transferencias gratuitas. Si tu banco tradicional te cobra más de cero euros al año en comisiones, estás regalando dinero. Cambiarse de banco es gratis y se hace en menos de una semana. Y con la nueva normativa europea, tu banco anterior debe facilitar el traspaso.", "visual": "digital banking app smartphone free no fees", "duration": 27},
-    {"voice": "Gasto hormiga número seis: los seguros que no revisas. El seguro del coche, del hogar, del móvil, de vida. Los contratas una vez y se renuevan automáticamente año tras año, normalmente con una subida de prima. Si no comparas al menos una vez al año, estás pagando de más. Un estudio de la Dirección General de Seguros revela que el cuarenta por ciento de los españoles nunca han cambiado de aseguradora.", "visual": "insurance policy renewal documents comparison prices", "duration": 27},
-    {"voice": "La diferencia entre la prima más cara y la más barata para el mismo seguro de coche puede ser de trescientos euros al año. Para el seguro de hogar, de cien euros. Para el seguro de vida, de doscientos euros. Usa comparadores online gratuitos una vez al año, en el mes anterior a la renovación. Y cuando recibas la oferta de tu aseguradora actual, llama y negocia. Solo con decir que tienes una oferta mejor, muchas veces te igualan o mejoran el precio.", "visual": "insurance comparison online calculator different prices", "duration": 28},
-    {"voice": "Gasto hormiga número siete: la electricidad mal optimizada. Si estás en mercado libre con una tarifa cara, si no concentras el consumo en horas valle, si tienes la potencia contratada por encima de lo necesario, estás tirando dinero. La diferencia entre una tarifa optimizada y una sin optimizar puede superar los treinta euros al mes. Son más de trescientos sesenta euros al año en un gasto que puedes reducir sin perder confort.", "visual": "electricity meter bill energy consumption home", "duration": 27},
-    {"voice": "Acciones concretas: revisa tu potencia contratada, si tienes más de cuatro punto seis kilovatios y no necesitas más, baja la potencia llamando a tu distribuidora, es gratis. Pásate a la tarifa PVPC del mercado regulado si estás en mercado libre. Usa los electrodomésticos de alto consumo, lavadora, lavavajillas y horno, en horario valle, de medianoche a ocho de la mañana entre semana. Y cambia las bombillas a LED si no lo has hecho aún.", "visual": "smart home energy saving led bulbs appliances", "duration": 28},
-    {"voice": "Gasto hormiga número ocho: el tabaco. Si fumas una cajetilla diaria a cinco euros con cincuenta, son ciento sesenta y cinco euros al mes y casi dos mil euros al año. Si fumas media cajetilla, son mil euros al año. Incluso los fumadores ocasionales de fin de semana gastan entre doscientos y cuatrocientos euros al año. Sé que dejar de fumar no es un consejo financiero fácil, pero el impacto económico es demoledor.", "visual": "cigarette pack money burning expensive habit", "duration": 27},
-    {"voice": "Y no es solo el coste directo. Los fumadores pagan más en seguros de vida y salud, tienen más gastos médicos, y su productividad laboral es menor por las pausas. Si calculas el coste real del tabaco incluyendo todos estos factores, un fumador de una cajetilla diaria gasta más de tres mil euros al año. En diez años, son treinta mil euros. Invertidos al cinco por ciento, serían casi cuarenta mil euros. Es el precio de un coche nuevo.", "visual": "money growing versus cigarettes cost comparison chart", "duration": 28},
-    {"voice": "Gasto hormiga número nueve: las marcas de fabricante en alimentación. La diferencia media entre marca de fabricante y marca blanca en productos básicos es del treinta y cinco por ciento según la OCU. Si tu cesta de la compra mensual es de trescientos euros y cambias al menos la mitad de productos a marca blanca, ahorras más de cincuenta euros al mes. Son seiscientos euros al año en un cambio que apenas notas.", "visual": "supermarket shelves brand comparison price labels", "duration": 27},
-    {"voice": "Y no hablamos de perder calidad. La OCU realiza análisis comparativos cada año y en muchos productos, la marca blanca iguala o supera en calidad a la marca de fabricante. Muchas marcas blancas están fabricadas por las mismas empresas que producen las marcas conocidas. Solo cambia el envase y el precio. Lee las etiquetas, compara ingredientes, y prueba. Tu paladar se adapta en menos de dos semanas y tu cartera lo nota desde el primer día.", "visual": "grocery shopping comparing products reading labels", "duration": 27},
-    {"voice": "Gasto hormiga número diez: los cajeros automáticos de otros bancos. Cada vez que sacas dinero de un cajero que no es de tu banco, pagas una comisión de entre uno con cincuenta y dos euros. Si lo haces cuatro veces al mes, son entre setenta y dos y noventa y seis euros al año. La solución es sencilla: planifica tus retiradas de efectivo, usa cajeros de tu red, o mejor aún, paga con tarjeta siempre que puedas para evitar el efectivo.", "visual": "atm machine cash withdrawal fee commission alert", "duration": 27},
-    {"voice": "Gasto hormiga bonus: las compras de agua embotellada. Si compras botellines de agua a un euro en la calle o máquinas expendedoras, tres veces por semana son ciento cincuenta y seis euros al año. Incluso comprando packs en el supermercado, gastas entre sesenta y cien euros al año. Una jarra filtrante cuesta veinte euros y los filtros de recambio salen a cinco euros cada dos meses. En un año ahorras entre ochenta y ciento treinta euros. Y generas menos plástico.", "visual": "water bottle versus filter jug comparison savings", "duration": 27},
-    {"voice": "Vamos con la suma total de todos los gastos hormiga. Café fuera de casa: trescientos euros. Suscripciones sin usar: trescientos euros. Comer fuera entre semana: mil euros. Compras impulsivas: cuatrocientos euros. Comisiones bancarias: cincuenta euros. Seguros sin comparar: trescientos euros. Electricidad mal optimizada: trescientos euros. Marcas de fabricante: seiscientos euros. Cajeros de otros bancos: ochenta euros. Total: tres mil trescientos treinta euros al año.", "visual": "total expenses summary chart shocking number euros", "duration": 28},
-    {"voice": "Más de tres mil euros al año que se escapan en pequeñas cantidades que ni notas. Con ese dinero podrías irte de vacaciones dos semanas, crear un fondo de emergencia, invertir, o simplemente vivir más tranquilo sabiendo que controlas tu dinero. No necesitas ganar más. Necesitas gastar mejor. La diferencia entre alguien que ahorra y alguien que no, no suele estar en el sueldo. Está en estos gastos invisibles.", "visual": "vacation savings freedom relaxing beach goals", "duration": 26},
-    {"voice": "Te propongo un reto: durante los próximos treinta días, identifica y elimina al menos tres gastos hormiga de esta lista. Solo tres. Anota cuánto ahorras y cuéntamelo en los comentarios. Si este vídeo te ha abierto los ojos, suscríbete y activa la campana para más contenido de finanzas prácticas. Comparte con alguien que necesite escuchar esto. Nos vemos en el próximo vídeo, donde tu dinero trabajará para ti.", "visual": "subscribe button notification bell challenge savings", "duration": 26}
+  "title": " 10 Hidden Expenses that Cost You +$2,000 a Year",
+  "description": "The most common hidden expenses in the US/UK that steal over $2,000 from you annually without you noticing. With real figures, practical examples, and concrete solutions to eliminate them from your life.\n\nHidden expenses, save money, personal finance, unnecessary expenses UK/US.",
+  "tags": [
+    "hidden expenses",
+    "save money",
+    "personal finance",
+    "unnecessary expenses",
+    "save UK/US",
+    "monthly budget",
+    "expense control",
+    "lost money",
+    "financial habits",
+    "home economy"
   ],
-  "thumbnail_text": "2.000€ PERDIDOS"
+  "segments": [
+    {
+      "voice": "There's a thief that steals over two thousand dollars from you every year, and you don't even realize it. It's not your bank, not the tax authority, not inflation. It's your own hidden expenses. Small amounts that seem insignificant but, when added up, eat away a huge part of your salary. Today, I'll show you the top ten worst ones with exact figures. And I guarantee that at least five of them will hurt.",
+      "visual": "money leaking wallet small coins disappearing",
+      "duration": 27
+    },
+    {
+      "voice": "Let's define what a hidden expense is. It's any recurring, small expenditure that you make automatically, without thinking, and which seems irrelevant on its own. One dollar here, three dollars there. But these small expenses work together, and when you add them up, they form an army that devours your savings capacity. A study by the Federal Reserve estimates that hidden expenses represent between ten and twenty percent of the family budget.",
+      "visual": "small expenses adding up growing pile coins",
+      "duration": 28
+    },
+    {
+      "voice": "Hidden expense number one: coffee outside the home. Machine or coffee shop coffee costs between $1.20 and $2.50. If you have one every day from Monday to Friday, that's between $6 and $12.50 a week. Per month, that's between $26 and $54. Per year, that's between $312 and $648. Just for coffee. Making it at home costs less than fifteen cents per cup.",
+      "visual": "coffee cup cafe counter daily routine morning",
+      "duration": 27
+    },
+    {
+      "voice": "I'm not telling you to never have coffee outside. I'm telling you to be aware of what it costs. If you reduce your coffee consumption from five cups a week to two and make the rest at home, you save between $180 and $390 a year. Take a thermos to work, invest in good supermarket coffee, and reserve coffee shop coffee for moments you really enjoy.",
+      "visual": "thermos coffee home made versus cafe comparison",
+      "duration": 26
+    },
+    {
+      "voice": "Hidden expense number two: unused subscriptions. Netflix, HBO Max, Spotify, Amazon Prime, Disney Plus, the gym, meditation apps, digital magazines, extra cloud storage. The average person has between four and seven active subscriptions and pays an average of $65 a month for them. According to a study by the Consumer Federation, forty-two percent of subscriptions are not used regularly.",
+      "visual": "smartphone subscription apps streaming services list",
+      "duration": 28
+    },
+    {
+      "voice": "Do this exercise now: open your bank statement and look for all monthly recurring charges. Note each subscription and ask yourself when you last used it. If you haven't used it in the last month, cancel it. You can reactivate it whenever you want. I guarantee you'll find between $20 and $40 a month in forgotten subscriptions. That's between $240 and $480 a year.",
+      "visual": "bank statement highlighting recurring charges phone",
+      "duration": 27
+    },
+    {
+      "voice": "Hidden expense number three: eating out during the week. I'm not talking about restaurants with friends on the weekend. I'm talking about the daily menu for $9 or $12, the $5 sandwich from the coffee shop, or ordering food to the office. If you eat out three times a week at an average of $10, that's $120 a month. Per year, that's $1,440. Preparing food at home costs between $2 and $3 per serving.",
+      "visual": "lunch takeaway food delivery office eating",
+      "duration": 28
+    },
+    {
+      "voice": "The solution is batch cooking. Dedicate two hours on Sunday to preparing meals for the week. Cook in bulk, store in containers, and take them to work. The savings are brutal: between $80 and $100 a month. And homemade food is usually healthier. If you cook four servings of lentils, the cost per serving is less than $1.50. Compare that to the $10 daily menu.",
+      "visual": "meal prep containers kitchen cooking weekly batch",
+      "duration": 27
+    },
+    {
+      "voice": "Hidden expense number four: impulse online purchases. Amazon, Shein, AliExpress. One product here, another there. Each purchase seems small, but the pattern repeats every week. According to the National Retail Federation, the average person spends $400 a year on impulse online purchases. Many of these purchases end up unused or returned weeks later.",
+      "visual": "online shopping cart packages delivery impulse buying",
+      "duration": 27
+    },
+    {
+      "voice": "The trick to combat this is the 72-hour rule. When you see something you want to buy online, add it to your cart but don't buy it. Wait 72 hours. If after that time you still want it and it fits your budget, buy it. Consumer behavior studies show that eighty percent of impulse purchases are canceled with this technique. That's over $300 a year in savings.",
+      "visual": "shopping cart waiting timer clock patience online",
+      "duration": 28
+    },
+    {
+      "voice": "Hidden expense number five: bank fees. Account maintenance, credit card, transfers, overdrafts, currency exchange. The average bank charges between $30 and $60 a year just in basic fees. And if you've ever been overdrawn, the fee can be up to $30 plus interest. These are completely avoidable expenses by switching banks.",
+      "visual": "bank fees charges statement hidden costs alert",
+      "duration": 26
+    },
+    {
+      "voice": "Today, there are fee-free banks in the US/UK. Online banks like Chime, Discover, or Ally offer accounts with no maintenance fees, no credit card fees, and free transfers. If your traditional bank charges you more than $0 a year in fees, you're giving away money. Switching banks is free and takes less than a week. And with new regulations, your old bank must facilitate the transfer.",
+      "visual": "digital banking app smartphone free no fees",
+      "duration": 27
+    },
+    {
+      "voice": "Hidden expense number six: uninspected insurance policies. Car, home, phone, life insurance. You sign up once and they renew automatically every year, usually with a premium increase. If you don't compare at least once a year, you're overpaying. A study by the Insurance Information Institute reveals that forty percent of people never change insurance providers.",
+      "visual": "insurance policy renewal documents comparison prices",
+      "duration": 27
+    },
+    {
+      "voice": "The difference between the most expensive and the cheapest premium for the same car insurance can be $300 a year. For home insurance, $100. For life insurance, $200. Use free online comparators once a year, in the month before renewal. And when you receive the offer from your current insurer, call and negotiate. Just by saying you have a better offer, many times they'll match or improve the price.",
+      "visual": "insurance comparison online calculator different prices",
+      "duration": 28
+    },
+    {
+      "voice": "Hidden expense number seven: poorly optimized electricity. If you're on a variable rate with a high tariff, if you don't concentrate your consumption in off-peak hours, if you have more power contracted than necessary, you're throwing money away. The difference between an optimized and a non-optimized tariff can exceed $30 a month. That's over $360 a year in a expense you can reduce without losing comfort.",
+      "visual": "electricity meter bill energy consumption home",
+      "duration": 27
+    },
+    {
+      "voice": "Concrete actions: review your contracted power, if you have more than 4.6 kilowatts and don't need more, lower your power by calling your distributor, it's free. Switch to a fixed-rate plan if you're on a variable rate. Use high-consumption appliances, washing machine, dishwasher, and oven, during off-peak hours, from midnight to 8 am on weekdays. And change your bulbs to LED if you haven't already.",
+      "visual": "smart home energy saving led bulbs appliances",
+      "duration": 28
+    },
+    {
+      "voice": "Hidden expense number eight: tobacco. If you smoke a pack a day at $5.50, that's $165 a month and almost $2,000 a year. If you smoke half a pack, that's $1,000 a year. Even occasional weekend smokers spend between $200 and $400 a year. I know quitting isn't easy financial advice, but the economic impact is devastating.",
+      "visual": "cigarette pack money burning expensive habit",
+      "duration": 27
+    },
+    {
+      "voice": "And it's not just the direct cost. Smokers pay more for life and health insurance, have more medical expenses, and their work productivity is lower due to breaks. If you calculate the real cost of tobacco including all these factors, a pack-a-day smoker spends over $3,000 a year. In ten years, that's $30,000. Invested at five percent, that would be almost $40,000. The price of a new car.",
+      "visual": "money growing versus cigarettes cost comparison chart",
+      "duration": 28
+    },
+    {
+      "voice": "Hidden expense number nine: brand-name food products. The average difference between brand-name and store-brand products in basic items is thirty-five percent according to the Consumer Federation. If your monthly grocery basket is $300 and you switch at least half of the products to store-brand, you save over $50 a month. That's $600 a year in a change you barely notice.",
+      "visual": "supermarket shelves brand comparison price labels",
+      "duration": 27
+    },
+    {
+      "voice": "And we're not talking about losing quality. The Consumer Federation conducts comparative analyses every year, and in many products, the store-brand equals or surpasses the quality of the brand-name product. Many store-brands are manufactured by the same companies that produce the well-known brands. The only difference is the packaging and the price. Read labels, compare ingredients, and try. Your taste adapts in less than two weeks, and your wallet notices from day one.",
+      "visual": "grocery shopping comparing products reading labels",
+      "duration": 27
+    },
+    {
+      "voice": "Hidden expense number ten: using ATMs from other banks. Each time you withdraw money from an ATM that's not your bank's, you pay a fee of between $1.50 and $2. If you do this four times a month, that's between $72 and $96 a year. The solution is simple: plan your cash withdrawals, use ATMs from your bank's network, or better yet, pay with your card whenever possible to avoid cash.",
+      "visual": "atm machine cash withdrawal fee commission alert",
+      "duration": 27
+    },
+    {
+      "voice": "Bonus hidden expense: buying bottled water. If you buy bottled water at $1 on the street or from vending machines, three times a week, that's $156 a year. Even buying packs in the supermarket, you spend between $60 and $100 a year. A water filter jug costs $20, and replacement filters cost $5 every two months. In a year, you save between $80 and $130. And you generate less plastic.",
+      "visual": "water bottle versus filter jug comparison savings",
+      "duration": 27
+    },
+    {
+      "voice": "Let's total all the hidden expenses. Coffee outside the home: $300. Unused subscriptions: $300. Eating out during the week: $1,000. Impulse purchases: $400. Bank fees: $50. Uninspected insurance: $300. Poorly optimized electricity: $300. Brand-name products: $600. Using other banks' ATMs: $80. Total: $3,330 a year.",
+      "visual": "total expenses summary chart shocking number dollars",
+      "duration": 28
+    },
+    {
+      "voice": "Over $3,000 a year that slips away in small amounts you don't even notice. With that money, you could take a two-week vacation, create an emergency fund, invest, or simply live more peacefully knowing you control your money. You don't need to earn more. You need to spend better. The difference between someone who saves and someone who doesn't usually isn't in the salary. It's in these invisible expenses.",
+      "visual": "vacation savings freedom relaxing beach goals",
+      "duration": 26
+    },
+    {
+      "voice": "I challenge you: over the next thirty days, identify and eliminate at least three hidden expenses from this list. Just three. Note how much you save and tell me in the comments. If this video has opened your eyes, subscribe and turn on the bell for more practical finance content. Share with someone who needs to hear this. See you in the next video, where your money will work for you.",
+      "visual": "subscribe button notification bell challenge savings",
+      "duration": 26
+    }
+  ],
+  "thumbnail_text": "$2,000 LOST"
 }
