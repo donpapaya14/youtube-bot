@@ -1,11 +1,9 @@
 name: "Video: SaludLongevidad"
 on:
   schedule:
-    - cron: '30 6 * * *'   # 08:30 España
-    - cron: '30 10 * * *'  # 12:30 España
-    - cron: '30 14 * * *'  # 16:30 España
-    - cron: '30 17 * * *'  # 19:30 España
-    - cron: '30 20 * * *'  # 22:30 España
+    - cron: '30 6 * * *'   # 08:30 España (mañana)
+    - cron: '30 12 * * *'  # 14:30 España (almuerzo)
+    - cron: '30 19 * * *'  # 21:30 España (prime time)
   workflow_dispatch:
 jobs:
   video:

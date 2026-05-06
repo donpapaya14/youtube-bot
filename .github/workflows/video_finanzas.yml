@@ -1,11 +1,9 @@
 name: "Video: FinanzasClara"
 on:
   schedule:
-    - cron: '0 9 * * *'    # 05:00 EST
-    - cron: '0 13 * * *'   # 09:00 EST
-    - cron: '0 17 * * *'   # 13:00 EST
-    - cron: '0 20 * * *'   # 16:00 EST
-    - cron: '0 23 * * *'   # 19:00 EST
+    - cron: '0 13 * * *'   # 09:00 EST (mañana US)
+    - cron: '0 17 * * *'   # 13:00 EST (almuerzo US)
+    - cron: '0 23 * * *'   # 19:00 EST (prime time US)
   workflow_dispatch:
 jobs:
   video:
