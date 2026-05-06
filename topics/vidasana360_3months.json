@@ -1,0 +1,2472 @@
+[
+  {
+    "id": 2000,
+    "topic": "Por qué pesarte cada día sabotea tu pérdida de grasa",
+    "hook": "El 80% se pesa mal y abandona",
+    "key_points": [
+      "El peso fluctúa 1-2kg por agua e intestinos según JAMA 2022",
+      "Estudio Cornell 2015 mostró progreso real solo midiendo 7 días seguidos",
+      "El glucógeno retiene 3g de agua por gramo almacenado",
+      "Pésate solo lunes y jueves al despertar tras orinar"
+    ],
+    "search_terms": ["scale weight bathroom", "morning routine fitness", "person weighing"],
+    "category": "perdida-grasa"
+  },
+  {
+    "id": 2001,
+    "topic": "Caminar 7000 pasos vs 10000: la verdad incómoda",
+    "hook": "7000 pasos basta segun JAMA 2023",
+    "key_points": [
+      "Estudio JAMA Network Open 2023 con 226000 personas",
+      "Mortalidad baja 50% a partir de 7000 pasos diarios",
+      "Pasar de 10000 a 12000 apenas mejora un 3%",
+      "Lo importante es romper sedentarismo cada hora"
+    ],
+    "search_terms": ["walking outdoor steps", "person walking park", "footsteps sidewalk"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 2002,
+    "topic": "Por qué desayunar proteína cambia tu día",
+    "hook": "30g proteína al despertar = -200 kcal noche",
+    "key_points": [
+      "Estudio Universidad Missouri 2014 con 20 mujeres",
+      "Reduce el grelin (hormona del hambre) hasta 4 horas",
+      "Activa la termogénesis 25% más que carbohidratos",
+      "Huevos, yogur griego o tofu suman fácil 30g"
+    ],
+    "search_terms": ["protein breakfast eggs", "greek yogurt bowl", "morning meal"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2003,
+    "topic": "La trampa del cardio en ayunas para quemar grasa",
+    "hook": "Cardio en ayunas no quema mas grasa real",
+    "key_points": [
+      "Meta-análisis British Journal Nutrition 2014: igual oxidación 24h",
+      "Schoenfeld 2014 comparó 20 mujeres durante 4 semanas",
+      "Pierdes más músculo si entrenas fuerte sin comer",
+      "Solo útil si te sienta bien y no afecta intensidad"
+    ],
+    "search_terms": ["morning running fasted", "treadmill cardio", "sunrise workout"],
+    "category": "mitos"
+  },
+  {
+    "id": 2004,
+    "topic": "Cuánta agua beber según tu peso real",
+    "hook": "35ml por kilo, no 2 litros para todos",
+    "key_points": [
+      "Recomendación EFSA 2010: 35ml por kg corporal",
+      "Persona de 70kg necesita 2.4L incluyendo alimentos",
+      "Frutas y verduras aportan 20-30% del total",
+      "Color de orina amarillo claro = bien hidratado"
+    ],
+    "search_terms": ["water glass drinking", "hydration bottle", "clear water pour"],
+    "category": "hidratacion"
+  },
+  {
+    "id": 2005,
+    "topic": "Por qué dormir menos de 7h te hace engordar",
+    "hook": "5h sueño = +385 kcal diarias",
+    "key_points": [
+      "Meta-análisis European Journal Clinical Nutrition 2016",
+      "Sube grelin 28% y baja leptina 18% sin dormir bien",
+      "Estudio King's College London 2016 con 172 personas",
+      "Antojos por dulces aumentan 30% con privación"
+    ],
+    "search_terms": ["person sleeping bedroom", "tired yawning", "alarm clock morning"],
+    "category": "sueno"
+  },
+  {
+    "id": 2006,
+    "topic": "El truco del frío para activar grasa parda",
+    "hook": "10 min de frío activa la grasa quemadora",
+    "key_points": [
+      "Grasa parda quema calorías para producir calor",
+      "Estudio Cell Metabolism 2014 con exposición a 19°C",
+      "Aumenta gasto energético hasta 80 kcal por hora",
+      "Ducha fría 2 min al final también funciona"
+    ],
+    "search_terms": ["cold shower bathroom", "ice bath person", "winter exposure"],
+    "category": "metabolismo"
+  },
+  {
+    "id": 2007,
+    "topic": "Por qué los abdominales no quitan la barriga",
+    "hook": "1000 abdominales = 0 cm de cintura",
+    "key_points": [
+      "Estudio Universidad Illinois 1984 sobre reducción localizada",
+      "Pérdida de grasa es sistémica, no por zonas",
+      "Vásquez 2011: 6 semanas abdominales sin déficit no funcionó",
+      "Déficit calórico + fuerza global es lo único que sirve"
+    ],
+    "search_terms": ["sit ups exercise", "abs workout floor", "person crunches"],
+    "category": "mitos"
+  },
+  {
+    "id": 2008,
+    "topic": "Cómo el estrés crónico bloquea bajar de peso",
+    "hook": "Cortisol alto = barriga que no baja",
+    "key_points": [
+      "Estudio Yale 2000 mostró cortisol y grasa visceral",
+      "Cortisol crónico aumenta resistencia a insulina",
+      "Reduce calidad de sueño en cascada",
+      "Meditación 10 min/día baja cortisol 20% según JAMA 2014"
+    ],
+    "search_terms": ["stressed person office", "anxiety face hands", "meditation calm"],
+    "category": "estres"
+  },
+  {
+    "id": 2009,
+    "topic": "Andar después de comer: el hábito secreto",
+    "hook": "10 min andando = -30% glucosa pico",
+    "key_points": [
+      "Meta-análisis Sports Medicine 2022 con 7 estudios",
+      "Caminar 2-5 min cada 30 min reduce glucosa similar",
+      "Reyna 2022 mostró efecto en personas con prediabetes",
+      "Mejor que estar sentado o de pie sin moverse"
+    ],
+    "search_terms": ["walking after dinner", "evening stroll outdoor", "park walking"],
+    "category": "metabolismo"
+  },
+  {
+    "id": 2010,
+    "topic": "Por qué los zumos detox no limpian nada",
+    "hook": "Tu hígado ya hace detox, gratis",
+    "key_points": [
+      "Revisión Journal Human Nutrition Dietetics 2015",
+      "Hígado y riñones procesan toxinas 24/7",
+      "Zumos detox tienen 30g azúcar libre por vaso",
+      "Ningún estudio serio mostró eliminar toxinas"
+    ],
+    "search_terms": ["green juice glass", "detox drink kitchen", "fresh juice"],
+    "category": "mitos"
+  },
+  {
+    "id": 2011,
+    "topic": "El alimento que reduce inflamación silenciosa",
+    "hook": "1 cucharada al día baja inflamación",
+    "key_points": [
+      "Aceite de oliva extra virgen baja PCR según Lancet 2013",
+      "Estudio PREDIMED con 7000 españoles 5 años",
+      "Polifenoles e hidroxitirosol son antiinflamatorios",
+      "30g/día reduce eventos cardiovasculares 30%"
+    ],
+    "search_terms": ["olive oil spoon", "extra virgin olive", "mediterranean food"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2012,
+    "topic": "Tu cena ideal según la ciencia del sueño",
+    "hook": "Cena 3h antes de dormir, no 1h",
+    "key_points": [
+      "Estudio Universidad Pensilvania 2017 sobre cenas tardías",
+      "Comer cerca de dormir sube glucosa nocturna 18%",
+      "Reduce calidad REM y lipólisis nocturna",
+      "Cena ligera con proteína y verduras a las 20h"
+    ],
+    "search_terms": ["dinner plate vegetables", "evening meal table", "healthy dinner"],
+    "category": "sueno"
+  },
+  {
+    "id": 2013,
+    "topic": "Por qué el HIIT no es para perder grasa",
+    "hook": "HIIT igual que caminar para grasa",
+    "key_points": [
+      "Meta-análisis Sports Medicine 2019 sobre HIIT vs LISS",
+      "Diferencia es minúscula si igualas calorías",
+      "HIIT cansa más y aumenta hambre post-ejercicio",
+      "Combina fuerza + caminar para resultados sostenibles"
+    ],
+    "search_terms": ["hiit workout gym", "intense exercise", "burpees fitness"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 2014,
+    "topic": "Cuánta proteína necesitas si haces ejercicio",
+    "hook": "1.6g por kilo, no más",
+    "key_points": [
+      "Meta-análisis Morton 2018 con 49 estudios",
+      "Más de 1.6g/kg no añade músculo extra",
+      "Persona 70kg = 112g proteína al día máximo útil",
+      "Reparte en 3-4 comidas de 25-40g"
+    ],
+    "search_terms": ["protein chicken meal", "fitness food prep", "lean meat plate"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2015,
+    "topic": "El mito de que el azúcar te da energía",
+    "hook": "Azúcar = energía 30 min, fatiga 3h",
+    "key_points": [
+      "Meta-análisis Mantantzis 2019 con 31 estudios",
+      "Azúcar baja energía y aumenta cansancio en 60 min",
+      "Pico de insulina = bajón de glucosa post",
+      "Proteína + grasa da energía estable 4h"
+    ],
+    "search_terms": ["sugar candy table", "tired person desk", "sweet snacks"],
+    "category": "mitos"
+  },
+  {
+    "id": 2016,
+    "topic": "Cómo activar testosterona naturalmente",
+    "hook": "3 hábitos suben testosterona 25%",
+    "key_points": [
+      "Sueño <6h baja testosterona 15% según JAMA 2011",
+      "Sentadillas pesadas aumentan T aguda según ESSR 2010",
+      "Vitamina D 4000 UI/día sube T según Hormone Metabolic Research 2011",
+      "Zinc y magnesio óptimos según Biological Trace Elements 2011"
+    ],
+    "search_terms": ["man weight lifting", "squat barbell gym", "vitamin d sun"],
+    "category": "hormonas"
+  },
+  {
+    "id": 2017,
+    "topic": "El error grave al usar la báscula inteligente",
+    "hook": "Báscula bioimpedancia falla 8% real",
+    "key_points": [
+      "Validación Journal Sports Sciences 2020",
+      "Estima grasa por agua corporal, varía con hidratación",
+      "DEXA es el gold standard, error <2%",
+      "Úsala solo para tendencia, no número absoluto"
+    ],
+    "search_terms": ["smart scale bathroom", "body fat measure", "weighing modern"],
+    "category": "perdida-grasa"
+  },
+  {
+    "id": 2018,
+    "topic": "Por qué las dietas cetogénicas fallan a largo plazo",
+    "hook": "El 80% abandona keto antes del año",
+    "key_points": [
+      "Estudio Annals Internal Medicine 2020 abandono keto",
+      "Restricción extrema reduce adherencia",
+      "Carbohidratos no son malos por sí mismos",
+      "Mediterránea tiene mejor adherencia 12 meses"
+    ],
+    "search_terms": ["keto diet meal", "low carb plate", "bacon eggs avocado"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2019,
+    "topic": "Cómo el alcohol mata tu progreso fitness",
+    "hook": "1 cerveza = -25% síntesis muscular 24h",
+    "key_points": [
+      "Estudio PLOS ONE 2014 sobre alcohol y proteína",
+      "Bloquea mTOR, ruta principal de síntesis muscular",
+      "Eleva cortisol y reduce testosterona 23%",
+      "Calorías vacías sin saciar"
+    ],
+    "search_terms": ["beer glass bar", "alcohol drink", "wine dinner"],
+    "category": "perdida-grasa"
+  },
+  {
+    "id": 2020,
+    "topic": "El truco simple para aumentar saciedad",
+    "hook": "Comer fibra primero baja calorías 30%",
+    "key_points": [
+      "Estudio Pennsylvania State 2009 con sopas y verduras",
+      "Verduras antes baja apetito por densidad calórica",
+      "Estira pared estomacal y libera CCK",
+      "Empieza ensalada o sopa, luego principal"
+    ],
+    "search_terms": ["salad bowl vegetables", "vegetables plate", "fresh greens"],
+    "category": "perdida-grasa"
+  },
+  {
+    "id": 2021,
+    "topic": "Por qué tu metabolismo no se vuelve lento por edad",
+    "hook": "Metabolismo igual de 20 a 60 años",
+    "key_points": [
+      "Estudio Pontzer Science 2021 con 6500 personas",
+      "Metabolismo basal estable hasta los 60 años",
+      "Bajada de actividad explica peso, no metabolismo",
+      "Mantén masa muscular para no caer"
+    ],
+    "search_terms": ["older person fitness", "active senior", "people exercising"],
+    "category": "metabolismo"
+  },
+  {
+    "id": 2022,
+    "topic": "Cuántas comidas al día queman más grasa",
+    "hook": "3 vs 6 comidas: igual de grasa",
+    "key_points": [
+      "Meta-análisis Schoenfeld 2015 con 18 estudios",
+      "Frecuencia no afecta gasto energético total",
+      "Hace falta lo mismo de calorías al día",
+      "Adapta según hambre y horarios"
+    ],
+    "search_terms": ["multiple meals plate", "small portions food", "meal prep boxes"],
+    "category": "mitos"
+  },
+  {
+    "id": 2023,
+    "topic": "El peligro real de comer ultraprocesados",
+    "hook": "+500 kcal al día con ultraprocesados",
+    "key_points": [
+      "Estudio Hall 2019 NIH con 20 personas",
+      "Comen 500 kcal extra sin notarlo",
+      "Activan dopamina y bypassean saciedad",
+      "Reglas: <5 ingredientes y nombres reconocibles"
+    ],
+    "search_terms": ["processed food package", "chips snacks shelf", "junk food"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2024,
+    "topic": "Por qué el sudor no significa quemar grasa",
+    "hook": "Sudor = agua, no grasa",
+    "key_points": [
+      "Sudor regula temperatura, no quema kcal",
+      "Pesarte tras gym pierdes solo agua, recupera 3h",
+      "Estudio ACSM 2010 sobre termorregulación",
+      "Saunas y fajas son humo para grasa"
+    ],
+    "search_terms": ["sweating workout face", "athlete sweat towel", "sauna heat"],
+    "category": "mitos"
+  },
+  {
+    "id": 2025,
+    "topic": "Cómo construir un buen hábito en 21 días",
+    "hook": "21 días es mentira, son 66",
+    "key_points": [
+      "Estudio Lally 2009 University College London",
+      "Mediana real 66 días, rango 18-254",
+      "Repetición en mismo contexto crea automatismo",
+      "Empieza por hábito mínimo de 2 minutos"
+    ],
+    "search_terms": ["calendar habit tracker", "person journal writing", "morning routine"],
+    "category": "habitos"
+  },
+  {
+    "id": 2026,
+    "topic": "El alimento que mejora microbiota en 24h",
+    "hook": "1 fruta cambia tu intestino en horas",
+    "key_points": [
+      "Estudio Cell 2018 sobre kiwi y motilidad",
+      "Kiwi aumenta deposiciones por enzima actinidina",
+      "Mejora bífidobacterias en 7 días",
+      "2 kiwis al día = 30% más fibra que ciruelas"
+    ],
+    "search_terms": ["kiwi fruit slice", "fresh fruit bowl", "green fruit"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2027,
+    "topic": "Por qué dormir tarde engorda más que comer mal",
+    "hook": "Dormir tarde = +385 kcal diarias",
+    "key_points": [
+      "Estudio Northwestern 2011 con 51 adultos",
+      "Acostarse después de las 4am suma 385 kcal",
+      "Cae sensibilidad a insulina al día siguiente",
+      "Acuéstate antes de medianoche para sincronizar ritmo"
+    ],
+    "search_terms": ["late night phone bed", "person tired evening", "midnight clock"],
+    "category": "sueno"
+  },
+  {
+    "id": 2028,
+    "topic": "El error al elegir aceite de cocina",
+    "hook": "Aceites de semillas oxidan tu cuerpo",
+    "key_points": [
+      "Aceite girasol y soja altos en omega-6",
+      "Ratio omega-6/omega-3 ideal 4:1, hoy 16:1",
+      "Estudio Lancet 2015 sobre inflamación crónica",
+      "Usa oliva virgen para frío y calor moderado"
+    ],
+    "search_terms": ["olive oil bottle", "cooking oil kitchen", "salad dressing"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2029,
+    "topic": "El ejercicio que más rejuvenece según Harvard",
+    "hook": "Fuerza alarga vida 23%",
+    "key_points": [
+      "Estudio Harvard British Journal Sports Medicine 2022",
+      "30-60 min fuerza/semana baja mortalidad 10-20%",
+      "Combinado con cardio reduce 40% muerte total",
+      "Sentadillas, dominadas, peso muerto bastan"
+    ],
+    "search_terms": ["dumbbell weight lifting", "strength training gym", "resistance workout"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 2030,
+    "topic": "Por qué saltarte el desayuno no es malo",
+    "hook": "El desayuno no es la comida más importante",
+    "key_points": [
+      "Meta-análisis BMJ 2019 con 13 estudios",
+      "Saltarlo no aumenta peso ni baja metabolismo",
+      "Mensaje viene de marketing cereales 1944",
+      "Come cuando tengas hambre, no por reloj"
+    ],
+    "search_terms": ["empty plate breakfast", "morning coffee only", "skip meal"],
+    "category": "mitos"
+  },
+  {
+    "id": 2031,
+    "topic": "Cómo controlar antojos con un truco mental",
+    "hook": "Imagina comerlo: -50% antojo",
+    "key_points": [
+      "Estudio Carnegie Mellon 2010 publicado Science",
+      "Visualizar comer 30 veces reduce consumo real",
+      "Habituación mental sacia anticipadamente",
+      "Funciona mejor con dulces que salados"
+    ],
+    "search_terms": ["chocolate craving person", "sweet temptation", "willpower food"],
+    "category": "habitos"
+  },
+  {
+    "id": 2032,
+    "topic": "El alimento clave para combatir cansancio",
+    "hook": "1 puñado de frutos secos = energía 4h",
+    "key_points": [
+      "Estudio AJCN 2017 sobre nueces y energía",
+      "Magnesio activa producción ATP mitocondrial",
+      "Grasa + proteína estabiliza glucosa horas",
+      "30g almendras = 75 mg magnesio"
+    ],
+    "search_terms": ["nuts bowl almonds", "trail mix snack", "walnuts wooden"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2033,
+    "topic": "Por qué 5 minutos de luz solar despiertan tu cuerpo",
+    "hook": "5 min sol = -40% somnolencia",
+    "key_points": [
+      "Estudio Huberman Lab Stanford 2020",
+      "Luz solar suprime melatonina al instante",
+      "Activa cortisol matutino que da energía",
+      "Sale al aire libre 10 min al despertar"
+    ],
+    "search_terms": ["morning sunrise face", "person outdoor sun", "sunlight window"],
+    "category": "sueno"
+  },
+  {
+    "id": 2034,
+    "topic": "El truco para no comer de más en restaurantes",
+    "hook": "Pide agua antes: -22% calorías",
+    "key_points": [
+      "Estudio Universidad Birmingham 2015",
+      "Beber 500ml agua 30 min antes de comer",
+      "Distensión gástrica activa saciedad",
+      "Funciona mejor en mayores de 35 años"
+    ],
+    "search_terms": ["restaurant table water", "glass water dining", "people eating restaurant"],
+    "category": "perdida-grasa"
+  },
+  {
+    "id": 2035,
+    "topic": "Cuánto cardio hacer realmente para perder grasa",
+    "hook": "150 min/semana, no más",
+    "key_points": [
+      "OMS y ACSM coinciden 150 min cardio moderado",
+      "Más cardio aumenta cortisol y hambre",
+      "Estudio Church 2009 sobre dosis-respuesta",
+      "Combina con fuerza para no perder músculo"
+    ],
+    "search_terms": ["cardio running outdoor", "treadmill person", "cyclist street"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 2036,
+    "topic": "Por qué la comida light te hace engordar",
+    "hook": "Light = 50% más cantidad consumida",
+    "key_points": [
+      "Estudio Cornell 2006 con etiquetas low-fat",
+      "Compensas calorías inconscientemente",
+      "Edulcorantes alteran microbiota según Nature 2014",
+      "Mejor versión real en porción moderada"
+    ],
+    "search_terms": ["diet light food package", "low fat label", "supermarket shelf"],
+    "category": "mitos"
+  },
+  {
+    "id": 2037,
+    "topic": "Cómo el magnesio mejora tu sueño profundo",
+    "hook": "300 mg = +30 min sueño profundo",
+    "key_points": [
+      "Estudio Journal Research Medical Sciences 2012",
+      "Activa GABA, neurotransmisor relajante",
+      "Forma glicinato es la mejor absorbida",
+      "Espinacas, almendras y aguacate son fuentes"
+    ],
+    "search_terms": ["spinach leaves green", "almonds bowl", "supplement pill sleep"],
+    "category": "sueno"
+  },
+  {
+    "id": 2038,
+    "topic": "El error fatal al hacer sentadillas",
+    "hook": "90% baja mal y se lesiona la rodilla",
+    "key_points": [
+      "Rodillas hacia adentro daña ligamento cruzado",
+      "Estudio Powers 2010 sobre valgo dinámico",
+      "Empuja desde talones, no puntas",
+      "Espalda neutra, no curva ni hiperextendida"
+    ],
+    "search_terms": ["squat exercise form", "person squatting gym", "leg workout"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 2039,
+    "topic": "Por qué los suplementos quemagrasa son humo",
+    "hook": "Pierdes 0,5 kg/mes con quemagrasa",
+    "key_points": [
+      "Revisión Cochrane 2020 sobre 14 productos",
+      "Efecto medio: pérdida insignificante",
+      "Cafeína sola más eficaz que combinados",
+      "El déficit calórico hace 99% del trabajo"
+    ],
+    "search_terms": ["fat burner pills", "supplements bottle", "diet capsules"],
+    "category": "mitos"
+  },
+  {
+    "id": 2040,
+    "topic": "Cómo respirar para activar el sistema parasimpático",
+    "hook": "5 segundos inhalas, 7 exhalas: calma",
+    "key_points": [
+      "Estudio Frontiers Human Neuroscience 2018",
+      "Exhalación larga activa nervio vago",
+      "Baja frecuencia cardiaca en 90 segundos",
+      "Reduce cortisol medible tras 5 min"
+    ],
+    "search_terms": ["person breathing meditation", "calm breath nature", "yoga relaxation"],
+    "category": "estres"
+  },
+  {
+    "id": 2041,
+    "topic": "Por qué necesitas 30g de fibra al día",
+    "hook": "El 90% no llega a 30g fibra",
+    "key_points": [
+      "OMS recomienda 25-30g fibra al día",
+      "Lancet 2019 meta-análisis 185 estudios",
+      "30g/día baja mortalidad 30%",
+      "Legumbres, verduras y frutos secos son clave"
+    ],
+    "search_terms": ["fiber food vegetables", "lentils beans bowl", "high fiber meal"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2042,
+    "topic": "El hábito que añade 3 años de vida",
+    "hook": "Dormir 7-9h = +3 años de vida",
+    "key_points": [
+      "Estudio Sleep 2018 con 1,1 millón personas",
+      "Menos de 6h o más de 10h sube mortalidad",
+      "Consistencia importa más que duración",
+      "Ritual nocturno ayuda dormir profundo"
+    ],
+    "search_terms": ["peaceful sleep bedroom", "person resting bed", "night sleep"],
+    "category": "sueno"
+  },
+  {
+    "id": 2043,
+    "topic": "Cómo el azúcar acelera el envejecimiento",
+    "hook": "Azúcar arruga la piel desde dentro",
+    "key_points": [
+      "Glicación: azúcar se pega a colágeno y elastina",
+      "Estudio British Journal Dermatology 2007",
+      "Forma productos AGEs que rompen fibras",
+      "Reduce 10-20g azúcar al día visible en piel"
+    ],
+    "search_terms": ["wrinkle face closeup", "older skin aging", "sugar bowl"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2044,
+    "topic": "Por qué tu báscula sube tras hacer pesas",
+    "hook": "Subes 1kg tras pesas: es agua",
+    "key_points": [
+      "Microlesiones musculares retienen agua",
+      "Estudio Damas 2016 sobre inflamación post-ejercicio",
+      "Glucógeno reposición añade 1-2 kg agua",
+      "Espera 48-72h para pesarte real"
+    ],
+    "search_terms": ["weight scale woman", "person weighing body", "fitness scale"],
+    "category": "perdida-grasa"
+  },
+  {
+    "id": 2045,
+    "topic": "El alimento japonés que protege tu corazón",
+    "hook": "Natto baja infarto 25%",
+    "key_points": [
+      "Estudio Japan 2017 con 29000 personas",
+      "Natto rico en vitamina K2 y nattokinasa",
+      "Mejora elasticidad arterial",
+      "Si no encuentras natto, queso curado y huevos"
+    ],
+    "search_terms": ["natto japanese food", "fermented food bowl", "japanese meal"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2046,
+    "topic": "Cuántos huevos al día son seguros",
+    "hook": "3 huevos diarios = ZERO riesgo cardio",
+    "key_points": [
+      "Meta-análisis BMJ 2020 sobre huevos",
+      "Hasta 3 huevos al día sin aumento riesgo",
+      "Colesterol dietético no eleva LDL en 70% gente",
+      "Ricos en colina, B12 y proteína completa"
+    ],
+    "search_terms": ["eggs fried breakfast", "boiled eggs plate", "chicken eggs basket"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2047,
+    "topic": "Por qué andar descalzo mejora tu postura",
+    "hook": "30 min descalzo refuerza pies",
+    "key_points": [
+      "Estudio Footwear Science 2018 sobre intrínsecos",
+      "Activa músculos atrofiados por calzado",
+      "Mejora propiocepción y equilibrio",
+      "Empieza poco a poco en casa o césped"
+    ],
+    "search_terms": ["barefoot grass walking", "feet ground nature", "person beach feet"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 2048,
+    "topic": "Cómo el ayuno 16:8 reorganiza tu apetito",
+    "hook": "16:8 baja apetito tras 14 días",
+    "key_points": [
+      "Estudio Gabel 2018 obesidad y 16:8",
+      "Reduce hambre tras adaptación 2 semanas",
+      "Eficaz para perder peso si controlas calorías",
+      "Mujeres ciclo menstrual: cuidado ventana corta"
+    ],
+    "search_terms": ["clock fasting time", "empty plate kitchen", "intermittent fasting"],
+    "category": "ayuno"
+  },
+  {
+    "id": 2049,
+    "topic": "El error con los batidos de proteína",
+    "hook": "Batido post-entreno no es urgente",
+    "key_points": [
+      "Estudio Aragon Schoenfeld 2013 ventana anabólica",
+      "Tienes 4-6 horas para tomar proteína post",
+      "Ingesta total diaria importa más",
+      "Solo crítico si entrenas en ayunas"
+    ],
+    "search_terms": ["protein shake bottle", "shaker gym", "powder protein scoop"],
+    "category": "mitos"
+  },
+  {
+    "id": 2050,
+    "topic": "Por qué la siesta de 20 min mejora tu día",
+    "hook": "20 min siesta = +30% rendimiento",
+    "key_points": [
+      "Estudio NASA 1995 sobre pilotos",
+      "Más de 30 min entras sueño profundo y atontado",
+      "Antes de las 15h no afecta sueño nocturno",
+      "Alarma exacta para no pasarte"
+    ],
+    "search_terms": ["person napping sofa", "afternoon rest", "sleep day light"],
+    "category": "sueno"
+  },
+  {
+    "id": 2051,
+    "topic": "Cómo el café puede mejorar tu entrenamiento",
+    "hook": "3 mg/kg café = +12% rendimiento",
+    "key_points": [
+      "Meta-análisis Grgic 2020 con 21 estudios",
+      "Persona 70kg: 210 mg cafeína (2 tazas)",
+      "30-45 min antes de entrenar es óptimo",
+      "Cafeína bloquea adenosina = menos fatiga"
+    ],
+    "search_terms": ["coffee cup espresso", "barista pour coffee", "morning cup"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 2052,
+    "topic": "El truco silencioso para reducir azúcar",
+    "hook": "Vinagre antes comer baja glucosa 30%",
+    "key_points": [
+      "Meta-análisis Diabetes Care 2017",
+      "1 cucharada vinagre antes carbos baja pico",
+      "Mecanismo: enlentece vaciado gástrico",
+      "Manzana o blanco con agua, igual de eficaz"
+    ],
+    "search_terms": ["apple cider vinegar", "vinegar bottle", "salad dressing"],
+    "category": "metabolismo"
+  },
+  {
+    "id": 2053,
+    "topic": "Por qué entrenar piernas sube todo tu metabolismo",
+    "hook": "Pierna = 50% músculo del cuerpo",
+    "key_points": [
+      "Mayor masa muscular eleva gasto basal",
+      "Estudio Kraemer 1999 sobre hormonas post-pierna",
+      "Sentadilla pesada eleva testosterona y GH",
+      "Skip pierna = skip mitad del progreso"
+    ],
+    "search_terms": ["leg day squats", "deadlift gym", "leg muscle workout"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 2054,
+    "topic": "El impacto real del gluten en personas sanas",
+    "hook": "Gluten no engorda si no eres celíaco",
+    "key_points": [
+      "Revisión Gastroenterology 2018 sobre no-celíacos",
+      "Sin celiaquía/sensibilidad, gluten es seguro",
+      "Pan integral aporta fibra y minerales",
+      "Restringir sin diagnóstico no aporta nada"
+    ],
+    "search_terms": ["bread gluten wheat", "pasta plate", "bakery bread"],
+    "category": "mitos"
+  },
+  {
+    "id": 2055,
+    "topic": "Por qué estirar antes de entrenar te debilita",
+    "hook": "Estirar pre-fuerza = -8% potencia",
+    "key_points": [
+      "Meta-análisis Behm 2016 sobre estiramiento estático",
+      "Reduce activación muscular hasta 30 min",
+      "Calienta con movimiento dinámico",
+      "Estiramientos estáticos al final"
+    ],
+    "search_terms": ["stretching workout", "person warming up", "dynamic stretch"],
+    "category": "mitos"
+  },
+  {
+    "id": 2056,
+    "topic": "Cómo perder 1 kg de grasa al mes sin dieta",
+    "hook": "Camina 1h/día = -3 kg/3 meses",
+    "key_points": [
+      "Caminar 60 min quema 250-300 kcal",
+      "Estudio Murphy 2019 sobre caminatas y grasa",
+      "Sin tocar dieta, déficit acumulado funciona",
+      "Constante a media intensidad mejor"
+    ],
+    "search_terms": ["walking outdoor exercise", "couple hiking", "park stroll"],
+    "category": "perdida-grasa"
+  },
+  {
+    "id": 2057,
+    "topic": "El mineral oculto que combate la fatiga",
+    "hook": "30% de mujeres sin hierro suficiente",
+    "key_points": [
+      "OMS 2020: anemia más común en mujeres",
+      "Hierro hemo (carne) absorbe 25%, no hemo 5%",
+      "Vitamina C duplica absorción hierro vegetal",
+      "Lentejas + tomate = combo top"
+    ],
+    "search_terms": ["spinach iron rich", "red meat plate", "lentils bowl"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2058,
+    "topic": "Por qué sentarte mucho daña más que fumar",
+    "hook": "Sedentarismo mata más que fumar",
+    "key_points": [
+      "Estudio Mayo Clinic 2014 sobre sedentarismo",
+      "Sentarse +10h diarias sube mortalidad 34%",
+      "Levántate 2 min cada 30 min",
+      "Camina mientras hablas por teléfono"
+    ],
+    "search_terms": ["office worker sitting", "desk chair person", "sedentary lifestyle"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 2059,
+    "topic": "Cómo el omega-3 reduce grasa visceral",
+    "hook": "2g omega-3 = -8% grasa abdominal",
+    "key_points": [
+      "Estudio Couet 2011 sobre EPA y DHA",
+      "Activa beta-oxidación de grasas",
+      "Reduce inflamación adiposa",
+      "Pescado azul 2-3 veces/semana o suplemento"
+    ],
+    "search_terms": ["salmon fish plate", "fish oil capsules", "mackerel fresh"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2060,
+    "topic": "El truco psicológico para comer menos",
+    "hook": "Plato pequeño = -22% comida",
+    "key_points": [
+      "Estudio Wansink 2007 con platos 25 vs 30 cm",
+      "Ilusión Delboeuf engaña al cerebro",
+      "Misma comida parece más cantidad",
+      "Cambia tu vajilla por modelo más pequeño"
+    ],
+    "search_terms": ["small plate food", "portion size dinner", "minimalist meal"],
+    "category": "habitos"
+  },
+  {
+    "id": 2061,
+    "topic": "Por qué deberías exponerte al sol 15 min al día",
+    "hook": "15 min sol = vitamina D suficiente",
+    "key_points": [
+      "Estudio Holick 2007 sobre síntesis vitamina D",
+      "Cara, brazos y piernas sin protector",
+      "Verano antes 10h o tras 17h",
+      "80% de españoles tienen déficit vitamina D"
+    ],
+    "search_terms": ["sun exposure outdoor", "person sunbathing", "sunny day skin"],
+    "category": "hormonas"
+  },
+  {
+    "id": 2062,
+    "topic": "Cómo evitar la temida meseta de pérdida",
+    "hook": "Cambia 200 kcal cada 3 semanas",
+    "key_points": [
+      "Adaptación metabólica baja gasto 10-15%",
+      "Estudio Rosenbaum 2008 sobre adaptación",
+      "Refeed día con +500 kcal carbs reactiva",
+      "Ajusta gasto físico antes de cortar más"
+    ],
+    "search_terms": ["weight loss plateau", "scale frustration", "person fitness goal"],
+    "category": "perdida-grasa"
+  },
+  {
+    "id": 2063,
+    "topic": "El alimento que aumenta tu serotonina natural",
+    "hook": "Plátano + nueces = serotonina arriba",
+    "key_points": [
+      "Triptófano es precursor de serotonina",
+      "Estudio Young 2007 sobre dieta y ánimo",
+      "Plátano, nueces, semillas y huevo lo aportan",
+      "Combina con carbo para entrar al cerebro"
+    ],
+    "search_terms": ["banana fruit slice", "walnuts seeds bowl", "happy mood food"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2064,
+    "topic": "Por qué el chicle reduce el hambre de verdad",
+    "hook": "Chicle baja hambre 30 min",
+    "key_points": [
+      "Estudio Hetherington 2007 sobre masticar chicle",
+      "Mascar señaliza saciedad al hipotálamo",
+      "Sin azúcar mejor para evitar caries",
+      "No reemplaza dieta pero ayuda con antojos"
+    ],
+    "search_terms": ["chewing gum mouth", "gum sticks", "mint chewing"],
+    "category": "habitos"
+  },
+  {
+    "id": 2065,
+    "topic": "El error de tomar electrolitos sin sudar",
+    "hook": "Electrolitos sin sudar te suben presión",
+    "key_points": [
+      "Sodio extra eleva presión arterial",
+      "Estudio AHA 2017 sobre sodio cardiovascular",
+      "Solo necesarios si sudas más de 1h fuerte",
+      "Comida normal cubre electrolitos diarios"
+    ],
+    "search_terms": ["sports drink bottle", "electrolytes powder", "isotonic drink"],
+    "category": "mitos"
+  },
+  {
+    "id": 2066,
+    "topic": "Cuánta sal es segura al día",
+    "hook": "5g sal/día, no 10g",
+    "key_points": [
+      "OMS recomienda <5g sal (2g sodio) al día",
+      "Estudio Mente 2018 con 95000 personas",
+      "Reducir sal baja presión 4-8 mmHg",
+      "70% sal viene de procesados, no salero"
+    ],
+    "search_terms": ["salt shaker spilled", "salt grains crystal", "kitchen seasoning"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2067,
+    "topic": "Por qué el alcohol cero también engorda",
+    "hook": "Cerveza 0,0 igual o más calorías",
+    "key_points": [
+      "Maltodextrina y azúcar añadido para sabor",
+      "Estudio OCU 2021 etiquetas cervezas 0,0",
+      "Algunas tienen +60 kcal vs versión normal",
+      "Lee etiquetas y compara"
+    ],
+    "search_terms": ["non alcoholic beer", "beer glass label", "drink bottle"],
+    "category": "mitos"
+  },
+  {
+    "id": 2068,
+    "topic": "El hábito que reduce ansiedad en 10 min",
+    "hook": "10 min naturaleza = -25% cortisol",
+    "key_points": [
+      "Estudio Hunter 2019 Frontiers Psychology",
+      "Caminar en parque baja cortisol salivar",
+      "Visión panorámica activa parasimpático",
+      "Sin móvil para máximo efecto"
+    ],
+    "search_terms": ["forest walk peaceful", "nature green park", "person trees"],
+    "category": "estres"
+  },
+  {
+    "id": 2069,
+    "topic": "Cómo el arroz frío baja menos la glucosa",
+    "hook": "Arroz frío = -50% pico glucosa",
+    "key_points": [
+      "Almidón resistente se forma al enfriar arroz",
+      "Estudio European Journal Clinical Nutrition 2015",
+      "Cocer, enfriar 12h y recalentar mantiene efecto",
+      "Funciona también con patata cocida"
+    ],
+    "search_terms": ["rice bowl cooked", "leftover rice", "grain food"],
+    "category": "metabolismo"
+  },
+  {
+    "id": 2070,
+    "topic": "Por qué la masa muscular es tu seguro de vida",
+    "hook": "Más músculo = menos muerte temprana",
+    "key_points": [
+      "Estudio AJM 2014 sobre sarcopenia y mortalidad",
+      "Tras 30 años perdemos 3-8% músculo/década",
+      "Bajar fuerza dobla riesgo discapacidad",
+      "Entrena fuerza desde antes de los 40"
+    ],
+    "search_terms": ["muscular fitness arm", "bodybuilding gym", "strong person workout"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 2071,
+    "topic": "El truco para no caer en el sofá tras cenar",
+    "hook": "Camina 10 min después: -25% somnolencia",
+    "key_points": [
+      "Glucosa post-comida causa modorra",
+      "Caminar la usa en músculo activo",
+      "Estudio Reynolds 2016 con diabéticos",
+      "Mejor que sofá + televisión"
+    ],
+    "search_terms": ["evening walk after dinner", "post meal stroll", "neighborhood walk"],
+    "category": "habitos"
+  },
+  {
+    "id": 2072,
+    "topic": "Cómo el frío activa el metabolismo del invierno",
+    "hook": "Frío 2h = +250 kcal extra",
+    "key_points": [
+      "Estudio Van Marken 2014 sobre BAT activado",
+      "Exposición 17°C activa grasa parda",
+      "Termogénesis sin temblar quema kcal",
+      "Sal abrigado pero sin exceso al exterior"
+    ],
+    "search_terms": ["cold winter weather", "person snow outdoor", "frozen scene"],
+    "category": "metabolismo"
+  },
+  {
+    "id": 2073,
+    "topic": "Por qué deberías comer menos pasta blanca",
+    "hook": "Pasta blanca = pico glucosa sin fibra",
+    "key_points": [
+      "Pasta refinada IG 70, integral IG 35",
+      "Estudio Lancet 2019 sobre cereales integrales",
+      "Integral baja 30% riesgo diabetes",
+      "Cómela al dente y enfriada para resistente"
+    ],
+    "search_terms": ["white pasta plate", "spaghetti dish", "italian food bowl"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2074,
+    "topic": "El truco con el limón que sí funciona",
+    "hook": "Limón antes de comer baja glucosa",
+    "key_points": [
+      "Ácido cítrico enlentece vaciado gástrico",
+      "Estudio Diabetes Care 2010 sobre cítricos",
+      "Reduce respuesta insulina 30%",
+      "1 limón en agua antes de carbohidratos"
+    ],
+    "search_terms": ["lemon water glass", "fresh lemons table", "citrus juice"],
+    "category": "metabolismo"
+  },
+  {
+    "id": 2075,
+    "topic": "Cómo el yoga reduce dolor de espalda crónico",
+    "hook": "12 semanas yoga = -55% dolor lumbar",
+    "key_points": [
+      "Meta-análisis Cochrane 2017 con 12 estudios",
+      "Yoga iyengar especialmente efectivo",
+      "Refuerza core y mejora flexibilidad",
+      "Mejor que solo paracetamol crónico"
+    ],
+    "search_terms": ["yoga back pose", "stretching mat person", "yoga studio practice"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 2076,
+    "topic": "Por qué dormir en pareja arruina tu sueño",
+    "hook": "Dormir solos = +30 min REM",
+    "key_points": [
+      "Estudio Sleep 2020 sobre cohabitación nocturna",
+      "Movimientos pareja despiertan microsegundos",
+      "Ronquidos bajan calidad sueño profundo",
+      "Camas separadas no es divorcio, es ciencia"
+    ],
+    "search_terms": ["couple sleeping bed", "bedroom together", "snoring person"],
+    "category": "sueno"
+  },
+  {
+    "id": 2077,
+    "topic": "El alimento más infravalorado para el cerebro",
+    "hook": "Sardinas: omega-3 + B12 + selenio",
+    "key_points": [
+      "Estudio Stonehouse 2013 sobre DHA y memoria",
+      "Sardina pequeña, baja mercurio vs atún",
+      "Omega-3 reduce riesgo Alzheimer 25%",
+      "2 latas/semana cubre necesidades"
+    ],
+    "search_terms": ["sardines can fish", "small fish plate", "anchovies seafood"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2078,
+    "topic": "Cómo evitar el rebote tras una dieta estricta",
+    "hook": "Recupera peso si subes calorías golpe",
+    "key_points": [
+      "Subir 100 kcal cada 1-2 semanas tras dieta",
+      "Estudio Trexler 2014 sobre recuperación post-cut",
+      "Mantén ejercicio fuerza al subir kcal",
+      "Vigila peso semanal, no diario"
+    ],
+    "search_terms": ["weight rebound diet", "scale sad person", "yoyo diet"],
+    "category": "perdida-grasa"
+  },
+  {
+    "id": 2079,
+    "topic": "Por qué la canela ayuda a controlar glucosa",
+    "hook": "1 cucharadita canela baja glucosa 18%",
+    "key_points": [
+      "Estudio Khan 2003 con personas diabéticas",
+      "Canela tipo Ceylán mejor que cassia",
+      "Mejora sensibilidad a insulina",
+      "Añade a yogur, café o avena"
+    ],
+    "search_terms": ["cinnamon stick spice", "cinnamon powder bowl", "spice jar"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2080,
+    "topic": "El error que arruina la calidad de tu agua",
+    "hook": "Botella plástica al sol = micropartículas",
+    "key_points": [
+      "Estudio Environmental Science 2022 sobre PET y calor",
+      "Agua envasada tras 50°C libera plásticos",
+      "Usa cristal o acero inoxidable",
+      "No dejes botellas en coche al sol"
+    ],
+    "search_terms": ["plastic water bottle", "glass bottle clean", "metal water bottle"],
+    "category": "hidratacion"
+  },
+  {
+    "id": 2081,
+    "topic": "Cómo mejorar tu postura sentado en 5 segundos",
+    "hook": "Pies plano + caderas alto: postura ya",
+    "key_points": [
+      "Cadera 5 cm sobre rodillas = espalda neutra",
+      "Estudio O'Sullivan 2010 sobre lumbares",
+      "Pies firmes evitan presión columna",
+      "Pantalla a altura ojos"
+    ],
+    "search_terms": ["correct sitting posture", "office chair person", "ergonomic desk"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 2082,
+    "topic": "Por qué los plátanos verdes son mejores",
+    "hook": "Verde = almidón resistente para microbiota",
+    "key_points": [
+      "Plátano verde tiene 17g almidón resistente",
+      "Estudio Birt 2013 sobre fermentación intestinal",
+      "Madurar pierde almidón resistente",
+      "Verdes en batidos o cocidos sin azúcar"
+    ],
+    "search_terms": ["green banana fruit", "plantain unripe", "yellow banana"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2083,
+    "topic": "El tip secreto del Huberman para despertar",
+    "hook": "Sol antes de móvil: ritmo arreglado",
+    "key_points": [
+      "Stanford Huberman Lab 2021 luz matutina",
+      "Luz natural sincroniza núcleo supraquiasmático",
+      "5-10 min sin gafas oscuras al despertar",
+      "Días nublados también funciona"
+    ],
+    "search_terms": ["morning sunrise face", "person looking sun", "sunlit window"],
+    "category": "sueno"
+  },
+  {
+    "id": 2084,
+    "topic": "Cuánto cuesta realmente comer saludable",
+    "hook": "Dieta sana = 1,50€ más al día",
+    "key_points": [
+      "Estudio BMJ Open 2013 con costes alimentación",
+      "Coste extra solo 1,50€/día por persona",
+      "Legumbres y verduras temporada baratas",
+      "Cocinar en casa baja coste 60%"
+    ],
+    "search_terms": ["healthy food budget", "vegetables market", "lentils beans"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2085,
+    "topic": "Por qué la cerveza no es agua perdida",
+    "hook": "Cerveza no deshidrata si moderada",
+    "key_points": [
+      "Estudio Polkinghorne 2013 sobre cerveza e hidratación",
+      "Hasta 4% alcohol mantiene hidratación parecida",
+      "Más fuerte sí es diurético neto",
+      "Calorías sí cuentan: 150 kcal por caña"
+    ],
+    "search_terms": ["beer glass cold", "cerveza fresh", "summer drink"],
+    "category": "hidratacion"
+  },
+  {
+    "id": 2086,
+    "topic": "El mejor ejercicio para los mayores de 60",
+    "hook": "Sentadillas alargan vida en mayores",
+    "key_points": [
+      "Estudio Brito 2014 sobre fuerza piernas y mortalidad",
+      "Levantarse del suelo predice longevidad",
+      "Sentadilla con silla baja sin manos",
+      "10 al día baja riesgo caídas 40%"
+    ],
+    "search_terms": ["senior squats exercise", "older adult fitness", "elderly workout"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 2087,
+    "topic": "Cómo el arándano protege tu cerebro",
+    "hook": "1 puñado arándanos = +memoria",
+    "key_points": [
+      "Estudio Krikorian 2010 sobre arándanos y cognición",
+      "Antocianinas atraviesan barrera hematoencefálica",
+      "12 semanas mejora memoria episódica",
+      "Frescos o congelados, igual efecto"
+    ],
+    "search_terms": ["blueberries bowl", "fresh berries breakfast", "antioxidants fruit"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2088,
+    "topic": "Por qué las saunas alargan tu vida",
+    "hook": "4 saunas/semana = -40% mortalidad",
+    "key_points": [
+      "Estudio Laukkanen 2015 con 2300 finlandeses",
+      "20 min sauna 4-7 veces/semana",
+      "Mejora función endotelial cardiovascular",
+      "Imita beneficios cardio moderado"
+    ],
+    "search_terms": ["sauna wood interior", "person sauna heat", "finnish sauna"],
+    "category": "metabolismo"
+  },
+  {
+    "id": 2089,
+    "topic": "El mito del calentamiento de 30 min",
+    "hook": "10 min calentamiento basta",
+    "key_points": [
+      "Estudio Fradkin 2010 sobre warm-up óptimo",
+      "5-10 min movimiento dinámico suficiente",
+      "Más tiempo no reduce más lesiones",
+      "Específico al ejercicio principal"
+    ],
+    "search_terms": ["warming up exercise", "stretching dynamic", "athlete preparation"],
+    "category": "mitos"
+  },
+  {
+    "id": 2090,
+    "topic": "Por qué la creatina sirve también a mujeres",
+    "hook": "Creatina no masculiniza, da fuerza",
+    "key_points": [
+      "Meta-análisis Smith-Ryan 2021 sobre creatina mujeres",
+      "Aumenta fuerza 8% sin retención visible",
+      "5g/día seguros sin ciclos",
+      "Mejora cognición y masa magra"
+    ],
+    "search_terms": ["creatine powder scoop", "supplement gym", "fitness powder"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 2091,
+    "topic": "Cómo distinguir hambre real de antojo emocional",
+    "hook": "Test de la manzana descarta antojo",
+    "key_points": [
+      "Si quieres una manzana es hambre real",
+      "Si solo quieres dulce concreto, es antojo emocional",
+      "Estudio Macht 2008 sobre hambre emocional",
+      "Espera 20 min y bebe agua antes de decidir"
+    ],
+    "search_terms": ["apple fruit hand", "thinking food choice", "snack decision"],
+    "category": "habitos"
+  },
+  {
+    "id": 2092,
+    "topic": "El nutriente que el 70% de españoles ignora",
+    "hook": "Vitamina K2 protege huesos y arterias",
+    "key_points": [
+      "Estudio Rotterdam Heart 2004 sobre K2",
+      "Dirige calcio a huesos lejos arterias",
+      "Quesos curados, huevos camperos y natto",
+      "Sinergiza con vitamina D"
+    ],
+    "search_terms": ["aged cheese platter", "egg yolk fresh", "fermented food"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2093,
+    "topic": "Por qué andar antes de desayunar quema más",
+    "hook": "30 min andar ayunas = +20% grasa oxidada",
+    "key_points": [
+      "Glucógeno bajo favorece beta-oxidación",
+      "Estudio Achten 2003 sobre ayuno y grasa",
+      "Solo ligera, no intensa para evitar músculo",
+      "Si haces fuerza, mejor con algo en estómago"
+    ],
+    "search_terms": ["morning walk fasted", "sunrise walking outdoor", "exercise empty stomach"],
+    "category": "perdida-grasa"
+  },
+  {
+    "id": 2094,
+    "topic": "El error con la avena instantánea",
+    "hook": "Avena instantánea = pico glucosa real",
+    "key_points": [
+      "Procesada pierde estructura y baja fibra",
+      "IG instantánea 79 vs avena entera 55",
+      "Estudio AJCN 2017 sobre tipos de avena",
+      "Compra copos enteros, cocínalos 5 min"
+    ],
+    "search_terms": ["instant oatmeal package", "oats raw bowl", "breakfast cereal"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2095,
+    "topic": "Cómo el chocolate negro 85% beneficia el corazón",
+    "hook": "20g chocolate 85% baja presión 4 mmHg",
+    "key_points": [
+      "Meta-análisis Hooper 2012 sobre flavanoles cacao",
+      "Mejora función endotelial",
+      "Reduce LDL oxidado",
+      "Solo 85% o más de cacao"
+    ],
+    "search_terms": ["dark chocolate bar", "cacao nibs", "premium chocolate"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2096,
+    "topic": "Por qué llorar libera estrés acumulado",
+    "hook": "Llorar baja cortisol 30%",
+    "key_points": [
+      "Lágrimas emocionales contienen ACTH",
+      "Estudio Frey 1985 sobre composición lágrimas",
+      "Activa parasimpático tras llanto",
+      "No te avergüences, es función biológica"
+    ],
+    "search_terms": ["person crying emotion", "tears face closeup", "release emotions"],
+    "category": "estres"
+  },
+  {
+    "id": 2097,
+    "topic": "El truco del té verde para perder grasa",
+    "hook": "3 tazas té verde = +100 kcal/día",
+    "key_points": [
+      "Catequinas y EGCG activan termogénesis",
+      "Meta-análisis Hursel 2009 con 11 estudios",
+      "Cafeína suma efecto hasta 4% gasto",
+      "Sin azúcar para no anular beneficio"
+    ],
+    "search_terms": ["green tea cup", "matcha drink", "tea leaves"],
+    "category": "metabolismo"
+  },
+  {
+    "id": 2098,
+    "topic": "Cómo el ejercicio breve mejora tu cerebro",
+    "hook": "5 min cardio = +brain power 2h",
+    "key_points": [
+      "Estudio Hillman 2009 sobre ejercicio agudo",
+      "Aumenta BDNF, factor neurotrófico",
+      "Mejora atención y memoria 30%",
+      "Caminar rápido cuenta también"
+    ],
+    "search_terms": ["short workout brain", "person exercising office", "active break"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 2099,
+    "topic": "Por qué deberías reducir la luz azul de noche",
+    "hook": "2h sin pantallas = +30 min sueño",
+    "key_points": [
+      "Luz azul suprime melatonina hasta 90 min",
+      "Estudio Chang Harvard 2014 sobre eReaders",
+      "Filtros pantalla ayudan parcialmente",
+      "Lectura papel siempre mejor"
+    ],
+    "search_terms": ["phone screen bedtime", "blue light filter", "person reading book"],
+    "category": "sueno"
+  },
+  {
+    "id": 2100,
+    "topic": "El error frecuente con los smoothies verdes",
+    "hook": "Smoothie verde = pico glucosa oculto",
+    "key_points": [
+      "Triturar fruta libera fructosa instantánea",
+      "Estudio Bolton 1981 sobre fruta vs zumo",
+      "Añade proteína y grasa para amortiguar",
+      "Mastica fruta entera mejor"
+    ],
+    "search_terms": ["green smoothie glass", "blender fruits", "vegetable juice"],
+    "category": "mitos"
+  },
+  {
+    "id": 2101,
+    "topic": "Cómo un solo cambio reduce tu riesgo cardiaco",
+    "hook": "30 min/día actividad = -35% infarto",
+    "key_points": [
+      "Estudio Lancet 2017 PURE con 130000 personas",
+      "150 min cardio moderado/semana suficiente",
+      "Reduce todas las causas mortalidad 28%",
+      "Empieza con 10 min y suma"
+    ],
+    "search_terms": ["cardio exercise heart", "person jogging path", "active lifestyle"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 2102,
+    "topic": "Por qué saltar la comida del medio engorda",
+    "hook": "Saltar comida = atracón nocturno",
+    "key_points": [
+      "Hambre acumulada baja autocontrol cena",
+      "Estudio Jakubowicz 2013 sobre desayuno y peso",
+      "Distribuir energía en el día regula apetito",
+      "Si no tienes hambre, come ligero"
+    ],
+    "search_terms": ["empty plate skip meal", "hungry person clock", "fasting kitchen"],
+    "category": "habitos"
+  },
+  {
+    "id": 2103,
+    "topic": "El alimento que mejora tu piel desde dentro",
+    "hook": "Aguacate al día = piel hidratada",
+    "key_points": [
+      "Estudio JAAD 2022 sobre aguacate y piel",
+      "Grasas monoinsaturadas y vitamina E",
+      "Mejora elasticidad cutánea en 8 semanas",
+      "Medio aguacate al día basta"
+    ],
+    "search_terms": ["avocado fresh sliced", "ripe avocado bowl", "healthy fats"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2104,
+    "topic": "Cómo el frío matutino acelera tu metabolismo",
+    "hook": "Ducha fría 2 min = +energía día",
+    "key_points": [
+      "Activa noradrenalina hasta 5 veces más",
+      "Estudio PLoS ONE 2016 con 3000 personas",
+      "Reduce días de baja por enfermedad 29%",
+      "Empieza tibio y termina frío 30 segundos"
+    ],
+    "search_terms": ["cold shower morning", "person bathroom water", "wake up routine"],
+    "category": "metabolismo"
+  },
+  {
+    "id": 2105,
+    "topic": "Por qué la lentitud al comer adelgaza",
+    "hook": "Mastica 30 veces = -15% calorías",
+    "key_points": [
+      "Estudio AJCN 2014 sobre velocidad y saciedad",
+      "Saciedad tarda 20 min en llegar al cerebro",
+      "Suelta cubiertos entre bocados",
+      "Sin pantallas durante comer"
+    ],
+    "search_terms": ["slow eating mindful", "chewing food fork", "mindful meal"],
+    "category": "habitos"
+  },
+  {
+    "id": 2106,
+    "topic": "El mineral que falta a quien hace deporte",
+    "hook": "Magnesio se pierde con sudor",
+    "key_points": [
+      "Sudor expulsa 50-200 mg magnesio/hora",
+      "Estudio Lukaski 2004 atletas y magnesio",
+      "Cacao puro, nueces y espinacas lo aportan",
+      "300-400 mg al día deportistas"
+    ],
+    "search_terms": ["magnesium foods nuts", "sweating athlete towel", "spinach leaves"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2107,
+    "topic": "Cómo el duelo afecta tu sistema inmune",
+    "hook": "Duelo baja inmune 30%",
+    "key_points": [
+      "Estudio Buckley 2012 sobre duelo y citokinas",
+      "Cortisol alto suprime linfocitos",
+      "Aumenta riesgo enfermedades virales 6 meses",
+      "Apoyo social reduce el impacto"
+    ],
+    "search_terms": ["sad person window", "comfort hand support", "grief emotion"],
+    "category": "estres"
+  },
+  {
+    "id": 2108,
+    "topic": "Por qué los abdominales hipopresivos sí funcionan",
+    "hook": "Hipopresivos reducen cintura 8 cm",
+    "key_points": [
+      "Estudio Stüpp 2011 sobre hipopresivos y suelo pélvico",
+      "Trabaja transverso abdominal profundo",
+      "Mejora postura y diástasis posparto",
+      "10 min/día ya da resultados visibles"
+    ],
+    "search_terms": ["abdominal exercise floor", "core workout", "yoga belly breathing"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 2109,
+    "topic": "El mito de tomar mucha vitamina C en resfriados",
+    "hook": "1g vit C apenas mejora resfriado",
+    "key_points": [
+      "Meta-análisis Cochrane 2013 con 29 estudios",
+      "Reduce duración solo 8% adultos",
+      "Más útil para deportistas en frío extremo",
+      "Megadosis no aceleran cura"
+    ],
+    "search_terms": ["vitamin c orange", "supplement pills", "citrus fruits"],
+    "category": "mitos"
+  },
+  {
+    "id": 2110,
+    "topic": "Cómo el ayuno 24h regenera células",
+    "hook": "24h ayuno activa autofagia",
+    "key_points": [
+      "Estudio Mizushima 2008 Nature autofagia",
+      "Cuerpo recicla proteínas dañadas",
+      "Ohsumi ganó Nobel 2016 por autofagia",
+      "1 vez al mes basta para los efectos"
+    ],
+    "search_terms": ["empty plate fasting", "clock 24 hours", "fasting concept"],
+    "category": "ayuno"
+  },
+  {
+    "id": 2111,
+    "topic": "El error con los suplementos multivitamínicos",
+    "hook": "Multivitamínicos no alargan vida",
+    "key_points": [
+      "Estudio Annals Internal Medicine 2013 con 6000 personas",
+      "Sin déficit, no aportan beneficio medible",
+      "Mejor invertir en comida real",
+      "Suplementa solo lo deficitario"
+    ],
+    "search_terms": ["multivitamin pills", "supplement bottle", "vitamin variety"],
+    "category": "mitos"
+  },
+  {
+    "id": 2112,
+    "topic": "Por qué entrenar 2 días/semana ya funciona",
+    "hook": "2 días fuerza = 80% del progreso",
+    "key_points": [
+      "Estudio Schoenfeld 2017 sobre frecuencia",
+      "Volumen total importa más que frecuencia",
+      "Día 1 cuerpo entero + día 2 igual funciona",
+      "Más días = solo 20% extra"
+    ],
+    "search_terms": ["minimal gym workout", "two day routine", "weekend fitness"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 2113,
+    "topic": "Cómo el limón en agua tibia despierta intestino",
+    "hook": "Limón tibio = motilidad intestinal +",
+    "key_points": [
+      "Cítrico activa peristalsis matutina",
+      "Estudio Universidad Mahidol 2019",
+      "Hidrata tras 8h de ayuno nocturno",
+      "Bebe antes del desayuno"
+    ],
+    "search_terms": ["lemon warm water glass", "morning detox drink", "citrus water"],
+    "category": "habitos"
+  },
+  {
+    "id": 2114,
+    "topic": "El truco para evitar atracones nocturnos",
+    "hook": "Cena rica en proteína = sin antojos",
+    "key_points": [
+      "30g proteína cena baja grelin nocturno",
+      "Estudio Leidy 2010 sobre cenas y apetito",
+      "Calma sistema mesolímbico de recompensa",
+      "Pollo, pescado o tofu funcionan igual"
+    ],
+    "search_terms": ["protein dinner plate", "evening healthy meal", "salmon vegetables"],
+    "category": "perdida-grasa"
+  },
+  {
+    "id": 2115,
+    "topic": "Por qué la fascia importa para verte joven",
+    "hook": "Fascia rígida envejece tu cuerpo",
+    "key_points": [
+      "Tejido conectivo se deshidrata con sedentarismo",
+      "Estudio Schleip 2019 sobre fascia y envejecimiento",
+      "Movilidad diaria 10 min mantiene elástica",
+      "Foam roller y yoga ayudan a hidratarla"
+    ],
+    "search_terms": ["foam roller stretch", "fascia massage", "mobility workout"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 2116,
+    "topic": "Cómo respirar por la nariz mejora tu rendimiento",
+    "hook": "Nariz = +20% oxigenación que boca",
+    "key_points": [
+      "Óxido nítrico nasal vasodilata pulmones",
+      "Estudio Lundberg 1996 NO en respiración nasal",
+      "Filtra y calienta aire entrante",
+      "Practica al andar, después al correr"
+    ],
+    "search_terms": ["nose breathing exercise", "running outdoor breathing", "person inhale"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 2117,
+    "topic": "El mito de los kilos que se ganan en navidades",
+    "hook": "Navidad = 0,4 kg, no 5 kg",
+    "key_points": [
+      "Estudio NEJM 2016 sobre festividades y peso",
+      "Promedio gana 400-500g, no 5 kg",
+      "Lo malo es no perderlos después",
+      "Vuelve a tu rutina el día 7 enero"
+    ],
+    "search_terms": ["holiday food table", "christmas dinner", "festive meal"],
+    "category": "mitos"
+  },
+  {
+    "id": 2118,
+    "topic": "Por qué bajar tu temperatura nocturna ayuda dormir",
+    "hook": "18-20°C habitación = sueño profundo",
+    "key_points": [
+      "Bajada temperatura central inicia sueño",
+      "Estudio Okamoto-Mizuno 2012 sobre temperatura",
+      "Más de 22°C reduce REM y N3",
+      "Ducha tibia 1h antes baja core temp"
+    ],
+    "search_terms": ["bedroom thermostat cool", "cozy bed night", "sleep environment"],
+    "category": "sueno"
+  },
+  {
+    "id": 2119,
+    "topic": "El alimento que reduce el dolor menstrual",
+    "hook": "Jengibre = ibuprofeno menstrual",
+    "key_points": [
+      "Estudio Rahnama 2012 sobre jengibre y dismenorrea",
+      "Eficacia comparable a ibuprofeno 400mg",
+      "1g/día desde 2 días antes",
+      "Té de jengibre fresco 3 veces día"
+    ],
+    "search_terms": ["ginger root tea", "fresh ginger sliced", "herbal tea cup"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2120,
+    "topic": "Cómo entrenar fuerza si tienes más de 50",
+    "hook": "Fuerza tras 50 = músculo recuperable",
+    "key_points": [
+      "Estudio Fiatarone 1990 con 90 años en residencia",
+      "Ganaron fuerza 174% en 8 semanas",
+      "Empieza con peso corporal y máquinas",
+      "Progresión lenta evita lesiones"
+    ],
+    "search_terms": ["older adult weights", "senior gym training", "elderly fitness"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 2121,
+    "topic": "Por qué el cacao puro mejora tu humor",
+    "hook": "10g cacao = serotonina arriba",
+    "key_points": [
+      "Cacao tiene anandamida y feniletilamina",
+      "Estudio Massolt 2010 sobre cacao y mood",
+      "Mejora flujo sanguíneo cerebral",
+      "Sin azúcar, en avena o yogur"
+    ],
+    "search_terms": ["cocoa powder dark", "raw cacao nibs", "chocolate raw"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2122,
+    "topic": "El truco médico para bajar la presión rápido",
+    "hook": "Caminar 10 min baja presión 5 mmHg",
+    "key_points": [
+      "Estudio Ciolac 2011 sobre caminar y presión",
+      "Efecto agudo dura 22h post-caminata",
+      "3 sesiones 10 min mejor que 30 min seguidos",
+      "Mejor que medicación ligera para muchos"
+    ],
+    "search_terms": ["walking park healthy", "blood pressure measure", "active walk"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 2123,
+    "topic": "Por qué tu pis te dice si estás bien hidratado",
+    "hook": "Pis paja claro = bien hidratado",
+    "key_points": [
+      "Escala color orina 1-8 (Armstrong 1994)",
+      "Pis amarillo medio: bebe más agua",
+      "Demasiado claro: posible exceso agua",
+      "Mira tras orinar en mañana"
+    ],
+    "search_terms": ["water hydration glass", "drinking water bottle", "clear water"],
+    "category": "hidratacion"
+  },
+  {
+    "id": 2124,
+    "topic": "Cómo el tomate cocinado supera al crudo",
+    "hook": "Tomate cocido = 4x más licopeno",
+    "key_points": [
+      "Calor rompe paredes celulares y libera licopeno",
+      "Estudio JNCI 1999 sobre licopeno y próstata",
+      "Aceite oliva mejora absorción 5 veces",
+      "Salsa casera es la fórmula ideal"
+    ],
+    "search_terms": ["tomato sauce pan", "cooked tomatoes red", "italian tomato"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2125,
+    "topic": "El mito sobre la grasa saturada",
+    "hook": "Grasa saturada no causa infarto",
+    "key_points": [
+      "Meta-análisis Siri-Tarino 2010 con 347000 personas",
+      "Sin asociación clara con eventos cardiovasculares",
+      "Importa contexto y origen alimentos",
+      "Calidad de carbohidratos importa más"
+    ],
+    "search_terms": ["saturated fat butter", "meat plate dinner", "dairy products"],
+    "category": "mitos"
+  },
+  {
+    "id": 2126,
+    "topic": "Cómo reducir grasa visceral sin hacer dieta",
+    "hook": "Sueño + estrés = clave grasa visceral",
+    "key_points": [
+      "Cortisol crónico almacena grasa abdominal",
+      "Estudio Hairston 2010 sobre sueño y visceral",
+      "Dormir <5h sube 32% grasa visceral",
+      "Meditación 10 min/día reduce cortisol"
+    ],
+    "search_terms": ["belly waist measure", "abdominal fat", "person waist"],
+    "category": "perdida-grasa"
+  },
+  {
+    "id": 2127,
+    "topic": "Por qué la vitamina D no se absorbe sin grasa",
+    "hook": "Vit D sin grasa = inutil",
+    "key_points": [
+      "Vitamina liposoluble necesita lípidos para absorción",
+      "Estudio Mulligan 2010 sobre absorción D3",
+      "Tómala en comida principal con grasa",
+      "Aceite oliva, aguacate o yema huevo"
+    ],
+    "search_terms": ["vitamin d capsule", "supplement with food", "olive oil meal"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2128,
+    "topic": "El consejo del dentista para tu microbiota",
+    "hook": "Boca = puerta microbiota intestinal",
+    "key_points": [
+      "Bacterias orales colonizan intestino",
+      "Estudio Atarashi 2017 Science sobre boca-intestino",
+      "Cepilla con interdental antes que pasta",
+      "Periodontitis aumenta inflamación sistémica"
+    ],
+    "search_terms": ["toothbrush dental hygiene", "mouth health", "oral care"],
+    "category": "habitos"
+  },
+  {
+    "id": 2129,
+    "topic": "Cómo dejar de consumir azúcar sin sufrir",
+    "hook": "Reduce 25% cada 2 semanas",
+    "key_points": [
+      "Reducción gradual evita ansiedad",
+      "Estudio Mattes 1993 sobre adaptación gusto",
+      "En 8-12 semanas paladar se reajusta",
+      "Sustituir por fruta y proteína al inicio"
+    ],
+    "search_terms": ["sugar reduction diet", "no sugar life", "healthy alternatives"],
+    "category": "habitos"
+  },
+  {
+    "id": 2130,
+    "topic": "Por qué entrenar igual sirve por la mañana o tarde",
+    "hook": "Hora del gym no cambia resultados",
+    "key_points": [
+      "Meta-análisis Schumacher 2020 sobre cronotipo",
+      "Resultados igual mañana o tarde si constante",
+      "Tarde tienes 5% más fuerza media",
+      "Mejor cuando puedas mantenerlo"
+    ],
+    "search_terms": ["gym workout time", "morning evening fitness", "training schedule"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 2131,
+    "topic": "El error con los frutos secos light",
+    "hook": "Frutos secos light = sin nada bueno",
+    "key_points": [
+      "Quitarles grasa elimina fitoquímicos",
+      "Sodio extra para compensar sabor",
+      "Estudio AHA 2018 sobre frutos secos integrales",
+      "Mejor naturales tostados sin sal"
+    ],
+    "search_terms": ["nuts package light", "almonds plain", "salted nuts"],
+    "category": "mitos"
+  },
+  {
+    "id": 2132,
+    "topic": "Cómo el pan integral reduce diabetes 30%",
+    "hook": "Integral baja 30% diabetes tipo 2",
+    "key_points": [
+      "Estudio Nurses' Health Harvard 2007",
+      "Fibra integral mejora sensibilidad insulina",
+      "70g/día reduce riesgo significativamente",
+      "Lee etiqueta: harina integral 100% primer ingrediente"
+    ],
+    "search_terms": ["whole grain bread", "wholewheat loaf", "fiber bread"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2133,
+    "topic": "Por qué tu cuerpo necesita un día de descanso",
+    "hook": "Descanso = +30% ganancia músculo",
+    "key_points": [
+      "Síntesis muscular ocurre en reposo",
+      "Estudio Schoenfeld 2017 sobre supercompensación",
+      "Sin descanso baja rendimiento y sube cortisol",
+      "1 día completo libre por semana mínimo"
+    ],
+    "search_terms": ["rest day relax", "person sofa book", "recovery sleep"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 2134,
+    "topic": "El alimento que neutraliza la inflamación",
+    "hook": "Cúrcuma + pimienta = anti-inflamación real",
+    "key_points": [
+      "Curcumina activa antiinflamatorio si biodisponible",
+      "Pimienta negra aumenta absorción 2000% (Shoba 1998)",
+      "Estudio Daily 2016 sobre curcumina y artritis",
+      "1 cucharadita con grasa y pimienta"
+    ],
+    "search_terms": ["turmeric powder spice", "golden milk drink", "yellow spice bowl"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2135,
+    "topic": "Cómo el ruido nocturno engorda en silencio",
+    "hook": "Ruido <40 dB = sueño peor y peso +",
+    "key_points": [
+      "Estudio Eze 2018 sobre ruido nocturno",
+      "Tráfico crónico aumenta IMC en 5 años",
+      "Activa sistema simpático en sueño",
+      "Tapones o ruido blanco mejoran calidad"
+    ],
+    "search_terms": ["bedroom quiet sleep", "earplugs sleeping", "city noise"],
+    "category": "sueno"
+  },
+  {
+    "id": 2136,
+    "topic": "Por qué el desayuno bajo en carbo te hace cuesta arriba",
+    "hook": "Solo proteína desayuno = sin energía",
+    "key_points": [
+      "Cerebro consume glucosa preferentemente",
+      "Estudio Krug 2010 sobre cognición y glucosa",
+      "Combina carbohidrato bueno + proteína + grasa",
+      "Avena con yogur y frutos secos ideal"
+    ],
+    "search_terms": ["balanced breakfast plate", "oats yogurt nuts", "morning meal balanced"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2137,
+    "topic": "Cómo el frío facial despierta más que café",
+    "hook": "Hielo en cara = energía 10 min",
+    "key_points": [
+      "Activa reflejo de inmersión mamífero",
+      "Baja frecuencia cardiaca y reactiva foco",
+      "Estudio Khurana 2014 sobre reflejo trigeminal",
+      "5 segundos cara en agua fría al despertar"
+    ],
+    "search_terms": ["cold water face", "ice bowl wash", "morning splash"],
+    "category": "habitos"
+  },
+  {
+    "id": 2138,
+    "topic": "El error con el desayuno sin proteína",
+    "hook": "Cereal solo = hambre 2h después",
+    "key_points": [
+      "Carbohidratos sin proteína = pico-bajón glucosa",
+      "Estudio Leidy 2013 sobre proteína desayuno",
+      "20-30g proteína al despertar regula apetito",
+      "Añade huevos, yogur o tofu al cereal"
+    ],
+    "search_terms": ["cereal milk bowl", "sugary breakfast", "kids cereal"],
+    "category": "habitos"
+  },
+  {
+    "id": 2139,
+    "topic": "Por qué dormir poco arruina tu inmunidad",
+    "hook": "<6h sueño = 3x más resfriados",
+    "key_points": [
+      "Estudio Prather 2015 con 164 personas",
+      "Inoculados con rinovirus y monitorizados",
+      "Dormir <6h triplicó riesgo enfermar",
+      "Sueño regular vacuna natural"
+    ],
+    "search_terms": ["sick person tissue", "tired immune", "person flu"],
+    "category": "sueno"
+  },
+  {
+    "id": 2140,
+    "topic": "Cómo el bostezo regula tu cerebro",
+    "hook": "Bostezar enfría el cerebro 0.5°C",
+    "key_points": [
+      "Estudio Gallup 2007 sobre termorregulación cerebral",
+      "Reactiva atención cuando bajas alerta",
+      "Más bostezos en momentos críticos",
+      "No siempre indica sueño, puede ser foco"
+    ],
+    "search_terms": ["yawning person", "tired mouth open", "sleepy face"],
+    "category": "habitos"
+  },
+  {
+    "id": 2141,
+    "topic": "El alimento sospechoso que sí ayuda",
+    "hook": "Mantequilla pasto > margarina industrial",
+    "key_points": [
+      "Mantequilla de animales pasto rica K2 y CLA",
+      "Estudio Hodgson 1992 grasas trans margarina",
+      "Margarina hidrogenada eleva LDL malo",
+      "Modera mantequilla normal, cero trans"
+    ],
+    "search_terms": ["butter slab dairy", "grass fed butter", "dairy cream"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2142,
+    "topic": "Por qué los abrazos bajan la presión arterial",
+    "hook": "20s abrazo = oxitocina + presión baja",
+    "key_points": [
+      "Estudio UNC 2003 sobre abrazos y oxitocina",
+      "20 segundos basta para liberación",
+      "Reduce cortisol y mejora vínculo",
+      "Practica con familia o pareja diario"
+    ],
+    "search_terms": ["hugging couple", "warm embrace", "people hugging"],
+    "category": "estres"
+  },
+  {
+    "id": 2143,
+    "topic": "Cómo el ayuno 12:12 ya da beneficios",
+    "hook": "12h sin comer = autofagia ligera",
+    "key_points": [
+      "Cena 20h, desayuno 8h = 12h ayuno",
+      "Estudio Manoogian 2017 sobre ventana corta",
+      "Mejora marcadores cardiovasculares",
+      "Más sostenible que 16:8 al inicio"
+    ],
+    "search_terms": ["clock fasting hours", "kitchen empty night", "morning meal"],
+    "category": "ayuno"
+  },
+  {
+    "id": 2144,
+    "topic": "El truco postura para hablar con confianza",
+    "hook": "2 min postura poder = +20% confianza",
+    "key_points": [
+      "Estudio Cuddy Harvard 2010 power poses",
+      "Postura abierta sube testosterona y baja cortisol",
+      "Brazos en jarra o V de victoria 2 min",
+      "Antes de presentación o entrevista"
+    ],
+    "search_terms": ["confident posture person", "power pose stance", "successful body"],
+    "category": "estres"
+  },
+  {
+    "id": 2145,
+    "topic": "Por qué ducharte caliente daña tu piel",
+    "hook": "Ducha caliente >5 min reseca piel",
+    "key_points": [
+      "Agua caliente disuelve manto lipídico",
+      "Estudio Tagami 2008 sobre temperatura y piel",
+      "Tibia 5-10 min mejor para barrera cutánea",
+      "Hidrata cuerpo en 3 min tras secar"
+    ],
+    "search_terms": ["hot shower steam", "warm bathroom water", "person showering"],
+    "category": "habitos"
+  },
+  {
+    "id": 2146,
+    "topic": "Cómo el huevo entero supera a la clara sola",
+    "hook": "Yema entera = 40% más músculo",
+    "key_points": [
+      "Estudio van Vliet 2017 sobre huevo entero vs clara",
+      "Yema aporta colina, B12 y nutrientes",
+      "Síntesis proteica 40% mayor con yema",
+      "No tires la yema sin razón"
+    ],
+    "search_terms": ["whole eggs cracked", "egg yolk yellow", "scrambled eggs plate"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2147,
+    "topic": "Por qué la sed llega tarde",
+    "hook": "Sed = 2% deshidratado ya",
+    "key_points": [
+      "Estudio Cheuvront 2014 sobre umbrales sed",
+      "Bebe antes de tener sed durante el día",
+      "Pierdes 1L de agua por hora calor extremo",
+      "Lleva botella reusable contigo"
+    ],
+    "search_terms": ["thirsty person water", "drink water glass", "dehydrated workout"],
+    "category": "hidratacion"
+  },
+  {
+    "id": 2148,
+    "topic": "Cómo el ejercicio durante regla regula ciclo",
+    "hook": "Cardio en regla = -dolor menstrual",
+    "key_points": [
+      "Estudio Daley 2008 sobre ejercicio y dismenorrea",
+      "Endorfinas alivian cólicos",
+      "Mejora circulación pélvica",
+      "Camina o yoga suave en días dolorosos"
+    ],
+    "search_terms": ["woman yoga gentle", "light exercise woman", "pilates floor"],
+    "category": "hormonas"
+  },
+  {
+    "id": 2149,
+    "topic": "El mito sobre las dietas milagro virales",
+    "hook": "Dieta viral = 95% rebote a 1 año",
+    "key_points": [
+      "Estudio Tomiyama 2007 sobre dietas restrictivas",
+      "Restricción extrema sube cortisol y rebote",
+      "95% recupera peso o más",
+      "Sostenibilidad importa más que rapidez"
+    ],
+    "search_terms": ["fad diet plate", "trendy food restrict", "diet challenge"],
+    "category": "mitos"
+  },
+  {
+    "id": 2150,
+    "topic": "Por qué levantar peso muerto cambia tu vida",
+    "hook": "Peso muerto = ejercicio rey total",
+    "key_points": [
+      "Activa más músculos en cadena posterior",
+      "Estudio Hibbs 2008 sobre core y peso muerto",
+      "Mejora postura y previene dolor lumbar",
+      "Empieza con barra ligera y técnica"
+    ],
+    "search_terms": ["deadlift gym lift", "barbell heavy weight", "strength deadlift"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 2151,
+    "topic": "Cómo el tofu aporta calcio sin lácteos",
+    "hook": "Tofu firme = calcio + proteína",
+    "key_points": [
+      "Tofu coagulado con calcio sulfato 350 mg/100g",
+      "Estudio Weaver 2013 sobre absorción calcio vegetal",
+      "Absorción calcio similar a leche",
+      "Versión con calcio en etiqueta"
+    ],
+    "search_terms": ["tofu cubes plate", "soy food vegetarian", "plant protein"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2152,
+    "topic": "El ritual nocturno que transforma tu sueño",
+    "hook": "Misma hora dormir = sueño profundo +20%",
+    "key_points": [
+      "Estudio JCSM 2018 sobre regularidad sueño",
+      "Constancia importa más que cantidad",
+      "Reloj biológico sincroniza con repetición",
+      "Margen máximo 30 min de variación"
+    ],
+    "search_terms": ["bedtime routine night", "person going bed", "evening relax"],
+    "category": "habitos"
+  },
+  {
+    "id": 2153,
+    "topic": "Por qué las sopas de hueso son sobrevaloradas",
+    "hook": "Caldo de hueso = colágeno mínimo",
+    "key_points": [
+      "Estudio Roschel 2019 sobre colágeno hidrolizado",
+      "Mejor suplemento que caldo casero",
+      "Caldo aporta minerales pero poco colágeno útil",
+      "Toma proteína completa diaria mejor"
+    ],
+    "search_terms": ["bone broth pot", "soup steam", "broth bowl"],
+    "category": "mitos"
+  },
+  {
+    "id": 2154,
+    "topic": "Cómo la nicotina sin tabaco arruina arterias",
+    "hook": "Vapeo = arterias rígidas también",
+    "key_points": [
+      "Estudio AHA 2019 sobre vapeo y endotelio",
+      "Nicotina vasoconstrictor independiente humo",
+      "Riesgo cardiaco elevado vs no fumadores",
+      "Ningún vapeo es seguro"
+    ],
+    "search_terms": ["vaping device person", "vape clouds", "electronic cigarette"],
+    "category": "habitos"
+  },
+  {
+    "id": 2155,
+    "topic": "El alimento que reduce alergias estacionales",
+    "hook": "Yogur natural = -33% rinitis alérgica",
+    "key_points": [
+      "Estudio JACI 2014 sobre probióticos y alergia",
+      "Cepas Lactobacillus reducen IgE",
+      "Yogur sin azúcar diario",
+      "Dura 6-12 semanas para efecto"
+    ],
+    "search_terms": ["yogurt natural bowl", "probiotic dairy", "fermented dairy"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2156,
+    "topic": "Por qué entrenar con dolor leve está bien",
+    "hook": "Dolor 1-3 escala = sigue entrenando",
+    "key_points": [
+      "Estudio Smith 2017 sobre dolor y ejercicio",
+      "Movilidad alivia dolor crónico no agudo",
+      "Reposo total atrofia y empeora",
+      "Si dolor sube en escala, para"
+    ],
+    "search_terms": ["sore muscle workout", "rehab exercise", "person stretching pain"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 2157,
+    "topic": "Cómo el tiempo en pantalla daña tu vista",
+    "hook": "Regla 20-20-20 salva tus ojos",
+    "key_points": [
+      "Cada 20 min mira 20 segundos a 6m",
+      "Estudio Sheppard 2018 sobre fatiga digital",
+      "Reduce sequedad y miopía progresiva",
+      "Usa luz ambiental, no solo pantalla"
+    ],
+    "search_terms": ["screen eye strain", "person computer screen", "tired eyes"],
+    "category": "habitos"
+  },
+  {
+    "id": 2158,
+    "topic": "El error con suplementos de colágeno",
+    "hook": "Colágeno solo no funciona, falta C",
+    "key_points": [
+      "Necesita vitamina C para sintetizarse",
+      "Estudio Shaw 2017 sobre colágeno + C deportistas",
+      "10g colágeno + 50 mg vit C",
+      "Tómalo 30 min antes de entrenar"
+    ],
+    "search_terms": ["collagen powder scoop", "supplement vitamin", "skin supplements"],
+    "category": "mitos"
+  },
+  {
+    "id": 2159,
+    "topic": "Por qué el burpee es el ejercicio más completo",
+    "hook": "10 burpees = sentadilla + flexión + cardio",
+    "key_points": [
+      "Activa 80% musculatura corporal",
+      "Estudio Gist 2014 sobre burpees y EPOC",
+      "10 min/día equivale a 30 min cardio moderado",
+      "Empieza con 5 y sube semanalmente"
+    ],
+    "search_terms": ["burpee workout floor", "intense exercise jump", "high intensity"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 2160,
+    "topic": "Cómo la luz roja al atardecer prepara sueño",
+    "hook": "Luz cálida noche = melatonina arriba",
+    "key_points": [
+      "Luz <500 nm suprime melatonina",
+      "Estudio West 2011 sobre longitud de onda y sueño",
+      "Bombillas cálidas tras 19h",
+      "Ámbar o roja en habitación 1h antes"
+    ],
+    "search_terms": ["warm light bedroom", "amber light night", "candle lit room"],
+    "category": "sueno"
+  },
+  {
+    "id": 2161,
+    "topic": "El mineral oculto que regula presión arterial",
+    "hook": "Potasio baja presión más que sal subir",
+    "key_points": [
+      "OMS recomienda 3500 mg potasio/día",
+      "Estudio Aburto 2013 BMJ sobre potasio",
+      "Ratio sodio:potasio importa más que sodio solo",
+      "Plátano, patata, espinaca y aguacate ricos"
+    ],
+    "search_terms": ["potassium foods banana", "spinach potato", "avocado healthy"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2162,
+    "topic": "Por qué tomar agua salada al despertar despierta",
+    "hook": "Pellizco sal en agua = electrolitos AM",
+    "key_points": [
+      "Repone sodio perdido en sueño",
+      "Estudio Hew-Butler 2008 sobre sodio matutino",
+      "Activa cortisol y energía mañana",
+      "Sal sin refinar, no de mesa procesada"
+    ],
+    "search_terms": ["salt water glass", "morning hydration", "electrolytes"],
+    "category": "hidratacion"
+  },
+  {
+    "id": 2163,
+    "topic": "Cómo el ejercicio nocturno no daña sueño",
+    "hook": "Gym tarde no afecta sueño",
+    "key_points": [
+      "Meta-análisis Stutz 2019 con 23 estudios",
+      "Acabar 1h antes de dormir es seguro",
+      "Mejora calidad sueño en deportistas",
+      "Solo HIIT extremo 30 min antes molesta"
+    ],
+    "search_terms": ["evening gym workout", "night fitness", "late workout"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 2164,
+    "topic": "El alimento que mejora memoria a largo plazo",
+    "hook": "Aceite de oliva = +memoria 10 años",
+    "key_points": [
+      "Estudio PREDIMED-NAVARRA 2013",
+      "Polifenoles oliva protegen neuronas",
+      "Reduce 35% deterioro cognitivo",
+      "30g/día sustituyendo otras grasas"
+    ],
+    "search_terms": ["olive oil bottle pour", "mediterranean dish", "extra virgin oil"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2165,
+    "topic": "Por qué la fibra soluble baja colesterol",
+    "hook": "Avena diaria = -10% LDL",
+    "key_points": [
+      "Beta-glucano avena se une a sales biliares",
+      "Estudio FDA aprueba claim cardiovascular",
+      "3g/día reduce LDL significativamente",
+      "Avena entera, no instantánea"
+    ],
+    "search_terms": ["oatmeal bowl healthy", "porridge breakfast", "oats raw"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2166,
+    "topic": "Cómo dejar el café sin sufrir 3 días",
+    "hook": "Reduce cafeína 25% cada 4 días",
+    "key_points": [
+      "Síndrome abstinencia 24-48h",
+      "Estudio Juliano 2004 sobre dependencia cafeína",
+      "Mezcla descafeinado con normal progresivamente",
+      "En 2 semanas sin abstinencia"
+    ],
+    "search_terms": ["coffee cup empty", "decaf alternative", "tea instead coffee"],
+    "category": "habitos"
+  },
+  {
+    "id": 2167,
+    "topic": "El truco con el agua antes de comer",
+    "hook": "500ml agua 30 min antes = -30% comida",
+    "key_points": [
+      "Estudio Dennis 2010 con personas obesas",
+      "Distensión gástrica reduce ingesta",
+      "Solo agua, no zumos ni refrescos",
+      "Eficaz mayores 35 años especialmente"
+    ],
+    "search_terms": ["water glass before meal", "drinking water table", "hydration meal"],
+    "category": "perdida-grasa"
+  },
+  {
+    "id": 2168,
+    "topic": "Por qué deberías sustituir refrescos por agua con gas",
+    "hook": "Agua con gas = 0 azúcar, mismo gas",
+    "key_points": [
+      "Sin acidez añadida ni edulcorantes",
+      "Estudio Cuomo 2002 sobre agua carbonatada",
+      "No daña esmalte si sin sabor agregado",
+      "Limón fresco para sabor natural"
+    ],
+    "search_terms": ["sparkling water glass", "carbonated drink", "lemon water"],
+    "category": "hidratacion"
+  },
+  {
+    "id": 2169,
+    "topic": "Cómo el chia hidratado reduce hambre",
+    "hook": "Chia + agua = saciedad 4h",
+    "key_points": [
+      "Absorbe 12 veces su peso en agua",
+      "Estudio Vuksan 2017 sobre chía y saciedad",
+      "Forma gel que distiende estómago",
+      "1 cucharada en agua 15 min antes comida"
+    ],
+    "search_terms": ["chia seeds soaked", "chia pudding glass", "seeds water gel"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2170,
+    "topic": "El mito sobre las verduras congeladas",
+    "hook": "Congeladas = igual o más nutrientes",
+    "key_points": [
+      "Estudio UC Davis 2017 sobre congelados vs frescos",
+      "Se congelan en pico nutricional",
+      "Frescas pierden vitaminas en transporte",
+      "Más baratas y prácticas"
+    ],
+    "search_terms": ["frozen vegetables bag", "freezer healthy food", "veggies frozen"],
+    "category": "mitos"
+  },
+  {
+    "id": 2171,
+    "topic": "Por qué el potasio importa más que el sodio",
+    "hook": "Ratio potasio:sodio = clave presión",
+    "key_points": [
+      "Ratio ideal 2:1 a favor potasio",
+      "Estudio NHANES 2011 sobre presión arterial",
+      "Mayoría tiene ratio invertido",
+      "Más vegetales y menos procesados arregla"
+    ],
+    "search_terms": ["potassium foods variety", "fresh vegetables", "leafy greens"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2172,
+    "topic": "Cómo levantarte rápido del suelo predice longevidad",
+    "hook": "Levántate sin manos = +longevidad",
+    "key_points": [
+      "Test SRT (Sentado-Levantado) Brasil 2014",
+      "Cada punto perdido sube 21% mortalidad 6 años",
+      "Mide fuerza, equilibrio y flexibilidad",
+      "Practica al ver tele desde el suelo"
+    ],
+    "search_terms": ["person getting up floor", "mobility test", "functional movement"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 2173,
+    "topic": "El error con los desayunos de proteína",
+    "hook": "Solo proteína = sin energía sostenida",
+    "key_points": [
+      "Glucosa cerebro necesita carbo bueno",
+      "Estudio Krug 2010 sobre cognición",
+      "Combina proteína + carbo + grasa",
+      "Avena + huevos + aceite oliva ideal"
+    ],
+    "search_terms": ["balanced breakfast plate", "morning meal complete", "healthy combo"],
+    "category": "habitos"
+  },
+  {
+    "id": 2174,
+    "topic": "Por qué el sauna seca y baja inflamación",
+    "hook": "Sauna 4x/sem = -50% Alzheimer",
+    "key_points": [
+      "Estudio Laukkanen 2017 sobre sauna y Alzheimer",
+      "Activa proteínas heat shock protectoras",
+      "Mejora función cardiovascular",
+      "20 min a 80°C 4 veces/semana"
+    ],
+    "search_terms": ["finnish sauna wood", "sauna stones heat", "person sauna relax"],
+    "category": "estres"
+  },
+  {
+    "id": 2175,
+    "topic": "Cómo la postura en silla previene dolor lumbar",
+    "hook": "Espalda apoyada 90° = -dolor lumbar",
+    "key_points": [
+      "Ángulo 90-110° entre tronco y pierna",
+      "Estudio Hedge 2003 sobre ergonomía",
+      "Pies apoyados al suelo siempre",
+      "Pausa cada 30 min para moverte"
+    ],
+    "search_terms": ["ergonomic office chair", "correct posture sitting", "back support"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 2176,
+    "topic": "El alimento que reduce migrañas",
+    "hook": "Magnesio = -50% migrañas frecuentes",
+    "key_points": [
+      "Estudio Peikert 1996 sobre magnesio y migraña",
+      "600 mg/día reduce frecuencia",
+      "Citrato de magnesio mejor absorbido",
+      "Alimentos: cacao, espinacas, frutos secos"
+    ],
+    "search_terms": ["magnesium foods nuts", "headache relief person", "spinach raw"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2177,
+    "topic": "Por qué tu zona horaria importa para metabolismo",
+    "hook": "Comer tarde = metabolismo lento",
+    "key_points": [
+      "Estudio Garaulet 2013 sobre horario comida",
+      "Comer tras 15h baja pérdida grasa",
+      "Adelantar comida principal mejora resultados",
+      "Cena ligera y temprano"
+    ],
+    "search_terms": ["clock meal time", "early dinner meal", "schedule eating"],
+    "category": "metabolismo"
+  },
+  {
+    "id": 2178,
+    "topic": "Cómo el equilibrio mejora con un truco diario",
+    "hook": "Pie flamenco al cepillarte = equilibrio +",
+    "key_points": [
+      "30s en una pierna entrena propiocepción",
+      "Estudio Granacher 2011 sobre equilibrio mayor",
+      "Reduce riesgo caídas 50% en mayores",
+      "Empieza apoyado, luego sin manos"
+    ],
+    "search_terms": ["person standing one leg", "balance pose", "yoga single leg"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 2179,
+    "topic": "El mito de que la sandía hidrata mucho",
+    "hook": "Sandía 92% agua, baja hidratación neta",
+    "key_points": [
+      "Necesitas 1L de agua para igual hidratación",
+      "Aporta nutrientes pero baja saciedad",
+      "Estudio Jeon 2014 sobre frutas e hidratación",
+      "Combina con proteína para regular glucosa"
+    ],
+    "search_terms": ["watermelon slice fresh", "summer fruit", "fresh hydration fruit"],
+    "category": "mitos"
+  },
+  {
+    "id": 2180,
+    "topic": "Por qué entrenar al fallo no es necesario",
+    "hook": "RIR 2 = igual de músculo que fallo",
+    "key_points": [
+      "Estudio Helms 2018 sobre RIR (reps en reserva)",
+      "Dejar 2 reps de fallo iguala ganancia",
+      "Reduce fatiga y riesgo lesión",
+      "Más sostenible a largo plazo"
+    ],
+    "search_terms": ["lifting weight effort", "gym training intensity", "person exercising"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 2181,
+    "topic": "Cómo el ejercicio mejora la libido",
+    "hook": "150 min/sem cardio = +33% libido",
+    "key_points": [
+      "Estudio Hamilton 2008 sobre ejercicio y libido",
+      "Mejora flujo sanguíneo y testosterona",
+      "Reduce estrés y cortisol",
+      "Combinado fuerza eleva más hormonas"
+    ],
+    "search_terms": ["couple healthy active", "fitness lifestyle", "wellness people"],
+    "category": "hormonas"
+  },
+  {
+    "id": 2182,
+    "topic": "El error con los refrescos zero",
+    "hook": "Zero altera microbiota igual",
+    "key_points": [
+      "Estudio Nature 2014 sobre edulcorantes",
+      "Sucralosa y aspartamo cambian flora intestinal",
+      "Pueden aumentar resistencia insulina",
+      "Mejor agua o té sin endulzar"
+    ],
+    "search_terms": ["zero sugar soda", "diet soft drink", "low calorie drink"],
+    "category": "mitos"
+  },
+  {
+    "id": 2183,
+    "topic": "Por qué deberías cenar verduras fermentadas",
+    "hook": "Chucrut cena = mejor digestión nocturna",
+    "key_points": [
+      "Probióticos mejoran microbiota intestinal",
+      "Estudio Chen 2014 sobre lacto-fermentados",
+      "Mejora absorción minerales",
+      "Inclúyelo crudo, no recalentado"
+    ],
+    "search_terms": ["sauerkraut fermented food", "kimchi cabbage", "pickles jar"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2184,
+    "topic": "Cómo el agua tibia mejora digestión matutina",
+    "hook": "Agua tibia AM = peristaltismo activo",
+    "key_points": [
+      "Activa reflejo gastrocólico",
+      "Estudio Universidad Mahidol 2019",
+      "Mejora vaciado gástrico vs fría",
+      "300ml al despertar antes de café"
+    ],
+    "search_terms": ["warm water glass morning", "tea cup morning", "first drink day"],
+    "category": "habitos"
+  },
+  {
+    "id": 2185,
+    "topic": "El truco para reducir grasa visceral en 12 semanas",
+    "hook": "Caminar 30 min = -10% grasa visceral",
+    "key_points": [
+      "Estudio Tsujimoto 2015 con 76 personas",
+      "Caminata moderada 5 días/semana",
+      "Reduce grasa abdominal 10% en 3 meses",
+      "Sin cambios drásticos en dieta"
+    ],
+    "search_terms": ["brisk walking outdoor", "walking exercise daily", "park walking person"],
+    "category": "perdida-grasa"
+  },
+  {
+    "id": 2186,
+    "topic": "Por qué el agua de coco no es deportiva real",
+    "hook": "Agua coco baja sodio para deportes",
+    "key_points": [
+      "Solo 105 mg sodio/250 ml vs 220 mg isotónica",
+      "Estudio Kalman 2012 sobre coco vs deportiva",
+      "Buena para hidratación moderada",
+      "No reemplaza isotónicas en sudor extremo"
+    ],
+    "search_terms": ["coconut water bottle", "tropical drink", "hydration sport"],
+    "category": "mitos"
+  },
+  {
+    "id": 2187,
+    "topic": "Cómo el sueño polifásico te arruina",
+    "hook": "Sueño polifásico = no funciona en humanos",
+    "key_points": [
+      "Estudio Wehr 1999 sobre ciclo monofásico humano",
+      "Necesitamos 90 min ciclos completos",
+      "Polifásico fragmenta REM crítico",
+      "Mejor 7-9h continuas o + siesta corta"
+    ],
+    "search_terms": ["napping sleep pattern", "polyphasic sleep", "broken sleep"],
+    "category": "mitos"
+  },
+  {
+    "id": 2188,
+    "topic": "El alimento que protege la próstata",
+    "hook": "Tomate cocido + selenio = -próstata cancer",
+    "key_points": [
+      "Estudio Etminan 2004 sobre licopeno y próstata",
+      "Licopeno biodisponible en cocción",
+      "Selenio nuez de Brasil potencia efecto",
+      "2 latas tomate/semana + 2 nueces Brasil"
+    ],
+    "search_terms": ["tomato sauce cooking", "brazil nuts", "men health food"],
+    "category": "nutricion"
+  },
+  {
+    "id": 2189,
+    "topic": "Por qué la natación no quema tanto como crees",
+    "hook": "Natación quema menos que correr",
+    "key_points": [
+      "Estudio Gappmaier 2002 sobre kcal natación vs correr",
+      "Apetito sube más al salir agua fría",
+      "Misma 30 min: nadar 200 kcal, correr 300 kcal",
+      "Buena para articulaciones y respiración"
+    ],
+    "search_terms": ["swimming pool person", "swimmer water", "freestyle stroke"],
+    "category": "mitos"
+  }
+]
