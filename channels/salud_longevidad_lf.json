@@ -3,9 +3,9 @@
   "handle": "@SaludLongevidad-e3i",
   "type": "longform",
   "content_type": "narrated_educational",
-  "language": "en",
-  "niche": "Longevity, health and wellness backed by science — educational documentaries",
-  "tone": "Informative, rigorous, accessible. Like a Netflix health documentary.",
+  "language": "es",
+  "niche": "Longevidad, salud y bienestar basados en ciencia — documentales educativos",
+  "tone": "Informativo, riguroso, accesible. Como un documental Netflix de salud.",
   "duration_minutes": 12,
   "format": "landscape",
   "topics": [
@@ -25,7 +25,7 @@
     "neuroplasticity and healthy habits",
     "vitamin D deficiency epidemic"
   ],
-  "voice": "en-US-GuyNeural",
+  "voice": "es-ES-AlvaroNeural",
   "refresh_token_env": "YT_TOKEN_SALUD",
   "category_id": "26",
   "default_tags": [

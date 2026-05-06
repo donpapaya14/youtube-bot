@@ -1,7 +1,11 @@
 name: "Video: VidaSana360"
 on:
   schedule:
-    - cron: '0 15 * * *'
+    - cron: '0 6 * * *'    # 08:00 España
+    - cron: '0 10 * * *'   # 12:00 España
+    - cron: '0 14 * * *'   # 16:00 España
+    - cron: '0 17 * * *'   # 19:00 España
+    - cron: '0 20 * * *'   # 22:00 España
   workflow_dispatch:
 jobs:
   video:

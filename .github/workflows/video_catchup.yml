@@ -26,9 +26,10 @@ jobs:
           TOTAL_MISSING=0
           REPORT=""
 
-          # 1 cron/día por canal en peak hours (15:00-20:00 UTC)
-          # Catch-up a las 22:00 UTC comprueba que al menos 1 se publicó
-          VIDA_EXP=1; SALUD_EXP=1; FINANZAS_EXP=1; CAT_EXP=1; HOGAR_EXP=1
+          # 5 crons/día por canal — catch-up a las 22:00 UTC
+          # Español (VidaSana, Salud): último cron 20:30 UTC → todos habrán corrido
+          # Inglés (Finanzas, Cat, Hogar): último cron 23:30 UTC → puede faltar el último
+          VIDA_EXP=5; SALUD_EXP=5; FINANZAS_EXP=4; CAT_EXP=4; HOGAR_EXP=4
 
           count_success() {
             gh run list --repo "$REPO" --workflow "$1" --limit 20 --json conclusion,createdAt \

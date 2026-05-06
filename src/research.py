@@ -187,7 +187,7 @@ CONTENT_FORMULAS = {
 
 NICHE_MAP = {
     "FinanzasClara": "finance_en",
-    "SaludLongevidad": "longevity_en",
+    "SaludLongevidad": "salud_longevidad",
     "VidaSana360": "health_en",
     "CatBrothers": "cats_en",
     "EspacioInteligente": "home_en",
