@@ -707,92 +707,130 @@ Responde JSON:
     raise RuntimeError(f"DEDUP failed after 3 attempts. Last topic: {data['topic'][:80]}")
 
 
+# ── Estilos rotativos para evitar detección de patrón IA ──
+_STYLE_ROTATION_ES = [
+    {"opener": "abre con dato impactante puro: 'El X% de... / Esto cuesta Y€... / 3 segundos para...'", "voice_pattern": "frases medio-cortas, pausas naturales, 'mira', 'fíjate', 'ojo'", "structure": "dato → contexto → solución → consecuencia → cierre"},
+    {"opener": "abre con pregunta directa: '¿Sabías que...? / ¿Por qué...? / ¿Qué pasa si...?'", "voice_pattern": "tono curioso, hilo que invita a quedarse", "structure": "pregunta → respuesta sorprendente → prueba → aplicación → cierre"},
+    {"opener": "abre con mito a desmontar: 'Llevas X años haciendo Y mal / Te mintieron sobre...'", "voice_pattern": "tono firme, ligeramente provocador", "structure": "mito → realidad → prueba → cómo hacerlo bien → cierre"},
+    {"opener": "abre con anécdota corta: 'En 1986... / Una mujer en Madrid... / Hace 3 días...'", "voice_pattern": "narrativo, casi cuento", "structure": "anécdota → giro → lección → aplicación → cierre"},
+    {"opener": "abre con contradicción: 'Esto suena raro pero... / Lo opuesto a lo que crees...'", "voice_pattern": "tono confidente, como secreto", "structure": "contradicción → explicación → evidencia → consecuencia → cierre"},
+]
+
+_STYLE_ROTATION_EN = [
+    {"opener": "open with raw stat: 'X% of... / This costs Y... / 3 seconds to...'", "voice_pattern": "mid-short sentences, natural pauses, 'look', 'check this'", "structure": "stat → context → solution → consequence → close"},
+    {"opener": "open with direct question: 'Did you know...? / Why does...? / What happens if...?'", "voice_pattern": "curious tone, hooks that keep them watching", "structure": "question → surprising answer → proof → application → close"},
+    {"opener": "open with myth-busting: 'You've been doing X wrong for years / They lied about...'", "voice_pattern": "firm, slightly provocative", "structure": "myth → reality → proof → correct way → close"},
+    {"opener": "open with short anecdote: 'In 1986... / A woman in Ohio... / Three days ago...'", "voice_pattern": "narrative, almost storytelling", "structure": "anecdote → twist → lesson → application → close"},
+    {"opener": "open with contradiction: 'Sounds weird but... / Opposite of what you think...'", "voice_pattern": "confident, like sharing a secret", "structure": "contradiction → explanation → evidence → consequence → close"},
+]
+
+# Palabras prohibidas (delatan IA)
+_AI_BANNED_ES = ["fascinante", "intrigante", "revolucionario", "imprescindible", "explorar", "navegar", "sumergirse", "embarcamos", "descubre el secreto", "no te lo pierdas", "increíble"]
+_AI_BANNED_EN = ["fascinating", "intriguing", "revolutionary", "delve", "embark", "explore", "dive into", "unleash", "amazing", "incredible journey", "discover the secret"]
+
+
 def generate_content(channel: dict, topic_data: dict) -> dict:
-    """Genera guión con texto en pantalla (español o inglés según canal)."""
+    """Genera guión con texto en pantalla, con anti-detección IA por rotación de estilo."""
     lang = channel.get("language", "es")
 
+    # Rotar estilo según hora UTC + ID tema → variabilidad consistente
+    rotation_seed = (int(time.time() // 3600) + abs(hash(topic_data.get("topic", "")))) % 5
+    style_es = _STYLE_ROTATION_ES[rotation_seed]
+    style_en = _STYLE_ROTATION_EN[rotation_seed]
+    seg_count = 6 + (rotation_seed % 3)  # 6-8 variable
+
     if lang == "en":
-        prompt = f"""Write a script for a 30-second YouTube Short with TEXT ON SCREEN (no voiceover).
-Channel: {channel['name']} | Tone: {channel['tone']}
+        banned = ", ".join(_AI_BANNED_EN)
+        prompt = f"""Write a YouTube Short script (25-35s) with text on screen + voice narration.
+Channel: {channel['name']} | Tone: {channel['tone']} | Created by Vladys (real human creator)
 Topic: {topic_data['topic']}
 Hook: {topic_data['hook']}
 Key facts: {json.dumps(topic_data['key_points'], ensure_ascii=False)}
 
-FORMAT: Text appears on screen over video. No voiceover.
-- "voice" = what would be narrated (kept for reference, NOT recorded)
-- "text" = SHORT text shown on screen (MAX 20 characters, visual summary)
+STYLE THIS VIDEO:
+- Opener: {style_en['opener']}
+- Voice pattern: {style_en['voice_pattern']}
+- Structure: {style_en['structure']}
 
-RULES:
-1. 7-8 segments
-2. Each voice line: MAX 15 words. Short, direct, no complex clauses
-3. On-screen text = ultra short (max 20 chars)
-4. FIRST segment = scroll-stopping hook
-5. LAST segment = CTA with URGENCY. Examples:
-   - "Tomorrow I'm posting something that will change how you [topic]. Subscribe now"
-   - "That's just the start. What I'm posting tomorrow will blow your mind. Follow"
-   - "This is the tip of the iceberg. Subscribe — tomorrow gets even better"
-   NEVER use "Follow for more tips" — too generic, doesn't convert
-6. No emojis in text overlays
-7. EVERY segment adds NEW and CONCRETE information
-8. Speak directly to viewer (you/your)
-9. Total video duration: 25-35 seconds MAX
+ANTI-AI-DETECTION RULES (CRITICAL — YouTube penalizes AI-sounding content):
+- BANNED words/phrases: {banned}
+- Vary sentence length: mix short punchy lines with one longer explanatory line
+- Use occasional human filler: "look", "honestly", "by the way", "real quick"
+- Personal voice: occasionally hint at creator perspective ("I tested this", "what changed for me", "in my experience") — sparingly, 1-2 times max per video
+- NEVER start segments with the same word twice in a row
+- NEVER use perfect parallelism (avoid "first... second... third..." stacks)
+- Use natural rhythm: contractions (don't, won't, you're), occasional sentence fragments, em-dashes
 
-GOOD EXAMPLE (finance channel):
-[
-  {{"voice": "90% of people are paying a bank fee they don't know exists", "text": "Hidden bank fee?", "duration": 4}},
-  {{"voice": "It's called the maintenance fee — average 15 dollars a month", "text": "$15/month gone", "duration": 3}},
-  {{"voice": "Call your bank and say: I want to waive my monthly fee", "text": "Say this exactly", "duration": 3}},
-  {{"voice": "85% of people who ask get it removed immediately", "text": "85% success rate", "duration": 3}},
-  {{"voice": "That's 180 dollars back in your pocket every year", "text": "$180/year saved", "duration": 3}},
-  {{"voice": "Tomorrow I'm showing the fee that costs even more. Subscribe", "text": "Subscribe now", "duration": 3}}
-]
+HARD RULES:
+1. {seg_count} segments (vary durations: some 2s, some 4-5s, NEVER all the same)
+2. voice line: 8-18 words MAX, short and natural
+3. on-screen text: max 20 chars per slide
+4. FIRST segment = scroll-stopping hook (use the style opener above)
+5. LAST segment = curiosity-driven CTA. Examples:
+   - "Tomorrow I'm posting the one mistake that ruins all this. Subscribe"
+   - "Wait until you see what works even better — coming tomorrow. Follow"
+   NEVER "Follow for more tips" — generic
+6. No emojis in overlays
+7. Every segment adds NEW concrete info — no repetition
+8. Address viewer as "you" naturally
+9. Voice text in plain English — NO markdown, NO quotes inside the field
 
 Respond ONLY JSON:
 {{
-  "title": "YouTube search-optimized title, max 60 chars, include exact keyword people search (eg: 'how to lose belly fat', 'cat foods to avoid'), can be question or statement with specific stat, 1 emoji at start. NO generic clickbait",
-  "description": "3 lines with natural keywords and channel CTA. In English.",
+  "title": "Search-optimized title (60 chars max). Include exact keyword users type. 1 emoji at start. Vary format across videos: question, stat-statement, list, contrast, contradiction. NO generic clickbait.",
+  "description": "3 lines, natural keywords, conversational tone. Mention what viewer learns. End with subtle channel CTA.",
   "tags": ["tag1", "tag2", "tag3", "tag4", "tag5", "tag6", "tag7", "tag8"],
   "segments": [
-    {{"voice": "natural narration text", "text": "SHORT overlay", "duration": 3}},
+    {{"voice": "natural narration", "text": "SHORT overlay", "duration": 3}},
     ...
   ],
-  "video_prompt": "very specific English visual description to find relevant background footage"
+  "video_prompt": "very specific English visual description for Pexels — concrete objects, settings, actions"
 }}"""
     else:
-        prompt = f"""Escribe un guión para un YouTube Short NARRADO de 30 segundos en español.
-Canal: {channel['name']} | Tono: {channel['tone']}
+        banned = ", ".join(_AI_BANNED_ES)
+        prompt = f"""Escribe guión para YouTube Short (25-35s) con texto en pantalla + voz narrada.
+Canal: {channel['name']} | Tono: {channel['tone']} | Creador: Vladys (humano real, cocinero & desarrollador)
 Tema: {topic_data['topic']}
 Gancho: {topic_data['hook']}
 Datos clave: {json.dumps(topic_data['key_points'], ensure_ascii=False)}
 
-FORMATO: El Short tiene VOZ narrando + TEXTO en pantalla.
-- "voice" = lo que dice la voz (frase natural, como hablando a un amigo)
-- "text" = texto corto que aparece en pantalla (MÁXIMO 20 caracteres, resumen visual)
+ESTILO ESTE VIDEO:
+- Apertura: {style_es['opener']}
+- Patrón de voz: {style_es['voice_pattern']}
+- Estructura: {style_es['structure']}
 
-REGLAS:
-1. 7-8 segmentos
-2. Cada frase de voz: MÁXIMO 15 palabras. Cortas, directas, sin subordinadas
-3. Texto en pantalla = resumen ultra corto (máx 20 chars)
-4. PRIMER segmento = gancho que para el scroll
-5. ÚLTIMO segmento = CTA con URGENCIA y curiosidad
-   NUNCA uses "Sígueme para más tips" — es genérico y no convierte
-6. Sin emojis en el texto
-7. CADA segmento aporta INFO NUEVA y CONCRETA
-8. Hablar de TÚ al espectador
-9. Duración total del video: 25-35 segundos MÁXIMO
+REGLAS ANTI-DETECCIÓN IA (CRÍTICO — YouTube penaliza contenido sonando a IA):
+- PALABRAS PROHIBIDAS: {banned}
+- Variar longitud frases: mezcla líneas cortas y punzantes con una línea más larga explicativa
+- Muletillas humanas ocasionales: "mira", "fíjate", "vamos al lío", "ojo con esto", "te cuento"
+- Voz personal: alguna pincelada del creador ("yo lo probé", "lo que a mí me funcionó", "en mi cocina") — máx 1-2 por video
+- NUNCA empieces dos segmentos seguidos con la misma palabra
+- NUNCA uses paralelismo perfecto ("primero... segundo... tercero...")
+- Ritmo natural: contracciones implícitas, fragmentos de frase, guiones largos para énfasis
+
+REGLAS DURAS:
+1. {seg_count} segmentos (variar duraciones: algunos 2s, otros 4-5s, NUNCA todos iguales)
+2. Voz: 8-18 palabras MÁX por segmento, frases cortas y naturales
+3. Texto pantalla: máx 20 chars
+4. PRIMER segmento = gancho que para scroll (usa apertura del estilo)
+5. ÚLTIMO segmento = CTA con curiosidad, NO "sígueme para más"
+6. Sin emojis en el texto pantalla
+7. Cada segmento aporta info NUEVA — sin redundancia
+8. Háblale de TÚ al espectador
+9. Texto voz en español natural — sin markdown, sin comillas dentro
 
 Responde SOLO JSON:
 {{
-  "title": "titulo para YouTube búsqueda, max 60 chars, incluye la keyword exacta que alguien escribiría en el buscador, 1 emoji al inicio. NUNCA clickbait genérico sin contenido",
-  "description": "descripcion 3 lineas con keywords naturales y CTA al canal.",
+  "title": "Título búsqueda YouTube (60 chars máx). Incluye keyword exacta que alguien escribiría. 1 emoji al inicio. Variar formato entre videos: pregunta, dato-afirmación, lista, contraste, contradicción.",
+  "description": "3 líneas, keywords naturales, tono conversacional. Qué aprende el espectador. CTA sutil al canal.",
   "tags": ["tag1", "tag2", "tag3", "tag4", "tag5", "tag6", "tag7", "tag8"],
   "segments": [
-    {{"voice": "texto voz natural", "text": "RESUMEN corto", "duration": 3}},
+    {{"voice": "narración natural", "text": "RESUMEN corto", "duration": 3}},
     ...
   ],
-  "video_prompt": "descripción visual específica para buscar video de fondo relacionado con el tema"
+  "video_prompt": "descripción visual EN específica para Pexels — objetos concretos, escenarios, acciones"
 }}"""
 
-    data = _call_with_fallback(prompt, primary="github", temperature=0.7)
+    data = _call_with_fallback(prompt, primary="github", temperature=0.85)
     log.info("Título: %s", data["title"])
     return data
