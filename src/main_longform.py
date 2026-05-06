@@ -32,7 +32,7 @@ logging.basicConfig(
 log = logging.getLogger("longform")
 
 # --- AI providers (reutiliza research.py) ---
-from research import _call_with_fallback
+from research import _call_with_fallback, _AI_BANNED_ES, _AI_BANNED_EN
 
 
 def load_channel(name: str) -> dict:
@@ -292,7 +292,7 @@ def run_truecrime(channel: dict, work_dir: str) -> dict:
     if not script:
         log.info("Generando guión con AI...")
         for attempt in range(3):
-            script = _call_with_fallback(f"""You are a true crime documentary scriptwriter for YouTube.
+            script = _call_with_fallback(f"""You are a true crime documentary scriptwriter for YouTube. Created by Vladys (real human creator).
 Write a LONG, detailed 15-minute narration script about: {topic}
 
 LEGAL & ETHICAL RULES (MANDATORY):
@@ -304,6 +304,14 @@ LEGAL & ETHICAL RULES (MANDATORY):
 - Do NOT accuse anyone who was not convicted — always say "suspect" or "person of interest" for unconvicted individuals
 - Include a disclaimer reference: "This story is based on publicly available information"
 - Respect victims — do not sensationalize graphic details unnecessarily
+
+ANTI-AI-DETECTION (CRITICAL — YouTube penalizes AI-sounding narration):
+- BANNED words/phrases: {", ".join(_AI_BANNED_EN)}
+- Vary sentence length within each segment: short punch line + longer detail line
+- Use natural narration markers: "Here's where it gets strange.", "But there's a problem.", "Years later..."
+- Avoid perfect parallelism (no "first... second... third..." stacks)
+- Use contractions (don't, won't, you'll), em-dashes for emphasis
+- NEVER start two consecutive segments with the same word
 
 CONTENT REQUIREMENTS:
 - You MUST write EXACTLY 30 segments. COUNT THEM: 1, 2, 3... 30.
@@ -479,7 +487,8 @@ def run_narrated_educational(channel: dict, work_dir: str) -> dict:
         target_words = max(1800, duration_min * 150)
 
         for attempt in range(3):
-            script = _call_with_fallback(f"""You are a documentary scriptwriter for YouTube.
+            banned_words = ", ".join(_AI_BANNED_ES if lang == "es" else _AI_BANNED_EN)
+            script = _call_with_fallback(f"""You are a documentary scriptwriter for YouTube. Created by Vladys (real human creator — cook & developer).
 Channel: {channel['name']} | Niche: {niche}
 Tone: {tone}
 {f"STRICT RULE: {forbidden}" if forbidden else ""}
@@ -493,6 +502,15 @@ CONTENT REQUIREMENTS:
 - ALL facts REAL and VERIFIABLE — cite studies, universities, real sources
 - If you mention data, say WHERE it comes from (university, study, year)
 - Language: {lang_label}, accessible, no unnecessary jargon
+
+ANTI-AI-DETECTION (CRITICAL — YouTube penalizes AI patterns):
+- BANNED words/phrases: {banned_words}
+- Vary sentence length within segments (mix short punch + longer detail)
+- Use natural transitions: "Here's the catch.", "But it's not that simple.", "What changes everything is this:"
+- Avoid perfect parallelism (no enumerated stacks)
+- Occasional creator-perspective hint ("in my own kitchen", "lo que yo probé") — sparingly, max 2/script
+- NEVER start consecutive segments with the same word
+- Use contractions, em-dashes, fragments where natural
 
 STRUCTURE:
 1-3: Impactful hook + surprising fact + topic context
