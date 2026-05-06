@@ -21,7 +21,6 @@ load_dotenv()
 
 from research import research_topic, generate_content
 from voice import generate_voice_segments
-from video_generator import generate_video
 from pexels_fallback import download_clips
 from assembler import assemble_video, generate_shorts_thumbnail
 from publisher import upload_to_youtube, notify_telegram
@@ -94,12 +93,10 @@ def run(channel_name: str):
         voiced_segments = generate_voice_segments(segments, work_dir, voice="male")
         log.info("Voz generada: %d segmentos", len(voiced_segments))
 
-    # 5. Obtener clips de video
+    # 5. Obtener clips de video (solo Pexels — gratis)
     log.info("Obteniendo clips de video...")
-    clips = generate_video(content.get("video_prompt", ""), work_dir)
-    if not clips:
-        search_terms = topic_data.get("search_terms", ["technology background"])
-        clips = download_clips(search_terms, work_dir, num_clips=5)
+    search_terms = topic_data.get("search_terms", ["technology background"])
+    clips = download_clips(search_terms, work_dir, num_clips=5)
 
     if not clips:
         raise RuntimeError("No se pudo obtener ningún clip de video")
