@@ -1,0 +1,3020 @@
+[
+  {
+    "id": 2000,
+    "topic": "Por que los habitantes de Okinawa viven 100 anos",
+    "hook": "Comen hasta el 80% de saciedad",
+    "key_points": [
+      "Buettner 2008 Blue Zones documenta esperanza vida Okinawa 87 anos mujeres",
+      "Hara hachi bu: regla confuciana 80% saciedad reduce calorias 20%",
+      "Estudio Willcox 2007 Okinawa Centenarian Study: dieta 1800 kcal vs 2500 EEUU",
+      "Reduccion calorica activa sirtuinas y autofagia segun Sinclair"
+    ],
+    "search_terms": ["okinawa elderly people", "japanese centenarian", "asian healthy meal"],
+    "category": "zonas-azules"
+  },
+  {
+    "id": 2001,
+    "topic": "El 90% de espanoles tiene deficit de vitamina D",
+    "hook": "Sin sol tu mitocondria muere",
+    "key_points": [
+      "Estudio Rodriguez-Sangrador 2008: 87% adultos espanoles deficit vitamina D",
+      "Vitamina D regula 2000 genes incluidos longevidad y reparacion ADN",
+      "Niveles optimos 50-80 ng/ml segun Endocrine Society 2011",
+      "20 minutos sol mediodia brazos descubiertos = 1000 UI"
+    ],
+    "search_terms": ["sunlight skin elderly", "vitamin d supplement", "outdoor walking sun"],
+    "category": "suplementos"
+  },
+  {
+    "id": 2002,
+    "topic": "El error que comete el 80% al hacer ayuno intermitente",
+    "hook": "Romper ayuno con cafe destruye autofagia",
+    "key_points": [
+      "Mattson 2014 New England Journal: ayuno activa autofagia tras 16h",
+      "Cafe con leche o azucar rompe estado cetogenico segun Longo 2018",
+      "Autofagia limpia proteinas danadas vinculadas a Alzheimer",
+      "Romper con proteina + grasa, no carbohidratos rapidos"
+    ],
+    "search_terms": ["empty plate clock", "person fasting morning", "breakfast healthy meal"],
+    "category": "ayuno"
+  },
+  {
+    "id": 2003,
+    "topic": "Tus telomeros se acortan 50 pares de bases por ano",
+    "hook": "Cada cigarro mata 11 minutos vida",
+    "key_points": [
+      "Blackburn Premio Nobel 2009: telomeros marcador clave envejecimiento celular",
+      "Estudio Valdes 2005 Lancet: fumadores telomeros 7.4 anos mas viejos",
+      "Meditacion mindfulness aumenta telomerasa segun Jacobs 2011",
+      "Ejercicio aerobico preserva longitud telomerica un 15%"
+    ],
+    "search_terms": ["dna helix microscope", "cell division biology", "elderly hands wrinkled"],
+    "category": "telomeros"
+  },
+  {
+    "id": 2004,
+    "topic": "Por que Sardenos viven mas que cualquier otro mediterraneo",
+    "hook": "Cabras de montana cambian su sangre",
+    "key_points": [
+      "Buettner identifico Cerdena Ogliastra como primera Blue Zone 2004",
+      "Pastores caminan 8-10 km diarios en pendientes 30 grados",
+      "Vino Cannonau triple polifenoles antioxidantes vs vino comun",
+      "Indice masculinidad centenarios 1:1 vs 1:5 mundial"
+    ],
+    "search_terms": ["sardinia mountains shepherd", "mediterranean village elder", "red wine glass"],
+    "category": "zonas-azules"
+  },
+  {
+    "id": 2005,
+    "topic": "El musculo a los 30 desaparece 1% al ano sin entrenar",
+    "hook": "Sin pesas tu sarcopenia empieza ya",
+    "key_points": [
+      "Estudio Janssen 2000: perdida muscular 1-2% anual desde los 30",
+      "Sarcopenia duplica riesgo mortalidad segun Beaudart 2017",
+      "Entrenamiento fuerza 2x semana revierte 80% perdida en 12 semanas",
+      "Proteina 1.6 g/kg peso optima segun Morton 2018 metaanalisis"
+    ],
+    "search_terms": ["weight training gym", "elderly strength exercise", "muscle anatomy"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 2006,
+    "topic": "El microbioma intestinal cambia tu edad biologica",
+    "hook": "Tus bacterias mandan en tu cerebro",
+    "key_points": [
+      "Sender 2016 Cell: 38 billones bacterias en cuerpo, 1:1 ratio celulas humanas",
+      "Eje intestino-cerebro produce 90% serotonina segun Yano 2015",
+      "Disbiosis correlacionada con Alzheimer segun Vogt 2017",
+      "Fibra prebiotica 30g diarios diversifica microbioma en 4 semanas"
+    ],
+    "search_terms": ["bacteria microscope", "fermented foods kimchi", "gut anatomy"],
+    "category": "microbioma"
+  },
+  {
+    "id": 2007,
+    "topic": "Dormir menos de 6 horas envejece como fumar",
+    "hook": "Falta de sueno triplica riesgo Alzheimer",
+    "key_points": [
+      "Walker 2017 Why We Sleep: <6h aumenta mortalidad 13% segun Cappuccio 2010",
+      "Sueno profundo limpia placa beta-amiloide via sistema glinfatico",
+      "Estudio Xie 2013 Science: limpieza cerebral 60% mas eficiente dormido",
+      "Privacion cronica sueno reduce telomeros segun Jackowska 2012"
+    ],
+    "search_terms": ["person sleeping bed", "dark bedroom night", "alarm clock morning"],
+    "category": "sueno"
+  },
+  {
+    "id": 2008,
+    "topic": "El estres cronico te quita 5 anos de vida real",
+    "hook": "Cortisol alto reduce telomeros directo",
+    "key_points": [
+      "Epel 2004 PNAS: madres cuidadoras telomeros 10 anos mas viejos",
+      "Cortisol cronico inhibe telomerasa segun Choi 2008",
+      "Meditacion 8 semanas reduce cortisol 31% segun Pascoe 2017",
+      "HRV alto correlaciona longevidad segun Tsuji 1996 Framingham"
+    ],
+    "search_terms": ["stressed person office", "meditation peaceful", "yoga sunset"],
+    "category": "estres"
+  },
+  {
+    "id": 2009,
+    "topic": "Por que Loma Linda California vive 10 anos mas",
+    "hook": "Adventistas comen carne 1 vez al mes",
+    "key_points": [
+      "Buettner 2008: Loma Linda unica Blue Zone EEUU, 10 anos mas longevos",
+      "Adventist Health Study 96000 personas: vegetarianos -12% mortalidad",
+      "Sabado descanso obligatorio 24h reduce estres cronico",
+      "Frutos secos diarios reducen 50% enfermedad coronaria segun Fraser 1992"
+    ],
+    "search_terms": ["california community elder", "vegetarian meal salad", "nuts almonds"],
+    "category": "zonas-azules"
+  },
+  {
+    "id": 2010,
+    "topic": "El musculo mas importante para vivir 100 anos",
+    "hook": "Cuadriceps fuertes igual a vida larga",
+    "key_points": [
+      "Estudio Newman 2006: fuerza prensil predice mortalidad mejor que IMC",
+      "Test sentarse-levantar correlaciona 6 anos esperanza vida segun Brito 2012",
+      "Cuadriceps debil 4x riesgo caidas mortales en mayores 65",
+      "Sentadillas diarias 50 reps preservan masa muscular hasta los 90"
+    ],
+    "search_terms": ["squat exercise legs", "elderly walking strong", "leg muscle anatomy"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 2011,
+    "topic": "El secreto del arroz japones que protege longevidad",
+    "hook": "Arroz frio cambia su almidon entero",
+    "key_points": [
+      "Almidon resistente formado al enfriar arroz alimenta bifidobacterias",
+      "Estudio Robertson 2005: arroz enfriado reduce glucosa postprandial 35%",
+      "Butirato producido protege colon segun Hamer 2008",
+      "Tradicion japonesa onigiri = arroz frio enfriado natural"
+    ],
+    "search_terms": ["japanese rice bowl", "sushi traditional", "asian breakfast"],
+    "category": "longevidad"
+  },
+  {
+    "id": 2012,
+    "topic": "El omega 3 que tu hierba EPA y DHA",
+    "hook": "Sin EPA tu cerebro se inflama",
+    "key_points": [
+      "Estudio Tan 2012 Neurology: omega 3 bajos = cerebro 2 anos mas viejo",
+      "Ratio omega 6:3 ideal 4:1, dieta occidental llega 20:1",
+      "Pescado azul 2x semana reduce 36% mortalidad cardiovascular Mozaffarian 2006",
+      "DHA constituye 40% acidos grasos cerebro"
+    ],
+    "search_terms": ["fatty fish salmon", "fish oil capsule", "ocean tuna"],
+    "category": "suplementos"
+  },
+  {
+    "id": 2013,
+    "topic": "Por que las mujeres viven 6 anos mas que hombres",
+    "hook": "Estrogeno protege mitocondrias femeninas",
+    "key_points": [
+      "INE 2023: esperanza vida mujer 86 anos vs hombre 80 en Espana",
+      "Estrogeno aumenta produccion antioxidantes mitocondriales segun Vina 2003",
+      "Doble cromosoma X reduce mutaciones acumuladas con edad",
+      "Hombres testosterona alta consumen mas oxigeno y envejecen mas rapido"
+    ],
+    "search_terms": ["elderly woman smiling", "female athlete strong", "couple hands wrinkled"],
+    "category": "hormonas"
+  },
+  {
+    "id": 2014,
+    "topic": "El brocoli mata celulas senescentes zombi",
+    "hook": "Sulforafano destruye celulas envejecidas",
+    "key_points": [
+      "Celulas senescentes acumulan con edad y secretan toxinas SASP",
+      "Sulforafano del brocoli activa Nrf2 via desintoxicacion segun Houghton 2013",
+      "Estudio Riedl 2009: 200g brotes brocoli aumenta enzimas detox 6x",
+      "Combinar con mostaza activa mirosinasa para liberar sulforafano"
+    ],
+    "search_terms": ["broccoli sprouts fresh", "green vegetables salad", "cellular biology"],
+    "category": "antiaging"
+  },
+  {
+    "id": 2015,
+    "topic": "El frio extremo activa grasa parda quema-calorias",
+    "hook": "Banos hielo activan tu metabolismo dormido",
+    "key_points": [
+      "Van Marken Lichtenbelt 2009 NEJM: grasa parda activa quema 300 kcal/dia",
+      "Exposicion 10 grados 2h aumenta noradrenalina 530%",
+      "Crioterapia regular mejora HRV y reduce inflamacion segun Lombardi 2017",
+      "Ducha fria 2 min final activa termogenesis sin riesgo"
+    ],
+    "search_terms": ["cold plunge ice", "winter swimming", "frozen lake nature"],
+    "category": "biohacking"
+  },
+  {
+    "id": 2016,
+    "topic": "El cafe protege contra Parkinson segun 50 estudios",
+    "hook": "3 cafes diarios cortan Parkinson 30%",
+    "key_points": [
+      "Costa 2010 metaanalisis: 3 tazas dia reducen 30% Parkinson",
+      "Cafeina bloquea adenosina A2A protegiendo dopamina",
+      "Estudio Park 2018: cafe reduce 18% mortalidad todas causas",
+      "Polifenoles cafe combaten estres oxidativo cerebral"
+    ],
+    "search_terms": ["coffee cup morning", "espresso cafe", "barista pouring"],
+    "category": "longevidad"
+  },
+  {
+    "id": 2017,
+    "topic": "Tu hipocampo se encoge sin ejercicio aerobico",
+    "hook": "Caminar 40 min revierte atrofia cerebral",
+    "key_points": [
+      "Erickson 2011 PNAS: aerobico 1 ano aumenta hipocampo 2%",
+      "Hipocampo encoge 1-2% anual desde los 50 sin ejercicio",
+      "BDNF se duplica con 30 min cardio segun Knaepen 2010",
+      "Caminar 7000 pasos diarios reduce 50% mortalidad segun Saint-Maurice 2020"
+    ],
+    "search_terms": ["person jogging park", "walking nature trail", "brain mri scan"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 2018,
+    "topic": "El te verde bloquea el envejecimiento de la piel",
+    "hook": "EGCG protege colageno mejor que crema",
+    "key_points": [
+      "EGCG inhibe colagenasa MMP-1 segun Kim 2005 Carcinogenesis",
+      "Consumo 5 tazas dia reduce 26% mortalidad cardiovascular Kuriyama 2006",
+      "Te verde activa AMPK como metformina segun Murase 2002",
+      "Mejor te matcha tradicional ceremonial 137x mas EGCG que infusion"
+    ],
+    "search_terms": ["green tea cup", "matcha powder", "japanese tea ceremony"],
+    "category": "antiaging"
+  },
+  {
+    "id": 2019,
+    "topic": "Tu microbioma decide si llegas a los 100 anos",
+    "hook": "Centenarios tienen bacterias unicas",
+    "key_points": [
+      "Estudio Biagi 2010 Cerdena: centenarios bacterias enriquecidas Bifidobacterium",
+      "Microbioma envejecido pierde 40% diversidad segun Claesson 2012",
+      "Akkermansia muciniphila correlacionada longevidad segun Depommier 2019",
+      "Trasplante fecal jovenes a viejos revierte marcadores edad en ratones"
+    ],
+    "search_terms": ["bacteria culture lab", "yogurt fermented", "intestine anatomy"],
+    "category": "microbioma"
+  },
+  {
+    "id": 2020,
+    "topic": "La oxitocina natural alarga tu vida sin medicamentos",
+    "hook": "Abrazos diarios bajan tu cortisol",
+    "key_points": [
+      "Holt-Lunstad 2010: relaciones sociales reducen 50% mortalidad",
+      "Oxitocina liberada en abrazo 20 segundos baja cortisol 15%",
+      "Soledad cronica equivale fumar 15 cigarros segun Cacioppo 2014",
+      "Voluntariado regular aumenta esperanza vida 4 anos Konrath 2012"
+    ],
+    "search_terms": ["family hugging", "elderly friends laughing", "community gathering"],
+    "category": "longevidad"
+  },
+  {
+    "id": 2021,
+    "topic": "Los pasos diarios optimos no son 10000",
+    "hook": "7000 pasos cortan mortalidad 50%",
+    "key_points": [
+      "Saint-Maurice 2020 JAMA: 7000-8000 pasos optimo, no 10000",
+      "Mito 10000 pasos viene de marketing podometro japones 1965",
+      "Pasos rapidos >100/min duplican beneficio cardiovascular",
+      "Cada 1000 pasos extra reducen 6-36% mortalidad Lee 2019"
+    ],
+    "search_terms": ["walking city street", "person walking park", "pedometer steps"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 2022,
+    "topic": "El glifosato destroza tu microbioma intestinal",
+    "hook": "Cereales convencionales matan tu flora",
+    "key_points": [
+      "Samsel Seneff 2013: glifosato inhibe shikimate pathway en bacterias",
+      "EFSA detecta residuos glifosato 45% trigo Europa",
+      "Disbiosis intestinal preludia enfermedades autoinmunes segun Mu 2017",
+      "Productos ecologicos certificados BIO eliminan exposicion 90%"
+    ],
+    "search_terms": ["wheat field farm", "organic vegetables market", "agriculture spray"],
+    "category": "microbioma"
+  },
+  {
+    "id": 2023,
+    "topic": "El ayuno de 72 horas regenera celulas inmunes",
+    "hook": "3 dias sin comer renueva tu inmunidad",
+    "key_points": [
+      "Cheng 2014 Cell Stem Cell: ayuno 72h reset celulas madre hematopoyeticas",
+      "Reduce IGF-1 50% bajando riesgo cancer segun Longo 2010",
+      "Solo bajo supervision medica si tomas medicacion",
+      "Reabilitacion activa autofagia masiva con limpieza proteinas danadas"
+    ],
+    "search_terms": ["empty plate hungry", "water glass clear", "clock time fasting"],
+    "category": "ayuno"
+  },
+  {
+    "id": 2024,
+    "topic": "El acido hialuronico no funciona oral solo topico",
+    "hook": "Suplementos hialuronico son humo",
+    "key_points": [
+      "Acido hialuronico oral degradado por enzimas digestivas segun Oe 2016",
+      "Solo topico llega a fibroblastos dermicos efectivo",
+      "Estudio Goa 2020: serum 1% mejora hidratacion 96% en 8 semanas",
+      "Mejor estimular produccion natural con vitamina C oral 1g/dia"
+    ],
+    "search_terms": ["skincare serum bottle", "facial cream application", "young skin closeup"],
+    "category": "antiaging"
+  },
+  {
+    "id": 2025,
+    "topic": "El zinc protege contra resfriados y envejecimiento",
+    "hook": "Deficit zinc destroza tus defensas",
+    "key_points": [
+      "Estudio Prasad 2008: 35% mayores 65 anos deficit zinc",
+      "Zinc cofactor 300 enzimas incluyendo timo y produccion linfocitos T",
+      "11 mg dia mujeres, 14 mg hombres segun OMS",
+      "Pipas calabaza 30g aportan 50% requerimiento diario"
+    ],
+    "search_terms": ["pumpkin seeds bowl", "oysters seafood", "supplements pills"],
+    "category": "suplementos"
+  },
+  {
+    "id": 2026,
+    "topic": "El propolis griego mata virus y bacterias",
+    "hook": "Resina abejas activa tu sistema inmune",
+    "key_points": [
+      "Estudio Sforcin 2007: propolis aumenta actividad macrofagos 70%",
+      "Compuesto CAPE inhibe NF-kB factor inflamacion cronica",
+      "Antiviral demostrado contra herpes y influenza segun Bankova 2014",
+      "Tradicion 3000 anos uso medicinal Egipto y Grecia clasica"
+    ],
+    "search_terms": ["honey bee hive", "propolis amber", "natural medicine herbs"],
+    "category": "longevidad"
+  },
+  {
+    "id": 2027,
+    "topic": "El error con los carbohidratos despues de los 40",
+    "hook": "Resistencia insulina empieza silenciosa",
+    "key_points": [
+      "Despues 40 sensibilidad insulina cae 30% segun DeFronzo 2010",
+      "Picos glucosa repetidos glican proteinas envejeciendo tejidos",
+      "HbA1c <5.4% asociado menor mortalidad segun Selvin 2010 NEJM",
+      "Vinagre 1 cucharada antes comida reduce glucosa 30% Johnston 2010"
+    ],
+    "search_terms": ["bread pasta carbs", "glucose meter hand", "healthy plate balanced"],
+    "category": "longevidad"
+  },
+  {
+    "id": 2028,
+    "topic": "Tus pulmones envejecen mas rapido si vives en ciudad",
+    "hook": "PM2.5 quita 2 anos vida media",
+    "key_points": [
+      "Lelieveld 2020: PM2.5 reduce esperanza vida global 2.9 anos",
+      "Madrid Barcelona superan 4x limite OMS aire seguro",
+      "Plantas interior reducen PM2.5 25% segun NASA Clean Air Study",
+      "Mascarilla N95 trafico denso bloquea 95% particulas finas"
+    ],
+    "search_terms": ["city pollution smog", "lungs respiratory", "indoor plants air"],
+    "category": "longevidad"
+  },
+  {
+    "id": 2029,
+    "topic": "El secreto del Mediterraneo que la dieta occidental olvido",
+    "hook": "Aceite oliva crudo no calentado",
+    "key_points": [
+      "Estudio PREDIMED 2013 NEJM: dieta mediterranea reduce 30% eventos cardiovasculares",
+      "Aceite oliva extra virgen contiene oleocantal antiinflamatorio como ibuprofeno",
+      "Calentamiento >180 grados destruye 60% polifenoles segun Cicerale 2010",
+      "50ml diarios crudo en ensalada dosis optima del estudio"
+    ],
+    "search_terms": ["olive oil bottle", "mediterranean salad", "olive trees grove"],
+    "category": "longevidad"
+  },
+  {
+    "id": 2030,
+    "topic": "El silicio del agua mineral elimina aluminio cerebral",
+    "hook": "Aluminio cerebro sale por orina",
+    "key_points": [
+      "Davenward 2013: agua silicio 30 mg/L reduce aluminio cerebral 70% en 12 semanas",
+      "Aluminio acumulado vinculado a Alzheimer segun Walton 2014",
+      "Marcas Volvic, Spritzer alta concentracion silicio",
+      "1 litro diario beneficio cognitivo medible"
+    ],
+    "search_terms": ["mineral water bottle", "spring water pour", "brain xray scan"],
+    "category": "antiaging"
+  },
+  {
+    "id": 2031,
+    "topic": "Por que Nicoya Costa Rica vive sin Alzheimer",
+    "hook": "Agua dura previene demencia natural",
+    "key_points": [
+      "Buettner Blue Zone Nicoya: hombres 60+ duplican esperanza vida EEUU",
+      "Agua local rica calcio magnesio segun estudios Rosero-Bixby 2013",
+      "Plan de Vida: proposito vital reduce 50% mortalidad",
+      "Tortillas maiz nixtamalizado liberan niacina B3 esencial"
+    ],
+    "search_terms": ["costa rica village", "elderly farmer working", "tropical mountain"],
+    "category": "zonas-azules"
+  },
+  {
+    "id": 2032,
+    "topic": "El mito de los antioxidantes en pildoras",
+    "hook": "Vitaminas C E sintetica acortan vida",
+    "key_points": [
+      "Bjelakovic 2007 JAMA metaanalisis: vitaminas A E aumentan 5% mortalidad",
+      "Antioxidantes sinteticos bloquean adaptacion ejercicio segun Ristow 2009",
+      "Solo antioxidantes naturales en alimentos benefician",
+      "Frutas rojas, te verde, cacao crudo fuentes superiores"
+    ],
+    "search_terms": ["vitamins pills colorful", "berries fresh fruit", "dark chocolate"],
+    "category": "suplementos"
+  },
+  {
+    "id": 2033,
+    "topic": "El sueno REM desaparece sin alcohol cero",
+    "hook": "Una copa elimina REM hasta 50%",
+    "key_points": [
+      "Walker 2017: alcohol suprime REM primera mitad noche",
+      "REM consolida memoria emocional y aprendizaje",
+      "Solo 1 vaso vino reduce calidad sueno 24% segun Pietila 2018",
+      "Detoxificacion hepatica bloquea melatonina natural"
+    ],
+    "search_terms": ["wine glass evening", "sleeping bedroom dark", "alarm clock bedside"],
+    "category": "sueno"
+  },
+  {
+    "id": 2034,
+    "topic": "El yogur kefir tiene 50 cepas vs 5 del comercial",
+    "hook": "Kefir casero supera probiotico farmacia",
+    "key_points": [
+      "Kefir granos contienen 50+ cepas bacterias y levaduras simbioticas",
+      "Estudio Bourrie 2016: kefir reduce inflamacion intestinal 40%",
+      "Yogur industrial post-pasteurizacion mata 90% probioticos",
+      "Fermentacion 24h temperatura ambiente activa todos compuestos"
+    ],
+    "search_terms": ["kefir grains glass", "fermented milk", "yogurt bowl breakfast"],
+    "category": "microbioma"
+  },
+  {
+    "id": 2035,
+    "topic": "El test de la pierna sola predice tu mortalidad",
+    "hook": "Si caes a los 60 mueres pronto",
+    "key_points": [
+      "Estudio Araujo 2022 BJSM: no equilibrio 10s pierna duplica mortalidad",
+      "Equilibrio refleja salud sistema vestibular y cerebelo",
+      "Practicar 30 segundos cada pierna diariamente revierte declive",
+      "Tai chi mejora equilibrio 35% en 12 semanas segun Wolf 2003"
+    ],
+    "search_terms": ["balance yoga pose", "elderly tai chi", "single leg standing"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 2036,
+    "topic": "Tu testosterona cae 1% al ano desde los 30",
+    "hook": "Sin pesas testosterona desaparece sola",
+    "key_points": [
+      "Estudio Travison 2007 JCEM: testosterona masculina cae 1% anual desde 30",
+      "Entrenamiento fuerza compuesto eleva testosterona 40% Kraemer 1990",
+      "Sueno <5h reduce testosterona 15% una semana segun Leproult 2011",
+      "Zinc magnesio vitamina D corrigen 80% deficits leves"
+    ],
+    "search_terms": ["man weightlifting", "strong male athlete", "testosterone molecule"],
+    "category": "hormonas"
+  },
+  {
+    "id": 2037,
+    "topic": "El secreto de los Hunza pakistanis sin canas a los 80",
+    "hook": "Albaricoques con hueso comen entero",
+    "key_points": [
+      "Tribu Hunza Pakistan reportada esperanza vida 110 anos por McCarrison 1921",
+      "Dieta basica: albaricoques con almendra hueso, dura mineral",
+      "Caminar diario 8h en pendientes himalayas",
+      "Practicas validez cuestionada cientificamente, paradigma estilo vida activo"
+    ],
+    "search_terms": ["pakistan mountain village", "apricot dried fruit", "himalaya elder"],
+    "category": "zonas-azules"
+  },
+  {
+    "id": 2038,
+    "topic": "El magnesio que el 70% de espanoles no consume",
+    "hook": "Magnesio bajo dispara ansiedad insomnio",
+    "key_points": [
+      "ENRICA 2010: 70% poblacion espanola deficit magnesio",
+      "Magnesio cofactor 600 enzimas incluida produccion ATP",
+      "Forma glicinato mejor biodisponibilidad para sueno",
+      "Almendras pipas calabaza espinacas fuentes principales"
+    ],
+    "search_terms": ["magnesium supplement", "spinach leaves green", "almonds bowl"],
+    "category": "suplementos"
+  },
+  {
+    "id": 2039,
+    "topic": "El cerebro adulto sigue creando neuronas hasta los 90",
+    "hook": "Neurogenesis no para si entrenas",
+    "key_points": [
+      "Boldrini 2018 Cell Stem Cell: neurogenesis hipocampo a los 79 anos",
+      "Ejercicio aerobico aumenta BDNF estimulando neurogenesis",
+      "Aprendizaje complejo nuevo idioma activa formacion sinapsis",
+      "Estimulacion intelectual reduce 60% Alzheimer segun Stern 2012"
+    ],
+    "search_terms": ["brain neurons synapse", "elderly learning piano", "books library reading"],
+    "category": "antiaging"
+  },
+  {
+    "id": 2040,
+    "topic": "El cacao crudo 80% bloquea declive cognitivo",
+    "hook": "Flavanoles cacao mejoran memoria adultos",
+    "key_points": [
+      "Brickman 2014 Nature Neuroscience: flavanoles cacao mejoran memoria 25%",
+      "Solo cacao crudo conserva 90% flavanoles, procesado destruye",
+      "20g cacao 80% diario dosis efectiva validada",
+      "Aumenta flujo sanguineo cerebral 30% segun Sorond 2008"
+    ],
+    "search_terms": ["dark chocolate squares", "cocoa beans raw", "chocolate cacao tree"],
+    "category": "antiaging"
+  },
+  {
+    "id": 2041,
+    "topic": "El ejercicio HIIT supera maraton para longevidad",
+    "hook": "10 min intensos baten 1h cardio",
+    "key_points": [
+      "Robinson 2017 Cell Metabolism: HIIT mejora mitocondrias 69% vs 38% pesas",
+      "VO2max marcador #1 esperanza vida segun Mandsager 2018",
+      "Maratones cronicos calcifican arterias coronarias segun Aengevaeren 2017",
+      "Tabata 4 min 2x semana suficiente para adaptacion mitocondrial"
+    ],
+    "search_terms": ["sprint running track", "high intensity training", "athlete sweating"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 2042,
+    "topic": "El microondas no destruye nutrientes como creias",
+    "hook": "Microondas conserva mas vitaminas hervir",
+    "key_points": [
+      "Vallejo 2003 J Sci Food Agric: microondas conserva 90% antioxidantes brocoli vs 30% hervido",
+      "Tiempos cortos preservan vitamina C termo-sensible",
+      "Hervir lixivia minerales y vitaminas hidrosolubles al agua",
+      "Solo recipientes vidrio o ceramica seguros, evitar plasticos"
+    ],
+    "search_terms": ["microwave kitchen modern", "broccoli steamed plate", "vegetable cooking"],
+    "category": "longevidad"
+  },
+  {
+    "id": 2043,
+    "topic": "Por que los Adventistas baten cancer mama 50%",
+    "hook": "Vegetarianos cero leche menos tumores",
+    "key_points": [
+      "Tantamango-Bartley 2013: vegetarianos 12% menos cancer total",
+      "Veganos 50% menos cancer prostata segun Tantamango 2016",
+      "IGF-1 reducido en dieta plant-based factor protector",
+      "Lacteos altos asociados cancer prostata segun Aune 2015"
+    ],
+    "search_terms": ["plant based meal", "vegetable colorful plate", "tofu vegan"],
+    "category": "longevidad"
+  },
+  {
+    "id": 2044,
+    "topic": "El acido alfa lipoico recicla otros antioxidantes",
+    "hook": "ALA regenera vitamina C E gastadas",
+    "key_points": [
+      "ALA unico antioxidante hidro y liposoluble penetra sangre cerebro",
+      "Regenera glutation, vitamina C, E, CoQ10 segun Packer 1995",
+      "Estudio Goncalves 2018: 600mg/dia mejora neuropatia diabetica 50%",
+      "Producido endogenamente declina con edad, suplemento util tras 50"
+    ],
+    "search_terms": ["alpha lipoic acid", "antioxidant molecules", "supplement bottle science"],
+    "category": "antiaging"
+  },
+  {
+    "id": 2045,
+    "topic": "El secreto de los pescadores Ikaria griega",
+    "hook": "Siesta diaria reduce infarto 37%",
+    "key_points": [
+      "Buettner Blue Zone Ikaria: 1/3 llega 90 anos vs 8% media mundial",
+      "Naska 2007 Arch Intern Med: siesta 30 min reduce infarto 37%",
+      "Te montana ikariano polifenoles antiinflamatorios",
+      "Vida sin reloj, ritmos solares preservados"
+    ],
+    "search_terms": ["greek island village", "siesta nap", "mediterranean fishing"],
+    "category": "zonas-azules"
+  },
+  {
+    "id": 2046,
+    "topic": "El proposito de vida alarga 7 anos esperanza",
+    "hook": "Sin Ikigai mueres antes",
+    "key_points": [
+      "Hill 2014 Psychological Science: sentido vida reduce 15% mortalidad",
+      "Estudio Tanno 2009 Japon: ikigai reduce 50% mortalidad cardiovascular",
+      "Jubilados sin proposito muestran declive cognitivo acelerado",
+      "Voluntariado regular 100h ano alarga vida 4 anos Konrath 2012"
+    ],
+    "search_terms": ["happy elderly purpose", "japanese garden meditation", "volunteer work community"],
+    "category": "longevidad"
+  },
+  {
+    "id": 2047,
+    "topic": "La sauna finlandesa cuatro veces semana baja infartos 60%",
+    "hook": "Sauna iguala correr para corazon",
+    "key_points": [
+      "Laukkanen 2015 JAMA Intern Med: 4-7 saunas/semana reduce 50% mortalidad cardiovascular",
+      "Calor activa proteinas shock termico HSP70 reparadoras",
+      "Dilatacion vascular mejora funcion endotelial similar ejercicio",
+      "Demencia reducida 65% segun Laukkanen 2017 mismo cohorte"
+    ],
+    "search_terms": ["sauna wood interior", "steam relaxation", "finnish wellness"],
+    "category": "biohacking"
+  },
+  {
+    "id": 2048,
+    "topic": "El secreto de la longevidad sin ejercicio",
+    "hook": "NEAT diario bate gimnasio sentado",
+    "key_points": [
+      "Levine 2005 Mayo Clinic: NEAT actividad no-ejercicio diferencia 350 kcal entre delgados-obesos",
+      "Estar sentado 8h+ aumenta 40% mortalidad aunque hagas gym Patel 2018",
+      "Cambiar postura cada 30 min reduce riesgo metabolico",
+      "Caminar reuniones, escaleras, jardineria suman vida"
+    ],
+    "search_terms": ["person standing desk", "walking meeting", "gardening backyard"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 2049,
+    "topic": "El ayuno mimetico de Longo en 5 dias",
+    "hook": "5 dias 800kcal renueva tus celulas",
+    "key_points": [
+      "Wei 2017 Sci Transl Med: dieta FMD 5 dias mes mejora marcadores edad",
+      "Reduce IGF-1, glucosa y CRP equivalentes 5 anos juventud",
+      "Activa autofagia y celulas madre sin ayuno total",
+      "Solo bajo supervision, no recomendado embarazadas o diabetes 1"
+    ],
+    "search_terms": ["minimal food plate", "vegetables broth soup", "fasting meal small"],
+    "category": "ayuno"
+  },
+  {
+    "id": 2050,
+    "topic": "La luz azul antes de dormir destruye tu melatonina",
+    "hook": "Movil cama reduce melatonina 23%",
+    "key_points": [
+      "Chang 2015 PNAS: 4h iPad antes dormir reduce melatonina 55%",
+      "Luz 480nm mas supresora que luz blanca normal",
+      "Gafas bloqueantes ambar restauran 90% produccion melatonina",
+      "Modo nocturno solo reduce 11% azul, insuficiente"
+    ],
+    "search_terms": ["phone screen night", "blue light eye", "person bed phone"],
+    "category": "sueno"
+  },
+  {
+    "id": 2051,
+    "topic": "El test glucosa postprandial revela tu edad metabolica",
+    "hook": "Picos glucosa 140 envejecen prematuro",
+    "key_points": [
+      "Glucosa pico >140 mg/dL post-comida glica proteinas via AGE",
+      "AGE acumulados arrugan piel y rigidez arterial Brownlee 2001",
+      "CGM continuo revela alimentos personales que disparan glucosa",
+      "Comer en orden: vegetales, proteina, carbohidratos reduce pico 73% Shukla 2015"
+    ],
+    "search_terms": ["glucose monitor wearable", "blood test finger", "balanced meal plate"],
+    "category": "longevidad"
+  },
+  {
+    "id": 2052,
+    "topic": "Los polifenoles del granado activan urolitina A",
+    "hook": "Granada renueva mitocondrias viejas",
+    "key_points": [
+      "Ryu 2016 Nature Medicine: urolitina A induce mitofagia limpiando mitocondrias",
+      "Solo 30-40% personas tienen microbioma capaz convertir granada en urolitina",
+      "Ensayo Andreux 2019: 1g urolitina A mejora marcadores mitocondriales mayores",
+      "Granada fresca 250 ml diarios estimula produccion natural"
+    ],
+    "search_terms": ["pomegranate fruit open", "red juice glass", "fresh fruit bowl"],
+    "category": "mitocondrias"
+  },
+  {
+    "id": 2053,
+    "topic": "El secreto del aceite oliva Hojiblanca espanol",
+    "hook": "Polifenoles hojiblanca triplican otros",
+    "key_points": [
+      "Variedad Hojiblanca contiene 800 mg/kg polifenoles vs 300 picual",
+      "Oleocantal 5 mg/dia equivale 10% dosis ibuprofeno antiinflamatoria",
+      "Estudio Buckland 2012: 30g/dia aceite oliva reduce 35% mortalidad",
+      "Picor garganta indica alta concentracion polifenoles"
+    ],
+    "search_terms": ["spanish olive oil", "olive harvest tree", "extra virgin pour"],
+    "category": "longevidad"
+  },
+  {
+    "id": 2054,
+    "topic": "El secreto de los Sherpa altitud tibetana",
+    "hook": "Mitocondrias Sherpa eficiencia 30% extra",
+    "key_points": [
+      "Horscroft 2017 PNAS: Sherpa metabolismo mitocondrial 30% mas eficiente altura",
+      "Adaptacion genetica EPAS1 maxima oxigenacion baja oxigeno",
+      "Lecciones aplicables: entrenamiento hipoxia altitud simulada",
+      "Mascarilla altitude training mejora VO2max 5% segun Wilber 2007"
+    ],
+    "search_terms": ["mountain climber altitude", "himalaya snow peaks", "athletic training"],
+    "category": "mitocondrias"
+  },
+  {
+    "id": 2055,
+    "topic": "El reloj circadiano que decide tu cancer",
+    "hook": "Comer noche dispara tumores",
+    "key_points": [
+      "Sulli 2018 Trends Cancer: alteracion circadiana facilita crecimiento tumoral",
+      "Marinas 2016 estudio enfermeras turno noche: 30% mas cancer mama",
+      "Comer ventana 12h reduce 36% riesgo recidiva cancer mama Marinac 2016",
+      "Melatonina endogena propiedad oncoprotectora demostrada"
+    ],
+    "search_terms": ["clock circadian rhythm", "night shift worker", "morning sunrise"],
+    "category": "longevidad"
+  },
+  {
+    "id": 2056,
+    "topic": "El secreto de los buzos coreanos Haenyeo",
+    "hook": "Mujeres bucean 80 anos sin aire",
+    "key_points": [
+      "Haenyeo isla Jeju bucean 30m sin equipo hasta los 80 anos",
+      "Lee 2014 evolucion adaptaciones cardiovasculares unica reduce frecuencia 40 lpm",
+      "Reflejo de inmersion rejuvenece sistema vascular",
+      "Banos hielo recrean parcialmente esta adaptacion"
+    ],
+    "search_terms": ["female diver ocean", "korean traditional", "underwater swimming"],
+    "category": "biohacking"
+  },
+  {
+    "id": 2057,
+    "topic": "La betaina remolacha mata homocisteina cardiotoxica",
+    "hook": "Remolacha cruda baja homocisteina 50%",
+    "key_points": [
+      "Olthof 2003: 6g betaina reduce homocisteina 12% similar acido folico",
+      "Homocisteina alta predictor independiente infartos cerebrales",
+      "Remolacha cruda 100g aporta 250 mg betaina natural",
+      "Combinar con B12 metilada B6 P5P mejora ciclo metilacion"
+    ],
+    "search_terms": ["red beetroot juice", "vegetable salad raw", "blood vessel health"],
+    "category": "longevidad"
+  },
+  {
+    "id": 2058,
+    "topic": "El gen MTHFR que afecta 40% de espanoles",
+    "hook": "Mutacion MTHFR bloquea folato",
+    "key_points": [
+      "Polimorfismo MTHFR C677T en 40% poblacion mediterranea",
+      "Reduce conversion acido folico hasta 70% segun Frosst 1995",
+      "Acumula homocisteina toxica para vasos sanguineos",
+      "Folato metilado 5-MTHF puentea bloqueo enzimatico"
+    ],
+    "search_terms": ["dna sequence research", "vitamin folate spinach", "genetic test lab"],
+    "category": "longevidad"
+  },
+  {
+    "id": 2059,
+    "topic": "El secreto del agua hidrogeno Japon antiaging",
+    "hook": "Hidrogeno molecular neutraliza radicales",
+    "key_points": [
+      "Ohsawa 2007 Nature Medicine: H2 molecular antioxidante selectivo",
+      "Penetra mitocondrias y nucleo a diferencia otros antioxidantes",
+      "Ensayos clinicos Japon 14 anos en pacientes diabeticos artrosis",
+      "Validacion cientifica aun limitada, evidencia preliminar prometedora"
+    ],
+    "search_terms": ["water bottle clear", "japanese spa water", "hydrogen molecule"],
+    "category": "biohacking"
+  },
+  {
+    "id": 2060,
+    "topic": "El error con vitamina B12 que pocos conocen",
+    "hook": "Cianocobalamina no llega cerebro",
+    "key_points": [
+      "Forma cianocobalamina sintetica requiere conversion celular costosa",
+      "Metilcobalamina activa biodisponible directa segun Obeid 2015",
+      "30% mayores 60 anos absorben mal B12 oral por hipoclorhidria",
+      "Sublingual 1000 mcg supera absorcion comprimido"
+    ],
+    "search_terms": ["vitamin b12 supplement", "elderly health pills", "energy supplement"],
+    "category": "suplementos"
+  },
+  {
+    "id": 2061,
+    "topic": "El protocolo de respiracion que activa nervio vago",
+    "hook": "Inspirar 4 expirar 8 baja tension",
+    "key_points": [
+      "Russo 2017: respiracion lenta <6 rpm activa nervio vago aumentando HRV",
+      "HRV alto correlaciona +10 anos esperanza vida segun Tsuji 1996",
+      "Tecnica 4-7-8 reduce ansiedad 50% en 4 semanas",
+      "Practicar 5 min mananas reduce cortisol baseline"
+    ],
+    "search_terms": ["breathing meditation calm", "yoga nature", "person nose breathing"],
+    "category": "estres"
+  },
+  {
+    "id": 2062,
+    "topic": "El vino tinto antiaging mito o realidad",
+    "hook": "Resveratrol vino dosis irreal humano",
+    "key_points": [
+      "Resveratrol vino tinto 1-2 mg por copa, dosis estudios 100 mg+",
+      "Beneficios atribuidos al alcohol reciente cuestionados Anderson 2018",
+      "Alternativa: piel uva negra cruda mayor concentracion",
+      "Vino Pinot Noir Cannonau Sardenia 5x mas resveratrol"
+    ],
+    "search_terms": ["wine glass red", "grapes vineyard", "wine bottle pour"],
+    "category": "longevidad"
+  },
+  {
+    "id": 2063,
+    "topic": "El musculo del piso pelvico determina longevidad",
+    "hook": "Suelo pelvico debil muerte temprana",
+    "key_points": [
+      "Estudio Bo 2010: incontinencia mayores 65 duplica mortalidad 2 anos",
+      "Kegel 100 reps diarias revierte 80% incontinencia leve",
+      "Suelo pelvico fuerte mejora postura, marcha y equilibrio",
+      "Caidas relacionadas a debilidad pelvica matan 32000 EEUU/ano"
+    ],
+    "search_terms": ["pelvic floor exercise", "elderly stretching", "yoga floor pose"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 2064,
+    "topic": "El efecto de comer en compania prolonga vida",
+    "hook": "Cenar solo aumenta mortalidad 40%",
+    "key_points": [
+      "Tani 2017 J Epidemiol: comer solo aumenta 40% riesgo depresion mayores",
+      "Tradicion mediterranea sobremesa correlaciona longevidad regional",
+      "Hongan-ji practica japonesa: comer en silencio gratitud activa parasympatico",
+      "Sociabilidad libera oxitocina reduciendo cortisol cronico"
+    ],
+    "search_terms": ["family dinner table", "friends eating together", "mediterranean lunch"],
+    "category": "longevidad"
+  },
+  {
+    "id": 2065,
+    "topic": "El secreto Tarahumara correr 200km sin lesion",
+    "hook": "Pies descalzos preservan rodillas",
+    "key_points": [
+      "Tarahumara mexicanos corren 200 km sin lesion pies descalzos huaraches",
+      "Estudio Lieberman 2010 Nature: forefoot strike reduce 60% impacto rodilla",
+      "Calzado moderno debilita 50% musculatura intrinseca pie segun Yates 2010",
+      "Caminar descalzo 30 min cesped diario fortalece arco"
+    ],
+    "search_terms": ["barefoot running nature", "indigenous tribal", "feet ground earth"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 2066,
+    "topic": "El glutation maestro antioxidante que tu cuerpo fabrica",
+    "hook": "Glutation cae 50% a los 65",
+    "key_points": [
+      "Sekhar 2011: niveles glutation caen 50% entre 30 y 70 anos",
+      "Maestro antioxidante endogeno cofactor 100+ enzimas detox",
+      "Glicina N-acetilcisteina precursores aumentan 95% en 14 dias",
+      "Brocoli ajo huevos azufre dietetico estimulan sintesis"
+    ],
+    "search_terms": ["garlic onions cooking", "broccoli florets", "supplements vitamin"],
+    "category": "antiaging"
+  },
+  {
+    "id": 2067,
+    "topic": "Los inyectables de testosterona acortan vida",
+    "hook": "TRT antes 50 dispara cancer prostata",
+    "key_points": [
+      "Vigen 2013 JAMA: TRT aumenta 30% eventos cardiovasculares mayores",
+      "Suprime produccion endogena testicular permanentemente",
+      "Aumenta IGF-1 promoviendo crecimiento celular oncogenico",
+      "Optimizar naturalmente: pesas, sueno, zinc, dieta"
+    ],
+    "search_terms": ["male doctor consultation", "syringe medical", "weights gym training"],
+    "category": "hormonas"
+  },
+  {
+    "id": 2068,
+    "topic": "El yodo en sal marina protege tiroides",
+    "hook": "Sin yodo metabolismo se detiene",
+    "key_points": [
+      "OMS: 30% espanoles deficit yodo subclinico segun Soriguer 2012",
+      "Yodo esencial para T3 T4 hormonas tiroideas",
+      "Sal marina sin refinar aporta yodo + 80 minerales traza",
+      "Algas wakame nori aportan 250-500 mcg yodo por gramo"
+    ],
+    "search_terms": ["sea salt crystals", "seaweed kelp ocean", "thyroid neck check"],
+    "category": "hormonas"
+  },
+  {
+    "id": 2069,
+    "topic": "El cohousing intergeneracional alarga vida en mayores",
+    "hook": "Vivir con jovenes prolonga 8 anos",
+    "key_points": [
+      "Modelo cohousing Holanda Humanitas: estudiantes viven gratis residencia mayores",
+      "Reduce 50% sintomas depresivos en mayores segun estudio 2018",
+      "Disminuye declive cognitivo por estimulacion social diaria",
+      "Modelo expandido a 20 paises europeos con resultados similares"
+    ],
+    "search_terms": ["elderly young friendship", "intergenerational care", "community elderly"],
+    "category": "longevidad"
+  },
+  {
+    "id": 2070,
+    "topic": "El secreto del miso fermentado japones",
+    "hook": "Miso reduce mortalidad cardiovascular 30%",
+    "key_points": [
+      "Watanabe 2017: 1 racion miso/dia reduce 30% mortalidad cardiovascular",
+      "Probiotico vivo Aspergillus oryzae actua sinergico con bacterias intestino",
+      "Aporta vitamina K2 protectora arterial calcificacion",
+      "Solo miso no pasteurizado vivo, marcas tradicionales japonesas"
+    ],
+    "search_terms": ["miso soup japanese", "fermented soybean paste", "japanese breakfast"],
+    "category": "microbioma"
+  },
+  {
+    "id": 2071,
+    "topic": "Las arrugas profundas indican salud cardiovascular",
+    "hook": "Arrugas frente predicen infarto",
+    "key_points": [
+      "Estudio Esquirol 2018: arrugas frente profundas duplican riesgo cardiovascular",
+      "Marcador clinico simple correlaciona aterosclerosis subclinica",
+      "Glucosa elevada AGE crean entrecruzamiento colageno",
+      "Cuidar arrugas equivale cuidar arterias internas"
+    ],
+    "search_terms": ["forehead wrinkles closeup", "elderly face portrait", "heart anatomy"],
+    "category": "antiaging"
+  },
+  {
+    "id": 2072,
+    "topic": "El cardo mariano regenera higado en cirrosis",
+    "hook": "Silimarina restaura celulas hepaticas",
+    "key_points": [
+      "Saller 2001 metaanalisis: silimarina mejora supervivencia cirrosis alcoholica",
+      "Hepatoprotector via estabilizacion membranas hepatocitos",
+      "Antioxidante 10x mayor vitamina E segun Surai 2015",
+      "Dosis 420 mg silimarina dia validada clinicamente"
+    ],
+    "search_terms": ["milk thistle plant", "liver anatomy", "herbal medicine"],
+    "category": "antiaging"
+  },
+  {
+    "id": 2073,
+    "topic": "Por que perder peso despues 50 acelera mortalidad",
+    "hook": "Dieta restrictiva mayor 60 mata",
+    "key_points": [
+      "Estudio Zheng 2017: perdida 5%+ peso mayores 60 aumenta 33% mortalidad",
+      "Sarcopenia oculta perdida muscular 70% del peso perdido",
+      "Mejor mantener peso ligeramente alto que perder masa magra",
+      "Foco en ejercicio fuerza preserva masa muscular esencial"
+    ],
+    "search_terms": ["elderly weighing scale", "muscle measurement", "older adult exercise"],
+    "category": "longevidad"
+  },
+  {
+    "id": 2074,
+    "topic": "El tomate cocido mejor que crudo licopeno absorbible",
+    "hook": "Cocinar tomate triplica licopeno",
+    "key_points": [
+      "Gartner 1997: cocinar tomate 30 min libera licopeno 10x mas biodisponible",
+      "Licopeno reduce 35% cancer prostata segun Giovannucci 1995",
+      "Aceite oliva combinado mejora absorcion 70%",
+      "Salsa marinera tradicional optima nutricionalmente"
+    ],
+    "search_terms": ["tomato sauce italian", "cooked tomatoes pan", "mediterranean cuisine"],
+    "category": "antiaging"
+  },
+  {
+    "id": 2075,
+    "topic": "El mito del calcio en lacteos para huesos",
+    "hook": "Mas leche mas fracturas suecas",
+    "key_points": [
+      "Michaelsson 2014 BMJ: mujeres suecas 3+ vasos leche 90% mas fracturas",
+      "Galactosa lactosa pro-inflamatoria segun teoria estudio sueco",
+      "Vitamina D y K2 mas relevantes que calcio para huesos",
+      "Sardinas con espina kale almendras fuentes calcio sin lacteos"
+    ],
+    "search_terms": ["milk glass dairy", "sardines fish bones", "calcium bones xray"],
+    "category": "longevidad"
+  },
+  {
+    "id": 2076,
+    "topic": "El sol matutino programa ritmo circadiano completo",
+    "hook": "Sol amanecer 10 min duplica energia",
+    "key_points": [
+      "Wright 2013 Current Biology: luz exterior amanecer sincroniza nucleo supraquiasmatico",
+      "Mejora calidad sueno nocturno 40% al exponerse 10 min sol matutino",
+      "Cortisol despertador natural se eleva con luz directa ojos",
+      "Imposible replicar con luz artificial intensa segun estudio Cleveland 2014"
+    ],
+    "search_terms": ["sunrise morning person", "outdoor walking dawn", "golden hour light"],
+    "category": "sueno"
+  },
+  {
+    "id": 2077,
+    "topic": "El curcuma con pimienta multiplica absorcion 2000%",
+    "hook": "Curcuma sola no se absorbe",
+    "key_points": [
+      "Shoba 1998 Planta Med: piperina aumenta biodisponibilidad curcumina 2000%",
+      "Curcumina antiinflamatoria comparable ibuprofeno sin efectos secundarios",
+      "Reduce 30% Alzheimer en estudios epidemiologicos India segun Ng 2006",
+      "Combinar con grasa: aceite oliva, leche dorada tradicional"
+    ],
+    "search_terms": ["turmeric powder spice", "indian cooking spices", "golden milk drink"],
+    "category": "antiaging"
+  },
+  {
+    "id": 2078,
+    "topic": "El pelo blanco indica oxidacion celular acumulada",
+    "hook": "Estres real blanquea pelo verdad",
+    "key_points": [
+      "Zhang 2020 Nature: estres oxidativo agota celulas madre melanocitos",
+      "Cobre y catalasa enzimaticos esenciales sintesis melanina",
+      "Tabaco fumar acelera blanqueamiento 4x segun Mosley 2010",
+      "Antioxidantes orales reducen progresion canas con suficiente nivel"
+    ],
+    "search_terms": ["gray hair elderly", "hair follicle science", "white hair portrait"],
+    "category": "antiaging"
+  },
+  {
+    "id": 2079,
+    "topic": "El secreto Adventista pasar 10 min naturaleza diaria",
+    "hook": "Bosque cura sistema inmune japones",
+    "key_points": [
+      "Li 2007 Int J Immunopathol: Shinrin-yoku eleva celulas NK 50% por 30 dias",
+      "Fitoncidas arboles activan inmunidad innata",
+      "Cortisol baja 16% caminar bosque vs ciudad segun Park 2010",
+      "10 min suficiente segun MacKerron 2013 felicidad medida"
+    ],
+    "search_terms": ["forest walking nature", "trees green path", "person hiking woods"],
+    "category": "longevidad"
+  },
+  {
+    "id": 2080,
+    "topic": "Las grasas trans destruidas en 2018 EEUU pero",
+    "hook": "Espana aun permite grasas trans bolleria",
+    "key_points": [
+      "FDA prohibio grasas trans 2018, Espana sin regulacion estricta hasta 2023",
+      "Estudio Mozaffarian 2006: 2g trans/dia aumenta 23% riesgo cardiovascular",
+      "Margarinas industriales bolleria principales fuentes",
+      "Leer etiqueta: aceite hidrogenado o parcialmente hidrogenado evitar"
+    ],
+    "search_terms": ["pastries margarine", "processed food package", "industrial baking"],
+    "category": "longevidad"
+  },
+  {
+    "id": 2081,
+    "topic": "El secreto Hara hachi bu reduce calorias sin contar",
+    "hook": "Para de comer al 80%",
+    "key_points": [
+      "Tradicion Confuciana Okinawa: parar comer al 80% saciedad",
+      "Reduce calorias 20% sin esfuerzo ni medicion estricta",
+      "Estomago tarda 20 min senalar saciedad al cerebro",
+      "Practicar mindful eating: masticar 30 veces, sin pantallas"
+    ],
+    "search_terms": ["small portion meal", "japanese chopsticks bowl", "mindful eating plate"],
+    "category": "longevidad"
+  },
+  {
+    "id": 2082,
+    "topic": "Los azucares ocultos en yogures naturales etiqueta",
+    "hook": "Yogur natural azucar dispara tu insulina",
+    "key_points": [
+      "Yogures naturales sabor frutas contienen 12-15g azucar racion",
+      "OMS recomienda <25g azucar libre dia, una racion superada",
+      "Mejor yogur griego sin azucar + frutos rojos enteros",
+      "Picos insulina aceleran envejecimiento via mTOR Kapahi 2010"
+    ],
+    "search_terms": ["yogurt cup fruit", "sugar pile spoon", "supermarket dairy"],
+    "category": "longevidad"
+  },
+  {
+    "id": 2083,
+    "topic": "Las hormonas femeninas cambian todo en perimenopausia",
+    "hook": "Perimenopausia hueso pierde 20%",
+    "key_points": [
+      "NAMS 2017: perimenopausia perdida hueso acelera hasta 5% anual",
+      "Caida estrogeno duplica riesgo enfermedad cardiovascular",
+      "TRH bioidentica primeros 10 anos reduce 30% mortalidad segun WHI",
+      "Soja isoflavonas amplifica receptor estrogenico parcialmente"
+    ],
+    "search_terms": ["menopause woman wellness", "female hormones balance", "calcium bones"],
+    "category": "hormonas"
+  },
+  {
+    "id": 2084,
+    "topic": "Los hongos medicinales reishi cordyceps lion mane",
+    "hook": "Lion mane regenera nervios cerebro",
+    "key_points": [
+      "Mori 2009: Hericium erinaceus aumenta NGF estimulando neurogenesis",
+      "Ensayo japones 50-80 anos: 12 semanas mejora cognicion 30%",
+      "Reishi reduce inflamacion sistemica via beta-glucanos",
+      "Cordyceps mejora VO2max 11% en atletas chinos"
+    ],
+    "search_terms": ["lion mane mushroom", "reishi forest", "medicinal mushrooms"],
+    "category": "antiaging"
+  },
+  {
+    "id": 2085,
+    "topic": "El cobre exceso en agua tubera envejece",
+    "hook": "Agua tuberia cobre acelera Alzheimer",
+    "key_points": [
+      "Brewer 2015: cobre soluble agua acelera placas amiloides",
+      "Tuberias antiguas cobre liberan iones por agua acida",
+      "Filtrar agua o dejar correr 30s antes consumir",
+      "Mantener ratio zinc:cobre 8:1 protector segun Mertz 1981"
+    ],
+    "search_terms": ["water tap kitchen", "old pipes plumbing", "water glass clear"],
+    "category": "antiaging"
+  },
+  {
+    "id": 2086,
+    "topic": "El test de la pierna que predice tu mortalidad",
+    "hook": "Sin levantar pie suelo mueres pronto",
+    "key_points": [
+      "Brito 2012 Eur J Prev Cardiol: test sentar-levantar suelo predice 6 anos mortalidad",
+      "Score 0-10 puntos: <8 duplica mortalidad 6 anos",
+      "Mide flexibilidad fuerza equilibrio coordinacion integralmente",
+      "Mejorable con yoga sentadillas movilidad cadera diaria"
+    ],
+    "search_terms": ["sitting floor stretch", "yoga flexibility", "elderly fitness test"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 2087,
+    "topic": "Los acidos grasos volatiles del intestino alargan vida",
+    "hook": "Butirato cura colon previene cancer",
+    "key_points": [
+      "Hamer 2008: butirato principal nutriente celulas colon previene cancer",
+      "Bacterias fermentan fibra prebiotica produciendo butirato propionato acetato",
+      "30g fibra/dia objetivo segun American Heart Association",
+      "Almidon resistente platano verde patata fria fuente top"
+    ],
+    "search_terms": ["fiber rich foods", "vegetables fiber", "intestine healthy"],
+    "category": "microbioma"
+  },
+  {
+    "id": 2088,
+    "topic": "El secreto del jamon iberico para arterias",
+    "hook": "Iberico bellota equiv aceite oliva",
+    "key_points": [
+      "Mayoral 2008: jamon bellota perfil graso 56% acido oleico similar oliva",
+      "Reduce LDL aumentando HDL en consumidores moderados",
+      "Mejor jamon 100% iberico bellota etiqueta negra certificada",
+      "30g/dia maximo por sodio elevado, ratio costo-beneficio"
+    ],
+    "search_terms": ["iberian ham spanish", "spanish cured meat", "tapas mediterranean"],
+    "category": "longevidad"
+  },
+  {
+    "id": 2089,
+    "topic": "El riesgo del cafe descafeinado con disolventes",
+    "hook": "Descafeinado solvente cancerigeno comun",
+    "key_points": [
+      "Cloruro metileno usado 90% descafeinado industrial es probable cancerigeno IARC",
+      "Proceso Swiss Water 100% agua sin quimicos",
+      "CO2 supercritico metodo limpio usado cafes especialidad",
+      "Etiqueta debe especificar metodo descafeinacion utilizado"
+    ],
+    "search_terms": ["decaf coffee mug", "coffee beans roasted", "industrial coffee"],
+    "category": "longevidad"
+  },
+  {
+    "id": 2090,
+    "topic": "Las 5 zonas azules del mundo y sus secretos cientificos",
+    "hook": "5 lugares planeta envejecen al reves",
+    "key_points": [
+      "Buettner 2008 Blue Zones: Okinawa Sardenia Nicoya Ikaria Loma Linda",
+      "Common 9: movimiento natural, plant slant, hara hachi bu, vino moderado",
+      "Tribu social: pertenencia, ikigai/plan vida, fe, familia primero",
+      "Esperanza vida 10+ anos sobre media nacional respectiva",
+      "Replicable: 75% factores estilo vida modificable segun Buettner",
+      "Resultados validados estudios independientes Vasto 2012, Pes 2013",
+      "Aplicacion urbana: Blue Zones Project Iowa Texas demostro reduccion obesidad 12%"
+    ],
+    "search_terms": ["sardinia mountains village", "okinawa elderly couple", "world map travel"],
+    "category": "zonas-azules",
+    "format": "longform"
+  },
+  {
+    "id": 2091,
+    "topic": "Como las mitocondrias decid en si llegas a los 100 anos",
+    "hook": "Mitocondria viejas energia se acaba",
+    "key_points": [
+      "Wallace 2010 Mitochondrion: disfuncion mitocondrial centro envejecimiento",
+      "Cada celula contiene 100-2000 mitocondrias produciendo ATP",
+      "ADN mitocondrial muta 10x mas rapido que ADN nuclear",
+      "Mitofagia limpia mitocondrias defectuosas via PINK1 PARKIN",
+      "Ejercicio aerobico aumenta biogenesis via PGC-1alpha 50%",
+      "Suplementos PQQ CoQ10 protegen membrana mitocondrial",
+      "Restriccion calorica activa SIRT1 mantiene biogenesis"
+    ],
+    "search_terms": ["mitochondria cellular biology", "athlete training power", "molecular animation"],
+    "category": "mitocondrias",
+    "format": "longform"
+  },
+  {
+    "id": 2092,
+    "topic": "El protocolo completo de ayuno intermitente que funciona",
+    "hook": "16 8 mal hecho engorda mas",
+    "key_points": [
+      "Mattson 2014 NEJM: ayuno 16h activa autofagia y cetosis",
+      "Empezar 12-12 e ir progresivamente a 16-8 evita cortisol",
+      "Romper ayuno proteina + grasa, no carbos rapidos",
+      "Mujeres beneficiadas con esquema 14-10 mas suave",
+      "Combinar con cafe negro mantiene autofagia segun Pietrocola 2014",
+      "Beneficios maximos 14 dias consistencia, no dias sueltos",
+      "Contraindicado embarazo, TCA, peso bajo, diabetes 1 sin medico"
+    ],
+    "search_terms": ["clock fasting time", "empty plate meal", "person eating window"],
+    "category": "ayuno",
+    "format": "longform"
+  },
+  {
+    "id": 2093,
+    "topic": "Telomeros: el reloj biologico que puedes detener",
+    "hook": "Telomeros reloj molecular cada celula",
+    "key_points": [
+      "Blackburn Premio Nobel 2009: telomeros protegen extremos cromosomas",
+      "Cada division celular acorta telomeros 50-100 pares de bases",
+      "Limite Hayflick: 50-70 divisiones antes senescencia celular",
+      "Telomerasa enzima alarga telomeros, activa solo celulas madre y cancer",
+      "Meditacion ejercicio aumentan telomerasa segun Jacobs 2011",
+      "Estres cronico fumar inflamacion acortan acelerado",
+      "Test telomeros disponible 200 euros, marcador edad biologica"
+    ],
+    "search_terms": ["dna chromosome telomere", "cell division microscope", "biological clock"],
+    "category": "telomeros",
+    "format": "longform"
+  },
+  {
+    "id": 2094,
+    "topic": "El sistema glinfatico el cerebro se limpia solo dormido",
+    "hook": "Cerebro lava placas dormido",
+    "key_points": [
+      "Xie 2013 Science: descubrimiento sistema glinfatico durante sueno profundo",
+      "Limpieza cerebral aumenta 60% en sueno N3 vs vigilia",
+      "Elimina beta-amiloide proteina causal Alzheimer",
+      "Privacion cronica sueno acumula amiloide en horas Shokri-Kojori 2018",
+      "Posicion lateral durante sueno optimiza drenaje glinfatico",
+      "Alcohol bloquea funcion glinfatica completamente",
+      "7-9h sueno calidad esencial prevencion demencia"
+    ],
+    "search_terms": ["brain mri scan", "deep sleep dark", "neurons brain cells"],
+    "category": "sueno",
+    "format": "longform"
+  },
+  {
+    "id": 2095,
+    "topic": "Microbioma intestinal: tu segundo cerebro decide tu salud",
+    "hook": "Bacterias deciden cerebro depresion",
+    "key_points": [
+      "Sender 2016 Cell: 38 billones bacterias, mismo numero celulas humanas",
+      "Eje intestino cerebro produce 90% serotonina via celulas enterocromafines",
+      "Disbiosis correlaciona Alzheimer, depresion, autismo, obesidad",
+      "Diversidad microbiana cae 40% con dieta occidental procesada",
+      "Fermentados kefir kimchi miso aportan cepas vivas",
+      "Fibra prebiotica 30g diarios diversifica microbioma 4 semanas",
+      "Trasplante fecal eficaz 90% C difficile recurrente segun van Nood 2013"
+    ],
+    "search_terms": ["bacteria laboratory", "fermented foods variety", "gut microbiome anatomy"],
+    "category": "microbioma",
+    "format": "longform"
+  },
+  {
+    "id": 2096,
+    "topic": "Hormona crecimiento natural sin inyecciones",
+    "hook": "Sueno profundo libera GH como adolescente",
+    "key_points": [
+      "GH liberada pulsatil sueno profundo N3 fases iniciales",
+      "Pico 90 min tras dormir representa 75% liberacion diaria",
+      "Ayuno 24h aumenta GH 1300% segun Ho 1988",
+      "Ejercicio HIIT eleva GH 530% durante 24h post",
+      "Dormir frio 18 grados optimiza secrecion natural",
+      "Inyecciones GH sintetica aumentan 30% mortalidad larga plazo",
+      "Lisina arginina pre-cama 2g cada estimula liberacion endogena"
+    ],
+    "search_terms": ["sleeping bedroom dark", "intense workout sweat", "hormones molecule"],
+    "category": "hormonas",
+    "format": "longform"
+  },
+  {
+    "id": 2097,
+    "topic": "Las 12 marcas del envejecimiento celular y como combatirlas",
+    "hook": "12 mecanismos envejecen cada celula",
+    "key_points": [
+      "Lopez-Otin 2013 Cell: 12 hallmarks del envejecimiento identificados",
+      "Inestabilidad genomica, acortamiento telomeros, alteraciones epigeneticas",
+      "Perdida proteostasis, deteccion alterada nutrientes, disfuncion mitocondrial",
+      "Senescencia celular, agotamiento celulas madre, comunicacion intercelular alterada",
+      "Inflamacion cronica, alteracion microbioma, autofagia disminuida",
+      "Cada hallmark interconectado, intervenir uno mejora otros",
+      "Estrategias: ayuno, ejercicio, sueno, dieta, gestion estres"
+    ],
+    "search_terms": ["cellular biology", "dna damage repair", "aged hands wrinkled"],
+    "category": "antiaging",
+    "format": "longform"
+  },
+  {
+    "id": 2098,
+    "topic": "Como la dieta mediterranea anade 10 anos a tu vida",
+    "hook": "Predimed prueba mediterranea bate todo",
+    "key_points": [
+      "PREDIMED 2013 NEJM: dieta mediterranea reduce 30% eventos cardiovasculares",
+      "Aceite oliva extra virgen 50g diarios marca diferencia",
+      "Frutos secos 30g/dia reducen 50% mortalidad coronaria Fraser 1992",
+      "Pescado azul 2x semana baja 36% mortalidad cardiovascular",
+      "Vegetales 5 raciones diarias minimo, 7 ideal",
+      "Vino tinto comida moderado 1 copa diaria opcional",
+      "Adherencia alta predice +10 anos esperanza vida segun Trichopoulou 2003"
+    ],
+    "search_terms": ["mediterranean salad colorful", "olive oil bread", "healthy plate fish"],
+    "category": "longevidad",
+    "format": "longform"
+  },
+  {
+    "id": 2099,
+    "topic": "Biohacking longevidad: 7 hacks que funcionan en 2025",
+    "hook": "7 trucos cientificos rejuvenecen ya",
+    "key_points": [
+      "Frio 11 min/semana baja 11 grados activa grasa parda Soberg 2021",
+      "Sauna 4-7x/semana reduce 50% mortalidad cardiovascular Laukkanen 2015",
+      "Restriccion calorica 12% mejora marcadores edad CALERIE 2 estudio",
+      "HIIT 4x4 min 3x semana mejora VO2max Wisloff 2007",
+      "Sueno 7-9h ventana 22-7 sincroniza ritmos circadianos",
+      "Ayuno 16h diario activa autofagia limpieza celular",
+      "Meditacion 20 min/dia reduce edad biologica Epel 2009"
+    ],
+    "search_terms": ["cold plunge ice", "sauna wellness", "sunrise meditation"],
+    "category": "biohacking",
+    "format": "longform"
+  },
+  {
+    "id": 2100,
+    "topic": "Ejercicio de fuerza despues de los 50: protocolo completo",
+    "hook": "Sin pesas 50 sarcopenia mortal",
+    "key_points": [
+      "Sarcopenia: perdida 1-2% muscular anual desde 30 acelera 60",
+      "Beaudart 2017: sarcopenia duplica mortalidad mayores",
+      "Pesas 2-3x semana revierte 80% perdida en 12 semanas",
+      "Proteina 1.6 g/kg peso optima Morton 2018 metaanalisis",
+      "Ejercicios compuestos: sentadilla, peso muerto, press banca, dominadas",
+      "Periodizacion 8-12 reps 3-4 series fuerza-hipertrofia",
+      "Combinar con vitamina D creatina 5g protege funcion muscular"
+    ],
+    "search_terms": ["older man weights gym", "strength training elderly", "deadlift barbell"],
+    "category": "ejercicio",
+    "format": "longform"
+  },
+  {
+    "id": 2101,
+    "topic": "Sueno perfecto: 9 ajustes basados en ciencia",
+    "hook": "Sueno calidad rejuvenece organo",
+    "key_points": [
+      "Walker 2017: <6h aumenta mortalidad 13%, optimo 7-9h",
+      "Temperatura 18 grados activa termorregulacion sueno profundo",
+      "Oscuridad total: melatonina inhibida 50% por luz minima",
+      "Bloquear azul 2h antes via gafas ambar o software",
+      "Cafeina cero pasadas 14h, vida media 6h",
+      "Magnesio glicinato 400mg pre-cama mejora N3",
+      "Rutina 22-7 consistente fines semana incluido",
+      "Sin pantallas dormitorio, lectura papel solo",
+      "Banera caliente 90 min antes baja temperatura corporal post"
+    ],
+    "search_terms": ["bedroom dark cozy", "person sleeping peaceful", "moon night sky"],
+    "category": "sueno",
+    "format": "longform"
+  },
+  {
+    "id": 2102,
+    "topic": "Suplementos longevidad: que funciona y que es estafa",
+    "hook": "9 de 10 suplementos no sirven nada",
+    "key_points": [
+      "Vitamina D 2000-4000 UI/dia evidencia solida deficit corregible",
+      "Magnesio glicinato 400 mg deficit 70% poblacion espanola",
+      "Omega 3 EPA DHA 2g/dia cardioprotector validado",
+      "Creatina 5g/dia musculo y cerebro evidencia metaanalitica",
+      "Vitamina B12 metilada solo si vegano o malabsorcion",
+      "NMN NR resveratrol pterostilbeno: prometedores no concluyentes",
+      "Antioxidantes sinteticos C E aumentan mortalidad Bjelakovic 2007",
+      "Megadosis multivitaminicos Iowa Women's Study mas mortalidad"
+    ],
+    "search_terms": ["supplements pills variety", "vitamins bottles", "nutritional capsules"],
+    "category": "suplementos",
+    "format": "longform"
+  },
+  {
+    "id": 2103,
+    "topic": "Como los Okinawenses reducen 50% cancer con su dieta",
+    "hook": "Okinawa cero cancer mama prostata",
+    "key_points": [
+      "Willcox 2007: Okinawa 80% menos cancer mama prostata vs EEUU",
+      "Restriccion calorica natural 1800 kcal vs 2500 EEUU",
+      "Boniato morado 67% calorias diarias antioxidante 10x batata normal",
+      "Bitter melon (goya) baja glucosa via charantina",
+      "Konbu wakame algas yodo selenio antitumorales",
+      "Sin lacteos sin azucar refinado tradicionalmente",
+      "Te jasmin polifenoles diarios 3-4 tazas",
+      "Tofu fermentado 100g diarios aporta isoflavonas equivalente IGF-1"
+    ],
+    "search_terms": ["okinawan vegetables", "purple sweet potato", "japanese cuisine traditional"],
+    "category": "zonas-azules",
+    "format": "longform"
+  },
+  {
+    "id": 2104,
+    "topic": "El cortisol cronico: como medirlo y bajarlo naturalmente",
+    "hook": "Cortisol arruina tu cuerpo silenciosamente",
+    "key_points": [
+      "Cortisol alto cronico atrofia hipocampo Sapolsky 1990",
+      "Test saliva 4 puntos dia patron diurno mas exacto",
+      "Despertar +50% sobre baseline indica fatiga adrenal",
+      "Meditacion 20 min/dia reduce cortisol 31% Pascoe 2017",
+      "Respiracion lenta 6 rpm activa nervio vago",
+      "Ashwagandha 600mg/dia reduce cortisol 27% segun Lopresti 2019",
+      "Ejercicio moderado baja cortisol, intenso lo eleva agudo",
+      "Sueno 7-9h baseline mas importante intervencion"
+    ],
+    "search_terms": ["stressed worker office", "meditation calm pose", "yoga sunset"],
+    "category": "estres",
+    "format": "longform"
+  },
+  {
+    "id": 2105,
+    "topic": "Senolticos: las moleculas que matan celulas zombi",
+    "hook": "Eliminar celulas viejas rejuvenece organos",
+    "key_points": [
+      "Baker 2016 Nature: eliminar celulas senescentes alarga 35% vida raton",
+      "Quercetina + dasatinib combinacion senolitica probada en humanos",
+      "Fisetin fresa polifenol senolitico natural Yousefzadeh 2018",
+      "Celulas senescentes secretan SASP inflamacion cronica vecinos",
+      "Acumulan con edad: 1% celulas viejos 30 anos, 20% 70 anos",
+      "Ensayos clinicos fase 2 Mayo Clinic enfermedad pulmonar",
+      "Dosis pulsatil 2 dias mes mas eficaz que continua",
+      "Brocoli sulforafano activador endogeno menos potente"
+    ],
+    "search_terms": ["zombie cell biology", "molecular research", "anti aging medicine"],
+    "category": "antiaging",
+    "format": "longform"
+  },
+  {
+    "id": 2106,
+    "topic": "Restriccion calorica sin pasar hambre: 5 metodos validados",
+    "hook": "Comer menos sin sufrir hambre",
+    "key_points": [
+      "CALERIE 2 trial: 12% restriccion 2 anos mejora marcadores edad",
+      "Densidad calorica baja: vegetales sopas frutas saciantes",
+      "Proteina 30% calorias maximiza saciedad por kcal",
+      "Fibra 30g/dia ralentiza vaciado gastrico saciedad larga",
+      "Volumen alimentos: ensaladas grandes mismo total calorico",
+      "Comer despacio masticar 30 veces activa hormonas saciedad",
+      "Ayuno intermitente 16-8 reduce ventana sin contar",
+      "Hidratacion: 500ml agua antes comida reduce ingesta 13%"
+    ],
+    "search_terms": ["small portion plate", "vegetables abundance", "salad bowl colorful"],
+    "category": "longevidad",
+    "format": "longform"
+  },
+  {
+    "id": 2107,
+    "topic": "VO2max el predictor numero 1 de mortalidad",
+    "hook": "VO2max bajo dispara mortalidad 5x",
+    "key_points": [
+      "Mandsager 2018 JAMA: VO2max bajo aumenta 5x mortalidad",
+      "Mejor predictor longevidad que cualquier otro factor modificable",
+      "Test laboratorio o estimacion via Cooper 12 min carrera",
+      "Mejorable 25% con entrenamiento HIIT 12 semanas",
+      "Norweggian 4x4: 4 min 90% FCmax x4 con 3 min recovery",
+      "Frecuencia: 3 sesiones/semana minimo para adaptacion",
+      "Combinar zona 2 larga duracion mejora base aerobica",
+      "Mayor 65 anos: 22 ml/kg/min minimo aceptable"
+    ],
+    "search_terms": ["athlete running track", "cardio test treadmill", "heart rate monitor"],
+    "category": "ejercicio",
+    "format": "longform"
+  },
+  {
+    "id": 2108,
+    "topic": "Hormonas femeninas perimenopausia: gestion completa",
+    "hook": "Perimenopausia 10 anos antes menopausia",
+    "key_points": [
+      "Perimenopausia inicia 35-45 anos, dura promedio 7-10 anos",
+      "Sintomas: sofocos, insomnio, ansiedad, niebla mental, peso",
+      "FSH y estradiol fluctuan caoticamente, no caen lineal",
+      "TRH bioidentica primeros 10 anos reduce 30% mortalidad WHI",
+      "Progesterona micronizada nocturna mejora sueno y huesos",
+      "Soja isoflavonas 100mg/dia reducen 50% sofocos",
+      "Black cohosh evidencia mixta segun ensayos europeos",
+      "Ejercicio fuerza esencial preservar masa osea muscular",
+      "Suplementos: vitamina D, magnesio, omega 3, vitamina K2"
+    ],
+    "search_terms": ["mature woman wellness", "hormone balance", "menopause health"],
+    "category": "hormonas",
+    "format": "longform"
+  },
+  {
+    "id": 2109,
+    "topic": "El microbioma de los centenarios: que comen para vivir 100 anos",
+    "hook": "Microbioma centenarios bacterias unicas",
+    "key_points": [
+      "Biagi 2010 Cerdena: centenarios enriquecidos Bifidobacterium Akkermansia",
+      "Diversidad microbiana mayor predice longevidad excepcional",
+      "Akkermansia muciniphila ratio 4% intestino centenario vs 1% promedio",
+      "Fibra prebiotica diaria diversifica microbioma 4 semanas",
+      "Fermentados crudos kefir kombucha aportan probioticos vivos",
+      "Polifenoles te verde cacao alimentan bacterias beneficiosas",
+      "Antibioticos solo cuando esenciales evitar disbiosis",
+      "Naturaleza contacto suelo mejora microbioma rural Hanski 2012"
+    ],
+    "search_terms": ["fermented foods variety", "yogurt kefir natural", "vegetables garden"],
+    "category": "microbioma",
+    "format": "longform"
+  },
+  {
+    "id": 2110,
+    "topic": "El efecto del estres cronico en envejecimiento celular",
+    "hook": "Estres cronico envejece visible 10 anos",
+    "key_points": [
+      "Epel 2004 PNAS: madres cuidadoras telomeros 10 anos mas viejos",
+      "Cortisol cronico inhibe telomerasa Choi 2008",
+      "Inflamacion cronica IL-6 TNF-alpha causada estres acelera senescencia",
+      "Reduce neurogenesis hipocampo y atrofia prefrontal",
+      "Meditacion 8 semanas revierte parcialmente Davidson 2003",
+      "Ejercicio aerobico 30 min reduce cortisol baseline 20%",
+      "Sueno 7-9h consolida regulacion eje HPA",
+      "Conexion social oxitocina antagonista cortisol natural",
+      "Ashwagandha rhodiola adaptogenos validados clinicamente"
+    ],
+    "search_terms": ["stressed person worried", "yoga peaceful mountain", "meditation forest"],
+    "category": "estres",
+    "format": "longform"
+  },
+  {
+    "id": 2111,
+    "topic": "Como Sinclair recupero 20 anos biologicos en 4 anos",
+    "hook": "Sinclair test edad 20 anos menor",
+    "key_points": [
+      "David Sinclair Harvard: protocolo personal documentado libro Lifespan 2019",
+      "Resveratrol 1g/dia, NMN 1g/dia, metformina 800mg/dia, estatina baja",
+      "Restriccion calorica autoimpuesta saltarse comida diaria",
+      "Ejercicio HIIT 3x/semana mantener VO2max alto",
+      "Vitamina D K2 omega 3 alpha lipoic acido suplementos basicos",
+      "Test edad biologica metilacion ADN: 58 cronologico, 38 biologico",
+      "No carne roja minimizar IGF-1 estimulante crecimiento",
+      "Sueno 7-8h prioridad absoluta, frio nocturno 18 grados",
+      "Cuestionado por algunos cientificos: muestra n=1 no validado RCT"
+    ],
+    "search_terms": ["scientist laboratory aging", "anti aging research", "molecular biology"],
+    "category": "antiaging",
+    "format": "longform"
+  },
+  {
+    "id": 2112,
+    "topic": "Como la inflamacion cronica acelera todas las enfermedades de la vejez",
+    "hook": "Inflammaging causa cancer Alzheimer infarto",
+    "key_points": [
+      "Franceschi 2000: inflammaging caracteristica universal envejecimiento",
+      "Marcadores: PCR alta, IL-6 elevada, TNF-alpha cronico",
+      "Causa comun: cancer, Alzheimer, infarto, diabetes, sarcopenia",
+      "Origenes: dieta, sedentarismo, estres, mala higiene oral, disbiosis",
+      "Test PCR ultrasensible <1 mg/L objetivo, >3 alto riesgo",
+      "Omega 3 2g/dia reduce CRP 30% Calder 2013",
+      "Curcuma sulforafano polifenoles antiinflamatorios naturales",
+      "Ejercicio moderado paradojo antiinflamatorio cronico",
+      "Sueno 7-9h reduce IL-6 nocturno",
+      "Ayuno intermitente reduce inflammaging via autofagia"
+    ],
+    "search_terms": ["inflammation cells microscope", "anti inflammatory foods", "healthy aging body"],
+    "category": "antiaging",
+    "format": "longform"
+  },
+  {
+    "id": 2113,
+    "topic": "El protocolo de longevidad de Peter Attia explicado",
+    "hook": "Attia framework 4 horsemen mortalidad",
+    "key_points": [
+      "4 jinetes: enfermedad cardiovascular, cancer, neurodegeneracion, metabolica",
+      "Marker N1: APOB no LDL para riesgo cardiovascular preciso",
+      "Estabilidad funcional: VO2max, fuerza, equilibrio decadas adelante",
+      "Zona 2 cardio 3 horas/semana base mitocondrial maxima",
+      "Pesas 4x/semana cuerpo entero antisarcopenia",
+      "Sueno 8h rigida prioridad sobre training intenso",
+      "Estabilidad emocional terapia coaching prevencion suicidio masculino",
+      "Test edad biologica metilacion ADN cada 6 meses",
+      "Suplementos basicos: D, omega 3, magnesio, B12, creatina",
+      "Resistencia cualidad #1 longevidad funcional"
+    ],
+    "search_terms": ["doctor stethoscope", "health checkup elderly", "fitness assessment"],
+    "category": "longevidad",
+    "format": "longform"
+  },
+  {
+    "id": 2114,
+    "topic": "El reloj epigenetico de Horvath: tu edad real",
+    "hook": "Tu edad metilacion no DNI",
+    "key_points": [
+      "Horvath 2013: reloj epigenetico predice edad biologica via metilacion ADN",
+      "Mide 353 sitios CpG genoma con precision 3.6 anos",
+      "Diferencia con edad cronologica predice mortalidad y enfermedad",
+      "Acelerado 5+ anos duplica riesgo muerte segun Marioni 2015",
+      "Modificable estilo vida: ejercicio dieta sueno reducen edad biologica",
+      "Estudio TRIIM 2019: GH metformina DHEA reducen 2.5 anos en 1 ano",
+      "Tests comerciales: TruDiagnostic, Elysium, GlycanAge desde 200 euros",
+      "Replicar resultado requiere RCT mayor escala todavia",
+      "Promesa medicina precision personalizada longevidad",
+      "Combinable con telomeros omics para perfil completo"
+    ],
+    "search_terms": ["dna methylation lab", "biological age test", "genetic research"],
+    "category": "antiaging",
+    "format": "longform"
+  },
+  {
+    "id": 2115,
+    "topic": "Como dormir como un atleta de elite: ciencia del sueno",
+    "hook": "Atletas duermen 10h ganan oro",
+    "key_points": [
+      "Mah 2011: jugadores Stanford basket dormir 10h mejoraron 9% triples 14% tiros libres",
+      "Sueno consolida memoria muscular y aprendizaje motor",
+      "GH liberada 75% sueno profundo N3 reparacion tisular",
+      "Atletas elite: Federer 12h, LeBron 12h, Maria Sharapova 10h",
+      "Siesta 20 min mejora rendimiento sin grogginess",
+      "Temperatura 18 grados optimiza arquitectura sueno",
+      "Cero pantallas 2h antes via gafas ambar",
+      "Cafeina cero pasadas 14h, vida media 6h",
+      "Magnesio glicinato pre-cama, no melatonina rutina",
+      "Tracking Oura Whoop optimiza calidad medida"
+    ],
+    "search_terms": ["athlete sleeping recovery", "sports performance rest", "bedroom dark cool"],
+    "category": "sueno",
+    "format": "longform"
+  },
+  {
+    "id": 2116,
+    "topic": "Los polifenoles que rejuvenecen tu piel desde dentro",
+    "hook": "Comer color rejuvenece piel mejor",
+    "key_points": [
+      "Polifenoles vegetales protegen contra dano UV y AGE",
+      "Antocianinas frutos rojos reducen MMP-1 colagenasa Wallace 2016",
+      "EGCG te verde inhibe glicacion y oxidacion piel",
+      "Resveratrol uva piel activa SIRT1 longevidad celular",
+      "Curcumina turmeric reduce inflamacion sistemica visible",
+      "Sulforafano brocoli activa Nrf2 detoxificacion celular",
+      "Cafe acido clorogenico antioxidante demostrado piel",
+      "Cacao 80% flavanoles mejoran microcirculacion 30%",
+      "Aceite oliva oleocantal antiinflamatorio similar ibuprofeno",
+      "Combinar con vitamina C colageno endogeno potencia efecto"
+    ],
+    "search_terms": ["colorful fruits vegetables", "berries antioxidant", "young skin glowing"],
+    "category": "antiaging",
+    "format": "longform"
+  },
+  {
+    "id": 2117,
+    "topic": "El ejercicio que activa todos los sistemas longevidad",
+    "hook": "Zona 2 base mitocondrial perfecta",
+    "key_points": [
+      "Zona 2: 60-70% FCmax, capaz hablar conversacion completa",
+      "San Millan investigador: zona 2 maximiza biogenesis mitocondrial",
+      "180 min/semana minimo para adaptacion completa",
+      "Quema grasa eficiencia maxima sin estres oxidativo",
+      "Combinar con HIIT 1x semana mejora VO2max paralelo",
+      "Caminar rapido cuesta arriba alcanza zona 2 muchas personas",
+      "Bici elliptica natacion alternativas bajas impacto",
+      "Lactato sangre <2 mmol/L confirma zona 2 verdadera",
+      "Marcadores: aumenta capacidad oxidativa, sensibilidad insulina, salud mitocondrial"
+    ],
+    "search_terms": ["walking hill nature", "moderate cardio outdoor", "exercise fitness adult"],
+    "category": "ejercicio",
+    "format": "longform"
+  },
+  {
+    "id": 2118,
+    "topic": "Por que las mujeres viven mas y como aprovecharlo hombres",
+    "hook": "Hombres mueren 6 anos antes razon",
+    "key_points": [
+      "INE 2023: mujer 86 hombre 80 anos esperanza Espana",
+      "Doble cromosoma X reduce expresion mutaciones acumuladas con edad",
+      "Estrogeno aumenta produccion antioxidantes mitocondriales Vina 2003",
+      "Hombres mayor masa muscular mayor consumo oxigeno mas radicales libres",
+      "Comportamiento riesgo: alcohol tabaco accidentes laborales matan hombres",
+      "Conexion social femenina protectora cardiovascular",
+      "Salud mental hombres tabu reduce busqueda ayuda temprana",
+      "Hormonas testosterona alta acortan vida segun Min 2012",
+      "Lecciones: imitar habitos sociales, suaves, conexion emocional",
+      "Ejercicio fuerza mas importante hombres 50+ contrarresta"
+    ],
+    "search_terms": ["women longevity friends", "elderly couple love", "female community"],
+    "category": "longevidad",
+    "format": "longform"
+  },
+  {
+    "id": 2119,
+    "topic": "El protocolo de Wim Hof y la evidencia cientifica real",
+    "hook": "Wim Hof respira sistema inmune",
+    "key_points": [
+      "Kox 2014 PNAS: metodo Wim Hof activa sistema inmune voluntariamente",
+      "Respiracion + frio + meditacion eleva adrenalina endogena",
+      "Reduce inflamacion en endotoxina inyectada estudio",
+      "Frio activa grasa parda quema 300 kcal/dia van Marken 2009",
+      "Adaptacion noradrenalina aumenta 530% en 10 grados",
+      "Riesgos: hiperventilacion sincope agua peligrosa",
+      "Beneficios validados: HRV, inmunidad, animo, mitocondrias",
+      "Evidencia limitada en cancer y otras claims grandes",
+      "Empezar progresivo: ducha fria final 30s a 2 min",
+      "Combinar con respiracion cuadrada o Wim Hof 3 rondas"
+    ],
+    "search_terms": ["cold water immersion", "breathing exercise meditation", "ice bath nature"],
+    "category": "biohacking",
+    "format": "longform"
+  },
+  {
+    "id": 2120,
+    "topic": "Como Buettner descubrio las zonas azules y que prueba la ciencia",
+    "hook": "Buettner mapeo planeta longevidad",
+    "key_points": [
+      "Dan Buettner National Geographic 2004: identifico 5 zonas longevidad excepcional",
+      "Validacion estadistica esperanza vida documental certificada",
+      "Sardenia primera zona Pes Poulain 2004 demografos italianos",
+      "Common 9 patrones identificados en todas las regiones",
+      "Critica: confundir factores ambientales con geneticos posible",
+      "Aplicacion practica Blue Zones Project EEUU 25 ciudades reduccion obesidad 12%",
+      "Power 9: movimiento, proposito, baja estres, hara hachi bu, plant slant",
+      "Tribu social pertenencia, fe, familia primero, vino moderado",
+      "Replicar urbanismo: ciudades caminables, comunidad activa, alimentos locales"
+    ],
+    "search_terms": ["blue zones map world", "elderly longevity portrait", "centenarian active"],
+    "category": "zonas-azules",
+    "format": "longform"
+  },
+  {
+    "id": 2121,
+    "topic": "El protocolo nutricional para vivir 100 anos sano",
+    "hook": "Plato perfecto longevidad cientifico",
+    "key_points": [
+      "Plate Method longevidad: 50% vegetales, 25% proteina, 25% carbos integrales",
+      "Plant slant: 95% calorias vegetales segun Buettner Blue Zones",
+      "Legumbres 1 taza/dia reduce 8% mortalidad cualquier causa Darmadi 2014",
+      "Frutos secos 30g/dia reducen 50% mortalidad coronaria Fraser 1992",
+      "Pescado azul 2x semana baja 36% cardiovascular Mozaffarian 2006",
+      "Aceite oliva extra virgen 50g/dia reduce 30% eventos PREDIMED",
+      "Carne roja max 1x/mes adventistas Loma Linda referencia",
+      "Azucar libre <25g/dia OMS objetivo prevencion enfermedad",
+      "Hidratar 2L agua, evitar refrescos azucarados refinados"
+    ],
+    "search_terms": ["healthy plate balanced", "mediterranean meal", "vegetables protein dish"],
+    "category": "longevidad",
+    "format": "longform"
+  },
+  {
+    "id": 2122,
+    "topic": "El microbioma oral: la boca decide cerebro y corazon",
+    "hook": "Bacterias boca matan corazon cerebro",
+    "key_points": [
+      "Dominy 2019 Sci Adv: P. gingivalis encontrada cerebro Alzheimer pacientes",
+      "Periodontitis duplica riesgo enfermedad cardiovascular Beck 1996",
+      "Bacterias orales translocan via sangre disenando inflamacion sistemica",
+      "Cepillado 2x dia + hilo dental imprescindible profilaxis",
+      "Aceite coco oil pulling 10 min reduce S. mutans 50% Asokan 2008",
+      "Limpieza dental profesional 2x ano reduce infarto 24%",
+      "Bicarbonato semanal limpieza profunda alternativa pasta abrasiva",
+      "Probioticos orales L. reuteri reducen sangrado encia 50%",
+      "Diabetes mellitus duplica riesgo periodontitis cronica",
+      "Microbioma oral diverso predice salud sistemica general"
+    ],
+    "search_terms": ["dental health teeth", "tooth brushing care", "mouth bacteria oral"],
+    "category": "microbioma",
+    "format": "longform"
+  },
+  {
+    "id": 2123,
+    "topic": "Hormona DHEA: la madre de todas las hormonas",
+    "hook": "DHEA cae 80% los 70 anos",
+    "key_points": [
+      "DHEA precursor estrogeno testosterona sintesis adrenal",
+      "Pico 25 anos cae 2-3% anual hasta 80% bajo a los 70",
+      "Bajo nivel correlaciona enfermedad cardiovascular Alzheimer cancer",
+      "Suplementacion 25-50mg/dia restaura niveles juveniles",
+      "Mejora libido, fuerza, animo, memoria mayores 50",
+      "Estudio TRIIM 2019 reduccion 2.5 anos edad biologica con DHEA + GH + metformina",
+      "Contraindicado cancer hormona-dependiente prostata mama",
+      "Test sangre DHEA-S anual marcador clave salud adrenal",
+      "Estilo vida estimula: ejercicio, sueno, manejo estres",
+      "Solo bajo supervision medica con monitoreo trimestral"
+    ],
+    "search_terms": ["hormone supplement bottle", "adrenal gland anatomy", "older adult healthy"],
+    "category": "hormonas",
+    "format": "longform"
+  },
+  {
+    "id": 2124,
+    "topic": "Como medir tu edad biologica en casa: 5 tests",
+    "hook": "5 tests revelan tu edad real",
+    "key_points": [
+      "Test sentar-levantar suelo Brito 2012: <8 puntos duplica mortalidad 6 anos",
+      "Equilibrio pierna sola 30s mide salud cerebelo vestibular Araujo 2022",
+      "Cooper 12 min: VO2max estimado predictor #1 longevidad",
+      "Fuerza prensil dinamometro: <26kg hombre <16kg mujer alto riesgo",
+      "Pasos 7000+ diarios reduce 50% mortalidad Saint-Maurice 2020",
+      "Test FCmax recuperacion 1 min: <12 lpm anormal cardiaco",
+      "Wainscoting test: tocar suelo dedos rodillas rectas flexibilidad",
+      "Reloj epigenetico comercial 200-400 euros precision biologica",
+      "Combinacion 5 tests proporciona perfil edad biologica funcional",
+      "Repetir cada 6 meses para tracking intervenciones"
+    ],
+    "search_terms": ["fitness test elderly", "balance exercise pose", "health assessment"],
+    "category": "longevidad",
+    "format": "longform"
+  },
+  {
+    "id": 2125,
+    "topic": "El mTOR y la longevidad: cuando comer y cuando ayunar",
+    "hook": "mTOR encendido envejece celulas",
+    "key_points": [
+      "mTOR sensor nutrientes celular activado proteina insulina",
+      "Activacion cronica mTOR acelera envejecimiento Kennedy 2014",
+      "Rapamicina inhibe mTOR alarga vida 25% raton Harrison 2009",
+      "Restriccion proteica intermitente desactiva mTOR limpieza",
+      "Ayuno 16h activa autofagia via inhibicion mTOR",
+      "Proteinas vegetales menor activacion mTOR vs animales",
+      "Levadura, grilo C. elegans demuestran inhibicion mTOR alarga vida",
+      "Equilibrio: necesario activar mTOR post-ejercicio sintesis proteica",
+      "Ciclo natural: ayuno-comer-ejercicio respeta biologia ancestral",
+      "Solo bajo supervision medica intervenciones farmacologicas"
+    ],
+    "search_terms": ["protein meal vegetables", "fasting clock", "cellular pathway molecular"],
+    "category": "longevidad",
+    "format": "longform"
+  },
+  {
+    "id": 2126,
+    "topic": "Como prevenir Alzheimer: protocolo Dale Bredesen ReCODE",
+    "hook": "Bredesen revierte Alzheimer 36 protocolo",
+    "key_points": [
+      "Bredesen 2014 Aging: 9 de 10 pacientes Alzheimer leve mejoraron protocolo 36 puntos",
+      "Identificar tipo Alzheimer: inflamatorio, atrofico, toxico, glicotoxico, vascular",
+      "Eliminar neuroinflamacion: inflamatorio CRP <1, omega 3, curcumina",
+      "Optimizar hormonas: insulina, estradiol, testosterona, DHEA, vitamina D",
+      "Reducir homocisteina <7 con B12 metilada folato B6",
+      "Sueno 8h ininterrumpido: limpieza glinfatica beta-amiloide",
+      "Ayuno 12-16h diario activa autofagia neuronal",
+      "Ejercicio aerobico 45 min 5x semana aumenta BDNF",
+      "Estimulacion cognitiva nuevo aprendizaje complejo diario",
+      "Eliminar toxinas: mercurio, moho, metales pesados",
+      "Critica: ensayos clinicos rigurosos pendientes validacion"
+    ],
+    "search_terms": ["brain healthy aging", "alzheimer prevention research", "cognitive activity elderly"],
+    "category": "antiaging",
+    "format": "longform"
+  },
+  {
+    "id": 2127,
+    "topic": "El enigma de los Hunza: longevos pakistanis del Himalaya",
+    "hook": "Hunza viven 110 anos sin canas",
+    "key_points": [
+      "McCarrison 1921: tribu Hunza Pakistan reportada esperanza vida 110 anos",
+      "Validacion cientifica posterior cuestiono cifras exactas",
+      "Dieta basica: albaricoques (con almendra hueso), trigo integral, lacteos cabra",
+      "Caminar diario obligatorio 8h en pendientes himalayas",
+      "Agua glaciar dura mineral: calcio magnesio, silicio",
+      "Sin azucar refinado, sin alimentos procesados, sin tabaco",
+      "Hara hachi bu equivalente: parar comer al 80% saciedad",
+      "Comunidad social fuerte, religion practica, sin estres laboral",
+      "Lecciones aplicables: movimiento, dieta limpia, conexion social",
+      "Modelo idealizado pero principios validados ciencia Blue Zones"
+    ],
+    "search_terms": ["pakistan mountain village", "himalaya farming", "elderly active outdoor"],
+    "category": "zonas-azules",
+    "format": "longform"
+  },
+  {
+    "id": 2128,
+    "topic": "El secreto del aceite MCT y cetosis para envejecimiento cerebral",
+    "hook": "Cetonas alimentan cerebro mejor glucosa",
+    "key_points": [
+      "Newport 2008: aceite MCT mejoro cognicion Alzheimer marido medica",
+      "Cuerpos cetonicos beta-hidroxibutirato fuente energia preferente cerebro",
+      "MCT C8 caprilico convertido cetonas en 30 min sin cetosis dietetica",
+      "Estudio Henderson 2009 Axona: 20g MCT mejoro cognicion Alzheimer leve",
+      "Combinable con dieta normal sin restriccion carbohidratos",
+      "Empezar 1 cucharada al dia, aumentar gradualmente 3-4 cucharadas",
+      "Coco oil 60% MCT alternativa natural mas economica",
+      "Beneficios: claridad mental, energia sostenida, perdida grasa",
+      "Combinar con ayuno 16h potencia produccion cetonas",
+      "Contraindicado problemas vesicula hepaticos sin medico"
+    ],
+    "search_terms": ["coconut oil bottle", "mct supplement", "brain neurons energy"],
+    "category": "biohacking",
+    "format": "longform"
+  },
+  {
+    "id": 2129,
+    "topic": "Por que las personas felices viven mas: la ciencia de la felicidad",
+    "hook": "Feliz vive 7 anos mas",
+    "key_points": [
+      "Diener 2011 metaanalisis: felicidad alta 35% menos mortalidad",
+      "Estudio Nun Study Snowdon: monjas optimistas vivieron 10 anos mas",
+      "Optimismo medible test LOT-R reduce 50% enfermedad coronaria Kim 2017",
+      "Activa parasympatico, baja cortisol, sistema inmune fortalecido",
+      "Conexion social #1 predictor felicidad Harvard 80 anos",
+      "Gratitud diaria 3 cosas reduce depresion 20% Seligman 2005",
+      "Voluntariado regular 100h ano alarga vida 4 anos Konrath 2012",
+      "Meditacion mindfulness aumenta felicidad set point",
+      "Naturaleza 2h semana mejora bienestar 60% White 2019",
+      "Riqueza poco impacto pasado 75000 dolares anuales Kahneman 2010"
+    ],
+    "search_terms": ["happy elderly smiling", "joyful family gathering", "gratitude moment nature"],
+    "category": "longevidad",
+    "format": "longform"
+  },
+  {
+    "id": 2130,
+    "topic": "El secreto japones de longevidad: ikigai y la ciencia",
+    "hook": "Ikigai razon vivir alarga vida",
+    "key_points": [
+      "Ikigai: razon de ser japonesa interseccion pasion mision vocacion profesion",
+      "Tanno 2009 Japon 43000 personas: ikigai reduce 50% mortalidad cardiovascular",
+      "Hill 2014: sentido vida reduce 15% mortalidad cualquier causa",
+      "Activa areas prefrontal, motivacion, dopamina sostenida",
+      "Jubilacion sin ikigai duplica declive cognitivo segun Mein 2003",
+      "Encontrar ikigai: 4 preguntas integradoras pasion-talento-mundo-renta",
+      "Voluntariado, mentoria, hobbies expertos via libros cursos",
+      "Comunidades japonesas mantienen ikigai colectivo: matsuri festivales",
+      "Aplicacion occidental: proposito laboral, familia, fe, contribucion",
+      "Renueva con cada decada vida, no estatico, evoluciona"
+    ],
+    "search_terms": ["japanese garden meditation", "elderly working purpose", "community gathering elder"],
+    "category": "longevidad",
+    "format": "longform"
+  },
+  {
+    "id": 2131,
+    "topic": "Como ayuno de 5 dias renueva sistema inmune completo",
+    "hook": "5 dias sin comer reset inmunidad",
+    "key_points": [
+      "Cheng 2014 Cell Stem Cell: ayuno 72-120h reset celulas madre hematopoyeticas",
+      "Reduce IGF-1 50% PKA disminuyendo riesgo cancer Longo 2010",
+      "Activa autofagia masiva limpieza proteinas danadas y mitocondrias viejas",
+      "Renovacion celulas inmunes: linfocitos T B NK regenerados",
+      "Mejora marcadores: glucosa, colesterol, presion arterial 1 mes",
+      "Dieta FMD Longo 800 kcal 5 dias mes equivale ayuno completo",
+      "Solo bajo supervision medica: contraindicado embarazo TCA diabetes 1",
+      "Hidratacion electrolitos: agua, sal, magnesio, potasio esenciales",
+      "Romper progresivo: caldo, frutas, vegetales, proteina dia 2",
+      "Repetir 1-2 veces ano protocolo prevencion intensiva",
+      "Beneficios maximos en metabolicos sobrepeso, diabetes 2, autoinmunes"
+    ],
+    "search_terms": ["empty plate fasting", "water bottle hydration", "minimal meal small"],
+    "category": "ayuno",
+    "format": "longform"
+  },
+  {
+    "id": 2132,
+    "topic": "El protocolo cardiovascular para vivir mas alla de los 90",
+    "hook": "Corazon joven 90 anos posible",
+    "key_points": [
+      "Cardiovascular #1 causa muerte: 80% prevenible con estilo vida Yusuf 2004",
+      "Marcadores claves: APOB <80, Lp(a) <50, CRP <1, presion <120/80",
+      "Ejercicio aerobico zona 2 180 min/semana base mitocondrial",
+      "HIIT 4x4 min mejora VO2max predictor #1 mortalidad",
+      "Dieta mediterranea + omega 3 reduce 30% eventos PREDIMED",
+      "Estatinas debate: prevencion primaria controversial, secundaria validada",
+      "Calcio score TC <0 corona excelente prognostico 10 anos",
+      "Enfermedad periodontal duplica riesgo: higiene oral fundamental",
+      "Sueno 7-9h reduce 27% eventos cardiovasculares",
+      "Estres cronico y depresion factores independientes ignorados",
+      "Test anual: APOB, glucosa ayunas, HbA1c, vitamina D, homocisteina"
+    ],
+    "search_terms": ["heart anatomy healthy", "cardiac health monitor", "elderly active fitness"],
+    "category": "longevidad",
+    "format": "longform"
+  },
+  {
+    "id": 2133,
+    "topic": "Como Adventistas viven 10 anos mas: estudio cientifico",
+    "hook": "Adventistas baten EEUU media 10 anos",
+    "key_points": [
+      "Adventist Health Study 2 Loma Linda 96000 personas seguimiento decadas",
+      "Vegetarianos -12% mortalidad vs omnivoros segun Orlich 2013",
+      "Veganos 50% menos diabetes 2, 30% menos cancer Fraser 2009",
+      "Frutos secos 5+ veces semana: 50% menos enfermedad coronaria Fraser 1992",
+      "Sabado descanso obligatorio 24h reduce estres cronico semanal",
+      "Sin alcohol, sin tabaco, ejercicio regular comunidad",
+      "Conexion social fuerte iglesia y voluntariado",
+      "Proposito vida vinculado fe y servicio comunidad",
+      "Dieta lacto-ovo-vegetariana mayoria practicantes",
+      "Ejercicio caminar diario tras culto, sin gimnasio especial",
+      "Lecciones aplicables: dieta vegetal, descanso semanal, comunidad fe"
+    ],
+    "search_terms": ["california community elderly", "vegetarian meal salad", "church community service"],
+    "category": "zonas-azules",
+    "format": "longform"
+  },
+  {
+    "id": 2134,
+    "topic": "El protocolo de Huberman para optimizar testosterona naturalmente",
+    "hook": "Huberman triplica testosterona sin TRT",
+    "key_points": [
+      "Andrew Huberman Stanford podcast: protocolo natural validado cientifica",
+      "Sueno 7-9h prioridad: <5h reduce testosterona 15% en 1 semana Leproult 2011",
+      "Ejercicio fuerza compuesto 3-4x semana eleva testosterona 40% Kraemer",
+      "Sprint 30 segundos all-out alta produccion HGH testosterona Hackney 2014",
+      "Sol matutino directo ojos 10 min activa LH FSH eje HHG",
+      "Restriccion calorica leve 10% mejora ratio testosterona estradiol",
+      "Suplementos: zinc 30mg, magnesio glicinato 400mg, vitamina D 5000 UI",
+      "Tongkat ali 400mg/dia eleva testosterona 30% segun Tambi 2012",
+      "Evitar: alcohol cronico, sueno fragmentado, sobreentrenamiento",
+      "Frio 11 min/semana exposicion 11 grados activa hormonas anabolicas",
+      "Test SHBG free testosterona total cada 6 meses tracking"
+    ],
+    "search_terms": ["man strength training", "morning sunlight outdoor", "athletic male fitness"],
+    "category": "hormonas",
+    "format": "longform"
+  },
+  {
+    "id": 2135,
+    "topic": "Como la conexion social alarga vida mas que dieta o ejercicio",
+    "hook": "Soledad mata mas que fumar",
+    "key_points": [
+      "Holt-Lunstad 2010 metaanalisis: relaciones sociales reducen 50% mortalidad",
+      "Soledad cronica equivalente fumar 15 cigarros dia segun Cacioppo 2014",
+      "Harvard Study of Adult Development 80 anos: relaciones #1 felicidad",
+      "Centenarios Blue Zones: pertenencia tribu social caracteristica universal",
+      "Mecanismos: oxitocina baja cortisol, sentido proposito, motivacion vital",
+      "Calidad mas que cantidad: 5 amigos cercanos suficiente",
+      "Voluntariado 100h ano alarga vida 4 anos Konrath 2012",
+      "Tribu sentido pertenencia mantener decadas adelante",
+      "Tecnologia ayuda mas no sustituye contacto fisico real",
+      "Perdida pareja primer ano duplica mortalidad sobreviviente",
+      "Mascotas perro proporcionan beneficios sociales medibles"
+    ],
+    "search_terms": ["family hugging elderly", "friends laughing community", "intergenerational love"],
+    "category": "longevidad",
+    "format": "longform"
+  },
+  {
+    "id": 2136,
+    "topic": "El estudio CALERIE y la verdad sobre restriccion calorica",
+    "hook": "CALERIE prueba restriccion humanos",
+    "key_points": [
+      "CALERIE 2 Duke University: 218 personas 12% restriccion calorica 2 anos",
+      "Mejora marcadores edad biologica equivalente 2.5 anos juvenizacion",
+      "Reduce inflamacion CRP, mejora sensibilidad insulina, baja PA",
+      "Sin perdida masa muscular si acompanada ejercicio fuerza",
+      "Reduce dano oxidativo ADN y mitocondrias medible",
+      "Calidad sueno mejorada, libido conservada en mayoria",
+      "Riesgo bajo nutrientes esenciales: planificar dieta densa",
+      "Ayuno intermitente alternativa mas sostenible practicamente",
+      "Proteina 1.2 g/kg minimo conservar masa muscular",
+      "Combinable con dieta mediterranea base + restriccion 12%",
+      "Beneficios maximos en sobrepeso, menores en peso normal"
+    ],
+    "search_terms": ["small portion plate", "balanced healthy meal", "weighing food kitchen"],
+    "category": "longevidad",
+    "format": "longform"
+  },
+  {
+    "id": 2137,
+    "topic": "El cerebro que envejece bien: 7 habitos cientificos",
+    "hook": "Cerebro 90 anos joven posible",
+    "key_points": [
+      "Cerebro pierde 5% volumen por decada desde 40 sin intervencion",
+      "Ejercicio aerobico 45 min 5x semana aumenta hipocampo 2% Erickson 2011",
+      "Sueno 7-9h limpieza glinfatica beta-amiloide essencial Xie 2013",
+      "Aprendizaje complejo nuevo: idioma, instrumento musical, baile",
+      "Conexion social diaria 5 personas reduce 60% Alzheimer Fratiglioni 2000",
+      "Dieta MIND 50% reduccion Alzheimer Morris 2015 vegetales hojas frutos rojos",
+      "Mediterraneo + omega 3 EPA DHA 2g/dia neuroproteccion validada",
+      "Manejo estres meditacion 20 min/dia: aumenta sustancia gris",
+      "Higiene oral: P. gingivalis encontrada cerebro Alzheimer Dominy 2019",
+      "Curcuma sulforafano polifenoles antioxidantes neuronales"
+    ],
+    "search_terms": ["brain healthy aging", "elderly learning piano", "meditation peaceful"],
+    "category": "antiaging",
+    "format": "longform"
+  },
+  {
+    "id": 2138,
+    "topic": "El protocolo completo de sueno para regenerar cerebro y cuerpo",
+    "hook": "Sueno 9h regenera cuerpo entero",
+    "key_points": [
+      "Walker 2017: sueno arquitectura ciclos 90 min N1-N2-N3-REM 4-5 ciclos",
+      "Sueno profundo N3: GH liberada 75% reparacion tisular muscular",
+      "REM consolida memoria emocional, aprendizaje motor, creatividad",
+      "Sistema glinfatico activo solo dormido: limpieza beta-amiloide 60% mas",
+      "Temperatura 18 grados optimiza arquitectura sueno completa",
+      "Oscuridad total: melatonina inhibida 50% por luz minima",
+      "Bloqueo azul 2h antes via gafas ambar o filtros software",
+      "Cafeina cero pasadas 14h, vida media 6h, alcohol cero suprime REM",
+      "Magnesio glicinato 400mg, glicina 3g pre-cama mejoran N3",
+      "Rutina horario fijo 22-7 fines semana incluido sincroniza circadiano",
+      "Sin pantallas dormitorio, lectura papel solo antes dormir",
+      "Tracking Oura Whoop optimiza calidad medible objetivo"
+    ],
+    "search_terms": ["bedroom dark cozy", "sleeping peacefully", "moon night sky"],
+    "category": "sueno",
+    "format": "longform"
+  },
+  {
+    "id": 2139,
+    "topic": "El protocolo del frio: cold exposure para longevidad",
+    "hook": "Frio diario activa grasa parda",
+    "key_points": [
+      "Soberg 2021: 11 min/semana 11 grados activa grasa parda 30% mas",
+      "Grasa parda quema 300 kcal/dia van Marken Lichtenbelt 2009 NEJM",
+      "Frio activa noradrenalina 530% mejorando humor concentracion",
+      "Adaptacion 2 semanas duchas frias 3 min: tolerancia plena",
+      "Beneficios validados: HRV, inmunidad, animo, mitocondrias, peso",
+      "Empezar progresivo: ducha fria 30s al final, aumentar 2 min",
+      "Banos hielo 11 grados 11 min equivalente 4 sesiones",
+      "Combinacion sauna calor + frio amplifica beneficios cardiovasculares",
+      "Riesgos: hipertension severa, problemas cardiacos, embarazadas",
+      "Mejor manana activacion sistema, no antes dormir altera sueno",
+      "Wim Hof respiracion + frio + meditacion metodo integral validado"
+    ],
+    "search_terms": ["cold plunge ice bath", "winter swimming lake", "ice water immersion"],
+    "category": "biohacking",
+    "format": "longform"
+  },
+  {
+    "id": 2140,
+    "topic": "Como tu microbioma decide tu peso: la ciencia 2025",
+    "hook": "Bacterias intestino mandan tu peso",
+    "key_points": [
+      "Turnbaugh 2006 Nature: microbioma obesos firmicutes elevados extraen mas calorias",
+      "Trasplante fecal raton obeso a delgado transmite obesidad Ridaura 2013",
+      "Akkermansia muciniphila correlacionada delgadez Everard 2013",
+      "Diversidad microbiana baja predice obesidad cronica futura",
+      "Antibioticos infancia aumentan riesgo obesidad adulto Cox 2014",
+      "Edulcorantes artificiales alteran microbioma promoviendo intolerancia glucosa",
+      "Fibra prebiotica 30g/dia diversifica microbioma 4 semanas",
+      "Fermentados kefir kombucha kimchi aportan cepas vivas",
+      "Polifenoles te verde cacao alimentan bacterias beneficiosas",
+      "Ejercicio aerobico mejora composicion microbiomica Allen 2018",
+      "Estres cronico altera microbioma via eje intestino-cerebro"
+    ],
+    "search_terms": ["bacteria laboratory", "fermented foods variety", "weight scale healthy"],
+    "category": "microbioma",
+    "format": "longform"
+  },
+  {
+    "id": 2141,
+    "topic": "Como caminar 7000 pasos diarios reduce mortalidad 50%",
+    "hook": "Caminar simple gana cualquier ejercicio",
+    "key_points": [
+      "Saint-Maurice 2020 JAMA 4840 adultos: 7000-8000 pasos optimo, no 10000",
+      "Cada 1000 pasos extra reducen 6-36% mortalidad hasta 12000",
+      "Mito 10000 pasos: marketing podometro japones 1965 sin ciencia",
+      "Pasos rapidos >100/min duplican beneficio cardiovascular",
+      "Caminar reduce 31% diabetes 2, 24% enfermedad cardiovascular Hupin 2015",
+      "Mejor naturaleza shinrin-yoku reduce cortisol 16% vs ciudad",
+      "Despues comida 10 min reduce glucosa postprandial 30% DiPietro 2013",
+      "Caminar manana sol activa ritmo circadiano cortisol natural",
+      "Bajo impacto, accesible, no requiere equipo especial",
+      "Tracking smartwatch motivacion mantener consistencia",
+      "Combinar con musica audiolibro hace tiempo agradable"
+    ],
+    "search_terms": ["walking park trail", "person walking nature", "city walk healthy"],
+    "category": "ejercicio",
+    "format": "longform"
+  },
+  {
+    "id": 2142,
+    "topic": "El protocolo de movilidad para mantener cuerpo joven a los 70",
+    "hook": "Movilidad diaria 30 min cuerpo elastico",
+    "key_points": [
+      "Movilidad articular declina 1% anual desde 30 sin intervencion",
+      "Yoga 30 min/dia mantiene flexibilidad equivalente 20 anos menos",
+      "Estudio Tilburg 2017: 12 semanas yoga reduce dolor lumbar 50% mayores",
+      "Tai chi reduce 35% caidas mortales mayores Wolf 2003",
+      "Test sentar-suelo Brito: <8 puntos duplica mortalidad 6 anos",
+      "Foam rolling 10 min/dia mejora circulacion fascial",
+      "Estiramientos dinamicos prevenir, estaticos al final entrenamiento",
+      "Hip openers cruciales: 60% adultos cadera tensa por sentado",
+      "Squat profundo 30 segundos diario mantiene articulaciones cadera tobillo",
+      "Movilidad columna: gato-vaca, rotaciones thoracicas diarias",
+      "Funcionalidad mayor calidad vida que solo fuerza"
+    ],
+    "search_terms": ["yoga flexibility pose", "stretching elderly mobility", "tai chi peaceful"],
+    "category": "ejercicio",
+    "format": "longform"
+  },
+  {
+    "id": 2143,
+    "topic": "Por que tu hormona insulina decide tu envejecimiento",
+    "hook": "Insulina alta envejece todo organo",
+    "key_points": [
+      "Insulina cronica elevada acelera envejecimiento via mTOR Kapahi 2010",
+      "Resistencia insulina #1 driver envejecimiento metabolico moderno",
+      "HOMA-IR <1.5 ideal, >2.5 indica resistencia subclinica",
+      "Glicacion proteinas crea AGE: arrugas, rigidez arterial, cataratas",
+      "Causa cardiovascular Alzheimer cancer obesidad sarcopenia conexion",
+      "Test ayunas: glucosa <90, insulina <8, HbA1c <5.4 optimos Selvin 2010",
+      "CGM continuo revela picos personales que glican proteinas",
+      "Comer orden: vegetales, proteina, carbo reduce pico 73% Shukla 2015",
+      "Vinagre 1 cucharada antes comida reduce glucosa 30% Johnston 2010",
+      "Caminata 10 min post-comida reduce glucosa 30%",
+      "Ayuno 16h diario mejora sensibilidad insulina rapidamente"
+    ],
+    "search_terms": ["glucose monitor finger", "balanced meal vegetables", "insulin diabetes test"],
+    "category": "longevidad",
+    "format": "longform"
+  },
+  {
+    "id": 2144,
+    "topic": "El secreto de los Sherpa: adaptacion mitocondrial extrema",
+    "hook": "Sherpa mitocondrias 30% mas eficientes",
+    "key_points": [
+      "Horscroft 2017 PNAS: Sherpa metabolismo mitocondrial 30% mas eficiente altura",
+      "Adaptacion genetica EPAS1 maxima oxigenacion oxigeno bajo",
+      "Mitocondrias mayor densidad cristas mejor produccion ATP",
+      "Sherpa mantienen funcion cardiaca a 8000m sin oxigeno suplementario",
+      "Lecciones aplicables: entrenamiento hipoxia altitud simulada",
+      "Mascarilla altitude training mejora VO2max 5% Wilber 2007",
+      "Vivir alto entrenar bajo: tradicional para atletas elite",
+      "Hipoxia intermitente activa HIF-1alpha factor longevidad",
+      "Suplemento PQQ aumenta biogenesis mitocondrial paralelo",
+      "Ayuno + ejercicio HIIT activan mecanismos similares",
+      "Inspiracion para optimizar mitocondrias urbanas"
+    ],
+    "search_terms": ["mountain climber altitude", "himalayan landscape", "sherpa mountains"],
+    "category": "mitocondrias",
+    "format": "longform"
+  },
+  {
+    "id": 2145,
+    "topic": "El reset del eje hormonal con 3 dias de naturaleza",
+    "hook": "3 dias bosque reset hormonal completo",
+    "key_points": [
+      "Li 2007 Int J Immunopathol: shinrin-yoku 3 dias eleva NK 50% por 30 dias",
+      "Cortisol baja 16% caminar bosque vs ciudad Park 2010",
+      "Fitoncidas arboles activan sistema inmune innato",
+      "Adrenalina baja 50% inmersion natural prolongada",
+      "Ritmos circadianos sincronizan sin luz artificial",
+      "Sueno mejora 90% sin pantallas naturaleza inmersiva",
+      "Microbioma diversificado contacto suelo plantas Hanski 2012",
+      "Vitamina D natural sintetizada exposicion sol moderada",
+      "Conexion ancestral evolutiva: 99% historia humana naturaleza",
+      "Practicar mensual: 3 dias acampada hiking bosque montana",
+      "Beneficios mantenidos 2 meses post inmersion segun NK study"
+    ],
+    "search_terms": ["forest hiking nature", "trees green canopy", "camping wilderness"],
+    "category": "longevidad",
+    "format": "longform"
+  },
+  {
+    "id": 2146,
+    "topic": "Como las celulas senescentes destruyen tu cuerpo y como eliminarlas",
+    "hook": "Celulas zombi infectan organo entero",
+    "key_points": [
+      "Senescencia celular: parada division mantienen vida secretan SASP toxicos",
+      "Acumulan con edad: 1% celulas viejos 30 anos, 20% 70 anos",
+      "SASP: IL-6 TNF-alpha MMPs inflaman dañan vecinos",
+      "Causan: fibrosis, sarcopenia, osteoartrosis, demencia, cancer",
+      "Baker 2016 Nature: eliminar senescentes alarga 35% vida raton",
+      "Senoliticos: dasatinib + quercetina pulsado 2 dias mes",
+      "Fisetin fresa polifenol senolitico natural Yousefzadeh 2018",
+      "Brocoli sulforafano activador endogeno menos potente continuo",
+      "Ejercicio reduce carga senescente muscular esquletica",
+      "Ayuno autofagia limpia parcialmente celulas danadas",
+      "Ensayos clinicos fase 2 Mayo Clinic enfermedad pulmonar fibrotica",
+      "Futuro: terapia personalizada con marcadores senescencia tisular"
+    ],
+    "search_terms": ["senescent cells biology", "molecular medicine", "anti aging research"],
+    "category": "antiaging",
+    "format": "longform"
+  },
+  {
+    "id": 2147,
+    "topic": "El protocolo de Rhonda Patrick para vida longeva",
+    "hook": "Rhonda Patrick rutina cientifica diaria",
+    "key_points": [
+      "Rhonda Patrick PhD biomedicina protocol publico transparente",
+      "Sauna 4-7x semana 30 min 80 grados: reduce 50% mortalidad cardiovascular",
+      "Cardio HIIT + zona 2 mejora VO2max predictor #1 longevidad",
+      "Pesas 3x semana mantener masa muscular contra sarcopenia",
+      "Ayuno 14-16h diario activa autofagia limpieza",
+      "Brotes brocoli diarios: sulforafano potente activador Nrf2",
+      "Vitamina D 4000 UI/dia + K2 menaquinona MK-7 100 mcg",
+      "Omega 3 EPA DHA 2g/dia ratio 2:1 antiinflamatorio",
+      "Magnesio glicinato 400mg pre-cama mejora sueno N3",
+      "Sueno 8h prioridad rutina, oscuridad total temperatura 18 grados",
+      "Comunidad social fuerte conferencias longevidad regular"
+    ],
+    "search_terms": ["healthy lifestyle science", "broccoli sprouts", "exercise routine adult"],
+    "category": "longevidad",
+    "format": "longform"
+  },
+  {
+    "id": 2148,
+    "topic": "Como el ayuno activa autofagia y rejuvenece tus celulas",
+    "hook": "Autofagia ayuno limpia celulas",
+    "key_points": [
+      "Autofagia: proceso celular limpia proteinas danadas mitocondrias viejas",
+      "Yoshinori Ohsumi Premio Nobel Medicina 2016 descubrimiento autofagia",
+      "Ayuno 16h activa autofagia inicial, 24h pico maximo",
+      "mTOR inhibido por baja insulina permite reciclaje celular",
+      "Limpia agregados proteicos vinculados Alzheimer Parkinson",
+      "Mitofagia: limpia mitocondrias defectuosas via PINK1 PARKIN",
+      "Beneficios validados: longevidad neuroproteccion cancer prevencion",
+      "Cafe negro mantiene autofagia segun Pietrocola 2014",
+      "Ejercicio aerobico cardio activa autofagia paralela",
+      "Restriccion calorica activa similar sin ayuno total",
+      "Romper ayuno proteina + grasa, no carbos rapidos",
+      "Solo bajo supervision ayunos prolongados >24h"
+    ],
+    "search_terms": ["empty plate fasting", "cellular cleaning microscope", "clock fasting time"],
+    "category": "ayuno",
+    "format": "longform"
+  },
+  {
+    "id": 2149,
+    "topic": "Por que tu salud bucal decide tu salud cerebral",
+    "hook": "Bacterias boca matan neuronas",
+    "key_points": [
+      "Dominy 2019 Sci Adv: Porphyromonas gingivalis encontrada cerebro Alzheimer",
+      "Periodontitis duplica riesgo Alzheimer Chen 2017 metaanalisis",
+      "Bacterias orales translocan via sangre BBB inflamando cerebro",
+      "Toxina gingipain producida P. gingivalis tau hiperfosforilacion",
+      "Higiene oral: cepillado 2x dia, hilo dental noche, lengua cepillado",
+      "Aceite coco oil pulling 10 min reduce S. mutans 50% Asokan 2008",
+      "Limpieza dental profesional 2x ano reduce 24% infarto",
+      "Probioticos orales L. reuteri reducen sangrado encia 50%",
+      "Diabetes mellitus duplica periodontitis cronica conexion",
+      "Test microbioma oral salida casa diagnostica disbiosis",
+      "Bicarbonato semanal alternativa pasta dentifrica abrasiva",
+      "Microbioma oral diverso predice salud sistemica general"
+    ],
+    "search_terms": ["dental hygiene teeth", "tooth brushing care", "brain neurons connection"],
+    "category": "microbioma",
+    "format": "longform"
+  },
+  {
+    "id": 2150,
+    "topic": "El estudio Harvard 80 anos: que predice felicidad y longevidad",
+    "hook": "Harvard 80 anos secreto vida buena",
+    "key_points": [
+      "Grant Study Harvard 1938-presente: 268 hombres seguimiento generacional",
+      "Robert Waldinger director actual conferencias TED viralizadas",
+      "Conclusion principal: relaciones calidad #1 predictor felicidad y salud",
+      "Calidad mas que cantidad: pareja confidente mejor que muchos amigos superficiales",
+      "Educacion alta protege declive cognitivo decadas adelante",
+      "Conexion social temprana 50 anos predice salud fisica 80 anos",
+      "Soledad cronica acelera enfermedad cerebro y cuerpo igual fumar",
+      "Matrimonio satisfactorio amortigua estres laboral cronico",
+      "Hijos adultos relaciones positivas correlacionan salud padres ancianos",
+      "Aprendizajes: cultivar relaciones primera prioridad vital",
+      "Aplicacion practica: time blocks semanales familia amigos sin distracciones"
+    ],
+    "search_terms": ["elderly couple love happy", "family generations dinner", "friends gathering"],
+    "category": "longevidad",
+    "format": "longform"
+  },
+  {
+    "id": 2151,
+    "topic": "El protocolo del Dr. Mark Hyman para envejecer al reves",
+    "hook": "Hyman protocol envejecer reverso",
+    "key_points": [
+      "Mark Hyman Cleveland Clinic protocolo medicina funcional longevidad",
+      "Pegan: paleo-vegano dieta abundante vegetales proteina limpia",
+      "Pesticidas hormonas alimentos procesados eliminacion estricta",
+      "Test sangre amplio: insulina, homocisteina, CRP, ferritina, omega 3",
+      "Suplementacion personalizada deficits identificados",
+      "Ejercicio combinado: fuerza cardio HIIT mobility cada semana",
+      "Sueno 8h prioritario, manejo estres meditacion respiracion diaria",
+      "Detoxificacion regular: sauna sudor, ayuno mensual",
+      "Conexion comunidad iglesia voluntariado proposito vital",
+      "Exposicion naturaleza mensual reset hormonal cortisol",
+      "Cuestionado por algunos cientificos: evidencia anecdotica supera RCT",
+      "Beneficios validados estilo vida: dieta limpia, ejercicio, sueno, conexion"
+    ],
+    "search_terms": ["healthy lifestyle meal", "doctor consultation wellness", "natural supplements"],
+    "category": "longevidad",
+    "format": "longform"
+  },
+  {
+    "id": 2152,
+    "topic": "El secreto japones: por que viven mas que cualquier pais",
+    "hook": "Japon mas centenarios planeta",
+    "key_points": [
+      "Japon esperanza vida 84 anos #1 mundial OCDE 2023",
+      "85000+ centenarios mas alta densidad mundial",
+      "Dieta tradicional: pescado, vegetales, soja, te verde, arroz integral",
+      "Hara hachi bu: parar comer 80% saciedad reduce calorias 20%",
+      "Caminar diario tradicional, transporte publico, escaleras frecuentes",
+      "Conexion social fuerte: matsuri festivales, familia multigeneracional",
+      "Manejo estres meditacion zen, respiracion lenta, banos termales",
+      "Sistema sanitario universal preventivo deteccion temprana",
+      "Sueno respeto cultural prioridad, siesta laboral aceptada",
+      "Estres laboral cronico contraparte: karoshi muerte por exceso trabajo",
+      "Lecciones aplicables: dieta marisco vegetales, comunidad, movimiento natural"
+    ],
+    "search_terms": ["japan elderly active", "japanese cuisine traditional", "asian community park"],
+    "category": "zonas-azules",
+    "format": "longform"
+  },
+  {
+    "id": 2153,
+    "topic": "Tu cerebro a los 100: como mantenerlo joven con neuroplasticidad",
+    "hook": "Cerebro 100 anos crecer aun",
+    "key_points": [
+      "Boldrini 2018 Cell Stem Cell: neurogenesis hipocampo activa hasta 79 anos",
+      "Plasticidad cerebral mantiene aprendizaje y memoria toda vida",
+      "Aprender nuevo idioma adulto retrasa Alzheimer 4-5 anos Bialystok 2007",
+      "Instrumento musical activa multiples areas cerebrales sincronizadas",
+      "Baile combinacion movimiento musica social retarda demencia 76% Verghese 2003",
+      "Lectura habitual 30 min/dia reduce 32% Alzheimer Wilson 2012",
+      "Crucigramas sudoku rompecabezas mantienen velocidad procesamiento",
+      "Conexion social diaria 5 personas reduce 60% Alzheimer Fratiglioni",
+      "Ejercicio aerobico 45 min 5x semana aumenta hipocampo 2% Erickson 2011",
+      "Sueno 7-9h limpieza glinfatica beta-amiloide essencial",
+      "Dieta MIND polifenoles vegetales hojas frutos rojos pescado",
+      "Meditacion 20 min/dia aumenta sustancia gris medible"
+    ],
+    "search_terms": ["elderly learning new", "brain neurons activity", "puzzle book reading"],
+    "category": "antiaging",
+    "format": "longform"
+  },
+  {
+    "id": 2154,
+    "topic": "Los 7 alimentos antiaging respaldados por ciencia rigurosa",
+    "hook": "7 alimentos rejuvenecen cuerpo cientifico",
+    "key_points": [
+      "Aceite oliva extra virgen 50g/dia reduce 30% eventos cardiovasculares PREDIMED",
+      "Frutos rojos arandanos: antocianinas neuroprotectoras Devore 2012",
+      "Frutos secos 30g/dia reducen 50% mortalidad coronaria Fraser 1992",
+      "Pescado azul 2x semana baja 36% mortalidad cardiovascular Mozaffarian",
+      "Brocoli sulforafano activador Nrf2 detoxificacion celular",
+      "Te verde EGCG inhibe glicacion piel y arterias Kuriyama 2006",
+      "Cacao 80% flavanoles mejoran cognicion 25% Brickman 2014",
+      "Cada uno con dosis y mecanismo molecular validado",
+      "Sinergias: combinaciones potencian beneficios individuales",
+      "Patron mediterraneo integra todos optimamente",
+      "Constancia anos demuestra efectos longevidad acumulativos",
+      "No hay 'superalimento' magico individual, patron alimentario completo"
+    ],
+    "search_terms": ["mediterranean foods variety", "berries colorful", "olive oil bottle"],
+    "category": "longevidad",
+    "format": "longform"
+  },
+  {
+    "id": 2155,
+    "topic": "Como identificar y revertir prediabetes antes de los 50",
+    "hook": "Prediabetes silenciosa duplica mortalidad",
+    "key_points": [
+      "Prediabetes afecta 30% adultos 40+ silenciosamente segun ADA",
+      "HbA1c 5.7-6.4% rango prediabetes, glucosa ayunas 100-125",
+      "Reversible 80% casos con intervencion estilo vida 6 meses",
+      "Diabetes Prevention Program: dieta + ejercicio reduce 58% progresion",
+      "Metformina protocolo medico complementario validado primera linea",
+      "Dieta mediterranea baja carbo glicemica reduce HbA1c 0.5% sostenible",
+      "Ayuno intermitente 16-8 mejora sensibilidad insulina rapidamente",
+      "Ejercicio aerobico zona 2 + fuerza 3x semana validado",
+      "Vinagre 1 cucharada antes comida reduce glucosa 30% Johnston 2010",
+      "Caminata 10 min post comida reduce glucosa postprandial 30%",
+      "CGM continuo revela alimentos personales que disparan glucosa",
+      "Tracking mensual HbA1c monitorea progreso reversion",
+      "Conexion: prediabetes precede Alzheimer cardiovascular cancer"
+    ],
+    "search_terms": ["glucose monitor finger", "blood test diabetes", "healthy meal balanced"],
+    "category": "longevidad",
+    "format": "longform"
+  },
+  {
+    "id": 2156,
+    "topic": "El protocolo de Bryan Johnson para no envejecer: ciencia o pseudociencia",
+    "hook": "Bryan Johnson 2 millones rejuvenecer",
+    "key_points": [
+      "Bryan Johnson Project Blueprint: $2M anuales protocolo personal antienvejecimiento",
+      "Equipo medico 30 doctores monitoreo continuo 70+ marcadores",
+      "Dieta 1977 kcal vegana estricta: 250+ ingredientes calculados",
+      "100+ pildoras suplementos diarios incluyendo experimentales",
+      "Ejercicio 1h diaria fuerza cardio mobility riguroso",
+      "Sueno 8h fijo medido Oura Whoop monitoreo profundo",
+      "Datos publicos transparentes: marcadores edad biologica decreciente",
+      "Critica cientifica: muestra n=1, no validado RCT, costo prohibitivo",
+      "Beneficios marketing notorios influencer redes sociales",
+      "Replicable elementos: dieta vegetal, ejercicio, sueno, monitoreo",
+      "No replicable: terapias experimentales, plasma joven, transferencia",
+      "Lecciones validadas separar marketing: estilo vida estructurado funciona"
+    ],
+    "search_terms": ["young looking elderly", "supplements pills variety", "fitness wellness modern"],
+    "category": "antiaging",
+    "format": "longform"
+  },
+  {
+    "id": 2157,
+    "topic": "Como el ejercicio cambia tu epigenetica y rejuvenece celulas",
+    "hook": "Ejercicio cambia ADN sin mutacion",
+    "key_points": [
+      "Ronnerstrand 2014: ejercicio modifica metilacion ADN longevidad",
+      "Cambios epigeneticos heredables generacion siguiente Soubry 2014",
+      "Ejercicio aerobico activa genes mitocondriales biogenesis",
+      "Pesas modifica expresion genes muscular hipertrofia",
+      "Reduce metilacion gen TET inflamacion cronica",
+      "Aumenta expresion telomerasa preservando telomeros Werner 2009",
+      "Mejora marcadores edad biologica reloj Horvath 2-3 anos",
+      "Beneficios maximos: combinacion aerobico + fuerza + flexibilidad",
+      "180 min/semana minimo OMS, optimo 300+ min cardio + 2 fuerza",
+      "Constancia mas importante que intensidad: anos no semanas",
+      "Funcion antiinflamatoria sistemica reduce inflammaging",
+      "Estilo vida activo fundamental compite con suplementos antiaging"
+    ],
+    "search_terms": ["exercise outdoor adult", "workout gym training", "active lifestyle elder"],
+    "category": "antiaging",
+    "format": "longform"
+  },
+  {
+    "id": 2158,
+    "topic": "El protocolo nutricional para revertir enfermedad cardiovascular",
+    "hook": "Esselstyn revierte arterias cero grasa",
+    "key_points": [
+      "Caldwell Esselstyn Cleveland Clinic: dieta vegana cero aceite revierte aterosclerosis",
+      "Estudio 1995: 198 pacientes enfermedad cardiaca avanzada",
+      "Dieta plant-based whole food sin aceites anadidos",
+      "Eventos cardiacos cayeron de 99% a 0.6% adherentes 12 anos",
+      "Mecanismo: endotelio recupera funcion oxido nitrico",
+      "Validado por Ornish similar protocolo 1998 Lancet",
+      "Cuestionado: muestra autoseleccionada motivacion alta",
+      "Adherencia dificil largo plazo: <50% mantienen estricto 5 anos",
+      "Mediterranea PREDIMED 30% reduccion mas sostenible practicamente",
+      "Combinacion: vegana base + omega 3 + frutos secos optimo",
+      "Solo bajo supervision medica si enfermedad establecida",
+      "Marcadores tracking: APOB, CRP, calcium score TC anual"
+    ],
+    "search_terms": ["plant based meal whole", "heart healthy food", "vegetables grains beans"],
+    "category": "longevidad",
+    "format": "longform"
+  },
+  {
+    "id": 2159,
+    "topic": "Los biomarcadores claves que debes medir despues de los 40",
+    "hook": "12 marcadores predicen tu mortalidad",
+    "key_points": [
+      "APOB <80 mg/dL: mejor predictor cardiovascular que LDL",
+      "Lipoproteina(a) <50 mg/dL: marcador genetico rara pero importante",
+      "PCR ultrasensible <1 mg/L: inflamacion cronica baseline",
+      "HbA1c <5.4%: glucosa promedio 3 meses, prediabetes >5.7",
+      "Insulina ayunas <8 mIU/L: resistencia subclinica si elevada",
+      "Vitamina D 50-80 ng/mL: deficit 80% espanoles segun ENRICA",
+      "Omega 3 indice >8%: ratio EPA DHA membrana eritrocitaria",
+      "Homocisteina <7 umol/L: marcador metilacion cardiovascular",
+      "Ferritina 30-100 ng/mL: hierro almacenamiento balance",
+      "Vitamina B12 metilmalonico: reserva real activa",
+      "Cortisol saliva 4 puntos: patron diurno eje HPA",
+      "DHEA-S edad apropiado: precursor hormona adrenal",
+      "Test anual minimo, semestral si interventiones, trimestral si tratamiento"
+    ],
+    "search_terms": ["blood test laboratory", "doctor checkup elderly", "lab results paper"],
+    "category": "longevidad",
+    "format": "longform"
+  },
+  {
+    "id": 2160,
+    "topic": "El protocolo de longevidad para mujeres de 40 a 60",
+    "hook": "Mujer 40-60 plan longevidad especial",
+    "key_points": [
+      "Perimenopausia inicia 35-45, dura promedio 7-10 anos",
+      "Sintomas: sofocos insomnio ansiedad niebla mental peso libido",
+      "Test hormonal completo: FSH LH estradiol progesterona DHEA",
+      "TRH bioidentica primeros 10 anos reduce 30% mortalidad WHI",
+      "Progesterona micronizada nocturna mejora sueno y huesos",
+      "Soja isoflavonas 100mg/dia reducen 50% sofocos",
+      "Calcio dieta 1200mg + vitamina D 4000 UI + K2 100 mcg",
+      "Ejercicio fuerza 3x semana esencial preservar masa osea muscular",
+      "Cardio HIIT zona 2 mantiene VO2max predictor longevidad",
+      "Dieta mediterranea + omega 3 EPA DHA 2g/dia",
+      "Sueno 7-9h prioridad: termorregulacion nocturna optimizada",
+      "Manejo estres meditacion: cortisol alto empeora sintomas",
+      "Test densitometria osea cada 2 anos prevenir osteoporosis"
+    ],
+    "search_terms": ["mature woman exercise", "wellness female health", "menopause balance"],
+    "category": "hormonas",
+    "format": "longform"
+  },
+  {
+    "id": 2161,
+    "topic": "Como las personas excepcionalmente longevas escapan a las enfermedades",
+    "hook": "Centenarios no enferman como nosotros",
+    "key_points": [
+      "Andersen 2012 J Gerontol: centenarios escapan enfermedades cronicas vs viven con ellas",
+      "60% centenarios mantienen funcion cognitiva normal hasta los 90",
+      "Compresion morbidad: enfermedades 10 anos antes muerte vs 30",
+      "Genetica explica 25-30% longevidad excepcional Sebastiani 2012",
+      "FOXO3 APOE2 variantes geneticas protectoras identificadas",
+      "Estilo vida explica 70-75% restante: mismos factores Blue Zones",
+      "Inflammaging bajo caracteristica universal centenarios",
+      "Microbioma diverso enriquecido bacterias beneficiosas",
+      "Telomeros mas largos para edad cronologica equivalente",
+      "Resistencia estres psicologico y fisiologico mejorada",
+      "Personalidad: optimismo, agradabilidad, conciencia altos correlacionan",
+      "Lecciones: enfocar prevencion 30 anos antes manifestacion enfermedades"
+    ],
+    "search_terms": ["centenarian active happy", "elderly healthy walking", "old age portrait"],
+    "category": "longevidad",
+    "format": "longform"
+  },
+  {
+    "id": 2162,
+    "topic": "El sistema nervioso autonomo y como entrenar tu nervio vago",
+    "hook": "Nervio vago decide longevidad cardiaca",
+    "key_points": [
+      "Nervio vago: principal nervio parasimpatico conexion cerebro organos",
+      "Tono vagal alto correlaciona +10 anos esperanza vida Tsuji 1996 Framingham",
+      "HRV variabilidad ritmo cardiaco mide tono vagal facilmente",
+      "Respiracion lenta 6 rpm activa nervio vago aumentando HRV",
+      "Tecnica 4-7-8: inhalar 4 retener 7 exhalar 8 segundos",
+      "Cantar tatarear gargareo activan vago via cuerdas vocales",
+      "Inmersion facial agua fria 3 min activa reflejo buceo",
+      "Meditacion 20 min/dia aumenta tono vagal medible HRV",
+      "Yoga regular mejora HRV 30% en 12 semanas",
+      "Ejercicio aerobico moderado refuerza tono vagal cronico",
+      "Probioticos diversos mejoran via eje intestino-cerebro",
+      "Conexion social oxitocina actua sinergica con vago",
+      "Tracking HRV Oura Whoop optimiza practica diaria"
+    ],
+    "search_terms": ["heart rate monitor wearable", "breathing meditation calm", "yoga peaceful"],
+    "category": "estres",
+    "format": "longform"
+  },
+  {
+    "id": 2163,
+    "topic": "Las 5 senales de que estas envejeciendo demasiado rapido",
+    "hook": "5 signos delatan envejecer prematuro",
+    "key_points": [
+      "Fuerza prensil dinamometro: <26kg hombre <16kg mujer alto riesgo Newman 2006",
+      "Velocidad caminar <0.8 m/s asociada mortalidad temprana Studenski 2011",
+      "Test sentar-suelo Brito: <8 puntos duplica mortalidad 6 anos",
+      "Equilibrio pierna sola <10s duplica mortalidad Araujo 2022",
+      "VO2max bajo edad: <22 ml/kg/min mayores 65 alto riesgo Mandsager 2018",
+      "Cada test mide funcion biologica multidimensional",
+      "Combinacion 5 tests perfil biologico funcional integral",
+      "Mejorables todas con ejercicio 12 semanas estructurado",
+      "Pesas + cardio + balance + flexibilidad cubre todo",
+      "Repetir cada 6 meses tracking progreso intervenciones",
+      "Marcadores predicen mortalidad mejor que IMC colesterol PA",
+      "Aplicacion: protocolo personalizado basado debilidades identificadas"
+    ],
+    "search_terms": ["elderly fitness test", "balance pose exercise", "grip strength measure"],
+    "category": "longevidad",
+    "format": "longform"
+  },
+  {
+    "id": 2164,
+    "topic": "Como el sistema digestivo determina tu envejecimiento global",
+    "hook": "Intestino sano cuerpo joven 100 anos",
+    "key_points": [
+      "70% sistema inmune en intestino: GALT tejido linfoide asociado",
+      "Permeabilidad intestinal leaky gut causa inflammaging sistemica",
+      "Disbiosis correlaciona Alzheimer depresion obesidad autoinmunes",
+      "Diversidad microbioma cae 40% con dieta occidental procesada",
+      "Akkermansia muciniphila correlacionada longevidad y delgadez",
+      "Fibra prebiotica 30g/dia diversifica microbioma 4 semanas",
+      "Fermentados kefir kombucha kimchi miso aportan cepas vivas",
+      "Polifenoles te verde cacao olivo alimentan bacterias beneficiosas",
+      "Antibioticos solo cuando esenciales: alteran microbioma anos",
+      "Glifosato pesticidas alteran shikimate pathway bacteriano",
+      "Estres cronico altera microbioma via eje intestino-cerebro",
+      "Sueno 7-9h consolida regulacion microbioma circadiana",
+      "Test microbioma 200-300 euros perfila salud bacterial"
+    ],
+    "search_terms": ["intestine anatomy gut", "fermented foods healthy", "vegetables fiber"],
+    "category": "microbioma",
+    "format": "longform"
+  },
+  {
+    "id": 2165,
+    "topic": "El protocolo ancestral de Sebastian Junger: vivir como nuestros abuelos",
+    "hook": "Volver vida abuelos cura enfermedad moderna",
+    "key_points": [
+      "Tribe libro Junger: enfermedades modernas requieren soluciones ancestrales",
+      "Movimiento natural diario: caminar, cargar, subir, agacharse 8h/dia",
+      "Comer comida real estacional local sin procesar",
+      "Sueno alineado luz solar: dormir oscuro despertar amanecer",
+      "Conexion comunitaria fuerte: tribu apoyo emocional cotidiano",
+      "Trabajo proposito significativo no solo dinero",
+      "Sin pantallas constantes: silencio, naturaleza, contemplacion",
+      "Ayuno intermitente natural: comer cuando comida disponible",
+      "Frio calor exposiciones moderadas: estaciones cuerpo adapta",
+      "Riesgos calculados manejo estres agudo entrena resilencia",
+      "Espiritualidad ritual sentido: religion familia tradicion cultura",
+      "Aplicacion urbana: replicar elementos clave compatibles vida moderna"
+    ],
+    "search_terms": ["nature walking elder", "traditional village life", "outdoor community"],
+    "category": "longevidad",
+    "format": "longform"
+  },
+  {
+    "id": 2166,
+    "topic": "Como el sueno fragmentado destruye sistema inmune en 1 semana",
+    "hook": "1 semana sueno mal sistema inmune cae",
+    "key_points": [
+      "Prather 2015: privacion sueno 6h aumenta 4x susceptibilidad resfriado",
+      "Sueno N3 profundo critico funcion celulas NK natural killer",
+      "1 semana 4-5h sueno reduce respuesta vacuna 50% Cohen 2009",
+      "Citoquinas IL-6 IL-1 elevadas inflamacion sistemica",
+      "Recuperacion 2-3 semanas sueno normal restaura inmunidad",
+      "Calidad mas que cantidad: sueno fragmentado igual privacion",
+      "Apnea obstructiva no diagnosticada afecta 30% mayores 50",
+      "Test polisomnografia clinica detecta apneas oclusivas",
+      "Higiene sueno: temperatura 18 grados oscuridad cero pantallas",
+      "Magnesio glicinato glicina pre-cama mejoran N3",
+      "Cafeina cero pasadas 14h, vida media 6h",
+      "Alcohol cero suprime REM completamente primera mitad",
+      "Ejercicio matutino refuerza ritmo circadiano sueno-vigilia"
+    ],
+    "search_terms": ["person sleeping bedroom", "alarm clock morning", "tired exhausted day"],
+    "category": "sueno",
+    "format": "longform"
+  },
+  {
+    "id": 2167,
+    "topic": "Los 3 ejercicios cientificos para mantener movilidad 90 anos",
+    "hook": "3 ejercicios diarios cuerpo joven 90",
+    "key_points": [
+      "Sentadilla profunda: 30 segundos diarios mantiene cadera tobillo movilidad",
+      "Posicion ancestral natural: ninos pueden, adultos pierden por sillas",
+      "Hang dead colgarse barra 30s diarios fortalece hombros mitiga osteoporosis",
+      "Estudio Roy 2019: hanging mejora postura columna toracica adultos",
+      "Carry: cargar peso 30s asas pesadas estimula 360 musculos",
+      "Patron Brett Jones strength coach: simulado vida real cargas",
+      "Combinacion 3 ejercicios cubre todos planos movimiento basicos",
+      "Diariamente: mantenimiento, no requiere gym especial",
+      "Test sentar-suelo Brito predice mortalidad 6 anos: <8 puntos critico",
+      "Equilibrio integrar pierna sola 30s cada lado simultaneo",
+      "Yoga tai chi alternativas estructuradas semanal",
+      "Movilidad articular declina 1% anual desde 30 sin intervencion",
+      "Inversion 5 min/dia funcionalidad mayor calidad vida decadas"
+    ],
+    "search_terms": ["squat deep exercise", "hanging bar pull", "carry weight strength"],
+    "category": "ejercicio",
+    "format": "longform"
+  },
+  {
+    "id": 2168,
+    "topic": "El protocolo de detoxificacion natural del higado",
+    "hook": "Higado limpio 80 anos sin pildoras",
+    "key_points": [
+      "Higado realiza 500+ funciones incluyendo detox endogena fase 1 y 2",
+      "Mitos detox industria: ayuno limpia higado solo bajo supervision",
+      "Glutation maestro antioxidante hepatocitos: cae 50% con edad",
+      "Sulforafano brocoli activa Nrf2 produccion glutation 50% Riedl 2009",
+      "Cardo mariano silimarina hepatoprotector validado Saller 2001",
+      "Ajo cebolla azufre dietetico estimulan sintesis fase 2",
+      "Cafe 3 tazas reduce 18% mortalidad protege higado Park 2018",
+      "Te verde EGCG inhibe esteatosis hepatica grasa",
+      "Curcumina protege via Nrf2 antifibrotica documentada",
+      "Reducir alcohol fructosa procesados azucares aliviar carga",
+      "Ejercicio mejora composicion corporal reduce higado graso",
+      "Sueno 7-9h consolida regeneracion hepatica nocturna",
+      "Test enzimas hepaticas anual: ALT AST GGT bilirrubina"
+    ],
+    "search_terms": ["liver anatomy organ", "broccoli garlic vegetables", "green tea cup"],
+    "category": "antiaging",
+    "format": "longform"
+  },
+  {
+    "id": 2169,
+    "topic": "Como vivir 100 anos sin medicamentos: protocolo 7 pasos",
+    "hook": "Plan 100 anos cero medicamentos",
+    "key_points": [
+      "Buettner Blue Zones: 95% centenarios sin medicacion cronica",
+      "Paso 1: dieta mediterranea 95% calorias vegetales hara hachi bu",
+      "Paso 2: movimiento natural 7000+ pasos diarios sin gimnasio",
+      "Paso 3: sueno 7-9h consistente horario fijo oscuridad temperatura",
+      "Paso 4: gestion estres meditacion oracion respiracion 20 min/dia",
+      "Paso 5: conexion social 5+ amigos cercanos comunidad fe familia",
+      "Paso 6: proposito vital ikigai voluntariado mentoria contribucion",
+      "Paso 7: prevencion proactiva chequeos anuales 12 marcadores claves",
+      "Suplementos minimos: vitamina D, omega 3, magnesio si deficit",
+      "Eliminar: tabaco, alcohol exceso, azucar refinado, ultraprocesados",
+      "Naturaleza regular: 2h semana reduce mortalidad 60% White 2019",
+      "Resultados acumulativos: anos no semanas, decadas no anos",
+      "Realista 75% personas: 25% requieren intervencion medica"
+    ],
+    "search_terms": ["healthy elderly active", "mediterranean lifestyle", "longevity wellness"],
+    "category": "longevidad",
+    "format": "longform"
+  },
+  {
+    "id": 2170,
+    "topic": "El secreto de los Adventistas Loma Linda: dieta y comunidad fe",
+    "hook": "Adventistas vegetarianos viven mas",
+    "key_points": [
+      "Loma Linda California: unica Blue Zone EEUU descubierta Buettner",
+      "Adventistas viven 10 anos mas vs media estadounidense",
+      "Adventist Health Study 2 96000 personas seguimiento decadas",
+      "Vegetarianos -12% mortalidad vs omnivoros Orlich 2013",
+      "Veganos 50% menos diabetes 2, 30% menos cancer Fraser 2009",
+      "Frutos secos 5+ veces semana: 50% menos coronaria Fraser 1992",
+      "Sabado 24h descanso obligatorio reduce estres cronico",
+      "Iglesia comunidad social fuerte: pertenencia tribu",
+      "Voluntariado servicio comunidad proposito vital integrado",
+      "Sin alcohol, sin tabaco, sin cafe estimulantes",
+      "Ejercicio caminar diario tras culto, naturaleza pasear",
+      "Lecciones aplicables: dieta vegetal, descanso semanal, fe comunidad"
+    ],
+    "search_terms": ["california community elderly", "vegetarian meal", "church community"],
+    "category": "zonas-azules",
+    "format": "longform"
+  },
+  {
+    "id": 2171,
+    "topic": "Como el ayuno terapeutico revierte hipertension y diabetes",
+    "hook": "Ayuno cura diabetes hipertension medicado",
+    "key_points": [
+      "Fung clinica IDM Toronto: ayunos terapeuticos 2000+ pacientes diabetes 2",
+      "Mejora HbA1c 1-2% en 3 meses con ayuno intermitente 16-8",
+      "Ayuno extendido 36-72h bajo supervision revierte resistencia insulina",
+      "Hipertension: ayuno reduce sodio retencion mecanismo renal",
+      "Estudio Goldhamer 2001: ayuno 11 dias reduce PA 37/13 mmHg promedio",
+      "Reduce medicacion progresivamente bajo supervision medica",
+      "Mecanismos: autofagia limpia mitocondrias hepatocitos restaura sensibilidad",
+      "Solo bajo supervision medica: contraindicado tipo 1 embarazo",
+      "Hidratacion electrolitos esenciales: agua sal magnesio potasio",
+      "Romper progresivo: caldo, frutas, vegetales, proteina dia 2",
+      "Combinar dieta mediterranea baja carbo glicemica posterior",
+      "Ejercicio fuerza preserva masa muscular durante ayuno",
+      "Tracking glucosa CGM continuo seguimiento detallado"
+    ],
+    "search_terms": ["empty plate medical", "blood pressure monitor", "diabetes glucose test"],
+    "category": "ayuno",
+    "format": "longform"
+  },
+  {
+    "id": 2172,
+    "topic": "El secreto de los pescadores griegos Ikaria: la isla donde olvidaron morir",
+    "hook": "Ikaria griegos olvidan morir feliz",
+    "key_points": [
+      "Buettner Blue Zone Ikaria: 1/3 llega 90 anos vs 8% media mundial",
+      "Ikaria 'isla donde olvidaron morir' titulo NYT Magazine 2012",
+      "Dieta tradicional: vegetales silvestres, aceite oliva, miel, vino, pescado",
+      "Naska 2007 Arch Intern Med: siesta 30 min reduce 37% infarto",
+      "Te montana ikariano polifenoles antiinflamatorios diarios",
+      "Vida sin reloj, ritmos solares preservados",
+      "Caminar diario obligatorio: terreno montanoso transporte limitado",
+      "Vino moderado comidas, copa diaria pinot polifenoles",
+      "Comunidad muy unida: festivales musica baile frecuentes",
+      "Familia primero: mayores cuidados domesticos, no residencias",
+      "Bajo estres laboral: ritmo lento, dia siesta sagrada",
+      "Lecciones aplicables: ritmo lento, comunidad, dieta vegetal mediterranea"
+    ],
+    "search_terms": ["greek island village", "elderly fishermen", "mediterranean coast"],
+    "category": "zonas-azules",
+    "format": "longform"
+  },
+  {
+    "id": 2173,
+    "topic": "Como las grasas correctas protegen tu cerebro decadas",
+    "hook": "Grasas buenas evitan Alzheimer 50%",
+    "key_points": [
+      "Cerebro 60% grasa: composicion membranas neuronales determina funcion",
+      "Omega 3 EPA DHA esenciales: deficit acelera envejecimiento cerebral 2 anos",
+      "Tan 2012 Neurology: omega 3 bajos cerebro 2 anos mas viejo MRI",
+      "DHA 40% acidos grasos cerebro: pescado azul fuente principal",
+      "Aceite oliva extra virgen oleocantal antiinflamatorio cerebro",
+      "Aguacate 78% grasas saludables vitamina E protectora",
+      "Frutos secos almendras nueces selenio omega 3 ALA",
+      "Coco MCT C8 caprilico cuerpos cetonicos energia neuronal",
+      "Ratio omega 6:3 ideal 4:1, dieta occidental 20:1",
+      "Reducir aceites refinados: girasol soja maiz proinflamatorios",
+      "Mantequilla ghee orgnico aporta vitamina K2 colesterol calidad",
+      "Pescado azul 2x semana baja 36% mortalidad cardiovascular Mozaffarian",
+      "Sinergia omega 3 + vitamina D potencia neuroproteccion"
+    ],
+    "search_terms": ["fatty fish salmon", "avocado nuts healthy", "olive oil brain"],
+    "category": "antiaging",
+    "format": "longform"
+  },
+  {
+    "id": 2174,
+    "topic": "El protocolo completo de prevencion cancer basado en ciencia",
+    "hook": "Cancer 50% prevenible estilo vida",
+    "key_points": [
+      "WHO: 50% canceres prevenibles con estilo vida segun analisis 2020",
+      "Tabaco causa 22% canceres: cesacion completa unico no negociable",
+      "Alcohol cero o moderado: 5% canceres atribuibles cualquier dosis",
+      "Obesidad sobrepeso 13% canceres: mantener IMC 18-25 ideal",
+      "Sedentarismo aumenta colon mama prostata: 150 min/semana minimo",
+      "Dieta vegetal abundante: fitoquimicos protectores demostrados",
+      "Crucificeras 3 raciones/semana: brocoli col reducen cancer 30%",
+      "Frutos rojos antocianinas reducen oxidativo dano ADN",
+      "Te verde EGCG protege via mecanismos multiples Kuriyama 2006",
+      "Vitamina D >40 ng/mL reduce 30% multiples canceres Holick 2007",
+      "Ayuno intermitente: IGF-1 bajo reduce proliferacion celular",
+      "Sueno 7-9h consolidacion: <6h aumenta cancer mama hombres",
+      "Estres cronico: cortisol inmunosupresor crece tumores",
+      "Microbioma oral diverso: P. gingivalis cancer pancreas correlacionada"
+    ],
+    "search_terms": ["healthy lifestyle prevention", "vegetables colorful plate", "fitness adult elderly"],
+    "category": "longevidad",
+    "format": "longform"
+  },
+  {
+    "id": 2175,
+    "topic": "Como entrenar hormonas: protocolo natural para energia 60 anos",
+    "hook": "Hormonas optimizadas energia adolescente",
+    "key_points": [
+      "Hormonas declinan con edad: testosterona DHEA estradiol GH tiroides",
+      "Optimizacion natural posible 80% casos sin TRT inicial",
+      "Sueno 7-9h: pilar fundamental produccion hormonal noche",
+      "Pesas compuestas 3-4x semana eleva testosterona 40% Kraemer",
+      "HIIT sprints all-out aumenta GH 530% por 24h Hackney 2014",
+      "Sol matutino directo ojos 10 min activa eje HHG completo",
+      "Restriccion calorica leve 10% mejora ratios hormonales",
+      "Suplementos: zinc 30mg, magnesio glicinato 400mg, vitamina D 5000 UI",
+      "Tongkat ali 400mg/dia eleva testosterona 30% Tambi 2012",
+      "Ashwagandha 600mg/dia reduce cortisol mejora libido Lopresti 2019",
+      "Evitar: alcohol cronico, plasticos BPA, soja excesiva, sedentarismo",
+      "Frio 11 min/semana exposicion 11 grados activa hormonas anabolicas",
+      "Test SHBG free testosterona total cada 6 meses tracking"
+    ],
+    "search_terms": ["mature adult athletic", "morning sunlight outdoor", "hormones balance"],
+    "category": "hormonas",
+    "format": "longform"
+  },
+  {
+    "id": 2176,
+    "topic": "El protocolo de respiracion para activar nervio vago en 5 min",
+    "hook": "Respirar 5 min cura ansiedad ciencia",
+    "key_points": [
+      "Russo 2017: respiracion lenta <6 rpm activa nervio vago aumentando HRV",
+      "Tono vagal alto correlaciona +10 anos esperanza vida Tsuji 1996",
+      "Tecnica 4-7-8: inhalar 4 retener 7 exhalar 8 segundos",
+      "Coherencia cardiaca 5-5: 5 segundos inhalar 5 exhalar",
+      "Respiracion cuadrada: 4-4-4-4 inhalar retener exhalar retener",
+      "Wim Hof 30 respiraciones rapidas + retencion + recuperacion",
+      "Beneficios: ansiedad cae 50% en 4 semanas practica diaria",
+      "Reduce cortisol baseline, mejora sueno, baja PA",
+      "Activar parasympatico: digestion, recuperacion, sueno",
+      "Aplicacion: 5 min mananas, antes reuniones, antes dormir",
+      "Combinable con meditacion mindfulness profundiza efecto",
+      "Tracking HRV Oura Whoop optimiza practica medible",
+      "Sin coste, accesible, beneficios validados ciencia rigurosa"
+    ],
+    "search_terms": ["breathing meditation calm", "yoga peaceful pose", "person nose breathing"],
+    "category": "estres",
+    "format": "longform"
+  },
+  {
+    "id": 2177,
+    "topic": "Como las celulas madre adultas reparan tu cuerpo: actiivacion natural",
+    "hook": "Celulas madre tu propio rejuvenecimiento",
+    "key_points": [
+      "Celulas madre adultas residentes en multiples tejidos: medula osea grasa musculo",
+      "Capacidad regenerativa declina con edad: agotamiento progresivo",
+      "Activacion natural: ayuno 72h regenera celulas madre intestinales 50%",
+      "Ejercicio aerobico activa celulas madre musculares satelites",
+      "Pesas estimula proliferacion celulas madre miogenicas",
+      "Sueno profundo N3 secreta GH activa celulas madre tisulares",
+      "Frio activa celulas madre: tibetan tradicionales protocolos modernos",
+      "Vitamina D activa receptores celulas madre via VDR",
+      "Restriccion calorica preserva pool celulas madre hematopoyeticas",
+      "Vitaminas B activan metabolismo celulas madre proliferacion",
+      "Antiinflamatorios naturales protegen nicho celulas madre",
+      "Terapias futuras: trasplante celulas madre autologas en investigacion",
+      "Exosomas circulantes mensajeros rejuvenecimiento sistemico"
+    ],
+    "search_terms": ["stem cells biology", "regeneration medical", "body healing process"],
+    "category": "antiaging",
+    "format": "longform"
+  },
+  {
+    "id": 2178,
+    "topic": "El estilo de vida que te puede hacer vivir 110 anos: supercentenarios",
+    "hook": "Supercentenarios 110+ codigo secreto vida",
+    "key_points": [
+      "Supercentenarios: vivos 110+ anos, menos 1000 mundo identificados",
+      "Jeanne Calment Francia 122 anos record mundial verificado",
+      "Genetica explica 50% supercentenariedad vs 25% centenarios",
+      "Variantes geneticas: FOXO3, APOE2, IGF-1 receptor mutado protectoras",
+      "Personalidad: optimismo extremo, agradabilidad, bajo neurotismo",
+      "Resilencia psicologica: superar perdidas multiples sin depresion cronica",
+      "Estilo vida moderado: dieta tradicional regional, movimiento natural",
+      "Conexion familiar fuerte: hijos nietos cuidados domesticos",
+      "Sin enfermedades cronicas mayoria: compresion morbidad extrema",
+      "Inflammaging muy bajo: marcadores juveniles 80 anos",
+      "Microbioma diverso enriquecido bacterias protectoras",
+      "Telomeros conservados longitud excepcional para edad",
+      "Lecciones aplicables: estilo vida + actitud + comunidad alarga decadas",
+      "75% factores modificables segun estudios geneticos longevidad"
+    ],
+    "search_terms": ["very old elderly portrait", "centenarian celebration", "ancient family portrait"],
+    "category": "longevidad",
+    "format": "longform"
+  },
+  {
+    "id": 2179,
+    "topic": "El plan completo para anadir 10 anos a tu vida en 2025",
+    "hook": "Plan 2025 ganar 10 anos vida",
+    "key_points": [
+      "Esperanza vida modificable 75% factores estilo vida segun gemelos estudios",
+      "Mes 1: chequeo medico completo 12 biomarcadores baseline establecer",
+      "Dieta mediterranea estricta: 50g aceite oliva, frutos secos diarios",
+      "Movimiento: 7000+ pasos diarios + 2x semana fuerza compuesta",
+      "Sueno 7-9h consistente horario fijo oscuridad temperatura 18 grados",
+      "Manejo estres meditacion 20 min/dia respiracion vago activacion",
+      "Conexion social: 5 amigos cercanos minimo, comunidad fe voluntariado",
+      "Proposito vital ikigai identificar contribucion sentido",
+      "Naturaleza 2h/semana minimo bosque montana playa",
+      "Suplementos basicos: vitamina D 4000 UI, omega 3 2g, magnesio 400mg",
+      "Eliminar: tabaco, alcohol >7 copas semana, ultraprocesados, azucar refinado",
+      "Ayuno intermitente 16-8 diario activa autofagia limpieza",
+      "Tracking trimestral biomarcadores ajustar intervenciones medibles",
+      "Resultado realista: 5-10 anos esperanza vida funcional vs hipoteticos",
+      "Calidad mas que cantidad: anos extra vivibles activos"
+    ],
+    "search_terms": ["healthy lifestyle plan", "wellness routine elder", "active aging adult"],
+    "category": "longevidad",
+    "format": "longform"
+  }
+]
