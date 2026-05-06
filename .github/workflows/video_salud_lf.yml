@@ -1,7 +1,7 @@
 name: "Video: SaludLongevidad (Long-Form)"
 on:
   schedule:
-    - cron: '30 17 * * *'
+    - cron: '30 18 * * *'  # 20:30 España (prime ES LF)
   workflow_dispatch:
 jobs:
   video:

@@ -1,7 +1,7 @@
 name: "Video: CashCafe (Long-Form)"
 on:
   schedule:
-    - cron: '0 18 * * *'
+    - cron: '0 1 * * *'    # 21:00 EDT (late prime US — cafe lovers wind-down)
   workflow_dispatch:
 jobs:
   video:

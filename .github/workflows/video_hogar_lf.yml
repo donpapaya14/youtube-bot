@@ -1,7 +1,7 @@
 name: "Video: EspacioInteligente (Long-Form)"
 on:
   schedule:
-    - cron: '30 20 * * *'
+    - cron: '0 23 * * *'   # 19:00 EDT (prime US LF)
   workflow_dispatch:
 jobs:
   video:

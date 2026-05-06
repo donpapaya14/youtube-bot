@@ -1,7 +1,7 @@
 name: "Video: MindWired (Long-Form)"
 on:
   schedule:
-    - cron: '0 22 * * *'
+    - cron: '30 21 * * *'  # 17:30 EDT (psychology evening US)
   workflow_dispatch:
 jobs:
   video:

@@ -1,11 +1,8 @@
 name: "Video: DarkFiles"
-
 on:
   schedule:
-    # Diario a las 16:00 España (14:00 UTC)
-    - cron: '0 21 * * *'
+    - cron: '0 22 * * *'   # 18:00 EDT (true crime evening US)
   workflow_dispatch:
-
 jobs:
   video:
     uses: ./.github/workflows/longform_engine.yml

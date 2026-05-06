@@ -1,9 +1,9 @@
 name: "Video: HogarInteligente"
 on:
   schedule:
-    - cron: '0 14 * * *'   # 10:00 EST (mañana US)
-    - cron: '0 18 * * *'   # 14:00 EST (sobremesa US)
-    - cron: '0 0 * * *'    # 20:00 EST (prime time US)
+    - cron: '30 13 * * *'  # 09:30 EDT
+    - cron: '30 17 * * *'  # 13:30 EDT
+    - cron: '30 0 * * *'   # 20:30 EDT (prime)
   workflow_dispatch:
 jobs:
   video:
