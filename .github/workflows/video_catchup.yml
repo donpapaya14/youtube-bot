@@ -26,14 +26,9 @@ jobs:
           TOTAL_MISSING=0
           REPORT=""
 
-          # Cada canal tiene 5 crons/día (cada ~4h desde las 6:xx UTC)
-          # By 13:00 UTC: ~2 crons habrán corrido (6:xx y 10:xx)
-          # By 22:00 UTC: los 5 habrán corrido (último a las 22:xx)
-          if [ "$HOUR" -lt 15 ]; then
-            VIDA_EXP=2; SALUD_EXP=2; FINANZAS_EXP=2; CAT_EXP=2; HOGAR_EXP=2
-          else
-            VIDA_EXP=5; SALUD_EXP=5; FINANZAS_EXP=5; CAT_EXP=5; HOGAR_EXP=5
-          fi
+          # 1 cron/día por canal en peak hours (15:00-20:00 UTC)
+          # Catch-up a las 22:00 UTC comprueba que al menos 1 se publicó
+          VIDA_EXP=1; SALUD_EXP=1; FINANZAS_EXP=1; CAT_EXP=1; HOGAR_EXP=1
 
           count_success() {
             gh run list --repo "$REPO" --workflow "$1" --limit 20 --json conclusion,createdAt \
