@@ -1,0 +1,2702 @@
+[
+  {
+    "id": 2000,
+    "topic": "Maine Coon cats can grow over 3 feet long",
+    "hook": "This cat breaks length records",
+    "key_points": [
+      "Maine Coons average 19-40 inches nose to tail tip",
+      "Stewie held Guinness record at 48.5 inches in 2010",
+      "Slow growth: full size only at 4-5 years old",
+      "Native to Maine, USA, official state cat since 1985"
+    ],
+    "search_terms": ["maine coon cat", "large fluffy cat", "long cat tail"],
+    "category": "cat-breeds"
+  },
+  {
+    "id": 2001,
+    "topic": "Why cats knead with their paws",
+    "hook": "Your cat thinks you are mom",
+    "key_points": [
+      "Kneading starts in kittenhood to stimulate milk flow",
+      "Adults knead when feeling safe and content per Cornell Vet",
+      "Releases pheromones from paw pad scent glands",
+      "Behavior also called making biscuits"
+    ],
+    "search_terms": ["cat kneading", "kitten paws", "cat on blanket"],
+    "category": "cat-behavior"
+  },
+  {
+    "id": 2002,
+    "topic": "Cats have 32 muscles in each ear",
+    "hook": "Cat ears beat human ears",
+    "key_points": [
+      "Humans have only 6 ear muscles by comparison",
+      "Cats rotate ears 180 degrees independently",
+      "Hearing range up to 64 kHz vs humans 20 kHz",
+      "Detect mouse squeaks at 200 feet away"
+    ],
+    "search_terms": ["cat ears close up", "cat listening", "alert cat face"],
+    "category": "cat-science"
+  },
+  {
+    "id": 2003,
+    "topic": "Black cats were once worth their weight in silver",
+    "hook": "Sailors paid silver for black cats",
+    "key_points": [
+      "British Royal Navy required ship cats until 1975",
+      "Black cats considered luckiest at sea per maritime lore",
+      "Trim sailed with Matthew Flinders around Australia 1801-1803",
+      "Statue of Trim stands outside Sydney library today"
+    ],
+    "search_terms": ["black cat", "ship at sea", "cat on boat"],
+    "category": "cat-history"
+  },
+  {
+    "id": 2004,
+    "topic": "Your cat purr heals broken bones",
+    "hook": "Purrs heal at 25 to 150 Hz",
+    "key_points": [
+      "Frequencies 25-50 Hz promote bone density growth",
+      "100 Hz aids tendon and muscle repair",
+      "Research published in Journal of Acoustical Society of America",
+      "Cats purr while inhaling AND exhaling"
+    ],
+    "search_terms": ["cat purring close up", "cat sleeping cozy", "cat lap"],
+    "category": "cat-science"
+  },
+  {
+    "id": 2005,
+    "topic": "First cat in space was French",
+    "hook": "France launched a cat to space",
+    "key_points": [
+      "Felicette flew October 18 1963 from Algeria",
+      "Reached 100 miles altitude on Veronique rocket",
+      "Stray from Paris streets, only feline astronaut",
+      "Statue erected at International Space University 2019"
+    ],
+    "search_terms": ["space rocket launch", "stray cat", "vintage space"],
+    "category": "cat-history"
+  },
+  {
+    "id": 2006,
+    "topic": "Cats cannot taste sweetness",
+    "hook": "Cats taste no sugar at all",
+    "key_points": [
+      "Missing functional Tas1r2 sweet receptor gene",
+      "Confirmed by Monell Chemical Senses Center 2005",
+      "Obligate carnivores evolved without need for sugar detection",
+      "Why your cat ignores ice cream flavor"
+    ],
+    "search_terms": ["cat eating food", "cat curious face", "cat nose"],
+    "category": "cat-nutrition"
+  },
+  {
+    "id": 2007,
+    "topic": "Why cats bring you dead animals",
+    "hook": "Your cat is teaching you",
+    "key_points": [
+      "Mother cats teach kittens hunting via prey delivery",
+      "Indoor cats view owners as kittens needing skills",
+      "ASPCA confirms instinct unrelated to gift-giving myth",
+      "Spayed females do this most often"
+    ],
+    "search_terms": ["cat with mouse toy", "cat hunting grass", "outdoor cat"],
+    "category": "cat-behavior"
+  },
+  {
+    "id": 2008,
+    "topic": "Norwegian Forest Cats survived Viking ships",
+    "hook": "Vikings carried cats on ships",
+    "key_points": [
+      "Bred over 1000 years on Scandinavian fishing boats",
+      "Waterproof double coat resists snow and rain",
+      "Believed pulled goddess Freya chariot in Norse myth",
+      "Rediscovered as breed in 1930s, near extinction WWII"
+    ],
+    "search_terms": ["norwegian forest cat", "longhaired cat snow", "fluffy cat"],
+    "category": "cat-breeds"
+  },
+  {
+    "id": 2009,
+    "topic": "90% of owners feed cats wrong portions",
+    "hook": "You overfeed your cat daily",
+    "key_points": [
+      "Average 10 lb cat needs only 200 calories per day",
+      "Free-feeding causes 60% US cat obesity per AVMA",
+      "Use measuring cup not scoops or eyeballing",
+      "Weigh cat monthly with kitchen scale check"
+    ],
+    "search_terms": ["overweight cat", "cat food bowl", "cat eating dry food"],
+    "category": "cat-nutrition"
+  },
+  {
+    "id": 2010,
+    "topic": "Cats sweat only through their paw pads",
+    "hook": "Cats sweat from paws only",
+    "key_points": [
+      "Eccrine glands located solely in paw pads",
+      "Wet paw prints on tile signal stress or heat",
+      "Primary cooling via panting and grooming saliva",
+      "Heatstroke risk above 80F per Cornell Vet"
+    ],
+    "search_terms": ["cat paws", "cat walking floor", "cat panting"],
+    "category": "cat-health"
+  },
+  {
+    "id": 2011,
+    "topic": "Why cats stare at you while pooping",
+    "hook": "Cat stares because vulnerable",
+    "key_points": [
+      "Litter box position leaves them defenseless",
+      "Eye contact requests guarding from predators",
+      "Trust signal you are seen as protector",
+      "Wild ancestors buried waste to hide scent"
+    ],
+    "search_terms": ["cat litter box", "cat looking at owner", "cat hiding"],
+    "category": "cat-behavior"
+  },
+  {
+    "id": 2012,
+    "topic": "Oldest cat lived 38 years and 3 days",
+    "hook": "This cat lived 38 years",
+    "key_points": [
+      "Creme Puff born August 3 1967, died August 6 2005",
+      "Lived in Austin Texas with Jake Perry",
+      "Diet included bacon, eggs, broccoli, coffee with cream",
+      "Guinness World Records oldest cat ever"
+    ],
+    "search_terms": ["old cat", "senior cat sleeping", "ginger cat"],
+    "category": "cat-facts"
+  },
+  {
+    "id": 2013,
+    "topic": "Cats see UV light humans cannot",
+    "hook": "Cats see invisible light",
+    "key_points": [
+      "Lens passes UV wavelengths blocked in human eyes",
+      "Study in Proceedings Royal Society B 2014",
+      "Urine trails of rodents glow under UV",
+      "Helps detect prey in darkness"
+    ],
+    "search_terms": ["cat eyes glowing", "cat at night", "cat staring intense"],
+    "category": "cat-science"
+  },
+  {
+    "id": 2014,
+    "topic": "Why your cat headbutts you",
+    "hook": "That headbutt marks ownership",
+    "key_points": [
+      "Called bunting, deposits scent from forehead glands",
+      "Marks you as part of cat colony",
+      "Sign of trust and affection per Jackson Galaxy",
+      "Cats also bunt furniture and other pets"
+    ],
+    "search_terms": ["cat rubbing face", "cat affection owner", "cat headbutt"],
+    "category": "cat-behavior"
+  },
+  {
+    "id": 2015,
+    "topic": "Polydactyl cats have up to 28 toes",
+    "hook": "Some cats have 28 toes",
+    "key_points": [
+      "Genetic mutation called polydactyly, dominant gene",
+      "Hemingway home Key West houses 60 polydactyl descendants",
+      "Normal cats: 18 toes (5 front each, 4 back each)",
+      "Common in Maine Coons due to ship cat ancestry"
+    ],
+    "search_terms": ["cat paws closeup", "polydactyl cat", "cat toes"],
+    "category": "cat-facts"
+  },
+  {
+    "id": 2016,
+    "topic": "Cats have a third eyelid for protection",
+    "hook": "Your cat has 3 eyelids",
+    "key_points": [
+      "Nictitating membrane sweeps debris and lubricates",
+      "Visible third eyelid signals illness per Cornell Vet",
+      "Protects eye during fights and dense brush hunting",
+      "Humans only have vestigial remnant in inner corner"
+    ],
+    "search_terms": ["cat eye closeup", "sleepy cat", "cat blinking"],
+    "category": "cat-health"
+  },
+  {
+    "id": 2017,
+    "topic": "Why cats hate water but tigers love it",
+    "hook": "Domestic cats fear water why",
+    "key_points": [
+      "Domestic cats descended from desert wildcat Felis lybica",
+      "Coats not waterproof, become heavy when wet",
+      "Loss of body heat regulation when soaked",
+      "Tigers and Turkish Vans buck this trend"
+    ],
+    "search_terms": ["cat scared water", "cat bathing", "cat splash"],
+    "category": "cat-behavior"
+  },
+  {
+    "id": 2018,
+    "topic": "Cats meow only to communicate with humans",
+    "hook": "Cats only meow at humans",
+    "key_points": [
+      "Adult cats rarely meow at other cats",
+      "Developed vocalization to manipulate human caregivers",
+      "Cornell research shows kitten-like tone targets us",
+      "Each cat develops unique meow vocabulary per owner"
+    ],
+    "search_terms": ["cat meowing", "cat mouth open", "cat talking owner"],
+    "category": "cat-science"
+  },
+  {
+    "id": 2019,
+    "topic": "Unsinkable Sam survived 3 ship sinkings",
+    "hook": "This cat survived 3 sinkings",
+    "key_points": [
+      "Sailed German Bismarck sunk May 1941",
+      "Rescued, joined HMS Cossack sunk October 1941",
+      "Then HMS Ark Royal torpedoed November 1941",
+      "Retired to Belfast home until 1955"
+    ],
+    "search_terms": ["black white cat", "warship vintage", "cat rescue"],
+    "category": "cat-history"
+  },
+  {
+    "id": 2020,
+    "topic": "Cats spend 70% of life sleeping",
+    "hook": "Cats sleep 16 hours daily",
+    "key_points": [
+      "Average 12-16 hours per day, kittens up to 20",
+      "Conserve energy from ancestral hunting cycles",
+      "Two sleep phases: light dozing and deep REM",
+      "Crepuscular: most active at dawn and dusk"
+    ],
+    "search_terms": ["cat sleeping", "cat napping cozy", "cat deep sleep"],
+    "category": "cat-behavior"
+  },
+  {
+    "id": 2021,
+    "topic": "Sphynx cats need weekly baths",
+    "hook": "Hairless cats need bathing",
+    "key_points": [
+      "Lack of fur means oil builds on skin directly",
+      "Royal Canin recommends weekly gentle bath",
+      "Skip bath leads to greasy spots and skin infection",
+      "First Sphynx born 1966 Toronto from natural mutation"
+    ],
+    "search_terms": ["sphynx cat", "hairless cat", "cat bath"],
+    "category": "cat-breeds"
+  },
+  {
+    "id": 2022,
+    "topic": "Why cats love boxes scientifically",
+    "hook": "Cats need boxes to survive",
+    "key_points": [
+      "Utrecht University study shows boxes reduce stress",
+      "Enclosed spaces lower cortisol within hours",
+      "Ambush hunters seek small spaces for security",
+      "Insulation: temp tolerance is 86-100F box helps"
+    ],
+    "search_terms": ["cat in box", "cardboard box cat", "cat hiding box"],
+    "category": "cat-behavior"
+  },
+  {
+    "id": 2023,
+    "topic": "Cats cannot digest milk as adults",
+    "hook": "Milk hurts adult cats",
+    "key_points": [
+      "Lose lactase enzyme after weaning at 12 weeks",
+      "Causes diarrhea, vomiting, gas per ASPCA",
+      "Disney cartoons created the milk-cat myth",
+      "Lactose-free cat milk products are safer option"
+    ],
+    "search_terms": ["cat drinking milk", "cat bowl", "kitten food"],
+    "category": "cat-nutrition"
+  },
+  {
+    "id": 2024,
+    "topic": "Tortoiseshell cats are nearly all female",
+    "hook": "Male torties are 1 in 3000",
+    "key_points": [
+      "Coat color requires two X chromosomes",
+      "Male torties have rare XXY Klinefelter syndrome",
+      "Almost always sterile due to chromosome anomaly",
+      "Called money cats in Japanese folklore"
+    ],
+    "search_terms": ["tortoiseshell cat", "calico cat", "multicolor cat"],
+    "category": "cat-science"
+  },
+  {
+    "id": 2025,
+    "topic": "Your cat slow blink means I love you",
+    "hook": "Slow blink is a kiss",
+    "key_points": [
+      "University of Sussex 2020 study confirms bonding",
+      "Cats slow blink back when humans initiate",
+      "Signals no threat, indicates trust and contentment",
+      "Try it: half-close eyes slowly toward your cat"
+    ],
+    "search_terms": ["cat blinking slow", "cat eye contact", "cat affection"],
+    "category": "cat-behavior"
+  },
+  {
+    "id": 2026,
+    "topic": "Cats jump 6 times their body length",
+    "hook": "Your cat outjumps NBA players",
+    "key_points": [
+      "Average house cat jumps 5-6 feet vertically",
+      "Powerful hind leg muscles store elastic energy",
+      "Tail provides mid-air balance corrections",
+      "Cheetahs share same leg structure principle"
+    ],
+    "search_terms": ["cat jumping high", "cat leaping furniture", "cat playing"],
+    "category": "cat-science"
+  },
+  {
+    "id": 2027,
+    "topic": "Why cats chatter at birds through windows",
+    "hook": "Chattering shows hunting frustration",
+    "key_points": [
+      "Mimics killing bite practiced on prey",
+      "Smithsonian researchers documented in wild ocelots",
+      "Vocal release from inability to reach prey",
+      "Jaw vibration may also imitate bird calls"
+    ],
+    "search_terms": ["cat watching bird", "cat window", "cat hunting birds"],
+    "category": "cat-behavior"
+  },
+  {
+    "id": 2028,
+    "topic": "Persian cats existed 1600 years ago",
+    "hook": "Persian cats are ancient royalty",
+    "key_points": [
+      "Hieroglyphics from 1684 BC depict longhaired cats",
+      "Brought to Europe by Italian traveler 1620",
+      "Queen Victoria owned two blue Persians",
+      "Cat Fanciers Association most registered breed for years"
+    ],
+    "search_terms": ["persian cat", "longhaired white cat", "fluffy cat face"],
+    "category": "cat-breeds"
+  },
+  {
+    "id": 2029,
+    "topic": "Cats whiskers measure spaces precisely",
+    "hook": "Whiskers are biological rulers",
+    "key_points": [
+      "Same width as cat body for gap fitting",
+      "Detect air currents to map dark surroundings",
+      "Connect to nervous system 3x deeper than fur",
+      "Never trim, causes spatial confusion per Cornell Vet"
+    ],
+    "search_terms": ["cat whiskers closeup", "cat face profile", "cat in tight space"],
+    "category": "cat-science"
+  },
+  {
+    "id": 2030,
+    "topic": "Why your cat suddenly zooms at 3 AM",
+    "hook": "Zoomies release pent prey energy",
+    "key_points": [
+      "Crepuscular ancestors hunted dawn and dusk",
+      "Indoor cats lack prey outlet release pent energy",
+      "Veterinary term: Frenetic Random Activity Periods",
+      "Provide 15 min interactive play to reduce 3 AM bursts"
+    ],
+    "search_terms": ["cat running fast", "cat playing night", "cat chasing toy"],
+    "category": "cat-behavior"
+  },
+  {
+    "id": 2031,
+    "topic": "Smallest cat breed weighs only 4 pounds",
+    "hook": "Singapura is tiny adult cat",
+    "key_points": [
+      "Singapura adults: females 4 lbs, males up to 8 lbs",
+      "Originated from Singapore street cats 1970s",
+      "Recognized by Cat Fanciers Association 1988",
+      "Only sepia ticked color officially accepted"
+    ],
+    "search_terms": ["small cat breed", "tiny cat", "singapura cat"],
+    "category": "cat-breeds"
+  },
+  {
+    "id": 2032,
+    "topic": "Cats have unique nose prints like fingerprints",
+    "hook": "Cat noses are like fingerprints",
+    "key_points": [
+      "Bumps and ridges on nose pad never repeat",
+      "Used for identification before microchipping",
+      "Compare with cat photo databases internationally",
+      "Even littermates show different patterns"
+    ],
+    "search_terms": ["cat nose closeup", "cat face", "cat profile photo"],
+    "category": "cat-facts"
+  },
+  {
+    "id": 2033,
+    "topic": "Why cats roll on concrete in summer",
+    "hook": "Concrete rolling cools cat body",
+    "key_points": [
+      "Concrete absorbs and dissipates heat efficiently",
+      "Cats lower core temperature via belly contact",
+      "Also marks territory with scent gland secretions",
+      "Behavior peaks above 80F outdoor temperatures"
+    ],
+    "search_terms": ["cat rolling ground", "cat on pavement", "cat sunbathing"],
+    "category": "cat-behavior"
+  },
+  {
+    "id": 2034,
+    "topic": "Nora the piano-playing cat went viral 2007",
+    "hook": "This cat wrote a concerto",
+    "key_points": [
+      "Rescue cat played piano daily in Philadelphia home",
+      "Lithuanian composer wrote CATcerto with her recordings",
+      "Performed live with Klaipeda Chamber Orchestra 2009",
+      "YouTube videos passed 30 million views"
+    ],
+    "search_terms": ["cat playing piano", "cat on keyboard", "piano keys"],
+    "category": "cat-history"
+  },
+  {
+    "id": 2035,
+    "topic": "Cats prefer warm food not cold",
+    "hook": "Cold food hurts cat appetite",
+    "key_points": [
+      "Cats favor temperature near body 100-103F",
+      "Mimics fresh prey kill warmth",
+      "Refrigerated food reduces aroma cats detect",
+      "Warm 10 seconds in microwave from fridge"
+    ],
+    "search_terms": ["cat eating wet food", "cat food bowl", "cat hungry"],
+    "category": "cat-nutrition"
+  },
+  {
+    "id": 2036,
+    "topic": "Why cats puff up tails when scared",
+    "hook": "Puffed tail is bluff strategy",
+    "key_points": [
+      "Piloerection makes cat appear 30% larger",
+      "Goal: intimidate threats without fighting",
+      "Triggered by sympathetic nervous system",
+      "Ears flatten back same instant"
+    ],
+    "search_terms": ["scared cat puffy", "cat hissing", "halloween cat pose"],
+    "category": "cat-behavior"
+  },
+  {
+    "id": 2037,
+    "topic": "Bengals cost up to 25000 dollars",
+    "hook": "Bengals cost more than cars",
+    "key_points": [
+      "F1 Bengal first-gen hybrid commands top prices",
+      "Crossbred from Asian leopard cat 1960s",
+      "Recognized as breed by TICA in 1986",
+      "Banned in Hawaii, NYC, Seattle as exotic"
+    ],
+    "search_terms": ["bengal cat", "spotted cat", "exotic looking cat"],
+    "category": "cat-breeds"
+  },
+  {
+    "id": 2038,
+    "topic": "Cats gallop like horses do",
+    "hook": "Cats run with horse gait",
+    "key_points": [
+      "Reach speeds of 30 mph in short bursts",
+      "Same gallop rhythm as racehorses",
+      "Spine flexes and extends 50% length increase",
+      "Cheetah relatives use identical mechanics"
+    ],
+    "search_terms": ["cat running fast", "cat sprint outdoor", "cat chase"],
+    "category": "cat-science"
+  },
+  {
+    "id": 2039,
+    "topic": "Why cats hide before they die",
+    "hook": "Sick cats hide alone always",
+    "key_points": [
+      "Survival instinct masks vulnerability from predators",
+      "Sick cats seek dark quiet small spaces",
+      "Cornell Vet warns: hiding 24+ hrs needs vet visit",
+      "Prey species behavior persists in domesticated cats"
+    ],
+    "search_terms": ["cat hiding", "cat under bed", "cat alone"],
+    "category": "cat-health"
+  },
+  {
+    "id": 2040,
+    "topic": "Ragdoll cats go limp when held",
+    "hook": "Ragdolls flop like puppets",
+    "key_points": [
+      "Bred 1960s by Ann Baker in Riverside California",
+      "Genetic trait for muscle relaxation when picked up",
+      "Pain tolerance higher than average breeds",
+      "Cannot be left outdoors due to docility"
+    ],
+    "search_terms": ["ragdoll cat", "blue eye cat", "cat being held"],
+    "category": "cat-breeds"
+  },
+  {
+    "id": 2041,
+    "topic": "Cat tongue spines rip flesh efficiently",
+    "hook": "Cat tongue is a meat grater",
+    "key_points": [
+      "Hundreds of papillae made of hardened keratin",
+      "Georgia Tech 2018 study showed groom mechanics",
+      "Strip flesh from prey bones effortlessly",
+      "Same material as your fingernails"
+    ],
+    "search_terms": ["cat tongue out", "cat licking paw", "cat grooming"],
+    "category": "cat-science"
+  },
+  {
+    "id": 2042,
+    "topic": "Why cats hate citrus smells",
+    "hook": "Citrus repels every cat",
+    "key_points": [
+      "Citrus oils overwhelm sensitive olfactory system",
+      "Cat noses have 200 million scent receptors",
+      "Limonene compound is mildly toxic if ingested",
+      "Use orange peels to deter unwanted scratching"
+    ],
+    "search_terms": ["cat nose", "cat sniffing food", "orange fruit"],
+    "category": "cat-behavior"
+  },
+  {
+    "id": 2043,
+    "topic": "Towser caught 28899 mice in lifetime",
+    "hook": "This cat caught 28000 mice",
+    "key_points": [
+      "Lived at Glenturret Distillery Scotland 1963-1987",
+      "Guinness Record Mouser of all time",
+      "Average 3 mice per day for 24 years",
+      "Statue stands at distillery in her memory"
+    ],
+    "search_terms": ["cat hunting", "barn cat", "tabby cat"],
+    "category": "cat-history"
+  },
+  {
+    "id": 2044,
+    "topic": "Cats see in dim light 8x better",
+    "hook": "Cats see 8x better in dark",
+    "key_points": [
+      "Tapetum lucidum reflects light back through retina",
+      "Pupils dilate to nearly entire eye surface",
+      "Need only one-eighth of light humans require",
+      "Cannot see in absolute pitch darkness"
+    ],
+    "search_terms": ["cat eyes glowing dark", "cat at night", "cat pupils"],
+    "category": "cat-science"
+  },
+  {
+    "id": 2045,
+    "topic": "Why cats love olives and catnip",
+    "hook": "Olives drug your cat",
+    "key_points": [
+      "Olives contain isoprenoids similar to nepetalactone",
+      "Same chemical class triggers euphoric response",
+      "Catnip affects 50-70% of cats genetically",
+      "Reaction lasts 10-15 minutes then refractory hour"
+    ],
+    "search_terms": ["cat with catnip", "cat rolling", "cat playing toy"],
+    "category": "cat-science"
+  },
+  {
+    "id": 2046,
+    "topic": "Cats can drink saltwater unlike humans",
+    "hook": "Cats drink ocean water safely",
+    "key_points": [
+      "Kidneys filter salt more efficiently than humans",
+      "Originally desert wildcat Felis lybica adaptation",
+      "Still risky for indoor cats due to dehydration",
+      "Water intake mostly comes from prey moisture"
+    ],
+    "search_terms": ["cat drinking water", "cat at beach", "cat fountain"],
+    "category": "cat-science"
+  },
+  {
+    "id": 2047,
+    "topic": "Russian Blue cats are hypoallergenic-friendly",
+    "hook": "This cat triggers fewer allergies",
+    "key_points": [
+      "Produce less Fel d 1 protein than typical breeds",
+      "Dense double coat reduces dander spread",
+      "Origins traced to port of Arkhangelsk Russia",
+      "Carried by sailors to Britain in 1860s"
+    ],
+    "search_terms": ["russian blue cat", "gray cat", "blue cat green eyes"],
+    "category": "cat-breeds"
+  },
+  {
+    "id": 2048,
+    "topic": "Why cats lick you obsessively",
+    "hook": "Licking marks you as kin",
+    "key_points": [
+      "Allogrooming behavior reserved for trusted bondmates",
+      "Spreads colony scent for unified identity",
+      "Mother cat behavior continued into adulthood",
+      "Excessive licking can signal stress per Cornell Vet"
+    ],
+    "search_terms": ["cat licking owner", "cat affection", "cat tongue"],
+    "category": "cat-behavior"
+  },
+  {
+    "id": 2049,
+    "topic": "Cats burned witches got the same fate",
+    "hook": "Cats died with witches",
+    "key_points": [
+      "Pope Gregory IX 1233 declared cats Satan-linked",
+      "Mass killings in medieval Europe followed",
+      "Rat populations exploded enabling Black Death spread",
+      "Cat populations rebounded only after pandemic ended"
+    ],
+    "search_terms": ["black cat", "medieval painting", "cat shadow"],
+    "category": "cat-history"
+  },
+  {
+    "id": 2050,
+    "topic": "Why cats squeeze into impossibly small spaces",
+    "hook": "Cats are basically liquid",
+    "key_points": [
+      "Floating clavicle allows shoulder blade compression",
+      "Spine has 30 vertebrae humans only 24",
+      "If head fits, body follows per physics",
+      "2014 Ig Nobel Prize awarded for cat-liquid research"
+    ],
+    "search_terms": ["cat in tight space", "cat in vase", "cat squeezing"],
+    "category": "cat-science"
+  },
+  {
+    "id": 2051,
+    "topic": "Cats can predict earthquakes hours before",
+    "hook": "Cats sense earthquakes early",
+    "key_points": [
+      "Detect P-waves preceding destructive S-waves",
+      "Sensitive to electromagnetic field changes",
+      "Documented behavior in Japan and Italy",
+      "Hide, vocalize, flee minutes to hours prior"
+    ],
+    "search_terms": ["cat scared", "cat hiding nervous", "cat alert ears"],
+    "category": "cat-science"
+  },
+  {
+    "id": 2052,
+    "topic": "Why kittens fall asleep while eating",
+    "hook": "Kittens crash mid-meal naturally",
+    "key_points": [
+      "Need 22 hours sleep daily for growth",
+      "Brain triggers nap response when stomach fills",
+      "Energy regulation in undeveloped systems",
+      "Common until 12-16 weeks old"
+    ],
+    "search_terms": ["kitten sleeping food", "kitten eating", "newborn kitten"],
+    "category": "cat-behavior"
+  },
+  {
+    "id": 2053,
+    "topic": "Savannah cats can leap 8 feet vertically",
+    "hook": "Savannah cats jump 8 feet",
+    "key_points": [
+      "Hybrid serval-domestic cross stands 17 inches tall",
+      "F1 generation can weigh 25 lbs adult male",
+      "Banned in 14 US states as exotic",
+      "Cost ranges 1500-25000 USD by generation"
+    ],
+    "search_terms": ["savannah cat", "tall cat", "spotted exotic cat"],
+    "category": "cat-breeds"
+  },
+  {
+    "id": 2054,
+    "topic": "Cat ownership reduces heart attack risk",
+    "hook": "Owning cats saves your heart",
+    "key_points": [
+      "University Minnesota 10-year study found 30% lower stroke risk",
+      "Purr vibrations lower blood pressure during contact",
+      "Reduces stress hormone cortisol levels",
+      "Protective effect strongest with current cat owners"
+    ],
+    "search_terms": ["cat with owner", "cat lap cuddle", "person petting cat"],
+    "category": "cat-science"
+  },
+  {
+    "id": 2055,
+    "topic": "Why cats rub against your ankles",
+    "hook": "Ankle rubs claim ownership",
+    "key_points": [
+      "Scent glands on cheeks face and tail base",
+      "Marks you as part of safe colony",
+      "Greeting ritual when you return home",
+      "Cats also rub ankles before food requests"
+    ],
+    "search_terms": ["cat rubbing legs", "cat greeting owner", "cat at door"],
+    "category": "cat-behavior"
+  },
+  {
+    "id": 2056,
+    "topic": "Cats lose taste with age",
+    "hook": "Old cats lose taste fast",
+    "key_points": [
+      "Taste buds decline 50% by age 12",
+      "Senior cats need stronger smelling food",
+      "Warm wet food helps reignite appetite",
+      "Royal Canin senior formulas address this issue"
+    ],
+    "search_terms": ["senior cat", "old cat eating", "cat with gray fur"],
+    "category": "cat-nutrition"
+  },
+  {
+    "id": 2057,
+    "topic": "Cats hate the smell of bananas",
+    "hook": "Bananas terrify your cat",
+    "key_points": [
+      "Ethyl acetate from peels mimics threat scent",
+      "Compound similar to citrus repellents",
+      "Reaction includes hissing arched back retreat",
+      "Works as natural deterrent for forbidden zones"
+    ],
+    "search_terms": ["cat scared", "banana fruit", "cat smelling"],
+    "category": "cat-behavior"
+  },
+  {
+    "id": 2058,
+    "topic": "Faith the cat received hero medal WW2",
+    "hook": "This cat got a war medal",
+    "key_points": [
+      "Lived at St Augustines Church London 1936-1948",
+      "Sheltered kitten Panda during Blitz bombing",
+      "Awarded Silver Medal by PDSA charity",
+      "Only cat to receive PDSA wartime honor"
+    ],
+    "search_terms": ["tabby cat", "vintage cat photo", "ww2 london"],
+    "category": "cat-history"
+  },
+  {
+    "id": 2059,
+    "topic": "Why cats sleep in loaf position",
+    "hook": "Cat loaf means safe and comfy",
+    "key_points": [
+      "Tucked paws conserve body temperature",
+      "Position allows quick escape if startled",
+      "Indicates contentment and trust in environment",
+      "Origin term coined online cat communities 2010s"
+    ],
+    "search_terms": ["cat loaf position", "cat sitting cute", "cat tucked paws"],
+    "category": "cat-behavior"
+  },
+  {
+    "id": 2060,
+    "topic": "Cats can recognize owner voice but ignore it",
+    "hook": "Cats hear you but choose ignore",
+    "key_points": [
+      "University of Tokyo 2013 study confirmed recognition",
+      "Cats showed ear and head movement to owner audio",
+      "Domestication did not select for human obedience",
+      "Different from dogs bred for cooperative response"
+    ],
+    "search_terms": ["cat ignoring owner", "cat looking away", "cat aloof"],
+    "category": "cat-science"
+  },
+  {
+    "id": 2061,
+    "topic": "Scottish Folds carry painful genetic trait",
+    "hook": "Folded ears come with pain",
+    "key_points": [
+      "Cartilage mutation also affects joints throughout body",
+      "Osteochondrodysplasia causes lifelong arthritis",
+      "Banned for breeding in UK and Netherlands",
+      "Ear fold appears at 3-4 weeks of age"
+    ],
+    "search_terms": ["scottish fold cat", "folded ear cat", "round face cat"],
+    "category": "cat-breeds"
+  },
+  {
+    "id": 2062,
+    "topic": "Why cats stretch when seeing you",
+    "hook": "Cat stretch is greeting hello",
+    "key_points": [
+      "Combines greeting with muscle activation post-nap",
+      "Releases endorphins like morning yoga in humans",
+      "Shows comfort and relaxation in your presence",
+      "Often paired with chirp or trill sound"
+    ],
+    "search_terms": ["cat stretching long", "cat yawning", "cat waking up"],
+    "category": "cat-behavior"
+  },
+  {
+    "id": 2063,
+    "topic": "Cats shed twice their body weight yearly",
+    "hook": "Your cat sheds insane amounts",
+    "key_points": [
+      "Average cat sheds 20 lbs of fur per year",
+      "Two heavy shedding cycles spring and fall",
+      "Indoor cats shed year-round due to artificial light",
+      "Brushing 3x weekly cuts hairballs by 50%"
+    ],
+    "search_terms": ["cat shedding fur", "cat brushing", "fluffy cat fur"],
+    "category": "cat-health"
+  },
+  {
+    "id": 2064,
+    "topic": "Why cats walk on keyboards always",
+    "hook": "Keyboards are warm flat targets",
+    "key_points": [
+      "Laptop emits heat cats seek for comfort",
+      "Flat elevated surface ideal vantage point",
+      "Disrupting your work earns instant attention",
+      "Behavior reinforced by your reactions"
+    ],
+    "search_terms": ["cat on keyboard", "cat with laptop", "cat on desk"],
+    "category": "cat-behavior"
+  },
+  {
+    "id": 2065,
+    "topic": "Cat domestication began 10000 years ago",
+    "hook": "Cats domesticated themselves naturally",
+    "key_points": [
+      "Cyprus burial 9500 years ago oldest evidence",
+      "Egyptian art portrayed cats 4000 years ago",
+      "Originated from Felis lybica Near Eastern wildcat",
+      "Cats domesticated themselves around grain stores"
+    ],
+    "search_terms": ["egyptian cat", "ancient cat statue", "wild cat ancestor"],
+    "category": "cat-history"
+  },
+  {
+    "id": 2066,
+    "topic": "Cats need taurine or hearts fail",
+    "hook": "No taurine kills your cat",
+    "key_points": [
+      "Cats cannot synthesize this essential amino acid",
+      "Deficiency causes dilated cardiomyopathy DCM",
+      "Found in animal proteins not plants",
+      "Vegetarian cat diet is medically dangerous"
+    ],
+    "search_terms": ["cat eating meat", "cat food bowl wet", "cat heart healthy"],
+    "category": "cat-nutrition"
+  },
+  {
+    "id": 2067,
+    "topic": "Why cats hate aluminum foil sound",
+    "hook": "Foil makes cats panic instantly",
+    "key_points": [
+      "Crinkle frequency mimics distress calls",
+      "Sensitive hearing range up to 64 kHz",
+      "Texture unfamiliar and unstable underfoot",
+      "Used as deterrent on counters and furniture"
+    ],
+    "search_terms": ["cat scared sound", "aluminum foil", "cat avoiding"],
+    "category": "cat-behavior"
+  },
+  {
+    "id": 2068,
+    "topic": "Tabby M forehead pattern is ancient",
+    "hook": "Every tabby has a hidden M",
+    "key_points": [
+      "Found on every tabby pattern variation",
+      "Egyptian myth: Mau means cat in language",
+      "Christian legend tied to Virgin Mary blessing",
+      "Genetic pattern from agouti gene expression"
+    ],
+    "search_terms": ["tabby cat face", "cat forehead", "striped cat"],
+    "category": "cat-facts"
+  },
+  {
+    "id": 2069,
+    "topic": "Cats wag tails differently than dogs",
+    "hook": "Tail wag means opposite of dog",
+    "key_points": [
+      "Quick wag tip = annoyance or focus",
+      "Thumping tail base = high agitation",
+      "Slow swish = predatory concentration",
+      "Quivering tail upright = excitement greeting"
+    ],
+    "search_terms": ["cat tail movement", "cat wagging tail", "cat tail up"],
+    "category": "cat-behavior"
+  },
+  {
+    "id": 2070,
+    "topic": "Worlds richest cat inherited 13 million",
+    "hook": "This cat owns 13 million",
+    "key_points": [
+      "Blackie inherited from owner Ben Rea 1988",
+      "Total estate worth 12.5 million pounds",
+      "Distributed among three cat charities for care",
+      "Holds Guinness Record richest pet ever"
+    ],
+    "search_terms": ["black cat", "rich cat", "cat luxury"],
+    "category": "cat-history"
+  },
+  {
+    "id": 2071,
+    "topic": "Cats taste with Jacobson organ",
+    "hook": "Cats taste with mouth roof",
+    "key_points": [
+      "Vomeronasal organ on hard palate",
+      "Open-mouth flehmen face activates the sensor",
+      "Detects pheromones invisible to nose",
+      "Common reaction to other cats marking"
+    ],
+    "search_terms": ["cat open mouth", "cat smelling intense", "cat flehmen face"],
+    "category": "cat-science"
+  },
+  {
+    "id": 2072,
+    "topic": "Why kittens chew electrical cords",
+    "hook": "Cords are dangerous teething toys",
+    "key_points": [
+      "Teething phase 3-7 months drives chewing urge",
+      "Cords mimic prey shape texture and movement",
+      "Major risk: oral burns and electrocution per ASPCA",
+      "Cover with split-loom tubing or bitter sprays"
+    ],
+    "search_terms": ["kitten playing", "cat cord chew", "kitten teething"],
+    "category": "cat-health"
+  },
+  {
+    "id": 2073,
+    "topic": "Egyptian Mau is fastest domestic cat",
+    "hook": "This cat hits 30 mph",
+    "key_points": [
+      "Reaches sprinting speeds of 30 mph",
+      "Only naturally spotted domestic breed",
+      "Skin flap on belly extends stride length",
+      "Lineage traced 4000 years to Egypt"
+    ],
+    "search_terms": ["egyptian mau cat", "spotted cat running", "fast cat"],
+    "category": "cat-breeds"
+  },
+  {
+    "id": 2074,
+    "topic": "Cats can imprint on humans like ducks",
+    "hook": "Cats imprint on humans early",
+    "key_points": [
+      "Critical socialization window 2-7 weeks old",
+      "Hand-raised kittens see humans as parents",
+      "Bond persists throughout entire life span",
+      "Studies at Oregon State 2019 confirmed attachment"
+    ],
+    "search_terms": ["kitten with human", "kitten bottle feed", "small kitten cuddle"],
+    "category": "cat-science"
+  },
+  {
+    "id": 2075,
+    "topic": "Why cats love tuna but should not eat much",
+    "hook": "Tuna addiction harms cats",
+    "key_points": [
+      "Mercury accumulation damages kidneys and liver",
+      "Lacks essential vitamins for feline diet",
+      "Cornell Vet warns: occasional treat only",
+      "Causes thiamine deficiency over time"
+    ],
+    "search_terms": ["cat eating fish", "tuna can", "cat smelling food"],
+    "category": "cat-nutrition"
+  },
+  {
+    "id": 2076,
+    "topic": "Cats run for governor or mayor",
+    "hook": "Cats won mayoral elections in US",
+    "key_points": [
+      "Stubbs the cat was mayor of Talkeetna Alaska 1997-2017",
+      "Tip drew attention to local town tourism",
+      "Honored mayor of unincorporated town",
+      "Lived to age 20 in office"
+    ],
+    "search_terms": ["orange tabby", "famous cat", "cat town"],
+    "category": "cat-history"
+  },
+  {
+    "id": 2077,
+    "topic": "Cats develop separation anxiety like dogs",
+    "hook": "Cats miss you while gone",
+    "key_points": [
+      "University of Lincoln 2019 study confirmed in cats",
+      "Symptoms: excessive vocalization, soiling, destruction",
+      "Affects 13% of single-cat households",
+      "Treatment includes interactive toys and pheromone diffusers"
+    ],
+    "search_terms": ["cat alone home", "cat looking out window", "sad cat"],
+    "category": "cat-behavior"
+  },
+  {
+    "id": 2078,
+    "topic": "Why cats love your worn shoes",
+    "hook": "Your shoes hold your scent",
+    "key_points": [
+      "Shoes carry 100% of your daily scent profile",
+      "Cats find comfort in concentrated owner smell",
+      "Calming effect lowers stress when owner away",
+      "Same reason cats love dirty laundry"
+    ],
+    "search_terms": ["cat in shoe", "cat hiding small", "cat with shoes"],
+    "category": "cat-behavior"
+  },
+  {
+    "id": 2079,
+    "topic": "Turkish Vans are champion swimming cats",
+    "hook": "This cat actually loves swimming",
+    "key_points": [
+      "Native to Lake Van region in Turkey",
+      "Cashmere-like coat repels water naturally",
+      "Cat Fanciers Association recognized 1994",
+      "Distinctive auburn markings only on head and tail"
+    ],
+    "search_terms": ["turkish van cat", "cat swimming", "white cat with red"],
+    "category": "cat-breeds"
+  },
+  {
+    "id": 2080,
+    "topic": "Cats know their own names but ignore them",
+    "hook": "Cats hear name and ignore",
+    "key_points": [
+      "Sophia University Tokyo 2019 study confirmed",
+      "Cats distinguish own names from similar words",
+      "Independent nature overrides response training",
+      "Pair name with treats to build response"
+    ],
+    "search_terms": ["cat name calling", "cat looking up", "cat ear flick"],
+    "category": "cat-science"
+  },
+  {
+    "id": 2081,
+    "topic": "Why cats dilated pupils mean trouble",
+    "hook": "Big pupils equal cat trouble",
+    "key_points": [
+      "Fully dilated round signals fear or arousal",
+      "Slits indicate calm or aggressive focus",
+      "Watch context: play vs imminent attack",
+      "Pupil response in 4 seconds to stimuli"
+    ],
+    "search_terms": ["cat eyes wide", "cat scared face", "cat playful eyes"],
+    "category": "cat-behavior"
+  },
+  {
+    "id": 2082,
+    "topic": "Cats use 21 different vocalizations",
+    "hook": "Cats speak 21 different languages",
+    "key_points": [
+      "Range from purr to chirp to caterwaul",
+      "Each sound serves specific communication purpose",
+      "Trill greeting unique to mother-kitten bonding",
+      "Hiss is universal warning across all felines"
+    ],
+    "search_terms": ["cat meowing loud", "cat sounds", "cat chirping bird"],
+    "category": "cat-science"
+  },
+  {
+    "id": 2083,
+    "topic": "Why your cat licks own butt obsessively",
+    "hook": "Excess licking signals real problem",
+    "key_points": [
+      "Normal grooming includes thorough rear cleaning",
+      "Excess focus there indicates anal gland issue",
+      "Worms or allergies also possible cause",
+      "Cornell Vet recommends exam if persistent"
+    ],
+    "search_terms": ["cat grooming self", "cat licking", "cat cleaning"],
+    "category": "cat-health"
+  },
+  {
+    "id": 2084,
+    "topic": "Black cats glow red in sunlight",
+    "hook": "Black cats turn red in sun",
+    "key_points": [
+      "Eumelanin pigment fades under UV exposure",
+      "Reveals underlying tabby pattern called rusting",
+      "Tyrosine deficient diet accelerates the change",
+      "Common in outdoor black cats during summer"
+    ],
+    "search_terms": ["black cat sun", "cat in sunlight", "rusty cat"],
+    "category": "cat-facts"
+  },
+  {
+    "id": 2085,
+    "topic": "Why cats hate belly rubs usually",
+    "hook": "Belly rub triggers attack mode",
+    "key_points": [
+      "Belly is most vulnerable area to predators",
+      "Showing belly is trust signal not invite",
+      "Sensitive nerve endings overstimulate quickly",
+      "Some cats tolerate it after deep bond"
+    ],
+    "search_terms": ["cat belly up", "cat playful biting", "cat rolling on back"],
+    "category": "cat-behavior"
+  },
+  {
+    "id": 2086,
+    "topic": "Cats solved Italian Renaissance rat problems",
+    "hook": "Cats saved Renaissance Europe",
+    "key_points": [
+      "Population decline post-medieval persecution rebounded",
+      "Catholic Church reversed cat persecution by 1400s",
+      "Cats vital for grain ship protection",
+      "Renaissance painters included cats in domestic scenes"
+    ],
+    "search_terms": ["renaissance painting cat", "cat in art", "vintage cat"],
+    "category": "cat-history"
+  },
+  {
+    "id": 2087,
+    "topic": "Why cats love fishing in toilet bowls",
+    "hook": "Toilets fascinate every cat",
+    "key_points": [
+      "Moving water mimics natural prey water source",
+      "Cooler temperature than dish water appeals",
+      "Risk: chemical exposure and falling in",
+      "Solution: keep lid down, fountain alternative"
+    ],
+    "search_terms": ["cat at toilet", "cat drinking faucet", "cat playing water"],
+    "category": "cat-behavior"
+  },
+  {
+    "id": 2088,
+    "topic": "American Shorthair was on Mayflower 1620",
+    "hook": "American Shorthair came on Mayflower",
+    "key_points": [
+      "Brought from England to control ship rats",
+      "Considered first cat breed of North America",
+      "Officially recognized by CFA in 1906",
+      "Known for hunting prowess and longevity"
+    ],
+    "search_terms": ["american shorthair cat", "tabby cat", "classic cat"],
+    "category": "cat-breeds"
+  },
+  {
+    "id": 2089,
+    "topic": "Why cats spray and how to stop it",
+    "hook": "Spraying signals territorial stress",
+    "key_points": [
+      "Both intact and neutered cats can spray",
+      "Tail-up vertical urine marking on objects",
+      "Triggered by new pets, moves, outdoor cats visible",
+      "Feliway pheromone diffuser reduces 75% per Ceva research"
+    ],
+    "search_terms": ["cat tail up", "cat marking", "cat spraying behavior"],
+    "category": "cat-behavior"
+  },
+  {
+    "id": 2090,
+    "topic": "Complete guide to 15 most popular cat breeds compared",
+    "hook": "15 cat breeds ranked honestly",
+    "key_points": [
+      "Maine Coon: largest breed averages 19 lbs males",
+      "Ragdoll: gentle giant goes limp when held",
+      "Persian: high grooming needs flat face issues",
+      "Bengal: high energy needs 2hr daily play",
+      "Siamese: most vocal breed talks constantly",
+      "Sphynx: hairless requires weekly bathing",
+      "Russian Blue: hypoallergenic friendly choice"
+    ],
+    "search_terms": ["cat breeds compared", "different cat breeds", "popular cats"],
+    "category": "cat-breeds",
+    "format": "longform"
+  },
+  {
+    "id": 2091,
+    "topic": "How cats see the world: vision science fully explained",
+    "hook": "Cat vision is alien beauty",
+    "key_points": [
+      "Tapetum lucidum reflects light back through retina",
+      "200 degree field of view vs human 180 degrees",
+      "Limited red-green color perception like humans with deuteranopia",
+      "UV light visible per Royal Society 2014 study",
+      "Cannot focus on objects within 1 foot range",
+      "Pupils dilate from slits to fully round in 4 seconds",
+      "Tracks movement at 60 frames per second"
+    ],
+    "search_terms": ["cat eyes closeup", "cat staring intense", "cat vision"],
+    "category": "cat-science",
+    "format": "longform"
+  },
+  {
+    "id": 2092,
+    "topic": "20 most famous cats in history that changed events",
+    "hook": "These cats actually changed history",
+    "key_points": [
+      "Trim sailed Australia circumnavigation with Flinders 1801",
+      "Felicette: only cat in space France 1963",
+      "Unsinkable Sam survived 3 ship sinkings WW2",
+      "Stubbs mayor of Talkeetna Alaska 1997-2017",
+      "Faith awarded PDSA medal Blitz 1940",
+      "Towser caught 28899 mice Glenturret distillery",
+      "Tama: Japanese stationmaster cat saved railway"
+    ],
+    "search_terms": ["famous cat", "vintage cat photo", "historical cat"],
+    "category": "cat-history",
+    "format": "longform"
+  },
+  {
+    "id": 2093,
+    "topic": "Decoding cat body language: tail, ears, eyes, posture",
+    "hook": "Cats tell you everything always",
+    "key_points": [
+      "Tail straight up: confident greeting per Cornell Vet",
+      "Tail puffed: fear response triggered",
+      "Tail tip twitching: focused or annoyed",
+      "Flat ears back: fear or aggression imminent",
+      "Forward ears: curiosity and engagement",
+      "Slow blink: trust and affection",
+      "Belly exposed: trust not invitation to touch"
+    ],
+    "search_terms": ["cat body language", "cat tail position", "cat expressions"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2094,
+    "topic": "Cat nutrition guide: what science says cats really need",
+    "hook": "Stop feeding cats wrong food",
+    "key_points": [
+      "Obligate carnivore needs 26 essential nutrients",
+      "Taurine deficiency causes cardiomyopathy in 6 months",
+      "Protein requirement 50-60% of total diet",
+      "Wet food provides 70% moisture vs dry 10%",
+      "Avoid: onions, garlic, grapes, chocolate, alcohol",
+      "Daily calorie needs: 200 for indoor 10 lb cat",
+      "AAFCO certification ensures complete nutrition"
+    ],
+    "search_terms": ["cat eating bowl", "cat food healthy", "cat nutrition"],
+    "category": "cat-nutrition",
+    "format": "longform"
+  },
+  {
+    "id": 2095,
+    "topic": "Why cats domesticated themselves 10000 years ago",
+    "hook": "Cats chose human partnership freely",
+    "key_points": [
+      "Felis lybica wildcat origin in Fertile Crescent",
+      "Cyprus burial 9500 years ago oldest evidence",
+      "Followed humans into agricultural settlements",
+      "Hunted rodents attracted by stored grain",
+      "Egyptian sacred cat status by 4000 BC",
+      "Self-domestication: cats chose humans not reverse",
+      "DNA studies confirm minimal genetic change since"
+    ],
+    "search_terms": ["egyptian cat", "ancient civilization", "wildcat"],
+    "category": "cat-history",
+    "format": "longform"
+  },
+  {
+    "id": 2096,
+    "topic": "Top 10 cat behaviors explained by veterinary science",
+    "hook": "Weird cat behaviors all explained",
+    "key_points": [
+      "Kneading: kittenhood milking instinct continues",
+      "Bunting: scent marking via face glands",
+      "Tail vibration: extreme excitement greeting",
+      "Slow blink: trust signal per Sussex 2020 study",
+      "Loafing: contentment plus quick escape ready",
+      "Zoomies: prey drive energy release",
+      "Hissing: warning before attack signaled"
+    ],
+    "search_terms": ["cat behavior", "cat doing things", "weird cat moments"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2097,
+    "topic": "Cat health red flags every owner must know",
+    "hook": "These signs need vet today",
+    "key_points": [
+      "Hiding 24+ hours signals serious illness per Cornell",
+      "Loss of appetite over 24 hrs needs evaluation",
+      "Hard or no urination is medical emergency",
+      "Excessive thirst suggests diabetes or kidney issues",
+      "Vomiting more than 2x weekly warrants exam",
+      "Sudden weight loss 10% in month critical",
+      "Difficulty breathing or open mouth panting urgent"
+    ],
+    "search_terms": ["sick cat", "cat at vet", "cat health checkup"],
+    "category": "cat-health",
+    "format": "longform"
+  },
+  {
+    "id": 2098,
+    "topic": "Maine Coon complete breed history and care guide",
+    "hook": "Maine Coons are gentle giants",
+    "key_points": [
+      "Origin theory: ship cats Maine 1700s settlers",
+      "Average male: 13-18 lbs, length 40 inches typical",
+      "Slow growth reaches full size at 4-5 years",
+      "Polydactyl gene common from ship cat heritage",
+      "Health concerns: HCM heart disease and hip dysplasia",
+      "Grooming: brush 2-3x weekly minimum",
+      "Personality: dog-like loyalty and high intelligence"
+    ],
+    "search_terms": ["maine coon cat", "large cat breed", "fluffy big cat"],
+    "category": "cat-breeds",
+    "format": "longform"
+  },
+  {
+    "id": 2099,
+    "topic": "How to read cat sounds: meows, purrs, chirps, hisses",
+    "hook": "Cat sounds decoded scientifically",
+    "key_points": [
+      "Adult cats meow only at humans not other cats",
+      "Purr frequency 25-150 Hz aids healing",
+      "Chirp/trill: greeting from mother cat behavior",
+      "Hiss: warning across all feline species",
+      "Caterwaul: mating call or extreme distress",
+      "Chatter at birds: hunting frustration release",
+      "21 documented cat vocalizations total identified"
+    ],
+    "search_terms": ["cat meowing", "cat purring", "cat sounds different"],
+    "category": "cat-science",
+    "format": "longform"
+  },
+  {
+    "id": 2100,
+    "topic": "Indoor vs outdoor cat: complete safety analysis",
+    "hook": "Indoor cats live 3x longer",
+    "key_points": [
+      "Indoor average lifespan 13-17 years per AVMA",
+      "Outdoor average 2-5 years from injuries disease",
+      "Outdoor risks: cars, predators, parasites, fights",
+      "Indoor enrichment: cat trees, puzzle feeders, leash walks",
+      "Catio compromise: outdoor exposure with safety",
+      "Window perches provide environmental stimulation",
+      "Strict indoor with enrichment best per ASPCA"
+    ],
+    "search_terms": ["indoor cat", "outdoor cat", "cat at window"],
+    "category": "cat-health",
+    "format": "longform"
+  },
+  {
+    "id": 2101,
+    "topic": "Why cats purr: health, healing, and communication science",
+    "hook": "Purrs heal more than soothe",
+    "key_points": [
+      "Frequency 25-150 Hz documented therapeutic range",
+      "Bone density increase at 25-50 Hz per research",
+      "Wound healing accelerated at 100 Hz",
+      "Cats purr sick injured AND content states",
+      "Purr inhale and exhale unique to cat species",
+      "Solicitation purr embeds frequency similar to baby cry",
+      "Lower human blood pressure during contact confirmed"
+    ],
+    "search_terms": ["cat purring lap", "cat sleeping cozy", "cat content"],
+    "category": "cat-science",
+    "format": "longform"
+  },
+  {
+    "id": 2102,
+    "topic": "Black cats history: from sacred to feared to loved",
+    "hook": "Black cats had wild journey",
+    "key_points": [
+      "Egyptian goddess Bastet portrayed black cat sacred",
+      "Pope Gregory IX 1233 declared cats devil-linked",
+      "Mass killings caused rat-driven Black Death spread",
+      "Royal Navy required black ship cats until 1975",
+      "Japanese: black cats bring luck and prosperity",
+      "Celtic mythology: black cats are spirit guides",
+      "Modern statistics: less adopted from shelters"
+    ],
+    "search_terms": ["black cat", "egyptian goddess", "cat history"],
+    "category": "cat-history",
+    "format": "longform"
+  },
+  {
+    "id": 2103,
+    "topic": "Senior cat care: nutrition, health, behavior changes",
+    "hook": "Senior cats need different care",
+    "key_points": [
+      "Senior status begins at 11 years old",
+      "Annual vet visits become biannual",
+      "Kidney disease affects 30% of cats over 15",
+      "Calorie needs decrease but protein remains essential",
+      "Joint supplements glucosamine help arthritis",
+      "Litter box accessibility: low entry sides matter",
+      "Heated beds and ramps improve quality of life"
+    ],
+    "search_terms": ["senior cat", "old cat resting", "elderly cat care"],
+    "category": "cat-health",
+    "format": "longform"
+  },
+  {
+    "id": 2104,
+    "topic": "Cat training myths: what actually works backed by science",
+    "hook": "Cats absolutely can be trained",
+    "key_points": [
+      "Clicker training works equal to dogs in studies",
+      "Positive reinforcement only: punishment damages bond",
+      "Sessions 5 minutes max keeps focus",
+      "Reward within 2 seconds of behavior",
+      "High-value treats: tuna, freeze-dried chicken",
+      "Train basic sit, high-five, come on cue",
+      "Litter training natural by 4 weeks old"
+    ],
+    "search_terms": ["cat training", "cat learning trick", "cat treat reward"],
+    "category": "cat-training",
+    "format": "longform"
+  },
+  {
+    "id": 2105,
+    "topic": "Common cat myths debunked by veterinary research",
+    "hook": "Stop believing cat myths now",
+    "key_points": [
+      "Myth: cats always land on feet (broken bones common)",
+      "Myth: pregnant women must rehome cats (toxoplasmosis avoidable)",
+      "Myth: cats need milk (lactose intolerant adults)",
+      "Myth: cats are nocturnal (crepuscular dawn-dusk)",
+      "Myth: black cats unlucky (cultural variance)",
+      "Myth: cats are aloof (form deep bonds proven)",
+      "Myth: 9 lives (no scientific basis)"
+    ],
+    "search_terms": ["cat falling", "cat at vet", "myth cat"],
+    "category": "cat-myths",
+    "format": "longform"
+  },
+  {
+    "id": 2106,
+    "topic": "Worlds rarest cat breeds you have never seen",
+    "hook": "These cats are nearly extinct",
+    "key_points": [
+      "Sokoke: from Kenya forest under 100 worldwide",
+      "Norwegian Forest: post-WWII rescue from extinction",
+      "Burmilla: accidental cross 1981 limited population",
+      "Khao Manee: ancient Thai breed white blue eyes",
+      "Chartreux: French monastery breed near extinct WW2",
+      "Korat: Thailand sacred breed slow population growth",
+      "Lykoi: werewolf cat new mutation 2010"
+    ],
+    "search_terms": ["rare cat breed", "exotic cat", "unique cat"],
+    "category": "cat-breeds",
+    "format": "longform"
+  },
+  {
+    "id": 2107,
+    "topic": "How indoor cats stay mentally healthy: enrichment guide",
+    "hook": "Bored cats become destructive cats",
+    "key_points": [
+      "Vertical space cat trees minimum 6 feet tall",
+      "Window perches for bird TV stimulation",
+      "Puzzle feeders engage hunting instincts",
+      "Rotate toys weekly to maintain novelty",
+      "Wand toys 15 min daily prey simulation",
+      "Outdoor exposure via leash or catio",
+      "Companion cat pairs reduce loneliness"
+    ],
+    "search_terms": ["cat playing toy", "cat tree", "cat enrichment"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2108,
+    "topic": "Cat anatomy explained: secrets of feline body design",
+    "hook": "Cat bodies are perfect machines",
+    "key_points": [
+      "30 vertebrae vs 24 humans for flexibility",
+      "Floating clavicle squeezes through tight spaces",
+      "32 muscles per ear vs 6 for humans",
+      "5 toes front 4 toes back standard",
+      "Whiskers extend body width for spatial mapping",
+      "Rough tongue with keratin papillae for grooming",
+      "Retractable claws unique to non-cheetah cats"
+    ],
+    "search_terms": ["cat anatomy", "cat body parts", "cat structure"],
+    "category": "cat-science",
+    "format": "longform"
+  },
+  {
+    "id": 2109,
+    "topic": "Cats in religion: from sacred to feared across cultures",
+    "hook": "Cats sacred or evil worldwide",
+    "key_points": [
+      "Egypt: Bastet protector goddess depicted as cat",
+      "Norse: Freya pulled chariot by giant cats",
+      "Japan: Maneki-neko beckoning cat fortune symbol",
+      "Buddhism: cats forbidden as Buddha protectors",
+      "Christianity medieval: cats linked to witchcraft",
+      "Islam: Prophet Muhammad cared for cat Muezza",
+      "Modern Wicca: cats spiritual companions"
+    ],
+    "search_terms": ["egyptian cat statue", "cat religion", "spiritual cat"],
+    "category": "cat-history",
+    "format": "longform"
+  },
+  {
+    "id": 2110,
+    "topic": "Best foods for cats and complete dangerous list",
+    "hook": "Some foods kill your cat",
+    "key_points": [
+      "Safe: cooked chicken, turkey, fish in moderation",
+      "Safe: pumpkin, blueberries, watermelon small amounts",
+      "Toxic: chocolate causes heart arrhythmia",
+      "Toxic: onions garlic destroy red blood cells",
+      "Toxic: grapes raisins cause kidney failure",
+      "Toxic: xylitol artificial sweetener",
+      "Toxic: alcohol caffeine raw bread dough"
+    ],
+    "search_terms": ["cat eating treats", "cat food safe", "human food cat"],
+    "category": "cat-nutrition",
+    "format": "longform"
+  },
+  {
+    "id": 2111,
+    "topic": "Why cats sleep so much: science behind 16 hour naps",
+    "hook": "Cats sleep more than dogs",
+    "key_points": [
+      "Average 12-16 hours daily, kittens up to 20",
+      "Three-quarters is light sleep cat alert",
+      "Quarter REM phase with twitching dreams",
+      "Energy conservation from ancestral hunting cycles",
+      "Crepuscular: peak activity dawn and dusk",
+      "Old cats sleep more from arthritis discomfort",
+      "Brain reorganization during deep sleep documented"
+    ],
+    "search_terms": ["cat sleeping cozy", "cat napping", "cat dreaming"],
+    "category": "cat-science",
+    "format": "longform"
+  },
+  {
+    "id": 2112,
+    "topic": "Cat genetics: how coat colors and patterns work",
+    "hook": "Cat coat colors decoded",
+    "key_points": [
+      "Two pigments only: eumelanin black and phaeomelanin red",
+      "Tabby pattern is genetic default for all cats",
+      "Calico requires two X chromosomes (female)",
+      "Pointed coloration temperature-sensitive enzyme",
+      "Dilute genes turn black to blue, orange to cream",
+      "White spotting gene controls patches placement",
+      "Coat color does not correlate with personality scientifically"
+    ],
+    "search_terms": ["cat colors variety", "calico cat", "tabby cat patterns"],
+    "category": "cat-science",
+    "format": "longform"
+  },
+  {
+    "id": 2113,
+    "topic": "Litter box guide: solving every cat owner mystery",
+    "hook": "Litter box mistakes ruin homes",
+    "key_points": [
+      "Rule: one box per cat plus one extra",
+      "Size: 1.5x cat length minimum",
+      "Unscented clay clumping cat preference per UC Davis",
+      "Daily scoop weekly full clean essential",
+      "Location: quiet low traffic accessible spots",
+      "Avoid covered boxes ammonia trap concern",
+      "Outside box urinating signals UTI or stress"
+    ],
+    "search_terms": ["cat litter box", "cat in litter", "clean litter"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2114,
+    "topic": "Why cats live longer than wild relatives science",
+    "hook": "House cats outlive wild cousins",
+    "key_points": [
+      "Domestic cats live 12-18 years average",
+      "African wildcats survive 6-8 years in wild",
+      "Veterinary care, vaccines, parasite control extend life",
+      "Predator absence indoor critical factor",
+      "Spay/neuter prevents reproductive cancers",
+      "Proper nutrition meets all 26 essential nutrients",
+      "Stress reduction via stable environment"
+    ],
+    "search_terms": ["domestic cat", "wild cat", "cat aging well"],
+    "category": "cat-health",
+    "format": "longform"
+  },
+  {
+    "id": 2115,
+    "topic": "Famous internet cats and their incredible stories",
+    "hook": "These cats earned millions online",
+    "key_points": [
+      "Grumpy Cat: Tardar Sauce earned estimated 100 million",
+      "Lil Bub: pituitary dwarfism rescue cat advocate",
+      "Maru: Japanese box-loving cat billions of views",
+      "Henri Le Chat Noir: existentialist French viral",
+      "Nala Cat: rescue Persian most followed cat 4M",
+      "Hamilton the Hipster Cat: mustache markings",
+      "Snoopy babe: Asian flat-faced viral sensation"
+    ],
+    "search_terms": ["famous internet cat", "viral cat", "cute cat"],
+    "category": "cat-history",
+    "format": "longform"
+  },
+  {
+    "id": 2116,
+    "topic": "How to introduce new cat to existing pets safely",
+    "hook": "Wrong intro causes lifelong feud",
+    "key_points": [
+      "Separate room first 7-14 days minimum",
+      "Scent swap with bedding before sight contact",
+      "Feed on opposite sides of door together",
+      "Visual contact via baby gate next phase",
+      "Supervised brief interactions reward calm behavior",
+      "Total integration takes 4-6 weeks typically",
+      "Pheromone diffusers reduce stress per Ceva research"
+    ],
+    "search_terms": ["two cats together", "cat introduction", "cats meeting"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2117,
+    "topic": "Cat vaccines explained: which shots cats really need",
+    "hook": "Skipping shots costs cats lives",
+    "key_points": [
+      "Core vaccines: FVRCP and rabies for all cats",
+      "FVRCP protects against three deadly viruses",
+      "Rabies legally required in most US states",
+      "FeLV vaccine for outdoor cats critical",
+      "Kitten series: 8, 12, 16 weeks",
+      "Adult boosters every 1-3 years per AAFP",
+      "Indoor cats still need core vaccines"
+    ],
+    "search_terms": ["cat at vet", "cat vaccination", "kitten exam"],
+    "category": "cat-health",
+    "format": "longform"
+  },
+  {
+    "id": 2118,
+    "topic": "Origins of 12 most popular cat breeds explained",
+    "hook": "Each cat breed has crazy origin",
+    "key_points": [
+      "Siamese: ancient Thai temples 14th century",
+      "Persian: brought from Iran by Italian traveler 1620",
+      "Maine Coon: ship cats Maine settlers 1700s",
+      "Bengal: 1960s Asian leopard cat hybrid project",
+      "Sphynx: natural mutation Toronto 1966",
+      "Ragdoll: Ann Baker California 1960s breeding",
+      "Scottish Fold: farm cat Susie Scotland 1961"
+    ],
+    "search_terms": ["different cat breeds", "cat history breeds", "cat origin"],
+    "category": "cat-breeds",
+    "format": "longform"
+  },
+  {
+    "id": 2119,
+    "topic": "Why cats hate other cats: territory science explained",
+    "hook": "Cats fight over territory always",
+    "key_points": [
+      "Solitary hunters except for African lions",
+      "Territory size 100-200 acres for outdoor cats",
+      "Indoor crowding causes stress and fighting",
+      "Scent marking establishes ownership boundaries",
+      "Resource competition: food water litter sleep",
+      "Multi-cat homes need separate everything per cat",
+      "Pheromone diffusers help integration per Cornell"
+    ],
+    "search_terms": ["cats fighting", "cat hissing", "cats territorial"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2120,
+    "topic": "Cat dental health: prevent disease that kills 70%",
+    "hook": "Dental disease kills cats silently",
+    "key_points": [
+      "70% of cats over 3 have dental disease per AVMA",
+      "Symptoms: drooling, bad breath, dropped food",
+      "Brush daily with cat-specific enzyme toothpaste",
+      "Annual professional dental cleaning at vet",
+      "Dental treats VOHC approved help reduce plaque",
+      "Stomatitis severe inflammation needs treatment",
+      "Periodontal disease causes heart kidney issues"
+    ],
+    "search_terms": ["cat teeth", "cat mouth open", "cat dental care"],
+    "category": "cat-health",
+    "format": "longform"
+  },
+  {
+    "id": 2121,
+    "topic": "How to tell if your cat is happy: 10 clear signs",
+    "hook": "Happy cats show these signs",
+    "key_points": [
+      "Tail straight up when greeting you signals joy",
+      "Slow blinks indicate trust and contentment",
+      "Loud purring during petting confirms happy state",
+      "Kneading on you with paws shows comfort",
+      "Playing with toys regularly indicates wellbeing",
+      "Eating normally maintains weight balanced",
+      "Grooming self thoroughly daily routine"
+    ],
+    "search_terms": ["happy cat", "cat content", "cat smiling"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2122,
+    "topic": "Adopting from shelter: complete first 30 day guide",
+    "hook": "First month makes or breaks bond",
+    "key_points": [
+      "Day 1-3: single safe room with essentials",
+      "Day 4-7: gradual house exposure if comfortable",
+      "Week 2: routine establishment for feeding play",
+      "Week 3: introduce other pets carefully",
+      "Vet visit within first 7 days mandatory",
+      "Microchip and ID tags day one essential",
+      "Allow hiding behavior; do not force interaction"
+    ],
+    "search_terms": ["cat adoption", "shelter cat", "new cat home"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2123,
+    "topic": "Cats and kids: safety, bonding, common mistakes",
+    "hook": "Kids and cats need teaching",
+    "key_points": [
+      "Teach gentle hands no tail or ear pulling",
+      "Cat must have escape routes always",
+      "Supervise interactions under age 6",
+      "Read body language together as family",
+      "Older cats often gentler with children",
+      "Never disturb sleeping or eating cat",
+      "Rough play creates fearful adult cats"
+    ],
+    "search_terms": ["child with cat", "kids and cats", "family cat"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2124,
+    "topic": "Why cats live indoors longer: the lifespan science",
+    "hook": "Indoor cats double their lifespan",
+    "key_points": [
+      "Indoor average 13-17 years per AVMA data",
+      "Outdoor average 2-5 years comparison",
+      "Cars cause majority of outdoor cat deaths",
+      "Predators: coyotes hawks larger dogs",
+      "Disease exposure: FeLV FIV from fights",
+      "Parasites fleas ticks worms increased risk",
+      "Toxic plants antifreeze poisoning common"
+    ],
+    "search_terms": ["indoor cat safe", "outdoor cat danger", "cat at home"],
+    "category": "cat-health",
+    "format": "longform"
+  },
+  {
+    "id": 2125,
+    "topic": "Persian cat full guide: history, care, health concerns",
+    "hook": "Persians need special daily care",
+    "key_points": [
+      "Origin: 1600s ancient Persia and Asia",
+      "Brachycephalic flat face breathing issues",
+      "Daily face cleaning prevents tear staining",
+      "Daily brushing mandatory mat prevention",
+      "Polycystic kidney disease 38% of Persians DNA test",
+      "Lifespan 12-17 years with proper care",
+      "Quiet personality prefers calm households"
+    ],
+    "search_terms": ["persian cat", "longhaired cat", "fluffy cat face"],
+    "category": "cat-breeds",
+    "format": "longform"
+  },
+  {
+    "id": 2126,
+    "topic": "How cats hunt: predator instincts in your home",
+    "hook": "Your cat is perfect predator",
+    "key_points": [
+      "Stalk-pounce-kill sequence hardwired in all cats",
+      "Vibrissae whiskers detect prey movement air shifts",
+      "Killing bite to vertebrae behind skull base",
+      "Small toy mimicry triggers full hunt sequence",
+      "Hunt 4-7 times daily even when fed",
+      "Mother teaches kittens via prey delivery",
+      "Indoor wand toys satisfy this instinct"
+    ],
+    "search_terms": ["cat hunting", "cat stalking", "cat pouncing"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2127,
+    "topic": "Cat aggression: types, causes, solutions explained",
+    "hook": "Aggression has 7 distinct types",
+    "key_points": [
+      "Play aggression: poor kitten socialization cause",
+      "Petting-induced: overstimulation threshold reached",
+      "Redirected: agitated by outside cat targets owner",
+      "Fear-based: trauma history common cause",
+      "Territorial: triggered by new pets or moves",
+      "Pain-induced: medical exam required first",
+      "Maternal: females protecting kittens normal"
+    ],
+    "search_terms": ["cat aggressive", "cat hissing", "cat scared"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2128,
+    "topic": "Hairballs explained: causes, prevention, treatment",
+    "hook": "Hairballs are not normal frequent",
+    "key_points": [
+      "Cause: 30% of swallowed fur not pass through",
+      "Long-haired breeds 2x more affected",
+      "Brushing 3x weekly cuts hairballs 50%",
+      "Hairball formula foods help with fiber",
+      "Petroleum-based gels lubricate passage",
+      "More than weekly hairball: vet visit required",
+      "Vomiting blocked sign of intestinal issue"
+    ],
+    "search_terms": ["cat hairball", "cat grooming", "cat vomiting"],
+    "category": "cat-health",
+    "format": "longform"
+  },
+  {
+    "id": 2129,
+    "topic": "Bengal cat history: from leopard to your living room",
+    "hook": "Bengals descended from real leopards",
+    "key_points": [
+      "Created 1960s by Jean Mill geneticist California",
+      "Crossed Asian leopard cat with domestic shorthair",
+      "F4 generation considered safe domestic pet",
+      "TICA recognition 1986 as breed",
+      "Glittered coat genetics unique to Bengals",
+      "High energy needs 2 hours play daily",
+      "Banned in NYC Hawaii Seattle as exotic"
+    ],
+    "search_terms": ["bengal cat", "leopard pattern cat", "spotted cat"],
+    "category": "cat-breeds",
+    "format": "longform"
+  },
+  {
+    "id": 2130,
+    "topic": "Cat first aid: emergency situations every owner needs",
+    "hook": "These actions save cat lives",
+    "key_points": [
+      "Choking: place hand on jaw open mouth",
+      "Heatstroke: cool with damp towels NOT ice",
+      "Bleeding: direct pressure clean cloth 5 min",
+      "Poisoning: call ASPCA Poison Control 888-426-4435",
+      "Seizure: protect from injury time the event",
+      "Difficulty breathing: vet immediately no delay",
+      "Burns: cool water 10 min do not apply ointment"
+    ],
+    "search_terms": ["sick cat emergency", "cat at vet", "cat injured"],
+    "category": "cat-health",
+    "format": "longform"
+  },
+  {
+    "id": 2131,
+    "topic": "Why cats love the bathroom: weird obsession explained",
+    "hook": "Bathrooms attract cats magically",
+    "key_points": [
+      "Tile surfaces stay cool for body cooling",
+      "Running water from sinks fascinates cats",
+      "Closed door creates intriguing barrier",
+      "Concentrated owner scent in towels and rugs",
+      "Acoustics amplify cat sounds for fun",
+      "Routine timing: humans visit consistently",
+      "Hiding spots behind toilet appeal to cats"
+    ],
+    "search_terms": ["cat in bathroom", "cat at sink", "cat in shower"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2132,
+    "topic": "Cat memory: what your cat actually remembers",
+    "hook": "Cats remember way more than you",
+    "key_points": [
+      "Short-term memory 16 hours per studies",
+      "Long-term memory recognizes humans years later",
+      "Remember locations of food water sleep spots",
+      "Trauma memories last lifetime affecting behavior",
+      "Recognize voices of multiple humans",
+      "Working memory aids problem-solving puzzles",
+      "Spatial memory navigates complex environments"
+    ],
+    "search_terms": ["cat looking around", "cat thinking", "cat alert"],
+    "category": "cat-science",
+    "format": "longform"
+  },
+  {
+    "id": 2133,
+    "topic": "Common cat parasites: fleas, ticks, worms, prevention",
+    "hook": "Parasites attack indoor cats too",
+    "key_points": [
+      "Fleas survive in homes year-round in US",
+      "Ticks transmit Lyme tick fever cytauxzoonosis",
+      "Roundworms most common intestinal parasite",
+      "Heartworms preventable monthly medication",
+      "Toxoplasmosis from raw meat or outdoor prey",
+      "Year-round prevention essential per Cornell Vet",
+      "Monthly topical or oral treatments most effective"
+    ],
+    "search_terms": ["cat scratching", "cat at vet", "cat health"],
+    "category": "cat-health",
+    "format": "longform"
+  },
+  {
+    "id": 2134,
+    "topic": "Famous cats in literature and art through centuries",
+    "hook": "Cats inspired masters everywhere",
+    "key_points": [
+      "Cheshire Cat: Lewis Carroll Alice in Wonderland 1865",
+      "Hodge: Samuel Johnsons beloved cat statue London",
+      "Henri Matisse painted his cats numerous times",
+      "Hemingway lived with 50+ cats Key West",
+      "TS Eliot wrote Old Possums Book Cats 1939",
+      "Theophile Steinlen Le Chat Noir poster 1896",
+      "Edward Lear sketches cats in poems 1871"
+    ],
+    "search_terms": ["cat painting art", "literary cat", "cat in books"],
+    "category": "cat-history",
+    "format": "longform"
+  },
+  {
+    "id": 2135,
+    "topic": "Cat sleeping positions: what each one means",
+    "hook": "Sleep position reveals cat secrets",
+    "key_points": [
+      "Loaf: contentment quick escape ready",
+      "Belly up: ultimate trust and relaxation",
+      "Curled ball: protection and warmth conservation",
+      "Side stretch: comfort with environment",
+      "Half loaf paw out: ready to play soon",
+      "On back legs in air: very secure cat",
+      "Hidden tucked spot: stress or illness possible"
+    ],
+    "search_terms": ["cat sleeping position", "cat napping", "cat curled up"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2136,
+    "topic": "How cats see colors: limited but functional vision",
+    "hook": "Cats see fewer colors than us",
+    "key_points": [
+      "Two cone types: blue and green wavelengths only",
+      "Cannot distinguish red from green hues",
+      "Similar to human red-green colorblindness",
+      "Trade-off: more rods for low-light vision",
+      "Color matters less than movement detection",
+      "UV light visible per Royal Society 2014",
+      "Toy color choice: purple blue most visible"
+    ],
+    "search_terms": ["cat eyes", "cat looking", "colorful cat toy"],
+    "category": "cat-science",
+    "format": "longform"
+  },
+  {
+    "id": 2137,
+    "topic": "Multi-cat household: rules to keep peace",
+    "hook": "Multi-cat homes need real rules",
+    "key_points": [
+      "One litter box per cat plus one extra always",
+      "Multiple feeding stations prevent resource guarding",
+      "Vertical territory cat trees reduce conflict",
+      "Separate sleeping spots per cat needed",
+      "Slow introductions over weeks not days",
+      "Pheromone diffusers reduce tension 75% per Ceva",
+      "Watch for bullying signs: hiding, weight loss"
+    ],
+    "search_terms": ["multiple cats", "two cats together", "cats living together"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2138,
+    "topic": "Sphynx cat care: hairless cat full requirements",
+    "hook": "Hairless cats need real maintenance",
+    "key_points": [
+      "Weekly bath required oil buildup on skin",
+      "First Sphynx born Toronto 1966 spontaneous mutation",
+      "Body temp higher than haired cats 4 degrees",
+      "Sweater needed cold weather",
+      "Sunscreen for outdoor exposure mandatory",
+      "Heart screening: 30-50% develop HCM disease",
+      "Higher calorie needs metabolic compensation"
+    ],
+    "search_terms": ["sphynx cat", "hairless cat", "cat bath"],
+    "category": "cat-breeds",
+    "format": "longform"
+  },
+  {
+    "id": 2139,
+    "topic": "Cat behavior changes: warning signs to watch for",
+    "hook": "Behavior changes signal real illness",
+    "key_points": [
+      "Hiding more than usual indicates pain or stress",
+      "Litter box accidents suggest UTI or arthritis",
+      "Excessive grooming creates bald patches",
+      "Decreased appetite: 24 hrs warrants vet",
+      "Increased thirst suggests diabetes kidney issue",
+      "Aggression onset rules out medical causes",
+      "Vocalization changes indicate cognitive decline"
+    ],
+    "search_terms": ["sick cat", "cat hiding", "cat behavior"],
+    "category": "cat-health",
+    "format": "longform"
+  },
+  {
+    "id": 2140,
+    "topic": "How cats communicate with each other vs humans",
+    "hook": "Cats talk differently to us",
+    "key_points": [
+      "Adult cats rarely meow at other cats",
+      "Use scent marking and body language with cats",
+      "Meowing developed for human communication",
+      "Hissing universal warning across species",
+      "Hierarchy via passive avoidance not fights",
+      "Nose touches greeting between bonded cats",
+      "Allogrooming bonds family members"
+    ],
+    "search_terms": ["cats interacting", "cats together", "cat communication"],
+    "category": "cat-science",
+    "format": "longform"
+  },
+  {
+    "id": 2141,
+    "topic": "Cat scratching: why and how to redirect properly",
+    "hook": "Scratching is not destructive habit",
+    "key_points": [
+      "Marks territory visually and via scent glands",
+      "Removes dead nail outer sheath layer",
+      "Stretches back and shoulder muscles",
+      "Provide scratchers near sleeping rest spots",
+      "Vertical and horizontal options match cat preference",
+      "Sisal cardboard wood preferred materials",
+      "Declawing surgery banned in many cities"
+    ],
+    "search_terms": ["cat scratching post", "cat claws", "cat scratching"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2142,
+    "topic": "Cat food labels: how to read and choose right",
+    "hook": "Food labels lie about cats",
+    "key_points": [
+      "AAFCO statement: complete and balanced essential",
+      "First ingredient should be named meat",
+      "Avoid: meat byproducts unspecified sources",
+      "Guaranteed analysis: protein 26%+ fat 9%+",
+      "Watch for fillers: corn wheat soy primary",
+      "Look for life stage: kitten adult senior",
+      "Carbs not on label calculate from totals"
+    ],
+    "search_terms": ["cat food bag", "reading food label", "cat eating"],
+    "category": "cat-nutrition",
+    "format": "longform"
+  },
+  {
+    "id": 2143,
+    "topic": "Cats and dogs: can they really live together",
+    "hook": "Cat dog peace is possible",
+    "key_points": [
+      "Introduce slowly over 2-4 weeks ideal",
+      "Cat needs vertical escape routes always",
+      "Separate feeding areas prevents conflict",
+      "Reward calm behavior in both pets",
+      "Puppy cat introductions easier than adults",
+      "Dog breeds: low prey drive better cat matches",
+      "70% of multi-pet homes succeed per AVMA"
+    ],
+    "search_terms": ["cat with dog", "cat dog together", "pets at home"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2144,
+    "topic": "Why cats meditate: stillness and observation explained",
+    "hook": "Cats meditate naturally daily",
+    "key_points": [
+      "Conserve energy between hunting bursts",
+      "Heightened awareness of environment changes",
+      "Sphinx pose mimics actual meditation posture",
+      "Stress reduction: lowers cortisol levels",
+      "Spiritual symbolism in many cultures",
+      "Watching cats lowers human blood pressure",
+      "Mindfulness training inspired by cat focus"
+    ],
+    "search_terms": ["cat sitting still", "cat staring", "cat meditation pose"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2145,
+    "topic": "Cats and music: what cats actually like to hear",
+    "hook": "Cats prefer special music genre",
+    "key_points": [
+      "Wisconsin study: cats prefer cat-specific music",
+      "Frequencies 55-70 Hz match cat vocalizations",
+      "Classical music second preference per research",
+      "Composer David Teie released Music for Cats album",
+      "Heavy metal and pop cause stress responses",
+      "Tempo mimics cat purring or kitten suckling",
+      "Calming music lowers cat stress in shelters"
+    ],
+    "search_terms": ["cat listening music", "cat ears alert", "cat headphones"],
+    "category": "cat-science",
+    "format": "longform"
+  },
+  {
+    "id": 2146,
+    "topic": "Cat pregnancy and kitten birth: what to expect",
+    "hook": "Cat birth is fast and quiet",
+    "key_points": [
+      "Pregnancy lasts 63-67 days average",
+      "Litter size 1-9 kittens 4 typical",
+      "Provide quiet birthing nest 2 weeks before",
+      "Birth interval 10-60 minutes between kittens",
+      "Most cats deliver without human assistance",
+      "Eyes open at 7-10 days post-birth",
+      "Spay after weaning 8 weeks recommended"
+    ],
+    "search_terms": ["pregnant cat", "newborn kitten", "kitten with mother"],
+    "category": "cat-health",
+    "format": "longform"
+  },
+  {
+    "id": 2147,
+    "topic": "Why cats hate strangers and how to socialize",
+    "hook": "Stranger fear has clear science",
+    "key_points": [
+      "Critical socialization window 2-7 weeks",
+      "Adult cats with poor early exposure fearful",
+      "Provide hiding spots when guests visit",
+      "Never force interaction with reluctant cat",
+      "Treats and slow approach for new humans",
+      "Pheromone diffusers help reduce stress",
+      "Patience: weeks to months for trust"
+    ],
+    "search_terms": ["cat hiding scared", "cat with strangers", "shy cat"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2148,
+    "topic": "Cats and other pets: birds, fish, rodents safety",
+    "hook": "Mixed pet homes need precaution",
+    "key_points": [
+      "Predator instincts trigger toward small pets",
+      "Birds in secure cages high out of reach",
+      "Fish tanks lidded heavy lids essential",
+      "Rabbits never with cats unsupervised",
+      "Hamsters guinea pigs always separate room",
+      "Reptiles cats keep apart safety mutual",
+      "Cats can stress small prey animals visually"
+    ],
+    "search_terms": ["cat watching bird", "cat at fish tank", "cat with pets"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2149,
+    "topic": "Cat travel guide: car, plane, hotel survival",
+    "hook": "Cat travel without nightmares possible",
+    "key_points": [
+      "Carrier acclimation weeks before travel essential",
+      "Familiar bedding reduces stress significantly",
+      "Pheromone spray Feliway in carrier 30 min prior",
+      "Car: secure carrier never loose in vehicle",
+      "Plane: cabin only never check baggage",
+      "Microchip and ID tag mandatory",
+      "Vet certificate required for air travel"
+    ],
+    "search_terms": ["cat in carrier", "cat traveling", "cat in car"],
+    "category": "cat-health",
+    "format": "longform"
+  },
+  {
+    "id": 2150,
+    "topic": "Spay and neuter: why it matters beyond population control",
+    "hook": "Spay neuter saves cat lives",
+    "key_points": [
+      "Reduces mammary cancer risk by 90% in females",
+      "Eliminates testicular cancer in males completely",
+      "Prevents pyometra deadly uterine infection",
+      "Reduces aggressive territorial behavior",
+      "Stops urine spraying in 90% of cases",
+      "Population control: one female 100+ kittens lifetime",
+      "Surgery age 4-6 months recommended"
+    ],
+    "search_terms": ["cat at vet", "cat surgery", "kitten checkup"],
+    "category": "cat-health",
+    "format": "longform"
+  },
+  {
+    "id": 2151,
+    "topic": "Cat color personalities: myth or scientific truth",
+    "hook": "Cat color predicts personality",
+    "key_points": [
+      "UC Davis 2015 study: tortoiseshells more energetic",
+      "Black white cats showed more chasing behavior",
+      "Orange cats friendlier per owner surveys",
+      "Calicos more standoffish in studies",
+      "Coat color genes near temperament genes",
+      "Owner bias affects perception strongly",
+      "Individual variation exceeds breed averages"
+    ],
+    "search_terms": ["different cat colors", "calico cat", "orange cat"],
+    "category": "cat-myths",
+    "format": "longform"
+  },
+  {
+    "id": 2152,
+    "topic": "Cats in pop culture: from Garfield to Hello Kitty",
+    "hook": "Cats dominate pop culture forever",
+    "key_points": [
+      "Garfield: created 1978 Jim Davis still running",
+      "Hello Kitty: Sanrio 1974 88 billion empire",
+      "Stimpy of Ren and Stimpy 1991 Nickelodeon hit",
+      "Top Cat Hanna-Barbera 1961 classic",
+      "Internet cats Tardar Sauce Lil Bub legacy",
+      "Cat memes drive 25% of all viral content",
+      "Catflix Netflix cat content tops streaming"
+    ],
+    "search_terms": ["famous cat character", "cartoon cat", "cute cat"],
+    "category": "cat-history",
+    "format": "longform"
+  },
+  {
+    "id": 2153,
+    "topic": "Why cats need wet food: hydration crisis explained",
+    "hook": "Dry food dehydrates your cat",
+    "key_points": [
+      "Wild prey contains 70% moisture content",
+      "Dry kibble only 10% moisture content",
+      "Cats poor thirst drive evolutionary adaptation",
+      "Chronic dehydration leads to kidney disease",
+      "FLUTD urinary issues 5x in dry-fed cats",
+      "Mix wet food daily prevents these issues",
+      "Fountains increase water intake 50% per Cornell"
+    ],
+    "search_terms": ["cat eating wet food", "cat drinking water", "cat fountain"],
+    "category": "cat-nutrition",
+    "format": "longform"
+  },
+  {
+    "id": 2154,
+    "topic": "Cat play styles: how to engage every age and breed",
+    "hook": "Wrong play makes cats bored",
+    "key_points": [
+      "Wand toys mimic prey movement essential",
+      "Sessions: 15 min twice daily minimum",
+      "Allow capture: not just chase frustration",
+      "Vary toys: bird feather mouse fishing types",
+      "Senior cats: gentler shorter sessions",
+      "Bengal Abyssinian: high intensity required",
+      "Solo toys: rotate weekly maintain interest"
+    ],
+    "search_terms": ["cat playing toy", "cat with feather", "cat hunting toy"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2155,
+    "topic": "Why cats stare at walls: paranormal or science",
+    "hook": "Wall staring has real cause",
+    "key_points": [
+      "Hearing detects sounds beyond human range",
+      "Mice in walls vibrating frequencies",
+      "Insects crawling visible to UV vision",
+      "Hyperesthesia syndrome rare medical cause",
+      "Cognitive dysfunction in senior cats possible",
+      "If staring at walls 30+ min: vet visit",
+      "Most cases harmless sensory exploration"
+    ],
+    "search_terms": ["cat staring wall", "cat focused", "cat looking up"],
+    "category": "cat-myths",
+    "format": "longform"
+  },
+  {
+    "id": 2156,
+    "topic": "Cat allergies: causes, symptoms, treatment science",
+    "hook": "Cat allergies are not always cats",
+    "key_points": [
+      "Fel d 1 protein in saliva and skin major allergen",
+      "Female and neutered male cats produce less",
+      "Russian Blue Siberian Sphynx lower allergen options",
+      "HEPA filters reduce airborne allergens 50%",
+      "Weekly bathing cats reduces dander",
+      "Allergy shots immunotherapy effective long-term",
+      "Confirm with allergy test not assumption"
+    ],
+    "search_terms": ["cat allergies", "person sneezing", "cat sitting"],
+    "category": "cat-health",
+    "format": "longform"
+  },
+  {
+    "id": 2157,
+    "topic": "Lions, tigers, leopards: how big cats relate to yours",
+    "hook": "Your cat shares lion DNA",
+    "key_points": [
+      "All cats share 95.6% DNA per Texas AM 2007 study",
+      "Diverged from common ancestor 11 million years ago",
+      "House cats can roar in mini-form: kindle",
+      "Tigers leopards purr like house cats",
+      "Lions only big cat living in groups",
+      "Hunting behaviors universal across all felines",
+      "Tigers love water house cats hate"
+    ],
+    "search_terms": ["lion big cat", "tiger powerful", "house cat"],
+    "category": "cat-science",
+    "format": "longform"
+  },
+  {
+    "id": 2158,
+    "topic": "Cat aggression toward owners: causes and solutions",
+    "hook": "Cat attacks have real reasons",
+    "key_points": [
+      "Petting-induced overstimulation: limit time",
+      "Play aggression: more wand toys not hands",
+      "Redirected aggression: outside cat triggers",
+      "Pain: medical exam first always",
+      "Fear-based: trauma history common",
+      "Status aggression: rare resource conflicts",
+      "Never punish: increases aggression long-term"
+    ],
+    "search_terms": ["cat biting", "cat attack", "cat aggressive"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2159,
+    "topic": "Newborn kitten care guide: first 8 weeks complete",
+    "hook": "Newborn kittens need everything",
+    "key_points": [
+      "Birth weight 3-4 oz double in first week",
+      "KMR formula every 2-3 hours bottle feeding",
+      "Stimulate elimination after each feeding necessary",
+      "Body temperature 92F at birth keep warm",
+      "Eyes open 7-10 days never force",
+      "Solid food introduction at 4 weeks",
+      "Vaccines start at 8 weeks per AAFP"
+    ],
+    "search_terms": ["newborn kitten", "tiny kitten", "kitten bottle"],
+    "category": "cat-health",
+    "format": "longform"
+  },
+  {
+    "id": 2160,
+    "topic": "Why cats hate riding in cars: 5 stress causes",
+    "hook": "Car rides terrify most cats",
+    "key_points": [
+      "Motion sickness inner ear sensitivity",
+      "Loss of territorial control stress reaction",
+      "Carrier association with vet visits negative",
+      "Strange smells overwhelming sensitive nose",
+      "Vibrations and sounds unfamiliar threats",
+      "Pheromone Feliway spray reduces stress 60%",
+      "Practice short rides build positive association"
+    ],
+    "search_terms": ["cat in carrier", "cat in car", "cat travel"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2161,
+    "topic": "Cats and Christmas: dangers in your holiday home",
+    "hook": "Christmas trees kill cats yearly",
+    "key_points": [
+      "Tinsel intestinal blockage requires surgery",
+      "Lights cause electrical burns from chewing",
+      "Lily plants cause kidney failure within hours",
+      "Chocolate ornaments toxic if ingested",
+      "Tree water bacterial contamination dangerous",
+      "Secure tree to ceiling prevents tipping",
+      "Wrapping ribbons hide from playful cats"
+    ],
+    "search_terms": ["cat christmas tree", "cat with ornaments", "holiday cat"],
+    "category": "cat-health",
+    "format": "longform"
+  },
+  {
+    "id": 2162,
+    "topic": "How cats walk: silent stalker biomechanics explained",
+    "hook": "Cat walk is engineering perfection",
+    "key_points": [
+      "Direct register gait: hind paws step in front prints",
+      "Reduces visible tracks for ambush hunting",
+      "Soft paw pads absorb sound and impact",
+      "Retractable claws stay sharp during walking",
+      "Spine flexibility allows complex turns mid-stride",
+      "Same gait as cheetahs and lions",
+      "30 mph sprint speeds achievable house cats"
+    ],
+    "search_terms": ["cat walking", "cat sneaking", "cat moving slowly"],
+    "category": "cat-science",
+    "format": "longform"
+  },
+  {
+    "id": 2163,
+    "topic": "Dental disease prevention: home care that actually works",
+    "hook": "Brush cat teeth or pay later",
+    "key_points": [
+      "Daily brushing gold standard prevention",
+      "Cat-specific toothpaste enzyme-based safe",
+      "Start slow: finger then brush gradually",
+      "Dental treats VOHC certified work",
+      "Water additives reduce bacterial load",
+      "Annual professional cleaning required",
+      "Dental disease shortens lifespan 2-3 years"
+    ],
+    "search_terms": ["cat teeth brushing", "cat mouth", "dental care cat"],
+    "category": "cat-health",
+    "format": "longform"
+  },
+  {
+    "id": 2164,
+    "topic": "Cat sense of smell: 14x stronger than humans",
+    "hook": "Cats smell 14 times better",
+    "key_points": [
+      "200 million scent receptors vs human 5 million",
+      "Vomeronasal organ detects pheromones",
+      "Flehmen response open-mouth scenting",
+      "Identify other cats via scent profiles",
+      "Recognize owners by scent alone reliably",
+      "Smell influences food acceptance majorly",
+      "Stress detection in humans documented"
+    ],
+    "search_terms": ["cat sniffing", "cat nose", "cat scenting"],
+    "category": "cat-science",
+    "format": "longform"
+  },
+  {
+    "id": 2165,
+    "topic": "Why cats follow you to the bathroom always",
+    "hook": "Bathroom following is bonding",
+    "key_points": [
+      "Routine recognition: predictable owner location",
+      "Concentrated owner scent in towels",
+      "Closed door triggers cat curiosity",
+      "Resource defense: protecting their human",
+      "Tile cooler attractive surface",
+      "Quiet space few household disturbances",
+      "Sign of strong bond not weirdness"
+    ],
+    "search_terms": ["cat in bathroom", "cat with owner", "cat following"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2166,
+    "topic": "How to find lost cat: proven recovery methods",
+    "hook": "Lost cats need fast action",
+    "key_points": [
+      "Most cats hide within 100-500 feet of home",
+      "Search at night with flashlight: eyes reflect",
+      "Place worn clothing outside their familiar scent",
+      "Litter box outside attracts via scent",
+      "Door-to-door 5 home radius critical",
+      "Microchip update info first hour",
+      "Social media local groups speed recovery"
+    ],
+    "search_terms": ["lost cat", "cat outside", "cat hiding"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2167,
+    "topic": "Cat IQ: how smart is your cat really",
+    "hook": "Cats smart but stubborn workers",
+    "key_points": [
+      "Intelligence comparable to 2-3 year human child",
+      "300 million neurons in cerebral cortex",
+      "Object permanence understanding by 6 months",
+      "Problem-solving via observation primary method",
+      "Memory rivals dogs in many tests",
+      "Independent nature affects cooperation testing",
+      "Cant easily measure: motivation issues"
+    ],
+    "search_terms": ["cat thinking", "cat puzzle", "smart cat"],
+    "category": "cat-science",
+    "format": "longform"
+  },
+  {
+    "id": 2168,
+    "topic": "Best cat toys backed by behavior science",
+    "hook": "These toys actually work",
+    "key_points": [
+      "Wand feathers mimic bird prey best",
+      "Mouse on string activates ground hunt",
+      "Puzzle feeders engage problem-solving",
+      "Cat tunnels: ambush prey behavior",
+      "Catnip varies: 30% no response genetically",
+      "Laser pointers: end with physical toy capture",
+      "Bird videos: 20-30 min calm engagement"
+    ],
+    "search_terms": ["cat toys variety", "cat playing", "cat enrichment"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2169,
+    "topic": "Cat grooming: tools and techniques for every coat",
+    "hook": "Wrong tools hurt cat coats",
+    "key_points": [
+      "Shorthair: rubber brush 1-2x weekly",
+      "Longhair: pin brush daily mat prevention",
+      "Slicker brush removes loose undercoat",
+      "Nail trim every 2-3 weeks essential",
+      "Ear cleaning monthly with vet-approved solution",
+      "Bathing only when needed cats self-groom",
+      "Professional groomers for difficult cats"
+    ],
+    "search_terms": ["cat grooming", "cat brushing fur", "cat care"],
+    "category": "cat-health",
+    "format": "longform"
+  },
+  {
+    "id": 2170,
+    "topic": "Why cats are not like dogs: 10 key differences",
+    "hook": "Cats vs dogs proven different",
+    "key_points": [
+      "Cats: solitary hunters dogs: pack",
+      "Cats: territorial dogs: roaming",
+      "Cats: domesticated themselves dogs: humans bred",
+      "Cats: 14000 years dogs: 30000 years domestication",
+      "Cats: rare cooperation dogs: highly cooperative",
+      "Cats: scent communication dogs: visual signals",
+      "Cats: limited training dogs: extensive training"
+    ],
+    "search_terms": ["cat vs dog", "cat dog comparison", "pets together"],
+    "category": "cat-science",
+    "format": "longform"
+  },
+  {
+    "id": 2171,
+    "topic": "Cat dreams: what your sleeping cat is doing",
+    "hook": "Cats absolutely dream nightly",
+    "key_points": [
+      "REM sleep accounts for 25% of cat sleep",
+      "Twitching paws ears whiskers indicate dreams",
+      "Lyon studies 1960s confirmed dream activity",
+      "Likely replay daily activities and hunting",
+      "Vocalize during dreams: small chirps",
+      "Bad dreams: occasional growling or paddling",
+      "Never wake suddenly: startle response possible"
+    ],
+    "search_terms": ["cat dreaming", "cat REM sleep", "cat sleeping deep"],
+    "category": "cat-science",
+    "format": "longform"
+  },
+  {
+    "id": 2172,
+    "topic": "Cat obesity: causes, dangers, weight loss plan",
+    "hook": "Fat cats die younger always",
+    "key_points": [
+      "60% US cats overweight per AVMA 2022",
+      "Diabetes risk 4x in obese cats",
+      "Joint disease and arthritis accelerated",
+      "Decreased lifespan by 2-3 years",
+      "Weight loss: 1-2% body weight per week max",
+      "Wet food and increased play key strategies",
+      "Veterinary weight loss diets most effective"
+    ],
+    "search_terms": ["overweight cat", "fat cat", "cat weight"],
+    "category": "cat-health",
+    "format": "longform"
+  },
+  {
+    "id": 2173,
+    "topic": "Famous cat behaviors and what each really means",
+    "hook": "Cat behaviors decoded fully",
+    "key_points": [
+      "Kneading: kittenhood comfort signal carrying over",
+      "Bunting: scent marking via face glands",
+      "Loafing: contentment and quick escape ready",
+      "Zoomies: prey energy release vital",
+      "Purring: communication and self-healing",
+      "Slow blink: trust and affection signal",
+      "Tail vibration: extreme greeting excitement"
+    ],
+    "search_terms": ["cat behavior", "cute cat moments", "cat actions"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2174,
+    "topic": "Why cats prefer some people over others",
+    "hook": "Cats pick favorite humans always",
+    "key_points": [
+      "Lower voice, slow movements preferred",
+      "Person who feeds primary often favorite",
+      "Calm energy attracts cats more",
+      "Allergic people release fewer cat-attracting hormones",
+      "Quiet personality matches cat preferences",
+      "Eye contact through slow blinks builds bond",
+      "Cats detect anxiety in humans avoid"
+    ],
+    "search_terms": ["cat with favorite person", "cat affection", "cat owner bond"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2175,
+    "topic": "Cat breed health issues: what to watch each breed",
+    "hook": "Each breed has health weakness",
+    "key_points": [
+      "Maine Coon: HCM cardiomyopathy 30% rate",
+      "Persian: PKD kidney disease 38% incidence",
+      "Scottish Fold: osteochondrodysplasia all carriers",
+      "Sphynx: HCM 50% develop heart disease",
+      "Bengal: progressive retinal atrophy genetic test",
+      "Ragdoll: HCM and bladder stones common",
+      "Burmese: diabetes 5x rate of other breeds"
+    ],
+    "search_terms": ["cat at vet", "different cat breeds", "cat health"],
+    "category": "cat-breeds",
+    "format": "longform"
+  },
+  {
+    "id": 2176,
+    "topic": "Cat life stages: kitten to senior care guide",
+    "hook": "Each life stage needs different care",
+    "key_points": [
+      "Kitten 0-12 months: vaccines socialization growth",
+      "Junior 1-2 years: full size playful peak",
+      "Adult 3-6 years: stable behavior monitor weight",
+      "Mature 7-10 years: annual blood work begins",
+      "Senior 11-14 years: biannual vet visits",
+      "Geriatric 15+ years: chronic disease management",
+      "Diet calorie content adjust each stage"
+    ],
+    "search_terms": ["kitten and cat", "cat life stages", "different age cats"],
+    "category": "cat-health",
+    "format": "longform"
+  },
+  {
+    "id": 2177,
+    "topic": "Why cats love high places: vertical world theory",
+    "hook": "Cats need vertical territory always",
+    "key_points": [
+      "Survey area for prey and threats",
+      "Status display in multi-cat homes",
+      "Escape route from perceived threats",
+      "Warmer air rises preferred sleeping",
+      "Reduces stress per Cornell research",
+      "Provide cat trees minimum 6 feet tall",
+      "Window perches add vertical opportunities"
+    ],
+    "search_terms": ["cat on high shelf", "cat tree top", "cat climbing"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2178,
+    "topic": "Top cat misconceptions believed by owners worldwide",
+    "hook": "Owners believe these wrong things",
+    "key_points": [
+      "Myth: cats need only annual vet (sick cats hide)",
+      "Myth: indoor cats dont need vaccines (parasites enter)",
+      "Myth: declawing is humane (amputation surgery)",
+      "Myth: cats are low maintenance (need daily play)",
+      "Myth: one cat is enough (most thrive in pairs)",
+      "Myth: cats prefer being alone (form deep bonds)",
+      "Myth: dry food cleans teeth (does not work)"
+    ],
+    "search_terms": ["cat at vet", "cat owner", "cat at home"],
+    "category": "cat-myths",
+    "format": "longform"
+  },
+  {
+    "id": 2179,
+    "topic": "End-of-life cat care: making final years comfortable",
+    "hook": "Senior cats deserve gentle care",
+    "key_points": [
+      "Pain assessment monthly with vet",
+      "Mobility aids: ramps, low-side litter boxes",
+      "Heated beds soothe arthritic joints",
+      "Hydration via wet food and fountains",
+      "Quality of life scale tracks decline",
+      "Hospice care options available many vets",
+      "Euthanasia: peaceful when suffering exceeds joy"
+    ],
+    "search_terms": ["senior cat", "old cat resting", "cat at vet"],
+    "category": "cat-health",
+    "format": "longform"
+  }
+]
