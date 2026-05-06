@@ -5,6 +5,8 @@ on:
   workflow_dispatch:
 jobs:
   video:
+    permissions:
+      contents: write
     uses: ./.github/workflows/longform_engine.yml
     with:
       channel: finanzas_clara_lf

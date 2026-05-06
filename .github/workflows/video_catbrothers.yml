@@ -7,6 +7,8 @@ on:
   workflow_dispatch:
 jobs:
   video:
+    permissions:
+      contents: write
     uses: ./.github/workflows/video_engine.yml
     with:
       channel: catbrothers
