@@ -1,0 +1,1172 @@
+[
+  {
+    "id": 3000,
+    "topic": "Washer drum cleaning monthly cycle removes biofilm buildup",
+    "hook": "Your washer smells because of biofilm",
+    "key_points": [
+      "Front-loaders trap moisture in door gasket creating biofilm and mold",
+      "Run empty hot cycle monthly with 2 cups distilled white vinegar",
+      "Wipe rubber gasket dry after every load to prevent mildew per manufacturer guides",
+      "Leave door ajar between loads so drum air-dries"
+    ],
+    "search_terms": ["washing machine drum", "front load washer", "cleaning washer gasket"],
+    "category": "laundry"
+  },
+  {
+    "id": 3001,
+    "topic": "Fridge condenser coil cleaning cuts energy use up to 35 percent",
+    "hook": "Dirty coils make fridge work harder",
+    "key_points": [
+      "DOE estimates dirty condenser coils raise refrigerator energy use 30 to 35 percent",
+      "Vacuum coils every 6 months with brush attachment after unplugging unit",
+      "Most coils sit behind rear panel or under front kick plate",
+      "Clean coils extend compressor life and reduce repair calls"
+    ],
+    "search_terms": ["refrigerator coils", "fridge maintenance", "appliance cleaning"],
+    "category": "maintenance"
+  },
+  {
+    "id": 3002,
+    "topic": "Dishwasher filter cleaning monthly prevents food redeposit",
+    "hook": "Hidden filter ruins clean dishes",
+    "key_points": [
+      "Most modern dishwashers have removable mesh filter at bottom of tub",
+      "Clog causes food particles to redeposit on dishes during rinse cycle",
+      "Twist out filter monthly and rinse under hot water with soft brush",
+      "Manufacturers like Bosch and Whirlpool list this in owner manuals"
+    ],
+    "search_terms": ["dishwasher filter", "dishwasher maintenance", "kitchen appliance"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 3003,
+    "topic": "Heat pump dryer uses 50 percent less energy than vented",
+    "hook": "Dryer choice cuts power bill half",
+    "key_points": [
+      "ENERGY STAR data shows heat pump dryers use about 28 percent less than standard electric",
+      "Some hybrid models reach 50 percent reduction versus older vented dryers",
+      "No exterior vent needed so installation works in apartments",
+      "Cycles run longer at lower temperatures protecting fabric fibers"
+    ],
+    "search_terms": ["heat pump dryer", "energy efficient laundry", "ventless dryer"],
+    "category": "energy-saving"
+  },
+  {
+    "id": 3004,
+    "topic": "Induction cooktop heats 85 percent efficient versus gas 40 percent",
+    "hook": "Induction beats gas on efficiency",
+    "key_points": [
+      "DOE measurements show induction transfers about 85 percent of energy to cookware",
+      "Gas burners reach roughly 40 percent and electric coils about 70 percent",
+      "Surface stays cool because heat generates inside ferromagnetic pan",
+      "Requires cookware that magnet sticks to like cast iron or magnetic stainless"
+    ],
+    "search_terms": ["induction cooktop", "modern kitchen", "cooking efficiency"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 3005,
+    "topic": "Smart thermostat schedule saves 8 percent on heating cooling",
+    "hook": "Schedule saves real money",
+    "key_points": [
+      "ENERGY STAR data shows certified smart thermostats save about 8 percent yearly",
+      "Setback of 7 to 10 degrees for 8 hours cuts HVAC load measurably",
+      "Geofencing adjusts when phones leave home automatically",
+      "Compatible with most 24V HVAC systems built since 2002"
+    ],
+    "search_terms": ["smart thermostat", "home automation", "energy saving"],
+    "category": "smart-home"
+  },
+  {
+    "id": 3006,
+    "topic": "HEPA filter true rating captures 99.97 percent of 0.3 micron particles",
+    "hook": "Real HEPA filters meet exact spec",
+    "key_points": [
+      "True HEPA must capture 99.97 percent of particles at 0.3 microns by DOE definition",
+      "HEPA-type or HEPA-like labels do not meet this standard",
+      "Look for tested per IEST standard not just marketing claims",
+      "Replace yearly or per manufacturer indicator light"
+    ],
+    "search_terms": ["HEPA air filter", "air purifier", "indoor air quality"],
+    "category": "air-quality"
+  },
+  {
+    "id": 3007,
+    "topic": "VOC sources at home include paint cleaners and new furniture",
+    "hook": "Hidden chemicals in new stuff",
+    "key_points": [
+      "EPA lists paints solvents cleaners pesticides and new pressed wood as VOC sources",
+      "VOCs can be 2 to 5 times higher indoors than outdoors per EPA studies",
+      "Ventilate during and after using paint or strong cleaners",
+      "Choose low-VOC or zero-VOC labeled products certified by Greenguard"
+    ],
+    "search_terms": ["indoor air quality", "VOC sources", "home ventilation"],
+    "category": "air-quality"
+  },
+  {
+    "id": 3008,
+    "topic": "Houseplants do not measurably filter air in real homes",
+    "hook": "Plants barely clean home air",
+    "key_points": [
+      "1989 NASA study used sealed chambers not normal rooms",
+      "2019 Drexel review concluded you would need 10 plants per square foot to match ventilation",
+      "Plants add humidity and aesthetics but ventilation removes pollutants better",
+      "Open windows or use HVAC fresh air intake for real air exchange"
+    ],
+    "search_terms": ["houseplants indoor", "air quality myth", "indoor garden"],
+    "category": "air-quality"
+  },
+  {
+    "id": 3009,
+    "topic": "Roach baits work better than sprays for long term control",
+    "hook": "Sprays scatter roaches baits kill colony",
+    "key_points": [
+      "Gel baits with hydramethylnon or fipronil are entomologist recommended",
+      "Roaches carry bait back to harborage killing nestmates through fecal contact",
+      "Sprays cause bud splitting where colony spreads to new locations",
+      "Place bait dots near water sources sinks and behind appliances"
+    ],
+    "search_terms": ["pest control home", "kitchen pests", "cockroach prevention"],
+    "category": "pest"
+  },
+  {
+    "id": 3010,
+    "topic": "Ant trail interruption uses soapy water then seal entry",
+    "hook": "Wipe trail break the chemical signal",
+    "key_points": [
+      "Ants follow pheromone trails left by scouts according to USDA entomology data",
+      "Wipe trails with soapy water or vinegar to disrupt scent communication",
+      "Seal entry points with caulk or steel wool stuffed into cracks",
+      "Use bait stations indoors so workers carry slow-acting bait to queen"
+    ],
+    "search_terms": ["ant control kitchen", "pest prevention", "ants home remedy"],
+    "category": "pest"
+  },
+  {
+    "id": 3011,
+    "topic": "Mice deterrents that actually work focus on exclusion not scent",
+    "hook": "Peppermint oil doesn't stop mice",
+    "key_points": [
+      "Studies from CDC and university extension services show scent repellents fail",
+      "Mice squeeze through openings as small as a quarter inch wide",
+      "Seal gaps with steel wool and caulk because mice cannot chew through metal",
+      "Snap traps with peanut butter remain most effective per NPMA data"
+    ],
+    "search_terms": ["mice prevention", "rodent control home", "pest exclusion"],
+    "category": "pest"
+  },
+  {
+    "id": 3012,
+    "topic": "Bathroom humidity above 60 percent triggers mold growth",
+    "hook": "Mold loves humid bathrooms",
+    "key_points": [
+      "EPA recommends keeping indoor humidity below 60 percent ideally 30 to 50 percent",
+      "Mold spores germinate within 24 to 48 hours on damp surfaces",
+      "Run bathroom exhaust fan during shower and 20 minutes after per HVI guidelines",
+      "Squeegee shower walls after use to remove standing moisture quickly"
+    ],
+    "search_terms": ["bathroom mold prevention", "humidity control", "shower cleaning"],
+    "category": "bathroom"
+  },
+  {
+    "id": 3013,
+    "topic": "Bathroom fan run time 20 minutes after shower removes moisture",
+    "hook": "Run fan 20 minutes after shower",
+    "key_points": [
+      "Home Ventilating Institute recommends running fan 20 minutes post-shower",
+      "Fan must vent outside not just into attic to remove moisture properly",
+      "Sized at 1 CFM per square foot of bathroom for adequate exchange",
+      "Add timer switch to ensure proper duration without manual reminder"
+    ],
+    "search_terms": ["bathroom exhaust fan", "ventilation home", "moisture control"],
+    "category": "bathroom"
+  },
+  {
+    "id": 3014,
+    "topic": "Garage vertical storage doubles usable floor space",
+    "hook": "Walls store more than floors",
+    "key_points": [
+      "Wall mounted slatwall systems hold up to 50 pounds per linear foot rated",
+      "Overhead racks bolt into ceiling joists for seasonal items",
+      "Bike hooks rated for full weight free up parking space",
+      "Group like items by zone sports tools garden lawn for retrieval speed"
+    ],
+    "search_terms": ["garage organization", "vertical storage", "wall storage"],
+    "category": "organization"
+  },
+  {
+    "id": 3015,
+    "topic": "Tool wall pegboard layout starts with traced outlines",
+    "hook": "Trace tools mark exact spots",
+    "key_points": [
+      "Outline each tool on board with marker so missing items show instantly",
+      "Standard pegboard holds standard hooks at 1 inch grid spacing",
+      "French cleat systems support heavier tools than pegboard pins",
+      "Group by use category power tools hand tools fasteners separately"
+    ],
+    "search_terms": ["pegboard tools", "garage workshop", "tool organization"],
+    "category": "organization"
+  },
+  {
+    "id": 3016,
+    "topic": "Low light houseplants real list pothos snake plant ZZ plant",
+    "hook": "Three plants survive dark rooms",
+    "key_points": [
+      "Snake plant tolerates 50 foot-candles minimum per botanical references",
+      "Pothos thrives in indirect light no direct sun required",
+      "ZZ plant survives weeks of neglect storing water in rhizomes",
+      "Rotate quarter turn weekly so all sides receive equal light"
+    ],
+    "search_terms": ["low light houseplants", "indoor plants", "easy houseplants"],
+    "category": "garden"
+  },
+  {
+    "id": 3017,
+    "topic": "Watering schedule by plant type avoids root rot kills",
+    "hook": "Overwatering kills more plants",
+    "key_points": [
+      "Succulents and cacti need water every 2 to 3 weeks when soil fully dry",
+      "Tropical plants like pothos prefer top inch dry between waterings",
+      "Ferns require consistently moist not soggy soil to thrive",
+      "Stick finger 1 inch into soil to test moisture before watering"
+    ],
+    "search_terms": ["watering plants", "houseplant care", "plant watering"],
+    "category": "garden"
+  },
+  {
+    "id": 3018,
+    "topic": "KonMari method science triggers dopamine through choice reduction",
+    "hook": "Decluttering changes brain chemistry",
+    "key_points": [
+      "UCLA studies link cluttered homes with elevated cortisol stress hormone",
+      "Decision fatigue reduces willpower as choices accumulate per Roy Baumeister research",
+      "Removing visual clutter frees working memory capacity",
+      "Sort by category not location to confront full scope at once"
+    ],
+    "search_terms": ["decluttering home", "organized minimalism", "konmari method"],
+    "category": "organization"
+  },
+  {
+    "id": 3019,
+    "topic": "Decision fatigue at home reduce daily wardrobe and meal choices",
+    "hook": "Fewer choices save mental energy",
+    "key_points": [
+      "Princeton studies on willpower show finite daily decision capacity",
+      "Capsule wardrobe reduces morning choices to a small rotating set",
+      "Weekly meal plan eliminates daily what to eat decisions",
+      "Apply same principle to cleaning supplies one multi-surface cleaner not five"
+    ],
+    "search_terms": ["minimalist home", "decision fatigue", "simple living"],
+    "category": "organization"
+  },
+  {
+    "id": 3020,
+    "topic": "DIY home security false alarms cost up to 100 dollars per call",
+    "hook": "False alarms cost real money",
+    "key_points": [
+      "Many cities charge 50 to 200 dollars for repeated false alarm responses",
+      "Pets motion and balloons trigger most false alarms per industry data",
+      "Use pet-immune sensors rated up to 40 pounds for cats and dogs",
+      "Test system monthly so dead batteries don't trigger zone faults"
+    ],
+    "search_terms": ["home security system", "alarm system", "smart home security"],
+    "category": "smart-home"
+  },
+  {
+    "id": 3021,
+    "topic": "Enzyme cleaners break down pet stains at molecular level",
+    "hook": "Enzymes destroy odor at source",
+    "key_points": [
+      "Enzymes digest organic matter like urine proteins and fats",
+      "Standard cleaners mask odor without removing protein source",
+      "Apply enough to soak stain depth then let air dry not blot",
+      "Avoid steam cleaning pet stains because heat sets odor permanently"
+    ],
+    "search_terms": ["pet stain cleaner", "enzyme cleaner", "carpet cleaning"],
+    "category": "cleaning"
+  },
+  {
+    "id": 3022,
+    "topic": "Pet safe disinfectants exclude phenols and pine oil cleaners",
+    "hook": "Some cleaners poison pets",
+    "key_points": [
+      "ASPCA warns phenols and pine oils toxic to cats lacking liver enzyme",
+      "Hydrogen peroxide diluted 3 percent rinses safely for pet areas",
+      "Vinegar and water cleans most surfaces without harming animals",
+      "Always rinse floors after disinfecting before pets walk on them"
+    ],
+    "search_terms": ["pet safe cleaning", "non toxic cleaner", "household chemicals"],
+    "category": "cleaning"
+  },
+  {
+    "id": 3023,
+    "topic": "Sustainable swap LED bulbs save 75 dollars per bulb lifetime",
+    "hook": "LEDs save real cash long term",
+    "key_points": [
+      "DOE data shows LEDs use 75 percent less energy than incandescent",
+      "LED lasts 25 times longer averaging 25000 hours per bulb",
+      "Average household saves around 225 dollars yearly switching all bulbs",
+      "Look for ENERGY STAR mark for verified efficiency claims"
+    ],
+    "search_terms": ["LED light bulbs", "energy efficient lighting", "sustainable home"],
+    "category": "sustainable"
+  },
+  {
+    "id": 3024,
+    "topic": "Low flow showerhead saves 2700 gallons yearly per person",
+    "hook": "Showerhead swap saves thousands gallons",
+    "key_points": [
+      "EPA WaterSense showerheads use 2.0 gallons per minute or less",
+      "Standard heads use 2.5 GPM or higher costing more in heating energy",
+      "Average family saves 2700 gallons yearly per EPA estimates",
+      "Cuts water heating costs around 70 dollars annually per family"
+    ],
+    "search_terms": ["low flow showerhead", "water conservation", "water saving"],
+    "category": "sustainable"
+  },
+  {
+    "id": 3025,
+    "topic": "Drywall hole repair under 2 inches uses mesh patch and joint compound",
+    "hook": "Patch small holes in 10 minutes",
+    "key_points": [
+      "Self-adhesive mesh patches stick over hole then cover with joint compound",
+      "Apply compound in 3 thin coats letting each dry overnight",
+      "Sand smooth with 220 grit between coats for invisible blend",
+      "Prime patched area before painting to match surrounding sheen"
+    ],
+    "search_terms": ["drywall repair", "wall hole patch", "DIY home repair"],
+    "category": "maintenance"
+  },
+  {
+    "id": 3026,
+    "topic": "Faucet drip wastes 3000 gallons yearly per EPA calculation",
+    "hook": "One drip wastes thousands gallons",
+    "key_points": [
+      "EPA calculates one drip per second wastes 3000 gallons yearly",
+      "Most drips trace to worn rubber washer or O-ring inside cartridge",
+      "Cartridge replacement costs about 10 dollars and takes 20 minutes",
+      "Shut water supply at valve under sink before disassembly"
+    ],
+    "search_terms": ["leaky faucet", "plumbing repair", "water leak fix"],
+    "category": "maintenance"
+  },
+  {
+    "id": 3027,
+    "topic": "Door alignment fix tighten hinges or shim with cardboard",
+    "hook": "Sticky door fixes in minutes",
+    "key_points": [
+      "Loose hinge screws cause most door dragging on the jamb",
+      "Tighten with 3 inch screws into stud framing for solid hold",
+      "If screws strip use wood toothpicks with glue to fill hole then re-screw",
+      "Card stock shims behind hinge plate adjust strike alignment"
+    ],
+    "search_terms": ["door repair", "DIY home maintenance", "door alignment"],
+    "category": "maintenance"
+  },
+  {
+    "id": 3028,
+    "topic": "Refrigerator temperature 37 to 40 degrees F per FDA food safety",
+    "hook": "Wrong fridge temp wastes food",
+    "key_points": [
+      "FDA recommends fridge below 40 degrees F freezer at zero",
+      "Above 40 degrees bacteria multiply rapidly in danger zone",
+      "Place thermometer in middle shelf away from door to verify",
+      "Adjust dial then wait 24 hours to test temperature change"
+    ],
+    "search_terms": ["fridge temperature", "food safety", "refrigerator settings"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 3029,
+    "topic": "Freezer at 0 degrees F prevents freezer burn and ice crystals",
+    "hook": "Zero degrees keeps food fresh",
+    "key_points": [
+      "USDA standard 0 degrees F stops bacterial growth and slows enzyme activity",
+      "Freezer burn results from air exposure not unsafe temperatures",
+      "Use freezer-grade bags or vacuum seal to prevent moisture loss",
+      "Full freezer holds cold better than empty one due to thermal mass"
+    ],
+    "search_terms": ["freezer temperature", "food preservation", "kitchen storage"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 3030,
+    "topic": "Dryer vent cleaning yearly prevents 2900 home fires per NFPA",
+    "hook": "Clean vent stops fire risk",
+    "key_points": [
+      "NFPA reports about 2900 dryer fires yearly with lint as leading cause",
+      "Disconnect duct and vacuum entire run including outdoor termination",
+      "Lint accumulates beyond visible filter throughout duct interior",
+      "Smooth metal duct outperforms flexible plastic for airflow and safety"
+    ],
+    "search_terms": ["dryer vent cleaning", "home fire safety", "laundry room"],
+    "category": "laundry"
+  },
+  {
+    "id": 3031,
+    "topic": "Wash cold saves 90 percent of laundry energy per ENERGY STAR",
+    "hook": "Cold wash cuts laundry power",
+    "key_points": [
+      "ENERGY STAR data shows about 90 percent of washing energy heats water",
+      "Modern detergents formulated for cold water clean as well in studies",
+      "Cold wash extends fabric life and prevents shrinkage in cotton",
+      "Reserve hot water only for sanitizing heavily soiled items or sickness"
+    ],
+    "search_terms": ["cold water laundry", "energy efficient washing", "laundry tips"],
+    "category": "laundry"
+  },
+  {
+    "id": 3032,
+    "topic": "Window seal leaks lose 25 to 30 percent of HVAC energy",
+    "hook": "Leaky windows waste big money",
+    "key_points": [
+      "DOE data shows windows account for 25 to 30 percent of heating cooling loss",
+      "Caulk gaps around frames every 5 years to maintain seal",
+      "Weatherstripping replaces compressed worn rubber on operable sashes",
+      "Add cellular shades to add insulation R-value during temperature extremes"
+    ],
+    "search_terms": ["window weatherstripping", "energy efficient windows", "home insulation"],
+    "category": "energy-saving"
+  },
+  {
+    "id": 3033,
+    "topic": "Attic insulation R-value by climate zone per DOE recommendations",
+    "hook": "Right insulation cuts bills",
+    "key_points": [
+      "DOE recommends R-49 to R-60 attic insulation in most US climate zones",
+      "Southern zones need R-30 minimum northern zones up to R-60 for efficiency",
+      "Add insulation perpendicular over existing layer to fill thermal bridges",
+      "Air seal penetrations first because gaps undermine insulation performance"
+    ],
+    "search_terms": ["attic insulation", "home energy audit", "insulation upgrade"],
+    "category": "energy-saving"
+  },
+  {
+    "id": 3034,
+    "topic": "Phantom load standby power costs 100 dollars yearly per household",
+    "hook": "Idle electronics drain money",
+    "key_points": [
+      "DOE estimates standby power costs around 100 dollars yearly per home",
+      "Devices draw power even when off if plugged in to outlet",
+      "Use smart power strips that cut power when primary device shuts off",
+      "Game consoles and TVs are largest phantom loads in most homes"
+    ],
+    "search_terms": ["phantom power", "energy vampires", "smart power strip"],
+    "category": "energy-saving"
+  },
+  {
+    "id": 3035,
+    "topic": "Smart plug schedules cut lamp and small appliance overnight waste",
+    "hook": "Smart plug stops idle drain",
+    "key_points": [
+      "Schedule plugs to off during sleep hours and away periods",
+      "Most smart plugs use Wi-Fi and tie into Alexa Google or Matter ecosystems",
+      "Energy monitoring models track per-device watts in real time",
+      "Costs around 10 to 15 dollars each and pays back in months"
+    ],
+    "search_terms": ["smart plug", "home automation", "smart home device"],
+    "category": "smart-home"
+  },
+  {
+    "id": 3036,
+    "topic": "Matter protocol unifies smart home brands across ecosystems",
+    "hook": "Matter ends ecosystem lock-in",
+    "key_points": [
+      "Matter is open standard supported by Apple Google Amazon and Samsung",
+      "Devices work across all major voice assistants without bridges",
+      "Runs on Wi-Fi Thread or Ethernet locally without cloud dependency",
+      "Look for Matter logo on packaging when buying new smart devices"
+    ],
+    "search_terms": ["matter smart home", "smart home protocol", "home automation"],
+    "category": "smart-home"
+  },
+  {
+    "id": 3037,
+    "topic": "Carbon monoxide detector lifespan 7 to 10 years then replace",
+    "hook": "CO detectors expire on schedule",
+    "key_points": [
+      "CO detector sensors degrade after 7 to 10 years and need replacement",
+      "Date is printed on back of unit not just the battery date",
+      "Install one outside each sleeping area on every level per NFPA",
+      "Test monthly and replace battery yearly even if hardwired"
+    ],
+    "search_terms": ["carbon monoxide detector", "smoke detector", "home safety"],
+    "category": "maintenance"
+  },
+  {
+    "id": 3038,
+    "topic": "Smoke alarm placement and 10 year sealed battery rules",
+    "hook": "Right placement saves lives",
+    "key_points": [
+      "NFPA requires smoke alarms in every bedroom and outside sleeping areas",
+      "Install on ceiling at least 4 inches from wall or high on wall 12 inches from ceiling",
+      "10-year sealed battery models eliminate annual battery swap",
+      "Replace entire alarm every 10 years per manufacturer date"
+    ],
+    "search_terms": ["smoke alarm", "fire safety", "home safety"],
+    "category": "maintenance"
+  },
+  {
+    "id": 3039,
+    "topic": "Range hood vent outside not recirculate for moisture removal",
+    "hook": "Vent outside or it's useless",
+    "key_points": [
+      "Recirculating hoods only filter grease they don't remove moisture or CO",
+      "External venting reduces VOCs and combustion byproducts from gas cooktops",
+      "ASHRAE recommends 100 CFM minimum for residential range hoods",
+      "Run hood at least 5 minutes after cooking finishes for full clearance"
+    ],
+    "search_terms": ["range hood ventilation", "kitchen exhaust", "cooking ventilation"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 3040,
+    "topic": "Garbage disposal ice cubes and salt clean blades and walls",
+    "hook": "Ice scrubs disposal clean",
+    "key_points": [
+      "Run handful of ice cubes with rock salt to scrape buildup off blades",
+      "Citrus peels add fresh scent without harsh chemicals",
+      "Never put coffee grounds eggshells or grease down disposal",
+      "Run cold water 15 seconds after grinding to flush plumbing line"
+    ],
+    "search_terms": ["garbage disposal cleaning", "kitchen sink", "disposal maintenance"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 3041,
+    "topic": "Microwave steam cleaning loosens splatter without scrubbing",
+    "hook": "Steam beats scrubbing every time",
+    "key_points": [
+      "Heat 1 cup water with vinegar slice of lemon for 5 minutes",
+      "Steam softens stuck-on food on walls and ceiling of cavity",
+      "Wipe immediately while interior hot for fastest removal",
+      "Avoid abrasive sponges that scratch the cavity coating"
+    ],
+    "search_terms": ["microwave cleaning", "kitchen cleaning", "appliance care"],
+    "category": "cleaning"
+  },
+  {
+    "id": 3042,
+    "topic": "Oven self clean uses 500 degrees and warps weak components",
+    "hook": "Self-clean cycle risks repairs",
+    "key_points": [
+      "Self-clean reaches around 900 degrees F per appliance manuals",
+      "Heat can damage door latches sensors and electronics",
+      "Manual cleaning with baking soda paste avoids extreme temperatures",
+      "Run self-clean only when home with ventilation and never overnight"
+    ],
+    "search_terms": ["oven cleaning", "self clean oven", "kitchen appliance"],
+    "category": "cleaning"
+  },
+  {
+    "id": 3043,
+    "topic": "Stainless steel cleaning grain direction prevents streaks",
+    "hook": "Wipe with grain not against",
+    "key_points": [
+      "Stainless has directional grain visible under light",
+      "Wiping against grain leaves streaks and pushes grime into texture",
+      "Mild soap and water removes most fingerprints without polish",
+      "Apply mineral oil sparingly with microfiber to add shine"
+    ],
+    "search_terms": ["stainless steel cleaning", "kitchen appliance care", "appliance cleaning"],
+    "category": "cleaning"
+  },
+  {
+    "id": 3044,
+    "topic": "Granite countertop sealing yearly test with water bead",
+    "hook": "Bead test reveals seal status",
+    "key_points": [
+      "Drop water on granite if it beads sealer is intact if it darkens reseal",
+      "Most granite needs sealing every 12 to 18 months depending on use",
+      "Avoid acidic cleaners like vinegar lemon that etch the seal",
+      "Use pH neutral stone cleaner for daily wipe down"
+    ],
+    "search_terms": ["granite countertop care", "stone cleaning", "kitchen counter"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 3045,
+    "topic": "Cutting board sanitize wood with hot soap not dishwasher",
+    "hook": "Wood boards die in dishwasher",
+    "key_points": [
+      "Heat and water exposure warps and cracks wood cutting boards",
+      "Hand wash with hot soapy water then dry standing on edge",
+      "Sanitize with hydrogen peroxide or diluted bleach 1 tablespoon per gallon",
+      "Oil monthly with food grade mineral oil to prevent drying"
+    ],
+    "search_terms": ["cutting board care", "kitchen hygiene", "wood board maintenance"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 3046,
+    "topic": "Kitchen sponge replacement weekly or microwave to sanitize",
+    "hook": "Sponges hold millions of bacteria",
+    "key_points": [
+      "USDA studies found household sponges contain billions of bacteria per cubic centimeter",
+      "Microwave wet sponge 1 minute kills 99 percent of bacteria",
+      "Or run through dishwasher hot cycle with heated dry",
+      "Replace sponges weekly because cleaning only delays not eliminates buildup"
+    ],
+    "search_terms": ["kitchen sponge", "kitchen hygiene", "sanitize sponge"],
+    "category": "cleaning"
+  },
+  {
+    "id": 3047,
+    "topic": "Mattress flip and rotate schedule extends 7 to 10 year life",
+    "hook": "Rotate mattress prevents body indents",
+    "key_points": [
+      "Most modern mattresses are no flip but should rotate 180 degrees quarterly",
+      "Older two-sided mattresses flip and rotate every 3 months",
+      "Rotation distributes wear evenly extending support life by years",
+      "Mattress protector waterproof guards against spills and dust mites"
+    ],
+    "search_terms": ["mattress care", "bedroom maintenance", "bedding"],
+    "category": "maintenance"
+  },
+  {
+    "id": 3048,
+    "topic": "Pillow replacement 1 to 2 years for support and hygiene",
+    "hook": "Old pillows hold dust mites",
+    "key_points": [
+      "Sleep foundations recommend replacing pillows every 1 to 2 years",
+      "Fold test if pillow stays folded it's lost support replace it",
+      "Wash pillows every 6 months on gentle cycle most are machine washable",
+      "Pillow protector zippered case extends usable life and reduces allergens"
+    ],
+    "search_terms": ["pillow replacement", "bedding care", "sleep hygiene"],
+    "category": "maintenance"
+  },
+  {
+    "id": 3049,
+    "topic": "Bedsheet washing weekly in 130 degree hot water kills mites",
+    "hook": "Hot wash zaps dust mites",
+    "key_points": [
+      "Asthma and Allergy Foundation recommends weekly sheet wash at 130 degrees F",
+      "Hot water and dryer heat kill dust mites and their allergens",
+      "Wash pillowcases more often if facial breakouts persist",
+      "Use mattress encasement zippered to block mite access"
+    ],
+    "search_terms": ["sheet washing", "laundry hot water", "bedding hygiene"],
+    "category": "laundry"
+  },
+  {
+    "id": 3050,
+    "topic": "Closet humidity below 50 percent prevents mold on clothes",
+    "hook": "Humid closets grow mold",
+    "key_points": [
+      "EPA recommends indoor humidity between 30 and 50 percent",
+      "Closet doors closed with no airflow trap moisture from clothes",
+      "Silica gel packets or charcoal absorb excess moisture in small spaces",
+      "Cedar blocks repel moths and add pleasant scent without chemicals"
+    ],
+    "search_terms": ["closet organization", "humidity control", "clothes storage"],
+    "category": "storage"
+  },
+  {
+    "id": 3051,
+    "topic": "Vacuum HEPA bag captures 99 percent of allergens vs standard",
+    "hook": "HEPA bag traps allergens better",
+    "key_points": [
+      "True HEPA vacuum bags capture 99.97 percent of particles 0.3 micron",
+      "Standard bags release fine dust back into air during use",
+      "Replace bag when 2 thirds full because suction drops as bag fills",
+      "Vacuum twice weekly in pet households once weekly without"
+    ],
+    "search_terms": ["HEPA vacuum", "vacuum cleaner", "allergen reduction"],
+    "category": "cleaning"
+  },
+  {
+    "id": 3052,
+    "topic": "Microfiber cloth captures dust without chemicals through static charge",
+    "hook": "Microfiber traps dust electrostatically",
+    "key_points": [
+      "Microfiber fibers split into smaller strands creating massive surface area",
+      "Static charge attracts and traps dust particles without polish",
+      "Wash separately from cotton to prevent fiber contamination",
+      "No fabric softener which clogs the microfibers permanently"
+    ],
+    "search_terms": ["microfiber cloth", "dust cleaning", "cleaning supplies"],
+    "category": "cleaning"
+  },
+  {
+    "id": 3053,
+    "topic": "Hard water deposits dissolve with citric acid food grade",
+    "hook": "Citric acid melts mineral buildup",
+    "key_points": [
+      "Citric acid powder dissolves calcium carbonate deposits without chlorine",
+      "Mix 2 tablespoons per cup of warm water for cleaning solution",
+      "Safer than vinegar on natural stone seals and grout",
+      "Soak fixtures 15 minutes then wipe deposits away easily"
+    ],
+    "search_terms": ["hard water stains", "limescale removal", "cleaning hack"],
+    "category": "cleaning"
+  },
+  {
+    "id": 3054,
+    "topic": "Grout sealing yearly prevents staining and water damage",
+    "hook": "Sealed grout resists stains",
+    "key_points": [
+      "Unsealed grout absorbs water and stains within months of installation",
+      "Penetrating sealers protect 1 to 3 years between applications",
+      "Test by dropping water if it darkens grout reseal needed",
+      "Apply only to clean dry grout for proper bonding"
+    ],
+    "search_terms": ["grout sealing", "tile maintenance", "bathroom care"],
+    "category": "bathroom"
+  },
+  {
+    "id": 3055,
+    "topic": "Water heater flush yearly removes sediment extends 5 years",
+    "hook": "Flush extends water heater life",
+    "key_points": [
+      "DOE data shows sediment buildup cuts water heater efficiency 25 percent",
+      "Drain a few gallons through bottom valve yearly to remove sediment",
+      "Sediment creates popping sounds as it boils on burner element",
+      "Flushing extends typical 10 year tank life by 4 to 5 years"
+    ],
+    "search_terms": ["water heater maintenance", "plumbing maintenance", "home maintenance"],
+    "category": "maintenance"
+  },
+  {
+    "id": 3056,
+    "topic": "Water heater 120 degrees F balances scald risk and bacteria",
+    "hook": "120 is the safe sweet spot",
+    "key_points": [
+      "DOE recommends 120 degrees F to balance energy use with bacteria prevention",
+      "Above 140 degrees risks scalding especially for kids and elderly",
+      "Below 120 allows Legionella bacteria to grow in tank",
+      "Reduces standby loss saving around 60 dollars yearly per family"
+    ],
+    "search_terms": ["water heater settings", "energy saving water", "home safety"],
+    "category": "energy-saving"
+  },
+  {
+    "id": 3057,
+    "topic": "Toilet leak silent test with food coloring in tank",
+    "hook": "Color test finds silent leaks",
+    "key_points": [
+      "EPA estimates leaky toilets waste up to 200 gallons daily per home",
+      "Add food coloring to tank wait 15 minutes without flushing",
+      "If color appears in bowl flapper needs replacement",
+      "Flapper replacement costs about 5 dollars and takes 10 minutes"
+    ],
+    "search_terms": ["toilet leak", "water leak test", "bathroom plumbing"],
+    "category": "bathroom"
+  },
+  {
+    "id": 3058,
+    "topic": "Showerhead descale soak in vinegar bag removes calcium",
+    "hook": "Vinegar bag restores spray pattern",
+    "key_points": [
+      "Tie plastic bag of distilled vinegar around showerhead overnight",
+      "Calcium and lime deposits dissolve from spray nozzles",
+      "Remove and run hot water 1 minute to flush loosened debris",
+      "Restores original GPM rated flow without replacement"
+    ],
+    "search_terms": ["showerhead cleaning", "limescale shower", "bathroom maintenance"],
+    "category": "bathroom"
+  },
+  {
+    "id": 3059,
+    "topic": "Window cleaning streak free with newspaper or microfiber",
+    "hook": "Streak-free without buying spray",
+    "key_points": [
+      "Vinegar and water 1 to 1 ratio cleans glass without residue",
+      "Newspaper has no lint and squeegees water effectively",
+      "Microfiber cloth in figure-8 motion lifts last droplets",
+      "Clean on cloudy day so cleaner doesn't dry before wiping"
+    ],
+    "search_terms": ["window cleaning", "streak free windows", "glass cleaning"],
+    "category": "cleaning"
+  },
+  {
+    "id": 3060,
+    "topic": "Air filter replacement furnace every 1 to 3 months by MERV",
+    "hook": "Old filter chokes airflow",
+    "key_points": [
+      "ASHRAE recommends MERV 8 minimum MERV 13 for allergy households",
+      "Replace every 1 month for fiberglass 3 months for pleated",
+      "Higher MERV restricts airflow if HVAC not designed for it",
+      "Mark calendar or set phone reminder so replacement happens on time"
+    ],
+    "search_terms": ["furnace filter", "HVAC maintenance", "air quality home"],
+    "category": "air-quality"
+  },
+  {
+    "id": 3061,
+    "topic": "Ceiling fan direction summer counterclockwise winter clockwise",
+    "hook": "Direction switch saves cooling cost",
+    "key_points": [
+      "Counterclockwise blades push air down creating wind chill effect summer",
+      "Clockwise pulls cool air up forcing warm air down from ceiling winter",
+      "Switch on motor housing reverses direction in seconds",
+      "Allows thermostat setback 4 degrees with same comfort per DOE"
+    ],
+    "search_terms": ["ceiling fan", "energy efficient cooling", "home cooling"],
+    "category": "energy-saving"
+  },
+  {
+    "id": 3062,
+    "topic": "Window AC sealing accordion panels lose 20 percent cool air",
+    "hook": "Accordion panels leak cool air",
+    "key_points": [
+      "Plastic accordion side panels do little to seal gaps",
+      "Replace with rigid foam board cut to fit and weatherstrip seal",
+      "Air leaks waste up to 20 percent of cooling capacity",
+      "Pull AC unit and store winter to prevent cold air infiltration"
+    ],
+    "search_terms": ["window AC unit", "air conditioner sealing", "summer cooling"],
+    "category": "energy-saving"
+  },
+  {
+    "id": 3063,
+    "topic": "Clothes folding KonMari vertical fits 3x more in drawer",
+    "hook": "Vertical fold sees everything",
+    "key_points": [
+      "Vertical folding shows every item at once in drawer",
+      "Fits 2 to 3 times more than stacked horizontal piles",
+      "Fold into thirds then halves until item stands on edge",
+      "Light fabrics may need cardboard divider to maintain shape"
+    ],
+    "search_terms": ["clothes folding", "drawer organization", "konmari method"],
+    "category": "organization"
+  },
+  {
+    "id": 3064,
+    "topic": "Pantry FIFO labels prevent expired food waste 25 percent",
+    "hook": "First in first out cuts waste",
+    "key_points": [
+      "USDA estimates households waste around 30 percent of food bought",
+      "FIFO rotation moves older items to front when stocking new",
+      "Date labels on dry goods help track inventory at glance",
+      "Clear bins by category make expired items visible to remove"
+    ],
+    "search_terms": ["pantry organization", "food storage", "kitchen organization"],
+    "category": "organization"
+  },
+  {
+    "id": 3065,
+    "topic": "Spice rack lifespan ground spices 1 to 2 years for full flavor",
+    "hook": "Old spices lose flavor fast",
+    "key_points": [
+      "Ground spices retain peak flavor 1 to 2 years per culinary research",
+      "Whole spices last 3 to 4 years before flavor degrades noticeably",
+      "Rub small amount between fingers to test if smell is faint replace",
+      "Store in dark cabinet not above stove where heat degrades quality"
+    ],
+    "search_terms": ["spice storage", "kitchen pantry", "spice rack"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 3066,
+    "topic": "Stovetop grease cleaning baking soda paste lifts oils",
+    "hook": "Paste removes baked grease",
+    "key_points": [
+      "Mix 3 parts baking soda with 1 part water for cleaning paste",
+      "Apply to greasy stovetop and let sit 15 minutes to break down oils",
+      "Wipe with damp microfiber cloth not abrasive sponge",
+      "Glass tops need specific glass cooktop cleaner for stuck residue"
+    ],
+    "search_terms": ["stovetop cleaning", "kitchen grease", "baking soda cleaning"],
+    "category": "cleaning"
+  },
+  {
+    "id": 3067,
+    "topic": "Wood floor cleaning damp not wet to prevent warping",
+    "hook": "Wet mop ruins wood floors",
+    "key_points": [
+      "Excess water seeps into seams causing planks to warp and cup",
+      "Use damp microfiber mop wrung out until no drips",
+      "pH neutral wood floor cleaner does not strip finish",
+      "Avoid vinegar on polyurethane sealed wood it dulls finish over time"
+    ],
+    "search_terms": ["wood floor cleaning", "hardwood floor care", "floor maintenance"],
+    "category": "cleaning"
+  },
+  {
+    "id": 3068,
+    "topic": "Tile grout cleaning brush plus oxygen bleach paste",
+    "hook": "Oxygen bleach whitens grout safely",
+    "key_points": [
+      "Sodium percarbonate oxygen bleach safer than chlorine bleach",
+      "Mix powder with hot water into paste apply with grout brush",
+      "Let sit 10 minutes then scrub and rinse thoroughly",
+      "Reseal grout after cleaning to maintain stain resistance"
+    ],
+    "search_terms": ["grout cleaning", "tile cleaning", "bathroom tile"],
+    "category": "bathroom"
+  },
+  {
+    "id": 3069,
+    "topic": "Carpet cleaning water extraction yearly removes embedded soil",
+    "hook": "Annual deep clean extends carpet",
+    "key_points": [
+      "Carpet manufacturers require professional cleaning yearly to maintain warranty",
+      "Hot water extraction removes deep soil that vacuuming cannot",
+      "DIY rentals work for spot maintenance but pros have stronger extraction",
+      "Wait 4 to 6 hours for full dry to prevent mildew under pad"
+    ],
+    "search_terms": ["carpet cleaning", "deep clean home", "floor care"],
+    "category": "cleaning"
+  },
+  {
+    "id": 3070,
+    "topic": "Robot vacuum lidar mapping creates efficient cleaning paths",
+    "hook": "Lidar beats random bumping",
+    "key_points": [
+      "Lidar models map rooms creating systematic back and forth pattern",
+      "Older random bump models miss spots and take 3x longer",
+      "No-go zones in app prevent vacuum from entering pet bowl areas",
+      "Empty dustbin every 1 to 2 cleanings to maintain suction"
+    ],
+    "search_terms": ["robot vacuum", "smart home cleaning", "automated cleaning"],
+    "category": "smart-home"
+  },
+  {
+    "id": 3071,
+    "topic": "Smart leak sensor placement under sinks water heater washer",
+    "hook": "Sensors catch leaks fast",
+    "key_points": [
+      "Insurance data shows water damage averages thousands per claim",
+      "Place sensors at water heater base washer hose under all sinks",
+      "Wi-Fi sensors send phone alert immediately when wet",
+      "Some integrate with smart shutoff valves to stop water automatically"
+    ],
+    "search_terms": ["water leak sensor", "smart home sensor", "leak detection"],
+    "category": "smart-home"
+  },
+  {
+    "id": 3072,
+    "topic": "Compost bin kitchen scraps cuts trash 30 percent",
+    "hook": "Compost shrinks your trash",
+    "key_points": [
+      "EPA estimates food scraps account for 24 percent of landfill methane",
+      "Countertop bin with charcoal filter contains odor for 7 to 10 days",
+      "Combine kitchen scraps with browns leaves shredded paper for outdoor pile",
+      "Avoid meat dairy fats which attract pests and slow decomposition"
+    ],
+    "search_terms": ["composting home", "kitchen waste", "sustainable home"],
+    "category": "sustainable"
+  },
+  {
+    "id": 3073,
+    "topic": "Reusable beeswax wraps replace plastic wrap saves 50 dollars yearly",
+    "hook": "Beeswax wraps cut plastic waste",
+    "key_points": [
+      "Cotton coated in beeswax forms reusable food cover",
+      "Lasts about 1 year with hand washing and care",
+      "Saves around 50 dollars yearly versus disposable plastic wrap",
+      "Cannot use on raw meat due to washing temperature limits"
+    ],
+    "search_terms": ["beeswax food wrap", "sustainable kitchen", "plastic free"],
+    "category": "sustainable"
+  },
+  {
+    "id": 3074,
+    "topic": "Leaky faucet aerator rinse removes mineral clog in 5 minutes",
+    "hook": "Clean aerator restores flow",
+    "key_points": [
+      "Aerator screen at faucet tip clogs with sediment over months",
+      "Unscrew tip soak in vinegar 15 minutes brush off debris",
+      "Restores full GPM flow without plumber call",
+      "Inspect O-rings while apart and replace cracked ones"
+    ],
+    "search_terms": ["faucet aerator", "low water pressure", "plumbing maintenance"],
+    "category": "maintenance"
+  },
+  {
+    "id": 3075,
+    "topic": "Garage door opener safety eye sensor alignment after bumps",
+    "hook": "Bumped sensors stop closing",
+    "key_points": [
+      "Photo eye sensors must align within tolerance to permit closing",
+      "Indicator LED solid means aligned blinking means misaligned",
+      "Loosen wing nut tilt sensor until LED solid then tighten",
+      "Required by federal law on all openers manufactured after 1993"
+    ],
+    "search_terms": ["garage door opener", "garage door safety", "home maintenance"],
+    "category": "maintenance"
+  },
+  {
+    "id": 3076,
+    "topic": "Garden hose drain winter prevents split rubber and brass fittings",
+    "hook": "Drain hoses before first freeze",
+    "key_points": [
+      "Water expands 9 percent when freezing splitting rubber and metal",
+      "Disconnect at spigot drain by stretching downhill",
+      "Coil and store indoors or in shed under 32 degrees risk zones",
+      "Insulate exposed spigots with foam covers as backup protection"
+    ],
+    "search_terms": ["garden hose winter", "outdoor faucet", "winterizing home"],
+    "category": "garden"
+  },
+  {
+    "id": 3077,
+    "topic": "Indoor herb garden kitchen window basil mint thyme rosemary",
+    "hook": "Fresh herbs save grocery cash",
+    "key_points": [
+      "Most kitchen herbs need 6 hours direct sun south facing window ideal",
+      "Basil thrives at 70 to 75 degrees F indoor temperature",
+      "Mint grows aggressively keep separate from other herbs",
+      "Replace plants when they go to flower for continuous fresh harvest"
+    ],
+    "search_terms": ["indoor herb garden", "kitchen herbs", "windowsill garden"],
+    "category": "garden"
+  },
+  {
+    "id": 3078,
+    "topic": "Refrigerator water filter swap every 6 months by gallon usage",
+    "hook": "Filter past life means metal taste",
+    "key_points": [
+      "NSF certified filters rated by gallons not just months",
+      "Most home filters last 6 months or 200 to 300 gallons whichever first",
+      "Indicator lights track usage in many modern fridges",
+      "Old filter actually adds bacteria back into water once exhausted"
+    ],
+    "search_terms": ["fridge water filter", "drinking water home", "appliance filter"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 3079,
+    "topic": "Knife block hygiene crumbs bacteria require occasional deep clean",
+    "hook": "Knife block hides crumbs",
+    "key_points": [
+      "Wood knife blocks accumulate food debris in slots over time",
+      "Turn upside down shake out then vacuum slots with crevice tool",
+      "Disinfect with diluted vinegar swab once per quarter",
+      "Magnetic strip alternative eliminates slot bacteria entirely"
+    ],
+    "search_terms": ["knife block", "kitchen hygiene", "knife storage"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 3080,
+    "topic": "Dust accumulation behind TV reduces electronics lifespan",
+    "hook": "Dust shortens electronics life",
+    "key_points": [
+      "Dust insulates components causing them to run hotter than designed",
+      "Heat is leading cause of electronic component failure per industry data",
+      "Vacuum vents on TVs computers monthly with brush attachment",
+      "Avoid compressed air which can spin fans backward damaging bearings"
+    ],
+    "search_terms": ["electronics dust", "TV cleaning", "home cleaning"],
+    "category": "cleaning"
+  },
+  {
+    "id": 3081,
+    "topic": "Reusable water bottle saves 10 cents per use vs plastic",
+    "hook": "Reusable bottle pays itself fast",
+    "key_points": [
+      "Bottled water averages around 10 to 30 cents per bottle",
+      "Daily use saves 75 to 100 dollars yearly versus disposable",
+      "Stainless steel lasts a decade plus with daily use",
+      "Plastic bottles use 17 million barrels of oil yearly per Pacific Institute"
+    ],
+    "search_terms": ["reusable water bottle", "sustainable swap", "plastic free"],
+    "category": "sustainable"
+  },
+  {
+    "id": 3082,
+    "topic": "Bedroom temperature 65 degrees F best for deep sleep per studies",
+    "hook": "Cool room means deeper sleep",
+    "key_points": [
+      "Sleep Foundation research links 65 degrees F with optimal slow wave sleep",
+      "Body temperature drops at night cool room supports natural cycle",
+      "Below 60 or above 75 degrees disrupts sleep architecture measurably",
+      "Smart thermostat schedule sets cooler nighttime then warms before wake"
+    ],
+    "search_terms": ["bedroom temperature", "sleep environment", "smart thermostat"],
+    "category": "smart-home"
+  },
+  {
+    "id": 3083,
+    "topic": "Charging stations hub eliminates cord chaos in entry or kitchen",
+    "hook": "One spot ends cord mess",
+    "key_points": [
+      "Designated charging zone keeps cords contained and devices visible",
+      "USB hub with 4 to 6 ports replaces tangle of individual chargers",
+      "Cable management box hides power strip and excess cords",
+      "Train family to charge here not in bedrooms for sleep hygiene"
+    ],
+    "search_terms": ["charging station", "cord organization", "home tech"],
+    "category": "organization"
+  },
+  {
+    "id": 3084,
+    "topic": "Junk drawer reset start with empty group then store",
+    "hook": "Empty completely before sorting",
+    "key_points": [
+      "Empty drawer fully then sort items into categories",
+      "Add small bins or dividers to keep categories separated long term",
+      "Toss expired batteries adapters for devices you no longer own",
+      "Limit to 1 junk drawer per home not multiple chaos zones"
+    ],
+    "search_terms": ["drawer organization", "junk drawer", "home organization"],
+    "category": "organization"
+  },
+  {
+    "id": 3085,
+    "topic": "Cellular shades insulate windows up to R-7 in winter",
+    "hook": "Honeycomb shades trap warmth",
+    "key_points": [
+      "Cellular honeycomb shades create air pockets adding R-value to windows",
+      "DOE data shows up to 40 percent reduction in heat loss when used properly",
+      "Double cell shades insulate better than single cell",
+      "Top down bottom up models offer privacy plus light control"
+    ],
+    "search_terms": ["cellular shades", "window insulation", "energy saving"],
+    "category": "energy-saving"
+  },
+  {
+    "id": 3086,
+    "topic": "Door draft stopper seals 12 percent of air leak in average home",
+    "hook": "Draft stopper plugs energy leak",
+    "key_points": [
+      "DOE estimates door gaps account for around 11 percent of home air leakage",
+      "Door sweep seals bottom gap costs around 10 dollars",
+      "Weatherstripping V-strip on jamb stops side and top leaks",
+      "Felt fabric stopper for interior doors rooms with temperature variance"
+    ],
+    "search_terms": ["draft stopper", "door weatherstripping", "energy saving"],
+    "category": "energy-saving"
+  },
+  {
+    "id": 3087,
+    "topic": "Storm window plastic film insulates single pane saves 15 percent",
+    "hook": "Plastic film cuts cold drafts",
+    "key_points": [
+      "Heat shrink plastic creates dead air space between film and glass",
+      "DOE estimates 10 to 25 percent reduction in window heat loss",
+      "Apply with double-sided tape then heat with hair dryer to shrink",
+      "Costs around 15 dollars to insulate multiple windows"
+    ],
+    "search_terms": ["window plastic film", "winter insulation", "DIY weatherization"],
+    "category": "energy-saving"
+  },
+  {
+    "id": 3088,
+    "topic": "Outdoor kitchen camera pet door smart locks for full perimeter",
+    "hook": "Layered cameras cover blind spots",
+    "key_points": [
+      "Multiple camera angles eliminate blind spots in coverage",
+      "Smart lock with auto-relock prevents forgetting to lock door",
+      "Doorbell camera plus driveway camera covers entry vehicle approach",
+      "Local storage option avoids monthly subscription fees"
+    ],
+    "search_terms": ["smart home security", "security camera", "smart lock"],
+    "category": "smart-home"
+  },
+  {
+    "id": 3089,
+    "topic": "Basement humidity below 50 percent prevents mold and pests",
+    "hook": "Dry basements stop mold pests",
+    "key_points": [
+      "EPA recommends below 50 percent humidity to prevent mold growth",
+      "Dehumidifier sized in pints by square footage and dampness level",
+      "Empty water tank or pipe directly to floor drain for set-and-forget",
+      "Combined with sump pump prevents flooding from groundwater"
+    ],
+    "search_terms": ["basement humidity", "dehumidifier", "basement maintenance"],
+    "category": "maintenance"
+  }
+]

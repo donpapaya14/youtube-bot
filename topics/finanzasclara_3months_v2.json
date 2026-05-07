@@ -1,0 +1,1172 @@
+[
+  {
+    "id": 3000,
+    "topic": "EITC tax credit refund up to $7,830 missed by 20% eligible",
+    "hook": "Free $7,830 most workers skip",
+    "key_points": [
+      "IRS EITC max 2024: $7,830 for 3+ kids, $632 single no kids",
+      "IRS estimates 20% eligible workers don't claim EITC",
+      "Income cap 2024: $66,819 married 3+ kids",
+      "Refundable credit, paid even if zero tax owed"
+    ],
+    "search_terms": ["tax refund check", "irs forms", "money envelope"],
+    "category": "taxes"
+  },
+  {
+    "id": 3001,
+    "topic": "Child Tax Credit $2,000 per kid plus $1,700 refundable 2024",
+    "hook": "$2,000 per kid the IRS owes you",
+    "key_points": [
+      "IRS CTC 2024: $2,000 per qualifying child under 17",
+      "Refundable portion 2024: up to $1,700 per child",
+      "Phaseout starts $400K married, $200K single",
+      "Must have SSN issued before tax due date"
+    ],
+    "search_terms": ["family kids parents", "tax form 1040", "calculator money"],
+    "category": "taxes"
+  },
+  {
+    "id": 3002,
+    "topic": "HSA triple tax advantage beats 401k after age 65",
+    "hook": "HSA crushes 401k three ways",
+    "key_points": [
+      "IRS 2024 HSA limit: $4,150 single, $8,300 family, $1,000 catchup 55+",
+      "Triple tax-free: contribution, growth, qualified withdrawal",
+      "After 65: penalty-free withdrawal for any reason, taxed as income",
+      "Receipts kept years can be reimbursed tax-free anytime"
+    ],
+    "search_terms": ["health savings account", "doctor visit", "medical bill"],
+    "category": "savings"
+  },
+  {
+    "id": 3003,
+    "topic": "FSA grace period vs $640 carryover most workers waste",
+    "hook": "Don't lose your FSA money",
+    "key_points": [
+      "IRS 2024 FSA limit: $3,200 employee contribution",
+      "IRS 2024 carryover max: $640 to next plan year",
+      "Grace period option: 2.5 months extra to spend",
+      "Use-it-or-lose-it forfeits average $370 per worker (EBRI 2023)"
+    ],
+    "search_terms": ["pharmacy receipt", "calendar deadline", "money wasted"],
+    "category": "savings"
+  },
+  {
+    "id": 3004,
+    "topic": "Umbrella insurance $1M policy costs $200/year average",
+    "hook": "$1M coverage for $200 yearly",
+    "key_points": [
+      "III: $1M umbrella averages $150-$300/year",
+      "Adds liability over auto and home limits",
+      "Covers lawsuits exceeding base policy limits",
+      "Recommended: coverage equal to net worth"
+    ],
+    "search_terms": ["umbrella rain", "lawsuit gavel", "house car insurance"],
+    "category": "insurance"
+  },
+  {
+    "id": 3005,
+    "topic": "1031 exchange defers $0 taxes on real estate gain",
+    "hook": "Sell real estate, owe zero tax",
+    "key_points": [
+      "IRS Section 1031: defer capital gains on like-kind exchange",
+      "45 days to identify replacement property",
+      "180 days to close on new property",
+      "Restricted to investment/business property since 2018"
+    ],
+    "search_terms": ["house sale sign", "real estate keys", "calendar deadline"],
+    "category": "real-estate"
+  },
+  {
+    "id": 3006,
+    "topic": "Mortgage points cost 1% per point, save quarter rate",
+    "hook": "Mortgage points math most skip",
+    "key_points": [
+      "Freddie Mac: 1 point = 1% loan amount, ~0.25% rate cut",
+      "Break-even typically 5-7 years on 30-year mortgage",
+      "Points deductible if itemizing (IRS Pub 936)",
+      "Worth it only if staying past break-even"
+    ],
+    "search_terms": ["mortgage paperwork", "calculator interest", "house keys"],
+    "category": "real-estate"
+  },
+  {
+    "id": 3007,
+    "topic": "ARM vs fixed mortgage 5/1 starts 0.5% lower 2024",
+    "hook": "ARM vs fixed real numbers",
+    "key_points": [
+      "Freddie Mac May 2024: 30-yr fixed 7.02%, 5/1 ARM 6.49%",
+      "ARM rate adjusts after intro period (5 yrs in 5/1)",
+      "Cap structure: 2/2/5 typical (initial/periodic/lifetime)",
+      "70% ARMs in 2008 led to defaults per Fed Reserve"
+    ],
+    "search_terms": ["interest rate chart", "house mortgage", "graph rising"],
+    "category": "real-estate"
+  },
+  {
+    "id": 3008,
+    "topic": "529 plan vs Coverdell ESA $2,000 cap kills Coverdell",
+    "hook": "529 vs Coverdell knockout fact",
+    "key_points": [
+      "Coverdell ESA: $2,000/year max contribution per child (IRS)",
+      "529 plans: no federal contribution cap, $19K gift tax limit 2025",
+      "Both grow tax-free, qualified withdrawals tax-free",
+      "529 funds K-12 up to $10K/year (TCJA expansion)"
+    ],
+    "search_terms": ["college graduation", "savings piggy bank", "student textbook"],
+    "category": "savings"
+  },
+  {
+    "id": 3009,
+    "topic": "FAFSA assets parents counted 5.64% vs student 20%",
+    "hook": "FAFSA penalizes student savings 4x",
+    "key_points": [
+      "FAFSA EFC: parent assets count 5.64% max",
+      "Student-owned assets count 20% in EFC formula",
+      "529 owned by parent counted as parent asset",
+      "Retirement accounts excluded from FAFSA assets"
+    ],
+    "search_terms": ["college application", "financial aid form", "student dorm"],
+    "category": "savings"
+  },
+  {
+    "id": 3010,
+    "topic": "POD bank account skips probate beneficiary gets cash",
+    "hook": "POD beats trust for cash accounts",
+    "key_points": [
+      "FDIC: Payable-on-Death adds beneficiary, no probate",
+      "Beneficiary access immediate with death certificate",
+      "POD increases FDIC insurance to $250K per beneficiary",
+      "Free at most banks, no attorney needed"
+    ],
+    "search_terms": ["bank account paperwork", "family heritage", "signing document"],
+    "category": "estate"
+  },
+  {
+    "id": 3011,
+    "topic": "Beneficiary designation overrides will 100% of time",
+    "hook": "Will doesn't override beneficiary",
+    "key_points": [
+      "401k, IRA, life insurance pass by beneficiary form",
+      "ERISA mandates spouse as 401k beneficiary unless waived",
+      "Outdated beneficiaries cause $$ to ex-spouse (Egelhoff v Egelhoff 2001)",
+      "Review after marriage, divorce, birth, death"
+    ],
+    "search_terms": ["legal will document", "family signing paperwork", "lawyer office"],
+    "category": "estate"
+  },
+  {
+    "id": 3012,
+    "topic": "FBAR filing required $10K foreign accounts $10K penalty",
+    "hook": "Foreign account = $10K penalty risk",
+    "key_points": [
+      "FinCEN 114: required if foreign accounts >$10K aggregate",
+      "Non-willful penalty: $10K per violation per year",
+      "Willful penalty: greater of $100K or 50% account balance",
+      "Due April 15, automatic Oct 15 extension"
+    ],
+    "search_terms": ["passport globe", "international bank", "tax forms paper"],
+    "category": "taxes"
+  },
+  {
+    "id": 3013,
+    "topic": "TIPS vs I bonds Treasury inflation hedges 2024 rates",
+    "hook": "TIPS vs I bonds key tradeoff",
+    "key_points": [
+      "I bonds May 2024 rate: 4.28% (1.30% fixed + 2.96% inflation)",
+      "I bond limit: $10K/year per SSN at TreasuryDirect",
+      "TIPS: traded on secondary market, no purchase cap",
+      "TIPS taxed annually on inflation adjustment (phantom income)"
+    ],
+    "search_terms": ["treasury bond document", "inflation chart", "savings calculator"],
+    "category": "investing"
+  },
+  {
+    "id": 3014,
+    "topic": "Retiree side hustle Social Security earnings limit $22,320",
+    "hook": "Retirees: earn this much safely",
+    "key_points": [
+      "SSA 2024 earnings limit before FRA: $22,320",
+      "$1 reduction per $2 earned over limit before FRA",
+      "Year reaching FRA: $59,520 limit, $1 per $3 over",
+      "After FRA: no earnings limit at all"
+    ],
+    "search_terms": ["retired senior working", "social security card", "freelancer laptop"],
+    "category": "side-hustle"
+  },
+  {
+    "id": 3015,
+    "topic": "Student side hustle 1099 self-employment $400 threshold",
+    "hook": "$400 freelance triggers tax",
+    "key_points": [
+      "IRS: self-employment tax due if net >$400",
+      "SE tax rate: 15.3% (12.4% SS + 2.9% Medicare)",
+      "Schedule C profit subject to income tax + SE tax",
+      "Quarterly estimated taxes due if owing >$1,000"
+    ],
+    "search_terms": ["student laptop coffee", "freelance work", "tax forms desk"],
+    "category": "side-hustle"
+  },
+  {
+    "id": 3016,
+    "topic": "Stay-at-home parent spousal IRA $7,000 contribution 2024",
+    "hook": "No income? Still fund IRA",
+    "key_points": [
+      "IRS 2024 IRA limit: $7,000, $8,000 if 50+",
+      "Spousal IRA allows non-working spouse to contribute",
+      "Working spouse income must cover both contributions",
+      "Must file jointly to use spousal IRA"
+    ],
+    "search_terms": ["parent kids home", "couple savings money", "retirement piggybank"],
+    "category": "retirement"
+  },
+  {
+    "id": 3017,
+    "topic": "Salary negotiation script 7-15% raise average per ASA",
+    "hook": "Script that gets 7-15% raise",
+    "key_points": [
+      "Society for Human Resource Management: 84% employers expect negotiation",
+      "Robert Half 2023: avg raise from negotiation 7.4%",
+      "Open with: 'Based on market data and my contributions'",
+      "Cite Glassdoor/Levels.fyi data for role"
+    ],
+    "search_terms": ["business meeting handshake", "office negotiation", "money raise"],
+    "category": "negotiation"
+  },
+  {
+    "id": 3018,
+    "topic": "Medical bill negotiation 30-50% off if asked Bankrate",
+    "hook": "Medical bills cut 50% by asking",
+    "key_points": [
+      "Bankrate 2023: 70% who negotiate medical bills get reduction",
+      "Average reduction: 30-50% of original bill",
+      "Ask for itemized bill first, check CPT code errors",
+      "Hospital charity care: required if non-profit (501r)"
+    ],
+    "search_terms": ["hospital bill paper", "phone call negotiation", "doctor invoice"],
+    "category": "negotiation"
+  },
+  {
+    "id": 3019,
+    "topic": "Rent negotiation off-season Nov-Feb saves 5-10% Zillow",
+    "hook": "Negotiate rent November-February",
+    "key_points": [
+      "Zillow research: 50% more vacancies Nov-Feb",
+      "Landlords cut rent 5-10% in slow season",
+      "12-month leases beat 6-month rates by ~5%",
+      "Mention competing listings to strengthen ask"
+    ],
+    "search_terms": ["apartment lease keys", "rental contract signing", "winter snow building"],
+    "category": "negotiation"
+  },
+  {
+    "id": 3020,
+    "topic": "Internet bill 25% cut threatening cancellation per Consumer Reports",
+    "hook": "Cut internet bill 25% in 10 minutes",
+    "key_points": [
+      "Consumer Reports 2023: 51% who called got bill cut",
+      "Average savings: $40-$60 per month",
+      "Mention competitor pricing (Spectrum, Verizon Fios)",
+      "ACP discount $30/month phased out June 2024"
+    ],
+    "search_terms": ["wifi router internet", "phone call customer service", "monthly bill paper"],
+    "category": "negotiation"
+  },
+  {
+    "id": 3021,
+    "topic": "Car dealer negotiation invoice price plus 2-5% Edmunds",
+    "hook": "Pay invoice +3% for new car",
+    "key_points": [
+      "Edmunds: target 2-5% above dealer invoice",
+      "Negotiate out-the-door price, not monthly payment",
+      "Get pre-approved financing first as leverage",
+      "Holdback: ~2-3% manufacturer kickback to dealer"
+    ],
+    "search_terms": ["car dealership lot", "new car keys", "negotiation handshake"],
+    "category": "negotiation"
+  },
+  {
+    "id": 3022,
+    "topic": "Crypto cost basis tracking IRS Form 8949 every trade taxable",
+    "hook": "Every crypto trade is taxable",
+    "key_points": [
+      "IRS Notice 2014-21: crypto = property, not currency",
+      "Form 8949 + Schedule D required for each disposal",
+      "FIFO default unless specific identification chosen",
+      "1099-DA broker reporting starts 2025 (Form 1099-DA)"
+    ],
+    "search_terms": ["bitcoin crypto coin", "tax forms calculator", "trading screen chart"],
+    "category": "crypto"
+  },
+  {
+    "id": 3023,
+    "topic": "Crypto wash sale rule loophole closing soon",
+    "hook": "Crypto wash sale loophole alive",
+    "key_points": [
+      "IRS wash sale rule (Section 1091) applies to securities",
+      "Crypto = property, not security under current IRS rules",
+      "Bidens FY2024 budget proposed extending to crypto",
+      "Allows tax loss harvesting + immediate rebuy"
+    ],
+    "search_terms": ["crypto chart red", "tax law book", "trading exchange"],
+    "category": "crypto"
+  },
+  {
+    "id": 3024,
+    "topic": "Loss aversion 2x stronger than gain Kahneman Nobel",
+    "hook": "Losses hurt 2x more than gains",
+    "key_points": [
+      "Kahneman/Tversky 1979: loss aversion ratio 2.0-2.5",
+      "Won 2002 Nobel Prize in Economics",
+      "Causes investors hold losers too long, sell winners early",
+      "Disposition effect: 50% more likely to sell winners (Odean 1998)"
+    ],
+    "search_terms": ["scale balance", "brain decision", "stock chart loss"],
+    "category": "mindset"
+  },
+  {
+    "id": 3025,
+    "topic": "Mental accounting why $5 tax refund feels like windfall",
+    "hook": "Why refunds feel like free money",
+    "key_points": [
+      "Thaler 1985: mental accounting separates money pools",
+      "Tax refunds spent 2x faster than equal regular income",
+      "Average tax refund 2024: $3,138 (IRS data)",
+      "Adjust W-4 to keep money throughout year"
+    ],
+    "search_terms": ["tax refund check money", "shopping spree credit card", "calendar tax day"],
+    "category": "mindset"
+  },
+  {
+    "id": 3026,
+    "topic": "Opportunity Zone investment defers gain to 2027 tax",
+    "hook": "Defer gains to 2027 with OZ",
+    "key_points": [
+      "TCJA 2017 created Opportunity Zones (Section 1400Z-2)",
+      "Defer capital gains until Dec 31, 2026 sale",
+      "Hold QOF 10+ years: zero tax on appreciation",
+      "8,764 designated zones across US (IRS)"
+    ],
+    "search_terms": ["urban development construction", "investment building skyline", "tax planning"],
+    "category": "investing"
+  },
+  {
+    "id": 3027,
+    "topic": "R&D tax credit small business up to $500K against payroll",
+    "hook": "R&D credit hits payroll taxes",
+    "key_points": [
+      "IRC Section 41: R&D credit for qualified research",
+      "PATH Act 2015: startups offset payroll tax up to $250K",
+      "Inflation Reduction Act 2022: doubled to $500K",
+      "Available to companies with <$5M revenue, <5 yrs old"
+    ],
+    "search_terms": ["software developer coding", "research lab science", "small business office"],
+    "category": "taxes"
+  },
+  {
+    "id": 3028,
+    "topic": "Expat tax FEIE excludes $126,500 foreign earned income 2024",
+    "hook": "Expats: $126,500 tax-free yearly",
+    "key_points": [
+      "IRS FEIE 2024: $126,500 foreign earned income excluded",
+      "Physical presence test: 330 days outside US in 12 months",
+      "Bona fide residence test: full tax year abroad",
+      "Foreign housing exclusion adds $17,710 base 2024"
+    ],
+    "search_terms": ["passport stamps travel", "international flag world", "expat suitcase airport"],
+    "category": "taxes"
+  },
+  {
+    "id": 3029,
+    "topic": "I bond fixed rate 1.30% locks 30 years May 2024",
+    "hook": "I bonds lock 1.30% for 30 years",
+    "key_points": [
+      "TreasuryDirect May 2024 I bond: 1.30% fixed + 2.96% inflation",
+      "Fixed rate stays for 30-year life of bond",
+      "Combined rate adjusts every 6 months",
+      "Hold 5+ years to avoid 3-month interest penalty"
+    ],
+    "search_terms": ["treasury bond certificate", "savings calculator", "long term planning"],
+    "category": "investing"
+  },
+  {
+    "id": 3030,
+    "topic": "HSA invest balance vs cash 92% leave money in cash",
+    "hook": "92% waste HSA potential",
+    "key_points": [
+      "EBRI 2023: only 8% of HSA holders invest balance",
+      "Average HSA cash balance: $2,944 vs invested $14,973",
+      "Most HSAs allow investing once balance hits $1,000-$2,000",
+      "30-year HSA invested at 7%: $7,000 grows to $53,000"
+    ],
+    "search_terms": ["health savings money", "investment graph rising", "doctor stethoscope"],
+    "category": "savings"
+  },
+  {
+    "id": 3031,
+    "topic": "Saver's Credit up to $2,000 tax credit retirement contributions",
+    "hook": "$2,000 credit for retirement savers",
+    "key_points": [
+      "IRS Saver's Credit 2024: 50%, 20%, or 10% of contributions",
+      "Max credit: $1,000 single, $2,000 married filing jointly",
+      "AGI cap 2024: $76,500 married, $38,250 single for 50% credit",
+      "Only 12% eligible claim it (Transamerica 2023)"
+    ],
+    "search_terms": ["retirement piggy bank", "tax credit money", "couple planning"],
+    "category": "taxes"
+  },
+  {
+    "id": 3032,
+    "topic": "401k Roth vs Traditional break-even tax bracket math",
+    "hook": "Roth vs Traditional real math",
+    "key_points": [
+      "Vanguard: Roth wins if retirement bracket equals or exceeds current",
+      "Traditional saves at marginal, withdraws at average rate",
+      "IRS 2024 401k limit: $23,000, $30,500 if 50+",
+      "Tax brackets stay 10-37% through 2025 unless TCJA expires"
+    ],
+    "search_terms": ["retirement planning calculator", "tax bracket chart", "401k statement"],
+    "category": "retirement"
+  },
+  {
+    "id": 3033,
+    "topic": "Disability insurance 1 in 4 workers will need it SSA",
+    "hook": "1 in 4 will need disability",
+    "key_points": [
+      "SSA: 25% of 20-year-olds will have disability before retirement",
+      "Average SSDI benefit 2024: $1,537/month",
+      "Long-term disability private: 60% income replacement typical",
+      "Employer-paid LTD benefits are taxable as income"
+    ],
+    "search_terms": ["wheelchair injury", "doctor patient hospital", "insurance documents"],
+    "category": "insurance"
+  },
+  {
+    "id": 3034,
+    "topic": "Term vs whole life insurance 90% lapse before payout",
+    "hook": "Whole life: 90% lapse before payout",
+    "key_points": [
+      "Society of Actuaries: 88% whole life policies lapse",
+      "Term life cost: ~10x cheaper than whole for same coverage",
+      "Whole life avg commission: 50-100% first year premium",
+      "30-yr term male age 35: $30/month for $500K (Quotacy)"
+    ],
+    "search_terms": ["life insurance policy", "family safety", "calculator finance"],
+    "category": "insurance"
+  },
+  {
+    "id": 3035,
+    "topic": "Auto insurance shop every 6 months saves $400 III",
+    "hook": "Switch insurer save $400/year",
+    "key_points": [
+      "III: shopping cuts auto insurance avg $384/year",
+      "Bundling home+auto: 5-25% discount typical",
+      "Credit-based insurance score affects rate (banned in CA, HI, MA)",
+      "Telematics programs (Drivewise, Snapshot) save up to 30%"
+    ],
+    "search_terms": ["car insurance keys", "money savings", "comparison shopping"],
+    "category": "insurance"
+  },
+  {
+    "id": 3036,
+    "topic": "Rental property depreciation 27.5 years residential paper loss",
+    "hook": "Real estate paper loss saves tax",
+    "key_points": [
+      "IRS: residential rental depreciates over 27.5 years (MACRS)",
+      "$275K building = $10K/year depreciation deduction",
+      "Cost segregation accelerates 5/15/27.5 yr buckets",
+      "Depreciation recapture taxed 25% on sale"
+    ],
+    "search_terms": ["rental house keys", "tax deduction calculator", "real estate paperwork"],
+    "category": "real-estate"
+  },
+  {
+    "id": 3037,
+    "topic": "House hacking duplex FHA 3.5% down owner-occupied",
+    "hook": "FHA duplex hack: 3.5% down",
+    "key_points": [
+      "FHA loan: 3.5% down owner-occupied 1-4 units",
+      "FHA loan limit 2024: $498,257-$1,149,825 by county",
+      "Must occupy 1 unit 12 months minimum",
+      "Rental income from other units counts toward qualifying"
+    ],
+    "search_terms": ["duplex apartment building", "house keys mortgage", "rental income"],
+    "category": "real-estate"
+  },
+  {
+    "id": 3038,
+    "topic": "REIT dividends 90% income required no corporate tax",
+    "hook": "REITs pay 90% as dividends",
+    "key_points": [
+      "IRC 856: REITs must distribute 90% taxable income",
+      "REIT dividends avoid corporate-level tax",
+      "Qualified REIT dividends 20% deduction (199A) through 2025",
+      "Vanguard VNQ avg yield 2024: ~3.8%"
+    ],
+    "search_terms": ["building skyline", "dividend payment", "real estate investment"],
+    "category": "investing"
+  },
+  {
+    "id": 3039,
+    "topic": "Treasury Direct vs brokerage T-bills 4.5%+ no state tax",
+    "hook": "T-bills: zero state tax",
+    "key_points": [
+      "T-bills exempt from state and local income tax",
+      "4-week T-bill May 2024: ~5.27% yield",
+      "TreasuryDirect minimum: $100 per bill",
+      "Auctions: 4, 8, 13, 17, 26, 52 weeks"
+    ],
+    "search_terms": ["treasury bond document", "bank yield", "investment certificate"],
+    "category": "investing"
+  },
+  {
+    "id": 3040,
+    "topic": "Backdoor Roth IRA $7,000 high earners no income limit",
+    "hook": "Backdoor Roth: no income cap",
+    "key_points": [
+      "Roth IRA 2024 phaseout: $161K single, $240K married",
+      "Backdoor: contribute traditional non-deductible, convert to Roth",
+      "Pro-rata rule: existing pre-tax IRA balance triggers tax",
+      "Mega backdoor: up to $46K via after-tax 401k contributions"
+    ],
+    "search_terms": ["retirement account paperwork", "money planning calculator", "wealthy executive"],
+    "category": "retirement"
+  },
+  {
+    "id": 3041,
+    "topic": "QCD age 70.5 IRA donate up to $105,000 skip income 2024",
+    "hook": "70.5+ donate IRA tax-free",
+    "key_points": [
+      "IRS QCD limit 2024: $105,000 from IRA to qualified charity",
+      "Counts toward RMD, excludes from AGI",
+      "Available age 70.5+ even though RMDs now 73",
+      "Direct trustee-to-charity transfer required"
+    ],
+    "search_terms": ["senior charity donation", "retirement giving", "church fund"],
+    "category": "retirement"
+  },
+  {
+    "id": 3042,
+    "topic": "RMD age 73 now 75 by 2033 SECURE 2.0 changes",
+    "hook": "RMD age moved to 73 then 75",
+    "key_points": [
+      "SECURE 2.0 Act 2022: RMD age 73 starting 2023",
+      "RMD age moves to 75 for those born after 1959",
+      "RMD penalty cut from 50% to 25% (10% if corrected)",
+      "Roth 401k: no RMDs starting 2024"
+    ],
+    "search_terms": ["retirement age planning", "calendar deadline", "senior financial"],
+    "category": "retirement"
+  },
+  {
+    "id": 3043,
+    "topic": "Inherited IRA 10-year rule SECURE Act killed stretch",
+    "hook": "10-year rule killed stretch IRA",
+    "key_points": [
+      "SECURE Act 2019: most non-spouse beneficiaries empty in 10 years",
+      "Eligible designated beneficiaries can still stretch",
+      "IRS Notice 2024-35: no penalties for missed RMDs 2024",
+      "Spouse can roll inherited to own IRA"
+    ],
+    "search_terms": ["inheritance documents", "family lawyer", "estate planning"],
+    "category": "estate"
+  },
+  {
+    "id": 3044,
+    "topic": "Estate tax exemption $13.61M 2024 cliff back to $7M 2026",
+    "hook": "Estate exemption halves in 2026",
+    "key_points": [
+      "IRS estate exemption 2024: $13.61M per person",
+      "TCJA sunsets Dec 31, 2025: drops to ~$7M (inflation adjusted)",
+      "Married couples: 2x exemption with portability",
+      "Top federal estate tax rate: 40%"
+    ],
+    "search_terms": ["estate planning lawyer", "wealthy mansion", "calendar deadline"],
+    "category": "estate"
+  },
+  {
+    "id": 3045,
+    "topic": "Step-up basis erases capital gains heirs zero tax",
+    "hook": "Death erases capital gains",
+    "key_points": [
+      "IRC 1014: inherited assets get stepped-up basis",
+      "Heir's basis = fair market value at death",
+      "Wiped capital gains taxed at 0% effectively",
+      "Biden 2021 budget proposed eliminating, didn't pass"
+    ],
+    "search_terms": ["inheritance family", "stock chart growth", "estate documents"],
+    "category": "estate"
+  },
+  {
+    "id": 3046,
+    "topic": "Gift tax annual exclusion $19,000 per person 2025",
+    "hook": "Gift $19,000 yearly tax-free",
+    "key_points": [
+      "IRS 2025 annual gift exclusion: $19,000 per recipient",
+      "Couples can gift $38,000 per recipient (split gift)",
+      "No reporting unless exceeds annual exclusion",
+      "Lifetime gift exemption 2025: $13.99M"
+    ],
+    "search_terms": ["gift wrapped money", "family generations", "tax form paper"],
+    "category": "estate"
+  },
+  {
+    "id": 3047,
+    "topic": "Solo 401k self-employed $69,000 limit 2024 vs SEP $69,000",
+    "hook": "Solo 401k beats SEP IRA",
+    "key_points": [
+      "IRS 2024 Solo 401k: $69,000 ($76,500 if 50+)",
+      "SEP IRA 2024: lesser of 25% comp or $69,000",
+      "Solo 401k allows Roth + after-tax contributions",
+      "Solo 401k: loans up to $50K, SEP IRA: no loans"
+    ],
+    "search_terms": ["entrepreneur freelancer", "retirement savings", "self employed laptop"],
+    "category": "retirement"
+  },
+  {
+    "id": 3048,
+    "topic": "IRMAA Medicare premium surcharge $103.40 to $594 2024",
+    "hook": "Medicare punishes high income",
+    "key_points": [
+      "Medicare Part B 2024 base: $174.70/month",
+      "IRMAA top tier 2024: $594/month single >$500K MAGI",
+      "Based on 2-year lookback (2024 IRMAA uses 2022 income)",
+      "Roth conversions, capital gains can trigger IRMAA"
+    ],
+    "search_terms": ["medicare card senior", "doctor bill", "tax bracket chart"],
+    "category": "retirement"
+  },
+  {
+    "id": 3049,
+    "topic": "Medicare Advantage vs Medigap 51% choose MA per KFF",
+    "hook": "MA vs Medigap critical choice",
+    "key_points": [
+      "KFF 2023: 51% Medicare beneficiaries on Advantage",
+      "MA: $0 premium common but network restrictions",
+      "Medigap: higher premium, see any Medicare provider",
+      "6-month Medigap open enrollment: no medical underwriting"
+    ],
+    "search_terms": ["medicare card paperwork", "doctor patient hospital", "senior decision"],
+    "category": "retirement"
+  },
+  {
+    "id": 3050,
+    "topic": "Long-term care 70% over 65 will need it HHS",
+    "hook": "70% over 65 need long-term care",
+    "key_points": [
+      "HHS: 70% of 65+ will need long-term care",
+      "Genworth 2023: nursing home avg $116K/year private",
+      "Medicaid covers after spend-down to ~$2K assets",
+      "LTC insurance avg cost: $2,220/year age 55 male"
+    ],
+    "search_terms": ["nursing home elderly", "caregiver senior", "hospital bed"],
+    "category": "insurance"
+  },
+  {
+    "id": 3051,
+    "topic": "Bunching deductions QCD strategy doubles standard threshold",
+    "hook": "Bunch deductions every 2 years",
+    "key_points": [
+      "IRS 2024 standard deduction: $14,600 single, $29,200 married",
+      "Bunching: pile 2 years charity into 1 to itemize",
+      "Donor-advised fund accelerates deduction",
+      "Schwab Charitable: 50% of contributions from bunching"
+    ],
+    "search_terms": ["calendar planning", "charity donation", "tax forms calculator"],
+    "category": "taxes"
+  },
+  {
+    "id": 3052,
+    "topic": "Medicare HSA prohibited 6-month lookback enrollment trap",
+    "hook": "Medicare kills HSA contributions",
+    "key_points": [
+      "IRS Pub 969: Medicare enrollment ends HSA contributions",
+      "Part A retroactive 6 months from application",
+      "6% excise tax on excess HSA after Medicare",
+      "Delay Social Security to keep HSA-eligible"
+    ],
+    "search_terms": ["medicare card senior", "savings account paper", "retirement decision"],
+    "category": "savings"
+  },
+  {
+    "id": 3053,
+    "topic": "FDIC vs SIPC insurance differ what each covers",
+    "hook": "FDIC vs SIPC: huge difference",
+    "key_points": [
+      "FDIC: $250K per depositor per bank per category",
+      "SIPC: $500K per investor, $250K cash sublimit",
+      "SIPC covers missing assets, not market losses",
+      "Brokered CDs: FDIC at issuing bank, not broker"
+    ],
+    "search_terms": ["bank vault safety", "stock certificate", "investment paperwork"],
+    "category": "banking"
+  },
+  {
+    "id": 3054,
+    "topic": "High-yield savings 4.5%+ vs traditional bank 0.45% Bankrate",
+    "hook": "Banks pay 0.45%, online 4.5%+",
+    "key_points": [
+      "FDIC May 2024 national avg savings: 0.45%",
+      "Top HYSA May 2024: 4.85% (Bankrate weekly)",
+      "On $10K: $445 vs $45 yearly difference",
+      "All FDIC-insured equally up to $250K"
+    ],
+    "search_terms": ["bank savings money", "interest rate chart", "online banking phone"],
+    "category": "savings"
+  },
+  {
+    "id": 3055,
+    "topic": "Series I bond gift trick beat $10K limit",
+    "hook": "I bond hack beats $10K cap",
+    "key_points": [
+      "TreasuryDirect: $10K I bond yearly purchase limit",
+      "Gift box: buy unlimited gifts, deliver in future years",
+      "Recipient counts in delivery year against their $10K",
+      "Spouse strategy: each buys $10K + gifts"
+    ],
+    "search_terms": ["gift wrapped money", "treasury bond", "couple planning savings"],
+    "category": "savings"
+  },
+  {
+    "id": 3056,
+    "topic": "Credit utilization sweet spot under 10% boosts score",
+    "hook": "Credit utilization under 10% wins",
+    "key_points": [
+      "FICO: utilization 30% of credit score weight",
+      "Sub-10% optimal per Experian Boost data",
+      "Per-card AND total utilization matter",
+      "Statement balance reported, not current balance"
+    ],
+    "search_terms": ["credit card balance", "fico score chart", "online banking"],
+    "category": "credit"
+  },
+  {
+    "id": 3057,
+    "topic": "Authorized user piggyback parent score boost no payments",
+    "hook": "Add kid to your card",
+    "key_points": [
+      "FICO 8/9: authorized user history reports to bureaus",
+      "Adds full account history to user's report",
+      "No payment liability for authorized user",
+      "Card issuer must report (Amex, Chase, Citi do)"
+    ],
+    "search_terms": ["family credit card", "parent teaching child", "wallet money"],
+    "category": "credit"
+  },
+  {
+    "id": 3058,
+    "topic": "Credit freeze free since 2018 stops new account fraud",
+    "hook": "Free credit freeze stops fraud",
+    "key_points": [
+      "Economic Growth Act 2018: free credit freezes nationwide",
+      "Freeze each bureau separately: Equifax, Experian, TransUnion",
+      "Doesn't affect credit score or existing accounts",
+      "Lift online instantly when applying for credit"
+    ],
+    "search_terms": ["credit report paperwork", "fraud prevention", "lock security"],
+    "category": "credit"
+  },
+  {
+    "id": 3059,
+    "topic": "Debt avalanche vs snowball math wins, behavior matters",
+    "hook": "Avalanche math vs snowball brain",
+    "key_points": [
+      "Avalanche: highest APR first = least interest paid",
+      "Snowball: smallest balance first = momentum/dopamine",
+      "Kellogg 2012 study: snowball completes more often",
+      "Avg US household credit card debt 2024: $7,951 (TransUnion)"
+    ],
+    "search_terms": ["credit card debt pile", "calculator finance", "person planning"],
+    "category": "debt"
+  },
+  {
+    "id": 3060,
+    "topic": "Student loan SAVE plan 5% income discretionary 2024",
+    "hook": "SAVE caps loans at 5% income",
+    "key_points": [
+      "SAVE plan 2024: undergrad 5% discretionary income (was 10%)",
+      "225% FPL protected from payment ($32,800 single 2024)",
+      "Forgiveness 10-25 years based on original balance",
+      "$0 payment if income under threshold"
+    ],
+    "search_terms": ["student debt graduation", "calculator paperwork", "diploma cap"],
+    "category": "debt"
+  },
+  {
+    "id": 3061,
+    "topic": "PSLF 120 payments forgiveness gov/non-profit 1.06M approved",
+    "hook": "10 years gov work = forgive",
+    "key_points": [
+      "Dept of Ed: 1.06M+ approved PSLF as of May 2024",
+      "120 qualifying monthly payments required",
+      "Must work full-time gov or 501(c)(3) non-profit",
+      "Direct loans only, certify employment yearly"
+    ],
+    "search_terms": ["government building", "teacher classroom", "nurse hospital"],
+    "category": "debt"
+  },
+  {
+    "id": 3062,
+    "topic": "0% balance transfer 21 months Citi Diamond + 3% fee",
+    "hook": "21 months 0% interest tradeoff",
+    "key_points": [
+      "Citi Diamond 2024: 21 months 0% APR balance transfers",
+      "Transfer fee: typically 3-5% of amount",
+      "Hard inquiry temporarily drops score 5-10 points",
+      "Avg credit card APR May 2024: 22.63% (Fed)"
+    ],
+    "search_terms": ["credit card transfer", "calendar planning", "calculator interest"],
+    "category": "debt"
+  },
+  {
+    "id": 3063,
+    "topic": "Personal loan 401k loan: 5-year repay job loss = full tax",
+    "hook": "401k loan = job loss disaster",
+    "key_points": [
+      "IRS: 401k loan limit lesser of $50K or 50% vested",
+      "5-year repay period (longer for home purchase)",
+      "Job loss: due 60 days post-tax filing or treated as distribution",
+      "Distribution: ordinary income tax + 10% if under 59.5"
+    ],
+    "search_terms": ["401k retirement statement", "job loss empty office", "calculator tax"],
+    "category": "retirement"
+  },
+  {
+    "id": 3064,
+    "topic": "Inflation breakeven 5-year TIPS spread Treasury market signal",
+    "hook": "Market predicts inflation here",
+    "key_points": [
+      "5-yr breakeven = 5-yr nominal yield - 5-yr TIPS yield",
+      "FRED data: April 2024 breakeven ~2.4%",
+      "Forward-looking inflation expectation (not actual)",
+      "Bond market consensus, watched by Fed"
+    ],
+    "search_terms": ["inflation chart rising", "treasury bond paper", "stock market screen"],
+    "category": "inflation"
+  },
+  {
+    "id": 3065,
+    "topic": "Commodity ETF inflation hedge gold 75% year correlation",
+    "hook": "Gold tracks inflation 75%",
+    "key_points": [
+      "Erb/Harvey 2013: gold 0.34 correlation to inflation short-term",
+      "WGC: long-term gold near-zero correlation to stocks/bonds",
+      "GLD ETF expense ratio: 0.40%",
+      "Gold avg annual return 1971-2023: ~7.7%"
+    ],
+    "search_terms": ["gold bars stack", "commodity chart", "inflation hedge"],
+    "category": "inflation"
+  },
+  {
+    "id": 3066,
+    "topic": "Anchoring bias real estate listings price perception",
+    "hook": "First number anchors brain hard",
+    "key_points": [
+      "Tversky/Kahneman 1974: anchoring shifts estimates 30-50%",
+      "Northcraft/Neale 1987: real estate agents anchored by listing",
+      "Counter: research independent comps before viewing",
+      "Apply to salary negotiation: state range first"
+    ],
+    "search_terms": ["price tag house", "negotiation handshake", "scale balance"],
+    "category": "mindset"
+  },
+  {
+    "id": 3067,
+    "topic": "Sunk cost fallacy 80% finish bad investments per studies",
+    "hook": "Don't throw good money after bad",
+    "key_points": [
+      "Arkes/Blumer 1985: sunk costs increase persistence",
+      "Past money paid is irrelevant to future decisions",
+      "Common in stock holding, home renovation overruns",
+      "Question: 'Would I buy this today at current price?'"
+    ],
+    "search_terms": ["money down drain", "stuck construction", "decision fork road"],
+    "category": "mindset"
+  },
+  {
+    "id": 3068,
+    "topic": "Recency bias investors chase 1-yr returns Morningstar gap",
+    "hook": "Chasing returns costs 1.7%/year",
+    "key_points": [
+      "Morningstar 2023 'Mind the Gap': investor returns 1.7% below funds",
+      "Caused by buying after gains, selling after losses",
+      "Dollar-cost averaging removes timing temptation",
+      "Worst case: target-date funds gap only 0.7%"
+    ],
+    "search_terms": ["stock chart up down", "investor screen worried", "arrow trend"],
+    "category": "mindset"
+  },
+  {
+    "id": 3069,
+    "topic": "Confirmation bias killing portfolio diversification active funds",
+    "hook": "Confirmation bias kills returns",
+    "key_points": [
+      "Wason 1960: people seek info confirming beliefs 4:1",
+      "Investors hold underperforming stocks reading bull cases",
+      "S&P 500 SPIVA 2023: 88% large-cap funds lag index 15 yrs",
+      "Solution: pre-write sell criteria before buying"
+    ],
+    "search_terms": ["mirror reflection", "stock chart confused", "research papers"],
+    "category": "mindset"
+  },
+  {
+    "id": 3070,
+    "topic": "TFSA Canadian equivalent Americans miss Roth IRA",
+    "hook": "Roth IRA = American TFSA",
+    "key_points": [
+      "Roth IRA 2024 limit: $7,000 ($8,000 if 50+)",
+      "Roth income phaseout: $146K-$161K single 2024",
+      "Tax-free growth + tax-free qualified withdrawals",
+      "Contribution withdrawn anytime, no penalty"
+    ],
+    "search_terms": ["retirement account paper", "tax-free icon", "savings growth chart"],
+    "category": "retirement"
+  },
+  {
+    "id": 3071,
+    "topic": "Deferred comp NQDC top 5% earners no annual limit",
+    "hook": "NQDC: no contribution limit",
+    "key_points": [
+      "PLANSPONSOR 2023: 84% Fortune 500 offer NQDC",
+      "Section 409A governs distribution timing rules",
+      "Subject to employer's general creditors (no protection)",
+      "Election irrevocable, must be made year prior"
+    ],
+    "search_terms": ["executive office desk", "retirement planning paper", "wealthy investment"],
+    "category": "retirement"
+  },
+  {
+    "id": 3072,
+    "topic": "Cash balance plan owner $300K+ deduction over 50",
+    "hook": "Boomer owners: $300K deduction",
+    "key_points": [
+      "IRS: cash balance plan limit ~$3.5M lifetime",
+      "Annual contribution age 60+: $300K+ possible",
+      "Combine with 401k for higher deductions",
+      "Required actuarial certification yearly"
+    ],
+    "search_terms": ["business owner office", "retirement planning calculator", "cash money stacks"],
+    "category": "retirement"
+  },
+  {
+    "id": 3073,
+    "topic": "Backdoor Roth pro-rata trap pre-tax IRA balance kills it",
+    "hook": "Pre-tax IRA breaks backdoor Roth",
+    "key_points": [
+      "IRS Form 8606: pro-rata rule across all traditional IRAs",
+      "$94K pre-tax + $6K after-tax = 94% conversion taxable",
+      "Workaround: roll pre-tax IRA into 401k first",
+      "Calculated Dec 31 of conversion year"
+    ],
+    "search_terms": ["retirement account confusion", "tax forms calculator", "money decision"],
+    "category": "retirement"
+  },
+  {
+    "id": 3074,
+    "topic": "Mega backdoor Roth $46K after-tax 401k convert",
+    "hook": "Mega backdoor adds $46K Roth",
+    "key_points": [
+      "IRS 2024 total 401k limit: $69,000",
+      "Subtract $23K employee + $11K match = $35K after-tax room",
+      "Convert after-tax to Roth via in-plan or Roth IRA",
+      "Plan must allow after-tax contributions (~50% do per Vanguard)"
+    ],
+    "search_terms": ["wealthy executive office", "retirement planning", "calculator money"],
+    "category": "retirement"
+  },
+  {
+    "id": 3075,
+    "topic": "Tax loss harvesting $3,000 ordinary income offset annually",
+    "hook": "$3,000 yearly tax-deductible loss",
+    "key_points": [
+      "IRS: $3,000 capital losses offset ordinary income/year",
+      "Excess carried forward indefinitely",
+      "Wash sale: can't rebuy substantially identical 30 days",
+      "Robo-advisors automate (Betterment, Wealthfront)"
+    ],
+    "search_terms": ["stock chart red loss", "tax deduction", "calculator portfolio"],
+    "category": "investing"
+  },
+  {
+    "id": 3076,
+    "topic": "Direct indexing $100K+ minimum tax-loss harvest stocks",
+    "hook": "Direct indexing beats ETF tax",
+    "key_points": [
+      "Owning individual stocks vs single ETF wrapper",
+      "Harvest losses on individual names while index up",
+      "Vanguard/Schwab/Fidelity: $100K-$250K minimums",
+      "Fees ~0.20-0.40% vs 0.03-0.10% index ETFs"
+    ],
+    "search_terms": ["stock chart individual", "wealthy portfolio screen", "tax planning"],
+    "category": "investing"
+  },
+  {
+    "id": 3077,
+    "topic": "Treasury ladder 3-6-12 month rungs reinvest each maturity",
+    "hook": "Treasury ladder beats CD ladder",
+    "key_points": [
+      "T-bills exempt from state/local tax (CDs aren't)",
+      "TreasuryDirect: $100 minimum per bill",
+      "Maturity laddering: 4, 13, 26, 52 weeks rungs",
+      "Auto-reinvest available at TreasuryDirect"
+    ],
+    "search_terms": ["ladder steps", "treasury bond paper", "calendar planning"],
+    "category": "investing"
+  },
+  {
+    "id": 3078,
+    "topic": "Dividend growth investing 8% annual hike beats inflation",
+    "hook": "Dividend growth beats inflation",
+    "key_points": [
+      "S&P Dividend Aristocrats: 25+ yrs dividend increases",
+      "VIG ETF avg 5-yr dividend growth: ~8% annually",
+      "Reinvested dividends 84% S&P total return 1960-2023",
+      "Qualified dividends taxed 0/15/20% (long-term cap gains rates)"
+    ],
+    "search_terms": ["dividend payment money", "stock chart growth", "compound interest"],
+    "category": "investing"
+  },
+  {
+    "id": 3079,
+    "topic": "Bond duration 10-yr Treasury rate up 1% bond down 8.5%",
+    "hook": "Duration: bonds bleed when rates rise",
+    "key_points": [
+      "Modified duration approximates % price change per 1% yield",
+      "10-yr Treasury duration ~8.5 years currently",
+      "TLT 2022: -31% as rates spiked",
+      "Short-term bonds (BIL) less duration risk"
+    ],
+    "search_terms": ["bond chart falling", "interest rate up", "treasury document"],
+    "category": "investing"
+  },
+  {
+    "id": 3080,
+    "topic": "Health share ministries not insurance no ACA protection",
+    "hook": "Health shares ARE NOT insurance",
+    "key_points": [
+      "NAIC: health sharing ministries not regulated as insurance",
+      "No guarantee of payment, voluntary sharing",
+      "Pre-existing conditions often not covered",
+      "ACA exemption removed 2019, no penalty for none"
+    ],
+    "search_terms": ["health insurance card", "doctor patient hospital", "warning sign"],
+    "category": "insurance"
+  },
+  {
+    "id": 3081,
+    "topic": "Travel medical insurance Medicare zero abroad coverage gap",
+    "hook": "Medicare doesn't cover abroad",
+    "key_points": [
+      "Medicare: virtually no coverage outside US",
+      "Medigap C/D/F/G/M/N: 80% emergency abroad up to $50K lifetime",
+      "Travel medical insurance: $1-$5/day typical age 30",
+      "Evacuation can cost $50K-$250K"
+    ],
+    "search_terms": ["passport travel airport", "doctor international", "ambulance helicopter"],
+    "category": "insurance"
+  },
+  {
+    "id": 3082,
+    "topic": "Renter insurance $15/month covers $30K stuff theft fire",
+    "hook": "Renter insurance: $15 saves thousands",
+    "key_points": [
+      "III: avg renters insurance $173/year ($14/month)",
+      "Typical: $30K personal property + $100K liability",
+      "Replacement cost vs actual cash value matters",
+      "57% renters skip it (Insurance Information Institute)"
+    ],
+    "search_terms": ["apartment rental keys", "personal belongings", "fire damage"],
+    "category": "insurance"
+  },
+  {
+    "id": 3083,
+    "topic": "Cell phone insurance scam vs credit card protection",
+    "hook": "Phone insurance: usually scam",
+    "key_points": [
+      "Carrier insurance: $7-$17/month + $99-$249 deductible",
+      "Chase Sapphire/Amex Plat: phone protection if billed on card",
+      "Coverage: $800/claim, 2 claims/12 months typical",
+      "$50-$100 deductible vs $250 carrier"
+    ],
+    "search_terms": ["broken phone screen", "credit card swipe", "warranty paper"],
+    "category": "insurance"
+  },
+  {
+    "id": 3084,
+    "topic": "Auto extended warranty 55% never used Consumer Reports",
+    "hook": "Extended warranty: 55% waste money",
+    "key_points": [
+      "Consumer Reports: 55% buyers never use extended warranty",
+      "Avg cost: $1,200-$2,500 with high markup",
+      "Median repair under warranty: $700",
+      "Negotiable: refuse first offer always"
+    ],
+    "search_terms": ["car repair shop", "warranty paperwork", "money saving"],
+    "category": "insurance"
+  },
+  {
+    "id": 3085,
+    "topic": "Roth conversion ladder early retirement bridge 5-year rule",
+    "hook": "Roth ladder bridges early retire",
+    "key_points": [
+      "IRS: 5-year wait per conversion before tax-free withdrawal",
+      "Convert $40K traditional to Roth annually starting age 45",
+      "Withdraw conversion principal age 50+ tax-free",
+      "Bridge until 59.5 normal retirement access"
+    ],
+    "search_terms": ["early retirement beach", "calendar planning years", "ladder steps"],
+    "category": "retirement"
+  },
+  {
+    "id": 3086,
+    "topic": "72(t) SEPP early IRA withdraw avoid 10% penalty",
+    "hook": "Pre-59.5 IRA without penalty",
+    "key_points": [
+      "IRC 72(t): substantially equal periodic payments",
+      "3 IRS methods: RMD, fixed amortization, fixed annuitization",
+      "Must continue 5 years OR until 59.5 (whichever longer)",
+      "Modify early: 10% penalty + interest retroactive"
+    ],
+    "search_terms": ["retirement money early", "calendar age planning", "calculator finance"],
+    "category": "retirement"
+  },
+  {
+    "id": 3087,
+    "topic": "ABLE account disability $18K/year don't lose Medicaid",
+    "hook": "Disabled save without losing aid",
+    "key_points": [
+      "IRS ABLE: disabled save up to $18K/year 2024",
+      "Disability before age 26 (becoming 46 in 2026)",
+      "Up to $100K excluded from SSI asset limit",
+      "Tax-free growth, qualified disability expenses"
+    ],
+    "search_terms": ["wheelchair accessibility", "savings account paperwork", "family support"],
+    "category": "savings"
+  },
+  {
+    "id": 3088,
+    "topic": "Special needs trust supplemental SSI Medicaid preserved",
+    "hook": "SNT preserves disability benefits",
+    "key_points": [
+      "First-party SNT: disabled person's own funds, payback at death",
+      "Third-party SNT: parent funded, no Medicaid payback",
+      "Preserves SSI ($943/month 2024) and Medicaid eligibility",
+      "Pooled trust option for smaller balances"
+    ],
+    "search_terms": ["family support disability", "legal trust documents", "lawyer office"],
+    "category": "estate"
+  },
+  {
+    "id": 3089,
+    "topic": "PTET state tax workaround SALT cap $10K bypass for owners",
+    "hook": "Bypass $10K SALT cap legally",
+    "key_points": [
+      "TCJA 2017: $10K cap state and local tax deduction",
+      "PTET: pass-through entity pays state tax at entity level",
+      "36 states + NYC enacted PTET as of 2024",
+      "Fully deductible federal at entity level"
+    ],
+    "search_terms": ["business tax forms", "state map money", "calculator paperwork"],
+    "category": "taxes"
+  }
+]

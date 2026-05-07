@@ -1,0 +1,1172 @@
+[
+  {
+    "id": 3000,
+    "topic": "Por qué tu metabolismo cambia a los 30 (y no es lo que crees)",
+    "hook": "El metabolismo NO baja a los 30",
+    "key_points": [
+      "Estudio Science 2021 (Pontzer): metabolismo se mantiene estable de 20 a 60 años",
+      "Solo cae 0.7% anual después de los 60",
+      "Subida de peso a los 30 es por menos NEAT y más comida procesada",
+      "Masa muscular cae 3-8% por década si no entrenas fuerza"
+    ],
+    "search_terms": ["adult exercising gym", "metabolism healthy lifestyle", "30s fitness training"],
+    "category": "metabolismo"
+  },
+  {
+    "id": 3001,
+    "topic": "Hábito de centenarios en Cerdeña que casi nadie copia",
+    "hook": "Centenarios sardos hacen ESTO cada día",
+    "key_points": [
+      "Estudio Buettner Blue Zones: caminan en pendiente 5-7 km diarios",
+      "Comen pan carasau con masa madre fermentada 32 horas",
+      "Beben vino Cannonau con triple polifenoles vs otros vinos",
+      "Dormir siesta de 20 minutos reduce mortalidad cardiovascular 37% (NEJM)"
+    ],
+    "search_terms": ["elderly walking mountain", "mediterranean village sardinia", "old man hiking"],
+    "category": "nutricion"
+  },
+  {
+    "id": 3002,
+    "topic": "El error de mujeres a los 40 con el ejercicio cardio",
+    "hook": "Cardio excesivo te hace engordar pasados 40",
+    "key_points": [
+      "Estudio Mayo Clinic 2022: cardio crónico eleva cortisol en mujeres perimenopáusicas",
+      "Cortisol alto promueve grasa visceral abdominal",
+      "Entrenar fuerza 3x semana mejora composición corporal +15% vs cardio puro",
+      "HIIT corto (10 min) preserva masa magra mejor que correr 60 min"
+    ],
+    "search_terms": ["woman strength training", "female 40s gym workout", "weight lifting woman"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 3003,
+    "topic": "La sinergia desconocida entre cúrcuma y pimienta negra",
+    "hook": "Sin pimienta, la cúrcuma no sirve",
+    "key_points": [
+      "Estudio Planta Medica 1998: piperina aumenta absorción curcumina 2000%",
+      "Curcumina sola tiene biodisponibilidad menor a 1%",
+      "Necesita grasa para activar la absorción intestinal",
+      "Dosis terapéutica antiinflamatoria: 500-1000 mg curcumina/día con pimienta"
+    ],
+    "search_terms": ["turmeric spice powder", "black pepper grinding", "indian spices cooking"],
+    "category": "nutricion"
+  },
+  {
+    "id": 3004,
+    "topic": "Cuándo hacer ejercicio según tu cronotipo",
+    "hook": "Entrenas a la hora equivocada del día",
+    "key_points": [
+      "Estudio Frontiers in Physiology 2022: rendimiento muscular pico entre 16-18h",
+      "Temperatura corporal sube tarde, mejora flexibilidad y fuerza",
+      "Cardio matinal en ayunas oxida 20% más grasa (British J Nutrition)",
+      "Entrenar después de las 21h interrumpe melatonina y sueño profundo"
+    ],
+    "search_terms": ["evening workout sunset", "morning runner sunrise", "afternoon gym training"],
+    "category": "cronobiologia"
+  },
+  {
+    "id": 3005,
+    "topic": "El mito viral de TikTok del agua con limón en ayunas",
+    "hook": "Agua con limón NO quema grasa",
+    "key_points": [
+      "Sin estudios revisados que demuestren efecto quemagrasa del limón",
+      "Sí mejora hidratación matinal y aporta vitamina C (30 mg en medio limón)",
+      "Acidez puede erosionar esmalte dental si se bebe sin pajita",
+      "Efecto saciante leve por agua, no por el limón"
+    ],
+    "search_terms": ["lemon water glass", "morning hydration drink", "fresh lemon water"],
+    "category": "mitos"
+  },
+  {
+    "id": 3006,
+    "topic": "Hábito nocturno que arruina tu testosterona",
+    "hook": "Si haces esto antes de dormir, baja testo",
+    "key_points": [
+      "Estudio JAMA 2011: dormir 5h reduce testosterona 10-15% en hombres jóvenes",
+      "Luz azul de móvil suprime melatonina hasta 50% (Harvard Health)",
+      "Cena tarde (después de 21h) eleva insulina nocturna y baja GH",
+      "Alcohol reduce REM y disminuye producción testosterona 40% (J Endocrinology)"
+    ],
+    "search_terms": ["man sleeping bedroom", "bedtime habits phone", "dark bedroom sleep"],
+    "category": "hormonas"
+  },
+  {
+    "id": 3007,
+    "topic": "Por qué los ancianos de Okinawa tienen 80% menos infartos",
+    "hook": "Comen hasta el 80% de saciedad",
+    "key_points": [
+      "Hara hachi bu: principio confuciano de comer al 80% de saciedad",
+      "Estudio Annals NY Academy: reduce calorías diarias 11-15%",
+      "Tasa de cardiopatía coronaria 80% menor que EE.UU. (Buettner)",
+      "Combinan boniato morado (rico en antocianinas) y tofu fermentado"
+    ],
+    "search_terms": ["japanese elderly eating", "okinawa traditional food", "asian healthy meal"],
+    "category": "nutricion"
+  },
+  {
+    "id": 3008,
+    "topic": "Recovery activo vs descanso total: cuál acelera resultados",
+    "hook": "Descansar tumbado retrasa tus gains",
+    "key_points": [
+      "Estudio Sports Medicine 2018: caminata ligera elimina lactato 30% más rápido",
+      "Estiramiento dinámico post-entreno reduce DOMS 24-48h",
+      "Inmovilidad total reduce flujo sanguíneo y nutrientes al músculo",
+      "10 min movilidad articular acelera recuperación tendinosa 22%"
+    ],
+    "search_terms": ["active recovery walk", "stretching cool down", "light yoga recovery"],
+    "category": "recovery"
+  },
+  {
+    "id": 3009,
+    "topic": "El error con la creatina que anula sus efectos",
+    "hook": "Tomar creatina sin esto no sirve",
+    "key_points": [
+      "Estudio J Strength Cond Res: requiere fase de saturación 7 días con 20g/día",
+      "Mantenimiento 3-5g/día. Sin esto, niveles musculares no llegan al máximo",
+      "Tomarla con carbohidratos eleva absorción 60% vía insulina",
+      "Mito: NO causa daño renal en personas sanas (Mayo Clinic)"
+    ],
+    "search_terms": ["creatine supplement scoop", "protein powder shake", "fitness supplements"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 3010,
+    "topic": "Cortisol alto: 4 señales que ignoras cada mañana",
+    "hook": "Te despiertas cansado sin saber por qué",
+    "key_points": [
+      "Despertar entre 3-5h por activación HPA (Sleep Medicine Reviews)",
+      "Antojos de azúcar matinales son señal de cortisol elevado",
+      "Grasa abdominal resistente pese a dieta indica cortisol crónico",
+      "Inflamación facial al despertar = retención por aldosterona"
+    ],
+    "search_terms": ["tired man morning", "stressed person waking up", "exhausted face"],
+    "category": "estres"
+  },
+  {
+    "id": 3011,
+    "topic": "Combinación de hierro y vitamina C que multiplica absorción",
+    "hook": "Sin vitamina C, el hierro no entra",
+    "key_points": [
+      "Estudio AJCN: vitamina C aumenta absorción hierro no hemo 3-4x",
+      "Té y café reducen absorción hasta 60% por taninos",
+      "Lentejas con pimiento rojo: combinación clásica española óptima",
+      "Calcio compite con hierro: separar lácteos al menos 2h"
+    ],
+    "search_terms": ["red bell pepper food", "lentils plate cooking", "iron rich foods"],
+    "category": "nutricion"
+  },
+  {
+    "id": 3012,
+    "topic": "Dormir más de 9 horas también te mata, según Harvard",
+    "hook": "Dormir 10h es tan malo como 5h",
+    "key_points": [
+      "Estudio Harvard 2019: dormir +9h aumenta mortalidad 23%",
+      "Asociado a inflamación crónica y depresión latente",
+      "Sweet spot: 7-8h en adultos, 8-10h en adolescentes (Sleep Foundation)",
+      "Calidad importa más que cantidad: medir REM y sueño profundo"
+    ],
+    "search_terms": ["person sleeping bed", "alarm clock morning", "bedroom rest"],
+    "category": "sueno"
+  },
+  {
+    "id": 3013,
+    "topic": "Hábito de los 50 años para mantener masa muscular",
+    "hook": "A los 50 pierdes 1% de músculo por año",
+    "key_points": [
+      "Sarcopenia empieza a los 50 (American J Clin Nutrition)",
+      "Necesitas 1.6 g/kg de proteína al día, no los 0.8 oficiales",
+      "Entrenar fuerza 2-3x semana revierte sarcopenia hasta 40%",
+      "Vitamina D + leucina activan síntesis proteica muscular"
+    ],
+    "search_terms": ["50s woman exercising", "older man weight training", "mature adult fitness"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 3014,
+    "topic": "El ritmo circadiano del intestino que casi nadie conoce",
+    "hook": "Tu intestino tiene su propio reloj",
+    "key_points": [
+      "Estudio Cell 2020: microbiota cambia composición cada 4-6h",
+      "Comer entre 8-19h sincroniza microbiota con ritmo circadiano",
+      "Comer de noche desfasa la flora y promueve disbiosis",
+      "Bacterias intestinales bajan 30% en horario nocturno"
+    ],
+    "search_terms": ["clock food schedule", "circadian rhythm sleep", "morning breakfast time"],
+    "category": "cronobiologia"
+  },
+  {
+    "id": 3015,
+    "topic": "Mitos virales sobre el desayuno desmontados con ciencia",
+    "hook": "El desayuno NO es la comida más importante",
+    "key_points": [
+      "Meta-análisis BMJ 2019: saltar desayuno no afecta peso ni metabolismo",
+      "Mito Kellogg's: campaña marketing 1944 con Edward Bernays",
+      "Lo que importa es ventana de alimentación total, no el orden",
+      "Desayuno proteico (30g) reduce antojos vespertinos según J Nutrition"
+    ],
+    "search_terms": ["empty plate breakfast", "morning coffee cup", "skip breakfast eating"],
+    "category": "mitos"
+  },
+  {
+    "id": 3016,
+    "topic": "Por qué a los 60 tu sed engaña: deshidratación silenciosa",
+    "hook": "A los 60 dejas de sentir sed",
+    "key_points": [
+      "Estudio J Gerontology: sensores de sed se atrofian con la edad",
+      "Personas mayores beben 30% menos agua sin notarlo",
+      "Deshidratación leve causa caídas, confusión y estreñimiento",
+      "Beber 1.5L distribuidos cada 2h reduce hospitalizaciones (NHS)"
+    ],
+    "search_terms": ["elderly drinking water", "senior hydration glass", "old man water bottle"],
+    "category": "hidratacion"
+  },
+  {
+    "id": 3017,
+    "topic": "Errores típicos de hombres a los 30 con el gimnasio",
+    "hook": "Si haces esto en el gym a los 30, lesión segura",
+    "key_points": [
+      "Calentar solo cardio no prepara articulaciones (J Strength Cond Res)",
+      "Saltarse movilidad cadera y hombro causa 60% lesiones gym",
+      "Levantar máximos sin técnica daña discos lumbares L4-L5",
+      "Falta de descanso 48h por grupo muscular impide hipertrofia"
+    ],
+    "search_terms": ["man bench press gym", "weight lifting injury", "gym workout male"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 3018,
+    "topic": "Leptina: la hormona que decide si pierdes grasa",
+    "hook": "Tu cerebro no recibe la señal de saciedad",
+    "key_points": [
+      "Resistencia a leptina causa hambre constante pese a tener grasa",
+      "Estudio Nature: dormir <6h baja leptina 18% y sube grelina 28%",
+      "Comida ultraprocesada bloquea receptores hipotalámicos",
+      "Ayuno 12-14h restaura sensibilidad a leptina (Cell Metabolism)"
+    ],
+    "search_terms": ["brain neuron diagram", "hormones science research", "scale weight measurement"],
+    "category": "hormonas"
+  },
+  {
+    "id": 3019,
+    "topic": "Hábito sueco que reduce ansiedad sin pastillas",
+    "hook": "Suecos lo llaman friluftsliv",
+    "key_points": [
+      "Friluftsliv: vida al aire libre, mínimo 1h diaria en naturaleza",
+      "Estudio Stanford 2015: caminar en parque reduce rumiación 23%",
+      "Sonidos naturales bajan cortisol salival 21% en 20 minutos",
+      "Suecia tiene tasa de ansiedad clínica 40% menor que media UE"
+    ],
+    "search_terms": ["forest walking nature", "scandinavian outdoor lifestyle", "person hiking trail"],
+    "category": "estres"
+  },
+  {
+    "id": 3020,
+    "topic": "Tomar magnesio mal: el error que casi nadie evita",
+    "hook": "Tomas magnesio en formato inútil",
+    "key_points": [
+      "Óxido de magnesio tiene biodisponibilidad solo 4% (J Am Coll Nutr)",
+      "Glicinato y citrato: absorción 30-40% real",
+      "Tomarlo con café cancela absorción por taninos",
+      "Mejor antes de dormir: mejora sueño profundo y relaja músculos"
+    ],
+    "search_terms": ["magnesium supplement pills", "vitamins capsules bottle", "supplements wellness"],
+    "category": "nutricion"
+  },
+  {
+    "id": 3021,
+    "topic": "Ejercicio nocturno: el truco que mejora tu sueño profundo",
+    "hook": "Entrenar de noche puede mejorar sueño",
+    "key_points": [
+      "Estudio Sports Medicine 2019: entrenar 90 min antes de dormir aumenta sueño profundo 18%",
+      "Mito derribado: no afecta latencia del sueño en personas activas",
+      "Excepción: HIIT intenso eleva noradrenalina, evitar 2h antes",
+      "Ejercicio fuerza moderado favorece secreción GH nocturna"
+    ],
+    "search_terms": ["night gym workout", "evening fitness training", "indoor home exercise"],
+    "category": "sueno"
+  },
+  {
+    "id": 3022,
+    "topic": "Hábito de los longevos de Loma Linda (California)",
+    "hook": "Adventistas viven 10 años más que el promedio",
+    "key_points": [
+      "Estudio JAMA Internal Medicine 2013: vegetarianos viven 9.5 años más",
+      "Sábado de descanso obligatorio reduce burnout y estrés crónico",
+      "Consumen frutos secos diarios: nueces bajan colesterol LDL 7%",
+      "Caminata diaria al aire libre + comunidad fuerte = ikigai americano"
+    ],
+    "search_terms": ["vegetables salad bowl", "nuts almonds healthy", "elderly walking park"],
+    "category": "nutricion"
+  },
+  {
+    "id": 3023,
+    "topic": "El error con el café antes de entrenar (lo haces mal)",
+    "hook": "Tomar café 5 min antes no sirve",
+    "key_points": [
+      "Cafeína tarda 30-45 min en alcanzar pico plasmático (Sports Medicine)",
+      "Dosis óptima pre-entreno: 3-6 mg/kg peso corporal",
+      "Tomarla en ayunas eleva más adrenalina y oxidación grasa",
+      "Tolerancia se desarrolla en 4 semanas, ciclar 1 semana sin"
+    ],
+    "search_terms": ["coffee cup espresso", "pre workout drink", "caffeine fitness"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 3024,
+    "topic": "Por qué pesarse 1 vez por semana es peor que nunca",
+    "hook": "Pesarse semanal te miente",
+    "key_points": [
+      "Fluctuaciones diarias 1-2 kg por agua, glucógeno y hormonas",
+      "Estudio Obesity Research: medias móviles 7 días son más fiables",
+      "Pesarse en distintos días de la semana sesga datos",
+      "Mejor medir cintura mensual: marcador real de grasa visceral"
+    ],
+    "search_terms": ["bathroom scale weight", "measuring tape waist", "fitness tracking"],
+    "category": "perdida-grasa"
+  },
+  {
+    "id": 3025,
+    "topic": "Combinación huevo y aguacate: por qué es magia para el cerebro",
+    "hook": "Esta pareja activa tu cerebro al 100%",
+    "key_points": [
+      "Aguacate aporta grasa monoinsaturada que activa absorción carotenoides",
+      "Estudio J Nutrition 2017: aguacate triplica absorción luteína del huevo",
+      "Colina del huevo (147mg) sintetiza acetilcolina, neurotransmisor memoria",
+      "Combinación reduce inflamación cerebral por omega-9 + colina"
+    ],
+    "search_terms": ["avocado toast egg", "healthy breakfast plate", "brain food nutrition"],
+    "category": "nutricion"
+  },
+  {
+    "id": 3026,
+    "topic": "Mitos virales sobre detox que destrozan tu hígado",
+    "hook": "El detox de zumos te enferma el hígado",
+    "key_points": [
+      "Hígado tiene su propio sistema detox (citocromo P450) sin ayuda externa",
+      "Zumos detox sobrecargan fructosa y causan hígado graso",
+      "Caso documentado en Hepatology: insuficiencia hepática por té detox",
+      "Nada limpia el hígado mejor que dormir bien y reducir alcohol"
+    ],
+    "search_terms": ["green juice cleanse", "detox drink bottle", "liver health concept"],
+    "category": "mitos"
+  },
+  {
+    "id": 3027,
+    "topic": "Errores específicos de mujeres en menopausia con la dieta",
+    "hook": "Comer 'sano' en menopausia te engorda",
+    "key_points": [
+      "Estudio Menopause Journal 2021: necesidades calóricas bajan 200 kcal/día",
+      "Bajón de estrógenos requiere más proteína (1.2-1.5 g/kg peso)",
+      "Carbos refinados disparan picos glucemia 35% más altos por resistencia insulina",
+      "Soja fermentada y lino bajan sofocos 23% (NIH)"
+    ],
+    "search_terms": ["mature woman healthy meal", "menopause nutrition", "older lady cooking"],
+    "category": "hormonas"
+  },
+  {
+    "id": 3028,
+    "topic": "Caminar después de cenar: efecto real en glucemia",
+    "hook": "Caminar 10 min reduce glucemia 30%",
+    "key_points": [
+      "Meta-análisis Sports Medicine 2022: 10 min caminata post-comida bajan glucosa 30%",
+      "Mejor que caminar en otro momento del día para diabetes tipo 2",
+      "Activa GLUT-4 muscular sin necesidad de insulina",
+      "Equivalente metabólico a 30 min ejercicio en otro horario"
+    ],
+    "search_terms": ["evening walk street", "after dinner stroll", "couple walking outdoors"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 3029,
+    "topic": "Hábito nocturno de los franceses centenarios",
+    "hook": "Franceses centenarios cenan a las 19h",
+    "key_points": [
+      "Cenas tempranas (antes de 20h) mejoran ritmo circadiano hepático",
+      "Estudio International J Obesity: cenar tarde aumenta riesgo obesidad 5x",
+      "Vino tinto en cena: resveratrol activa SIRT1 (gen longevidad)",
+      "Sobremesa de 30 min mejora digestión vagal y reduce reflujo"
+    ],
+    "search_terms": ["french dinner table", "evening meal family", "wine glass red"],
+    "category": "cronobiologia"
+  },
+  {
+    "id": 3030,
+    "topic": "Por qué la rutina de la mañana decide tu día metabólico",
+    "hook": "Tu primera hora marca tu metabolismo",
+    "key_points": [
+      "Exposición solar 10 min en primera hora ancla ritmo circadiano (Huberman Lab)",
+      "Reduce melatonina y eleva cortisol matutino sano",
+      "Estudio Northwestern: luz matinal regula peso corporal a largo plazo",
+      "Sin luz matinal, melatonina nocturna se desfasa 1.5h"
+    ],
+    "search_terms": ["sunrise morning person", "window morning light", "morning routine sunlight"],
+    "category": "cronobiologia"
+  },
+  {
+    "id": 3031,
+    "topic": "Vitamina D + K2: la sinergia que casi nadie usa",
+    "hook": "Vitamina D sola puede calcificar arterias",
+    "key_points": [
+      "Vitamina D activa absorción calcio, K2 dirige calcio al hueso",
+      "Sin K2, calcio se deposita en arterias (Rotterdam Study)",
+      "Vitamina K2 MK-7 reduce calcificación coronaria 50%",
+      "Fuente natural K2: natto, yema huevo, queso curado, hígado"
+    ],
+    "search_terms": ["vitamin supplements pills", "egg yolk fresh", "cheese aged board"],
+    "category": "nutricion"
+  },
+  {
+    "id": 3032,
+    "topic": "El error con el ayuno intermitente para mujeres",
+    "hook": "Ayuno 16h destroza tu ciclo menstrual",
+    "key_points": [
+      "Estudio Obesity 2022: mujeres con ayuno >14h ven irregularidades menstruales",
+      "Eje hipotalámico-ovárico es más sensible al estrés energético",
+      "Ventana 12h funciona mejor que 16h en mujeres premenopáusicas",
+      "Suspender ayuno en fase lútea (semana antes de regla)"
+    ],
+    "search_terms": ["woman healthy meal", "calendar menstrual cycle", "female nutrition plate"],
+    "category": "ayuno"
+  },
+  {
+    "id": 3033,
+    "topic": "Cuándo comer carbos según hora del día",
+    "hook": "Comer pasta de noche NO engorda",
+    "key_points": [
+      "Estudio Obesity 2011: cenar carbos mejora saciedad y baja grelina",
+      "Glucógeno nocturno favorece serotonina y sueño profundo",
+      "Mito derribado: insulina nocturna no engorda más",
+      "Mejor evitar carbos refinados en desayuno: pico glucemia mañanero"
+    ],
+    "search_terms": ["pasta plate dinner", "rice bowl meal", "carbohydrates evening food"],
+    "category": "cronobiologia"
+  },
+  {
+    "id": 3034,
+    "topic": "Hábito de los longevos griegos en Ikaria",
+    "hook": "Ikarianos llegan a 90 sin demencia",
+    "key_points": [
+      "Tasa de Alzheimer en Ikaria 75% menor que media UE (Buettner)",
+      "Té de hierbas silvestres: salvia, romero, manzanilla con polifenoles únicos",
+      "Siesta vespertina obligatoria reduce cardiopatía 37%",
+      "Aceite oliva virgen extra: 50ml diarios, oleocantal antiinflamatorio"
+    ],
+    "search_terms": ["greek island sunset", "herbal tea cup", "olive oil mediterranean"],
+    "category": "nutricion"
+  },
+  {
+    "id": 3035,
+    "topic": "Errores en el HIIT que arruinan tus resultados",
+    "hook": "HIIT 6 días semana no funciona",
+    "key_points": [
+      "Estudio Cell Metabolism 2021: HIIT excesivo daña mitocondrias",
+      "Máximo 3 sesiones semanales para adaptación supercompensada",
+      "Necesita 48-72h recuperación neural completa",
+      "Mejor combinar 2 HIIT + 3 fuerza + 1 zona 2 cardio"
+    ],
+    "search_terms": ["hiit workout intense", "interval training fitness", "high intensity exercise"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 3036,
+    "topic": "Cortisol y grasa abdominal: por qué la dieta sola falla",
+    "hook": "Tu barriga no se va por estrés",
+    "key_points": [
+      "Cortisol crónico activa enzima 11β-HSD1 que acumula grasa visceral",
+      "Estudio Yale: mujeres estresadas tienen 2.5x más grasa abdominal",
+      "Reducir azúcar y dormir 8h baja cortisol 30% en 4 semanas",
+      "Meditación 10 min/día reduce cortisol salival 25%"
+    ],
+    "search_terms": ["stress woman meditation", "abdominal fat measurement", "calm meditation home"],
+    "category": "estres"
+  },
+  {
+    "id": 3037,
+    "topic": "Por qué a los 20 ya pierdes flexibilidad sin notarlo",
+    "hook": "A los 25 tu fascia ya pierde elasticidad",
+    "key_points": [
+      "Colágeno tipo III empieza a degradar a los 22 años (J Anatomy)",
+      "Sedentarismo acelera rigidez fascial 40% por década",
+      "Movilidad cadera y tobillo predice longevidad funcional",
+      "Yoga 2x semana revierte pérdida flexibilidad 30% en 12 semanas"
+    ],
+    "search_terms": ["young woman yoga", "stretching flexibility floor", "20s fitness mat"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 3038,
+    "topic": "Mito viral del agua de avena para perder peso",
+    "hook": "Agua de avena NO adelgaza",
+    "key_points": [
+      "Sin estudios revisados que demuestren efecto pérdida peso del agua avena",
+      "Avena entera sí: betaglucanos bajan colesterol LDL 7% (FDA)",
+      "Agua avena pierde fibra soluble en filtrado",
+      "Mejor avena cocida con frutos secos: efecto saciante 4h"
+    ],
+    "search_terms": ["oats milk drink", "oatmeal bowl healthy", "morning oat breakfast"],
+    "category": "mitos"
+  },
+  {
+    "id": 3039,
+    "topic": "Hábito específico de hombres a los 40 para preservar testo",
+    "hook": "A los 40 tu testo cae 1% al año",
+    "key_points": [
+      "Estudio J Clin Endocrinology: testosterona baja 1-2% anual desde los 40",
+      "Sentadillas y peso muerto elevan testo aguda 25% post-entreno",
+      "Zinc 15mg/día y magnesio 400mg/día revierten déficit",
+      "Dormir 7-9h aumenta testo libre 15% (Sleep Research Society)"
+    ],
+    "search_terms": ["man squat barbell", "deadlift gym workout", "male strength training"],
+    "category": "hormonas"
+  },
+  {
+    "id": 3040,
+    "topic": "Por qué dormir frío quema más grasa",
+    "hook": "Bajar termostato te ayuda a adelgazar",
+    "key_points": [
+      "Estudio Diabetes 2014: dormir a 19°C aumenta grasa parda 42% en 4 semanas",
+      "Grasa parda quema calorías para generar calor corporal",
+      "Termoneutralidad (24°C) reduce activación metabólica nocturna",
+      "Solo 1°C menos eleva gasto energético basal 100 kcal/día"
+    ],
+    "search_terms": ["cold bedroom thermostat", "winter sleeping bed", "thermometer room temperature"],
+    "category": "metabolismo"
+  },
+  {
+    "id": 3041,
+    "topic": "El error con la proteína: cantidad por toma sí importa",
+    "hook": "100g proteína en una comida no se absorbe",
+    "key_points": [
+      "Estudio J Nutrition 2009: máximo 25-40g por comida activan síntesis muscular",
+      "Más de 40g se oxidan a urea, no construye músculo",
+      "4 tomas distribuidas (cada 4h) maximizan respuesta anabólica",
+      "Leucina 2.5g por toma activa mTOR (umbral síntesis proteica)"
+    ],
+    "search_terms": ["protein steak meal", "chicken breast plate", "protein shake bottle"],
+    "category": "nutricion"
+  },
+  {
+    "id": 3042,
+    "topic": "Recovery: el papel oculto del sueño profundo en músculo",
+    "hook": "Sin sueño profundo no creces muscular",
+    "key_points": [
+      "GH se libera 70% durante sueño profundo (NREM N3)",
+      "Privación sueño reduce síntesis proteica muscular 18% (Med Sci Sports)",
+      "Magnesio + glicina 1h antes mejoran sueño profundo 15%",
+      "Alcohol elimina fase N3 entera, frena hipertrofia"
+    ],
+    "search_terms": ["deep sleep dark", "muscle recovery sleeping", "athlete sleeping bed"],
+    "category": "recovery"
+  },
+  {
+    "id": 3043,
+    "topic": "Combinación brócoli + mostaza: efecto contra el cáncer",
+    "hook": "Mostaza activa el sulforafano del brócoli",
+    "key_points": [
+      "Brócoli tiene mirosinasa, enzima que activa sulforafano (J Agric Food Chem)",
+      "Cocer destruye mirosinasa, queda glucorafanina inactivo",
+      "Mostaza fresca aporta mirosinasa exógena: reactiva conversión",
+      "Sulforafano: potente activador NRF2, vía antiinflamatoria"
+    ],
+    "search_terms": ["broccoli vegetable plate", "mustard sauce condiment", "green vegetables cooking"],
+    "category": "nutricion"
+  },
+  {
+    "id": 3044,
+    "topic": "Hábito de centenarios de Nicoya (Costa Rica)",
+    "hook": "Nicoyanos beben agua con calcio natural",
+    "key_points": [
+      "Agua de Nicoya tiene 4x más calcio y magnesio que media mundial",
+      "Estudio CRELES: huesos fuertes y mortalidad cardiovascular 50% menor",
+      "Comen tortilla maíz nixtamalizado: triplica niacina disponible",
+      "Frijoles negros + arroz: aminoácidos completos sin carne"
+    ],
+    "search_terms": ["costa rica village", "tropical healthy food", "elderly latin american"],
+    "category": "nutricion"
+  },
+  {
+    "id": 3045,
+    "topic": "Por qué las mujeres a los 50 necesitan menos cardio",
+    "hook": "Cardio en menopausia engorda, no adelgaza",
+    "key_points": [
+      "Estudio Menopause 2020: cardio crónico eleva cortisol perimenopáusico",
+      "Caída de estrógenos resta capacidad de quemar grasa con cardio",
+      "Fuerza 3x semana sube tasa metabólica basal 7%",
+      "20 min HIIT > 60 min trote para grasa visceral"
+    ],
+    "search_terms": ["mature woman gym", "menopausal woman fitness", "50s strength training"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 3046,
+    "topic": "El error con la cafeína para dormir mejor",
+    "hook": "Café antes de las 14h ya altera tu sueño",
+    "key_points": [
+      "Vida media cafeína: 5-6h en adulto promedio (J Clin Sleep Medicine)",
+      "Polimorfismo CYP1A2: 50% personas la metabolizan lento",
+      "Café a las 14h aún tiene 25% activo a las 22h",
+      "Café descafeinado mantiene 2-15 mg cafeína por taza"
+    ],
+    "search_terms": ["coffee afternoon cup", "espresso morning routine", "caffeine sleep effect"],
+    "category": "sueno"
+  },
+  {
+    "id": 3047,
+    "topic": "Errores de hombres a los 50 con la dieta",
+    "hook": "Hombres a los 50 comen demasiada proteína",
+    "key_points": [
+      "Estudio Cell Metabolism 2014: proteína alta acelera IGF-1 y cáncer 75% sobre 50",
+      "Reducir a 0.8 g/kg después de 65 años protege riñones y longevidad",
+      "Cambiar carne roja por pescado y legumbres baja inflamación",
+      "Ayuno 13h nocturno mejora autofagia y limpieza celular"
+    ],
+    "search_terms": ["older man eating meal", "mature male nutrition", "50s healthy plate"],
+    "category": "nutricion"
+  },
+  {
+    "id": 3048,
+    "topic": "Mito viral de la sopa quemagrasa de col",
+    "hook": "Sopa de col NO quema grasa real",
+    "key_points": [
+      "Sopa de col es restrictiva calórica extrema (800-1000 kcal/día)",
+      "Pérdida es agua + glucógeno + masa muscular, no grasa",
+      "Recuperación de peso 100% en 4 semanas tras volver a comer",
+      "Reduce metabolismo basal hasta 200 kcal/día por semana de dieta"
+    ],
+    "search_terms": ["cabbage soup pot", "vegetable broth bowl", "diet meal restriction"],
+    "category": "mitos"
+  },
+  {
+    "id": 3049,
+    "topic": "Sinergia café + canela: efecto en glucemia",
+    "hook": "Pizca canela en café cambia tu glucemia",
+    "key_points": [
+      "Estudio Diabetes Care: 1g canela diaria baja glucosa ayunas 24%",
+      "Cinamaldehído mejora sensibilidad insulínica 18%",
+      "Combinada con café reduce pico glucémico postprandial",
+      "Usar canela Ceilán: cumarina menor (no daña hígado)"
+    ],
+    "search_terms": ["cinnamon stick coffee", "spices healthy drink", "morning beverage spice"],
+    "category": "nutricion"
+  },
+  {
+    "id": 3050,
+    "topic": "Hábito de longevos en Costa Brava: La dieta del mar",
+    "hook": "Pueblos costeros catalanes viven 4 años más",
+    "key_points": [
+      "Estudio Universidad Barcelona 2019: pesca diaria omega-3 EPA+DHA 2g/día",
+      "Caminar por arena descalzo activa sistema linfático",
+      "Marisco aporta zinc, selenio y yodo (tiroides)",
+      "Sobremesa larga + siesta es ritual mediterráneo antiestrés"
+    ],
+    "search_terms": ["spanish coast village", "fresh seafood fish", "mediterranean lifestyle beach"],
+    "category": "nutricion"
+  },
+  {
+    "id": 3051,
+    "topic": "Por qué la luz roja antes de dormir mejora el sueño",
+    "hook": "Luz roja te duerme más rápido",
+    "key_points": [
+      "Estudio J Athletic Training 2012: luz roja 14 días mejora calidad sueño",
+      "Longitud de onda 630-700nm no suprime melatonina",
+      "Luz blanca/azul reduce melatonina 50% (Harvard Health)",
+      "Bombilla roja tenue 1h antes dormir = ritual circadiano"
+    ],
+    "search_terms": ["red light bedroom", "warm lamp evening", "amber light sleeping"],
+    "category": "sueno"
+  },
+  {
+    "id": 3052,
+    "topic": "El error con suplementos de omega-3",
+    "hook": "Omega-3 oxidado es peor que no tomarlo",
+    "key_points": [
+      "Estudio J Nutrition Sci: 50% suplementos omega-3 oxidados (rancios)",
+      "Omega-3 oxidado aumenta inflamación, no la baja",
+      "Comprobar TOTOX (peróxido) en etiqueta: <26",
+      "Conservar nevera, opaco, lejos de luz solar"
+    ],
+    "search_terms": ["fish oil capsules", "omega supplement bottle", "vitamin pills supplement"],
+    "category": "nutricion"
+  },
+  {
+    "id": 3053,
+    "topic": "Hábito de longevos del Mediterráneo griego",
+    "hook": "Griegos comen queso feta cada día",
+    "key_points": [
+      "Feta tradicional aporta probióticos lactobacilos vivos",
+      "Estudio J Dairy Science: bajan presión arterial 4-6 mmHg",
+      "Calcio y vit K2 protegen huesos y arterias",
+      "Combinado con tomate + aceite oliva = absorción licopeno 4x"
+    ],
+    "search_terms": ["feta cheese plate", "greek salad olive", "mediterranean food fresh"],
+    "category": "nutricion"
+  },
+  {
+    "id": 3054,
+    "topic": "Errores de mujeres a los 30 con la fuerza",
+    "hook": "Pesos ligeros a los 30 te frenan",
+    "key_points": [
+      "Mito: pesos pesados no marimachan a mujer (testosterona 10x menor)",
+      "Estudio J Strength Cond Res: cargas 80% 1RM optimizan tonificación",
+      "Sentadillas pesadas activan glúteos 5x más que máquinas",
+      "Construir músculo 30s reserva metabolismo para 50s y 60s"
+    ],
+    "search_terms": ["woman heavy weights gym", "female deadlift training", "strength workout woman"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 3055,
+    "topic": "Por qué los sardos beben vino diario sin enfermar",
+    "hook": "Sardos centenarios toman vino con la comida",
+    "key_points": [
+      "Vino Cannonau triplica polifenoles vs vinos comerciales",
+      "1 copa diaria con comida: efecto cardioprotector (Lancet 2018)",
+      "Más de 2 copas neutraliza beneficio (riesgo aumenta)",
+      "Tomado con grasas y proteína: absorción polifenol 60% mayor"
+    ],
+    "search_terms": ["red wine glass mediterranean", "italian dinner wine", "aged wine bottle"],
+    "category": "nutricion"
+  },
+  {
+    "id": 3056,
+    "topic": "El mito viral del agua tibia con miel en ayunas",
+    "hook": "Miel en ayunas no detoxifica nada",
+    "key_points": [
+      "Sin estudios que demuestren propiedades detox de la miel matinal",
+      "Aporta 17g azúcar simple por cucharada: pico glucémico",
+      "Sí tiene antioxidantes flavonoides modestos",
+      "Miel cruda artesanal mantiene enzimas vs procesada industrial"
+    ],
+    "search_terms": ["honey jar spoon", "warm water morning", "natural sweetener bowl"],
+    "category": "mitos"
+  },
+  {
+    "id": 3057,
+    "topic": "Cronobiología hormonal: hora ideal para entrenar fuerza",
+    "hook": "Tu fuerza pico es a las 17h",
+    "key_points": [
+      "Estudio Chronobiology Int: testosterona pico despertar, no entreno",
+      "Cortisol matutino impulsa explosividad pero menos hipertrofia",
+      "Pico fuerza absoluta entre 16-19h por temperatura corporal",
+      "Entrenar tarde = ganancias musculares 18% mayores (J Strength)"
+    ],
+    "search_terms": ["evening gym workout", "afternoon training fitness", "late afternoon exercise"],
+    "category": "cronobiologia"
+  },
+  {
+    "id": 3058,
+    "topic": "Hábito que reduce el cortisol en 5 minutos",
+    "hook": "5 minutos al sol cambian tu cortisol",
+    "key_points": [
+      "Exposición solar matinal regula picos cortisol diurnos (Nature)",
+      "Vitamina D activa modula HPA y baja inflamación",
+      "Estudio Stanford: 5 min sol matinal = -25% cortisol salival",
+      "Mejor antes de las 10h, sin gafas, mirar al horizonte"
+    ],
+    "search_terms": ["morning sunlight face", "sunrise person outdoor", "person sun exposure"],
+    "category": "estres"
+  },
+  {
+    "id": 3059,
+    "topic": "Errores en hidratación durante el ejercicio",
+    "hook": "Beber agua de más en ejercicio te mata",
+    "key_points": [
+      "Hiponatremia por sobrehidratación causa muertes maratón (NEJM)",
+      "Beber por sed, no por horario fijo (American Coll Sports Medicine)",
+      "Sodio 500-700mg/L de agua para ejercicio >90 min",
+      "Pesarse antes y después: reponer 150% del peso perdido"
+    ],
+    "search_terms": ["athlete drinking water", "runner hydration bottle", "sports drink fitness"],
+    "category": "hidratacion"
+  },
+  {
+    "id": 3060,
+    "topic": "El error en la rutina nocturna que arruina tu hígado",
+    "hook": "Cenar tarde ya destruye tu hígado",
+    "key_points": [
+      "Cenar después de 21h aumenta riesgo hígado graso 30% (J Hepatology)",
+      "Insulina nocturna desfasa lipogénesis y eleva triglicéridos",
+      "Ventana 12-14h sin comer revierte esteatosis no alcohólica",
+      "Mejor cenar 3h antes de dormir para autofagia hepática"
+    ],
+    "search_terms": ["late dinner table", "liver health concept", "nighttime meal eating"],
+    "category": "cronobiologia"
+  },
+  {
+    "id": 3061,
+    "topic": "Hábito de los hunzas (Pakistán): albaricoques y longevidad",
+    "hook": "Hunzas viven 100 años con esta fruta",
+    "key_points": [
+      "Albaricoques secos: 1.7g hierro y 320mg potasio por 100g",
+      "Tasa cáncer hunza 70% menor que media occidental (Lancet)",
+      "Vit B17 (laetrilo) en semilla: efecto disputado pero rico antiox",
+      "Caminata diaria en altura activa eritropoyesis natural"
+    ],
+    "search_terms": ["dried apricots fruits", "mountain village pakistan", "nuts dried fruit"],
+    "category": "nutricion"
+  },
+  {
+    "id": 3062,
+    "topic": "Por qué a los 60 necesitas más proteína, no menos",
+    "hook": "RDA proteína 60+ está obsoleta",
+    "key_points": [
+      "RDA 0.8 g/kg para 60+ es insuficiente (PROT-AGE Study Group)",
+      "Necesitan 1.2-1.6 g/kg para prevenir sarcopenia",
+      "Mito: proteína daña riñón sano (Mayo Clinic)",
+      "Distribuir 30g proteína por comida activa síntesis muscular"
+    ],
+    "search_terms": ["elderly eating protein", "senior healthy meal", "old man fitness"],
+    "category": "nutricion"
+  },
+  {
+    "id": 3063,
+    "topic": "Hábito de despertar de los longevos en Loma Linda",
+    "hook": "Adventistas no usan despertador",
+    "key_points": [
+      "Sueño de 7-8h respetando ritmo circadiano natural",
+      "Estudio Adventist Health: despertar natural reduce cortisol 25%",
+      "Sin despertador = más fase REM completa al final del ciclo",
+      "Plegaria/meditación 10 min antes de levantar baja inflamación"
+    ],
+    "search_terms": ["natural awakening morning", "sunrise window peaceful", "meditation morning calm"],
+    "category": "sueno"
+  },
+  {
+    "id": 3064,
+    "topic": "Mito viral: caldo de huesos repara articulaciones",
+    "hook": "Caldo de huesos no repara cartílago",
+    "key_points": [
+      "Colágeno se digiere a aminoácidos: no llega íntegro a articulaciones",
+      "Sin estudios robustos sobre regeneración articular vía caldo",
+      "Sí aporta glicina, prolina (AAs no esenciales útiles)",
+      "Mejor proteína completa + vitamina C para colágeno propio"
+    ],
+    "search_terms": ["bone broth pot", "soup broth bowl", "homemade stock kitchen"],
+    "category": "mitos"
+  },
+  {
+    "id": 3065,
+    "topic": "Errores específicos de hombres a los 50 en gimnasio",
+    "hook": "A los 50, levantar igual que a los 30 = lesión",
+    "key_points": [
+      "Tendones pierden 15% elasticidad por década tras los 40",
+      "Calentamiento articular específico 15 min reduce lesiones 60%",
+      "Mejor 4 series 8-12 reps que 5 series 4-6 reps (J Sports Sci)",
+      "Recuperación 72h vs 48h por grupo muscular tras los 50"
+    ],
+    "search_terms": ["50s man weightlifting", "mature male gym", "older man fitness"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 3066,
+    "topic": "Combinación tomate + aceite oliva: absorción licopeno",
+    "hook": "Tomate crudo no te aporta nada",
+    "key_points": [
+      "Licopeno solo se absorbe con grasa (J Nutrition)",
+      "Cocción + aceite oliva multiplica absorción licopeno 4x",
+      "Salsa tomate 30 min cocción = 200% más biodisponibilidad",
+      "Reduce próstata 18% en hombres consumidores diarios (Harvard)"
+    ],
+    "search_terms": ["tomato sauce cooking", "olive oil drizzle", "italian sauce fresh"],
+    "category": "nutricion"
+  },
+  {
+    "id": 3067,
+    "topic": "Por qué andar 7000 pasos vence a 10.000",
+    "hook": "10.000 pasos es marketing, no ciencia",
+    "key_points": [
+      "Estudio JAMA Network 2023: beneficios mortalidad plateauan a 7500 pasos",
+      "Mito 10K viene de campaña pedómetro japonés 1965",
+      "Más de 10K no aporta beneficio extra cardiovascular",
+      "Calidad ritmo importa más: 100 pasos/min cardioprotector"
+    ],
+    "search_terms": ["walking park steps", "person walking street", "fitness tracker steps"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 3068,
+    "topic": "Cortisol matutino: por qué entrenar al despertar te frena",
+    "hook": "Entrenar al despertar dispara tu cortisol",
+    "key_points": [
+      "Cortisol pico natural 30 min tras despertar (CAR)",
+      "Entrenar HIIT en CAR multiplica cortisol 2x (J Endocrinology)",
+      "Mejor esperar 90 min para que cortisol baje fisiológicamente",
+      "Excepción: cardio zona 2 suave es compatible con CAR"
+    ],
+    "search_terms": ["morning workout sunrise", "early gym training", "dawn exercise running"],
+    "category": "estres"
+  },
+  {
+    "id": 3069,
+    "topic": "El error con la fibra: cantidad y tipo importan",
+    "hook": "Comer mucha fibra te enferma intestino",
+    "key_points": [
+      "Aumentar fibra rápido (>30g) sin habituación causa SIBO",
+      "Necesitas fibra soluble (avena) e insoluble (verdura) en proporción",
+      "Subir 5g/semana hasta llegar a 25-35g/día (American Heart Assoc)",
+      "Fibra fermentable (FODMAP) puede inflamar en intestino sensible"
+    ],
+    "search_terms": ["fiber rich foods", "vegetables grains plate", "whole grain bread"],
+    "category": "nutricion"
+  },
+  {
+    "id": 3070,
+    "topic": "Hábito de longevos en Galicia (España)",
+    "hook": "Pueblos gallegos viven 4 años más",
+    "key_points": [
+      "Estudio CSIC: dieta atlántica reduce mortalidad cardiovascular 15%",
+      "Pescado azul 4 veces/semana: omega-3 EPA+DHA 2g/día",
+      "Patata gallega + grelos: vit K2 y antioxidantes únicos",
+      "Vida en altitud + actividad física diaria al aire libre"
+    ],
+    "search_terms": ["spanish fishing village", "atlantic seafood plate", "galician landscape green"],
+    "category": "nutricion"
+  },
+  {
+    "id": 3071,
+    "topic": "Mito viral: dormir con calcetines es malo",
+    "hook": "Dormir con calcetines te duerme antes",
+    "key_points": [
+      "Estudio Nature 1999: vasodilatación pies anticipa sueño profundo",
+      "Calcetines aceleran latencia sueño en 15 min",
+      "Mito de circulación: ningún estudio demuestra problema vascular",
+      "Solo evitar si pies sudan, infección o circulación grave"
+    ],
+    "search_terms": ["socks bedroom feet", "warm bed cozy", "winter sleeping comfort"],
+    "category": "mitos"
+  },
+  {
+    "id": 3072,
+    "topic": "Errores en mujeres a los 60 con la suplementación",
+    "hook": "Calcio mal en menopausia tapona arterias",
+    "key_points": [
+      "Suplementos calcio sin vit K2 calcifican arterias (BMJ 2010)",
+      "Mejor calcio dietario: lácteos, sardinas, brócoli, almendras",
+      "Vit D 2000 UI + K2 200 mcg dirige calcio a hueso",
+      "Magnesio cofactor esencial: 320 mg/día para absorción óptima"
+    ],
+    "search_terms": ["older woman supplements", "vitamin pills elderly", "senior nutrition wellness"],
+    "category": "hormonas"
+  },
+  {
+    "id": 3073,
+    "topic": "Por qué la zona 2 es la mejor inversión cardiovascular",
+    "hook": "Zona 2 cardio es el secreto longevidad",
+    "key_points": [
+      "Iñigo San Millán y Peter Attia: zona 2 desarrolla mitocondrias",
+      "Frecuencia 60-70% FCmax durante 45-60 min",
+      "Mejora flexibilidad metabólica: oxida grasa eficazmente",
+      "Reduce mortalidad cardiovascular 35% vs sedentarios (Lancet)"
+    ],
+    "search_terms": ["jogging park morning", "outdoor running cardio", "heart rate fitness"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 3074,
+    "topic": "Cronobiología digestiva: cuándo NO comer",
+    "hook": "Comer en estos horarios te enferma",
+    "key_points": [
+      "Comer entre 22-6h va contra ritmo circadiano (Nature 2017)",
+      "Páncreas tiene 70% menos sensibilidad insulínica de noche",
+      "Cenar tarde aumenta cortisol matutino 30% al día siguiente",
+      "Jet lag metabólico por turnos nocturnos: +50% diabetes"
+    ],
+    "search_terms": ["midnight snack fridge", "late night eating", "clock food timing"],
+    "category": "cronobiologia"
+  },
+  {
+    "id": 3075,
+    "topic": "Hábito mental japonés contra el envejecimiento",
+    "hook": "Ikigai añade 7 años de vida",
+    "key_points": [
+      "Estudio Ohsaki: tener ikigai reduce mortalidad cardiovascular 31%",
+      "Sentido de propósito activa la corteza prefrontal anti-Alzheimer",
+      "Asociado a menor inflamación crónica (CRP)",
+      "No es trabajo: es algo que te da sentido cada mañana"
+    ],
+    "search_terms": ["japanese elderly smile", "mental wellness senior", "purpose meaning life"],
+    "category": "estres"
+  },
+  {
+    "id": 3076,
+    "topic": "Errores con los electrolitos en el ayuno",
+    "hook": "Ayuno sin electrolitos te marea",
+    "key_points": [
+      "Ayuno >24h depleta sodio, potasio y magnesio rápidamente",
+      "Síntomas keto-flu son por déficit electrolitos, no carbos",
+      "Reponer: 2-3g sodio, 1g potasio, 300mg magnesio diarios",
+      "Caldo casero salado es mejor que bebidas isotónicas comerciales"
+    ],
+    "search_terms": ["salt water glass", "electrolyte drink", "mineral supplements"],
+    "category": "ayuno"
+  },
+  {
+    "id": 3077,
+    "topic": "Sinergia ajo crudo + perejil: alicina activa",
+    "hook": "Ajo cocinado pierde su poder",
+    "key_points": [
+      "Cocción destruye alicina, principio activo del ajo (J Agric Food Chem)",
+      "Aplastar y esperar 10 min activa enzima alinasa",
+      "Perejil neutraliza halitosis del ajo crudo",
+      "1 diente ajo crudo/día baja LDL 9% y presión 8 mmHg (Hypertension)"
+    ],
+    "search_terms": ["fresh garlic cloves", "parsley herb cooking", "garlic crushed plate"],
+    "category": "nutricion"
+  },
+  {
+    "id": 3078,
+    "topic": "Por qué los longevos toman café en el sur de Italia",
+    "hook": "Acciaroli toma café 5 veces al día",
+    "key_points": [
+      "Acciaroli: 300 centenarios en 700 habitantes (Universidad San Diego)",
+      "Café espresso aporta polifenoles antioxidantes diarios",
+      "Estudio NEJM 2017: 3-4 cafés/día reducen mortalidad 12%",
+      "Combinado con dieta mediterránea + actividad: efecto sinérgico"
+    ],
+    "search_terms": ["italian espresso cup", "village mediterranean elderly", "coffee morning routine"],
+    "category": "nutricion"
+  },
+  {
+    "id": 3079,
+    "topic": "Hábito específico para hombres en sus 30 con la salud cardio",
+    "hook": "A los 30, tu corazón ya envejece",
+    "key_points": [
+      "Calcificación coronaria empieza a los 30-35 años (Framingham)",
+      "Medir lipoproteína(a) una vez en la vida: marcador genético",
+      "Apo B mejor predictor riesgo cardio que LDL clásico",
+      "ApoB <80 mg/dL = riesgo bajo (American Coll Cardiology)"
+    ],
+    "search_terms": ["man heart health", "cardiology checkup", "30s healthy lifestyle male"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 3080,
+    "topic": "Mito viral: zumo verde sustituye comidas",
+    "hook": "Zumo verde no sustituye nada",
+    "key_points": [
+      "Zumo elimina 95% fibra: pico glucémico mayor",
+      "Sin proteína ni grasa: saciedad de 30 min",
+      "Estudio AJCN: zumar pierde 60% antioxidantes vs masticar",
+      "Mejor batido completo con yogur griego, proteína y semillas"
+    ],
+    "search_terms": ["green juice glass", "smoothie blend healthy", "vegetable juice fresh"],
+    "category": "mitos"
+  },
+  {
+    "id": 3081,
+    "topic": "Recovery: el frío vs calor según objetivo",
+    "hook": "Hielo post-entreno frena hipertrofia",
+    "key_points": [
+      "Estudio J Physiology 2015: hielo post-entreno reduce gains 12%",
+      "Frío crónico bloquea inflamación necesaria para reparación",
+      "Mejor sauna 80-100°C 20 min: HSP72 acelera reparación",
+      "Frío solo si objetivo es competición inmediata, no construcción"
+    ],
+    "search_terms": ["ice bath recovery", "sauna wood relaxation", "cold therapy fitness"],
+    "category": "recovery"
+  },
+  {
+    "id": 3082,
+    "topic": "Errores específicos con el ayuno para diabéticos",
+    "hook": "Diabéticos no deben ayunar igual",
+    "key_points": [
+      "Diabetes tipo 2: empezar ayuno 12h, nunca 16h+ sin médico",
+      "Estudio Diabetes Care 2022: ayuno alterno mejora HbA1c 0.7 puntos",
+      "Riesgo hipoglucemia con metformina o insulina activa",
+      "Monitor continuo glucosa esencial las primeras 4 semanas"
+    ],
+    "search_terms": ["glucose monitor blood", "diabetes care meter", "doctor patient consultation"],
+    "category": "ayuno"
+  },
+  {
+    "id": 3083,
+    "topic": "Por qué a los 40 necesitas trabajar la potencia",
+    "hook": "La fuerza no, la potencia te salva",
+    "key_points": [
+      "Pérdida de fibras tipo II (rápidas) acelera tras los 40",
+      "Estudio J Gerontology: potencia muscular predice mortalidad mejor que fuerza",
+      "Saltos, lanzamientos, sprints cortos: 2x semana",
+      "Reduce caídas 50% en personas de 65+ años (BMJ)"
+    ],
+    "search_terms": ["jumping exercise fitness", "explosive movement training", "plyometric workout"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 3084,
+    "topic": "Combinación cúrcuma + aceite coco: efecto cerebral",
+    "hook": "Cúrcuma sin grasa no llega al cerebro",
+    "key_points": [
+      "Curcumina es liposoluble: necesita grasa para absorción",
+      "Aceite coco contiene MCT que cruzan barrera hematoencefálica",
+      "Estudio AJGP: combinación mejora memoria 28% en 18 meses",
+      "Dosis: 500mg curcumina + 1 cda coco + pimienta negra"
+    ],
+    "search_terms": ["turmeric coconut oil", "spices brain food", "yellow latte drink"],
+    "category": "nutricion"
+  },
+  {
+    "id": 3085,
+    "topic": "Hábito de longevos en Andorra (Pirineos)",
+    "hook": "Andorra tiene la 4ª esperanza vida mundial",
+    "key_points": [
+      "Esperanza vida 84 años (OMS 2023)",
+      "Altitud 1000m+ activa hipoxia leve y eritropoyesis",
+      "Caminar pendientes diarias: zona 2 natural sin esfuerzo extra",
+      "Aire puro reduce enfermedades respiratorias 40% vs ciudad"
+    ],
+    "search_terms": ["pyrenees mountain village", "alpine landscape europe", "elderly hiking mountains"],
+    "category": "ejercicio"
+  },
+  {
+    "id": 3086,
+    "topic": "Por qué tu sed nocturna indica problema metabólico",
+    "hook": "Despertar con sed = alerta metabólica",
+    "key_points": [
+      "Sed nocturna intensa: posible diabetes incipiente o prediabetes",
+      "Estudio Diabetes Care: poliuria nocturna predice HbA1c elevada",
+      "Cena tarde con carbos refinados eleva glucemia 8h",
+      "Hidratarse 2L/día evita compensación nocturna"
+    ],
+    "search_terms": ["water glass night", "thirsty bedroom dark", "wake up drinking"],
+    "category": "hidratacion"
+  },
+  {
+    "id": 3087,
+    "topic": "Errores con el zinc en mujeres",
+    "hook": "Mujeres toman zinc al revés",
+    "key_points": [
+      "Zinc compite con cobre: dosis altas causan déficit cobre",
+      "Mujeres anticonceptivas tienen niveles cobre 40% más altos",
+      "Suplementación >40mg zinc/día sin cobre: anemia secundaria",
+      "Mejor 15mg zinc + 2mg cobre o dieta variada (ostras, semillas calabaza)"
+    ],
+    "search_terms": ["zinc supplements pills", "minerals woman wellness", "vitamin pills female"],
+    "category": "nutricion"
+  },
+  {
+    "id": 3088,
+    "topic": "Cronobiología y entrenamiento de fuerza vespertino",
+    "hook": "Entrenar a las 18h: récord fuerza",
+    "key_points": [
+      "Estudio Sports Medicine: pico fuerza 18h por temperatura corporal 37.5°C",
+      "Tendones más elásticos = mejor rango movimiento",
+      "Cortisol bajo = anabolismo predominante",
+      "Sincronizado con alimentación: sesión + cena = recuperación óptima"
+    ],
+    "search_terms": ["evening workout strength", "afternoon gym lifting", "6pm fitness training"],
+    "category": "cronobiologia"
+  },
+  {
+    "id": 3089,
+    "topic": "Mitos virales del jengibre como quemagrasa",
+    "hook": "Jengibre NO quema grasa abdominal",
+    "key_points": [
+      "Estudio Metabolism 2012: efecto modesto saciedad, no quemagrasa",
+      "Sí mejora digestión: gingerol activa motilidad gástrica",
+      "Reduce náuseas embarazo y mareos viaje (estudios robustos)",
+      "Mejor con limón en agua tibia: efecto digestivo, no adelgazante"
+    ],
+    "search_terms": ["ginger root tea", "fresh ginger spice", "herbal drink wellness"],
+    "category": "mitos"
+  }
+]
