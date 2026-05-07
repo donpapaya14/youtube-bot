@@ -19,7 +19,7 @@ log = logging.getLogger(__name__)
 def get_google_trends_es() -> list[str]:
     """Obtiene tendencias de Google Trends España via RSS."""
     try:
-        url = "https://trends.google.com/trends/trendingsearches/daily/rss?geo=ES"
+        url = "https://trends.google.com/trending/rss?geo=ES"
         req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
         resp = urllib.request.urlopen(req, timeout=15)
         content = resp.read().decode("utf-8")
@@ -34,7 +34,7 @@ def get_google_trends_es() -> list[str]:
 def get_google_trends_us() -> list[str]:
     """Obtiene tendencias de Google Trends USA."""
     try:
-        url = "https://trends.google.com/trends/trendingsearches/daily/rss?geo=US"
+        url = "https://trends.google.com/trending/rss?geo=US"
         req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
         resp = urllib.request.urlopen(req, timeout=15)
         content = resp.read().decode("utf-8")
