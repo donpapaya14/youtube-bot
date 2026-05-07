@@ -19,6 +19,12 @@ jobs:
       contents: write
 
     steps:
+      - name: Anti-pattern random delay
+        run: |
+          DELAY=$((RANDOM % 1500))
+          echo "::notice::Anti-pattern delay: ${DELAY}s ($((DELAY / 60))m)"
+          sleep $DELAY
+
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
