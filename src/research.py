@@ -14,7 +14,7 @@ from openai import OpenAI
 
 log = logging.getLogger(__name__)
 
-NVIDIA_FAST = "mistralai/mistral-7b-instruct-v0.2"
+NVIDIA_FAST = "meta/llama-3.1-8b-instruct"
 NVIDIA_STABLE = "meta/llama-3.3-70b-instruct"
 GROQ_MODEL = "llama-3.3-70b-versatile"
 GITHUB_MODEL = "DeepSeek-V3-0324"
