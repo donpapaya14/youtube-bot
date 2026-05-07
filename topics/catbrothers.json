@@ -1,1562 +1,2702 @@
 [
   {
-    "id": 1,
-    "topic": "Por qué tu gato te trae animales muertos como regalo",
-    "hook": "Tu gato cree que no sabes cazar",
+    "id": 2000,
+    "topic": "Maine Coon cats can grow over 3 feet long",
+    "hook": "This cat breaks length records",
     "key_points": [
-      "Según John Bradshaw de la Universidad de Bristol, los gatos te ven como un gato grande e incompetente para cazar",
-      "Las gatas enseñan a cazar a sus crías trayendo presas — tu gato hace lo mismo contigo",
-      "Un estudio de la Universidad de Georgia con cámaras en 55 gatos reveló que cazan una media de 2 presas por semana",
-      "Los gatos de interior sustituyen las presas por juguetes o calcetines — mismo instinto de caza activo"
+      "Maine Coons average 19-40 inches nose to tail tip",
+      "Stewie held Guinness record at 48.5 inches in 2010",
+      "Slow growth: full size only at 4-5 years old",
+      "Native to Maine, USA, official state cat since 1985"
     ],
-    "search_terms": ["cat hunting instinct", "cat with toy mouse", "cat stalking prey"],
-    "category": "comportamiento"
+    "search_terms": ["maine coon cat", "large fluffy cat", "long cat tail"],
+    "category": "cat-breeds"
   },
   {
-    "id": 2,
-    "topic": "Los gatos tienen un ronroneo que cura huesos",
-    "hook": "Tu gato es una máquina de curar",
+    "id": 2001,
+    "topic": "Why cats knead with their paws",
+    "hook": "Your cat thinks you are mom",
     "key_points": [
-      "Según un estudio publicado en el Journal of the Acoustical Society of America, el ronroneo vibra entre 25 y 150 Hz",
-      "La NASA descubrió que vibraciones entre 25-50 Hz estimulan la densidad ósea y aceleran la curación de fracturas",
-      "Elizabeth von Muggenthaler del Fauna Communications Research Institute confirmó que los gatos ronronean en frecuencias terapéuticas",
-      "Los gatos se recuperan de fracturas un 80% más rápido que los perros según datos veterinarios de la AVMA"
+      "Kneading starts in kittenhood to stimulate milk flow",
+      "Adults knead when feeling safe and content per Cornell Vet",
+      "Releases pheromones from paw pad scent glands",
+      "Behavior also called making biscuits"
     ],
-    "search_terms": ["cat purring close up", "cat sleeping peacefully", "cat vibrating purr"],
-    "category": "salud_felina"
+    "search_terms": ["cat kneading", "kitten paws", "cat on blanket"],
+    "category": "cat-behavior"
   },
   {
-    "id": 3,
-    "topic": "Por qué los gatos amasan con las patas",
-    "hook": "Tu gato nunca dejó de ser bebé",
+    "id": 2002,
+    "topic": "Cats have 32 muscles in each ear",
+    "hook": "Cat ears beat human ears",
     "key_points": [
-      "Según la veterinaria Mikel Delgado de UC Davis, amasar es un comportamiento neonatal que estimulaba la leche materna",
-      "Los gatos adultos amasan cuando se sienten seguros — es una regresión emocional positiva según el Journal of Feline Medicine",
-      "Al amasar liberan feromonas desde las glándulas de sus almohadillas para marcar territorio (ASPCA)",
-      "Un estudio de la Universidad de Lincoln encontró que los gatos que más amasan tienen niveles más bajos de cortisol"
+      "Humans have only 6 ear muscles by comparison",
+      "Cats rotate ears 180 degrees independently",
+      "Hearing range up to 64 kHz vs humans 20 kHz",
+      "Detect mouse squeaks at 200 feet away"
     ],
-    "search_terms": ["cat kneading blanket", "cat paws close up", "kitten nursing mother"],
-    "category": "comportamiento"
+    "search_terms": ["cat ears close up", "cat listening", "alert cat face"],
+    "category": "cat-science"
   },
   {
-    "id": 4,
-    "topic": "Tu gato puede oír ultrasonidos que tú ni imaginas",
-    "hook": "Tu gato oye cosas que no existen",
+    "id": 2003,
+    "topic": "Black cats were once worth their weight in silver",
+    "hook": "Sailors paid silver for black cats",
     "key_points": [
-      "Según la Universidad de Cornell, los gatos oyen frecuencias de hasta 64.000 Hz — los humanos solo hasta 20.000 Hz",
-      "Tienen 32 músculos en cada oreja (los humanos solo 6) según la ASPCA, permitiendo rotación de 180 grados",
-      "Un estudio de la Universidad de Tokio demostró que los gatos pueden localizar un sonido con precisión de 5 grados",
-      "Escuchan los ultrasonidos de roedores, por eso a veces miran fijamente a la pared — oyen ratones dentro (Journal of Comparative Psychology)"
+      "British Royal Navy required ship cats until 1975",
+      "Black cats considered luckiest at sea per maritime lore",
+      "Trim sailed with Matthew Flinders around Australia 1801-1803",
+      "Statue of Trim stands outside Sydney library today"
     ],
-    "search_terms": ["cat ears moving", "cat listening alert", "cat ear close up rotation"],
-    "category": "curiosidades"
+    "search_terms": ["black cat", "ship at sea", "cat on boat"],
+    "category": "cat-history"
   },
   {
-    "id": 5,
-    "topic": "Por qué el chocolate es veneno para tu gato",
-    "hook": "Un bombón puede matar a tu gato",
+    "id": 2004,
+    "topic": "Your cat purr heals broken bones",
+    "hook": "Purrs heal at 25 to 150 Hz",
     "key_points": [
-      "Según la ASPCA, la teobromina del chocolate es tóxica para gatos — no pueden metabolizarla como los humanos",
-      "La dosis letal de teobromina en gatos es de apenas 200 mg/kg según el Merck Veterinary Manual",
-      "El chocolate negro es 6 veces más peligroso que el chocolate con leche por su mayor concentración de teobromina (ASPCA Poison Control)",
-      "Los síntomas aparecen entre 6-12 horas después: vómitos, temblores, arritmia cardíaca según la Pet Poison Helpline"
+      "Frequencies 25-50 Hz promote bone density growth",
+      "100 Hz aids tendon and muscle repair",
+      "Research published in Journal of Acoustical Society of America",
+      "Cats purr while inhaling AND exhaling"
     ],
-    "search_terms": ["cat health warning", "cat at veterinarian", "cat food safety"],
-    "category": "alimentación"
+    "search_terms": ["cat purring close up", "cat sleeping cozy", "cat lap"],
+    "category": "cat-science"
   },
   {
-    "id": 6,
-    "topic": "El gato Maine Coon puede pesar más que un bebé humano",
-    "hook": "Este gato pesa más que tu bebé",
+    "id": 2005,
+    "topic": "First cat in space was French",
+    "hook": "France launched a cat to space",
     "key_points": [
-      "Según la CFA (Cat Fanciers' Association), los Maine Coon machos alcanzan entre 6 y 11 kg regularmente",
-      "El récord Guinness de gato doméstico más largo fue Stewie, un Maine Coon de 123 cm de nariz a cola",
-      "Tienen un pelaje triple capa resistente al agua, adaptación al clima de Maine según la TICA",
-      "Tardan hasta 5 años en alcanzar su tamaño completo — el doble que la mayoría de razas (Cornell Feline Health Center)"
+      "Felicette flew October 18 1963 from Algeria",
+      "Reached 100 miles altitude on Veronique rocket",
+      "Stray from Paris streets, only feline astronaut",
+      "Statue erected at International Space University 2019"
     ],
-    "search_terms": ["maine coon cat large", "maine coon size comparison", "big domestic cat breed"],
-    "category": "razas"
+    "search_terms": ["space rocket launch", "stray cat", "vintage space"],
+    "category": "cat-history"
   },
   {
-    "id": 7,
-    "topic": "Tu gato duerme 16 horas al día y tiene motivos evolutivos",
-    "hook": "Tu gato duerme más que un koala",
+    "id": 2006,
+    "topic": "Cats cannot taste sweetness",
+    "hook": "Cats taste no sugar at all",
     "key_points": [
-      "Según la National Sleep Foundation, los gatos duermen entre 12 y 16 horas diarias para conservar energía de caza",
-      "El 75% de su sueño es ligero (fase REM corta) — están listos para despertar en 0.5 segundos según la Universidad de Lyon",
-      "Los gatos son crepusculares, no nocturnos — su pico de actividad es al amanecer y atardecer (Journal of Veterinary Behavior)",
-      "Los gatitos recién nacidos duermen 22 horas al día porque la hormona del crecimiento solo se libera durante el sueño (AVMA)"
+      "Missing functional Tas1r2 sweet receptor gene",
+      "Confirmed by Monell Chemical Senses Center 2005",
+      "Obligate carnivores evolved without need for sugar detection",
+      "Why your cat ignores ice cream flavor"
     ],
-    "search_terms": ["cat sleeping cute", "cat nap sunlight", "kitten sleeping peacefully"],
-    "category": "comportamiento"
+    "search_terms": ["cat eating food", "cat curious face", "cat nose"],
+    "category": "cat-nutrition"
   },
   {
-    "id": 8,
-    "topic": "Los gatos Siameses cambian de color con la temperatura",
-    "hook": "Este gato cambia de color con el frío",
+    "id": 2007,
+    "topic": "Why cats bring you dead animals",
+    "hook": "Your cat is teaching you",
     "key_points": [
-      "Según la Universidad de California, los Siameses tienen el gen cs que produce una enzima termosensible",
-      "La tirosinasa solo activa el pigmento por debajo de 33°C — por eso las extremidades frías son oscuras (Genetics journal)",
-      "Los gatitos Siameses nacen completamente blancos porque el útero materno está a 38°C (TICA breed profile)",
-      "Si un Siamés lleva vendaje en una pata, esa zona se vuelve más clara al calentarse según estudios de la Universidad de Cornell"
+      "Mother cats teach kittens hunting via prey delivery",
+      "Indoor cats view owners as kittens needing skills",
+      "ASPCA confirms instinct unrelated to gift-giving myth",
+      "Spayed females do this most often"
     ],
-    "search_terms": ["siamese cat blue eyes", "siamese kitten white", "siamese cat color points"],
-    "category": "curiosidades"
+    "search_terms": ["cat with mouse toy", "cat hunting grass", "outdoor cat"],
+    "category": "cat-behavior"
   },
   {
-    "id": 9,
-    "topic": "Por qué los gatos odian el agua pero aman los grifos",
-    "hook": "Tu gato odia bañarse pero ama el grifo",
+    "id": 2008,
+    "topic": "Norwegian Forest Cats survived Viking ships",
+    "hook": "Vikings carried cats on ships",
     "key_points": [
-      "Según la veterinaria Kelly St. Denis de la AAFP, el pelaje empapado pesa y reduce la agilidad del gato, activando estrés",
-      "Los gatos prefieren agua en movimiento — evolutivamente el agua estancada tiene más patógenos (Journal of Feline Medicine and Surgery)",
-      "Un estudio de la Universidad de Viena mostró que los gatos beben un 30% más de fuentes que de cuencos estáticos",
-      "Algunas razas como el Van Turco aman nadar — tienen pelaje semiacuático que no se empapa según la CFA"
+      "Bred over 1000 years on Scandinavian fishing boats",
+      "Waterproof double coat resists snow and rain",
+      "Believed pulled goddess Freya chariot in Norse myth",
+      "Rediscovered as breed in 1930s, near extinction WWII"
     ],
-    "search_terms": ["cat drinking water faucet", "cat playing water", "cat bath funny"],
-    "category": "comportamiento"
+    "search_terms": ["norwegian forest cat", "longhaired cat snow", "fluffy cat"],
+    "category": "cat-breeds"
   },
   {
-    "id": 10,
-    "topic": "Los gatos tienen visión nocturna 6 veces mejor que la tuya",
-    "hook": "Tu gato ve en la oscuridad total",
+    "id": 2009,
+    "topic": "90% of owners feed cats wrong portions",
+    "hook": "You overfeed your cat daily",
     "key_points": [
-      "Según la Universidad de Cornell, los gatos necesitan solo 1/6 de la luz que necesitan los humanos para ver",
-      "El tapetum lucidum refleja la luz como un espejo detrás de la retina — por eso sus ojos brillan en fotos (Veterinary Ophthalmology journal)",
-      "Tienen una proporción de bastones a conos de 25:1, frente al 20:1 humano, según la Universidad de Bristol",
-      "No pueden ver en oscuridad absoluta, pero sí con luz de estrellas — sus pupilas se dilatan al 90% del iris (ASPCA)"
+      "Average 10 lb cat needs only 200 calories per day",
+      "Free-feeding causes 60% US cat obesity per AVMA",
+      "Use measuring cup not scoops or eyeballing",
+      "Weigh cat monthly with kitchen scale check"
     ],
-    "search_terms": ["cat eyes glowing dark", "cat night vision", "cat pupils dilated"],
-    "category": "curiosidades"
+    "search_terms": ["overweight cat", "cat food bowl", "cat eating dry food"],
+    "category": "cat-nutrition"
   },
   {
-    "id": 11,
-    "topic": "Por qué los gatos frotan su cara contra todo",
-    "hook": "Tu gato te marca como su propiedad",
+    "id": 2010,
+    "topic": "Cats sweat only through their paw pads",
+    "hook": "Cats sweat from paws only",
     "key_points": [
-      "Según la ASPCA, los gatos tienen glándulas de feromonas en mejillas, mentón, frente y labios",
-      "El bunting (frotar la cabeza) deposita feromonas faciales que marcan objetos como seguros según el Journal of Feline Medicine",
-      "Los gatos tienen al menos 5 tipos diferentes de feromonas faciales — F3 es la de confort según Patrick Pageat del IRSEA",
-      "Cuando tu gato frota su cara contra ti, te está incluyendo en su grupo social — es un honor felino (Universidad de Lincoln)"
+      "Eccrine glands located solely in paw pads",
+      "Wet paw prints on tile signal stress or heat",
+      "Primary cooling via panting and grooming saliva",
+      "Heatstroke risk above 80F per Cornell Vet"
     ],
-    "search_terms": ["cat rubbing face", "cat head bunting", "cat scent marking"],
-    "category": "comportamiento"
+    "search_terms": ["cat paws", "cat walking floor", "cat panting"],
+    "category": "cat-health"
   },
   {
-    "id": 12,
-    "topic": "El gato Sphynx no es realmente calvo",
-    "hook": "El gato calvo tiene pelo invisible",
+    "id": 2011,
+    "topic": "Why cats stare at you while pooping",
+    "hook": "Cat stares because vulnerable",
     "key_points": [
-      "Según la CFA, el Sphynx tiene una fina capa de vello tipo melocotón que es casi imperceptible al tacto",
-      "Su temperatura corporal es 4°C más alta que otros gatos para compensar la falta de pelaje aislante (TICA breed standard)",
-      "Necesitan baños semanales porque sin pelo, la grasa corporal se acumula en la piel (Cornell Feline Health Center)",
-      "El gen de la calvicie del Sphynx es recesivo — ambos padres deben portarlo según estudios genéticos de la Universidad de UC Davis"
+      "Litter box position leaves them defenseless",
+      "Eye contact requests guarding from predators",
+      "Trust signal you are seen as protector",
+      "Wild ancestors buried waste to hide scent"
     ],
-    "search_terms": ["sphynx cat close up", "hairless cat breed", "sphynx cat skin texture"],
-    "category": "razas"
+    "search_terms": ["cat litter box", "cat looking at owner", "cat hiding"],
+    "category": "cat-behavior"
   },
   {
-    "id": 13,
-    "topic": "Las plantas que pueden matar a tu gato en horas",
-    "hook": "Esa planta bonita puede matar a tu gato",
+    "id": 2012,
+    "topic": "Oldest cat lived 38 years and 3 days",
+    "hook": "This cat lived 38 years",
     "key_points": [
-      "Según la ASPCA, los lirios (Lilium) causan insuficiencia renal aguda en gatos — incluso el polen es mortal",
-      "Solo 1-2 hojas de lirio pueden matar a un gato en 24-72 horas si no se trata según la Pet Poison Helpline",
-      "El potos (Epipremnum aureum) contiene cristales de oxalato de calcio que causan quemaduras orales severas (ASPCA Poison Control)",
-      "La ASPCA tiene una lista de más de 400 plantas tóxicas para gatos — las más comunes: aloe vera, tulipán, azalea, ciclamen"
+      "Creme Puff born August 3 1967, died August 6 2005",
+      "Lived in Austin Texas with Jake Perry",
+      "Diet included bacon, eggs, broccoli, coffee with cream",
+      "Guinness World Records oldest cat ever"
     ],
-    "search_terms": ["cat near plants indoor", "cat smelling flowers", "cat safe plants home"],
-    "category": "salud_felina"
+    "search_terms": ["old cat", "senior cat sleeping", "ginger cat"],
+    "category": "cat-facts"
   },
   {
-    "id": 14,
-    "topic": "Tu gato tiene una clavícula flotante que le da superpoderes",
-    "hook": "Tu gato tiene huesos que tú no tienes",
+    "id": 2013,
+    "topic": "Cats see UV light humans cannot",
+    "hook": "Cats see invisible light",
     "key_points": [
-      "Según el Journal of Anatomy, la clavícula del gato no está unida al esqueleto — flota en el músculo",
-      "Esta clavícula libre les permite pasar por cualquier hueco donde quepa su cabeza según la Universidad de Cornell",
-      "Los gatos tienen 230 huesos, 24 más que los humanos, según la AVMA",
-      "Su columna vertebral tiene 53 vértebras (la humana tiene 33), dándoles flexibilidad extrema (Veterinary Anatomy textbook de König)"
+      "Lens passes UV wavelengths blocked in human eyes",
+      "Study in Proceedings Royal Society B 2014",
+      "Urine trails of rodents glow under UV",
+      "Helps detect prey in darkness"
     ],
-    "search_terms": ["cat squeezing through gap", "cat flexible body", "cat jumping stretching"],
-    "category": "curiosidades"
+    "search_terms": ["cat eyes glowing", "cat at night", "cat staring intense"],
+    "category": "cat-science"
   },
   {
-    "id": 15,
-    "topic": "Por qué los gatos vomitan bolas de pelo y cómo prevenirlo",
-    "hook": "Las bolas de pelo pueden ser peligrosas",
+    "id": 2014,
+    "topic": "Why your cat headbutts you",
+    "hook": "That headbutt marks ownership",
     "key_points": [
-      "Según el Cornell Feline Health Center, los gatos ingieren pelo al acicalarse porque su lengua tiene papilas en forma de gancho",
-      "Un gato medio se acicala 3-4 horas al día — traga cientos de pelos en cada sesión (Journal of Feline Medicine)",
-      "Los tricobezoares (bolas de pelo) pueden causar obstrucción intestinal que requiere cirugía en casos graves (AVMA)",
-      "La fibra en la dieta ayuda al tránsito: las dietas con 8-10% de fibra reducen las bolas de pelo un 50% según estudios de Purina"
+      "Called bunting, deposits scent from forehead glands",
+      "Marks you as part of cat colony",
+      "Sign of trust and affection per Jackson Galaxy",
+      "Cats also bunt furniture and other pets"
     ],
-    "search_terms": ["cat grooming itself", "cat tongue close up", "long hair cat brushing"],
-    "category": "salud_felina"
+    "search_terms": ["cat rubbing face", "cat affection owner", "cat headbutt"],
+    "category": "cat-behavior"
   },
   {
-    "id": 16,
-    "topic": "El gato Scottish Fold tiene orejas dobladas por una mutación genética",
-    "hook": "Sus orejas dobladas esconden un problema grave",
+    "id": 2015,
+    "topic": "Polydactyl cats have up to 28 toes",
+    "hook": "Some cats have 28 toes",
     "key_points": [
-      "Según la Universidad de Sídney, la mutación del gen TRPV4 causa el pliegue de las orejas y también osteocondrodisplasia",
-      "La GCCF (Reino Unido) prohibió la cría de Scottish Fold por problemas de bienestar en 2017",
-      "Todos los Scottish Fold descienden de una sola gata llamada Susie, encontrada en Escocia en 1961 (CFA breed history)",
-      "Cruzar dos Fold entre sí produce gatitos con artritis severa y dolor crónico — la AAFP recomienda no hacerlo"
+      "Genetic mutation called polydactyly, dominant gene",
+      "Hemingway home Key West houses 60 polydactyl descendants",
+      "Normal cats: 18 toes (5 front each, 4 back each)",
+      "Common in Maine Coons due to ship cat ancestry"
     ],
-    "search_terms": ["scottish fold cat ears", "cute cat folded ears", "scottish fold kitten"],
-    "category": "razas"
+    "search_terms": ["cat paws closeup", "polydactyl cat", "cat toes"],
+    "category": "cat-facts"
   },
   {
-    "id": 17,
-    "topic": "Los gatos no pueden saborear el dulce",
-    "hook": "Tu gato no sabe qué es el azúcar",
+    "id": 2016,
+    "topic": "Cats have a third eyelid for protection",
+    "hook": "Your cat has 3 eyelids",
     "key_points": [
-      "Según un estudio publicado en PLoS Genetics (2005), los gatos tienen el gen Tas1r2 inactivo — no detectan sabores dulces",
-      "Son los únicos mamíferos conocidos con esta mutación genética según Joe Brand del Monell Chemical Senses Center",
-      "Tienen solo 473 papilas gustativas frente a las 9.000 de los humanos (Journal of Comparative Neurology)",
-      "Si tu gato come helado, le atrae la grasa y la proteína láctea, no el azúcar según la Universidad de Cornell"
+      "Nictitating membrane sweeps debris and lubricates",
+      "Visible third eyelid signals illness per Cornell Vet",
+      "Protects eye during fights and dense brush hunting",
+      "Humans only have vestigial remnant in inner corner"
     ],
-    "search_terms": ["cat eating food", "cat tasting something", "cat tongue taste buds"],
-    "category": "alimentación"
+    "search_terms": ["cat eye closeup", "sleepy cat", "cat blinking"],
+    "category": "cat-health"
   },
   {
-    "id": 18,
-    "topic": "Cómo presentar un gato nuevo sin que se maten",
-    "hook": "Así evitas una guerra de gatos en casa",
+    "id": 2017,
+    "topic": "Why cats hate water but tigers love it",
+    "hook": "Domestic cats fear water why",
     "key_points": [
-      "Según la AAFP, la introducción debe ser gradual: mínimo 1-2 semanas de separación física con intercambio de olores",
-      "El Dr. Tony Buffington de Ohio State recomienda intercambiar mantas entre gatos antes del contacto visual",
-      "Un estudio del Journal of Feline Medicine demostró que las introducciones rápidas causan agresión crónica en el 40% de los casos",
-      "Usar feromonas sintéticas Feliway reduce la agresión entre gatos un 50% según estudios del IRSEA"
+      "Domestic cats descended from desert wildcat Felis lybica",
+      "Coats not waterproof, become heavy when wet",
+      "Loss of body heat regulation when soaked",
+      "Tigers and Turkish Vans buck this trend"
     ],
-    "search_terms": ["two cats meeting first time", "cats sniffing each other", "cats living together"],
-    "category": "convivencia"
+    "search_terms": ["cat scared water", "cat bathing", "cat splash"],
+    "category": "cat-behavior"
   },
   {
-    "id": 19,
-    "topic": "Tu gato reconoce tu voz pero decide ignorarte",
-    "hook": "Tu gato te oye pero pasa de ti",
+    "id": 2018,
+    "topic": "Cats meow only to communicate with humans",
+    "hook": "Cats only meow at humans",
     "key_points": [
-      "Un estudio de la Universidad de Tokio (2013) demostró que los gatos reconocen la voz de su dueño entre extraños",
-      "De 20 gatos estudiados, el 70% movió las orejas o cabeza al oír a su dueño pero solo el 10% se movió hacia él",
-      "Según la investigadora Atsuko Saito, los gatos no fueron domesticados para obedecer — se auto-domesticaron",
-      "Un estudio posterior de la Universidad de París-Nanterre (2022) confirmó que los gatos distinguen cuando les hablas a ellos vs a otra persona"
+      "Adult cats rarely meow at other cats",
+      "Developed vocalization to manipulate human caregivers",
+      "Cornell research shows kitten-like tone targets us",
+      "Each cat develops unique meow vocabulary per owner"
     ],
-    "search_terms": ["cat ignoring owner", "cat looking away", "cat ears perking up"],
-    "category": "comportamiento"
+    "search_terms": ["cat meowing", "cat mouth open", "cat talking owner"],
+    "category": "cat-science"
   },
   {
-    "id": 20,
-    "topic": "El gato Bengal es un híbrido con un leopardo asiático",
-    "hook": "Este gato tiene sangre de leopardo real",
+    "id": 2019,
+    "topic": "Unsinkable Sam survived 3 ship sinkings",
+    "hook": "This cat survived 3 sinkings",
     "key_points": [
-      "Según la TICA, el Bengal se creó cruzando gatos domésticos con el leopardo asiático (Prionailurus bengalensis) en 1963",
-      "La genetista Jean Mill fue la primera en crear el híbrido — tardó décadas en estabilizar la raza según la CFA",
-      "Los Bengal de generación F1-F3 aún son considerados híbridos silvestres — solo F4+ son domésticos según la TICA",
-      "Su pelaje tiene glitter real — las puntas del pelo tienen una estructura que refracta la luz como purpurina según la CFA"
+      "Sailed German Bismarck sunk May 1941",
+      "Rescued, joined HMS Cossack sunk October 1941",
+      "Then HMS Ark Royal torpedoed November 1941",
+      "Retired to Belfast home until 1955"
     ],
-    "search_terms": ["bengal cat spotted", "bengal cat glitter coat", "bengal kitten playing"],
-    "category": "razas"
+    "search_terms": ["black white cat", "warship vintage", "cat rescue"],
+    "category": "cat-history"
   },
   {
-    "id": 21,
-    "topic": "La hierba gatera activa el mismo receptor que la marihuana en humanos",
-    "hook": "La hierba gatera es droga legal para gatos",
+    "id": 2020,
+    "topic": "Cats spend 70% of life sleeping",
+    "hook": "Cats sleep 16 hours daily",
     "key_points": [
-      "Según un estudio de la Universidad de Harvard, la nepetalactona del catnip se une a receptores opioides en el cerebro felino",
-      "Solo afecta al 50-70% de los gatos — la sensibilidad es genética y autosómica dominante (Journal of Heredity)",
-      "El efecto dura solo 10 minutos y luego hay un período refractario de 30 minutos según la ASPCA",
-      "Investigadores de la Universidad de Iwate (Japón, 2021) descubrieron que el catnip también actúa como repelente de mosquitos"
+      "Average 12-16 hours per day, kittens up to 20",
+      "Conserve energy from ancestral hunting cycles",
+      "Two sleep phases: light dozing and deep REM",
+      "Crepuscular: most active at dawn and dusk"
     ],
-    "search_terms": ["cat with catnip", "cat rolling catnip", "cat euphoric playing"],
-    "category": "curiosidades"
+    "search_terms": ["cat sleeping", "cat napping cozy", "cat deep sleep"],
+    "category": "cat-behavior"
   },
   {
-    "id": 22,
-    "topic": "Por qué nunca debes dar leche de vaca a tu gato",
-    "hook": "La leche de vaca enferma a tu gato",
+    "id": 2021,
+    "topic": "Sphynx cats need weekly baths",
+    "hook": "Hairless cats need bathing",
     "key_points": [
-      "Según el Cornell Feline Health Center, la mayoría de gatos adultos son intolerantes a la lactosa",
-      "Los gatitos producen lactasa, pero el 65% de los gatos adultos pierden esta enzima tras el destete (AVMA)",
-      "La lactosa no digerida fermenta en el intestino causando diarrea, gases y dolor abdominal (Merck Veterinary Manual)",
-      "Los gatos necesitan taurina y ácido araquidónico que la leche de vaca no aporta — no es un sustituto nutricional (AAFCO guidelines)"
+      "Lack of fur means oil builds on skin directly",
+      "Royal Canin recommends weekly gentle bath",
+      "Skip bath leads to greasy spots and skin infection",
+      "First Sphynx born 1966 Toronto from natural mutation"
     ],
-    "search_terms": ["cat drinking milk bowl", "kitten feeding", "cat milk alternatives"],
-    "category": "alimentación"
+    "search_terms": ["sphynx cat", "hairless cat", "cat bath"],
+    "category": "cat-breeds"
   },
   {
-    "id": 23,
-    "topic": "Tu gato parpadea lento para decirte que te quiere",
-    "hook": "El parpadeo lento es un beso de gato",
+    "id": 2022,
+    "topic": "Why cats love boxes scientifically",
+    "hook": "Cats need boxes to survive",
     "key_points": [
-      "Un estudio de la Universidad de Sussex (2020) confirmó científicamente que el slow blink es comunicación positiva",
-      "Los gatos respondían con slow blinks un 50% más a humanos que les parpadeaban primero que a los de cara neutra",
-      "Según Karen McComb, autora del estudio, es el equivalente a una sonrisa en lenguaje felino",
-      "La investigadora Tasmin Humphrey demostró que incluso gatos con extraños respondían al slow blink — es lenguaje universal felino"
+      "Utrecht University study shows boxes reduce stress",
+      "Enclosed spaces lower cortisol within hours",
+      "Ambush hunters seek small spaces for security",
+      "Insulation: temp tolerance is 86-100F box helps"
     ],
-    "search_terms": ["cat slow blink love", "cat eyes relaxed", "cat face close up content"],
-    "category": "comportamiento"
+    "search_terms": ["cat in box", "cardboard box cat", "cat hiding box"],
+    "category": "cat-behavior"
   },
   {
-    "id": 24,
-    "topic": "Los gatos Ragdoll se quedan flácidos cuando los coges",
-    "hook": "Este gato se derrite en tus brazos",
+    "id": 2023,
+    "topic": "Cats cannot digest milk as adults",
+    "hook": "Milk hurts adult cats",
     "key_points": [
-      "Según la CFA, los Ragdoll se relajan completamente al ser cogidos — como muñecos de trapo, de ahí su nombre",
-      "La raza fue creada por Ann Baker en California en los años 60 cruzando gatos con temperamento ultra dócil (TICA)",
-      "Son de las razas más grandes: los machos alcanzan 9 kg según el estándar de la CFA",
-      "Un estudio de la Universidad de Helsinki clasificó al Ragdoll como la raza menos agresiva de 19 razas estudiadas"
+      "Lose lactase enzyme after weaning at 12 weeks",
+      "Causes diarrhea, vomiting, gas per ASPCA",
+      "Disney cartoons created the milk-cat myth",
+      "Lactose-free cat milk products are safer option"
     ],
-    "search_terms": ["ragdoll cat held arms", "ragdoll cat floppy", "ragdoll kitten cute"],
-    "category": "razas"
+    "search_terms": ["cat drinking milk", "cat bowl", "kitten food"],
+    "category": "cat-nutrition"
   },
   {
-    "id": 25,
-    "topic": "Los gatos pueden rotar sus orejas 180 grados independientemente",
-    "hook": "Las orejas de tu gato son radares vivientes",
+    "id": 2024,
+    "topic": "Tortoiseshell cats are nearly all female",
+    "hook": "Male torties are 1 in 3000",
     "key_points": [
-      "Según la ASPCA, cada oreja del gato tiene 32 músculos que permiten rotación independiente de 180 grados",
-      "Pueden localizar la fuente de un sonido con una precisión de 5 grados a 1 metro según la Universidad de Tokio",
-      "Las orejas giradas hacia atrás indican miedo o agresión — es una señal de alarma clara según la AAFP",
-      "Los gatos usan las orejas como sistema de termorregulación — los vasos sanguíneos del pinna disipan calor (Veterinary Dermatology journal)"
+      "Coat color requires two X chromosomes",
+      "Male torties have rare XXY Klinefelter syndrome",
+      "Almost always sterile due to chromosome anomaly",
+      "Called money cats in Japanese folklore"
     ],
-    "search_terms": ["cat ears rotating", "cat ear positions", "cat alert ears forward"],
-    "category": "curiosidades"
+    "search_terms": ["tortoiseshell cat", "calico cat", "multicolor cat"],
+    "category": "cat-science"
   },
   {
-    "id": 26,
-    "topic": "Cómo hacer que tu gato use el rascador y deje el sofá",
-    "hook": "Tu sofá se salva con este truco",
+    "id": 2025,
+    "topic": "Your cat slow blink means I love you",
+    "hook": "Slow blink is a kiss",
     "key_points": [
-      "Según la AAFP, los gatos necesitan rascar para marcar territorio visual y oloroso y mantener las uñas sanas",
-      "El rascador debe tener mínimo 80 cm de alto para que el gato se estire completamente según la veterinaria Ilona Rodan",
-      "Un estudio de la Universidad de São Paulo demostró que los rascadores de sisal son preferidos 3 a 1 sobre los de cartón",
-      "Colocar el rascador junto al sofá y usar hierba gatera en él redirige el comportamiento en el 85% de los casos (Journal of Feline Medicine)"
+      "University of Sussex 2020 study confirms bonding",
+      "Cats slow blink back when humans initiate",
+      "Signals no threat, indicates trust and contentment",
+      "Try it: half-close eyes slowly toward your cat"
     ],
-    "search_terms": ["cat scratching post", "cat claws stretching", "cat scratching furniture"],
-    "category": "convivencia"
+    "search_terms": ["cat blinking slow", "cat eye contact", "cat affection"],
+    "category": "cat-behavior"
   },
   {
-    "id": 27,
-    "topic": "Los gatos pueden sobrevivir caídas de pisos altos por el efecto paracaídas",
-    "hook": "Los gatos desafían la gravedad al caer",
+    "id": 2026,
+    "topic": "Cats jump 6 times their body length",
+    "hook": "Your cat outjumps NBA players",
     "key_points": [
-      "Según un estudio de la revista Nature (1987), los gatos que caen de más de 7 pisos tienen menos lesiones que los de 2-6 pisos",
-      "A velocidad terminal (97 km/h), relajan el cuerpo y extienden las patas como un paracaídas según el Dr. Wayne Whitney del Animal Medical Center NYC",
-      "Su reflejo de enderezamiento les permite girar en el aire en 0.3 segundos — está presente desde las 3 semanas de vida (Journal of Experimental Biology)",
-      "El récord documentado es un gato que sobrevivió una caída de 32 pisos en Nueva York según el Journal of the AVMA"
+      "Average house cat jumps 5-6 feet vertically",
+      "Powerful hind leg muscles store elastic energy",
+      "Tail provides mid-air balance corrections",
+      "Cheetahs share same leg structure principle"
     ],
-    "search_terms": ["cat falling landing feet", "cat jumping high", "cat righting reflex"],
-    "category": "curiosidades"
+    "search_terms": ["cat jumping high", "cat leaping furniture", "cat playing"],
+    "category": "cat-science"
   },
   {
-    "id": 28,
-    "topic": "Los signos de que tu gato tiene dolor y lo está ocultando",
-    "hook": "Tu gato sufre en silencio sin que lo sepas",
+    "id": 2027,
+    "topic": "Why cats chatter at birds through windows",
+    "hook": "Chattering shows hunting frustration",
     "key_points": [
-      "Según la Feline Grimace Scale (Universidad de Montreal, 2019), los gatos cambian sutilmente sus expresiones faciales con dolor",
-      "Los 5 indicadores: orejas aplanadas, ojos entrecerrados, hocico tenso, bigotes hacia delante, cabeza baja (FGS)",
-      "El 90% de los gatos mayores de 12 años tienen artrosis pero solo el 5% muestran cojera visible según la AAFP",
-      "Dejar de acicalarse, esconderse o comer menos son señales de dolor crónico según el Journal of Feline Medicine and Surgery"
+      "Mimics killing bite practiced on prey",
+      "Smithsonian researchers documented in wild ocelots",
+      "Vocal release from inability to reach prey",
+      "Jaw vibration may also imitate bird calls"
     ],
-    "search_terms": ["cat hiding pain", "cat facial expression", "cat at vet examination"],
-    "category": "salud_felina"
+    "search_terms": ["cat watching bird", "cat window", "cat hunting birds"],
+    "category": "cat-behavior"
   },
   {
-    "id": 29,
-    "topic": "Tu gato tiene un órgano secreto para oler emociones",
-    "hook": "Tu gato huele tus emociones literalmente",
+    "id": 2028,
+    "topic": "Persian cats existed 1600 years ago",
+    "hook": "Persian cats are ancient royalty",
     "key_points": [
-      "El órgano de Jacobson (vomeronasal) en el paladar detecta feromonas y compuestos químicos según la AVMA",
-      "Cuando tu gato abre la boca con cara rara (respuesta flehmen), está analizando olores con este órgano (Journal of Anatomy)",
-      "Un estudio de la Universidad de Oakland (2020) demostró que los gatos detectan cambios emocionales en el sudor humano",
-      "El órgano vomeronasal tiene sus propios nervios separados del olfato normal — va directo al cerebro límbico (Veterinary Neuroscience)"
+      "Hieroglyphics from 1684 BC depict longhaired cats",
+      "Brought to Europe by Italian traveler 1620",
+      "Queen Victoria owned two blue Persians",
+      "Cat Fanciers Association most registered breed for years"
     ],
-    "search_terms": ["cat smelling flehmen response", "cat open mouth sniffing", "cat nose close up"],
-    "category": "curiosidades"
+    "search_terms": ["persian cat", "longhaired white cat", "fluffy cat face"],
+    "category": "cat-breeds"
   },
   {
-    "id": 30,
-    "topic": "Por qué los gatos naranjas tienen fama de ser tontos",
-    "hook": "Los gatos naranjas no son tontos sino valientes",
+    "id": 2029,
+    "topic": "Cats whiskers measure spaces precisely",
+    "hook": "Whiskers are biological rulers",
     "key_points": [
-      "Según un estudio de la Universidad de California Davis, el gen naranja está en el cromosoma X — el 80% de los naranjas son machos",
-      "Un estudio de la Universidad de Berkeley (2012) encontró que los dueños perciben a los naranjas como más amigables pero no más tontos",
-      "Los gatos naranjas suelen ser más pesados — un estudio del JAVMA encontró que los machos naranjas pesan 0.5 kg más en promedio",
-      "La melanocortina vinculada al pelo naranja también afecta el apetito y la tolerancia al dolor según la revista Nature Genetics"
+      "Same width as cat body for gap fitting",
+      "Detect air currents to map dark surroundings",
+      "Connect to nervous system 3x deeper than fur",
+      "Never trim, causes spatial confusion per Cornell Vet"
     ],
-    "search_terms": ["orange tabby cat", "ginger cat cute", "orange cat funny face"],
-    "category": "curiosidades"
+    "search_terms": ["cat whiskers closeup", "cat face profile", "cat in tight space"],
+    "category": "cat-science"
   },
   {
-    "id": 31,
-    "topic": "Los alimentos humanos que son seguros para tu gato",
-    "hook": "Estos alimentos humanos sí puede comer tu gato",
+    "id": 2030,
+    "topic": "Why your cat suddenly zooms at 3 AM",
+    "hook": "Zoomies release pent prey energy",
     "key_points": [
-      "Según la ASPCA, el pollo y pavo cocidos sin condimentos son seguros y aportan proteína de alta biodisponibilidad",
-      "El salmón cocido aporta omega-3 beneficioso para la piel y pelaje según el Journal of Feline Medicine",
-      "La calabaza cocida (sin especias) contiene fibra que ayuda a la digestión — recomendada por el Cornell Feline Health Center",
-      "Los arándanos son seguros y antioxidantes según la ASPCA, pero la mayoría de gatos los ignoran por no detectar sabor dulce"
+      "Crepuscular ancestors hunted dawn and dusk",
+      "Indoor cats lack prey outlet release pent energy",
+      "Veterinary term: Frenetic Random Activity Periods",
+      "Provide 15 min interactive play to reduce 3 AM bursts"
     ],
-    "search_terms": ["cat eating chicken", "cat food healthy", "cat with vegetables"],
-    "category": "alimentación"
+    "search_terms": ["cat running fast", "cat playing night", "cat chasing toy"],
+    "category": "cat-behavior"
   },
   {
-    "id": 32,
-    "topic": "Por qué tu gato se vuelve loco a las 3 de la mañana",
-    "hook": "Las 3 AM son la hora del zoomie gatuno",
+    "id": 2031,
+    "topic": "Smallest cat breed weighs only 4 pounds",
+    "hook": "Singapura is tiny adult cat",
     "key_points": [
-      "Según la Universidad de Lincoln, los gatos son crepusculares — su pico biológico de actividad es entre 3-5 AM",
-      "Los gatos de interior acumulan energía no gastada durante el día que explotan en carreras nocturnas (AAFP guidelines)",
-      "Un estudio del Journal of Veterinary Behavior demostró que 15 minutos de juego antes de dormir reduce los zoomies nocturnos un 60%",
-      "La rutina de juego + cena abundante antes de dormir imita el ciclo natural cazar-comer-dormir según Jackson Galaxy (certificado IAABC)"
+      "Singapura adults: females 4 lbs, males up to 8 lbs",
+      "Originated from Singapore street cats 1970s",
+      "Recognized by Cat Fanciers Association 1988",
+      "Only sepia ticked color officially accepted"
     ],
-    "search_terms": ["cat running zoomies", "cat playing night", "cat hyper energy"],
-    "category": "convivencia"
+    "search_terms": ["small cat breed", "tiny cat", "singapura cat"],
+    "category": "cat-breeds"
   },
   {
-    "id": 33,
-    "topic": "El gato Persa respira mal por culpa de la cría selectiva",
-    "hook": "La cara chata del Persa le quita el aire",
+    "id": 2032,
+    "topic": "Cats have unique nose prints like fingerprints",
+    "hook": "Cat noses are like fingerprints",
     "key_points": [
-      "Según el Royal Veterinary College, los gatos braquicéfalos como el Persa tienen vías respiratorias un 50% más estrechas",
-      "El 43% de los Persas tienen síndrome braquicefálico con ronquidos, jadeo y dificultad respiratoria (Journal of Feline Medicine)",
-      "Los Persas necesitan limpieza ocular diaria porque sus conductos lagrimales son demasiado cortos — epífora crónica (Cornell Feline Health Center)",
-      "La GCCF y veterinarios de Países Bajos piden prohibir la cría de gatos ultra-braquicéfalos por bienestar animal"
+      "Bumps and ridges on nose pad never repeat",
+      "Used for identification before microchipping",
+      "Compare with cat photo databases internationally",
+      "Even littermates show different patterns"
     ],
-    "search_terms": ["persian cat face", "persian cat breathing", "flat face cat breed"],
-    "category": "razas"
+    "search_terms": ["cat nose closeup", "cat face", "cat profile photo"],
+    "category": "cat-facts"
   },
   {
-    "id": 34,
-    "topic": "Tu gato puede tener alergia a tu perfume",
-    "hook": "Tu perfume puede enfermar a tu gato",
+    "id": 2033,
+    "topic": "Why cats roll on concrete in summer",
+    "hook": "Concrete rolling cools cat body",
     "key_points": [
-      "Según la ASPCA, los gatos tienen una deficiencia de la enzima glucuronil transferasa — no metabolizan muchos compuestos aromáticos",
-      "Los aceites esenciales como lavanda, árbol de té y eucalipto son tóxicos para gatos (Pet Poison Helpline)",
-      "Los difusores de aceites esenciales liberan partículas que se depositan en el pelaje y los gatos las ingieren al acicalarse (AVMA)",
-      "Un estudio del Journal of Veterinary Emergency and Critical Care reportó 97 casos de toxicidad felina por aceites esenciales en un año"
+      "Concrete absorbs and dissipates heat efficiently",
+      "Cats lower core temperature via belly contact",
+      "Also marks territory with scent gland secretions",
+      "Behavior peaks above 80F outdoor temperatures"
     ],
-    "search_terms": ["cat smelling scent", "cat near diffuser", "cat grooming fur"],
-    "category": "salud_felina"
+    "search_terms": ["cat rolling ground", "cat on pavement", "cat sunbathing"],
+    "category": "cat-behavior"
   },
   {
-    "id": 35,
-    "topic": "Los gatos tienen 3 párpados y uno es invisible",
-    "hook": "Tu gato tiene un párpado que no ves",
+    "id": 2034,
+    "topic": "Nora the piano-playing cat went viral 2007",
+    "hook": "This cat wrote a concerto",
     "key_points": [
-      "Según el Cornell Feline Health Center, la membrana nictitante (tercer párpado) protege el ojo y distribuye lágrimas",
-      "Solo es visible cuando el gato está enfermo o sedado — si la ves, ve al veterinario según la AVMA",
-      "Esta membrana se mueve lateralmente (de dentro a fuera) en 0.04 segundos según Veterinary Ophthalmology journal",
-      "Los humanos tenemos un vestigio del tercer párpado llamado plica semilunaris — ya no funciona (Journal of Anatomy)"
+      "Rescue cat played piano daily in Philadelphia home",
+      "Lithuanian composer wrote CATcerto with her recordings",
+      "Performed live with Klaipeda Chamber Orchestra 2009",
+      "YouTube videos passed 30 million views"
     ],
-    "search_terms": ["cat third eyelid", "cat eyes close up", "cat blinking eyes"],
-    "category": "curiosidades"
+    "search_terms": ["cat playing piano", "cat on keyboard", "piano keys"],
+    "category": "cat-history"
   },
   {
-    "id": 36,
-    "topic": "Cuántas cajas de arena necesitas si tienes varios gatos",
-    "hook": "Necesitas más cajas de arena de las que crees",
+    "id": 2035,
+    "topic": "Cats prefer warm food not cold",
+    "hook": "Cold food hurts cat appetite",
     "key_points": [
-      "La regla de oro según la AAFP: N+1 cajas de arena, donde N es el número de gatos en la casa",
-      "Un estudio de la Universidad de Utrecht demostró que los problemas de eliminación inapropiada se reducen un 70% con cajas extra",
-      "Las cajas deben estar en zonas diferentes — no en fila, porque el gato las ve como una sola (Indoor Cat Initiative, Ohio State)",
-      "Limpiar las cajas 1-2 veces al día reduce los problemas urinarios un 30% según el Journal of Feline Medicine and Surgery"
+      "Cats favor temperature near body 100-103F",
+      "Mimics fresh prey kill warmth",
+      "Refrigerated food reduces aroma cats detect",
+      "Warm 10 seconds in microwave from fridge"
     ],
-    "search_terms": ["cat litter box clean", "multiple cats home", "cat using litter box"],
-    "category": "convivencia"
+    "search_terms": ["cat eating wet food", "cat food bowl", "cat hungry"],
+    "category": "cat-nutrition"
   },
   {
-    "id": 37,
-    "topic": "Los gatos pueden tener sangre de 3 tipos diferentes",
-    "hook": "La sangre de tu gato puede matarle si no coincide",
+    "id": 2036,
+    "topic": "Why cats puff up tails when scared",
+    "hook": "Puffed tail is bluff strategy",
     "key_points": [
-      "Según la AVMA, los gatos tienen 3 tipos de sangre: A (más común), B (ciertas razas), y AB (rarísimo)",
-      "El 95% de los gatos mestizos son tipo A, pero hasta el 50% de los British Shorthair son tipo B (Journal of Veterinary Internal Medicine)",
-      "Una transfusión incompatible causa reacción hemolítica que mata en minutos — no existe compatibilidad universal en gatos (Merck Manual)",
-      "Los gatitos tipo A nacidos de madres tipo B pueden morir por isoeritrolisis neonatal al mamar calostro (Cornell Feline Health Center)"
+      "Piloerection makes cat appear 30% larger",
+      "Goal: intimidate threats without fighting",
+      "Triggered by sympathetic nervous system",
+      "Ears flatten back same instant"
     ],
-    "search_terms": ["cat veterinarian blood test", "cat at vet clinic", "kitten health check"],
-    "category": "salud_felina"
+    "search_terms": ["scared cat puffy", "cat hissing", "halloween cat pose"],
+    "category": "cat-behavior"
   },
   {
-    "id": 38,
-    "topic": "Tu gato marca su territorio con pipí invisible",
-    "hook": "Tu gato te orina sin que lo sepas",
+    "id": 2037,
+    "topic": "Bengals cost up to 25000 dollars",
+    "hook": "Bengals cost more than cars",
     "key_points": [
-      "Según la ASPCA, los gatos intactos marcan con orina que contiene felinina, un aminoácido con olor sulfuroso",
-      "La orina de marcaje se rocía sobre superficies verticales a altura de nariz de gato — diferente a orinar normalmente (AAFP)",
-      "Un estudio del Journal of Veterinary Behavior demostró que la esterilización reduce el marcaje un 90% en machos",
-      "La luz ultravioleta hace visible la orina seca — muchas marcas de tu gato son invisibles al ojo humano (Veterinary Clinics of North America)"
+      "F1 Bengal first-gen hybrid commands top prices",
+      "Crossbred from Asian leopard cat 1960s",
+      "Recognized as breed by TICA in 1986",
+      "Banned in Hawaii, NYC, Seattle as exotic"
     ],
-    "search_terms": ["cat spraying marking", "cat urine territory", "cat near wall spraying"],
-    "category": "comportamiento"
+    "search_terms": ["bengal cat", "spotted cat", "exotic looking cat"],
+    "category": "cat-breeds"
   },
   {
-    "id": 39,
-    "topic": "El atún enlatado puede intoxicar a tu gato con mercurio",
-    "hook": "El atún enlatado envenena a tu gato lentamente",
+    "id": 2038,
+    "topic": "Cats gallop like horses do",
+    "hook": "Cats run with horse gait",
     "key_points": [
-      "Según la FDA, el atún contiene mercurio que se bioacumula — los gatos son más sensibles por su menor peso corporal",
-      "La ingesta crónica de atún causa esteatitis (enfermedad de la grasa amarilla) por deficiencia de vitamina E (Merck Veterinary Manual)",
-      "El atún no tiene taurina suficiente — la deficiencia causa cardiomiopatía dilatada y ceguera en gatos (AAFCO)",
-      "Según la Pet Poison Helpline, como premio ocasional es seguro pero no debe superar el 10% de la dieta diaria"
+      "Reach speeds of 30 mph in short bursts",
+      "Same gallop rhythm as racehorses",
+      "Spine flexes and extends 50% length increase",
+      "Cheetah relatives use identical mechanics"
     ],
-    "search_terms": ["cat eating fish", "cat tuna food", "cat food bowl close up"],
-    "category": "alimentación"
+    "search_terms": ["cat running fast", "cat sprint outdoor", "cat chase"],
+    "category": "cat-science"
   },
   {
-    "id": 40,
-    "topic": "Por qué tu gato te sigue al baño siempre",
-    "hook": "Tu gato te espía en el baño por amor",
+    "id": 2039,
+    "topic": "Why cats hide before they die",
+    "hook": "Sick cats hide alone always",
     "key_points": [
-      "Según la Universidad de Lincoln, los gatos forman lazos de apego seguro con sus dueños — similar a bebés humanos",
-      "Un estudio de la Universidad Estatal de Oregon (2019) demostró que el 64% de los gatos muestran apego seguro a su dueño",
-      "El baño te atrapa en un espacio pequeño — para tu gato eres una audiencia cautiva según la veterinaria Kathryn Primm",
-      "El sonido del agua corriente y tus olores amplificados atraen al gato — su curiosidad natural no puede resistirse (ASPCA)"
+      "Survival instinct masks vulnerability from predators",
+      "Sick cats seek dark quiet small spaces",
+      "Cornell Vet warns: hiding 24+ hrs needs vet visit",
+      "Prey species behavior persists in domesticated cats"
     ],
-    "search_terms": ["cat following owner", "curious cat door", "cat watching human"],
-    "category": "comportamiento"
+    "search_terms": ["cat hiding", "cat under bed", "cat alone"],
+    "category": "cat-health"
   },
   {
-    "id": 41,
-    "topic": "Los bigotes de tu gato son sensores de alta tecnología",
-    "hook": "Los bigotes de tu gato son GPS incorporado",
+    "id": 2040,
+    "topic": "Ragdoll cats go limp when held",
+    "hook": "Ragdolls flop like puppets",
     "key_points": [
-      "Según la Universidad de Cornell, los bigotes (vibrisas) detectan cambios en corrientes de aire para medir distancias en la oscuridad",
-      "Cada bigote está conectado a 200 terminaciones nerviosas — 10 veces más que un pelo normal según el Journal of Neurophysiology",
-      "Los bigotes del gato miden exactamente lo ancho de su cuerpo — si pasan los bigotes, pasa el gato (Veterinary Anatomy journal)",
-      "Cortar los bigotes desequilibra y desorienta al gato — nunca deben cortarse según la ASPCA"
+      "Bred 1960s by Ann Baker in Riverside California",
+      "Genetic trait for muscle relaxation when picked up",
+      "Pain tolerance higher than average breeds",
+      "Cannot be left outdoors due to docility"
     ],
-    "search_terms": ["cat whiskers close up", "cat whiskers measuring", "cat face whiskers detail"],
-    "category": "curiosidades"
+    "search_terms": ["ragdoll cat", "blue eye cat", "cat being held"],
+    "category": "cat-breeds"
   },
   {
-    "id": 42,
-    "topic": "El gato Abisinio es la raza más parecida a un gato salvaje",
-    "hook": "Este gato doméstico parece un puma miniatura",
+    "id": 2041,
+    "topic": "Cat tongue spines rip flesh efficiently",
+    "hook": "Cat tongue is a meat grater",
     "key_points": [
-      "Según estudios genéticos de la Universidad de UC Davis, el Abisinio es una de las razas más antiguas, con origen en el sudeste asiático",
-      "Su pelaje ticked (cada pelo tiene 4-6 bandas de color) es el patrón más primitivo según la revista Genetics",
-      "Son llamados los 'payasos del reino gatuno' por la CFA — necesitan actividad constante o desarrollan ansiedad",
-      "Un estudio de la Universidad de Helsinki encontró que los Abisinios son la raza con mayor puntuación en actividad y curiosidad"
+      "Hundreds of papillae made of hardened keratin",
+      "Georgia Tech 2018 study showed groom mechanics",
+      "Strip flesh from prey bones effortlessly",
+      "Same material as your fingernails"
     ],
-    "search_terms": ["abyssinian cat wild look", "abyssinian cat ticked coat", "abyssinian cat jumping"],
-    "category": "razas"
+    "search_terms": ["cat tongue out", "cat licking paw", "cat grooming"],
+    "category": "cat-science"
   },
   {
-    "id": 43,
-    "topic": "Tu gato puede detectar un terremoto antes de que ocurra",
-    "hook": "Tu gato predice terremotos antes que nadie",
+    "id": 2042,
+    "topic": "Why cats hate citrus smells",
+    "hook": "Citrus repels every cat",
     "key_points": [
-      "Según un estudio del International Journal of Environmental Research (2018), los gatos muestran comportamientos inusuales horas antes de sismos",
-      "Sus almohadillas detectan vibraciones de 0.5 Hz que los humanos no sentimos según investigadores japoneses de la Universidad de Osaka",
-      "Históricamente, en el terremoto de L'Aquila (2009), muchos gatos abandonaron sus casas horas antes según registros italianos",
-      "El Journal of Zoology documentó que los gatos perciben cambios en campos electromagnéticos previos a sismos"
+      "Citrus oils overwhelm sensitive olfactory system",
+      "Cat noses have 200 million scent receptors",
+      "Limonene compound is mildly toxic if ingested",
+      "Use orange peels to deter unwanted scratching"
     ],
-    "search_terms": ["cat alert sensing danger", "cat nervous behavior", "cat feeling vibrations"],
-    "category": "curiosidades"
+    "search_terms": ["cat nose", "cat sniffing food", "orange fruit"],
+    "category": "cat-behavior"
   },
   {
-    "id": 44,
-    "topic": "Por qué la cebolla y el ajo son mortales para tu gato",
-    "hook": "Un pedazo de cebolla puede matar a tu gato",
+    "id": 2043,
+    "topic": "Towser caught 28899 mice in lifetime",
+    "hook": "This cat caught 28000 mice",
     "key_points": [
-      "Según la ASPCA, las aliáceas (cebolla, ajo, puerro, cebollino) contienen tiosulfato que destruye los glóbulos rojos del gato",
-      "Solo 5 g de cebolla por kg de peso corporal causan anemia hemolítica según el Merck Veterinary Manual",
-      "El ajo es 5 veces más tóxico que la cebolla para gatos según la Pet Poison Helpline",
-      "Los síntomas aparecen 2-4 días después: letargia, orina oscura, palidez de encías — muchos dueños no lo conectan (AVMA)"
+      "Lived at Glenturret Distillery Scotland 1963-1987",
+      "Guinness Record Mouser of all time",
+      "Average 3 mice per day for 24 years",
+      "Statue stands at distillery in her memory"
     ],
-    "search_terms": ["cat food danger", "cat health toxic food", "cat at veterinarian sick"],
-    "category": "alimentación"
+    "search_terms": ["cat hunting", "barn cat", "tabby cat"],
+    "category": "cat-history"
   },
   {
-    "id": 45,
-    "topic": "Tu gato te manipula con un maullido especial",
-    "hook": "Tu gato inventó un maullido solo para manipularte",
+    "id": 2044,
+    "topic": "Cats see in dim light 8x better",
+    "hook": "Cats see 8x better in dark",
     "key_points": [
-      "Según Karen McComb de la Universidad de Sussex, los gatos domésticos desarrollaron un 'maullido de solicitud' que imita la frecuencia del llanto de un bebé",
-      "Este maullido mezcla ronroneo con un grito de alta frecuencia (300-600 Hz) que activa instintos de cuidado en humanos",
-      "Los gatos adultos casi nunca maúllan entre ellos — el maullido evolucionó exclusivamente para comunicarse con humanos (Journal of Zoology)",
-      "Un estudio publicado en Current Biology demostró que las personas sin gatos también reaccionan urgentemente al maullido de solicitud"
+      "Tapetum lucidum reflects light back through retina",
+      "Pupils dilate to nearly entire eye surface",
+      "Need only one-eighth of light humans require",
+      "Cannot see in absolute pitch darkness"
     ],
-    "search_terms": ["cat meowing owner", "cat vocal communication", "cat mouth open meow"],
-    "category": "comportamiento"
+    "search_terms": ["cat eyes glowing dark", "cat at night", "cat pupils"],
+    "category": "cat-science"
   },
   {
-    "id": 46,
-    "topic": "La enfermedad renal es la primera causa de muerte en gatos mayores",
-    "hook": "La enfermedad silenciosa que mata gatos en secreto",
+    "id": 2045,
+    "topic": "Why cats love olives and catnip",
+    "hook": "Olives drug your cat",
     "key_points": [
-      "Según la IRIS (International Renal Interest Society), el 30-40% de los gatos mayores de 10 años tienen enfermedad renal crónica",
-      "Los gatos no muestran síntomas hasta que pierden el 75% de la función renal según el Cornell Feline Health Center",
-      "La creatinina SDMA puede detectar enfermedad renal meses antes que los análisis tradicionales según IDEXX Laboratories",
-      "Aumentar la ingesta de agua con fuentes y comida húmeda reduce la progresión renal un 30% según el Journal of Veterinary Internal Medicine"
+      "Olives contain isoprenoids similar to nepetalactone",
+      "Same chemical class triggers euphoric response",
+      "Catnip affects 50-70% of cats genetically",
+      "Reaction lasts 10-15 minutes then refractory hour"
     ],
-    "search_terms": ["cat drinking water fountain", "cat health senior", "cat veterinary kidney"],
-    "category": "salud_felina"
+    "search_terms": ["cat with catnip", "cat rolling", "cat playing toy"],
+    "category": "cat-science"
   },
   {
-    "id": 47,
-    "topic": "Los gatos tricolores (calicó) son casi siempre hembras",
-    "hook": "Si tu gato es tricolor, es hembra casi seguro",
+    "id": 2046,
+    "topic": "Cats can drink saltwater unlike humans",
+    "hook": "Cats drink ocean water safely",
     "key_points": [
-      "Según la Universidad de Cornell, el patrón calicó necesita dos cromosomas X — por eso solo las hembras (XX) lo tienen",
-      "Los machos calicó son 1 en 3.000 y siempre tienen síndrome de Klinefelter (XXY) según el Journal of Heredity",
-      "Los machos tricolores son estériles en el 99.96% de los casos según un estudio de la Universidad de Misuri",
-      "La inactivación aleatoria del cromosoma X (cuerpo de Barr) determina el patrón único de cada gata calicó — no hay dos iguales (Nature Genetics)"
+      "Kidneys filter salt more efficiently than humans",
+      "Originally desert wildcat Felis lybica adaptation",
+      "Still risky for indoor cats due to dehydration",
+      "Water intake mostly comes from prey moisture"
     ],
-    "search_terms": ["calico cat tricolor", "calico cat beautiful", "tricolor cat face"],
-    "category": "curiosidades"
+    "search_terms": ["cat drinking water", "cat at beach", "cat fountain"],
+    "category": "cat-science"
   },
   {
-    "id": 48,
-    "topic": "Cómo colocar los muebles de tu gato para que sea feliz",
-    "hook": "La posición de sus muebles le estresa o relaja",
+    "id": 2047,
+    "topic": "Russian Blue cats are hypoallergenic-friendly",
+    "hook": "This cat triggers fewer allergies",
     "key_points": [
-      "Según la Indoor Cat Initiative (Ohio State), los gatos necesitan recursos en múltiples zonas — nunca centralizados",
-      "El rascador debe estar junto al lugar de descanso favorito — los gatos rascan al despertar según la AAFP",
-      "Los comederos deben estar lejos de la caja de arena — mínimo 1.5 metros según la ASPCA",
-      "Las perchas altas reducen el estrés un 40% porque los gatos perciben la altura como seguridad según un estudio de la Universidad de Utrecht"
+      "Produce less Fel d 1 protein than typical breeds",
+      "Dense double coat reduces dander spread",
+      "Origins traced to port of Arkhangelsk Russia",
+      "Carried by sailors to Britain in 1860s"
     ],
-    "search_terms": ["cat furniture tree house", "cat perch window high", "cat climbing shelves"],
-    "category": "convivencia"
+    "search_terms": ["russian blue cat", "gray cat", "blue cat green eyes"],
+    "category": "cat-breeds"
   },
   {
-    "id": 49,
-    "topic": "Tu gato tiene un mapa mental perfecto de tu casa",
-    "hook": "Tu gato conoce tu casa mejor que tú",
+    "id": 2048,
+    "topic": "Why cats lick you obsessively",
+    "hook": "Licking marks you as kin",
     "key_points": [
-      "Según un estudio de la Universidad de Kyoto (2021), los gatos crean representaciones socioespaciales de su entorno",
-      "Los investigadores Saho Takagi demostraron que los gatos rastrean la posición de su dueño usando sonido — sin verlo",
-      "Los gatos memorizan la ubicación de cada objeto y se desorientan si mueves muebles según el Journal of Comparative Psychology",
-      "Su memoria espacial puede retener ubicaciones de comida y agua hasta 16 horas sin refuerzo (Animal Cognition journal)"
+      "Allogrooming behavior reserved for trusted bondmates",
+      "Spreads colony scent for unified identity",
+      "Mother cat behavior continued into adulthood",
+      "Excessive licking can signal stress per Cornell Vet"
     ],
-    "search_terms": ["cat exploring house", "cat navigating room", "cat looking around alert"],
-    "category": "comportamiento"
+    "search_terms": ["cat licking owner", "cat affection", "cat tongue"],
+    "category": "cat-behavior"
   },
   {
-    "id": 50,
-    "topic": "El gato Munchkin tiene patas cortas por una mutación natural",
-    "hook": "El gato salchicha divide a los expertos",
+    "id": 2049,
+    "topic": "Cats burned witches got the same fate",
+    "hook": "Cats died with witches",
     "key_points": [
-      "Según la TICA, el Munchkin tiene una mutación autosómica dominante que acorta los huesos largos de las patas",
-      "La controversia: GCCF y FIFe no reconocen la raza por preocupaciones de bienestar animal",
-      "Un estudio de la Universidad de Sídney no encontró mayor incidencia de problemas de columna vs otras razas, pero sí de lordosis",
-      "Cruzar dos Munchkin entre sí produce gatitos homocigotos que mueren en el útero — el gen letal según la TICA es obligatorio cruzar con no-Munchkin"
+      "Pope Gregory IX 1233 declared cats Satan-linked",
+      "Mass killings in medieval Europe followed",
+      "Rat populations exploded enabling Black Death spread",
+      "Cat populations rebounded only after pandemic ended"
     ],
-    "search_terms": ["munchkin cat short legs", "munchkin kitten cute", "munchkin cat walking"],
-    "category": "razas"
+    "search_terms": ["black cat", "medieval painting", "cat shadow"],
+    "category": "cat-history"
   },
   {
-    "id": 51,
-    "topic": "Los gatos pueden ser zurdos o diestros según su sexo",
-    "hook": "Tu gato tiene una pata favorita según su sexo",
+    "id": 2050,
+    "topic": "Why cats squeeze into impossibly small spaces",
+    "hook": "Cats are basically liquid",
     "key_points": [
-      "Un estudio de la Queen's University Belfast (2019) demostró que los machos tienden a ser zurdos y las hembras diestras",
-      "El 73% de los gatos muestran una preferencia clara de pata según la investigadora Deborah Wells",
-      "La preferencia se detecta observando con qué pata bajan escaleras o sacan comida de un recipiente estrecho (Animal Behaviour journal)",
-      "Los gatos ambidiestros tienden a ser más reactivos al estrés según un estudio publicado en Animal Welfare"
+      "Floating clavicle allows shoulder blade compression",
+      "Spine has 30 vertebrae humans only 24",
+      "If head fits, body follows per physics",
+      "2014 Ig Nobel Prize awarded for cat-liquid research"
     ],
-    "search_terms": ["cat paw reaching", "cat using paws", "cat paw close up"],
-    "category": "curiosidades"
+    "search_terms": ["cat in tight space", "cat in vase", "cat squeezing"],
+    "category": "cat-science"
   },
   {
-    "id": 52,
-    "topic": "La dieta cruda para gatos: los riesgos que nadie te cuenta",
-    "hook": "La moda de la comida cruda tiene riesgos ocultos",
+    "id": 2051,
+    "topic": "Cats can predict earthquakes hours before",
+    "hook": "Cats sense earthquakes early",
     "key_points": [
-      "Según la AVMA, la alimentación cruda tiene riesgo de Salmonella, E. coli y Listeria — tanto para el gato como para el dueño",
-      "Un estudio del Journal of the AVMA encontró patógenos en el 25% de las dietas crudas comerciales analizadas",
-      "La FDA reportó que los hogares con gatos alimentados con crudo tienen 5 veces más Salmonella en superficies de cocina",
-      "El AAFCO advierte que las dietas caseras crudas rara vez son nutricionalmente completas sin suplementación veterinaria"
+      "Detect P-waves preceding destructive S-waves",
+      "Sensitive to electromagnetic field changes",
+      "Documented behavior in Japan and Italy",
+      "Hide, vocalize, flee minutes to hours prior"
     ],
-    "search_terms": ["cat eating raw food", "cat raw meat diet", "cat food preparation"],
-    "category": "alimentación"
+    "search_terms": ["cat scared", "cat hiding nervous", "cat alert ears"],
+    "category": "cat-science"
   },
   {
-    "id": 53,
-    "topic": "Por qué tu gato se sienta en tu portátil o teclado",
-    "hook": "Tu gato aplasta tu portátil porque te ama",
+    "id": 2052,
+    "topic": "Why kittens fall asleep while eating",
+    "hook": "Kittens crash mid-meal naturally",
     "key_points": [
-      "Según la veterinaria Mikel Delgado de UC Davis, los gatos buscan calor — un portátil encendido irradia 35-45°C",
-      "También buscan tu atención — aprenden que sentarse en el teclado genera reacción inmediata (Applied Animal Behaviour Science)",
-      "Los gatos prefieren superficies que huelen a su dueño — tu portátil absorbe tu olor corporal según la ASPCA",
-      "Un estudio de la Universidad de Utrecht demostró que los gatos eligen sentarse en objetos que recibes más atención, imitando la competencia social"
+      "Need 22 hours sleep daily for growth",
+      "Brain triggers nap response when stomach fills",
+      "Energy regulation in undeveloped systems",
+      "Common until 12-16 weeks old"
     ],
-    "search_terms": ["cat sitting on laptop", "cat on keyboard", "cat stealing attention"],
-    "category": "comportamiento"
+    "search_terms": ["kitten sleeping food", "kitten eating", "newborn kitten"],
+    "category": "cat-behavior"
   },
   {
-    "id": 54,
-    "topic": "La diabetes felina está disparada por la obesidad en gatos de interior",
-    "hook": "La diabetes felina se triplicó en 20 años",
+    "id": 2053,
+    "topic": "Savannah cats can leap 8 feet vertically",
+    "hook": "Savannah cats jump 8 feet",
     "key_points": [
-      "Según el Journal of Feline Medicine, la prevalencia de diabetes en gatos se triplicó entre 2000 y 2020 — del 0.5% al 1.5%",
-      "La obesidad es el factor de riesgo número 1: gatos con sobrepeso tienen 4 veces más riesgo según la AVMA",
-      "A diferencia de los perros, los gatos diabéticos pueden entrar en remisión con dieta baja en carbohidratos según el Cornell Feline Health Center",
-      "El 60% de los gatos de interior tienen sobrepeso según la Association for Pet Obesity Prevention — la inactividad es la causa principal"
+      "Hybrid serval-domestic cross stands 17 inches tall",
+      "F1 generation can weigh 25 lbs adult male",
+      "Banned in 14 US states as exotic",
+      "Cost ranges 1500-25000 USD by generation"
     ],
-    "search_terms": ["cat overweight indoor", "fat cat health", "cat exercise playing"],
-    "category": "salud_felina"
+    "search_terms": ["savannah cat", "tall cat", "spotted exotic cat"],
+    "category": "cat-breeds"
   },
   {
-    "id": 55,
-    "topic": "Los gatos necesitan escondites o se estresan",
-    "hook": "Sin escondites tu gato vive con ansiedad",
+    "id": 2054,
+    "topic": "Cat ownership reduces heart attack risk",
+    "hook": "Owning cats saves your heart",
     "key_points": [
-      "Un estudio de la Universidad de Utrecht (2014) demostró que los gatos con escondites se adaptan un 50% más rápido al estrés",
-      "La investigadora Claudia Vinke dio cajas a gatos de refugio — los que tenían caja mostraron cortisol normal en 3 días vs 14 sin caja",
-      "Los gatos necesitan mínimo 1 escondite por gato más opciones adicionales según la Indoor Cat Initiative (Ohio State)",
-      "Las cajas de cartón son terapéuticas: aíslan térmicamente y reducen estímulos sensoriales estresantes (Journal of Feline Medicine)"
+      "University Minnesota 10-year study found 30% lower stroke risk",
+      "Purr vibrations lower blood pressure during contact",
+      "Reduces stress hormone cortisol levels",
+      "Protective effect strongest with current cat owners"
     ],
-    "search_terms": ["cat hiding box", "cat in cardboard box", "cat cozy hiding spot"],
-    "category": "convivencia"
+    "search_terms": ["cat with owner", "cat lap cuddle", "person petting cat"],
+    "category": "cat-science"
   },
   {
-    "id": 56,
-    "topic": "Tu gato tiene 200 millones de receptores olfativos",
-    "hook": "La nariz de tu gato es 14 veces más potente",
+    "id": 2055,
+    "topic": "Why cats rub against your ankles",
+    "hook": "Ankle rubs claim ownership",
     "key_points": [
-      "Según la Universidad de Cornell, los gatos tienen 200 millones de receptores olfativos frente a los 5 millones de los humanos",
-      "Su epitelio olfativo ocupa 20 cm² — el de un humano solo 4 cm² según el Handbook of Olfaction and Gustation",
-      "Los gatos usan el olfato para determinar la frescura de la comida — rechazan alimento con más de 12 horas a temperatura ambiente (Journal of Feline Medicine)",
-      "Según la ASPCA, los gatos pueden oler la orina de otro gato a 1 km de distancia en condiciones favorables"
+      "Scent glands on cheeks face and tail base",
+      "Marks you as part of safe colony",
+      "Greeting ritual when you return home",
+      "Cats also rub ankles before food requests"
     ],
-    "search_terms": ["cat nose smelling", "cat sniffing food", "cat nose close up macro"],
-    "category": "curiosidades"
+    "search_terms": ["cat rubbing legs", "cat greeting owner", "cat at door"],
+    "category": "cat-behavior"
   },
   {
-    "id": 57,
-    "topic": "El British Shorthair es el gato de los memes de internet",
-    "hook": "El gato de los memes tiene una historia de 2.000 años",
+    "id": 2056,
+    "topic": "Cats lose taste with age",
+    "hook": "Old cats lose taste fast",
     "key_points": [
-      "Según la CFA, el British Shorthair desciende de gatos que los romanos llevaron a Gran Bretaña hace 2.000 años",
-      "Su cara redonda y mejillas prominentes los hacen el gato más fotografiado de internet según Google Trends",
-      "Casi se extinguieron en las guerras mundiales — se cruzaron con Persas para recuperar la raza (GCCF history)",
-      "El color más popular es azul (gris) pero la CFA reconoce más de 100 combinaciones de color y patrón"
+      "Taste buds decline 50% by age 12",
+      "Senior cats need stronger smelling food",
+      "Warm wet food helps reignite appetite",
+      "Royal Canin senior formulas address this issue"
     ],
-    "search_terms": ["british shorthair blue cat", "british shorthair round face", "british shorthair cute"],
-    "category": "razas"
+    "search_terms": ["senior cat", "old cat eating", "cat with gray fur"],
+    "category": "cat-nutrition"
   },
   {
-    "id": 58,
-    "topic": "Los gatos beben agua de forma más eficiente que cualquier máquina",
-    "hook": "Tu gato bebe agua mejor que un ingeniero",
+    "id": 2057,
+    "topic": "Cats hate the smell of bananas",
+    "hook": "Bananas terrify your cat",
     "key_points": [
-      "Según un estudio del MIT publicado en Science (2010), los gatos usan la punta de la lengua para crear una columna de agua por inercia",
-      "Tocan la superficie del agua 4 veces por segundo y cada lengüetazo levanta exactamente 0.1 ml según los investigadores Roman Stocker y Pedro Reis",
-      "A diferencia de los perros que usan la lengua como cuchara, los gatos desafían la gravedad — es pura dinámica de fluidos (Science journal)",
-      "Los gatos ajustan la frecuencia de lengüetazos según la viscosidad del líquido — un mecanismo que optimiza la ingesta según el MIT"
+      "Ethyl acetate from peels mimics threat scent",
+      "Compound similar to citrus repellents",
+      "Reaction includes hissing arched back retreat",
+      "Works as natural deterrent for forbidden zones"
     ],
-    "search_terms": ["cat drinking water slow motion", "cat tongue water", "cat lapping water"],
-    "category": "alimentación"
+    "search_terms": ["cat scared", "banana fruit", "cat smelling"],
+    "category": "cat-behavior"
   },
   {
-    "id": 59,
-    "topic": "Por qué tu gato come hierba y luego vomita",
-    "hook": "Tu gato come hierba a propósito y no es malo",
+    "id": 2058,
+    "topic": "Faith the cat received hero medal WW2",
+    "hook": "This cat got a war medal",
     "key_points": [
-      "Según un estudio de la Universidad de California Davis (2019) con 1.021 gatos, el 71% come plantas al menos 6 veces en su vida",
-      "La investigadora Benjamin Hart concluyó que comer hierba es un instinto para purgar parásitos intestinales — no por malestar",
-      "Solo el 27% de los gatos que comen hierba vomitan después según el estudio presentado en la International Society for Applied Ethology",
-      "La hierba gatera (Dactylis glomerata) es segura y aporta fibra y ácido fólico según la ASPCA"
+      "Lived at St Augustines Church London 1936-1948",
+      "Sheltered kitten Panda during Blitz bombing",
+      "Awarded Silver Medal by PDSA charity",
+      "Only cat to receive PDSA wartime honor"
     ],
-    "search_terms": ["cat eating grass", "cat grass indoor", "cat chewing plant"],
-    "category": "alimentación"
+    "search_terms": ["tabby cat", "vintage cat photo", "ww2 london"],
+    "category": "cat-history"
   },
   {
-    "id": 60,
-    "topic": "Por qué tu gato mueve la cola de formas diferentes",
-    "hook": "La cola de tu gato habla un idioma secreto",
+    "id": 2059,
+    "topic": "Why cats sleep in loaf position",
+    "hook": "Cat loaf means safe and comfy",
     "key_points": [
-      "Según la AAFP, la cola levantada vertical es el saludo más positivo — equivale a un 'hola, me alegro de verte'",
-      "La cola en forma de U invertida indica miedo extremo — el gato intenta parecer más grande según la ASPCA",
-      "El movimiento lateral rápido (a diferencia de los perros) indica irritación o conflicto según el Journal of Veterinary Behavior",
-      "La punta de la cola temblando ligeramente es la señal más positiva posible — tu gato está genuinamente encantado de verte (Universidad de Lincoln)"
+      "Tucked paws conserve body temperature",
+      "Position allows quick escape if startled",
+      "Indicates contentment and trust in environment",
+      "Origin term coined online cat communities 2010s"
     ],
-    "search_terms": ["cat tail positions", "cat tail up happy", "cat tail movement body language"],
-    "category": "comportamiento"
+    "search_terms": ["cat loaf position", "cat sitting cute", "cat tucked paws"],
+    "category": "cat-behavior"
   },
   {
-    "id": 61,
-    "topic": "El hipertiroidismo es la epidemia silenciosa de los gatos mayores",
-    "hook": "Tu gato viejo come mucho pero adelgaza sin parar",
+    "id": 2060,
+    "topic": "Cats can recognize owner voice but ignore it",
+    "hook": "Cats hear you but choose ignore",
     "key_points": [
-      "Según el Journal of Feline Medicine, el hipertiroidismo afecta al 10% de los gatos mayores de 10 años",
-      "Los síntomas clásicos: pérdida de peso con apetito aumentado, hiperactividad, vómitos frecuentes (Cornell Feline Health Center)",
-      "Se sospecha que los retardantes de llama (PBDE) en muebles del hogar contribuyen — se encontraron niveles altos en suero de gatos afectados (Environmental Science & Technology)",
-      "El tratamiento con metimazol tiene éxito en el 95% de los casos según estudios de la AVMA"
+      "University of Tokyo 2013 study confirmed recognition",
+      "Cats showed ear and head movement to owner audio",
+      "Domestication did not select for human obedience",
+      "Different from dogs bred for cooperative response"
     ],
-    "search_terms": ["cat senior health check", "old cat at vet", "cat losing weight eating"],
-    "category": "salud_felina"
+    "search_terms": ["cat ignoring owner", "cat looking away", "cat aloof"],
+    "category": "cat-science"
   },
   {
-    "id": 62,
-    "topic": "Los gatos tienen una memoria a largo plazo de hasta 10 años",
-    "hook": "Tu gato recuerda cosas de hace 10 años",
+    "id": 2061,
+    "topic": "Scottish Folds carry painful genetic trait",
+    "hook": "Folded ears come with pain",
     "key_points": [
-      "Según un estudio del Behavioural Processes journal, los gatos tienen memoria episódica similar a los humanos",
-      "Investigadores de la Universidad de Kyoto demostraron que los gatos recuerdan el qué, dónde y cuándo de eventos pasados",
-      "Su memoria a corto plazo dura 16 horas (la de un perro solo 5 minutos) según un estudio de la Universidad de Michigan",
-      "Los gatos traumatizados pueden recordar experiencias negativas durante toda su vida según la AAFP — el trauma felino es real"
+      "Cartilage mutation also affects joints throughout body",
+      "Osteochondrodysplasia causes lifelong arthritis",
+      "Banned for breeding in UK and Netherlands",
+      "Ear fold appears at 3-4 weeks of age"
     ],
-    "search_terms": ["cat thinking face", "cat remembering", "cat intelligent look"],
-    "category": "curiosidades"
+    "search_terms": ["scottish fold cat", "folded ear cat", "round face cat"],
+    "category": "cat-breeds"
   },
   {
-    "id": 63,
-    "topic": "Tu gato necesita proteína animal obligatoriamente para sobrevivir",
-    "hook": "Tu gato muere sin carne — es obligatorio",
+    "id": 2062,
+    "topic": "Why cats stretch when seeing you",
+    "hook": "Cat stretch is greeting hello",
     "key_points": [
-      "Según la ASPCA, los gatos son carnívoros estrictos (obligados) — no pueden sintetizar taurina, ácido araquidónico ni vitamina A de fuentes vegetales",
-      "La deficiencia de taurina causa cardiomiopatía dilatada y ceguera irreversible en semanas según la AVMA",
-      "Los gatos necesitan un mínimo del 26% de proteína animal en su dieta según los estándares del AAFCO",
-      "Un estudio de Tufts University demostró que las dietas veganas para gatos causan deficiencias nutricionales graves en el 100% de los casos"
+      "Combines greeting with muscle activation post-nap",
+      "Releases endorphins like morning yoga in humans",
+      "Shows comfort and relaxation in your presence",
+      "Often paired with chirp or trill sound"
     ],
-    "search_terms": ["cat eating meat", "cat carnivore diet", "cat food protein"],
-    "category": "alimentación"
+    "search_terms": ["cat stretching long", "cat yawning", "cat waking up"],
+    "category": "cat-behavior"
   },
   {
-    "id": 64,
-    "topic": "El Gato Noruego del Bosque sobrevive a temperaturas de -30°C",
-    "hook": "Este gato sobrevive a menos 30 grados",
+    "id": 2063,
+    "topic": "Cats shed twice their body weight yearly",
+    "hook": "Your cat sheds insane amounts",
     "key_points": [
-      "Según la FIFe, el Noruego del Bosque tiene un pelaje doble con capa interna impermeable adaptada al ártico escandinavo",
-      "Sus patas tienen mechones de pelo entre los dedos que actúan como raquetas para la nieve (CFA breed profile)",
-      "Según la mitología nórdica, estos gatos tiraban del carro de la diosa Freyja — llevan en Escandinavia más de 1.000 años (TICA)",
-      "Pueden trepar superficies verticales y bajar árboles de cabeza — son los únicos gatos domésticos que descienden en espiral según la CFA"
+      "Average cat sheds 20 lbs of fur per year",
+      "Two heavy shedding cycles spring and fall",
+      "Indoor cats shed year-round due to artificial light",
+      "Brushing 3x weekly cuts hairballs by 50%"
     ],
-    "search_terms": ["norwegian forest cat snow", "norwegian forest cat fluffy", "norwegian forest cat climbing"],
-    "category": "razas"
+    "search_terms": ["cat shedding fur", "cat brushing", "fluffy cat fur"],
+    "category": "cat-health"
   },
   {
-    "id": 65,
-    "topic": "El estrés causa cistitis idiopática en gatos sin infección",
-    "hook": "El estrés hace que tu gato orine sangre",
+    "id": 2064,
+    "topic": "Why cats walk on keyboards always",
+    "hook": "Keyboards are warm flat targets",
     "key_points": [
-      "Según el Dr. Tony Buffington de Ohio State, la cistitis idiopática felina (FIC) es causada por estrés en el 55-69% de los casos",
-      "No hay infección bacteriana — es inflamación por estrés similar a la cistitis intersticial humana (Journal of Feline Medicine)",
-      "Los machos son más propensos porque su uretra más estrecha puede obstruirse — emergencia mortal en 24 horas (AVMA)",
-      "Enriquecimiento ambiental + reducción de estrés resuelve el 80% de los casos sin medicación según la Indoor Cat Initiative"
+      "Laptop emits heat cats seek for comfort",
+      "Flat elevated surface ideal vantage point",
+      "Disrupting your work earns instant attention",
+      "Behavior reinforced by your reactions"
     ],
-    "search_terms": ["cat stress behavior", "cat at veterinary hospital", "cat health stress"],
-    "category": "salud_felina"
+    "search_terms": ["cat on keyboard", "cat with laptop", "cat on desk"],
+    "category": "cat-behavior"
   },
   {
-    "id": 66,
-    "topic": "Por qué tu gato mete la pata en el vaso de agua",
-    "hook": "Tu gato no bebe raro — es muy listo",
+    "id": 2065,
+    "topic": "Cat domestication began 10000 years ago",
+    "hook": "Cats domesticated themselves naturally",
     "key_points": [
-      "Según la veterinaria Liz Bales, los gatos no ven bien de cerca y usan la pata para detectar el nivel de agua en el vaso",
-      "Sus bigotes son hipersensibles — tocar las paredes del cuenco causa 'fatiga de bigotes' (whisker fatigue) según la AAFP",
-      "Un estudio de la Universidad de Viena mostró que los cuencos anchos y poco profundos eliminan este comportamiento en el 80% de los gatos",
-      "Algunos gatos prefieren agua corriente porque detectan el movimiento con los bigotes sin necesidad de la pata (Applied Animal Behaviour Science)"
+      "Cyprus burial 9500 years ago oldest evidence",
+      "Egyptian art portrayed cats 4000 years ago",
+      "Originated from Felis lybica Near Eastern wildcat",
+      "Cats domesticated themselves around grain stores"
     ],
-    "search_terms": ["cat paw in water glass", "cat drinking from cup", "cat playing with water"],
-    "category": "comportamiento"
+    "search_terms": ["egyptian cat", "ancient cat statue", "wild cat ancestor"],
+    "category": "cat-history"
   },
   {
-    "id": 67,
-    "topic": "Los gatos tienen un vocabulario de más de 100 sonidos diferentes",
-    "hook": "Tu gato tiene 100 palabras y tú no las entiendes",
+    "id": 2066,
+    "topic": "Cats need taurine or hearts fail",
+    "hook": "No taurine kills your cat",
     "key_points": [
-      "Según la fonetista Susanne Schötz de la Universidad de Lund, los gatos producen al menos 21 tipos de vocalizaciones distintas",
-      "Su proyecto Meowsic analizó 780 grabaciones y encontró patrones melódicos únicos para cada situación comunicativa",
-      "Los gatos ferales adultos casi no vocalizan — el maullido es un lenguaje desarrollado exclusivamente para humanos (Current Biology)",
-      "Cada gato desarrolla un dialecto único con su dueño — un vocabulario personalizado según la Universidad de Sussex"
+      "Cats cannot synthesize this essential amino acid",
+      "Deficiency causes dilated cardiomyopathy DCM",
+      "Found in animal proteins not plants",
+      "Vegetarian cat diet is medically dangerous"
     ],
-    "search_terms": ["cat meowing sounds", "cat vocalizing", "cat talking to owner"],
-    "category": "convivencia"
+    "search_terms": ["cat eating meat", "cat food bowl wet", "cat heart healthy"],
+    "category": "cat-nutrition"
   },
   {
-    "id": 68,
-    "topic": "Cómo saber si tu gato tiene el peso ideal",
-    "hook": "Así sabes si tu gato está gordo de verdad",
+    "id": 2067,
+    "topic": "Why cats hate aluminum foil sound",
+    "hook": "Foil makes cats panic instantly",
     "key_points": [
-      "Según la WSAVA (World Small Animal Veterinary Association), la escala Body Condition Score va del 1 al 9 — el ideal es 4-5",
-      "Deberías sentir las costillas con presión suave pero no verlas — si no las sientes, hay sobrepeso (AAFP)",
-      "El 60% de los gatos domésticos tienen sobrepeso u obesidad según la Association for Pet Obesity Prevention",
-      "Un gato obeso vive 2 años menos de media que uno en peso ideal según un estudio del Journal of Feline Medicine"
+      "Crinkle frequency mimics distress calls",
+      "Sensitive hearing range up to 64 kHz",
+      "Texture unfamiliar and unstable underfoot",
+      "Used as deterrent on counters and furniture"
     ],
-    "search_terms": ["cat body condition weight", "healthy cat body shape", "cat being weighed vet"],
-    "category": "salud_felina"
+    "search_terms": ["cat scared sound", "aluminum foil", "cat avoiding"],
+    "category": "cat-behavior"
   },
   {
-    "id": 69,
-    "topic": "Tu gato entiende las leyes de la física",
-    "hook": "Tu gato sabe más física que muchos humanos",
+    "id": 2068,
+    "topic": "Tabby M forehead pattern is ancient",
+    "hook": "Every tabby has a hidden M",
     "key_points": [
-      "Un estudio de la Universidad de Kyoto (2016) demostró que los gatos entienden el principio de causa y efecto con objetos",
-      "Cuando se agitaba una caja con sonido y no caía nada al voltearla, los gatos miraban más tiempo — esperaban el objeto (Animal Cognition)",
-      "La investigadora Saho Takagi concluyó que los gatos tienen un modelo mental rudimentario de la gravedad",
-      "Los gatos calculan trayectorias parabólicas al cazar insectos en vuelo — procesan cálculos balísticos instintivamente según el Journal of Experimental Biology"
+      "Found on every tabby pattern variation",
+      "Egyptian myth: Mau means cat in language",
+      "Christian legend tied to Virgin Mary blessing",
+      "Genetic pattern from agouti gene expression"
     ],
-    "search_terms": ["cat watching object fall", "cat catching toy air", "cat smart intelligent"],
-    "category": "curiosidades"
+    "search_terms": ["tabby cat face", "cat forehead", "striped cat"],
+    "category": "cat-facts"
   },
   {
-    "id": 70,
-    "topic": "Por qué tu gato tira cosas de la mesa a propósito",
-    "hook": "Tu gato tira cosas para estudiarte a ti",
+    "id": 2069,
+    "topic": "Cats wag tails differently than dogs",
+    "hook": "Tail wag means opposite of dog",
     "key_points": [
-      "Según la veterinaria Mikel Delgado de UC Davis, los gatos tiran objetos para explorar la relación causa-efecto",
-      "Cada empujón les da información sobre peso, textura y reacción del objeto — es investigación felina (Applied Animal Behaviour Science)",
-      "La reacción del dueño refuerza el comportamiento — tu gato aprende que tirar cosas te hace venir corriendo (ASPCA)",
-      "Los gatos salvajes usan las patas para testear presas y objetos desconocidos — el comportamiento doméstico es una extensión según la Universidad de Lincoln"
+      "Quick wag tip = annoyance or focus",
+      "Thumping tail base = high agitation",
+      "Slow swish = predatory concentration",
+      "Quivering tail upright = excitement greeting"
     ],
-    "search_terms": ["cat pushing object off table", "cat paw knocking glass", "cat mischief table"],
-    "category": "comportamiento"
+    "search_terms": ["cat tail movement", "cat wagging tail", "cat tail up"],
+    "category": "cat-behavior"
   },
   {
-    "id": 71,
-    "topic": "El gato Savannah es el más alto y tiene sangre de serval africano",
-    "hook": "Este gato es mitad animal salvaje africano",
+    "id": 2070,
+    "topic": "Worlds richest cat inherited 13 million",
+    "hook": "This cat owns 13 million",
     "key_points": [
-      "Según la TICA, el Savannah es un híbrido de gato doméstico y serval africano (Leptailurus serval) creado en 1986",
-      "El récord Guinness de gato doméstico más alto fue Arcturus, un Savannah F2 de 48.4 cm de altura",
-      "Las generaciones F1-F2 están prohibidas en muchos estados de EEUU y países por su genética salvaje (USDA regulations)",
-      "Un F1 puede costar entre 12.000 y 20.000 USD — una de las razas más caras según la TICA"
+      "Blackie inherited from owner Ben Rea 1988",
+      "Total estate worth 12.5 million pounds",
+      "Distributed among three cat charities for care",
+      "Holds Guinness Record richest pet ever"
     ],
-    "search_terms": ["savannah cat tall", "savannah cat serval hybrid", "savannah cat spotted wild"],
-    "category": "razas"
+    "search_terms": ["black cat", "rich cat", "cat luxury"],
+    "category": "cat-history"
   },
   {
-    "id": 72,
-    "topic": "Los gatos saben exactamente cuántas calorías necesitan al día",
-    "hook": "Tu gato cuenta calorías mejor que tú",
+    "id": 2071,
+    "topic": "Cats taste with Jacobson organ",
+    "hook": "Cats taste with mouth roof",
     "key_points": [
-      "Según un estudio del Journal of Animal Physiology and Animal Nutrition, los gatos autorregulan su ingesta calórica diaria con precisión",
-      "Un gato de 4 kg necesita entre 200-250 kcal al día según la AAFCO — el equivalente a un puñado de croquetas",
-      "Investigadores de la Waltham Pet Science Foundation demostraron que los gatos ajustan la cantidad de comida según su densidad calórica",
-      "El problema es el aburrimiento: los gatos de interior comen por entretenimiento, no por hambre real, según la AAFP"
+      "Vomeronasal organ on hard palate",
+      "Open-mouth flehmen face activates the sensor",
+      "Detects pheromones invisible to nose",
+      "Common reaction to other cats marking"
     ],
-    "search_terms": ["cat eating measured food", "cat food portion", "cat feeding schedule"],
-    "category": "alimentación"
+    "search_terms": ["cat open mouth", "cat smelling intense", "cat flehmen face"],
+    "category": "cat-science"
   },
   {
-    "id": 73,
-    "topic": "Por qué tu gato odia que le toques la barriga",
-    "hook": "Tocar la barriga de tu gato es una trampa",
+    "id": 2072,
+    "topic": "Why kittens chew electrical cords",
+    "hook": "Cords are dangerous teething toys",
     "key_points": [
-      "Según la ASPCA, el vientre es la zona más vulnerable del gato — exponerlo es señal de confianza pero no de invitación",
-      "Los folículos pilosos del vientre son hipersensibles — el exceso de estímulo activa el reflejo de defensa (Journal of Feline Medicine)",
-      "La exposición ventral es señal de comodidad en el 95% de los casos pero invitación a tocar solo en el 20% según un estudio de la Universidad de Lincoln",
-      "Algunos gatos toleran la barriga después de años de confianza — pero siempre tienen el mecanismo de 'trampa' listo según la AAFP"
+      "Teething phase 3-7 months drives chewing urge",
+      "Cords mimic prey shape texture and movement",
+      "Major risk: oral burns and electrocution per ASPCA",
+      "Cover with split-loom tubing or bitter sprays"
     ],
-    "search_terms": ["cat showing belly", "cat belly trap", "cat lying on back"],
-    "category": "comportamiento"
+    "search_terms": ["kitten playing", "cat cord chew", "kitten teething"],
+    "category": "cat-health"
   },
   {
-    "id": 74,
-    "topic": "Las pulgas pueden matar a un gatito por anemia en días",
-    "hook": "Las pulgas pueden matar a tu gatito en 3 días",
+    "id": 2073,
+    "topic": "Egyptian Mau is fastest domestic cat",
+    "hook": "This cat hits 30 mph",
     "key_points": [
-      "Según el Companion Animal Parasite Council, una sola pulga consume 15 veces su peso en sangre al día",
-      "Un gatito de 500g con infestación severa puede desarrollar anemia mortal en 48-72 horas (Veterinary Parasitology journal)",
-      "Las pulgas transmiten Bartonella (enfermedad del arañazo de gato) y la tenia Dipylidium caninum según los CDC",
-      "El 95% de la población de pulgas está en el ambiente (huevos, larvas) no en el gato — tratar solo al gato es insuficiente según la AVMA"
+      "Reaches sprinting speeds of 30 mph",
+      "Only naturally spotted domestic breed",
+      "Skin flap on belly extends stride length",
+      "Lineage traced 4000 years to Egypt"
     ],
-    "search_terms": ["cat scratching fleas", "kitten health parasites", "cat flea treatment"],
-    "category": "salud_felina"
+    "search_terms": ["egyptian mau cat", "spotted cat running", "fast cat"],
+    "category": "cat-breeds"
   },
   {
-    "id": 75,
-    "topic": "Tu gato te considera parte de su colonia felina",
-    "hook": "Para tu gato, tú eres un gato grande",
+    "id": 2074,
+    "topic": "Cats can imprint on humans like ducks",
+    "hook": "Cats imprint on humans early",
     "key_points": [
-      "Según John Bradshaw (Universidad de Bristol), los gatos no distinguen entre humanos y gatos grandes — nos tratan igual",
-      "Los comportamientos que tienen contigo (frotar, acicalar, dormir encima) son los mismos que con otros gatos de su colonia (Applied Animal Behaviour Science)",
-      "Las colonias felinas son matriarcales — si tu gato te acicala la cabeza, te está tratando como cría según la ASPCA",
-      "Un estudio de Current Biology demostró que los gatos forman jerarquías de apego: tú sueles estar arriba"
+      "Critical socialization window 2-7 weeks old",
+      "Hand-raised kittens see humans as parents",
+      "Bond persists throughout entire life span",
+      "Studies at Oregon State 2019 confirmed attachment"
     ],
-    "search_terms": ["cat cuddling with human", "cat grooming person", "cat sleeping on owner"],
-    "category": "convivencia"
+    "search_terms": ["kitten with human", "kitten bottle feed", "small kitten cuddle"],
+    "category": "cat-science"
   },
   {
-    "id": 76,
-    "topic": "Los gatos pueden correr a 48 km/h en distancias cortas",
-    "hook": "Tu gato es más rápido que Usain Bolt",
+    "id": 2075,
+    "topic": "Why cats love tuna but should not eat much",
+    "hook": "Tuna addiction harms cats",
     "key_points": [
-      "Según la ASPCA, los gatos domésticos pueden alcanzar 48 km/h en sprints cortos — Usain Bolt llegó a 44.72 km/h",
-      "Su columna flexible con 53 vértebras se comprime y estira como un muelle en cada zancada (Journal of Experimental Biology)",
-      "Los gatos son velocistas, no fondistas — se agotan en 30-60 segundos de carrera máxima según la Universidad de Edimburgo",
-      "El guepardo corre a 112 km/h pero proporcionalmente al tamaño, los gatos domésticos son más rápidos que muchos depredadores según National Geographic"
+      "Mercury accumulation damages kidneys and liver",
+      "Lacks essential vitamins for feline diet",
+      "Cornell Vet warns: occasional treat only",
+      "Causes thiamine deficiency over time"
     ],
-    "search_terms": ["cat running fast", "cat sprinting", "cat chasing toy speed"],
-    "category": "curiosidades"
+    "search_terms": ["cat eating fish", "tuna can", "cat smelling food"],
+    "category": "cat-nutrition"
   },
   {
-    "id": 77,
-    "topic": "El gato Birmano sagrado tiene guantes blancos por una leyenda",
-    "hook": "La leyenda dice que un templo le dio guantes blancos",
+    "id": 2076,
+    "topic": "Cats run for governor or mayor",
+    "hook": "Cats won mayoral elections in US",
     "key_points": [
-      "Según la CFA, el Birmano (Birman) tiene guantes blancos simétricos en las 4 patas — requisito del estándar de raza",
-      "La leyenda dice que un gato del templo de Lao Tsun pisó a un monje moribundo y quedó con patas blancas de pureza (TICA history)",
-      "Genéticamente, los guantes son por el gen de enguantado (gloving) único de esta raza según estudios de la Universidad de Lyon",
-      "Los Birmanos fueron casi exterminados en la WWII — solo quedaron 2 ejemplares en Europa y se reconstruyó la raza (CFA breed history)"
+      "Stubbs the cat was mayor of Talkeetna Alaska 1997-2017",
+      "Tip drew attention to local town tourism",
+      "Honored mayor of unincorporated town",
+      "Lived to age 20 in office"
     ],
-    "search_terms": ["birman cat white paws", "birman cat blue eyes", "birman cat sacred"],
-    "category": "razas"
+    "search_terms": ["orange tabby", "famous cat", "cat town"],
+    "category": "cat-history"
   },
   {
-    "id": 78,
-    "topic": "Por qué tu gato lame el plástico y cómo pararlo",
-    "hook": "Tu gato lame bolsas de plástico y es peligroso",
+    "id": 2077,
+    "topic": "Cats develop separation anxiety like dogs",
+    "hook": "Cats miss you while gone",
     "key_points": [
-      "Según la ASPCA, muchos plásticos contienen estearina animal o aceite de maíz como lubricante que atrae a los gatos",
-      "La textura crujiente del plástico imita el sonido de insectos o presas pequeñas según la veterinaria Katherine Houpt de Cornell",
-      "El pica (comer materiales no alimentarios) puede indicar deficiencia nutricional, estrés o trastorno compulsivo (Journal of Veterinary Behavior)",
-      "El plástico ingerido puede causar obstrucción intestinal — emergencia quirúrgica según el Merck Veterinary Manual"
+      "University of Lincoln 2019 study confirmed in cats",
+      "Symptoms: excessive vocalization, soiling, destruction",
+      "Affects 13% of single-cat households",
+      "Treatment includes interactive toys and pheromone diffusers"
     ],
-    "search_terms": ["cat chewing licking", "cat with plastic bag danger", "cat strange behavior"],
-    "category": "salud_felina"
+    "search_terms": ["cat alone home", "cat looking out window", "sad cat"],
+    "category": "cat-behavior"
   },
   {
-    "id": 79,
-    "topic": "Cómo hacer que tu gato y tu perro se lleven bien",
-    "hook": "Gato y perro pueden ser mejores amigos",
+    "id": 2078,
+    "topic": "Why cats love your worn shoes",
+    "hook": "Your shoes hold your scent",
     "key_points": [
-      "Según un estudio de la Universidad de Tel Aviv, el 66% de hogares con gatos y perros reportan buena o excelente relación",
-      "La clave es la introducción temprana: gatos expuestos a perros antes de las 12 semanas tienen mejor convivencia (Journal of Veterinary Behavior)",
-      "El gato necesita zonas de escape verticales inaccesibles para el perro — esto reduce el estrés un 70% según la AAFP",
-      "Las señales de comunicación son opuestas: cola moviéndose = feliz en perro, irritado en gato — ambos deben aprender el idioma del otro (Applied Animal Behaviour Science)"
+      "Shoes carry 100% of your daily scent profile",
+      "Cats find comfort in concentrated owner smell",
+      "Calming effect lowers stress when owner away",
+      "Same reason cats love dirty laundry"
     ],
-    "search_terms": ["cat and dog together", "cat dog friendship", "cat on high perch dog below"],
-    "category": "convivencia"
+    "search_terms": ["cat in shoe", "cat hiding small", "cat with shoes"],
+    "category": "cat-behavior"
   },
   {
-    "id": 80,
-    "topic": "Los gatos pueden detectar cáncer y enfermedades en humanos",
-    "hook": "Tu gato puede detectar tu enfermedad antes que un médico",
+    "id": 2079,
+    "topic": "Turkish Vans are champion swimming cats",
+    "hook": "This cat actually loves swimming",
     "key_points": [
-      "Según reportes del Journal of the Royal Society of Medicine, múltiples casos documentados de gatos que detectaron tumores malignos en sus dueños",
-      "Los gatos huelen compuestos orgánicos volátiles (VOCs) que las células cancerosas emiten — indetectables para la nariz humana (Applied Animal Behaviour Science)",
-      "Un estudio del British Medical Journal documentó un gato que persistía en tocar un lunar que resultó ser melanoma",
-      "Gatos en residencias geriátricas (como Oscar en el Steere House, Rhode Island) predicen muertes con horas de anticipación según el New England Journal of Medicine"
+      "Native to Lake Van region in Turkey",
+      "Cashmere-like coat repels water naturally",
+      "Cat Fanciers Association recognized 1994",
+      "Distinctive auburn markings only on head and tail"
     ],
-    "search_terms": ["cat smelling person", "cat touching owner face", "cat sensing illness"],
-    "category": "salud_felina"
+    "search_terms": ["turkish van cat", "cat swimming", "white cat with red"],
+    "category": "cat-breeds"
   },
   {
-    "id": 81,
-    "topic": "La cantidad exacta de agua que tu gato necesita al día",
-    "hook": "Tu gato probablemente está deshidratado ahora mismo",
+    "id": 2080,
+    "topic": "Cats know their own names but ignore them",
+    "hook": "Cats hear name and ignore",
     "key_points": [
-      "Según el Cornell Feline Health Center, los gatos necesitan 50-60 ml de agua por kg de peso al día — un gato de 4 kg necesita 200-240 ml",
-      "Los gatos alimentados solo con pienso beben un 50% menos de lo necesario — la comida húmeda tiene 80% de agua vs 10% del pienso (AVMA)",
-      "La deshidratación crónica contribuye directamente a la enfermedad renal según la IRIS (International Renal Interest Society)",
-      "El test de hidratación: pellizcas la piel del cuello y si tarda más de 2 segundos en volver, está deshidratado (Merck Veterinary Manual)"
+      "Sophia University Tokyo 2019 study confirmed",
+      "Cats distinguish own names from similar words",
+      "Independent nature overrides response training",
+      "Pair name with treats to build response"
     ],
-    "search_terms": ["cat water fountain drinking", "cat hydration health", "cat wet food bowl"],
-    "category": "alimentación"
+    "search_terms": ["cat name calling", "cat looking up", "cat ear flick"],
+    "category": "cat-science"
   },
   {
-    "id": 82,
-    "topic": "El gato Singapura es la raza más pequeña del mundo",
-    "hook": "Este gato adulto cabe en tu mano",
+    "id": 2081,
+    "topic": "Why cats dilated pupils mean trouble",
+    "hook": "Big pupils equal cat trouble",
     "key_points": [
-      "Según la CFA, el Singapura pesa entre 1.8 y 2.7 kg adulto — la mitad que un gato doméstico promedio",
-      "Originario de las calles de Singapur (llamados 'gatos de alcantarilla'), fue reconocido como raza en 1982 (TICA)",
-      "A pesar de su tamaño, tienen una personalidad extrovertida desproporcionada — son llamados 'pesky people cats' por la CFA",
-      "Su gen de miniaturización es diferente al del Munchkin — el Singapura es proporcionalmente pequeño sin problemas óseos (Journal of Feline Medicine)"
+      "Fully dilated round signals fear or arousal",
+      "Slits indicate calm or aggressive focus",
+      "Watch context: play vs imminent attack",
+      "Pupil response in 4 seconds to stimuli"
     ],
-    "search_terms": ["singapura cat small tiny", "singapura cat cute", "smallest cat breed"],
-    "category": "razas"
+    "search_terms": ["cat eyes wide", "cat scared face", "cat playful eyes"],
+    "category": "cat-behavior"
   },
   {
-    "id": 83,
-    "topic": "Tu gato procesa los carbohidratos de forma diferente a los perros",
-    "hook": "Los carbohidratos confunden el cuerpo de tu gato",
+    "id": 2082,
+    "topic": "Cats use 21 different vocalizations",
+    "hook": "Cats speak 21 different languages",
     "key_points": [
-      "Según el Journal of Animal Physiology, los gatos tienen menos amilasa pancreática que los perros — procesan mal los almidones",
-      "Les falta la enzima hepática glucoquinasa — su glucosa en sangre sube más lento y baja más lento que en perros (AVMA)",
-      "Las dietas altas en carbohidratos (>25%) aumentan el riesgo de obesidad y diabetes en gatos según un estudio de Waltham",
-      "El AAFCO no establece requisito mínimo de carbohidratos para gatos porque no los necesitan — son carnívoros estrictos"
+      "Range from purr to chirp to caterwaul",
+      "Each sound serves specific communication purpose",
+      "Trill greeting unique to mother-kitten bonding",
+      "Hiss is universal warning across all felines"
     ],
-    "search_terms": ["cat food nutrition label", "cat eating kibble", "cat diet health"],
-    "category": "alimentación"
+    "search_terms": ["cat meowing loud", "cat sounds", "cat chirping bird"],
+    "category": "cat-science"
   },
   {
-    "id": 84,
-    "topic": "Los gatos usan el silencio como forma de comunicación",
-    "hook": "El silencio de tu gato dice más que su maullido",
+    "id": 2083,
+    "topic": "Why your cat licks own butt obsessively",
+    "hook": "Excess licking signals real problem",
     "key_points": [
-      "Según la Universidad de Lund, los gatos tienen un maullido silencioso (frecuencia ultrasónica) que los humanos no oímos pero sentimos",
-      "Los gatos que dejan de vocalizar abruptamente pueden estar indicando dolor o malestar según la AAFP",
-      "La ausencia de ronroneo en un gato que normalmente ronronea es una señal de alerta veterinaria según el Cornell Feline Health Center",
-      "Los gatos feral se comunican casi exclusivamente con lenguaje corporal y olor — las vocalizaciones son un lujo de gatos domésticos (Journal of Zoology)"
+      "Normal grooming includes thorough rear cleaning",
+      "Excess focus there indicates anal gland issue",
+      "Worms or allergies also possible cause",
+      "Cornell Vet recommends exam if persistent"
     ],
-    "search_terms": ["cat silent meow", "cat quiet calm", "cat body language subtle"],
-    "category": "convivencia"
+    "search_terms": ["cat grooming self", "cat licking", "cat cleaning"],
+    "category": "cat-health"
   },
   {
-    "id": 85,
-    "topic": "El parásito Toxoplasma gondii manipula cerebros para llegar a tu gato",
-    "hook": "Un parásito controla cerebros para llegar a tu gato",
+    "id": 2084,
+    "topic": "Black cats glow red in sunlight",
+    "hook": "Black cats turn red in sun",
     "key_points": [
-      "Según la CDC, Toxoplasma gondii solo puede reproducirse sexualmente en el intestino de los gatos — es su hospedador definitivo",
-      "El parásito hace que los ratones infectados pierdan el miedo a los gatos — literalmente se acercan a la orina felina (Proceedings of the Royal Society B)",
-      "Infecta al 30-50% de la población humana mundial pero solo es peligroso para inmunodeprimidos y embarazadas (CDC)",
-      "Un estudio del Journal of Experimental Biology demostró que Toxoplasma modifica la dopamina cerebral de los ratones para eliminar la aversión al olor de gato"
+      "Eumelanin pigment fades under UV exposure",
+      "Reveals underlying tabby pattern called rusting",
+      "Tyrosine deficient diet accelerates the change",
+      "Common in outdoor black cats during summer"
     ],
-    "search_terms": ["cat and mouse interaction", "cat hunting mouse", "cat predator instinct"],
-    "category": "salud_felina"
+    "search_terms": ["black cat sun", "cat in sunlight", "rusty cat"],
+    "category": "cat-facts"
   },
   {
-    "id": 86,
-    "topic": "Por qué tu gato odia los cambios en su rutina",
-    "hook": "Tu gato odia los cambios más que nadie",
+    "id": 2085,
+    "topic": "Why cats hate belly rubs usually",
+    "hook": "Belly rub triggers attack mode",
     "key_points": [
-      "Según la AAFP, los gatos son neofóbicos por naturaleza — los cambios activan su respuesta de estrés (cortisol)",
-      "Cambiar la marca de comida, la posición de muebles o la rutina de horarios puede causar cistitis idiopática según el Dr. Buffington (Ohio State)",
-      "Un estudio del Journal of Feline Medicine demostró que las mudanzas son el evento más estresante — los niveles de cortisol tardan 2-3 semanas en normalizarse",
-      "La clave es la previsibilidad: horarios fijos de comida, juego y limpieza de arenero reducen el estrés crónico un 60% según la Indoor Cat Initiative"
+      "Belly is most vulnerable area to predators",
+      "Showing belly is trust signal not invite",
+      "Sensitive nerve endings overstimulate quickly",
+      "Some cats tolerate it after deep bond"
     ],
-    "search_terms": ["cat stressed hiding", "cat new environment anxious", "cat routine comfort"],
-    "category": "convivencia"
+    "search_terms": ["cat belly up", "cat playful biting", "cat rolling on back"],
+    "category": "cat-behavior"
   },
   {
-    "id": 87,
-    "topic": "El gato Manx nació sin cola por una mutación en una isla",
-    "hook": "En una isla nació un gato sin cola",
+    "id": 2086,
+    "topic": "Cats solved Italian Renaissance rat problems",
+    "hook": "Cats saved Renaissance Europe",
     "key_points": [
-      "Según la CFA, el Manx se originó en la Isla de Man (Mar de Irlanda) donde una mutación dominante eliminó la cola",
-      "Existen 4 variantes: rumpy (sin cola), rumpy riser (vestigio), stumpy (muñón) y longy (cola normal) según la TICA",
-      "Cruzar dos Manx rumpy entre sí puede producir gatitos con espina bífida — el gen es semi-letal en homocigosis (Journal of Heredity)",
-      "El aislamiento geográfico de la isla concentró el gen en la población — un ejemplo de efecto fundador según la Universidad de Edimburgo"
+      "Population decline post-medieval persecution rebounded",
+      "Catholic Church reversed cat persecution by 1400s",
+      "Cats vital for grain ship protection",
+      "Renaissance painters included cats in domestic scenes"
     ],
-    "search_terms": ["manx cat no tail", "manx cat rear view", "tailless cat breed"],
-    "category": "razas"
+    "search_terms": ["renaissance painting cat", "cat in art", "vintage cat"],
+    "category": "cat-history"
   },
   {
-    "id": 88,
-    "topic": "Tu gato puede aprender trucos igual que un perro",
-    "hook": "Tu gato puede aprender trucos — sí, de verdad",
+    "id": 2087,
+    "topic": "Why cats love fishing in toilet bowls",
+    "hook": "Toilets fascinate every cat",
     "key_points": [
-      "Según un estudio de la Universidad Estatal de Oregon (2021), los gatos aprenden por refuerzo positivo igual de rápido que los perros",
-      "La clave es la motivación: los gatos solo trabajan por recompensas de alto valor — no por complacer al dueño (Applied Animal Behaviour Science)",
-      "Sesiones de 3-5 minutos máximo son óptimas — la atención del gato cae drásticamente después según la AAFP",
-      "El clicker training funciona en gatos con un 85% de éxito para trucos básicos (sentarse, chocar la pata) según la IAABC"
+      "Moving water mimics natural prey water source",
+      "Cooler temperature than dish water appeals",
+      "Risk: chemical exposure and falling in",
+      "Solution: keep lid down, fountain alternative"
     ],
-    "search_terms": ["cat doing tricks", "cat high five paw", "cat clicker training"],
-    "category": "comportamiento"
+    "search_terms": ["cat at toilet", "cat drinking faucet", "cat playing water"],
+    "category": "cat-behavior"
   },
   {
-    "id": 89,
-    "topic": "Los gatos ancianos pueden tener demencia felina",
-    "hook": "Tu gato viejo puede tener Alzheimer felino",
+    "id": 2088,
+    "topic": "American Shorthair was on Mayflower 1620",
+    "hook": "American Shorthair came on Mayflower",
     "key_points": [
-      "Según el Journal of Feline Medicine, el 28% de los gatos de 11-14 años y el 50% de los mayores de 15 muestran signos de disfunción cognitiva",
-      "Síntomas: desorientación, maullidos nocturnos, olvidar dónde está el arenero, mirar paredes fijamente (Cornell Feline Health Center)",
-      "Se acumulan placas de beta-amiloide en el cerebro — el mismo proceso que en el Alzheimer humano según un estudio de la Universidad de Edimburgo",
-      "Enriquecimiento ambiental y dieta rica en omega-3 y antioxidantes puede ralentizar la progresión según la AAFP"
+      "Brought from England to control ship rats",
+      "Considered first cat breed of North America",
+      "Officially recognized by CFA in 1906",
+      "Known for hunting prowess and longevity"
     ],
-    "search_terms": ["senior cat old face", "elderly cat confused", "old cat sleeping"],
-    "category": "salud_felina"
+    "search_terms": ["american shorthair cat", "tabby cat", "classic cat"],
+    "category": "cat-breeds"
   },
   {
-    "id": 90,
-    "topic": "El gato Chartreux francés fue criado por monjes cartujos",
-    "hook": "Monjes medievales criaron al gato perfecto",
+    "id": 2089,
+    "topic": "Why cats spray and how to stop it",
+    "hook": "Spraying signals territorial stress",
     "key_points": [
-      "Según la CFA, el Chartreux fue supuestamente criado por monjes cartujos en la Grande Chartreuse (Francia) desde el siglo XIII",
-      "Su pelaje denso y lanoso fue originalmente valorado por su piel — los monjes lo criaban también por su habilidad como cazador (TICA)",
-      "Es la única raza que siempre sonríe — la estructura de su mandíbula crea una expresión de sonrisa permanente según la CFA",
-      "Charles de Gaulle tenía un Chartreux llamado Gris-Gris — y Colette escribió novelas con protagonistas Chartreux (French Cat Federation)"
+      "Both intact and neutered cats can spray",
+      "Tail-up vertical urine marking on objects",
+      "Triggered by new pets, moves, outdoor cats visible",
+      "Feliway pheromone diffuser reduces 75% per Ceva research"
     ],
-    "search_terms": ["chartreux cat grey blue", "chartreux cat smiling face", "chartreux cat french breed"],
-    "category": "razas"
+    "search_terms": ["cat tail up", "cat marking", "cat spraying behavior"],
+    "category": "cat-behavior"
   },
   {
-    "id": 91,
-    "topic": "Los antiparasitarios para perros pueden matar a tu gato",
-    "hook": "El producto de tu perro mata a tu gato",
+    "id": 2090,
+    "topic": "Complete guide to 15 most popular cat breeds compared",
+    "hook": "15 cat breeds ranked honestly",
     "key_points": [
-      "Según la ASPCA Poison Control, la permetrina (común en antiparasitarios caninos) es extremadamente tóxica para gatos",
-      "Los gatos carecen de glucuronil transferasa para metabolizar piretroides — dosis caninas causan convulsiones y muerte (Merck Veterinary Manual)",
-      "La Pet Poison Helpline reporta miles de casos anuales de intoxicación por permetrina en gatos que conviven con perros tratados",
-      "Los síntomas aparecen en 1-3 horas: temblores, hipersalivación, convulsiones — requiere lavado inmediato y hospitalización (AVMA)"
+      "Maine Coon: largest breed averages 19 lbs males",
+      "Ragdoll: gentle giant goes limp when held",
+      "Persian: high grooming needs flat face issues",
+      "Bengal: high energy needs 2hr daily play",
+      "Siamese: most vocal breed talks constantly",
+      "Sphynx: hairless requires weekly bathing",
+      "Russian Blue: hypoallergenic friendly choice"
     ],
-    "search_terms": ["cat safety medication", "cat vet emergency", "cat and dog medicine danger"],
-    "category": "salud_felina"
+    "search_terms": ["cat breeds compared", "different cat breeds", "popular cats"],
+    "category": "cat-breeds",
+    "format": "longform"
   },
   {
-    "id": 92,
-    "topic": "Por qué tu gato araña la puerta cerrada desesperadamente",
-    "hook": "Tu gato odia las puertas cerradas con pasión",
+    "id": 2091,
+    "topic": "How cats see the world: vision science fully explained",
+    "hook": "Cat vision is alien beauty",
     "key_points": [
-      "Según la ASPCA, los gatos perciben las puertas cerradas como una restricción de su territorio — activa ansiedad territorial",
-      "Los gatos necesitan patrullar todo su territorio regularmente — una puerta cerrada les impide completar su ruta según la AAFP",
-      "Un estudio del Journal of Veterinary Behavior demostró que los gatos con acceso libre a todas las habitaciones tienen un 35% menos de comportamientos destructivos",
-      "El FOMO felino es real: no es que quieran entrar, es que necesitan saber qué hay al otro lado según la veterinaria Mikel Delgado"
+      "Tapetum lucidum reflects light back through retina",
+      "200 degree field of view vs human 180 degrees",
+      "Limited red-green color perception like humans with deuteranopia",
+      "UV light visible per Royal Society 2014 study",
+      "Cannot focus on objects within 1 foot range",
+      "Pupils dilate from slits to fully round in 4 seconds",
+      "Tracks movement at 60 frames per second"
     ],
-    "search_terms": ["cat scratching door", "cat peeking under door", "cat waiting at door"],
-    "category": "comportamiento"
+    "search_terms": ["cat eyes closeup", "cat staring intense", "cat vision"],
+    "category": "cat-science",
+    "format": "longform"
   },
   {
-    "id": 93,
-    "topic": "Cómo interpretar el lenguaje corporal completo de tu gato",
-    "hook": "Tu gato habla con todo su cuerpo",
+    "id": 2092,
+    "topic": "20 most famous cats in history that changed events",
+    "hook": "These cats actually changed history",
     "key_points": [
-      "Según la AAFP, las orejas hacia delante + cola arriba + pupilas normales = gato feliz y receptivo",
-      "Orejas aplastadas + pupilas dilatadas + pelo erizado = miedo intenso — no acercarse según la ASPCA",
-      "La posición lateral con pelo erizado es para parecer más grande — es defensa, no ataque según el Journal of Feline Medicine",
-      "Un estudio de la Universidad de Lincoln identificó 276 expresiones faciales distintas en gatos — el doble de lo que se creía"
+      "Trim sailed Australia circumnavigation with Flinders 1801",
+      "Felicette: only cat in space France 1963",
+      "Unsinkable Sam survived 3 ship sinkings WW2",
+      "Stubbs mayor of Talkeetna Alaska 1997-2017",
+      "Faith awarded PDSA medal Blitz 1940",
+      "Towser caught 28899 mice Glenturret distillery",
+      "Tama: Japanese stationmaster cat saved railway"
     ],
-    "search_terms": ["cat body language chart", "cat ears positions meaning", "cat defensive posture"],
-    "category": "convivencia"
+    "search_terms": ["famous cat", "vintage cat photo", "historical cat"],
+    "category": "cat-history",
+    "format": "longform"
   },
   {
-    "id": 94,
-    "topic": "Tu gato tiene una huella de nariz única como tu huella dactilar",
-    "hook": "La nariz de tu gato es como tu DNI",
+    "id": 2093,
+    "topic": "Decoding cat body language: tail, ears, eyes, posture",
+    "hook": "Cats tell you everything always",
     "key_points": [
-      "Según investigadores de la Universidad de Kyoto, cada gato tiene un patrón de crestas nasales único e irrepetible",
-      "Empresas como Paws ID están desarrollando tecnología de reconocimiento nasal felino para identificación según el MIT Technology Review",
-      "A diferencia del microchip, la huella nasal es no invasiva y no requiere implantes (Veterinary Record journal)",
-      "Los perros también tienen huellas nasales únicas pero en gatos el patrón es más definido y estable según la Universidad de Chulalongkorn"
+      "Tail straight up: confident greeting per Cornell Vet",
+      "Tail puffed: fear response triggered",
+      "Tail tip twitching: focused or annoyed",
+      "Flat ears back: fear or aggression imminent",
+      "Forward ears: curiosity and engagement",
+      "Slow blink: trust and affection",
+      "Belly exposed: trust not invitation to touch"
     ],
-    "search_terms": ["cat nose macro close up", "cat nose pattern unique", "cat face detail nose"],
-    "category": "curiosidades"
+    "search_terms": ["cat body language", "cat tail position", "cat expressions"],
+    "category": "cat-behavior",
+    "format": "longform"
   },
   {
-    "id": 95,
-    "topic": "El gato Toyger fue creado para parecer un tigre miniatura",
-    "hook": "Crearon un tigre miniatura para tu casa",
+    "id": 2094,
+    "topic": "Cat nutrition guide: what science says cats really need",
+    "hook": "Stop feeding cats wrong food",
     "key_points": [
-      "Según la TICA, Judy Sugden creó el Toyger en los años 80 cruzando bengales con gatos rayados callejeros",
-      "El objetivo era crear conciencia sobre la conservación de tigres salvajes mediante un 'tigre de juguete' doméstico (CFA)",
-      "Las rayas del Toyger son circulares y anchas — diferentes a las rayas en forma de M de los tabbies comunes según la TICA",
-      "El programa de cría sigue activo con objetivo de lograr orejas más redondas y cuerpo más robusto para 2030 (TICA breed plan)"
+      "Obligate carnivore needs 26 essential nutrients",
+      "Taurine deficiency causes cardiomyopathy in 6 months",
+      "Protein requirement 50-60% of total diet",
+      "Wet food provides 70% moisture vs dry 10%",
+      "Avoid: onions, garlic, grapes, chocolate, alcohol",
+      "Daily calorie needs: 200 for indoor 10 lb cat",
+      "AAFCO certification ensures complete nutrition"
     ],
-    "search_terms": ["toyger cat tiger stripes", "toyger cat breed", "cat that looks like tiger"],
-    "category": "razas"
+    "search_terms": ["cat eating bowl", "cat food healthy", "cat nutrition"],
+    "category": "cat-nutrition",
+    "format": "longform"
   },
   {
-    "id": 96,
-    "topic": "El ibuprofeno es mortal para los gatos en dosis mínimas",
-    "hook": "Una pastilla de ibuprofeno mata a tu gato",
+    "id": 2095,
+    "topic": "Why cats domesticated themselves 10000 years ago",
+    "hook": "Cats chose human partnership freely",
     "key_points": [
-      "Según la Pet Poison Helpline, una sola dosis de ibuprofeno puede causar insuficiencia renal aguda en gatos",
-      "Los gatos metabolizan los AINEs 5-10 veces más lento que los humanos — la vida media es extremadamente larga (Merck Veterinary Manual)",
-      "El paracetamol (acetaminofén) es igualmente letal — causa metahemoglobinemia y fallo hepático en gatos según la ASPCA",
-      "Nunca mediques a tu gato sin veterinario — la mayoría de fármacos humanos son tóxicos en dosis felinas (AVMA guidelines)"
+      "Felis lybica wildcat origin in Fertile Crescent",
+      "Cyprus burial 9500 years ago oldest evidence",
+      "Followed humans into agricultural settlements",
+      "Hunted rodents attracted by stored grain",
+      "Egyptian sacred cat status by 4000 BC",
+      "Self-domestication: cats chose humans not reverse",
+      "DNA studies confirm minimal genetic change since"
     ],
-    "search_terms": ["cat medication danger", "cat emergency vet", "cat pill medicine"],
-    "category": "salud_felina"
+    "search_terms": ["egyptian cat", "ancient civilization", "wildcat"],
+    "category": "cat-history",
+    "format": "longform"
   },
   {
-    "id": 97,
-    "topic": "Los gatos tienen un sentido del tiempo sorprendente",
-    "hook": "Tu gato sabe qué hora es sin reloj",
+    "id": 2096,
+    "topic": "Top 10 cat behaviors explained by veterinary science",
+    "hook": "Weird cat behaviors all explained",
     "key_points": [
-      "Según un estudio del Journal of Veterinary Behavior, los gatos anticipan rutinas (comida, regreso del dueño) con precisión de 15-30 minutos",
-      "Su reloj interno está regulado por el núcleo supraquiasmático — el mismo que en humanos según la Universidad de Cornell",
-      "Los gatos en laboratorio sin señales externas mantienen ciclos de actividad de 24.5 horas — casi exactos (Applied Animal Behaviour Science)",
-      "Cambios horarios (verano/invierno) alteran a los gatos durante 1-2 semanas según la AAFP — no son inmunes al jet lag"
+      "Kneading: kittenhood milking instinct continues",
+      "Bunting: scent marking via face glands",
+      "Tail vibration: extreme excitement greeting",
+      "Slow blink: trust signal per Sussex 2020 study",
+      "Loafing: contentment plus quick escape ready",
+      "Zoomies: prey drive energy release",
+      "Hissing: warning before attack signaled"
     ],
-    "search_terms": ["cat waiting by door", "cat near clock time", "cat sitting window waiting"],
-    "category": "convivencia"
+    "search_terms": ["cat behavior", "cat doing things", "weird cat moments"],
+    "category": "cat-behavior",
+    "format": "longform"
   },
   {
-    "id": 98,
-    "topic": "Por qué tu gato pone el trasero en tu cara",
-    "hook": "Tu gato te pone el trasero en la cara por respeto",
+    "id": 2097,
+    "topic": "Cat health red flags every owner must know",
+    "hook": "These signs need vet today",
     "key_points": [
-      "Según la veterinaria Amy Shojai (certificada IAABC), presentar el trasero es la forma felina de saludar con confianza",
-      "Los gatos se reconocen mutuamente oliendo la zona perianal — es como un apretón de manos según la ASPCA",
-      "Las glándulas anales contienen información sobre identidad, salud y estado emocional del gato (Journal of Chemical Ecology)",
-      "Que te presente el trasero significa que confía en ti lo suficiente para mostrarte su parte más vulnerable (Universidad de Lincoln)"
+      "Hiding 24+ hours signals serious illness per Cornell",
+      "Loss of appetite over 24 hrs needs evaluation",
+      "Hard or no urination is medical emergency",
+      "Excessive thirst suggests diabetes or kidney issues",
+      "Vomiting more than 2x weekly warrants exam",
+      "Sudden weight loss 10% in month critical",
+      "Difficulty breathing or open mouth panting urgent"
     ],
-    "search_terms": ["cat tail up greeting", "cat approaching owner", "cat butt toward camera funny"],
-    "category": "comportamiento"
+    "search_terms": ["sick cat", "cat at vet", "cat health checkup"],
+    "category": "cat-health",
+    "format": "longform"
   },
   {
-    "id": 99,
-    "topic": "El gato Curl Americano tiene orejas curvadas hacia atrás de forma natural",
-    "hook": "Sus orejas se curvan hacia atrás naturalmente",
+    "id": 2098,
+    "topic": "Maine Coon complete breed history and care guide",
+    "hook": "Maine Coons are gentle giants",
     "key_points": [
-      "Según la CFA, todos los American Curl descienden de una gata callejera llamada Shulamith encontrada en California en 1981",
-      "Los gatitos nacen con orejas rectas que empiezan a curvarse entre los 3 y 5 días de vida (TICA)",
-      "A diferencia del Scottish Fold, la mutación del Curl no causa problemas de cartílago ni articulares según la Universidad de UC Davis",
-      "El grado de curvatura varía de 90 a 180 grados — solo los de 90-180° pueden competir en exposiciones (CFA breed standard)"
+      "Origin theory: ship cats Maine 1700s settlers",
+      "Average male: 13-18 lbs, length 40 inches typical",
+      "Slow growth reaches full size at 4-5 years",
+      "Polydactyl gene common from ship cat heritage",
+      "Health concerns: HCM heart disease and hip dysplasia",
+      "Grooming: brush 2-3x weekly minimum",
+      "Personality: dog-like loyalty and high intelligence"
     ],
-    "search_terms": ["american curl cat ears", "cat curled ears breed", "american curl kitten"],
-    "category": "razas"
+    "search_terms": ["maine coon cat", "large cat breed", "fluffy big cat"],
+    "category": "cat-breeds",
+    "format": "longform"
   },
   {
-    "id": 100,
-    "topic": "Los gatos necesitan jugar 15 minutos mínimo al día o enferman",
-    "hook": "15 minutos de juego salvan la salud de tu gato",
+    "id": 2099,
+    "topic": "How to read cat sounds: meows, purrs, chirps, hisses",
+    "hook": "Cat sounds decoded scientifically",
     "key_points": [
-      "Según la AAFP, los gatos de interior necesitan mínimo 15-20 minutos de juego interactivo diario para prevenir obesidad y estrés",
-      "La secuencia ideal imita la caza: acechar-perseguir-atrapar-matar-comer según la veterinaria Liz Bales",
-      "Un estudio del Journal of Feline Medicine demostró que gatos sin juego tienen un 50% más de problemas de comportamiento",
-      "Las varitas con plumas son el juguete con mayor tasa de engagement: activan los instintos de caza aérea según la ASPCA"
+      "Adult cats meow only at humans not other cats",
+      "Purr frequency 25-150 Hz aids healing",
+      "Chirp/trill: greeting from mother cat behavior",
+      "Hiss: warning across all feline species",
+      "Caterwaul: mating call or extreme distress",
+      "Chatter at birds: hunting frustration release",
+      "21 documented cat vocalizations total identified"
     ],
-    "search_terms": ["cat playing feather toy", "cat jumping catching", "cat hunting play"],
-    "category": "convivencia"
+    "search_terms": ["cat meowing", "cat purring", "cat sounds different"],
+    "category": "cat-science",
+    "format": "longform"
   },
   {
-    "id": 101,
-    "topic": "Los gatos sudan solo por las almohadillas de las patas",
-    "hook": "Tu gato suda por las patas y nada más",
+    "id": 2100,
+    "topic": "Indoor vs outdoor cat: complete safety analysis",
+    "hook": "Indoor cats live 3x longer",
     "key_points": [
-      "Según la AVMA, los gatos solo tienen glándulas sudoríparas ecrinas en las almohadillas plantares",
-      "Se regulan térmicamente principalmente por jadeo y lamido del pelaje — la evaporación de saliva enfría según el Cornell Feline Health Center",
-      "Las huellas húmedas de tu gato en el veterinario son sudor de estrés, no de calor (Journal of Feline Medicine)",
-      "El golpe de calor puede ocurrir a partir de 39.5°C de temperatura corporal — gatos braquicéfalos y obesos son los más vulnerables (ASPCA)"
+      "Indoor average lifespan 13-17 years per AVMA",
+      "Outdoor average 2-5 years from injuries disease",
+      "Outdoor risks: cars, predators, parasites, fights",
+      "Indoor enrichment: cat trees, puzzle feeders, leash walks",
+      "Catio compromise: outdoor exposure with safety",
+      "Window perches provide environmental stimulation",
+      "Strict indoor with enrichment best per ASPCA"
     ],
-    "search_terms": ["cat paw pads close up", "cat paws sweating", "cat hot weather cooling"],
-    "category": "salud_felina"
+    "search_terms": ["indoor cat", "outdoor cat", "cat at window"],
+    "category": "cat-health",
+    "format": "longform"
   },
   {
-    "id": 102,
-    "topic": "El gato Bombay fue creado para parecer una pantera en miniatura",
-    "hook": "Crearon una pantera negra para tu salón",
+    "id": 2101,
+    "topic": "Why cats purr: health, healing, and communication science",
+    "hook": "Purrs heal more than soothe",
     "key_points": [
-      "Según la CFA, Nikki Horner creó el Bombay en 1958 cruzando Burmeses sable con American Shorthair negros",
-      "El pelaje del Bombay tiene un brillo tipo charol único — cada pelo es negro desde la raíz hasta la punta según la TICA",
-      "Sus ojos deben ser color cobre o dorado intenso — es la única raza que requiere este color específico (CFA standard)",
-      "A pesar de su look salvaje, el Bombay es una de las razas más cariñosas — llamados 'velcro cats' por su apego extremo (TICA personality profile)"
+      "Frequency 25-150 Hz documented therapeutic range",
+      "Bone density increase at 25-50 Hz per research",
+      "Wound healing accelerated at 100 Hz",
+      "Cats purr sick injured AND content states",
+      "Purr inhale and exhale unique to cat species",
+      "Solicitation purr embeds frequency similar to baby cry",
+      "Lower human blood pressure during contact confirmed"
     ],
-    "search_terms": ["bombay cat black shiny", "black cat golden eyes", "bombay cat panther"],
-    "category": "razas"
+    "search_terms": ["cat purring lap", "cat sleeping cozy", "cat content"],
+    "category": "cat-science",
+    "format": "longform"
   },
   {
-    "id": 103,
-    "topic": "Por qué tu gato come tan rápido y luego vomita",
-    "hook": "Tu gato come tan rápido que vomita la comida",
+    "id": 2102,
+    "topic": "Black cats history: from sacred to feared to loved",
+    "hook": "Black cats had wild journey",
     "key_points": [
-      "Según el Cornell Feline Health Center, comer demasiado rápido causa regurgitación — la comida no llega al estómago antes de volver",
-      "Los gatos domésticos conservan el instinto de comer rápido para que otros depredadores no roben su presa (Applied Animal Behaviour Science)",
-      "Los comederos lentos (puzzle feeders) reducen la velocidad de ingesta un 60% y el vomiting post-comida un 80% según un estudio de la Universidad de Utrecht",
-      "Dividir la ración en 4-5 comidas pequeñas al día imita el patrón natural de caza de 8-12 presas pequeñas diarias según la AAFP"
+      "Egyptian goddess Bastet portrayed black cat sacred",
+      "Pope Gregory IX 1233 declared cats devil-linked",
+      "Mass killings caused rat-driven Black Death spread",
+      "Royal Navy required black ship cats until 1975",
+      "Japanese: black cats bring luck and prosperity",
+      "Celtic mythology: black cats are spirit guides",
+      "Modern statistics: less adopted from shelters"
     ],
-    "search_terms": ["cat eating fast food", "cat puzzle feeder", "cat slow eating bowl"],
-    "category": "alimentación"
+    "search_terms": ["black cat", "egyptian goddess", "cat history"],
+    "category": "cat-history",
+    "format": "longform"
   },
   {
-    "id": 104,
-    "topic": "Tu gato sueña y tiene pesadillas como tú",
-    "hook": "Tu gato tiene pesadillas mientras duerme",
+    "id": 2103,
+    "topic": "Senior cat care: nutrition, health, behavior changes",
+    "hook": "Senior cats need different care",
     "key_points": [
-      "Según Michel Jouvet (Universidad de Lyon), pionero del sueño REM, los gatos entran en fase REM cada 25 minutos de sueño",
-      "En sus experimentos clásicos de los años 60, gatos sin atonía muscular durante REM cazaban presas imaginarias dormidos",
-      "Los gatos pasan el 30% de su sueño en fase REM — los humanos solo el 25% según el Journal of Sleep Research",
-      "Los movimientos de patas, bigotes y vocalizaciones durante el sueño indican sueños activos según el Veterinary Neuroscience journal"
+      "Senior status begins at 11 years old",
+      "Annual vet visits become biannual",
+      "Kidney disease affects 30% of cats over 15",
+      "Calorie needs decrease but protein remains essential",
+      "Joint supplements glucosamine help arthritis",
+      "Litter box accessibility: low entry sides matter",
+      "Heated beds and ramps improve quality of life"
     ],
-    "search_terms": ["cat sleeping dreaming", "cat twitching sleep", "cat REM sleep cute"],
-    "category": "convivencia"
+    "search_terms": ["senior cat", "old cat resting", "elderly cat care"],
+    "category": "cat-health",
+    "format": "longform"
   },
   {
-    "id": 105,
-    "topic": "Cómo viajar con tu gato sin que sea un trauma",
-    "hook": "Tu gato puede viajar sin estrés — así se hace",
+    "id": 2104,
+    "topic": "Cat training myths: what actually works backed by science",
+    "hook": "Cats absolutely can be trained",
     "key_points": [
-      "Según la AAFP, el transportín debe dejarse abierto en casa permanentemente para que el gato lo asocie con seguridad, no con veterinario",
-      "Rociar Feliway (feromona facial sintética F3) en el transportín 30 minutos antes reduce el estrés un 40% según estudios del IRSEA",
-      "Nunca alimentar al gato 4-6 horas antes del viaje para evitar vómitos por cinetosis según la AVMA",
-      "Los gatos viajan más tranquilos si el transportín está cubierto — la oscuridad reduce estimulación visual estresante (Journal of Feline Medicine)"
+      "Clicker training works equal to dogs in studies",
+      "Positive reinforcement only: punishment damages bond",
+      "Sessions 5 minutes max keeps focus",
+      "Reward within 2 seconds of behavior",
+      "High-value treats: tuna, freeze-dried chicken",
+      "Train basic sit, high-five, come on cue",
+      "Litter training natural by 4 weeks old"
     ],
-    "search_terms": ["cat in carrier transport", "cat car travel safe", "cat carrier comfortable"],
-    "category": "convivencia"
+    "search_terms": ["cat training", "cat learning trick", "cat treat reward"],
+    "category": "cat-training",
+    "format": "longform"
   },
   {
-    "id": 106,
-    "topic": "Los gatos tienen un sensor térmico en la nariz",
-    "hook": "La nariz de tu gato mide la temperatura exacta",
+    "id": 2105,
+    "topic": "Common cat myths debunked by veterinary research",
+    "hook": "Stop believing cat myths now",
     "key_points": [
-      "Según un estudio de la Universidad de Lund, los gatos detectan cambios de temperatura de 0.5°C con los receptores de su nariz",
-      "Los recién nacidos ciegos y sordos encuentran a su madre por el calor — los receptores TRPV1 de la nariz son su GPS térmico (Journal of Neurophysiology)",
-      "La nariz fría y húmeda de tu gato no indica enfermedad — varía según actividad y ambiente según la AVMA",
-      "Los gatos evalúan la comida por temperatura antes que por olor: prefieren comida a 38°C (temperatura corporal de una presa) según la Waltham Pet Science Foundation"
+      "Myth: cats always land on feet (broken bones common)",
+      "Myth: pregnant women must rehome cats (toxoplasmosis avoidable)",
+      "Myth: cats need milk (lactose intolerant adults)",
+      "Myth: cats are nocturnal (crepuscular dawn-dusk)",
+      "Myth: black cats unlucky (cultural variance)",
+      "Myth: cats are aloof (form deep bonds proven)",
+      "Myth: 9 lives (no scientific basis)"
     ],
-    "search_terms": ["cat nose temperature", "cat sniffing food temperature", "kitten nose close up"],
-    "category": "alimentación"
+    "search_terms": ["cat falling", "cat at vet", "myth cat"],
+    "category": "cat-myths",
+    "format": "longform"
   },
   {
-    "id": 107,
-    "topic": "El gato Ruso Azul es hipoalergénico y produce menos Fel d 1",
-    "hook": "Este gato produce menos alergia que los demás",
+    "id": 2106,
+    "topic": "Worlds rarest cat breeds you have never seen",
+    "hook": "These cats are nearly extinct",
     "key_points": [
-      "Según estudios de la Universidad de UC Davis, el Ruso Azul produce significativamente menos proteína Fel d 1 que otras razas",
-      "Fel d 1 (la principal alérgeno felino) se produce en las glándulas sebáceas y salivales — no en el pelo según el Journal of Allergy and Clinical Immunology",
-      "Ningún gato es 100% hipoalergénico — pero los Ruso Azul causan menos reacciones en el 60% de alérgicos según la TICA",
-      "Los machos no castrados producen hasta 5 veces más Fel d 1 que las hembras según un estudio de Nestlé Purina"
+      "Sokoke: from Kenya forest under 100 worldwide",
+      "Norwegian Forest: post-WWII rescue from extinction",
+      "Burmilla: accidental cross 1981 limited population",
+      "Khao Manee: ancient Thai breed white blue eyes",
+      "Chartreux: French monastery breed near extinct WW2",
+      "Korat: Thailand sacred breed slow population growth",
+      "Lykoi: werewolf cat new mutation 2010"
     ],
-    "search_terms": ["russian blue cat elegant", "russian blue green eyes", "hypoallergenic cat breed"],
-    "category": "razas"
+    "search_terms": ["rare cat breed", "exotic cat", "unique cat"],
+    "category": "cat-breeds",
+    "format": "longform"
   },
   {
-    "id": 108,
-    "topic": "Cuántas veces al día debe comer tu gato según la ciencia",
-    "hook": "La ciencia dice que tu gato come mal",
+    "id": 2107,
+    "topic": "How indoor cats stay mentally healthy: enrichment guide",
+    "hook": "Bored cats become destructive cats",
     "key_points": [
-      "Según la AAFP, la frecuencia óptima es 4-5 comidas pequeñas al día — imita las 8-12 presas que cazarían en libertad",
-      "El free-feeding (comida disponible siempre) causa obesidad en el 80% de los gatos de interior según la Association for Pet Obesity Prevention",
-      "Un estudio de la Universidad de Guelph demostró que los gatos alimentados 1 vez al día tienen mayor saciedad y masa muscular",
-      "La temperatura ideal de la comida es 38°C — los gatos rechazan comida fría porque no huele a presa fresca según la Waltham Foundation"
+      "Vertical space cat trees minimum 6 feet tall",
+      "Window perches for bird TV stimulation",
+      "Puzzle feeders engage hunting instincts",
+      "Rotate toys weekly to maintain novelty",
+      "Wand toys 15 min daily prey simulation",
+      "Outdoor exposure via leash or catio",
+      "Companion cat pairs reduce loneliness"
     ],
-    "search_terms": ["cat eating scheduled meal", "cat food bowl timing", "cat waiting for food"],
-    "category": "alimentación"
+    "search_terms": ["cat playing toy", "cat tree", "cat enrichment"],
+    "category": "cat-behavior",
+    "format": "longform"
   },
   {
-    "id": 109,
-    "topic": "Los gatos pueden saltar 6 veces su propia longitud",
-    "hook": "Tu gato salta como un atleta olímpico",
+    "id": 2108,
+    "topic": "Cat anatomy explained: secrets of feline body design",
+    "hook": "Cat bodies are perfect machines",
     "key_points": [
-      "Según el Journal of Experimental Biology, un gato de 45 cm puede saltar hasta 2.7 metros de altura — 6 veces su longitud",
-      "El 70% de su masa muscular está en las patas traseras, funcionando como resortes según la Universidad de Cornell",
-      "Los músculos de contracción rápida (tipo II) dominan en gatos — explosión máxima en saltos cortos (Veterinary Anatomy journal)",
-      "Proporcionalmente, si un humano saltara igual que un gato, alcanzaría los 10 metros de altura según National Geographic"
+      "30 vertebrae vs 24 humans for flexibility",
+      "Floating clavicle squeezes through tight spaces",
+      "32 muscles per ear vs 6 for humans",
+      "5 toes front 4 toes back standard",
+      "Whiskers extend body width for spatial mapping",
+      "Rough tongue with keratin papillae for grooming",
+      "Retractable claws unique to non-cheetah cats"
     ],
-    "search_terms": ["cat jumping high", "cat leaping distance", "cat powerful jump"],
-    "category": "curiosidades"
+    "search_terms": ["cat anatomy", "cat body parts", "cat structure"],
+    "category": "cat-science",
+    "format": "longform"
   },
   {
-    "id": 110,
-    "topic": "Tu gato necesita enriquecimiento ambiental o desarrolla trastornos",
-    "hook": "Sin estímulos tu gato enloquece literalmente",
+    "id": 2109,
+    "topic": "Cats in religion: from sacred to feared across cultures",
+    "hook": "Cats sacred or evil worldwide",
     "key_points": [
-      "Según la AAFP, las 5 necesidades ambientales felinas son: lugar seguro, recursos separados, oportunidades de juego/caza, interacción social positiva, y respeto a su olfato",
-      "Los gatos sin enriquecimiento desarrollan alopecia psicógena (se arrancan el pelo) en un 10% de los casos según el Journal of Feline Medicine",
-      "La Indoor Cat Initiative de Ohio State demostró que el enriquecimiento reduce problemas urinarios, respiratorios y de comportamiento un 75%",
-      "Rotar juguetes cada 3-4 días evita la habituación — el gato los percibe como nuevos según Applied Animal Behaviour Science"
+      "Egypt: Bastet protector goddess depicted as cat",
+      "Norse: Freya pulled chariot by giant cats",
+      "Japan: Maneki-neko beckoning cat fortune symbol",
+      "Buddhism: cats forbidden as Buddha protectors",
+      "Christianity medieval: cats linked to witchcraft",
+      "Islam: Prophet Muhammad cared for cat Muezza",
+      "Modern Wicca: cats spiritual companions"
     ],
-    "search_terms": ["cat enrichment toys", "cat playing puzzle", "cat interactive environment"],
-    "category": "convivencia"
+    "search_terms": ["egyptian cat statue", "cat religion", "spiritual cat"],
+    "category": "cat-history",
+    "format": "longform"
   },
   {
-    "id": 111,
-    "topic": "Los gatos negros tienen más probabilidades de ser adoptados de último",
-    "hook": "Los gatos negros esperan el doble para ser adoptados",
+    "id": 2110,
+    "topic": "Best foods for cats and complete dangerous list",
+    "hook": "Some foods kill your cat",
     "key_points": [
-      "Según un estudio de la ASPCA, los gatos negros tardan un 13% más en ser adoptados que los de otros colores",
-      "El 'Black Cat Syndrome' en refugios es documentado — se atribuye a supersticiones y a que no fotografían bien (Journal of Applied Animal Welfare Science)",
-      "Las asociaciones protectoras organizan 'Black Friday de adopción' y promociones específicas para gatos negros según la Humane Society",
-      "Un estudio de la Universidad de California Berkeley demostró que los gatos negros no tienen diferencias de personalidad con otros colores"
+      "Safe: cooked chicken, turkey, fish in moderation",
+      "Safe: pumpkin, blueberries, watermelon small amounts",
+      "Toxic: chocolate causes heart arrhythmia",
+      "Toxic: onions garlic destroy red blood cells",
+      "Toxic: grapes raisins cause kidney failure",
+      "Toxic: xylitol artificial sweetener",
+      "Toxic: alcohol caffeine raw bread dough"
     ],
-    "search_terms": ["black cat beautiful eyes", "black cat adoption", "black cat cute portrait"],
-    "category": "convivencia"
+    "search_terms": ["cat eating treats", "cat food safe", "human food cat"],
+    "category": "cat-nutrition",
+    "format": "longform"
   },
   {
-    "id": 112,
-    "topic": "La enfermedad periodontal afecta al 70% de los gatos mayores de 3 años",
-    "hook": "La boca de tu gato esconde una enfermedad silenciosa",
+    "id": 2111,
+    "topic": "Why cats sleep so much: science behind 16 hour naps",
+    "hook": "Cats sleep more than dogs",
     "key_points": [
-      "Según la AVMA, el 70% de los gatos tienen algún grado de enfermedad dental a los 3 años de edad",
-      "La reabsorción dental felina (lesiones FORL) afecta al 28-67% de los gatos y causa dolor extremo según el Cornell Feline Health Center",
-      "Los gatos ocultan el dolor dental comiendo con la cabeza ladeada o dejando caer comida — signos sutiles según la AAFP",
-      "Las bacterias orales pueden entrar al torrente sanguíneo y afectar corazón, riñón e hígado según el Journal of Veterinary Dentistry"
+      "Average 12-16 hours daily, kittens up to 20",
+      "Three-quarters is light sleep cat alert",
+      "Quarter REM phase with twitching dreams",
+      "Energy conservation from ancestral hunting cycles",
+      "Crepuscular: peak activity dawn and dusk",
+      "Old cats sleep more from arthritis discomfort",
+      "Brain reorganization during deep sleep documented"
     ],
-    "search_terms": ["cat teeth dental health", "cat mouth open teeth", "cat at dentist vet"],
-    "category": "salud_felina"
+    "search_terms": ["cat sleeping cozy", "cat napping", "cat dreaming"],
+    "category": "cat-science",
+    "format": "longform"
   },
   {
-    "id": 113,
-    "topic": "Tu gato puede aprender su nombre pero elegir no responder",
-    "hook": "Tu gato sabe su nombre pero pasa olímpicamente",
+    "id": 2112,
+    "topic": "Cat genetics: how coat colors and patterns work",
+    "hook": "Cat coat colors decoded",
     "key_points": [
-      "Un estudio de Atsuko Saito (Universidad de Tokio, 2019) demostró que los gatos distinguen su nombre de palabras similares",
-      "De 78 gatos estudiados, todos mostraron respuesta diferencial a su nombre vs otras palabras — orejas y cabeza se movían (Scientific Reports)",
-      "Los gatos de hogares con múltiples gatos también distinguen los nombres de sus compañeros según el mismo estudio",
-      "La diferencia con los perros: responder no es obligatorio — los gatos evalúan si merece la pena ir (Applied Animal Behaviour Science)"
+      "Two pigments only: eumelanin black and phaeomelanin red",
+      "Tabby pattern is genetic default for all cats",
+      "Calico requires two X chromosomes (female)",
+      "Pointed coloration temperature-sensitive enzyme",
+      "Dilute genes turn black to blue, orange to cream",
+      "White spotting gene controls patches placement",
+      "Coat color does not correlate with personality scientifically"
     ],
-    "search_terms": ["cat hearing name call", "cat looking when called", "cat ignoring command"],
-    "category": "convivencia"
+    "search_terms": ["cat colors variety", "calico cat", "tabby cat patterns"],
+    "category": "cat-science",
+    "format": "longform"
   },
   {
-    "id": 114,
-    "topic": "El aguacate es tóxico para tu gato en grandes cantidades",
-    "hook": "El aguacate de moda es peligroso para tu gato",
+    "id": 2113,
+    "topic": "Litter box guide: solving every cat owner mystery",
+    "hook": "Litter box mistakes ruin homes",
     "key_points": [
-      "Según la ASPCA, el aguacate contiene persina, una toxina fungicida que puede causar vómitos y diarrea en gatos",
-      "El hueso del aguacate es el mayor peligro — puede causar obstrucción intestinal potencialmente mortal (Pet Poison Helpline)",
-      "La toxicidad es dosis-dependiente: pequeñas cantidades de pulpa son toleradas pero no recomendadas (Merck Veterinary Manual)",
-      "El aceite de aguacate procesado (sin persina) se usa en algunos alimentos premium para gatos por su omega-3 según la AAFCO"
+      "Rule: one box per cat plus one extra",
+      "Size: 1.5x cat length minimum",
+      "Unscented clay clumping cat preference per UC Davis",
+      "Daily scoop weekly full clean essential",
+      "Location: quiet low traffic accessible spots",
+      "Avoid covered boxes ammonia trap concern",
+      "Outside box urinating signals UTI or stress"
     ],
-    "search_terms": ["cat food dangerous avocado", "cat eating human food", "cat toxic food list"],
-    "category": "alimentación"
+    "search_terms": ["cat litter box", "cat in litter", "clean litter"],
+    "category": "cat-behavior",
+    "format": "longform"
   },
   {
-    "id": 115,
-    "topic": "Los gatos pueden girar las orejas como antenas parabólicas",
-    "hook": "Las orejas de tu gato son antenas parabólicas vivas",
+    "id": 2114,
+    "topic": "Why cats live longer than wild relatives science",
+    "hook": "House cats outlive wild cousins",
     "key_points": [
-      "Según la Universidad de Cornell, la forma cónica del pabellón auditivo del gato amplifica el sonido como una antena parabólica",
-      "Cada oreja rota independientemente 180 grados con 32 músculos — localiza sonidos en milisegundos (ASPCA)",
-      "Los gatos pueden distinguir entre sonidos que difieren solo 1/10 de tono según estudios del Journal of Comparative Psychology",
-      "Las razas con orejas más grandes (Oriental, Siamés) tienen mejor audición que las de orejas pequeñas (Persa) según la TICA"
+      "Domestic cats live 12-18 years average",
+      "African wildcats survive 6-8 years in wild",
+      "Veterinary care, vaccines, parasite control extend life",
+      "Predator absence indoor critical factor",
+      "Spay/neuter prevents reproductive cancers",
+      "Proper nutrition meets all 26 essential nutrients",
+      "Stress reduction via stable environment"
     ],
-    "search_terms": ["cat ears moving independently", "cat listening sounds", "cat alert ears rotating"],
-    "category": "comportamiento"
+    "search_terms": ["domestic cat", "wild cat", "cat aging well"],
+    "category": "cat-health",
+    "format": "longform"
   },
   {
-    "id": 116,
-    "topic": "El gato Khao Manee es considerado un amuleto de suerte en Tailandia",
-    "hook": "Este gato vale una fortuna y trae suerte",
+    "id": 2115,
+    "topic": "Famous internet cats and their incredible stories",
+    "hook": "These cats earned millions online",
     "key_points": [
-      "Según la TICA, el Khao Manee ('gema blanca') es la raza real tailandesa mencionada en el Tamra Maew (Libro de Poemas de Gatos) del siglo XIV",
-      "Los de ojos dispares (uno azul, uno verde/ámbar) son los más valorados — llamados 'ojos de diamante' en Tailandia (CFA)",
-      "Fueron exclusivos de la realeza tailandesa durante siglos — sacarlos del país estaba prohibido hasta los años 90 (TICA breed history)",
-      "Un Khao Manee de ojos dispares puede costar entre 7.000 y 11.000 USD según criadores certificados por la TICA"
+      "Grumpy Cat: Tardar Sauce earned estimated 100 million",
+      "Lil Bub: pituitary dwarfism rescue cat advocate",
+      "Maru: Japanese box-loving cat billions of views",
+      "Henri Le Chat Noir: existentialist French viral",
+      "Nala Cat: rescue Persian most followed cat 4M",
+      "Hamilton the Hipster Cat: mustache markings",
+      "Snoopy babe: Asian flat-faced viral sensation"
     ],
-    "search_terms": ["khao manee cat white", "odd eyed white cat", "khao manee heterochromia"],
-    "category": "razas"
+    "search_terms": ["famous internet cat", "viral cat", "cute cat"],
+    "category": "cat-history",
+    "format": "longform"
   },
   {
-    "id": 117,
-    "topic": "Los gatos mayores necesitan revisiones veterinarias cada 6 meses",
-    "hook": "Tu gato envejece 4 años humanos cada 12 meses",
+    "id": 2116,
+    "topic": "How to introduce new cat to existing pets safely",
+    "hook": "Wrong intro causes lifelong feud",
     "key_points": [
-      "Según la AAHA (American Animal Hospital Association), un gato de 10 años equivale a 56 años humanos — envejece rápido",
-      "La AAFP recomienda revisiones semestrales a partir de los 7 años porque las enfermedades progresan el doble de rápido que en humanos",
-      "Análisis de sangre bianuales detectan enfermedad renal, diabetes e hipertiroidismo meses antes de los síntomas según el Cornell Feline Health Center",
-      "Solo el 15% de los dueños de gatos cumplen las revisiones recomendadas vs el 35% de dueños de perros según la AVMA"
+      "Separate room first 7-14 days minimum",
+      "Scent swap with bedding before sight contact",
+      "Feed on opposite sides of door together",
+      "Visual contact via baby gate next phase",
+      "Supervised brief interactions reward calm behavior",
+      "Total integration takes 4-6 weeks typically",
+      "Pheromone diffusers reduce stress per Ceva research"
     ],
-    "search_terms": ["senior cat vet checkup", "old cat health exam", "cat blood test veterinary"],
-    "category": "salud_felina"
+    "search_terms": ["two cats together", "cat introduction", "cats meeting"],
+    "category": "cat-behavior",
+    "format": "longform"
   },
   {
-    "id": 118,
-    "topic": "Tu gato puede oler si otro gato estuvo en tus manos",
-    "hook": "Tu gato sabe que tocaste a otro gato — siempre",
+    "id": 2117,
+    "topic": "Cat vaccines explained: which shots cats really need",
+    "hook": "Skipping shots costs cats lives",
     "key_points": [
-      "Según la ASPCA, los gatos detectan feromonas de otros gatos en tu piel incluso horas después del contacto",
-      "La reacción puede ser desde frotar intensamente (re-marcar) hasta sisear y alejarse según el Journal of Feline Medicine",
-      "Los gatos tienen 30 tipos diferentes de receptores olfativos para feromonas — cada gato tiene una firma química única (Chemical Senses journal)",
-      "Un estudio de la Universidad de Lincoln demostró que los gatos tardaban una media de 2 horas en re-marcar completamente a un dueño que olía a otro gato"
+      "Core vaccines: FVRCP and rabies for all cats",
+      "FVRCP protects against three deadly viruses",
+      "Rabies legally required in most US states",
+      "FeLV vaccine for outdoor cats critical",
+      "Kitten series: 8, 12, 16 weeks",
+      "Adult boosters every 1-3 years per AAFP",
+      "Indoor cats still need core vaccines"
     ],
-    "search_terms": ["cat smelling hands person", "cat jealous another cat", "cat sniffing owner"],
-    "category": "comportamiento"
+    "search_terms": ["cat at vet", "cat vaccination", "kitten exam"],
+    "category": "cat-health",
+    "format": "longform"
   },
   {
-    "id": 119,
-    "topic": "La comida para perros puede matar a tu gato a largo plazo",
-    "hook": "La comida de tu perro mata a tu gato lentamente",
+    "id": 2118,
+    "topic": "Origins of 12 most popular cat breeds explained",
+    "hook": "Each cat breed has crazy origin",
     "key_points": [
-      "Según la ASPCA, la comida para perros no contiene taurina suficiente para gatos — la deficiencia causa ceguera y fallo cardíaco",
-      "Los gatos necesitan ácido araquidónico preformado que la comida de perro no incluye según los estándares del AAFCO",
-      "La proteína en comida canina (18% mínimo) es insuficiente para gatos que necesitan mínimo 26% según el AAFCO",
-      "Un estudio del Journal of the AVMA documentó cardiomiopatía dilatada en gatos alimentados exclusivamente con comida canina durante 6 meses"
+      "Siamese: ancient Thai temples 14th century",
+      "Persian: brought from Iran by Italian traveler 1620",
+      "Maine Coon: ship cats Maine settlers 1700s",
+      "Bengal: 1960s Asian leopard cat hybrid project",
+      "Sphynx: natural mutation Toronto 1966",
+      "Ragdoll: Ann Baker California 1960s breeding",
+      "Scottish Fold: farm cat Susie Scotland 1961"
     ],
-    "search_terms": ["cat and dog food bowls", "cat eating wrong food", "cat food vs dog food"],
-    "category": "alimentación"
+    "search_terms": ["different cat breeds", "cat history breeds", "cat origin"],
+    "category": "cat-breeds",
+    "format": "longform"
   },
   {
-    "id": 120,
-    "topic": "Cómo crear la casa perfecta para tu gato según la ciencia",
-    "hook": "La ciencia diseñó la casa perfecta para gatos",
+    "id": 2119,
+    "topic": "Why cats hate other cats: territory science explained",
+    "hook": "Cats fight over territory always",
     "key_points": [
-      "Según la Indoor Cat Initiative de Ohio State, la casa ideal tiene recursos distribuidos en 3 dimensiones: suelo, media altura y alto",
-      "Cada gato necesita acceso a: escondite, percha alta, rascador, comedero, bebedero y arenero separados según la AAFP",
-      "Las ventanas con vista al exterior reducen el estrés un 45% — son la 'televisión para gatos' según un estudio del Journal of Feline Medicine",
-      "La temperatura ideal para gatos es 30-36°C — significativamente más alta que la zona de confort humano según la Universidad de Lincoln"
+      "Solitary hunters except for African lions",
+      "Territory size 100-200 acres for outdoor cats",
+      "Indoor crowding causes stress and fighting",
+      "Scent marking establishes ownership boundaries",
+      "Resource competition: food water litter sleep",
+      "Multi-cat homes need separate everything per cat",
+      "Pheromone diffusers help integration per Cornell"
     ],
-    "search_terms": ["cat friendly home design", "cat shelves climbing wall", "cat window perch happy"],
-    "category": "convivencia"
+    "search_terms": ["cats fighting", "cat hissing", "cats territorial"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2120,
+    "topic": "Cat dental health: prevent disease that kills 70%",
+    "hook": "Dental disease kills cats silently",
+    "key_points": [
+      "70% of cats over 3 have dental disease per AVMA",
+      "Symptoms: drooling, bad breath, dropped food",
+      "Brush daily with cat-specific enzyme toothpaste",
+      "Annual professional dental cleaning at vet",
+      "Dental treats VOHC approved help reduce plaque",
+      "Stomatitis severe inflammation needs treatment",
+      "Periodontal disease causes heart kidney issues"
+    ],
+    "search_terms": ["cat teeth", "cat mouth open", "cat dental care"],
+    "category": "cat-health",
+    "format": "longform"
+  },
+  {
+    "id": 2121,
+    "topic": "How to tell if your cat is happy: 10 clear signs",
+    "hook": "Happy cats show these signs",
+    "key_points": [
+      "Tail straight up when greeting you signals joy",
+      "Slow blinks indicate trust and contentment",
+      "Loud purring during petting confirms happy state",
+      "Kneading on you with paws shows comfort",
+      "Playing with toys regularly indicates wellbeing",
+      "Eating normally maintains weight balanced",
+      "Grooming self thoroughly daily routine"
+    ],
+    "search_terms": ["happy cat", "cat content", "cat smiling"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2122,
+    "topic": "Adopting from shelter: complete first 30 day guide",
+    "hook": "First month makes or breaks bond",
+    "key_points": [
+      "Day 1-3: single safe room with essentials",
+      "Day 4-7: gradual house exposure if comfortable",
+      "Week 2: routine establishment for feeding play",
+      "Week 3: introduce other pets carefully",
+      "Vet visit within first 7 days mandatory",
+      "Microchip and ID tags day one essential",
+      "Allow hiding behavior; do not force interaction"
+    ],
+    "search_terms": ["cat adoption", "shelter cat", "new cat home"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2123,
+    "topic": "Cats and kids: safety, bonding, common mistakes",
+    "hook": "Kids and cats need teaching",
+    "key_points": [
+      "Teach gentle hands no tail or ear pulling",
+      "Cat must have escape routes always",
+      "Supervise interactions under age 6",
+      "Read body language together as family",
+      "Older cats often gentler with children",
+      "Never disturb sleeping or eating cat",
+      "Rough play creates fearful adult cats"
+    ],
+    "search_terms": ["child with cat", "kids and cats", "family cat"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2124,
+    "topic": "Why cats live indoors longer: the lifespan science",
+    "hook": "Indoor cats double their lifespan",
+    "key_points": [
+      "Indoor average 13-17 years per AVMA data",
+      "Outdoor average 2-5 years comparison",
+      "Cars cause majority of outdoor cat deaths",
+      "Predators: coyotes hawks larger dogs",
+      "Disease exposure: FeLV FIV from fights",
+      "Parasites fleas ticks worms increased risk",
+      "Toxic plants antifreeze poisoning common"
+    ],
+    "search_terms": ["indoor cat safe", "outdoor cat danger", "cat at home"],
+    "category": "cat-health",
+    "format": "longform"
+  },
+  {
+    "id": 2125,
+    "topic": "Persian cat full guide: history, care, health concerns",
+    "hook": "Persians need special daily care",
+    "key_points": [
+      "Origin: 1600s ancient Persia and Asia",
+      "Brachycephalic flat face breathing issues",
+      "Daily face cleaning prevents tear staining",
+      "Daily brushing mandatory mat prevention",
+      "Polycystic kidney disease 38% of Persians DNA test",
+      "Lifespan 12-17 years with proper care",
+      "Quiet personality prefers calm households"
+    ],
+    "search_terms": ["persian cat", "longhaired cat", "fluffy cat face"],
+    "category": "cat-breeds",
+    "format": "longform"
+  },
+  {
+    "id": 2126,
+    "topic": "How cats hunt: predator instincts in your home",
+    "hook": "Your cat is perfect predator",
+    "key_points": [
+      "Stalk-pounce-kill sequence hardwired in all cats",
+      "Vibrissae whiskers detect prey movement air shifts",
+      "Killing bite to vertebrae behind skull base",
+      "Small toy mimicry triggers full hunt sequence",
+      "Hunt 4-7 times daily even when fed",
+      "Mother teaches kittens via prey delivery",
+      "Indoor wand toys satisfy this instinct"
+    ],
+    "search_terms": ["cat hunting", "cat stalking", "cat pouncing"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2127,
+    "topic": "Cat aggression: types, causes, solutions explained",
+    "hook": "Aggression has 7 distinct types",
+    "key_points": [
+      "Play aggression: poor kitten socialization cause",
+      "Petting-induced: overstimulation threshold reached",
+      "Redirected: agitated by outside cat targets owner",
+      "Fear-based: trauma history common cause",
+      "Territorial: triggered by new pets or moves",
+      "Pain-induced: medical exam required first",
+      "Maternal: females protecting kittens normal"
+    ],
+    "search_terms": ["cat aggressive", "cat hissing", "cat scared"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2128,
+    "topic": "Hairballs explained: causes, prevention, treatment",
+    "hook": "Hairballs are not normal frequent",
+    "key_points": [
+      "Cause: 30% of swallowed fur not pass through",
+      "Long-haired breeds 2x more affected",
+      "Brushing 3x weekly cuts hairballs 50%",
+      "Hairball formula foods help with fiber",
+      "Petroleum-based gels lubricate passage",
+      "More than weekly hairball: vet visit required",
+      "Vomiting blocked sign of intestinal issue"
+    ],
+    "search_terms": ["cat hairball", "cat grooming", "cat vomiting"],
+    "category": "cat-health",
+    "format": "longform"
+  },
+  {
+    "id": 2129,
+    "topic": "Bengal cat history: from leopard to your living room",
+    "hook": "Bengals descended from real leopards",
+    "key_points": [
+      "Created 1960s by Jean Mill geneticist California",
+      "Crossed Asian leopard cat with domestic shorthair",
+      "F4 generation considered safe domestic pet",
+      "TICA recognition 1986 as breed",
+      "Glittered coat genetics unique to Bengals",
+      "High energy needs 2 hours play daily",
+      "Banned in NYC Hawaii Seattle as exotic"
+    ],
+    "search_terms": ["bengal cat", "leopard pattern cat", "spotted cat"],
+    "category": "cat-breeds",
+    "format": "longform"
+  },
+  {
+    "id": 2130,
+    "topic": "Cat first aid: emergency situations every owner needs",
+    "hook": "These actions save cat lives",
+    "key_points": [
+      "Choking: place hand on jaw open mouth",
+      "Heatstroke: cool with damp towels NOT ice",
+      "Bleeding: direct pressure clean cloth 5 min",
+      "Poisoning: call ASPCA Poison Control 888-426-4435",
+      "Seizure: protect from injury time the event",
+      "Difficulty breathing: vet immediately no delay",
+      "Burns: cool water 10 min do not apply ointment"
+    ],
+    "search_terms": ["sick cat emergency", "cat at vet", "cat injured"],
+    "category": "cat-health",
+    "format": "longform"
+  },
+  {
+    "id": 2131,
+    "topic": "Why cats love the bathroom: weird obsession explained",
+    "hook": "Bathrooms attract cats magically",
+    "key_points": [
+      "Tile surfaces stay cool for body cooling",
+      "Running water from sinks fascinates cats",
+      "Closed door creates intriguing barrier",
+      "Concentrated owner scent in towels and rugs",
+      "Acoustics amplify cat sounds for fun",
+      "Routine timing: humans visit consistently",
+      "Hiding spots behind toilet appeal to cats"
+    ],
+    "search_terms": ["cat in bathroom", "cat at sink", "cat in shower"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2132,
+    "topic": "Cat memory: what your cat actually remembers",
+    "hook": "Cats remember way more than you",
+    "key_points": [
+      "Short-term memory 16 hours per studies",
+      "Long-term memory recognizes humans years later",
+      "Remember locations of food water sleep spots",
+      "Trauma memories last lifetime affecting behavior",
+      "Recognize voices of multiple humans",
+      "Working memory aids problem-solving puzzles",
+      "Spatial memory navigates complex environments"
+    ],
+    "search_terms": ["cat looking around", "cat thinking", "cat alert"],
+    "category": "cat-science",
+    "format": "longform"
+  },
+  {
+    "id": 2133,
+    "topic": "Common cat parasites: fleas, ticks, worms, prevention",
+    "hook": "Parasites attack indoor cats too",
+    "key_points": [
+      "Fleas survive in homes year-round in US",
+      "Ticks transmit Lyme tick fever cytauxzoonosis",
+      "Roundworms most common intestinal parasite",
+      "Heartworms preventable monthly medication",
+      "Toxoplasmosis from raw meat or outdoor prey",
+      "Year-round prevention essential per Cornell Vet",
+      "Monthly topical or oral treatments most effective"
+    ],
+    "search_terms": ["cat scratching", "cat at vet", "cat health"],
+    "category": "cat-health",
+    "format": "longform"
+  },
+  {
+    "id": 2134,
+    "topic": "Famous cats in literature and art through centuries",
+    "hook": "Cats inspired masters everywhere",
+    "key_points": [
+      "Cheshire Cat: Lewis Carroll Alice in Wonderland 1865",
+      "Hodge: Samuel Johnsons beloved cat statue London",
+      "Henri Matisse painted his cats numerous times",
+      "Hemingway lived with 50+ cats Key West",
+      "TS Eliot wrote Old Possums Book Cats 1939",
+      "Theophile Steinlen Le Chat Noir poster 1896",
+      "Edward Lear sketches cats in poems 1871"
+    ],
+    "search_terms": ["cat painting art", "literary cat", "cat in books"],
+    "category": "cat-history",
+    "format": "longform"
+  },
+  {
+    "id": 2135,
+    "topic": "Cat sleeping positions: what each one means",
+    "hook": "Sleep position reveals cat secrets",
+    "key_points": [
+      "Loaf: contentment quick escape ready",
+      "Belly up: ultimate trust and relaxation",
+      "Curled ball: protection and warmth conservation",
+      "Side stretch: comfort with environment",
+      "Half loaf paw out: ready to play soon",
+      "On back legs in air: very secure cat",
+      "Hidden tucked spot: stress or illness possible"
+    ],
+    "search_terms": ["cat sleeping position", "cat napping", "cat curled up"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2136,
+    "topic": "How cats see colors: limited but functional vision",
+    "hook": "Cats see fewer colors than us",
+    "key_points": [
+      "Two cone types: blue and green wavelengths only",
+      "Cannot distinguish red from green hues",
+      "Similar to human red-green colorblindness",
+      "Trade-off: more rods for low-light vision",
+      "Color matters less than movement detection",
+      "UV light visible per Royal Society 2014",
+      "Toy color choice: purple blue most visible"
+    ],
+    "search_terms": ["cat eyes", "cat looking", "colorful cat toy"],
+    "category": "cat-science",
+    "format": "longform"
+  },
+  {
+    "id": 2137,
+    "topic": "Multi-cat household: rules to keep peace",
+    "hook": "Multi-cat homes need real rules",
+    "key_points": [
+      "One litter box per cat plus one extra always",
+      "Multiple feeding stations prevent resource guarding",
+      "Vertical territory cat trees reduce conflict",
+      "Separate sleeping spots per cat needed",
+      "Slow introductions over weeks not days",
+      "Pheromone diffusers reduce tension 75% per Ceva",
+      "Watch for bullying signs: hiding, weight loss"
+    ],
+    "search_terms": ["multiple cats", "two cats together", "cats living together"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2138,
+    "topic": "Sphynx cat care: hairless cat full requirements",
+    "hook": "Hairless cats need real maintenance",
+    "key_points": [
+      "Weekly bath required oil buildup on skin",
+      "First Sphynx born Toronto 1966 spontaneous mutation",
+      "Body temp higher than haired cats 4 degrees",
+      "Sweater needed cold weather",
+      "Sunscreen for outdoor exposure mandatory",
+      "Heart screening: 30-50% develop HCM disease",
+      "Higher calorie needs metabolic compensation"
+    ],
+    "search_terms": ["sphynx cat", "hairless cat", "cat bath"],
+    "category": "cat-breeds",
+    "format": "longform"
+  },
+  {
+    "id": 2139,
+    "topic": "Cat behavior changes: warning signs to watch for",
+    "hook": "Behavior changes signal real illness",
+    "key_points": [
+      "Hiding more than usual indicates pain or stress",
+      "Litter box accidents suggest UTI or arthritis",
+      "Excessive grooming creates bald patches",
+      "Decreased appetite: 24 hrs warrants vet",
+      "Increased thirst suggests diabetes kidney issue",
+      "Aggression onset rules out medical causes",
+      "Vocalization changes indicate cognitive decline"
+    ],
+    "search_terms": ["sick cat", "cat hiding", "cat behavior"],
+    "category": "cat-health",
+    "format": "longform"
+  },
+  {
+    "id": 2140,
+    "topic": "How cats communicate with each other vs humans",
+    "hook": "Cats talk differently to us",
+    "key_points": [
+      "Adult cats rarely meow at other cats",
+      "Use scent marking and body language with cats",
+      "Meowing developed for human communication",
+      "Hissing universal warning across species",
+      "Hierarchy via passive avoidance not fights",
+      "Nose touches greeting between bonded cats",
+      "Allogrooming bonds family members"
+    ],
+    "search_terms": ["cats interacting", "cats together", "cat communication"],
+    "category": "cat-science",
+    "format": "longform"
+  },
+  {
+    "id": 2141,
+    "topic": "Cat scratching: why and how to redirect properly",
+    "hook": "Scratching is not destructive habit",
+    "key_points": [
+      "Marks territory visually and via scent glands",
+      "Removes dead nail outer sheath layer",
+      "Stretches back and shoulder muscles",
+      "Provide scratchers near sleeping rest spots",
+      "Vertical and horizontal options match cat preference",
+      "Sisal cardboard wood preferred materials",
+      "Declawing surgery banned in many cities"
+    ],
+    "search_terms": ["cat scratching post", "cat claws", "cat scratching"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2142,
+    "topic": "Cat food labels: how to read and choose right",
+    "hook": "Food labels lie about cats",
+    "key_points": [
+      "AAFCO statement: complete and balanced essential",
+      "First ingredient should be named meat",
+      "Avoid: meat byproducts unspecified sources",
+      "Guaranteed analysis: protein 26%+ fat 9%+",
+      "Watch for fillers: corn wheat soy primary",
+      "Look for life stage: kitten adult senior",
+      "Carbs not on label calculate from totals"
+    ],
+    "search_terms": ["cat food bag", "reading food label", "cat eating"],
+    "category": "cat-nutrition",
+    "format": "longform"
+  },
+  {
+    "id": 2143,
+    "topic": "Cats and dogs: can they really live together",
+    "hook": "Cat dog peace is possible",
+    "key_points": [
+      "Introduce slowly over 2-4 weeks ideal",
+      "Cat needs vertical escape routes always",
+      "Separate feeding areas prevents conflict",
+      "Reward calm behavior in both pets",
+      "Puppy cat introductions easier than adults",
+      "Dog breeds: low prey drive better cat matches",
+      "70% of multi-pet homes succeed per AVMA"
+    ],
+    "search_terms": ["cat with dog", "cat dog together", "pets at home"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2144,
+    "topic": "Why cats meditate: stillness and observation explained",
+    "hook": "Cats meditate naturally daily",
+    "key_points": [
+      "Conserve energy between hunting bursts",
+      "Heightened awareness of environment changes",
+      "Sphinx pose mimics actual meditation posture",
+      "Stress reduction: lowers cortisol levels",
+      "Spiritual symbolism in many cultures",
+      "Watching cats lowers human blood pressure",
+      "Mindfulness training inspired by cat focus"
+    ],
+    "search_terms": ["cat sitting still", "cat staring", "cat meditation pose"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2145,
+    "topic": "Cats and music: what cats actually like to hear",
+    "hook": "Cats prefer special music genre",
+    "key_points": [
+      "Wisconsin study: cats prefer cat-specific music",
+      "Frequencies 55-70 Hz match cat vocalizations",
+      "Classical music second preference per research",
+      "Composer David Teie released Music for Cats album",
+      "Heavy metal and pop cause stress responses",
+      "Tempo mimics cat purring or kitten suckling",
+      "Calming music lowers cat stress in shelters"
+    ],
+    "search_terms": ["cat listening music", "cat ears alert", "cat headphones"],
+    "category": "cat-science",
+    "format": "longform"
+  },
+  {
+    "id": 2146,
+    "topic": "Cat pregnancy and kitten birth: what to expect",
+    "hook": "Cat birth is fast and quiet",
+    "key_points": [
+      "Pregnancy lasts 63-67 days average",
+      "Litter size 1-9 kittens 4 typical",
+      "Provide quiet birthing nest 2 weeks before",
+      "Birth interval 10-60 minutes between kittens",
+      "Most cats deliver without human assistance",
+      "Eyes open at 7-10 days post-birth",
+      "Spay after weaning 8 weeks recommended"
+    ],
+    "search_terms": ["pregnant cat", "newborn kitten", "kitten with mother"],
+    "category": "cat-health",
+    "format": "longform"
+  },
+  {
+    "id": 2147,
+    "topic": "Why cats hate strangers and how to socialize",
+    "hook": "Stranger fear has clear science",
+    "key_points": [
+      "Critical socialization window 2-7 weeks",
+      "Adult cats with poor early exposure fearful",
+      "Provide hiding spots when guests visit",
+      "Never force interaction with reluctant cat",
+      "Treats and slow approach for new humans",
+      "Pheromone diffusers help reduce stress",
+      "Patience: weeks to months for trust"
+    ],
+    "search_terms": ["cat hiding scared", "cat with strangers", "shy cat"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2148,
+    "topic": "Cats and other pets: birds, fish, rodents safety",
+    "hook": "Mixed pet homes need precaution",
+    "key_points": [
+      "Predator instincts trigger toward small pets",
+      "Birds in secure cages high out of reach",
+      "Fish tanks lidded heavy lids essential",
+      "Rabbits never with cats unsupervised",
+      "Hamsters guinea pigs always separate room",
+      "Reptiles cats keep apart safety mutual",
+      "Cats can stress small prey animals visually"
+    ],
+    "search_terms": ["cat watching bird", "cat at fish tank", "cat with pets"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2149,
+    "topic": "Cat travel guide: car, plane, hotel survival",
+    "hook": "Cat travel without nightmares possible",
+    "key_points": [
+      "Carrier acclimation weeks before travel essential",
+      "Familiar bedding reduces stress significantly",
+      "Pheromone spray Feliway in carrier 30 min prior",
+      "Car: secure carrier never loose in vehicle",
+      "Plane: cabin only never check baggage",
+      "Microchip and ID tag mandatory",
+      "Vet certificate required for air travel"
+    ],
+    "search_terms": ["cat in carrier", "cat traveling", "cat in car"],
+    "category": "cat-health",
+    "format": "longform"
+  },
+  {
+    "id": 2150,
+    "topic": "Spay and neuter: why it matters beyond population control",
+    "hook": "Spay neuter saves cat lives",
+    "key_points": [
+      "Reduces mammary cancer risk by 90% in females",
+      "Eliminates testicular cancer in males completely",
+      "Prevents pyometra deadly uterine infection",
+      "Reduces aggressive territorial behavior",
+      "Stops urine spraying in 90% of cases",
+      "Population control: one female 100+ kittens lifetime",
+      "Surgery age 4-6 months recommended"
+    ],
+    "search_terms": ["cat at vet", "cat surgery", "kitten checkup"],
+    "category": "cat-health",
+    "format": "longform"
+  },
+  {
+    "id": 2151,
+    "topic": "Cat color personalities: myth or scientific truth",
+    "hook": "Cat color predicts personality",
+    "key_points": [
+      "UC Davis 2015 study: tortoiseshells more energetic",
+      "Black white cats showed more chasing behavior",
+      "Orange cats friendlier per owner surveys",
+      "Calicos more standoffish in studies",
+      "Coat color genes near temperament genes",
+      "Owner bias affects perception strongly",
+      "Individual variation exceeds breed averages"
+    ],
+    "search_terms": ["different cat colors", "calico cat", "orange cat"],
+    "category": "cat-myths",
+    "format": "longform"
+  },
+  {
+    "id": 2152,
+    "topic": "Cats in pop culture: from Garfield to Hello Kitty",
+    "hook": "Cats dominate pop culture forever",
+    "key_points": [
+      "Garfield: created 1978 Jim Davis still running",
+      "Hello Kitty: Sanrio 1974 88 billion empire",
+      "Stimpy of Ren and Stimpy 1991 Nickelodeon hit",
+      "Top Cat Hanna-Barbera 1961 classic",
+      "Internet cats Tardar Sauce Lil Bub legacy",
+      "Cat memes drive 25% of all viral content",
+      "Catflix Netflix cat content tops streaming"
+    ],
+    "search_terms": ["famous cat character", "cartoon cat", "cute cat"],
+    "category": "cat-history",
+    "format": "longform"
+  },
+  {
+    "id": 2153,
+    "topic": "Why cats need wet food: hydration crisis explained",
+    "hook": "Dry food dehydrates your cat",
+    "key_points": [
+      "Wild prey contains 70% moisture content",
+      "Dry kibble only 10% moisture content",
+      "Cats poor thirst drive evolutionary adaptation",
+      "Chronic dehydration leads to kidney disease",
+      "FLUTD urinary issues 5x in dry-fed cats",
+      "Mix wet food daily prevents these issues",
+      "Fountains increase water intake 50% per Cornell"
+    ],
+    "search_terms": ["cat eating wet food", "cat drinking water", "cat fountain"],
+    "category": "cat-nutrition",
+    "format": "longform"
+  },
+  {
+    "id": 2154,
+    "topic": "Cat play styles: how to engage every age and breed",
+    "hook": "Wrong play makes cats bored",
+    "key_points": [
+      "Wand toys mimic prey movement essential",
+      "Sessions: 15 min twice daily minimum",
+      "Allow capture: not just chase frustration",
+      "Vary toys: bird feather mouse fishing types",
+      "Senior cats: gentler shorter sessions",
+      "Bengal Abyssinian: high intensity required",
+      "Solo toys: rotate weekly maintain interest"
+    ],
+    "search_terms": ["cat playing toy", "cat with feather", "cat hunting toy"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2155,
+    "topic": "Why cats stare at walls: paranormal or science",
+    "hook": "Wall staring has real cause",
+    "key_points": [
+      "Hearing detects sounds beyond human range",
+      "Mice in walls vibrating frequencies",
+      "Insects crawling visible to UV vision",
+      "Hyperesthesia syndrome rare medical cause",
+      "Cognitive dysfunction in senior cats possible",
+      "If staring at walls 30+ min: vet visit",
+      "Most cases harmless sensory exploration"
+    ],
+    "search_terms": ["cat staring wall", "cat focused", "cat looking up"],
+    "category": "cat-myths",
+    "format": "longform"
+  },
+  {
+    "id": 2156,
+    "topic": "Cat allergies: causes, symptoms, treatment science",
+    "hook": "Cat allergies are not always cats",
+    "key_points": [
+      "Fel d 1 protein in saliva and skin major allergen",
+      "Female and neutered male cats produce less",
+      "Russian Blue Siberian Sphynx lower allergen options",
+      "HEPA filters reduce airborne allergens 50%",
+      "Weekly bathing cats reduces dander",
+      "Allergy shots immunotherapy effective long-term",
+      "Confirm with allergy test not assumption"
+    ],
+    "search_terms": ["cat allergies", "person sneezing", "cat sitting"],
+    "category": "cat-health",
+    "format": "longform"
+  },
+  {
+    "id": 2157,
+    "topic": "Lions, tigers, leopards: how big cats relate to yours",
+    "hook": "Your cat shares lion DNA",
+    "key_points": [
+      "All cats share 95.6% DNA per Texas AM 2007 study",
+      "Diverged from common ancestor 11 million years ago",
+      "House cats can roar in mini-form: kindle",
+      "Tigers leopards purr like house cats",
+      "Lions only big cat living in groups",
+      "Hunting behaviors universal across all felines",
+      "Tigers love water house cats hate"
+    ],
+    "search_terms": ["lion big cat", "tiger powerful", "house cat"],
+    "category": "cat-science",
+    "format": "longform"
+  },
+  {
+    "id": 2158,
+    "topic": "Cat aggression toward owners: causes and solutions",
+    "hook": "Cat attacks have real reasons",
+    "key_points": [
+      "Petting-induced overstimulation: limit time",
+      "Play aggression: more wand toys not hands",
+      "Redirected aggression: outside cat triggers",
+      "Pain: medical exam first always",
+      "Fear-based: trauma history common",
+      "Status aggression: rare resource conflicts",
+      "Never punish: increases aggression long-term"
+    ],
+    "search_terms": ["cat biting", "cat attack", "cat aggressive"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2159,
+    "topic": "Newborn kitten care guide: first 8 weeks complete",
+    "hook": "Newborn kittens need everything",
+    "key_points": [
+      "Birth weight 3-4 oz double in first week",
+      "KMR formula every 2-3 hours bottle feeding",
+      "Stimulate elimination after each feeding necessary",
+      "Body temperature 92F at birth keep warm",
+      "Eyes open 7-10 days never force",
+      "Solid food introduction at 4 weeks",
+      "Vaccines start at 8 weeks per AAFP"
+    ],
+    "search_terms": ["newborn kitten", "tiny kitten", "kitten bottle"],
+    "category": "cat-health",
+    "format": "longform"
+  },
+  {
+    "id": 2160,
+    "topic": "Why cats hate riding in cars: 5 stress causes",
+    "hook": "Car rides terrify most cats",
+    "key_points": [
+      "Motion sickness inner ear sensitivity",
+      "Loss of territorial control stress reaction",
+      "Carrier association with vet visits negative",
+      "Strange smells overwhelming sensitive nose",
+      "Vibrations and sounds unfamiliar threats",
+      "Pheromone Feliway spray reduces stress 60%",
+      "Practice short rides build positive association"
+    ],
+    "search_terms": ["cat in carrier", "cat in car", "cat travel"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2161,
+    "topic": "Cats and Christmas: dangers in your holiday home",
+    "hook": "Christmas trees kill cats yearly",
+    "key_points": [
+      "Tinsel intestinal blockage requires surgery",
+      "Lights cause electrical burns from chewing",
+      "Lily plants cause kidney failure within hours",
+      "Chocolate ornaments toxic if ingested",
+      "Tree water bacterial contamination dangerous",
+      "Secure tree to ceiling prevents tipping",
+      "Wrapping ribbons hide from playful cats"
+    ],
+    "search_terms": ["cat christmas tree", "cat with ornaments", "holiday cat"],
+    "category": "cat-health",
+    "format": "longform"
+  },
+  {
+    "id": 2162,
+    "topic": "How cats walk: silent stalker biomechanics explained",
+    "hook": "Cat walk is engineering perfection",
+    "key_points": [
+      "Direct register gait: hind paws step in front prints",
+      "Reduces visible tracks for ambush hunting",
+      "Soft paw pads absorb sound and impact",
+      "Retractable claws stay sharp during walking",
+      "Spine flexibility allows complex turns mid-stride",
+      "Same gait as cheetahs and lions",
+      "30 mph sprint speeds achievable house cats"
+    ],
+    "search_terms": ["cat walking", "cat sneaking", "cat moving slowly"],
+    "category": "cat-science",
+    "format": "longform"
+  },
+  {
+    "id": 2163,
+    "topic": "Dental disease prevention: home care that actually works",
+    "hook": "Brush cat teeth or pay later",
+    "key_points": [
+      "Daily brushing gold standard prevention",
+      "Cat-specific toothpaste enzyme-based safe",
+      "Start slow: finger then brush gradually",
+      "Dental treats VOHC certified work",
+      "Water additives reduce bacterial load",
+      "Annual professional cleaning required",
+      "Dental disease shortens lifespan 2-3 years"
+    ],
+    "search_terms": ["cat teeth brushing", "cat mouth", "dental care cat"],
+    "category": "cat-health",
+    "format": "longform"
+  },
+  {
+    "id": 2164,
+    "topic": "Cat sense of smell: 14x stronger than humans",
+    "hook": "Cats smell 14 times better",
+    "key_points": [
+      "200 million scent receptors vs human 5 million",
+      "Vomeronasal organ detects pheromones",
+      "Flehmen response open-mouth scenting",
+      "Identify other cats via scent profiles",
+      "Recognize owners by scent alone reliably",
+      "Smell influences food acceptance majorly",
+      "Stress detection in humans documented"
+    ],
+    "search_terms": ["cat sniffing", "cat nose", "cat scenting"],
+    "category": "cat-science",
+    "format": "longform"
+  },
+  {
+    "id": 2165,
+    "topic": "Why cats follow you to the bathroom always",
+    "hook": "Bathroom following is bonding",
+    "key_points": [
+      "Routine recognition: predictable owner location",
+      "Concentrated owner scent in towels",
+      "Closed door triggers cat curiosity",
+      "Resource defense: protecting their human",
+      "Tile cooler attractive surface",
+      "Quiet space few household disturbances",
+      "Sign of strong bond not weirdness"
+    ],
+    "search_terms": ["cat in bathroom", "cat with owner", "cat following"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2166,
+    "topic": "How to find lost cat: proven recovery methods",
+    "hook": "Lost cats need fast action",
+    "key_points": [
+      "Most cats hide within 100-500 feet of home",
+      "Search at night with flashlight: eyes reflect",
+      "Place worn clothing outside their familiar scent",
+      "Litter box outside attracts via scent",
+      "Door-to-door 5 home radius critical",
+      "Microchip update info first hour",
+      "Social media local groups speed recovery"
+    ],
+    "search_terms": ["lost cat", "cat outside", "cat hiding"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2167,
+    "topic": "Cat IQ: how smart is your cat really",
+    "hook": "Cats smart but stubborn workers",
+    "key_points": [
+      "Intelligence comparable to 2-3 year human child",
+      "300 million neurons in cerebral cortex",
+      "Object permanence understanding by 6 months",
+      "Problem-solving via observation primary method",
+      "Memory rivals dogs in many tests",
+      "Independent nature affects cooperation testing",
+      "Cant easily measure: motivation issues"
+    ],
+    "search_terms": ["cat thinking", "cat puzzle", "smart cat"],
+    "category": "cat-science",
+    "format": "longform"
+  },
+  {
+    "id": 2168,
+    "topic": "Best cat toys backed by behavior science",
+    "hook": "These toys actually work",
+    "key_points": [
+      "Wand feathers mimic bird prey best",
+      "Mouse on string activates ground hunt",
+      "Puzzle feeders engage problem-solving",
+      "Cat tunnels: ambush prey behavior",
+      "Catnip varies: 30% no response genetically",
+      "Laser pointers: end with physical toy capture",
+      "Bird videos: 20-30 min calm engagement"
+    ],
+    "search_terms": ["cat toys variety", "cat playing", "cat enrichment"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2169,
+    "topic": "Cat grooming: tools and techniques for every coat",
+    "hook": "Wrong tools hurt cat coats",
+    "key_points": [
+      "Shorthair: rubber brush 1-2x weekly",
+      "Longhair: pin brush daily mat prevention",
+      "Slicker brush removes loose undercoat",
+      "Nail trim every 2-3 weeks essential",
+      "Ear cleaning monthly with vet-approved solution",
+      "Bathing only when needed cats self-groom",
+      "Professional groomers for difficult cats"
+    ],
+    "search_terms": ["cat grooming", "cat brushing fur", "cat care"],
+    "category": "cat-health",
+    "format": "longform"
+  },
+  {
+    "id": 2170,
+    "topic": "Why cats are not like dogs: 10 key differences",
+    "hook": "Cats vs dogs proven different",
+    "key_points": [
+      "Cats: solitary hunters dogs: pack",
+      "Cats: territorial dogs: roaming",
+      "Cats: domesticated themselves dogs: humans bred",
+      "Cats: 14000 years dogs: 30000 years domestication",
+      "Cats: rare cooperation dogs: highly cooperative",
+      "Cats: scent communication dogs: visual signals",
+      "Cats: limited training dogs: extensive training"
+    ],
+    "search_terms": ["cat vs dog", "cat dog comparison", "pets together"],
+    "category": "cat-science",
+    "format": "longform"
+  },
+  {
+    "id": 2171,
+    "topic": "Cat dreams: what your sleeping cat is doing",
+    "hook": "Cats absolutely dream nightly",
+    "key_points": [
+      "REM sleep accounts for 25% of cat sleep",
+      "Twitching paws ears whiskers indicate dreams",
+      "Lyon studies 1960s confirmed dream activity",
+      "Likely replay daily activities and hunting",
+      "Vocalize during dreams: small chirps",
+      "Bad dreams: occasional growling or paddling",
+      "Never wake suddenly: startle response possible"
+    ],
+    "search_terms": ["cat dreaming", "cat REM sleep", "cat sleeping deep"],
+    "category": "cat-science",
+    "format": "longform"
+  },
+  {
+    "id": 2172,
+    "topic": "Cat obesity: causes, dangers, weight loss plan",
+    "hook": "Fat cats die younger always",
+    "key_points": [
+      "60% US cats overweight per AVMA 2022",
+      "Diabetes risk 4x in obese cats",
+      "Joint disease and arthritis accelerated",
+      "Decreased lifespan by 2-3 years",
+      "Weight loss: 1-2% body weight per week max",
+      "Wet food and increased play key strategies",
+      "Veterinary weight loss diets most effective"
+    ],
+    "search_terms": ["overweight cat", "fat cat", "cat weight"],
+    "category": "cat-health",
+    "format": "longform"
+  },
+  {
+    "id": 2173,
+    "topic": "Famous cat behaviors and what each really means",
+    "hook": "Cat behaviors decoded fully",
+    "key_points": [
+      "Kneading: kittenhood comfort signal carrying over",
+      "Bunting: scent marking via face glands",
+      "Loafing: contentment and quick escape ready",
+      "Zoomies: prey energy release vital",
+      "Purring: communication and self-healing",
+      "Slow blink: trust and affection signal",
+      "Tail vibration: extreme greeting excitement"
+    ],
+    "search_terms": ["cat behavior", "cute cat moments", "cat actions"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2174,
+    "topic": "Why cats prefer some people over others",
+    "hook": "Cats pick favorite humans always",
+    "key_points": [
+      "Lower voice, slow movements preferred",
+      "Person who feeds primary often favorite",
+      "Calm energy attracts cats more",
+      "Allergic people release fewer cat-attracting hormones",
+      "Quiet personality matches cat preferences",
+      "Eye contact through slow blinks builds bond",
+      "Cats detect anxiety in humans avoid"
+    ],
+    "search_terms": ["cat with favorite person", "cat affection", "cat owner bond"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2175,
+    "topic": "Cat breed health issues: what to watch each breed",
+    "hook": "Each breed has health weakness",
+    "key_points": [
+      "Maine Coon: HCM cardiomyopathy 30% rate",
+      "Persian: PKD kidney disease 38% incidence",
+      "Scottish Fold: osteochondrodysplasia all carriers",
+      "Sphynx: HCM 50% develop heart disease",
+      "Bengal: progressive retinal atrophy genetic test",
+      "Ragdoll: HCM and bladder stones common",
+      "Burmese: diabetes 5x rate of other breeds"
+    ],
+    "search_terms": ["cat at vet", "different cat breeds", "cat health"],
+    "category": "cat-breeds",
+    "format": "longform"
+  },
+  {
+    "id": 2176,
+    "topic": "Cat life stages: kitten to senior care guide",
+    "hook": "Each life stage needs different care",
+    "key_points": [
+      "Kitten 0-12 months: vaccines socialization growth",
+      "Junior 1-2 years: full size playful peak",
+      "Adult 3-6 years: stable behavior monitor weight",
+      "Mature 7-10 years: annual blood work begins",
+      "Senior 11-14 years: biannual vet visits",
+      "Geriatric 15+ years: chronic disease management",
+      "Diet calorie content adjust each stage"
+    ],
+    "search_terms": ["kitten and cat", "cat life stages", "different age cats"],
+    "category": "cat-health",
+    "format": "longform"
+  },
+  {
+    "id": 2177,
+    "topic": "Why cats love high places: vertical world theory",
+    "hook": "Cats need vertical territory always",
+    "key_points": [
+      "Survey area for prey and threats",
+      "Status display in multi-cat homes",
+      "Escape route from perceived threats",
+      "Warmer air rises preferred sleeping",
+      "Reduces stress per Cornell research",
+      "Provide cat trees minimum 6 feet tall",
+      "Window perches add vertical opportunities"
+    ],
+    "search_terms": ["cat on high shelf", "cat tree top", "cat climbing"],
+    "category": "cat-behavior",
+    "format": "longform"
+  },
+  {
+    "id": 2178,
+    "topic": "Top cat misconceptions believed by owners worldwide",
+    "hook": "Owners believe these wrong things",
+    "key_points": [
+      "Myth: cats need only annual vet (sick cats hide)",
+      "Myth: indoor cats dont need vaccines (parasites enter)",
+      "Myth: declawing is humane (amputation surgery)",
+      "Myth: cats are low maintenance (need daily play)",
+      "Myth: one cat is enough (most thrive in pairs)",
+      "Myth: cats prefer being alone (form deep bonds)",
+      "Myth: dry food cleans teeth (does not work)"
+    ],
+    "search_terms": ["cat at vet", "cat owner", "cat at home"],
+    "category": "cat-myths",
+    "format": "longform"
+  },
+  {
+    "id": 2179,
+    "topic": "End-of-life cat care: making final years comfortable",
+    "hook": "Senior cats deserve gentle care",
+    "key_points": [
+      "Pain assessment monthly with vet",
+      "Mobility aids: ramps, low-side litter boxes",
+      "Heated beds soothe arthritic joints",
+      "Hydration via wet food and fountains",
+      "Quality of life scale tracks decline",
+      "Hospice care options available many vets",
+      "Euthanasia: peaceful when suffering exceeds joy"
+    ],
+    "search_terms": ["senior cat", "old cat resting", "cat at vet"],
+    "category": "cat-health",
+    "format": "longform"
   }
 ]

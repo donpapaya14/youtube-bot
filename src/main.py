@@ -135,11 +135,21 @@ def run(channel_name: str):
 
     # 8. Subir a YouTube
     log.info("Subiendo a YouTube...")
+
+    # Fallback description si IA la omite o devuelve vacía
+    description = content.get("description") or ""
+    if not description.strip():
+        hook = topic_data.get("hook") or content["title"]
+        keys = topic_data.get("key_points") or []
+        bullets = "\n".join(f"• {k}" for k in keys[:3])
+        description = f"{hook}\n\n{bullets}".strip()
+        log.warning("Description IA vacía — usando fallback con hook+key_points")
+
     video_url = upload_to_youtube(
         video_path=output_path,
         title=content["title"],
-        description=content["description"],
-        tags=content["tags"],
+        description=description,
+        tags=content.get("tags") or [],
         channel_config=channel,
         thumbnail_path=thumbnail_path,
     )
