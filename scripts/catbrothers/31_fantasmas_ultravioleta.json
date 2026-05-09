@@ -1,111 +1,116 @@
 {
-  "title": "¿Los Gatos Pueden Ver Fantasmas? La Ciencia de la Visión Ultravioleta",
-  "description": "Los gatos ven cosas que los humanos no podemos. Su visión se extiende hasta el ultravioleta. ¿Ven fantasmas o tienen poderes sobrenaturales? La verdad científica sobre lo que realmente ven nuestros gatos.",
+  "title": "Can Cats See Ghosts? 🐱 The Science of UV Vision",
+  "description": "Cats see things humans simply cannot. Their vision extends into the ultraviolet spectrum. Are they spotting ghosts or supernatural beings? The truth is stranger and more grounded in biology than any paranormal theory. Real research from Lund University on what cats actually see.",
   "tags": [
-    "visión gatos",
-    "ultravioleta",
-    "luz",
-    "percepción",
-    "sentidos",
-    "espíritus",
+    "cat vision",
+    "ultraviolet",
+    "UV light",
+    "perception",
+    "cat senses",
+    "ghosts",
     "paranormal",
-    "biología visual",
-    "rods conos",
-    "espectro luz",
-    "curiosidades",
-    "ciencia"
+    "visual biology",
+    "rods cones",
+    "light spectrum",
+    "cat facts",
+    "science"
   ],
   "segments": [
     {
-      "voice": "Hay un misterio que ha intrigado a los humanos durante siglos: a veces los gatos parecen ver cosas que no existen. Miran a la nada, persiguen objetos invisibles, y reaccionan a eventos sin explicación aparente.",
+      "voice": "There's an old mystery that's been around for centuries. Cats sometimes seem to stare at empty corners. They chase invisible things across the floor. They snap their heads toward shadows that aren't there. Many cultures decided the obvious explanation was ghosts. Science has a different answer.",
       "visual": "cat looking mysterious direction",
       "duration": 22
     },
     {
-      "voice": "Muchas culturas han atribuido esto a poderes sobrenaturales. Algunos creen que los gatos pueden ver fantasmas o entidades espirituales. La ciencia tiene una explicación diferente, pero igualmente fascinante.",
+      "voice": "Welcome to CatBrothers. Plenty of folklore says cats can see spirits — from ancient Egypt to modern Japan, the belief crosses cultures. But what biologists have figured out is far more interesting than haunting. Cats don't see ghosts. They see wavelengths your eyes can't.",
       "visual": "ghost paranormal spiritual",
       "duration": 22
     },
     {
-      "voice": "La verdad es que los gatos ven un espectro visual completamente diferente al de los humanos. Su visión se extiende al rango ultravioleta, longitudes de onda que nosotros simplemente no podemos percibir.",
+      "voice": "Here's the truth. A cat's visible spectrum is wider than ours. The eye structures and retinal cells of cats are tuned to a different range of light. They're not seeing more colors — they're seeing into the ultraviolet, a part of the world humans miss every single day.",
       "visual": "light spectrum ultraviolet",
       "duration": 23
     },
     {
-      "voice": "Mientras que los humanos podemos ver longitudes de onda de aproximadamente 380 a 750 nanómetros, los gatos pueden ver hasta aproximadamente 310 nanómetros. Esto significa que perciben un mundo completamente diferente.",
+      "voice": "Humans see light from about 380 to 750 nanometers. Cats can pick up wavelengths down to roughly 310 nanometers. That extra slice of spectrum reveals patterns invisible to our eyes — patterns on flowers, on prey, on each other. It's a parallel reality humans walk through every day without noticing.",
       "visual": "wavelength spectrum diagram",
       "duration": 24
     },
     {
-      "voice": "En la retina de los gatos hay células especiales llamadas conos y bastones. Tienen una proporción diferente a la de los humanos, adaptada para ver en condiciones de poca luz y en el rango ultravioleta.",
+      "voice": "The retina is the engine behind it. Cats have a different ratio of rods to cones than humans. They're loaded with rod cells, the ones that detect movement and dim light. Their lens also blocks less UV light, allowing more of that high-energy spectrum to reach the retina.",
       "visual": "retina cell anatomy microscope",
       "duration": 23
     },
     {
-      "voice": "Un estudio realizado por investigadores de la Universidad de Lund en Suecia utilizó cámaras sensibles a ultravioleta para fotografiar el mundo como lo ven los gatos. El resultado fue sorprendente.",
+      "voice": "A landmark 2014 study from Ron Douglas at City University London found that many mammals — including cats, dogs, and rodents — have lenses that allow ultraviolet light to pass through. That alone broke a decades-old assumption that mammals couldn't see UV at all.",
       "visual": "ultraviolet photography world",
       "duration": 23
     },
     {
-      "voice": "Las marcas de orina de otros gatos, completamente invisibles a nuestros ojos, brillan como caminos fluorescentes en ultravioleta. Los gatos pueden seguir estos caminos químicos con precisión perfecta.",
+      "voice": "What's wild is what UV light reveals. Urine markings from other cats, completely invisible to human eyes, glow like fluorescent trails under UV. Imagine a city map painted only in scent and light — that's how a cat navigates a neighborhood.",
       "visual": "urine marking trail fluorescent",
       "duration": 24
     },
     {
-      "voice": "Las muchas cosas que los gatos persiguen sin explicación aparente podrían ser insectos que solo emiten luz ultravioleta, o reflejos ultravioleta de objetos que no vemos.",
+      "voice": "Many of the things cats chase across the carpet aren't imaginary. Insects often reflect UV light. Tiny dust particles catch ultraviolet rays in ways our eyes never register. The cat is reacting to real targets — we just can't see them.",
       "visual": "insect ultraviolet reflection",
       "duration": 23
     },
     {
-      "voice": "Los murciélagos, otro animal nocturno, también pueden ver en ultravioleta. De hecho, muchos animales nocturnos tienen esta capacidad. Es una adaptación evolutiva para vivir en un mundo donde la luz es limitada.",
+      "voice": "Bats also see ultraviolet. Some birds, fish, and rodents do too. UV vision is mostly an adaptation for animals that hunt at low light, where every photon counts. Cats fit that profile perfectly — twilight predators built to detect motion in conditions where human eyes simply give up.",
       "visual": "nocturnal animals bat hunting",
       "duration": 23
     },
     {
-      "voice": "Las flores, las cuales son invisibles en ultravioleta a nuestros ojos, tienen patrones ultravioleta que atraen a insectos. Los gatos cazadores podrían estar usando estos patrones para localizar presas.",
+      "voice": "Flowers carry hidden patterns under UV light. Some have lines that act like landing strips for pollinators. Cats don't pollinate, of course, but if a moth or beetle lands on that flower, the cat can spot the prey from much farther away than we ever could.",
       "visual": "flower ultraviolet pattern",
       "duration": 23
     },
     {
-      "voice": "La sensibilidad ultravioleta de los gatos no es simplemente una capacidad pasiva. Su cerebro procesa esta información activamente, creando una imagen mental del mundo que es completamente ajena a nosotros.",
+      "voice": "UV detection isn't passive. The brain has to interpret the signal and turn it into something useful. Cat brains do exactly that, building a mental map of the world that includes data we'll never experience firsthand. It's processing power tuned for a hunter's life.",
       "visual": "brain visual processing",
       "duration": 23
     },
     {
-      "voice": "Esto explica por qué los gatos a veces reaccionan a reflejos de luz que nosotros no vemos. Un reflejo solar que parece insignificante a nuestros ojos podría ser un faro cegador de ultravioleta para el gato.",
+      "voice": "That's why cats sometimes seem to react to nothing. A patch of sunlight bouncing off a window pane might not look special to you. To the cat, that same patch could be a flickering UV signal — bright, sharp, and impossible to ignore.",
       "visual": "sunlight reflection light play",
       "duration": 23
     },
     {
-      "voice": "No, los gatos no ven fantasmas. Lo que ven es un espectro más amplio de la realidad física. La ciencia es más fascinante que cualquier paranormal.",
+      "voice": "So no, cats aren't seeing ghosts. They're seeing more of the physical world than we ever will. The truth is far cooler than the supernatural — your cat is essentially walking around with a built-in UV camera attached to its skull.",
       "visual": "cat seeing light curious",
       "duration": 21
     },
     {
-      "voice": "Un fenómeno relacionado es que muchos mamíferos pueden ver en el rango infrarrojo también. Los gatos no tienen esta capacidad, pero sus retinas son extremadamente sensibles a la luz visible baja.",
+      "voice": "Some mammals can also detect infrared, but cats can't. What they have instead is jaw-dropping low-light sensitivity. A cat can see in light levels six times dimmer than what humans need. Combine that with UV and you get one of the most capable visual systems in the mammal kingdom.",
       "visual": "infrared thermal imaging",
       "duration": 23
     },
     {
-      "voice": "La combinación de visión ultravioleta, excelente visión nocturna, y un campo visual más amplio que los humanos significa que los gatos perciben un mundo fundamentalmente diferente.",
+      "voice": "Add it all up — UV vision, dim-light superiority, a wider field of view, faster motion detection. Cats live inside a different reality. They aren't seeing the world we see. They're seeing the world we don't.",
       "visual": "cat night vision superior",
       "duration": 23
     },
     {
-      "voice": "En búsqueda de presas nocturnas, la capacidad de ver ultravioleta proporciona una ventaja evolutiva enorme. Los insectos nocturnos frecuentemente emiten o reflejan luz ultravioleta.",
+      "voice": "For nocturnal hunting, ultraviolet vision is a serious edge. Many night-active insects either emit or reflect UV light. Moths in particular show up brightly under UV. To a cat, an evening moth hunt is essentially playing a video game with cheat codes turned on.",
       "visual": "nocturnal insect hunting",
       "duration": 22
     },
     {
-      "voice": "Algunos investigadores sugieren que la luz ultravioleta podría afectar el comportamiento emocional de los gatos. Si ven rayos ultravioleta constantes, podrían estar experimentando un mundo más estimulante y dinámico.",
+      "voice": "Researchers at the University of Oxford have suggested constant UV exposure may even shape feline mood and behavior. A richer, more dynamic visual environment could help explain why indoor cats with no UV-rich windows sometimes seem more bored than cats with proper outdoor views.",
       "visual": "dynamic visual experience",
       "duration": 23
     },
     {
-      "voice": "En conclusión, los gatos no tienen poderes sobrenaturales. Simplemente tienen una visión superior que les permite percibir dimensiones de la realidad que nosotros no podemos. Eso es suficientemente mágico.",
+      "voice": "So the next time your cat stares at thin air, don't assume it's spirits. They're probably tracking a beam of light, a glowing trail, or an insect you'll never get to meet. The reality your cat lives in is bigger than yours — and that's magic enough.",
       "visual": "cat eyes glowing magical",
       "duration": 22
+    },
+    {
+      "voice": "Subscribe to CatBrothers and hit the bell. What's coming next week — why cats sometimes leave dead prey on your doorstep, and what the gesture really means. See you in the next documentary.",
+      "visual": "cat eyes close up",
+      "duration": 20
     }
   ],
-  "thumbnail_text": "VEN MÁS"
+  "thumbnail_text": "UV VISION"
 }

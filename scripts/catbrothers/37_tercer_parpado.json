@@ -1,111 +1,116 @@
 {
-  "title": "El Tercer Párpado del Gato: Membrana Nictitante Explicada",
-  "description": "Los gatos tienen tres párpados, no dos. Descubre la membrana nictitante y su función. ¿Qué significa cuando ves ese párpado rosa? Datos sobre este órgano secreto del gato.",
+  "title": "The Cat's Third Eyelid 🐱 Nictitating Membrane Explained",
+  "description": "Cats have three eyelids, not two. Discover the nictitating membrane and its real purpose. What does it mean when you see that pink eyelid? Real veterinary data on this hidden organ and what its sudden appearance is trying to tell you.",
   "tags": [
-    "tercer párpado",
-    "membrana nictitante",
-    "anatomía gatos",
-    "ojos gatos",
-    "salud",
-    "enfermedad",
-    "signos",
-    "biología",
-    "visión",
-    "mecanismo",
-    "curiosidades",
-    "órganos"
+    "third eyelid",
+    "nictitating membrane",
+    "cat anatomy",
+    "cat eyes",
+    "feline health",
+    "cat illness",
+    "warning signs",
+    "biology",
+    "vision",
+    "eye mechanism",
+    "cat facts",
+    "feline organs"
   ],
   "segments": [
     {
-      "voice": "Si alguna vez has visto un párpado rosa o blanco en los ojos de tu gato, probablemente estabas viendo su tercer párpado, también conocido como membrana nictitante.",
+      "voice": "If you've ever seen a strange pinkish or whitish flap appear in the corner of your cat's eye, you weren't imagining it. That's their third eyelid. Most cat owners go years without ever noticing it. When you do see it, it's usually trying to tell you something.",
       "visual": "cat eye third eyelid",
       "duration": 22
     },
     {
-      "voice": "Los gatos, como muchos animales, tienen tres párpados: el párpado superior, el párpado inferior, y la membrana nictitante. El tercer párpado es una estructura única que muchos dueños de gatos nunca notan.",
+      "voice": "Welcome to CatBrothers. Cats, like many animals, have three eyelids — an upper, a lower, and a third one called the nictitating membrane. The name comes from the Latin nictare, meaning to blink. It's a translucent veil tucked into the inner corner of the eye, ready to deploy when needed.",
       "visual": "eyelid anatomy diagram",
       "duration": 23
     },
     {
-      "voice": "La membrana nictitante está ubicada en la esquina interna del ojo, cerca del drenaje lacrimal. Es un tejido translúcido u opaco que puede deslizarse sobre el ojo.",
+      "voice": "The third eyelid lives in the inner corner, near the tear duct. Most of the time it sits hidden, sweeping across the eye in microseconds without you ever noticing. It's fast, semi-transparent, and one of the most useful structures in the feline eye.",
       "visual": "eye corner anatomy position",
       "duration": 22
     },
     {
-      "voice": "Cuando ves el tercer párpado de tu gato, frecuentemente es un signo de que algo no está bien. El tercer párpado solo es visible cuando hay una razón: enfermedad, lesión, estrés, o relajación extrema.",
+      "voice": "When you can clearly see the third eyelid, that's usually a clue. The membrane is supposed to be invisible during normal awake behavior. If it's hanging halfway across the eye, the body is signaling something — illness, dehydration, stress, or deep sleep.",
       "visual": "cat eye health condition",
       "duration": 23
     },
     {
-      "voice": "Una causa común es que el gato esté enfermo. Los gatos con infecciones virales o bacterianas frecuentemente muestran su tercero párpado como síntoma.",
+      "voice": "Illness is the most common reason. Cats with viral or bacterial infections often show the third eyelid prominently. Upper respiratory infections, dehydration, gastrointestinal issues — all of these can push the membrane forward without the cat even knowing.",
       "visual": "sick cat illness symptoms",
       "duration": 22
     },
     {
-      "voice": "El tercer párpado contiene una glándula especial llamada glándula de Harderian. Esta glándula produce un fluido aceitoso que protege y lubrica el ojo.",
+      "voice": "The membrane also houses a critical structure called the gland of the third eyelid. This gland produces around 30 to 50% of the tear film that keeps the eye lubricated. If it dries out, the entire eye suffers. Cats can develop chronic dry eye if this gland is damaged.",
       "visual": "gland eye protection",
       "duration": 22
     },
     {
-      "voice": "La función principal del tercer párpado es proteger la córnea durante el movimiento rápido. Si un gato duerme profundamente o está muy relajado, el tercer párpado podría sobresalir sin ser patológico.",
+      "voice": "Its main job is protecting the cornea from physical damage. It also clears debris, similar to a windshield wiper. During rapid head movement or close combat with prey, the third eyelid sweeps across the eye and shields the cornea from accidental injury.",
       "visual": "sleeping cat relaxed",
       "duration": 22
     },
     {
-      "voice": "Sin embargo, si el tercer párpado está constantemente visible, especialmente en ambos ojos, debes consultar a un veterinario. Podría indicar síndrome de Horner, infección viral, o parásitos.",
+      "voice": "If you notice the third eyelid showing in both eyes for more than a day, see a vet. It can indicate Horner's syndrome, viral infection, or even gastrointestinal parasites. The condition called Haw's syndrome specifically links third eyelid prolapse to digestive problems in cats.",
       "visual": "veterinary examination diagnosis",
       "duration": 24
     },
     {
-      "voice": "El síndrome de Horne es una condición que afecta los nervios que controlan los ojos y las pupilas. Los gatos con síndrome de Horner frecuentemente muestran su tercer párpado permanentemente.",
+      "voice": "Horner's syndrome is a neurological condition affecting the sympathetic nerves around the eye. Cats with Horner's typically show the third eyelid permanently across the eye, along with a constricted pupil and a drooping upper eyelid. It looks alarming but is often treatable.",
       "visual": "Horner syndrome condition",
       "duration": 23
     },
     {
-      "voice": "Una infección o irritación ocular leve también causará que el tercer párpado se muestre. Es una respuesta protectora del cuerpo.",
+      "voice": "Eye irritation or mild infections will also push the third eyelid forward. It's a built-in defense response. The body is essentially shielding the eye while it heals. Treat the underlying issue and the membrane retreats on its own.",
       "visual": "eye infection inflammation",
       "duration": 21
     },
     {
-      "voice": "Algunos medicamentos para gatos pueden causar que el tercer párpado sea más visible como efecto secundario.",
+      "voice": "Some medications, especially sedatives and anti-anxiety drugs, can cause the third eyelid to become more visible as a side effect. If your cat just had surgery or is on a calming medication, expect the membrane to show up briefly without alarm.",
       "visual": "medication pills treatment",
       "duration": 20
     },
     {
-      "voice": "Interestingly, un fenómeno llamado 'Síndrome del Tercer Párpado del Gato Joven' ocurre cuando los gatos jóvenes tienen un tercer párpado inflamado sin una causa clara. Frecuentemente resuelve por sí solo.",
+      "voice": "Young cats sometimes develop a temporary condition where both third eyelids stay partially exposed for weeks. It's typically self-resolving and tied to mild gastrointestinal upsets. Worth a vet check, but rarely an emergency.",
       "visual": "kitten young cat health",
       "duration": 24
     },
     {
-      "voice": "En algunos casos, la glándula de Harderian puede inflamarse, causando que se hinche y se vuelva visible. Esta condición se llama prolapso de la glándula de Harderian.",
+      "voice": "Then there's cherry eye. The technical name is gland prolapse of the nictitating membrane. The gland physically pops out of position, sticking out of the eye corner like a small red lump. It's more common in dogs, but cats can develop it too. It's not painful at first, but it requires surgery to fix.",
       "visual": "gland swelling inflammation",
       "duration": 23
     },
     {
-      "voice": "El prolapso de la glándula de Harderian podría requerir tratamiento veterinario, posiblemente incluyendo medicamentos o cirugía en casos severos.",
+      "voice": "Cherry eye is usually treated by tucking the gland back into place surgically. Removal is rarely recommended anymore, since it can cause permanent dry eye. Modern veterinary techniques preserve the gland whenever possible.",
       "visual": "surgical procedure treatment",
       "duration": 22
     },
     {
-      "voice": "La composición del fluido del tercer párpado es especial. Contiene inmunoglobulinas, proteínas protectoras contra bacterias e infecciones.",
+      "voice": "What's wild is the chemical makeup of the third eyelid's secretions. The fluid contains immunoglobulins — antibodies that fight bacteria and viruses on contact. Each blink is essentially a microscopic immune sweep across the surface of the eye.",
       "visual": "immune protection proteins",
       "duration": 22
     },
     {
-      "voice": "Algunos gatos tienen un tercer párpado naturalmente más grande o más visible. No siempre indica enfermedad. La variación individual es común.",
+      "voice": "Some cats simply have a more visible third eyelid by nature. It's not always a sign of trouble. Individual variation is real. If your cat has always shown a slight pink corner and remains otherwise healthy, that may just be their normal baseline.",
       "visual": "individual variation cats",
       "duration": 21
     },
     {
-      "voice": "Sin embargo, cualquier cambio repentino o exposición persistente del tercer párpado justifica una visita al veterinario. Es mejor ser precavido con la salud ocular.",
+      "voice": "Still, sudden changes deserve attention. If you notice the third eyelid appearing where it never did before, or staying out longer than usual, book a vet visit. Eye issues progress fast in cats. Catching them early can save vision.",
       "visual": "cat eye care importance",
       "duration": 22
     },
     {
-      "voice": "En conclusión, el tercer párpado del gato es una estructura fascinante con funciones de protección importantes. Aunque normalmente está oculto, su presencia es un signo importante de que algo requiere atención.",
+      "voice": "So the third eyelid is one of those quiet, brilliant pieces of feline anatomy. It cleans, protects, lubricates, and sometimes whispers warnings about your cat's health. Most owners never see it. When you do, take a closer look — your cat may be telling you something important.",
       "visual": "cat eye protection marvel",
       "duration": 22
+    },
+    {
+      "voice": "Subscribe to CatBrothers and hit the bell. What's coming next week — why your cat rubs their face on every corner, and the chemistry behind that gesture. See you in the next documentary.",
+      "visual": "cat blinking close up",
+      "duration": 20
     }
   ],
-  "thumbnail_text": "TERCER PÁRPADO"
+  "thumbnail_text": "THIRD EYELID"
 }

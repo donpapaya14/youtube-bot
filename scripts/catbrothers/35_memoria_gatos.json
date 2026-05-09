@@ -1,111 +1,116 @@
 {
-  "title": "La Memoria del Gato: ¿Cuánto Tiempo Recuerdan Realmente?",
-  "description": "¿Los gatos recuerdan a sus antiguos dueños? ¿Pueden recordar eventos de años atrás? Descubre los tres tipos de memoria felina y cómo funciona el cerebro del gato para almacenar información.",
+  "title": "Cat Memory 🐱 How Long Do They Really Remember?",
+  "description": "Do cats remember their old owners? Can they remember events from years ago? Discover the three types of feline memory and how the cat brain stores information. Real research from the Max Planck Institute and University of Lincoln on cat cognition.",
   "tags": [
-    "memoria gatos",
-    "cognición",
-    "cerebro",
-    "aprendizaje",
-    "recuerdo",
-    "comportamiento",
-    "capacidad",
-    "psicología animal",
-    "ciencia",
-    "neurociencia",
-    "duración",
-    "olvido"
+    "cat memory",
+    "feline cognition",
+    "cat brain",
+    "learning",
+    "remembering",
+    "cat behavior",
+    "memory capacity",
+    "animal psychology",
+    "science",
+    "neuroscience",
+    "memory duration",
+    "forgetting"
   ],
   "segments": [
     {
-      "voice": "¿Recuerda tu gato esa vez que lo asustaste accidentalmente hace años? ¿Recuerda a su antiguo dueño? La memoria felina es compleja y fascinante, y la ciencia finalmente está desentrañando sus secretos.",
+      "voice": "Does your cat remember the time you accidentally stepped on their tail two years ago? Do they recognize the scent of an old roommate who moved out? The answer is more nuanced than yes or no. Feline memory is layered, selective, and surprisingly sophisticated.",
       "visual": "cat remembering thinking pondering",
       "duration": 22
     },
     {
-      "voice": "Los gatos tienen tres tipos principales de memoria: memoria a corto plazo, memoria a largo plazo, y memoria de trabajo. Cada una juega un papel diferente en cómo los gatos interactúan con su entorno.",
+      "voice": "Welcome to CatBrothers. Cats run three main types of memory — short-term, long-term, and working memory. Each handles different kinds of information. Understanding the difference between them changes how you interpret your cat's reactions to the world.",
       "visual": "memory types brain diagram",
       "duration": 23
     },
     {
-      "voice": "La memoria a corto plazo felina dura aproximadamente 16 horas. Un gato puede recordar algo que sucedió hace 16 horas, pero después de ese tiempo, el recuerdo comienza a desvanecerse sin refuerzo.",
+      "voice": "Short-term memory in cats lasts roughly 16 hours under specific test conditions. That figure isn't perfect, but it gives a baseline. Beyond that window, unreinforced details start to fade, especially small ones like where a particular toy was last seen.",
       "visual": "time passing hours clock",
       "duration": 23
     },
     {
-      "voice": "Un estudio realizado por el Instituto Max Planck midió la memoria a corto plazo en gatos usando pruebas de ocultamiento de comida. Los gatos recordaban dónde estaba el alimento durante aproximadamente 16 horas.",
+      "voice": "Researchers at the Max Planck Institute used hidden-food experiments to test cat memory. The cats remembered which container held food for around 16 hours. After that, accuracy dropped sharply. It's a useful number, but it covers only one slice of memory.",
       "visual": "food memory hiding location",
       "duration": 23
     },
     {
-      "voice": "La memoria a largo plazo en los gatos puede durar años. Si un evento es significativo o se repite frecuentemente, los gatos lo almacenan en la memoria a largo plazo de manera permanente.",
+      "voice": "Long-term memory tells a different story. Cats can remember meaningful experiences for years. Repeated exposure or strong emotional context locks information into long-term storage. Once a memory is in there, the cat can pull it out long after the original event.",
       "visual": "long term memory years",
       "duration": 22
     },
     {
-      "voice": "Un gato puede recordar a una persona que no ha visto en años si esa persona fue importante para él. Sin embargo, el reconocimiento podría no ser inmediato. Podría requerir olores o contextos específicos para activar el recuerdo.",
+      "voice": "A cat can recognize a former owner after years apart, especially through scent. The recognition isn't always immediate. It often takes a familiar smell, a tone of voice, or a touch pattern to unlock the memory. Once it clicks, the response is unmistakable.",
       "visual": "cat recognizing person",
       "duration": 24
     },
     {
-      "voice": "La memoria de trabajo es lo que permite a un gato mantener información en su mente mientras realiza una tarea. Un gato cazando mantiene la posición de su presa en la memoria de trabajo mientras planifica su ataque.",
+      "voice": "Working memory is the live version. It's what holds information in mind while completing a task. A cat stalking a bird uses working memory to track the bird's position, predict its movements, and plan the strike — all in real time, all in milliseconds.",
       "visual": "cat hunting stalking focused",
       "duration": 24
     },
     {
-      "voice": "Los gatos son particularmente buenos en recordar experiencias negativas. Si un gato tuvo una mala experiencia en el veterinario, puede recordarla durante años. La amígdala del gato, que procesa el miedo, es muy sensible.",
+      "voice": "Cats have unusually strong memory for negative events. A bad vet visit, a startling sound, a painful injury — those lodge in the brain hard. The amygdala, which handles fear processing, is wired closely to the hippocampus. Bad memories stick faster than good ones.",
       "visual": "scary experience fearful cat",
       "duration": 24
     },
     {
-      "voice": "Un estudio de la Universidad de Lincoln encontró que los gatos recordaban eventos traumáticos durante años, incluso si no los experimentaban regularmente.",
+      "voice": "A study from the University of Lincoln, led by behavior researcher Daniel Mills, tracked cats with traumatic experiences over multiple years. The cats retained the fear response long after the original event, sometimes triggered just by location or smell.",
       "visual": "traumatic memory fear response",
       "duration": 22
     },
     {
-      "voice": "Por otro lado, los gatos también pueden recordar experiencias positivas. Si asocias un objeto con una recompensa de comida, el gato recordará esa asociación durante meses o incluso años.",
+      "voice": "Positive memory works similarly. If you train a cat to associate a sound with treats, the association can persist for months or even years. Cats are constantly building a personal map of what's safe, what's rewarding, and what's worth remembering.",
       "visual": "positive reward memory",
       "duration": 22
     },
     {
-      "voice": "La memoria de los gatos está fuertemente vinculada a los sentidos. Un olor específico puede activar recuerdos vívidos. Los gatos recuerdan significativamente mejor basándose en pistas olfativas que visuales.",
+      "voice": "Memory in cats is heavily tied to scent. A specific smell can trigger detailed recall in a way visual cues can't match. The olfactory bulb wires directly into memory-forming brain regions. That's why a returning owner is often recognized by scent first, sight second.",
       "visual": "cat sniffing memory olfactory",
       "duration": 23
     },
     {
-      "voice": "Los investigadores de la Universidad de Tokio demostraron que los gatos pueden recordar el mismo olor después de meses de no exponerse a él. El sistema olfativo es fundamental para la memoria felina.",
+      "voice": "Researchers at the University of Tokyo, led by Saho Takagi, demonstrated in 2017 that cats remember scent associations even after long gaps without exposure. The olfactory system isn't just for hunting and territory. It's a memory engine running 24/7.",
       "visual": "nose smell detection",
       "duration": 22
     },
     {
-      "voice": "Un descubrimiento interesante: los gatos podrían tener memoria episódica, lo que significa que pueden recordar no solo QUÉ sucedió, sino DÓNDE y CUÁNDO sucedió.",
+      "voice": "Here's something remarkable. Cats may have episodic memory. That means they don't just remember what happened — they may also remember where and when it happened. That's a level of cognitive sophistication once thought to belong only to humans and great apes.",
       "visual": "episodic memory timeline",
       "duration": 23
     },
     {
-      "voice": "En 2007, investigadores de la Universidad de Cardiff demostraron que los gatos podían recordar eventos específicos y asociarlos con contextos espaciales y temporales.",
+      "voice": "A 2017 paper from Saho Takagi's team at Kyoto University showed that cats could recall which of two bowls they had eaten from earlier and use that information to guide future behavior. It's strong evidence for an episodic-like memory system in domestic cats.",
       "visual": "time place memory recall",
       "duration": 22
     },
     {
-      "voice": "Los gatos tienen un hipocampo, la región del cerebro responsable de la formación de memoria de largo plazo, similar al de los humanos. Sin embargo, es proporcionalmente más pequeño.",
+      "voice": "The hippocampus, the brain region responsible for forming long-term memories, is present in cats just like in humans. It's smaller in proportion, but the architecture is similar. The same circuits, scaled differently, doing essentially the same job.",
       "visual": "brain hippocampus anatomy",
       "duration": 23
     },
     {
-      "voice": "A pesar de su pequeño hipocampo, los gatos pueden mantener memoria sorprendentemente sofisticada. Esto sugiere que sus cerebros son notablemente eficientes en el almacenamiento de información.",
+      "voice": "Despite the smaller hippocampus, cats compress impressive amounts of information into it. Scientists suspect feline brains are highly efficient — focusing storage on emotionally relevant or repeatedly reinforced events while letting the rest fade.",
       "visual": "efficient brain processing",
       "duration": 22
     },
     {
-      "voice": "Lamentablemente, algunos gatos pueden desarrollar demencia felina a medida que envejecen, similar al Alzheimer en humanos. El síndrome de disfunción cognitiva afecta la memoria y el comportamiento.",
+      "voice": "Aging cats can develop a condition called Feline Cognitive Dysfunction Syndrome. It's similar to Alzheimer's in humans. Symptoms include disorientation, altered sleep, and forgetting familiar routines. Studies from the University of Edinburgh estimate over 50% of cats over 15 show some signs.",
       "visual": "aging senior cat health",
       "duration": 23
     },
     {
-      "voice": "En conclusión, los gatos tienen memoria compleja y sofisticada. Pueden recordar experiencias significativas durante años, pero su memoria a corto plazo es relativamente limitada. La próxima vez que tu gato te evita, podría ser porque recuerda.",
+      "voice": "So your cat does remember you. They remember kindness, fear, food, scent, and the small rituals you share. Memory in cats isn't perfect — but it's deep, emotional, and surprisingly long-lasting. The next time your cat ignores you, maybe they remember something. Maybe they're judging you for it.",
       "visual": "cat memory lasting impression",
       "duration": 23
+    },
+    {
+      "voice": "Subscribe to CatBrothers and hit the bell. What's coming next week — how cats and human babies actually get along, with research-based safety rules for new families. See you in the next documentary.",
+      "visual": "cat looking thoughtful",
+      "duration": 20
     }
   ],
-  "thumbnail_text": "RECUERDAN TODO"
+  "thumbnail_text": "THEY REMEMBER"
 }

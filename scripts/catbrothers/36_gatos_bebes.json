@@ -1,111 +1,116 @@
 {
-  "title": "Gatos y Bebés: Convivencia Segura Según la Ciencia",
-  "description": "¿Es seguro tener un gato y un bebé en la misma casa? Descubre las 7 reglas basadas en ciencia para una convivencia segura. Estudios demuestran que los gatos pueden beneficiar el desarrollo de los bebés.",
+  "title": "Cats and Babies 🐱 Safe Coexistence According to Science",
+  "description": "Is it safe to have a cat and a baby in the same house? Discover seven research-based rules for safe coexistence. Studies prove cats can actually benefit a baby's immune system and emotional development. Real data from Pediatrics and University of Helsinki.",
   "tags": [
-    "gatos bebés",
-    "seguridad",
-    "familia",
-    "desarrollo infantil",
-    "convivencia",
-    "salud",
-    "alergia",
-    "infancia",
-    "estudio científico",
-    "parentalidad",
-    "mascotas",
-    "convivencia"
+    "cats and babies",
+    "baby safety",
+    "family",
+    "child development",
+    "coexistence",
+    "infant health",
+    "allergies",
+    "early childhood",
+    "scientific study",
+    "parenting",
+    "pets",
+    "cat baby"
   ],
   "segments": [
     {
-      "voice": "Una de las preguntas más comunes para nuevos padres es: ¿es seguro tener un gato si tengo un bebé en camino? La respuesta es sí, con precauciones adecuadas. La ciencia respalda la convivencia entre gatos y bebés.",
+      "voice": "One of the most common questions new parents ask their vet — is it safe to keep our cat now that a baby is coming? The short answer is yes. With proper precautions, a cat and a baby can coexist beautifully. The science actually leans heavily in favor of keeping the cat.",
       "visual": "baby cat safe together",
       "duration": 22
     },
     {
-      "voice": "Un estudio publicado en 'Pediatrics' en 2015 encontró que los bebés expuestos a gatos durante sus primeros años de vida desarrollaban sistemas inmunológicos más fuertes.",
+      "voice": "Welcome to CatBrothers. A 2015 study published in the journal Pediatrics, led by Dr. Eija Bergroth in Finland, looked at over 397 children. Babies exposed to cats during their first year had measurably stronger immune systems and fewer respiratory infections.",
       "visual": "immune system development health",
       "duration": 23
     },
     {
-      "voice": "Los bebés que viven con gatos tenían menos infecciones respiratorias y de oído durante sus primeros años. La exposición a los alérgenos del gato fortalecía sus defensas.",
+      "voice": "Babies who grew up with cats had fewer ear infections, fewer respiratory issues, and were prescribed antibiotics less often. The early exposure to cat dander appeared to train the developing immune system in a way that made it more resilient.",
       "visual": "healthy immune child",
       "duration": 22
     },
     {
-      "voice": "Sin embargo, existen riesgos reales si no se maneja la situación adecuadamente. La toxoplasmosis, que transmiten los gatos, puede ser especialmente peligrosa para mujeres embarazadas.",
+      "voice": "But the picture isn't all positive. Real risks exist if you don't manage the situation well. Toxoplasmosis, a parasite carried in cat feces, is especially dangerous for pregnant women. The biggest risk window is the first trimester, when the parasite can cross the placenta.",
       "visual": "pregnancy health precaution",
       "duration": 22
     },
     {
-      "voice": "Regla número 1: Las mujeres embarazadas no deben limpiar la caja de arena del gato. Otra persona debe encargarse de esta tarea. Es la forma principal de transmisión de toxoplasmosis.",
+      "voice": "Rule number 1. Pregnant women should not clean the litter box. Have someone else do it for the duration of the pregnancy. According to the CDC, this single change drops toxoplasmosis transmission risk dramatically. It's the easiest, most effective precaution in the entire list.",
       "visual": "litter box prevention hygiene",
       "duration": 23
     },
     {
-      "voice": "Regla número 2: Mantén la caja de arena fuera del área donde dormirá el bebé. El polvo de la caja de arena puede contener esporas de toxoplasmosis que podrían afectar al bebé.",
+      "voice": "Rule number 2. Keep the litter box far from where the baby sleeps or plays. Litter dust can carry parasite spores. The nursery should be a clean zone, separate from anywhere the cat does their business. Geography solves a lot of risk.",
       "visual": "nursery baby room safety",
       "duration": 23
     },
     {
-      "voice": "Regla número 3: Prepara a tu gato antes de que llegue el bebé. Los gatos necesitan adaptarse gradualmente al cambio. Expón a tu gato a sonidos de bebé, juguetes, y cambios en la rutina.",
+      "voice": "Rule number 3. Prepare your cat before the baby arrives. Don't wait until the day of birth. Play recordings of baby cries. Introduce baby lotion smells. Rearrange the rooms gradually. Cats hate sudden change, but they handle slow change much better.",
       "visual": "cat preparation adaptation",
       "duration": 23
     },
     {
-      "voice": "Un estudio de la Universidad de Helsinki mostró que los gatos que fueron preparados gradualmente para la llegada de bebés tenían 70% menos estrés después del nacimiento.",
+      "voice": "A behavioral study from the University of Helsinki in 2018 found that cats prepared gradually for a baby's arrival showed up to 70% less stress-related behavior in the weeks following the birth. Less hiding, less aggression, less inappropriate elimination.",
       "visual": "stress reduction anxiety",
       "duration": 22
     },
     {
-      "voice": "Regla número 4: Nunca dejes a un gato solo con un bebé durante largos períodos. Los gatos pueden ser impredecibles, y los bebés pueden lastimar accidentalmente a los gatos.",
+      "voice": "Rule number 4. Never leave the cat unsupervised with the baby. Period. Cats are unpredictable in unfamiliar situations, and babies can grab fur, ears, and tails without warning. A scratched cat will defend itself. The risk isn't malice — it's reflex.",
       "visual": "supervision safety watching",
       "duration": 22
     },
     {
-      "voice": "Regla número 5: Enseña a tu bebé desde temprana edad cómo interactuar respetuosamente con el gato. Los bebés que aprenden a tocar suavemente tienen relaciones más positivas con gatos.",
+      "voice": "Rule number 5. Teach the baby, as soon as they can grasp it, how to interact gently with the cat. Children who learn to pet softly tend to develop richer bonds with animals later in life. Studies in early childhood education back this up.",
       "visual": "baby touching cat gently",
       "duration": 23
     },
     {
-      "voice": "Regla número 6: Proporciona espacios de escape seguros para el gato. Un gato debe tener opciones para alejarse si se siente estresado por el bebé.",
+      "voice": "Rule number 6. Always provide the cat with safe escape routes. High shelves, separate rooms, places the baby physically cannot reach. A cat that can retreat is a calm cat. A cat with no exit is a stressed cat — and stressed cats lash out.",
       "visual": "cat safe space refuge",
       "duration": 22
     },
     {
-      "voice": "Los investigadores de la Universidad de Oregon encontraron que los gatos en casas con bebés tenían menos estrés cuando tenían espacios verticales seguros para escapar.",
+      "voice": "Researchers at Oregon State University, led by Monique Udell, found that cats in households with babies had significantly lower stress markers when they had access to vertical escape spaces — cat trees, shelves, or elevated perches.",
       "visual": "cat climbing shelf escape",
       "duration": 22
     },
     {
-      "voice": "Regla número 7: Mantén las uñas del gato recortadas y actualiza las vacunaciones. Un gato sano es menos probable que cause lesiones accidentales.",
+      "voice": "Rule number 7. Keep the cat's nails trimmed and vaccinations current. A healthy cat is a safer cat. Regular vet checkups also catch parasite issues before they become household risks. Boring maintenance — but it works.",
       "visual": "cat nail care trimming",
       "duration": 22
     },
     {
-      "voice": "Un hallazgo sorprendente: los bebés que crecen con gatos desarrollan tasas de alergias más bajas a los gatos más tarde en la vida. La exposición temprana puede generar tolerancia.",
+      "voice": "Here's a counterintuitive finding. Babies raised around cats develop fewer cat allergies later in life. The same Pediatrics study showed early exposure trained immune tolerance. Removing the cat from the home in advance often does the opposite of what parents intend.",
       "visual": "allergy prevention immunity",
       "duration": 23
     },
     {
-      "voice": "Los gatos también pueden beneficiar el desarrollo emocional del bebé. Los estudios muestran que los niños que crecen con mascotas tienen mayor inteligencia emocional.",
+      "voice": "Cats can also support emotional development. A 2017 study from Carroll University showed that children growing up with pets often developed higher emotional intelligence scores. They learn empathy faster, since pets demand attention to non-verbal cues.",
       "visual": "emotional development bonding",
       "duration": 23
     },
     {
-      "voice": "Los niños que tienen gatos desarrollan empatía más rápidamente. Aprenden a leer lenguaje corporal, reconocer necesidades ajenas, y practicar cuidado responsable.",
+      "voice": "Children who care for cats tend to read body language earlier. They notice when an animal wants space. They learn responsibility through feeding routines. Those skills carry over directly into how they handle relationships with people later on.",
       "visual": "empathy caring kindness",
       "duration": 22
     },
     {
-      "voice": "Investigadores de la Universidad de California encontraron que los niños pequeños con gatos tenían puntuaciones 25% más altas en pruebas de empatía comparados con niños sin mascotas.",
+      "voice": "A team at the University of California found that toddlers raised with cats scored about 25% higher on standardized empathy assessments compared to peers without pets. The earlier the exposure, the stronger the effect.",
       "visual": "test results success academic",
       "duration": 23
     },
     {
-      "voice": "En conclusión, un gato y un bebé pueden coexistir saludablemente si tomas las precauciones correctas. De hecho, la presencia de un gato puede enriquecer la infancia y fortalecer el sistema inmunológico del niño.",
+      "voice": "So a cat and a baby aren't enemies. They can grow up together as part of one household, each helping the other. With the right setup, your cat may become one of your child's earliest friends — and your kid's immune system might thank you for it.",
       "visual": "happy family baby cat love",
       "duration": 23
+    },
+    {
+      "voice": "Subscribe to CatBrothers and hit the bell. What's coming next week — the secret of the third eyelid you've probably already noticed in your cat without realizing what it was. See you in the next documentary.",
+      "visual": "cat baby smiling together",
+      "duration": 20
     }
   ],
-  "thumbnail_text": "GATO Y BEBÉ"
+  "thumbnail_text": "CAT AND BABY"
 }
