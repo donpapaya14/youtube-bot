@@ -1,98 +1,31 @@
 {
-  "title": "Gatos Salvajes vs Domésticos: ADN 99.95% Igual",
-  "description": "¿Cuál es la diferencia entre un gato salvaje y uno doméstico? Solo el 0.05% del ADN. Descubre cómo 10,000 años de domesticación cambiaron apenas 12 genes. La evolución de Felis catus.",
-  "tags": ["gatos salvajes", "domesticación", "evolución", "ADN", "genética", "diferencia", "comportamiento", "historia", "selección natural", "arqueología", "ciencia", "domesticación animal"],
+  "title": "Wild Cats vs Domestic Cats: 99.95% Identical DNA",
+  "description": "What's the difference between a wild cat and a domestic one? Just 0.05% of DNA. Discover how 10,000 years of domestication changed barely 12 genes. The evolution of Felis catus.",
+  "tags": ["wildcats", "domestication", "evolution", "DNA", "genetics", "difference", "behavior", "history", "natural selection", "archaeology", "science", "animal domestication"],
   "segments": [
-    {
-      "voice": "Parecería que hay un abismo enorme entre un gato doméstico cómodo en un sofá y un gato salvaje cazando en la naturaleza. Pero la verdad genética es sorprendente: su ADN es 99.95% idéntico.",
-      "visual": "wild cat domestic cat comparison",
-      "duration": 23
-    },
-    {
-      "voice": "Los científicos han secuenciado completamente el genoma del gato doméstico y lo han comparado con sus ancestros salvajes del Cercano Oriente, el gato montés africano.",
-      "visual": "African wildcat ancestor",
-      "duration": 22
-    },
-    {
-      "voice": "El gato doméstico, Felis catus, evolucionó del gato montés africano, Felis silvestris lybica, hace aproximadamente 10,000 años. Este fue un proceso gradual de domesticación, no de domesticación intencional como con perros.",
-      "visual": "timeline domestication history",
-      "duration": 24
-    },
-    {
-      "voice": "Los antiguos humanos no buscaban domesticar gatos. Los gatos simplemente se acercaron a los asentamientos humanos porque había roedores comiendo grano. Los gatos menos miedosos recibían tolerancia, incluso comida.",
-      "visual": "ancient settlement agriculture",
-      "duration": 24
-    },
-    {
-      "voice": "Este proceso de auto-domesticación fue lento. Solo los gatos con temperamento más dócil y menos asustado sobrevivían y se reproducían cerca de humanos. Después de miles de años, esto cambió la población.",
-      "visual": "natural selection process",
-      "duration": 24
-    },
-    {
-      "voice": "Un estudio de la Universidad de Estocolmo analizó 22 genes que diferenciaban gatos domésticos de salvajes. El 99.95% de su ADN es idéntico. Las diferencias están en menos de 50 genes.",
-      "visual": "genetic DNA analysis",
-      "duration": 24
-    },
-    {
-      "voice": "Estos genes afectan principalmente a comportamientos relacionados con el miedo, la agresión y el reconocimiento social. Por ejemplo, uno de los genes modifica la respuesta al estrés.",
-      "visual": "stress response behavior gene",
-      "duration": 23
-    },
-    {
-      "voice": "El gen ADRA2B regula la adrenalina y está mutado en gatos domésticos. Esto reduce su respuesta de miedo al estrés comparado con gatos salvajes.",
-      "visual": "adrenaline stress hormone",
-      "duration": 22
-    },
-    {
-      "voice": "Sorprendentemente, la domesticación también cambió características físicas. Los gatos domésticos tienen orejas más pequeñas, caras más cortas, y colas más cortas que los gatos salvajes.",
-      "visual": "cat physical traits features",
-      "duration": 23
-    },
-    {
-      "voice": "Este fenómeno se llama 'síndrome de domesticación'. Cambios en genes de comportamiento afectaron inadvertidamente la morfología física.",
-      "visual": "morphology shape development",
-      "duration": 22
-    },
-    {
-      "voice": "Los gatos salvajes son expertos cazadores con reflejos rápidos y músculos bien desarrollados. Los gatos domésticos han perdido algo de esta precisión, aunque mantienen el instinto de caza.",
-      "visual": "hunting instinct predator",
-      "duration": 22
-    },
-    {
-      "voice": "Un hallazgo interesante: los gatos salvajes pueden ser tamed, pero no son verdaderamente domesticados. La domesticación requiere generaciones de selección, no solo entrenamiento.",
-      "visual": "tamed wild cat training",
-      "duration": 23
-    },
-    {
-      "voice": "Un experimento clásico en Rusia crianza selectiva de zorros domésticos mostró que el comportamiento dócil estaba vinculado a cambios genéticos rápidos.",
-      "visual": "Russian fox domestication",
-      "duration": 22
-    },
-    {
-      "voice": "Aunque los gatos domésticos comparten 99.95% de ADN con sus ancestros salvajes, ese 0.05% de diferencia resulta en un comportamiento completamente diferente.",
-      "visual": "behavior difference domestication",
-      "duration": 23
-    },
-    {
-      "voice": "Los gatos salvajes africanos son solitarios, territoriales, y evitan el contacto humano. Los gatos domésticos son sociales, viven en grupos, y buscan interacción con humanos.",
-      "visual": "social interaction humans",
-      "duration": 23
-    },
-    {
-      "voice": "Interesantemente, si dejas un gato doméstico sin contacto humano durante varias generaciones en estado salvaje, NO volverá automáticamente al comportamiento salvaje. La domesticación es robusta genéticamente.",
-      "visual": "feral cat wild behavior",
-      "duration": 24
-    },
-    {
-      "voice": "Los gatos ferales, que son descendientes de gatos domésticos, nunca pueden ser completamente domesticados si crecen sin humanos. Pero su ADN sigue siendo 99.95% idéntico al de gatos domésticos.",
-      "visual": "feral cat wild offspring",
-      "duration": 23
-    },
-    {
-      "voice": "En conclusión, los gatos son un ejemplo extraordinario de cómo cambios pequeños en la base genética pueden producir cambios profundos en comportamiento. De salvaje a mascota en 10,000 años y 0.05% de ADN diferente.",
-      "visual": "gato domestication legacy",
-      "duration": 23
-    }
+    {"voice": "It would seem there's a huge gap between a domestic cat lounging on a sofa and a wild cat hunting in nature. But the genetic truth is striking: their DNA is 99.95 percent identical.", "visual": "wild cat domestic cat comparison", "duration": 23},
+    {"voice": "Scientists have fully sequenced the domestic cat's genome and compared it with its wild ancestors from the Near East, the African wildcat. The results reshape what we believed about feline evolution.", "visual": "African wildcat ancestor", "duration": 22},
+    {"voice": "The domestic cat, Felis catus, evolved from the African wildcat, Felis silvestris lybica, roughly ten thousand years ago. This was a gradual self-domestication process, not an intentional one like with dogs.", "visual": "timeline domestication history", "duration": 24},
+    {"voice": "Ancient humans weren't trying to domesticate cats. Cats simply approached human settlements because rodents were eating the grain. The less fearful cats received tolerance, sometimes food.", "visual": "ancient settlement agriculture", "duration": 24},
+    {"voice": "This self-domestication was slow. Only cats with the most docile, least startled temperament survived and bred near humans. After thousands of years, that shifted the entire population.", "visual": "natural selection process", "duration": 24},
+    {"voice": "A study from Stockholm University analyzed twenty-two genes that differentiate domestic cats from wild ones. 99.95 percent of their DNA is identical. The differences sit in fewer than fifty genes.", "visual": "genetic DNA analysis", "duration": 24},
+    {"voice": "These genes mainly affect behaviors tied to fear, aggression, and social recognition. One of them, for example, alters the stress response. Another reshapes how the cat reads other faces.", "visual": "stress response behavior gene", "duration": 23},
+    {"voice": "The ADRA2B gene regulates adrenaline and is mutated in domestic cats. Here's the catch: that mutation reduces their fear response under stress compared to wild cats. Less fear means more proximity to humans.", "visual": "adrenaline stress hormone", "duration": 22},
+    {"voice": "Surprisingly, domestication also changed physical traits. Domestic cats have smaller ears, shorter faces, and shorter tails than their wild counterparts. The genome rewired the body, not just the brain.", "visual": "cat physical traits features", "duration": 23},
+    {"voice": "This phenomenon is called the domestication syndrome. Changes in behavior genes inadvertently affected physical morphology. The same pattern shows up in dogs, foxes, and even chickens.", "visual": "morphology shape development", "duration": 22},
+    {"voice": "Wild cats are expert hunters with sharp reflexes and well-developed muscles. Domestic cats have lost some of that precision, although the hunting instinct remains intact in nearly every individual.", "visual": "hunting instinct predator", "duration": 22},
+    {"voice": "An interesting finding: wild cats can be tamed, but they are not truly domesticated. Domestication requires generations of selection, not just training of one individual. That's the line researchers draw.", "visual": "tamed wild cat training", "duration": 23},
+    {"voice": "A classic experiment in Russia, the silver fox domestication study by Dmitri Belyaev, showed that docile behavior was linked to rapid genetic changes — fewer than fifty generations to flip the personality.", "visual": "Russian fox domestication", "duration": 22},
+    {"voice": "Although domestic cats share 99.95 percent of DNA with their wild ancestors, that 0.05 percent of difference produces completely different behavior. Tiny shift, enormous outcome.", "visual": "behavior difference domestication", "duration": 23},
+    {"voice": "African wildcats are solitary, territorial, and avoid human contact. Domestic cats are social, live in groups, and actively seek interaction with humans. The same body, a different operating system.", "visual": "social interaction humans", "duration": 23},
+    {"voice": "Interestingly, if you leave a domestic cat without human contact for several generations in the wild, it does NOT automatically revert to wild behavior. Domestication is genetically robust.", "visual": "feral cat wild behavior", "duration": 24},
+    {"voice": "Feral cats, which are descendants of domestic cats, can never be fully domesticated if they grow up without humans. But their DNA stays 99.95 percent identical to that of domestic cats.", "visual": "feral cat wild offspring", "duration": 23},
+    {"voice": "Doctor Carlos Driscoll at the National Cancer Institute mapped the geographic origin of all domestic cat lineages to the Fertile Crescent. Every house cat alive today traces back to that single region.", "visual": "fertile crescent map cat origin", "duration": 23},
+    {"voice": "Cat domestication was so gentle that wild and domestic populations still interbreed today in parts of Europe. The genetic boundary remains porous, which is why purebred wildcats are increasingly rare.", "visual": "european wildcat hybrid", "duration": 23},
+    {"voice": "Recent studies using ancient DNA from Egyptian and Anatolian sites confirm that early domestic cats spread along trade routes with humans. Cats earned passage on ships by hunting rodents in cargo holds.", "visual": "ancient ship cat travel", "duration": 24},
+    {"voice": "What changed first in the domestic cat brain was the amygdala response to humans. Where wild cats trigger fight or flight, domestic cats register humans as neutral or rewarding. That's the root of all the rest.", "visual": "cat brain amygdala", "duration": 24},
+    {"voice": "In conclusion, cats are an extraordinary example of how small changes in the genetic base can produce profound changes in behavior. From wild to pet in ten thousand years and 0.05 percent of DNA difference.", "visual": "cat domestication legacy", "duration": 23},
+    {"voice": "If you love cats as much as we do, subscribe to CatBrothers and hit the bell. What's coming next week goes deeper into the most affectionate cat breeds and the science behind why some cats bond harder than others. See you in the next documentary.", "visual": "cat looking at camera friendly", "duration": 22}
   ],
-  "thumbnail_text": "99.95% IGUALES"
+  "thumbnail_text": "99.95% SAME"
 }
