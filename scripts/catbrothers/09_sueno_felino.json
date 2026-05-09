@@ -1,144 +1,33 @@
 {
-  "title": "Why Cats Sleep 16 Hours a Day  Ciencia",
-  "description": "The science of feline sleep revealed. Why do cats sleep so much? Discover the evolutionary reasons, the phases of cat sleep, if they dream like us, and how their carnivorous diet influences their rest patterns. Based on animal sleep neuroscience studies from universities around the world.",
-  "tags": [
-    "cats sleeping",
-    "why cats sleep",
-    "feline sleep",
-    "sleepy cats",
-    "cat sleep phases",
-    "cats dream",
-    "cat behavior",
-    "animal neuroscience",
-    "cat curiosities",
-    "feline rest"
-  ],
+  "title": "Why Cats Sleep 16 Hours a Day 🐱 The Science of Feline Sleep",
+  "description": "The science of feline sleep revealed. Why do cats sleep so much? Discover the evolutionary reasons, the phases of cat sleep, whether they dream like us, and how their carnivorous diet shapes their rest patterns. Based on animal sleep neuroscience studies from universities around the world.",
+  "tags": ["cats sleeping", "why cats sleep", "feline sleep", "sleepy cats", "cat sleep phases", "cats dream", "cat behavior", "animal neuroscience", "cat curiosities", "feline rest"],
   "segments": [
-    {
-      "voice": "Your cat spends two-thirds of its life sleeping. If it lives fifteen years, it will have slept ten. But it's not laziness. A study by the University of Zurich showed that feline sleep is one of the most complex and strategic in the animal kingdom. Each nap has an evolutionary purpose that has kept cats alive for fifty million years.",
-      "visual": "cat sleeping peacefully curled up",
-      "duration": 25
-    },
-    {
-      "voice": "Welcome to CatBrothers. Today we enter the world of feline sleep, a fascinating territory where evolution, neuroscience, and predatory instinct meet. We're going to discover why they sleep so much, what happens in their brain while they do, and yes, if your cat dreams about you.",
-      "visual": "cat napping on soft bed cozy",
-      "duration": 25
-    },
-    {
-      "voice": "The main reason cats sleep so much is energy-related. They are obligate carnivores and ambush predators. Hunting requires extremely intense energy bursts: pursuit, jump, capture. A study by the Zoology Department at the University of Oxford demonstrated that a single one-minute hunting run consumes the same energy as walking for an hour.",
-      "visual": "cat stalking prey ready to pounce",
-      "duration": 25
-    },
-    {
-      "voice": "This energy-conserving strategy between hunts is universal among predators. Lions sleep up to twenty hours, tigers eighteen, cheetahs sixteen. Researcher Irene Tobler from the University of Zurich's Pharmacology Institute documented that ambush carnivores sleep proportionally more than any other group of mammals.",
-      "visual": "lion sleeping in savanna lazy",
-      "duration": 25
-    },
-    {
-      "voice": "Cat sleep has two main phases. The first is light sleep, which represents about seventy-five percent of their total rest. During this phase, the cat can wake up instantly. Their ears continue to rotate towards sounds, their muscles maintain some tension. The electroencephalogram shows low-voltage, high-frequency brain waves.",
-      "visual": "cat dozing lightly ears moving",
-      "duration": 25
-    },
-    {
-      "voice": "Neuroscientist Michel Jouvet from the University of Lyon was a pioneer in studying REM sleep in cats in the 1960s. He discovered that cats enter REM phase, rapid eye movement sleep, for about twenty-five percent of their sleep time. In this phase, the brain is as active as if the cat were awake.",
-      "visual": "cat in deep sleep twitching slightly",
-      "duration": 25
-    },
-    {
-      "voice": "During REM sleep, cats exhibit involuntary movements: their legs twitch, their whiskers move, they emit small sounds. Jouvet conducted a historic experiment by disabling REM atonia in cats and found that sleeping cats would get up and act out their dreams: they would hunt invisible prey, fight imaginary enemies. Cats literally dream about hunting.",
-      "visual": "cat sleeping with paws twitching dreaming",
-      "duration": 25
-    },
-    {
-      "voice": "Do cats dream about their owners? Dr. Deirdre Barrett from Harvard University, a specialist in animal dreams, suggests that it's likely. If cats dream about activities they do during the day, and they spend a lot of time interacting with humans, it's reasonable to assume that we appear in their dreams. Science hasn't definitively proven it, but it's plausible.",
-      "visual": "cat sleeping next to owner on couch",
-      "duration": 25
-    },
-    {
-      "voice": "Diet directly influences sleep. Animal protein is rich in tryptophan, an amino acid precursor to serotonin and melatonin, the sleep-regulating hormones. A study by the Nestle Purina Research Center showed that cats fed high animal protein diets sleep more deeply than those fed carbohydrate-based diets.",
-      "visual": "cat eating meat food healthy",
-      "duration": 25
-    },
-    {
-      "voice": "Cat sleep patterns are crepuscular, not nocturnal. Dr. Judi Stella from Ohio State University documented that cats have activity peaks at dawn and dusk, coinciding with when their natural prey, rodents, are most active. The myth of the nocturnal cat is inaccurate: they are creatures of twilight.",
-      "visual": "cat active at dawn twilight hunting",
-      "duration": 25
-    },
-    {
-      "voice": "However, domestic cats adapt their sleep patterns to their owners'. A study published in PLOS ONE showed that cats living with humans who work during the day and sleep at night gradually adjust their activity to coincide with human schedules. Your cat synchronizes its biological clock with yours because it wants to spend time with you when you're awake.",
-      "visual": "cat waking up with owner morning routine",
-      "duration": 25
-    },
-    {
-      "voice": "Kittens and elderly cats sleep more than adults. Newborn kittens sleep up to twenty-two hours a day because the growth hormone is mainly released during deep sleep. Veterinarian Michael Fox explains that the neuronal and muscular development of kittens critically depends on these long hours of sleep during the first weeks of life.",
-      "visual": "tiny kittens sleeping together pile",
-      "duration": 25
-    },
-    {
-      "voice": "Cats over ten years old also increase their sleep hours. A study by the Royal College of Veterinary Surgeons documented that geriatric cats can sleep up to twenty hours a day. This is due to the natural reduction of metabolism and, in some cases, medical conditions like hyperthyroidism or arthritis that cause fatigue. Drastic changes in sleep warrant a vet visit.",
-      "visual": "senior cat resting peacefully old wise",
-      "duration": 25
-    },
-    {
-      "voice": "Ambient temperature affects feline sleep. Cats instinctively seek out the warmest surfaces to sleep on. A study by the University of Bristol showed that cats sleep up to two hours more on cold and rainy days than on warm and sunny days. Their thermoregulation is less efficient than humans', and sleeping helps them conserve body heat.",
-      "visual": "cat sleeping near heater warm spot",
-      "duration": 25
-    },
-    {
-      "voice": "Sleeping positions reveal the level of security your cat feels. A cat that sleeps curled up in a ball is conserving heat and protecting its vital organs. A cat that sleeps on its back with its belly exposed feels completely safe. Dr. Rachel Casey from the University of Bristol documented that cats only sleep on their backs in environments where they fully trust.",
-      "visual": "cat sleeping belly up on back relaxed",
-      "duration": 25
-    },
-    {
-      "voice": "The loaf position, with legs tucked under the body, indicates moderate relaxation. The cat is comfortable but can get up quickly if needed. The half-moon position, curled up with the tail covering the nose, is the most thermally efficient and what wild cats use in cold climates to minimize body heat loss.",
-      "visual": "cat sleeping in loaf position cozy",
-      "duration": 25
-    },
-    {
-      "voice": "Can cats have insomnia? Technically yes. A study by the Neurology Department at the University of Sao Paulo documented that environmental stress, changes in home routine, and medical conditions can significantly alter feline sleep patterns. A cat that normally sleeps sixteen hours and suddenly sleeps only eight needs veterinary attention.",
-      "visual": "restless cat unable to sleep awake at night",
-      "duration": 25
-    },
-    {
-      "voice": "Sleep is also crucial for feline memory. Researchers from the University of Geneva demonstrated that during REM sleep, the cat's hippocampus reactivates the neuronal patterns of the day's experiences, consolidating memories. Your cat is literally learning while it sleeps, processing everything it lived and storing it in its long-term memory.",
-      "visual": "cat sleeping brain activity illustration",
-      "duration": 25
-    },
-    {
-      "voice": "A fascinating fact: cats have micro-naps of fifteen to thirty minutes scattered throughout the day. This polyphasic sleep distribution is radically different from our monophasic pattern of one night. Chronobiologist Till Roenneberg from the University of Munich explains that polyphasic sleep is more energy-efficient for ambush predators.",
-      "visual": "cat taking short nap on shelf",
-      "duration": 25
-    },
-    {
-      "voice": "The quality of your cat's sleep directly affects its health. Cats with frequently interrupted sleep show elevated cortisol levels, increased irritability, and a weakened immune system. Veterinarian internist Susan Little recommends providing your cat with a quiet, elevated, and warm resting place, away from home noises and traffic.",
-      "visual": "cat bed in quiet elevated spot cozy",
-      "duration": 25
-    },
-    {
-      "voice": "Purring during sleep has a special function. Researchers from the University of Lyon documented that some cats purr in light sleep phase, and the produced vibrations contribute to passive muscle and bone regeneration. It's as if the cat's body runs an automatic maintenance program while it rests, repairing itself without conscious effort.",
-      "visual": "cat purring while sleeping softly",
-      "duration": 25
-    },
-    {
-      "voice": "Artificial light also affects feline sleep. A study by the University of Pennsylvania showed that constant exposure to artificial light alters melatonin production in cats, similar to what happens in humans. Cats in homes with many LED lights on all night show more fragmented sleep patterns. Turning off the lights benefits everyone's rest at home.",
-      "visual": "cat sleeping in dark room peaceful night",
-      "duration": 25
-    },
-    {
-      "voice": "Cats also experience what scientists call social sleep. A study by the University of Bristol documented that cats living with compatible cats synchronize their sleep cycles partially, sleeping and waking in similar patterns. This synchronized sleep reinforces social bonds and reduces group stress.",
-      "visual": "two cats sleeping together cuddling",
-      "duration": 25
-    },
-    {
-      "voice": "Perhaps the most beautiful thing about feline sleep is what it teaches us about natural efficiency. Cats don't fight sleep, they don't postpone it, they don't feel guilty about resting. They've perfected the art of alternating between maximum activity and complete rest. In a human world obsessed with productivity, the cat reminds us that resting is as important as acting.",
-      "visual": "cat peacefully sleeping golden sunlight",
-      "duration": 25
-    },
-    {
-      "voice": "If you love cats as much as we do, subscribe to CatBrothers and turn on the bell. What's coming next week will amaze you. We're going on a journey around the world to meet the most impressive wild cats on the planet, from the Iberian lynx to the mysterious Pallas's cat. See you in the next documentary.",
-      "visual": "sleeping cat dreaming peacefully adorable",
-      "duration": 20
-    }
+    {"voice": "Your cat spends two-thirds of its life sleeping. If it lives fifteen years, it will have slept ten of them. But it's not laziness. A study from the University of Zurich showed that feline sleep is one of the most complex and strategic in the animal kingdom. Each nap has an evolutionary purpose that has kept cats alive for fifty million years.", "visual": "cat sleeping peacefully curled up", "duration": 25},
+    {"voice": "Welcome to CatBrothers. Today we step into the world of feline sleep — a territory where evolution, neuroscience, and predator instinct meet. We'll uncover why they sleep so much, what happens inside their brain while they do, and yes, whether your cat dreams about you.", "visual": "cat napping on soft bed cozy", "duration": 25},
+    {"voice": "The main reason cats sleep so much is energy. They are obligate carnivores and ambush predators. Hunting demands extreme bursts of energy: stalk, leap, capture. A study by the Zoology Department at the University of Oxford showed that a single one-minute hunting run consumes the same energy as walking for an hour.", "visual": "cat stalking prey ready to pounce", "duration": 25},
+    {"voice": "This energy-conserving strategy between hunts is universal among predators. Lions sleep up to twenty hours, tigers eighteen, cheetahs sixteen. Researcher Irene Tobler at the University of Zurich's Pharmacology Institute documented that ambush carnivores sleep proportionally more than any other group of mammals.", "visual": "lion sleeping in savanna lazy", "duration": 25},
+    {"voice": "Cat sleep has two main phases. The first is light sleep, around seventy-five percent of total rest. During this phase, the cat can wake instantly. Their ears keep rotating toward sounds. Their muscles hold a slight tension. The electroencephalogram shows low-voltage, high-frequency brain waves.", "visual": "cat dozing lightly ears moving", "duration": 25},
+    {"voice": "Neuroscientist Michel Jouvet at the University of Lyon was a pioneer in studying REM sleep in cats during the nineteen sixties. He discovered that cats enter REM phase, rapid eye movement sleep, for about twenty-five percent of their sleep time. In this phase, the brain is as active as if the cat were awake.", "visual": "cat in deep sleep twitching slightly", "duration": 25},
+    {"voice": "During REM sleep, cats show involuntary movements: legs twitch, whiskers move, small sounds escape. Jouvet ran a historic experiment by disabling REM atonia in cats and found that sleeping cats stood up and acted out their dreams. They hunted invisible prey and fought imaginary enemies. Cats literally dream about hunting.", "visual": "cat sleeping with paws twitching dreaming", "duration": 25},
+    {"voice": "Do cats dream about their owners? Doctor Deirdre Barrett at Harvard University, who specializes in animal dreams, suggests it's likely. If cats dream about activities they do during the day, and they spend many hours interacting with humans, it's reasonable to assume we appear in their dreams. Science hasn't proven it definitively, but it's plausible.", "visual": "cat sleeping next to owner on couch", "duration": 25},
+    {"voice": "Diet directly shapes sleep. Animal protein is rich in tryptophan, the amino acid precursor of serotonin and melatonin, the sleep-regulating hormones. A study from the Nestlé Purina Research Center showed that cats fed a high animal-protein diet sleep more deeply than those fed carbohydrate-based diets.", "visual": "cat eating meat food healthy", "duration": 25},
+    {"voice": "Cats are not nocturnal — they are crepuscular. Doctor Judi Stella at Ohio State University documented that cats have activity peaks at dawn and dusk, exactly when their natural prey, rodents, are most active. The myth of the nocturnal cat is wrong. They are creatures of twilight.", "visual": "cat active at dawn twilight hunting", "duration": 25},
+    {"voice": "Domestic cats adapt their sleep patterns to their owners' schedules. A study published in PLOS ONE showed that cats living with humans who work during the day and sleep at night gradually shift their activity to match the human schedule. Your cat synchronizes its biological clock with yours because it wants to spend time with you when you're awake.", "visual": "cat waking up with owner morning routine", "duration": 25},
+    {"voice": "Kittens and elderly cats sleep more than adult cats. Newborn kittens sleep up to twenty-two hours a day because growth hormone is mostly released during deep sleep. Veterinarian Michael Fox explains that the neuronal and muscular development of kittens depends critically on these long sleep hours during the first weeks of life.", "visual": "tiny kittens sleeping together pile", "duration": 25},
+    {"voice": "Cats over ten years old also increase their sleep hours. A study by the Royal College of Veterinary Surgeons documented that geriatric cats can sleep up to twenty hours a day. This is due to natural metabolic slowdown and, in some cases, conditions like hyperthyroidism or arthritis that cause fatigue. Sudden changes in sleep deserve a vet visit.", "visual": "senior cat resting peacefully old wise", "duration": 25},
+    {"voice": "Ambient temperature shapes feline sleep. Cats instinctively seek the warmest surfaces to sleep on. A study from the University of Bristol showed that cats sleep up to two hours more on cold and rainy days than on warm and sunny ones. Their thermoregulation is less efficient than ours, and sleeping helps them conserve body heat.", "visual": "cat sleeping near heater warm spot", "duration": 25},
+    {"voice": "Sleeping positions reveal the level of safety your cat feels. A cat curled in a tight ball is conserving heat and protecting its vital organs. A cat sleeping on its back with belly exposed feels completely safe. Doctor Rachel Casey at the University of Bristol documented that cats only sleep on their backs in environments where they fully trust the surroundings.", "visual": "cat sleeping belly up on back relaxed", "duration": 25},
+    {"voice": "The loaf position, with legs tucked under the body, signals moderate relaxation. The cat is comfortable but can spring up quickly if needed. The half-moon position, curled up with the tail covering the nose, is the most thermally efficient and is what wild cats use in cold climates to minimize body heat loss.", "visual": "cat sleeping in loaf position cozy", "duration": 25},
+    {"voice": "Can cats have insomnia? Technically yes. A study from the Neurology Department at the University of São Paulo documented that environmental stress, changes in home routine, and medical conditions can significantly alter feline sleep patterns. A cat that normally sleeps sixteen hours and suddenly sleeps only eight needs veterinary attention.", "visual": "restless cat unable to sleep awake at night", "duration": 25},
+    {"voice": "Sleep is also crucial for feline memory. Researchers at the University of Geneva showed that during REM sleep the cat's hippocampus reactivates the neuronal patterns of the day's experiences, consolidating memories. Your cat is literally learning while it sleeps, processing everything it experienced and storing it in long-term memory.", "visual": "cat sleeping brain activity illustration", "duration": 25},
+    {"voice": "A fascinating fact: cats have micro-naps of fifteen to thirty minutes scattered throughout the day. This polyphasic sleep distribution is radically different from our monophasic pattern of one long night. Chronobiologist Till Roenneberg at the University of Munich explains that polyphasic sleep is more energy-efficient for ambush predators.", "visual": "cat taking short nap on shelf", "duration": 25},
+    {"voice": "The quality of your cat's sleep directly affects its health. Cats with frequently interrupted sleep show elevated cortisol levels, increased irritability, and a weakened immune system. Veterinary internist Susan Little recommends giving your cat a quiet, elevated, warm resting place, away from household noise and traffic.", "visual": "cat bed in quiet elevated spot cozy", "duration": 25},
+    {"voice": "Purring during sleep has a special function. Researchers at the University of Lyon documented that some cats purr during the light sleep phase, and the vibrations produced contribute to passive muscle and bone regeneration. It's as if the cat's body runs an automatic maintenance program while resting, repairing itself without conscious effort.", "visual": "cat purring while sleeping softly", "duration": 25},
+    {"voice": "Artificial light also affects feline sleep. A study from the University of Pennsylvania showed that constant exposure to artificial light alters melatonin production in cats, similar to what happens in humans. Cats in homes with many LED lights left on overnight show more fragmented sleep patterns. Turning off the lights benefits everyone's rest in the home.", "visual": "cat sleeping in dark room peaceful night", "duration": 25},
+    {"voice": "Cats also experience what scientists call social sleep. A study at the University of Bristol documented that cats living with compatible cats partially synchronize their sleep cycles, sleeping and waking in similar patterns. This synchronized sleep strengthens social bonds and reduces group stress.", "visual": "two cats sleeping together cuddling", "duration": 25},
+    {"voice": "Perhaps the most beautiful thing about feline sleep is what it teaches us about natural efficiency. Cats don't fight sleep, don't postpone it, don't feel guilty about resting. They've perfected the art of switching between maximum activity and complete rest. In a human world obsessed with productivity, the cat reminds us that resting is as important as acting.", "visual": "cat peacefully sleeping golden sunlight", "duration": 25},
+    {"voice": "If you love cats as much as we do, subscribe to CatBrothers and hit the bell. What's coming next week is going to surprise you. We're traveling around the world to meet the most striking wild cats on the planet, from the Iberian lynx to the mysterious Pallas's cat. See you in the next documentary.", "visual": "sleeping cat dreaming peacefully adorable", "duration": 20}
   ],
-  "thumbnail_text": "THEY SLEEP SO MUCH"
+  "thumbnail_text": "16H SLEEP"
 }
