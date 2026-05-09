@@ -1,111 +1,116 @@
 {
-  "title": "Cómo los Gatos Siempre Caen de Pie: El Reflejo de Enderezamiento",
-  "description": "Los gatos tienen un reflejo extraordinario que les permite dar la vuelta en el aire y caer sobre sus patas. Descubre el reflejo de enderezamiento, cómo funciona el cuerpo felino durante una caída y por qué los gatos pueden sobrevivir caídas desde pisos altos.",
+  "title": "How Cats Always Land On Their Feet 🐱 The Righting Reflex",
+  "description": "Cats have an extraordinary reflex that lets them rotate mid-air and land paws first. Discover the feline righting reflex, how the body works during a fall, and why cats can survive falls from high apartment floors. Real biomechanics, slow motion, and surprising research.",
   "tags": [
-    "reflejo gato",
-    "caída",
-    "física animal",
-    "supervivencia",
-    "elasticidad",
-    "biomecánica",
-    "instinto",
-    "equilibrio",
-    "cuerpo felino",
-    "ciencia",
-    "gravedad",
-    "aceleración"
+    "cat reflex",
+    "righting reflex",
+    "animal physics",
+    "feline survival",
+    "elasticity",
+    "biomechanics",
+    "instinct",
+    "balance",
+    "feline body",
+    "science",
+    "gravity",
+    "cat falls"
   ],
   "segments": [
     {
-      "voice": "Es uno de los movimientos más famosos del reino animal: un gato cae, gira su cuerpo en el aire, y aterriza sobre sus patas. Este fenómeno fascinante es más que un acto de suerte.",
+      "voice": "It's one of the most famous moves in the animal kingdom. A cat slips off a shelf, twists in mid-air, and lands paws-first. Smooth, almost choreographed. But behind that elegance hides a tightly engineered piece of biology that scientists have studied for over 130 years.",
       "visual": "cat jumping falling graceful",
       "duration": 22
     },
     {
-      "voice": "El mecanismo se llama reflejo de enderezamiento felino o righting reflex. Es un comportamiento instintivo que permite al gato reorientar su cuerpo durante una caída para minimizar el daño.",
+      "voice": "Welcome to CatBrothers. The mechanism has a proper name — the feline righting reflex. It's not a trick the cat learns. It's hardwired. Almost every healthy domestic cat performs the move automatically, even with their eyes closed.",
       "visual": "cat rotation falling reflex",
       "duration": 23
     },
     {
-      "voice": "Los gatos comienzan a desarrollar este reflejo alrededor de las 3 a 4 semanas de edad. Es controlado por el sistema vestibular, que se encuentra en el oído interno y controla el equilibrio y la orientación espacial.",
+      "voice": "Kittens start showing the reflex at around 3 to 4 weeks old. By 7 weeks, the move is fully developed. The control center sits inside the inner ear, in a structure called the vestibular system — the same one that gives us our sense of balance.",
       "visual": "kitten development learning",
       "duration": 23
     },
     {
-      "voice": "El proceso comienza cuando los receptores en el oído interno detectan que el gato se está cayendo. Estos receptores envían señales al cerebro, que instantáneamente coordina una serie de movimientos complejos.",
+      "voice": "Here's how the sequence begins. Tiny receptors inside the inner ear detect that the body is falling. The signal races to the cerebellum in milliseconds. From there, motor commands shoot through the spine, telling each part of the body what to do — and in what order.",
       "visual": "inner ear anatomy diagram",
       "duration": 24
     },
     {
-      "voice": "El primer movimiento es que el gato gira la cabeza para ubicar visualmente el suelo. Los ojos del gato se enfocan rápidamente para determinar la distancia y ángulo del impacto.",
+      "voice": "First move? The head rotates. The cat snaps its eyes toward the ground to find a target. Vision takes over for a moment, locking onto the surface below. Distance, angle, everything calculated in less time than it takes you to blink.",
       "visual": "cat eyes focus vision detection",
       "duration": 23
     },
     {
-      "voice": "Simultáneamente, el cuerpo del gato comienza a realizar una rotación. Primero la parte frontal del cuerpo gira, luego la parte trasera. Esta es una acción secuencial, no simultánea.",
+      "voice": "Then the body rotates in two stages. The front half spins first. The rear half follows. It's not one motion — it's two, separated by milliseconds. This split-rotation trick is what allows cats to flip without violating the laws of physics, since they don't push against anything to spin.",
       "visual": "cat rotation sequence movement",
       "duration": 23
     },
     {
-      "voice": "Los gatos tienen una columna vertebral extraordinariamente flexible con 53 vértebras, en comparación con los humanos que tenemos solo 33. Esta flexibilidad es crucial para realizar el giro de enderezamiento.",
+      "voice": "Cats own a spine like no other. They have around 53 vertebrae compared to our 33. Their backbone bends, twists, and flexes far beyond what most mammals can manage. Without that flexibility, the two-stage rotation would be impossible.",
       "visual": "cat spine flexibility X-ray",
       "duration": 24
     },
     {
-      "voice": "La velocidad del giro es increíble. Un gato puede completar una rotación de 180 grados en menos de 200 milisegundos. Esto es más rápido de lo que podemos parpadear.",
+      "voice": "The full rotation takes shockingly little time. A cat can complete a 180-degree flip in under 200 milliseconds. That's faster than the blink of a human eye. Slow-motion video reveals the body twisting like a tightly wound coil unwinding.",
       "visual": "slow motion cat rotation",
       "duration": 22
     },
     {
-      "voice": "Otro factor importante es la cola del gato. Actúa como un contrapeso durante la rotación, ayudando a equilibrar el cuerpo. Los gatos sin cola tienen un 65% más de dificultad para enderezarse durante caídas.",
+      "voice": "The tail does serious work, too. It acts as a counterweight during the spin, fine-tuning balance like a tightrope walker's pole. Studies on tailless breeds, like the Manx, show they have noticeably more trouble righting themselves mid-fall — sometimes 65% slower to recover.",
       "visual": "cat tail balance counterweight",
       "duration": 24
     },
     {
-      "voice": "Una vez que el gato ha reorientado su cuerpo, ajusta sus patas y extiende el cuerpo para absorber el impacto. Sus patas funcionan como amortiguadores biológicos.",
+      "voice": "Once oriented, the cat extends its limbs and arches its spine into a soft U-shape. The legs are no longer rigid — they become biological shock absorbers, ready to spread the impact across all four paws.",
       "visual": "cat paw landing impact",
       "duration": 22
     },
     {
-      "voice": "Los almohadillas de las patas de los gatos contienen un tejido especial que puede absorber impactos de hasta 5 veces su peso corporal.",
+      "voice": "Cat paw pads contain a layered fatty tissue that compresses on impact. They can absorb forces up to five times the cat's body weight. Combined with flexed elbows and knees, the landing distributes energy across the whole skeleton.",
       "visual": "cat paw pad anatomy",
       "duration": 21
     },
     {
-      "voice": "Sin embargo, existe un límite. En un estudio publicado en la revista de la Sociedad Americana de Veterinarios, se encontró que caídas desde más de 10 pisos aumentaban significativamente el riesgo de lesión fatal.",
+      "voice": "But there's a limit. A study published in the Journal of the American Veterinary Medical Association found that falls beyond 10 stories sharply increased the risk of severe injury. The body simply runs out of time to react properly at extreme heights.",
       "visual": "building height danger risk",
       "duration": 24
     },
     {
-      "voice": "Hay un fenómeno llamado 'síndrome de rascacielos felino'. Ocurre cuando gatos caen desde pisos muy altos con tanta velocidad que no pueden completar su reflejo de enderezamiento.",
+      "voice": "Then there's a strange phenomenon called High-Rise Syndrome. It happens when cats fall from very tall buildings, often during open-window seasons. Veterinarians in big cities see dozens of cases every summer. The injuries are predictable, almost identical from cat to cat.",
       "visual": "high rise skyscraper apartment",
       "duration": 23
     },
     {
-      "voice": "Un estudio de 1987 del Hospital Veterinario Animal Medical Center en Nueva York analizó 132 casos de gatos que caían desde edificios de gran altura. El sorprendente hallazgo fue que gatos de pisos 12-15 tenían tasas de supervivencia más altas que los de pisos 5-10.",
+      "voice": "In 1987, the Animal Medical Center in New York published one of the most cited papers on the subject. They reviewed 132 cats that had fallen from high buildings. The shocker — cats that fell from floors 12 to 15 had a higher survival rate than those who fell from floors 5 to 10.",
       "visual": "veterinary hospital research data",
       "duration": 25
     },
     {
-      "voice": "La explicación es que desde alturas muy altas, los gatos alcanzan su velocidad terminal, momento en el cual relajen sus músculos. Un cuerpo relajado absorbe el impacto mejor que uno tenso.",
+      "voice": "Why? It comes down to terminal velocity. Past a certain height, the cat stops accelerating. Their body relaxes, limbs spread out like a flying squirrel, and they redistribute the impact across a wider area. A relaxed body absorbs force far better than a tense one.",
       "visual": "physics terminal velocity diagram",
       "duration": 24
     },
     {
-      "voice": "El sistema nervioso del gato también libera endorfinas durante caídas, lo que reduce el dolor y aumenta su capacidad de reaccionar rápidamente después del impacto.",
+      "voice": "The nervous system also releases endorphins during the fall. These chemicals reduce pain perception and let the cat react faster after impact. It's the body's way of staying functional in the worst possible moment.",
       "visual": "brain endorphin chemistry",
       "duration": 22
     },
     {
-      "voice": "Los investigadores de la Universidad de Princeton utilizaron cámaras de alta velocidad para estudiar el reflejo en 2013. Descubrieron que el proceso es tan rápido y eficiente que prácticamente no hay penalidad de tiempo para el gato.",
+      "voice": "Researchers at Princeton used high-speed cameras in 2013 to break the move down frame by frame. They found the rotation is so efficient that the cat barely loses any time correcting itself. The energy cost? Almost zero.",
       "visual": "high speed camera slow motion",
       "duration": 24
     },
     {
-      "voice": "En conclusión, el reflejo de enderezamiento es un testimonio de la evolución y adaptación felina. Después de millones de años cazando en árboles, los gatos desarrollaron este mecanismo extraordinario de supervivencia.",
+      "voice": "The righting reflex is the result of millions of years of arboreal evolution. Cats descended from tree-hunting ancestors who slipped, fell, and survived. Every modern domestic cat inherits that legacy with each leap, each landing, each casual stroll along a narrow shelf.",
       "visual": "cat tree climbing agility",
       "duration": 22
+    },
+    {
+      "voice": "Subscribe to CatBrothers and hit the bell. What's coming next week — the chemistry of catnip and why only some cats lose their minds for it. See you in the next documentary.",
+      "visual": "cat looking at camera curious",
+      "duration": 20
     }
   ],
-  "thumbnail_text": "CAÍDA PERFECTA"
+  "thumbnail_text": "PERFECT FALL"
 }

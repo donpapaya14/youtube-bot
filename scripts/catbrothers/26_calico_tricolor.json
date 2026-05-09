@@ -1,111 +1,116 @@
 {
-  "title": "Gatos Calicó y Tricolores: La Genética del Sexo Explicada",
-  "description": "¿Por qué el 99.9% de los gatos calicó son hembras? Descubre la genética detrás de estos gatos multicolores. Solo 1 de cada 3,000 calicós es macho, y es casi siempre estéril. La ciencia del cromosoma X y los patrones de color felino.",
+  "title": "Calico Cats 🐱 The Genetics of Sex Explained",
+  "description": "Why are 99.9% of calico cats female? Discover the genetic story behind these multi-colored felines. Only 1 in 3,000 calico cats is male, and almost always sterile. The science of the X chromosome and feline color patterns explained step by step.",
   "tags": [
-    "gatos calicó",
+    "calico cats",
     "tricolor",
-    "genética",
-    "cromosoma X",
-    "sexo",
-    "color felino",
-    "hembras",
-    "rareza",
-    "biología",
-    "ciencia gatos",
-    "curiosidades",
-    "mutación genética"
+    "genetics",
+    "X chromosome",
+    "sex genetics",
+    "feline color",
+    "female cats",
+    "rare cats",
+    "biology",
+    "cat science",
+    "cat facts",
+    "genetic mutation"
   ],
   "segments": [
     {
-      "voice": "Los gatos calicó, también conocidos como tricolores o de tres colores, son entre los felinos más hermosos que existen. Pero tienen un secreto genético fascinante que los hace extraordinarios.",
+      "voice": "Calico cats, also called tricolors, are among the most striking felines you'll ever see. But behind those patches of orange, black, and white sits a genetic secret. A secret that makes nearly every calico in the world a female. The reason has nothing to do with luck.",
       "visual": "calico cat tricolor orange white",
       "duration": 22
     },
     {
-      "voice": "El patrón de color calicó requiere genes de dos colores diferentes: uno para naranja y uno para negro. Estos genes se encuentran en el cromosoma X. Por lo tanto, para ser completamente calicó, un gato necesita dos cromosomas X.",
+      "voice": "Welcome to CatBrothers. Today we're cracking open one of the strangest puzzles in feline biology. The calico pattern needs two coat-color genes — one for orange, one for black. Both genes live on the X chromosome. That single fact changes everything about which cats can wear those colors.",
       "visual": "calico pattern fur colors",
       "duration": 24
     },
     {
-      "voice": "Los machos tienen un cromosoma XY, lo que significa solo un cromosoma X. Las hembras tienen dos cromosomas XX. Esto hace que las hembras sean los únicos gatos que pueden ser típicamente calicó.",
+      "voice": "Male cats carry XY chromosomes, which means just one X. Female cats carry XX, two of them. That extra X is what allows a cat to display orange and black at the same time. Without it, the math doesn't work. The body simply can't express both pigments in different patches.",
       "visual": "chromosome XY XX comparison",
       "duration": 23
     },
     {
-      "voice": "El 99.9% de los gatos calicó son hembras. Se estima que solo 1 de cada 3,000 gatos calicó es macho. Cuando ocurre, es casi siempre un accidente genético extraordinario.",
+      "voice": "Here's the number that surprises most people. About 99.9% of calico cats are female. Researchers estimate only 1 male is born for every 3,000 calicos. When it does happen, it's almost always a genetic accident. Not a normal birth.",
       "visual": "rare male calico cat",
       "duration": 22
     },
     {
-      "voice": "Los gatos calicó machos son casi siempre infértiles. Si un macho calicó existe, generalmente tiene una condición genética llamada síndrome de Klinefelter, donde tiene XXY en lugar de XY.",
+      "voice": "Male calicos are nearly always infertile. The reason? They usually carry an extra chromosome — XXY instead of the typical XY. The condition is called Klinefelter syndrome, named after the doctor who first described it in humans back in 1942.",
       "visual": "genetic disorder mutation",
       "duration": 23
     },
     {
-      "voice": "Con un cromosoma XXY, el macho calicó tiene dos cromosomas X, lo que le permite expresar ambos colores. Sin embargo, la condición XXY generalmente causa esterilidad.",
+      "voice": "With XXY, the male suddenly has two X chromosomes. That's enough to express both orange and black pigments. But there's a price. The same chromosomal anomaly that paints him calico also disrupts sperm production. Most XXY cats can't reproduce.",
       "visual": "chromosome Klinefelter XXY",
       "duration": 22
     },
     {
-      "voice": "Los estudios realizados por genetistas de la Universidad de Cambridge han encontrado que los gatos calicó machos con síndrome de Klinefelter tienen un 99% de probabilidad de ser estériles.",
+      "voice": "Geneticists at the University of Cambridge studied male calicos for years. Their data showed that around 99% of these rare males are sterile. The few that aren't have other genetic quirks — chimerism, mosaicism, or partial expressions of the same anomaly.",
       "visual": "genetic laboratory research study",
       "duration": 23
     },
     {
-      "voice": "Cuando nace un gato calicó macho fértil, es considerado tan raro que puede valer miles de dólares para los coleccionistas de curiosidades genéticas.",
+      "voice": "When a fertile male calico is born, it becomes biological news. Some breeders have paid thousands of dollars for confirmed cases. They aren't cute pets — they're collector's items. Living rarities, almost as uncommon as certain pedigree lines.",
       "visual": "valuable rare animal specimen",
       "duration": 22
     },
     {
-      "voice": "El patrón calicó es el resultado de un proceso llamado inactivación del cromosoma X. En las hembras, uno de los dos cromosomas X se inactiva aleatoriamente en cada célula durante el desarrollo.",
+      "voice": "The calico pattern itself comes from a process called X-inactivation. In female embryos, one of the two X chromosomes shuts down randomly inside each cell. It's not chosen. It's a coin flip happening millions of times during development.",
       "visual": "cell biology X inactivation",
       "duration": 24
     },
     {
-      "voice": "Esta inactivación aleatoria es lo que crea los parches de diferentes colores. Algunas células expresan el gen naranja, otras el negro. El resultado es un mosaico de color único en cada gato.",
+      "voice": "That random shutdown is what creates the patches. Some cells silence the X carrying orange, others silence the X carrying black. The result is a living mosaic. No two calicos look identical — not even sisters from the same litter.",
       "visual": "cell differentiation color pattern",
       "duration": 24
     },
     {
-      "voice": "Cada gato calicó es genéticamente único. Es prácticamente imposible encontrar dos gatos calicó con exactamente el mismo patrón de color y distribución.",
+      "voice": "Every calico is genetically unique. The patches form during the first weeks of embryonic life and stay for the entire lifetime of the cat. Even cloned calicos don't match the original. The pattern depends on chance, not DNA alone.",
       "visual": "unique pattern snowflake individual",
       "duration": 22
     },
     {
-      "voice": "Los gatos tricolores tienen un patrón similar pero incluyen el blanco como tercer color. El blanco es causado por el gen del manchado blanco, que es diferente de los genes del color naranja y negro.",
+      "voice": "Tricolor cats follow the same rule but add white. The white comes from a separate gene called the spotting gene, completely independent of the orange-black system. So a true tricolor is essentially a calico with a third coat layer painted on top.",
       "visual": "tricolor tabby white pattern",
       "duration": 24
     },
     {
-      "voice": "Un tricolor hembra podría ser naranja, negro y blanco simultáneamente. Un tricolor macho sería casi imposible a menos que fuera XXY.",
+      "voice": "A female tricolor easily shows orange, black, and white at the same time. A male tricolor? Almost impossible — unless he's XXY. Same rule, same biology, same rarity.",
       "visual": "tricolor cat pattern fur",
       "duration": 22
     },
     {
-      "voice": "En Japón, existe una creencia cultural de que los gatos calicó traen buena suerte. Son considerados tan auspiciosos que se les llama 'gatos de dinero' o 'gatos de la fortuna'.",
+      "voice": "In Japan, calicos carry deep cultural meaning. They're called mi-ke, meaning three furs. For centuries, sailors took calico cats on ships because they were believed to bring fortune and protect crews from storms. The famous beckoning cat statue, the maneki-neko, is almost always a calico.",
       "visual": "Japanese maneki neko fortune cat",
       "duration": 23
     },
     {
-      "voice": "La investigación de la Universidad de Tokio mostró que en Japón, aproximadamente el 30% de los gatos calicó registrados son mascotas de negocios de fortuna.",
+      "voice": "A study from the University of Tokyo recorded that nearly 30% of registered calicos in Japan live in shops or businesses as fortune mascots. The cultural attachment is so strong that some businesses still won't open without one nearby.",
       "visual": "Japanese shrine luck prosperity",
       "duration": 22
     },
     {
-      "voice": "Curiosamente, el gato calicó más famoso en Internet es Happy, un gato calicó macho XXY que vivía en San Francisco. Su rareza lo hizo popular en redes sociales.",
+      "voice": "Then there's the famous case of George, a male calico in San Francisco who became an internet star. His owner had no idea his cat was genetically extraordinary until a vet visit revealed the XXY chromosomes. Suddenly George was on TV.",
       "visual": "famous internet cat celebrity",
       "duration": 22
     },
     {
-      "voice": "Si tienes un gato calicó hembra, sabes que cada una tiene una personalidad única tanto en color como en temperamento. La inactivación del cromosoma X también podría influir en la expresión de ciertos genes de comportamiento.",
+      "voice": "If you live with a calico female, you've already noticed it — each one has her own personality, not just her own coat. Some researchers believe X-inactivation may also influence behavioral genes, making calicos slightly more independent than other cats. The science isn't settled, but the pattern is suspicious.",
       "visual": "happy calico cat playing",
       "duration": 23
     },
     {
-      "voice": "En conclusión, los gatos calicó son una maravilla de la genética. Su rareza, especialmente en machos, los hace aún más especiales. La próxima vez que veas un gato calicó, recuerda que estás viendo un milagro genético.",
+      "voice": "So when you see a calico cat, you're looking at a tiny genetic miracle. A walking lottery ticket. A cell-by-cell mosaic painted before birth. And if it's a male — congratulations, you've found one of the rarest cats on the planet.",
       "visual": "beautiful calico cat nature",
       "duration": 23
+    },
+    {
+      "voice": "Subscribe to CatBrothers and hit the bell. What's coming next week — the science of how cats always land on their feet, with high-speed footage that explains every microsecond. See you in the next documentary.",
+      "visual": "calico cat looking at camera",
+      "duration": 20
     }
   ],
-  "thumbnail_text": "CALICÓ RARO"
+  "thumbnail_text": "RARE CALICO"
 }
