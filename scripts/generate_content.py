@@ -444,14 +444,15 @@ def _call_nvidia(prompt, temp=0.85):
     return json.loads(txt)
 
 def call_ai(prompt, temp=0.85):
-    providers = [_call_groq, _call_github, _call_nvidia]
+    # NVIDIA primary (translator uses Groq), reduce collision with parallel jobs
+    providers = [_call_nvidia, _call_github, _call_groq]
     for attempt in range(9):
         fn = providers[attempt % 3]
         try:
             return fn(prompt, temp)
         except Exception as e:
             err = str(e)[:120]
-            wait = 30 if "429" in str(e) else 10
+            wait = 60 if "429" in str(e) else 10
             log.warning("Provider %s fail (attempt %d): %s — wait %ds", fn.__name__, attempt+1, err, wait)
             time.sleep(wait)
     raise RuntimeError("All providers failed")
@@ -626,10 +627,10 @@ def main():
                 progress[ch]["produced"] = progress[ch].get("produced", 0) + 1
                 save_progress(progress)
                 produced += 1
-                time.sleep(20)
+                time.sleep(45)
             except Exception as e:
                 log.error("FAIL %s/%s: %s", ch, topic[:40], str(e)[:120])
-                time.sleep(30)
+                time.sleep(60)
 
         log.info("--- %s done: %d new ---", ch, produced)
 
