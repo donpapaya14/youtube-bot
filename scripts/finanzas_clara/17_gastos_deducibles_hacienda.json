@@ -1,81 +1,33 @@
 {
-  "id": 17,
-  "title": "Gastos Deducibles que Hacienda Acepta (y los que Rechaza) — Guía Real",
-  "description": "Descubre qué gastos puedes deducirte como autónomo en España según la Ley IRPF y el reglamento de Hacienda. Casos reales, artículos de ley y ejemplos prácticos para no perder dinero.",
-  "tags": ["gastos deducibles autonomos", "hacienda españa", "irpf autonomos", "deducciones fiscales", "ley irpf", "autónomo gastos", "declaracion renta autonomos"],
-  "thumbnail_text": "Gastos que SÍ deduce",
+  "title": "📊 Schedule C Deductions: Full IRS Approved List 2026",
+  "description": "The complete list of Schedule C deductible business expenses approved by the IRS in 2026, with practical examples. Plus the UK self employed allowable expenses guide.\n\nPersonal finance, Schedule C deductions, freelancer write offs, allowable expenses UK 2026.",
+  "tags": ["schedule C deductions", "business write offs", "IRS publication 535", "ordinary necessary expense", "freelancer deductions", "allowable expenses UK", "self employed expenses", "tax tips", "personal finance"],
   "segments": [
-    {
-      "voice": "Cada año miles de autónomos en España pagan más impuestos de los que deberían. No por fraude, sino por desconocimiento. Hacienda no te va a llamar para decirte qué puedes deducirte. Esa responsabilidad es tuya. En este vídeo vamos a repasar, con artículos de ley en mano, qué gastos acepta Hacienda como deducibles y cuáles rechaza habitualmente en una inspección. Si eres autónomo, esto te puede ahorrar cientos o incluso miles de euros al año.",
-      "visual": "tax documents Spain desk calculator pen"
-    },
-    {
-      "voice": "Primero, el marco legal. El artículo 28 de la Ley 35/2006 del IRPF establece que el rendimiento neto de actividades económicas se calcula restando de los ingresos íntegros los gastos deducibles. Y el artículo 30 especifica que son deducibles los gastos necesarios para la obtención de ingresos. Esa palabra, necesarios, es clave. Hacienda exige que el gasto esté vinculado directamente a tu actividad profesional. No vale con que sea útil en general, tiene que ser necesario para generar tus ingresos.",
-      "visual": "Spanish tax law book open pages legal text"
-    },
-    {
-      "voice": "El gasto número uno más deducido y más auditado: los suministros del hogar cuando trabajas desde casa. El artículo 30.2.5 de la Ley IRPF permite deducirte el 30% de los suministros, pero solo sobre la proporción de la vivienda afecta a la actividad. Si tienes un piso de 80 metros y tu despacho ocupa 16, eso es el 20% del inmueble. Sobre ese 20% puedes aplicar el 30%. Es decir, si pagas 200 euros al mes en luz, agua e internet, la deducción máxima sería 200 por 0,20 por 0,30, igual a 12 euros al mes. Poco, pero es legal y verificable.",
-      "visual": "home office workspace laptop utility bills Spain"
-    },
-    {
-      "voice": "Los gastos de oficina son deducibles al 100% si están justificados. Material de papelería, tóner, software de facturación, suscripciones a herramientas profesionales como Adobe, Google Workspace o plataformas de diseño. Todo esto lo acepta Hacienda siempre que tengas la factura completa a nombre de tu actividad. Las facturas simplificadas, es decir, los tickets, no son suficientes para deducciones superiores a 3.000 euros según el Reglamento de Facturación, RD 1619/2012.",
-      "visual": "office supplies laptop software subscription receipt Spain"
-    },
-    {
-      "voice": "La cuota de autónomos a la Seguridad Social es totalmente deducible. Esto lo recoge expresamente el artículo 30.2.1 de la Ley IRPF. Si pagas la cuota mínima de 230 euros al mes en 2026, eso son 2.760 euros anuales que reducen tu base imponible. Si estás en el tramo del 30% de IRPF, te ahorras 828 euros en impuestos solo por este concepto. No olvides incluirlo siempre.",
-      "visual": "social security payment Spain autonomo online banking"
-    },
-    {
-      "voice": "Los seguros relacionados con la actividad también son deducibles. El seguro de responsabilidad civil profesional, el seguro de enfermedad del autónomo y el de sus familiares a cargo hasta 500 euros por persona, y hasta 1.500 euros si tienen discapacidad, según el artículo 30.2.1.a. El seguro del coche, solo si el vehículo está afecto a la actividad al 100%, algo que veremos después. El seguro del local del negocio, deducible al 100%.",
-      "visual": "insurance policy documents Spain professional coverage"
-    },
-    {
-      "voice": "Gastos de formación. Las matrículas de cursos directamente relacionados con tu actividad, libros técnicos, suscripciones a revistas especializadas, asistencia a congresos o ferias del sector. Todo esto es deducible al 100% según el criterio general del artículo 28 IRPF. Ojo: si haces un máster general de gestión empresarial sin relación directa con tu actividad, Hacienda puede impugnarlo. La vinculación con la actividad tiene que ser clara y justificable.",
-      "visual": "online course laptop training professional development Spain"
-    },
-    {
-      "voice": "Los gastos de marketing y publicidad son plenamente deducibles. Diseño de logo, mantenimiento de web, publicidad en Google Ads o redes sociales, fotografía profesional para tu negocio, tarjetas de visita. Todo entra. Incluso las comisiones a plataformas como Amazon si vendes productos allí. Guarda siempre la factura del proveedor, que esté a nombre de tu actividad autónoma con tu NIF.",
-      "visual": "marketing digital advertising Spain social media business"
-    },
-    {
-      "voice": "Aquí viene uno de los más polémicos: la comida y representación. El artículo 30.2.7 permite deducir gastos de atención a clientes y proveedores, pero con límite: el 1% del importe neto de la cifra de negocios. Si facturas 40.000 euros al año, solo puedes deducir 400 euros en comidas de negocio. Y Hacienda es muy estricta: tiene que haber cliente presente, justificante de que era una reunión profesional, y la factura debe ser completa. Las comidas en solitario no se aceptan.",
-      "visual": "business lunch restaurant invoice Spain professional meeting"
-    },
-    {
-      "voice": "El teléfono móvil. Aquí hay un error muy común. Si usas el mismo número para uso personal y profesional, Hacienda solo acepta una afectación parcial, generalmente el 50%. Para deducirlo al 100% necesitas una línea exclusiva para el negocio. El criterio de la Dirección General de Tributos en numerosas consultas vinculantes establece que la afectación parcial impide la deducción total. Consulta vinculante V0397-21, por ejemplo, confirma este criterio.",
-      "visual": "smartphone business professional Spain dual sim office"
-    },
-    {
-      "voice": "El vehículo es el gran campo de batalla con Hacienda. Para autónomos en estimación directa, el artículo 22 del Reglamento IRPF dice que los vehículos solo son deducibles cuando estén afectos exclusivamente a la actividad. Salvo excepciones tasadas: agentes comerciales, taxistas, transportistas, profesores de autoescuela. Para la mayoría de autónomos, llevar el coche al trabajo y usarlo también los fines de semana impide la deducción. Hacienda lo rechaza sistemáticamente.",
-      "visual": "car vehicle Spain autonomo tax deduction rejected"
-    },
-    {
-      "voice": "¿Y la gasolina? Si no puedes deducir el vehículo, tampoco puedes deducir la gasolina. Van unidos. Muchos autónomos meten la gasolina como gasto y Hacienda lo detecta en inspección. Si tienes vehículo afecto al 100% a la actividad, gasolina, seguro, reparaciones y peajes son deducibles al 100%. Si no, nada. Hay que ser honesto con esto porque es uno de los puntos más revisados en comprobaciones limitadas.",
-      "visual": "gas station fuel receipt Spain car expenses"
-    },
-    {
-      "voice": "Los gastos financieros también son deducibles. Los intereses de préstamos destinados a financiar la actividad, las comisiones bancarias de la cuenta profesional, los gastos de descuento de pagarés. Si tienes una cuenta bancaria separada para el negocio, como recomienda siempre la Agencia Tributaria, todos esos gastos son deducibles con total claridad. Mezclar cuentas personales y profesionales complica la justificación.",
-      "visual": "bank account business Spain professional financial documents"
-    },
-    {
-      "voice": "Las amortizaciones son gastos deducibles que muchos autónomos olvidan calcular. Cuando compras un ordenador, una impresora, una cámara o cualquier bien que dure más de un año, no lo deduces de golpe, sino de forma progresiva. Las tablas de amortización del RD 1777/2004 marcan los coeficientes. Un ordenador se amortiza al 25% anual, es decir, en 4 años. Si compraste uno de 1.200 euros, puedes deducir 300 euros al año durante 4 años.",
-      "visual": "laptop computer amortization Spain tax depreciation"
-    },
-    {
-      "voice": "Gastos que Hacienda rechaza con frecuencia. Primero: gastos sin factura completa. Un ticket no es suficiente para la mayoría de deducciones. Segundo: gastos mixtos sin justificación de la parte profesional. Tercero: comidas y viajes sin acreditar el motivo de negocio. Cuarto: ropa de trabajo si no es un uniforme específico del sector, como ropa de protección o uniformes con logo corporativo. La ropa convencional, aunque la uses en el trabajo, no es deducible según doctrina tributaria consolidada.",
-      "visual": "rejected tax deduction Spain invoice error Hacienda"
-    },
-    {
-      "voice": "Truco práctico: separa siempre tus gastos en profesionales y personales. Usa una cuenta bancaria para el negocio y otra para lo personal. Guarda todas las facturas, no tickets, en formato digital al menos durante 4 años, que es el plazo de prescripción tributaria según el artículo 66 de la Ley General Tributaria. Si Hacienda te inspecciona y no tienes justificante, el gasto no cuenta.",
-      "visual": "organized documents folders Spain tax records digital archive"
-    },
-    {
-      "voice": "¿Cómo saber si un gasto es deducible cuando tienes dudas? La Agencia Tributaria tiene un servicio de consultas vinculantes. Puedes plantear tu caso y recibir una respuesta oficial que te protege ante una inspección. La consulta es gratuita y la puedes hacer desde la sede electrónica de la AEAT. También puedes consultar la base de datos de consultas vinculantes en hacienda.gob.es, donde hay miles de casos resueltos.",
-      "visual": "AEAT website Spain tax consultation digital government portal"
-    },
-    {
-      "voice": "Resumen final. Gastos deducibles claros: cuota de autónomos, suministros con límite, material de oficina, software, formación profesional, seguros, marketing, intereses de préstamos profesionales y amortizaciones. Gastos con restricciones: vehículo, comidas de representación, teléfono mixto. Gastos que Hacienda rechaza: ropa normal, comidas sin cliente, gastos sin factura. Lleva una contabilidad ordenada, guarda facturas y, si tienes dudas, consulta con un asesor fiscal o usa las consultas vinculantes de la AEAT.",
-      "visual": "checklist Spain tax deductions autonomo summary financial planning"
-    }
-  ]
+    {"voice": "Schedule C is where US freelancers report business income and expenses. The IRS published the complete list of deductible business expense categories in Publication 535 and the Schedule C instructions. Knowing what is on that list, and what is not, is the difference between paying full freight and paying the right amount. Today, the full breakdown.", "visual": "Schedule C form list deductions", "duration": 25},
+    {"voice": "The fundamental test, ordinary and necessary. Per IRC section 162 and IRS Publication 535, every deductible expense must be both ordinary, common in your trade, and necessary, helpful and appropriate for your business. Lavish or extravagant expenses can be challenged. The standard is the same for a software developer in Seattle and a farmer in Kansas, just applied differently.", "visual": "ordinary necessary test diagram", "duration": 27},
+    {"voice": "Line eight, advertising. All advertising expenses are fully deductible. Google Ads, Facebook Ads, Yelp ads, sponsored content, business cards, billboards, branded merchandise, conference booth rentals, all qualify. The IRS does not cap advertising expenses but they must be genuinely promotional, not personal entertainment in disguise.", "visual": "advertising channels Google Facebook ads", "duration": 27},
+    {"voice": "Line nine, car and truck expenses. Either the standard mileage rate at sixty-seven cents per business mile for two thousand twenty-six, or actual expenses with depreciation. Tolls and parking are separate. Personal use must be allocated out. We covered this in detail in the vehicle deduction video.", "visual": "vehicle deduction line 9", "duration": 26},
+    {"voice": "Line ten, commissions and fees. Payments to other contractors, sales commissions, finder's fees, referral fees, all deductible here. If you pay any single contractor over six hundred dollars in a year, you must issue Form 1099-NEC by January thirty-first per IRC section 6041A. Failing to issue 1099s can result in penalty under IRC section 6721.", "visual": "commission fee 1099-NEC requirement", "duration": 27},
+    {"voice": "Line eleven, contract labor. Same idea as line ten but specifically for direct labor on services rather than commissions. The 1099-NEC threshold and rules apply identically. Many freelancers split this into commissions versus contract labor depending on the nature of the relationship, but they end up in the same Schedule C line in any case.", "visual": "contract labor 1099-NEC threshold", "duration": 27},
+    {"voice": "Line twelve, depletion. Specific to natural resource industries like oil, gas, mining, and timber. Most freelancers and service businesses skip this line entirely. If you do operate in a depletable industry, IRS Publication 535 chapter nine has the detailed rules.", "visual": "depletion natural resources industry", "duration": 26},
+    {"voice": "Line thirteen, depreciation. Equipment, furniture, vehicles, computers, and other long-lived assets are deducted over their useful life via MACRS depreciation per IRS Publication 946. Section 179 lets you immediately expense most equipment up to one million two hundred thousand for two thousand twenty-six. Bonus depreciation is sixty percent for assets placed in service in two thousand twenty-six.", "visual": "depreciation Section 179 bonus", "duration": 27},
+    {"voice": "Line fourteen, employee benefits. If you have employees other than yourself, you can deduct premiums for health, dental, and vision insurance, life insurance, retirement plan contributions for employees, employee assistance programs, and education assistance under IRC section 127. The deduction does not cover benefits paid to yourself as a sole proprietor.", "visual": "employee benefits health insurance", "duration": 27},
+    {"voice": "Line fifteen, insurance other than health. Liability insurance, errors and omissions, cyber liability, business property insurance, and business interruption insurance are all deductible here. Workers compensation insurance for employees also goes here. Do not put your personal auto insurance, homeowners, or life insurance here, those have separate rules.", "visual": "business insurance liability E&O", "duration": 27},
+    {"voice": "Line sixteen, interest on business loans. Mortgage interest on business property goes on line sixteen-a. Other business interest goes on line sixteen-b. Personal interest is generally not deductible per the Tax Cuts and Jobs Act, with limited exceptions for mortgage and investment interest tracked separately on Schedule A.", "visual": "business loan interest deduction", "duration": 27},
+    {"voice": "Line seventeen, legal and professional services. CPA fees, attorney fees for business matters, business consultant fees, bookkeeping services, all deductible. The fee for the CPA who prepared your tax return covering Schedule C is deductible. The portion for personal tax matters is not. Most CPAs split the bill between business and personal portions on the invoice.", "visual": "CPA attorney professional fees deductible", "duration": 27},
+    {"voice": "Line eighteen, office expense. Office supplies, postage, printing, software subscriptions used for business administration. Pens, paper, ink cartridges, copy paper, file folders, the everyday materials that keep an office running. Software like QuickBooks, Notion, Slack, Zoom, all qualify here for service freelancers.", "visual": "office supplies software Notion Slack", "duration": 27},
+    {"voice": "Line nineteen, pension and profit-sharing plans. If you have employees and offer a 401(k), SEP-IRA, or SIMPLE-IRA, the employer contributions to their accounts go here. Your own contributions as the owner go on Schedule 1, not Schedule C. Many freelancers get this wrong and either double-deduct or miss the deduction entirely.", "visual": "pension profit sharing employees", "duration": 27},
+    {"voice": "Line twenty, rent or lease. Rent on a separate office space, equipment leases, vehicle leases for business vehicles, all go here. The home office deduction has its own line, line thirty, not line twenty. If you sublease office space or share a coworking arrangement, that rent is deductible on line twenty.", "visual": "rent office coworking lease", "duration": 27},
+    {"voice": "Line twenty-one, repairs and maintenance. Routine maintenance and repairs that keep equipment functioning are deductible. Improvements that extend useful life or add capacity must be capitalized and depreciated, per IRC section 263 and the tangible property regulations. The line between repair and improvement is one of the most audited issues in small business taxes.", "visual": "repairs maintenance vs improvement", "duration": 27},
+    {"voice": "Line twenty-two, supplies. Materials consumed in the course of doing business. A graphic designer's printing supplies, a baker's flour and sugar, a dentist's gloves and disposable supplies. Different from equipment because supplies are consumable, used up in the normal course of business, while equipment lasts and gets depreciated.", "visual": "supplies consumable inventory", "duration": 27},
+    {"voice": "Line twenty-three, taxes and licenses. State and local business taxes, business license fees, professional license renewals, sales tax paid on business property purchases. Federal income tax and self-employment tax are not deductible. State and local income taxes go on Schedule A as itemized deductions, not Schedule C.", "visual": "business license fees taxes", "duration": 27},
+    {"voice": "Line twenty-four, travel and meals. Travel expenses for business trips are fully deductible, transportation, lodging, fifty percent of meals, tips, internet, dry cleaning while away. Meals are limited to fifty percent under IRC section 274(n). You must be away from your tax home overnight for travel rules to apply.", "visual": "business travel hotel meals", "duration": 27},
+    {"voice": "Line twenty-five, utilities. Electricity, gas, water, internet, phone for business locations. The home office deduction handles utility allocation for the home office portion separately on line thirty. Direct utilities for a separate office or commercial space go on line twenty-five.", "visual": "utilities electricity internet office", "duration": 27},
+    {"voice": "Line twenty-six, wages. Wages paid to actual employees go here. Owner draws and distributions do not. If you operate as an S corporation, your own W-2 salary from the corporation is wages on line twenty-six. Sole proprietors do not pay themselves wages, they take draws which are not deductible.", "visual": "wages employees W-2 line 26", "duration": 27},
+    {"voice": "Line twenty-seven-a, other expenses. The catch-all category. List specific items separately on line forty-eight on the Schedule C continuation. Common entries include subscriptions to industry publications, professional dues, education and training, bank fees, merchant processing fees, marketing platforms not classified as advertising. The IRS audits this line carefully because it tends to attract questionable items.", "visual": "other expenses catchall line 27", "duration": 27},
+    {"voice": "Line thirty, home office expense. The home office deduction has its own dedicated line per IRC section 280A. The simplified method is five dollars per square foot up to fifteen hundred dollars. The actual expense method requires Form 8829 with detailed allocations of utilities, insurance, depreciation, repairs.", "visual": "home office form 8829 simplified", "duration": 27},
+    {"voice": "What is not deductible under any line. Personal expenses, fines and penalties for breaking the law, lobbying expenses with limited exceptions, club dues for entertainment clubs, political contributions, life insurance premiums on business owners except in specific entity arrangements. The IRS lists each of these explicitly in Publication 535 chapter eleven.", "visual": "non-deductible expenses warning list", "duration": 27},
+    {"voice": "Subscribe to FinanzasClara and hit the bell. What's coming next week, the exact line by line audit defense file a freelance copywriter built that won her audit covering twenty-three thousand in deductions, including the order in which she presented the documentation. Drop a comment with the deduction line that confuses you most and I will explain it.", "visual": "subscribe button notification bell youtube", "duration": 26}
+  ],
+  "thumbnail_text": "ALL DEDUCTIONS"
 }
