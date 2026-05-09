@@ -1,83 +1,83 @@
 {
   "id": 47,
-  "title": "Metformin: The Anti-Aging Pill Closest to Reality?",
-  "description": "Metformin has been used for 60 years in type 2 diabetes. Now studies suggest it could extend life. We analyze the TAME trial, AMPK, autophagy, and real risks.",
+  "title": "Metformina: ¿La Pastilla Antienvejecimiento Más Cerca de la Realidad?",
+  "description": "La metformina lleva 60 años usándose en diabetes tipo 2. Ahora los estudios sugieren que podría alargar la vida. Analizamos el ensayo TAME, AMPK, autofagia y los riesgos reales.",
   "tags": [
-    "metformin",
-    "anti-aging",
-    "longevity",
+    "metformina",
+    "antienvejecimiento",
+    "longevidad",
     "diabetes",
-    "TAME trial",
+    "ensayo TAME",
     "AMPK",
-    "autophagy",
-    "aging",
-    "geroscience",
-    "pharmacology"
+    "autofagia",
+    "envejecimiento",
+    "gerociencia",
+    "farmacologia"
   ],
-  "thumbnail_text": "METFORMIN LONGEVITY PILL",
+  "thumbnail_text": "METFORMINA PASTILLA LONGEVIDAD",
   "segments": [
     {
-      "voice": "Metformin has been on the market for over 60 years as a first-line treatment for type 2 diabetes. It is one of the most prescribed drugs in the world, with over 150 million users. But in recent years, something unexpected has caught the attention of aging scientists: diabetics who take metformin live longer than non-diabetics who do not take it. This has sparked a revolutionary hypothesis.",
+      "voice": "La metformina lleva más de 60 años en el mercado como tratamiento de primera línea para la diabetes tipo 2. Es uno de los fármacos más recetados del mundo, con más de 150 millones de usuarios. Pero en los últimos años algo inesperado ha llamado la atención de los científicos del envejecimiento: los diabéticos que toman metformina viven más que los no diabéticos que no la toman. Esto ha disparado una hipótesis revolucionaria.",
       "visual": "metformin pills diabetes type 2 longevity anti-aging research",
       "duration": 25
     },
     {
-      "voice": "The study that sparked the flame was published in Diabetologia in 2014 by Bannister and colleagues from the UK. They analyzed the records of 78,241 patients with type 2 diabetes treated with metformin and compared them with 12,222 diabetic patients treated with sulfonylureas and also with 225,000 non-diabetic individuals from the same registry. Diabetics with metformin had significantly higher survival rates than diabetics with sulfonylureas and, surprisingly, also than non-diabetics.",
+      "voice": "El estudio que prendió la mecha lo publicaron Bannister y colaboradores del Reino Unido en Diabetologia en 2014. Analizaron los registros de 78.241 pacientes con diabetes tipo 2 tratados con metformina y los compararon con 12.222 diabéticos tratados con sulfonilureas y también con 225.000 individuos no diabéticos del mismo registro. Los diabéticos con metformina tenían tasas de supervivencia significativamente mayores que los diabéticos con sulfonilureas y, sorpresa, también que los no diabéticos.",
       "visual": "metformin diabetes survival study UK diabetics non-diabetics comparison",
       "duration": 25
     },
     {
-      "voice": "How can a drug for diabetics make the sick live longer than the healthy? The hypothesis is that metformin activates molecular pathways of aging that are beneficial regardless of diabetes. The main known mechanism is the activation of AMPK, the adenosine monophosphate kinase, the cellular energy sensor that is activated when ATP is scarce and regulates metabolism, inflammation, and autophagy.",
+      "voice": "¿Cómo puede un fármaco para diabéticos hacer que los enfermos vivan más que los sanos? La hipótesis es que la metformina activa rutas moleculares del envejecimiento beneficiosas independientemente de la diabetes. El mecanismo principal conocido es la activación de la AMPK, la quinasa de adenosín monofosfato, el sensor energético celular que se activa cuando escasea el ATP y regula metabolismo, inflamación y autofagia.",
       "visual": "AMPK energy sensor metformin cellular aging longevity pathway",
       "duration": 25
     },
     {
-      "voice": "AMPK activates autophagy, the cellular recycling process of damaged proteins and obsolete organelles. Autophagy decreases with age and its deterioration is related to Alzheimer's, Parkinson's, and cancer. Metformin also inhibits complex I of the mitochondrial respiratory chain, reducing mitochondrial oxidative stress. And it activates the sirtuin SIRT1, the same longevity gene activated by caloric restriction.",
+      "voice": "La AMPK activa la autofagia, el proceso de reciclaje celular de proteínas dañadas y orgánulos obsoletos. La autofagia disminuye con la edad y su deterioro está relacionado con el Alzheimer, el Párkinson y el cáncer. La metformina también inhibe el complejo I de la cadena respiratoria mitocondrial, reduciendo el estrés oxidativo mitocondrial. Y activa la sirtuina SIRT1, el mismo gen de longevidad que se activa con la restricción calórica.",
       "visual": "autophagy cellular cleaning protein aggregates metformin aging cancer",
       "duration": 25
     },
     {
-      "voice": "Studies in animal models are consistent. In C. elegans nematodes, metformin extends life by 36 percent. In mice, a study by the NIA published in Nature Communications in 2013 showed a 5 percent increase in median lifespan of male mice when metformin was administered from middle age. In genetically modified mice with accelerated aging, the effects were more pronounced.",
+      "voice": "Los estudios en modelos animales son consistentes. En nematodos C. elegans, la metformina alarga la vida un 36 por ciento. En ratones, un estudio del NIA publicado en Nature Communications en 2013 demostró un aumento del 5 por ciento en la esperanza de vida media de ratones macho cuando se les administró metformina desde la edad media. En ratones modificados genéticamente con envejecimiento acelerado, los efectos fueron más marcados.",
       "visual": "metformin mice longevity NIA study lifespan extension worms",
       "duration": 25
     },
     {
-      "voice": "The TAME trial, Targeting Aging with Metformin, is the first clinical trial in history to use lifespan extension as the primary endpoint. It is recruiting 3,000 adults between 65 and 79 years old without diabetes in 14 centers in the United States. They will be administered metformin or a placebo for 6 years, and the combined incidence of diabetes, cardiovascular disease, cognitive decline, cancer, and mortality will be measured. The first data is expected between 2026 and 2027.",
+      "voice": "El ensayo TAME, Targeting Aging with Metformin, es el primer ensayo clínico de la historia que usa la extensión de la esperanza de vida como endpoint primario. Está reclutando a 3.000 adultos de entre 65 y 79 años sin diabetes en 14 centros de Estados Unidos. Se les administrará metformina o placebo durante 6 años, y se medirá la incidencia combinada de diabetes, enfermedad cardiovascular, deterioro cognitivo, cáncer y mortalidad. Los primeros datos se esperan entre 2026 y 2027.",
       "visual": "TAME trial clinical study aging metformin elderly United States",
       "duration": 25
     },
     {
-      "voice": "Epidemiological data in humans are promising but not definitive. A 2022 meta-analysis in Ageing Research Reviews with 45 observational studies found that metformin users had a 7 to 15 percent lower risk of various types of cancer, especially colorectal, liver, and endometrial cancer, and a 20 percent lower risk of dementia compared to untreated diabetics.",
+      "voice": "Los datos epidemiológicos en humanos son prometedores pero no definitivos. Un metaanálisis de 2022 en Ageing Research Reviews con 45 estudios observacionales encontró que los usuarios de metformina tenían un riesgo entre un 7 y un 15 por ciento menor de varios tipos de cáncer, sobre todo colorrectal, hepático y endometrial, y un 20 por ciento menor de demencia comparados con diabéticos no tratados.",
       "visual": "metformin cancer prevention dementia risk reduction observational studies",
       "duration": 25
     },
     {
-      "voice": "For Alzheimer's specifically, the data is intriguing. A 2021 study in JAMA Network Open with 1,588 older adults with prediabetes found that metformin users had a 48 percent lower incidence of Alzheimer's at 5 years. Researchers propose that the reduction in cerebral insulin resistance and the activation of AMPK explain this effect. Specific clinical trials in Alzheimer's are ongoing.",
+      "voice": "Para el Alzheimer en concreto, los datos son sugerentes. Un estudio de 2021 en JAMA Network Open con 1.588 adultos mayores con prediabetes encontró que los usuarios de metformina tenían un 48 por ciento menos de incidencia de Alzheimer a 5 años. Los investigadores proponen que la reducción de la resistencia a la insulina cerebral y la activación de la AMPK explican este efecto. Hay ensayos clínicos específicos en Alzheimer en marcha.",
       "visual": "Alzheimer metformin prevention diabetes brain insulin resistance",
       "duration": 25
     },
     {
-      "voice": "Not all is good news. Metformin can reduce the benefits of exercise on muscle metabolism. A 2019 study in Aging Cell with 53 older adults showed that adding metformin to a 12-week muscle resistance exercise program reduced gains in muscle mass and improvements in insulin sensitivity compared to exercise alone. The proposed mechanism is that metformin blocks the mitochondrial signal of exercise adaptation.",
+      "voice": "No todo son buenas noticias. La metformina puede reducir los beneficios del ejercicio sobre el metabolismo muscular. Un estudio de 2019 en Aging Cell con 53 adultos mayores demostró que añadir metformina a un programa de 12 semanas de ejercicio de resistencia muscular reducía las ganancias de masa muscular y las mejoras en sensibilidad a la insulina comparado con el ejercicio solo. El mecanismo propuesto es que la metformina bloquea la señal mitocondrial de adaptación al ejercicio.",
       "visual": "metformin exercise muscle adaptation blocking mitochondria resistance",
       "duration": 25
     },
     {
-      "voice": "Metformin also reduces vitamin B12 absorption. Long-term use is associated with B12 deficiency in between 10 and 30 percent of long-term users, according to a 2019 meta-analysis in Medicine. B12 deficiency can cause anemia, peripheral nerve damage, and cognitive decline, confusing or worsening the conditions that metformin aims to prevent. B12 supplementation is recommended for long-term metformin users.",
+      "voice": "La metformina también reduce la absorción de vitamina B12. El uso a largo plazo se asocia a déficit de B12 entre el 10 y el 30 por ciento de los usuarios crónicos, según un metaanálisis de 2019 en Medicine. El déficit de B12 puede causar anemia, daño nervioso periférico y deterioro cognitivo, confundiendo o empeorando las enfermedades que la metformina pretende prevenir. En usuarios crónicos se recomienda suplementar con B12.",
       "visual": "metformin vitamin B12 deficiency neuropathy cognitive anemia supplementation",
       "duration": 25
     },
     {
-      "voice": "Is it legal and ethical to take metformin without diabetes in Spain? Metformin is a prescription drug. Taking it without a medical prescription is illegal. There are longevity clinics in the United States, Mexico, and Portugal that prescribe it off-label for anti-aging, but in Spain, the current regulatory framework does not allow it without a diagnosis of prediabetes or metabolic syndrome that clinically justifies it.",
+      "voice": "¿Es legal y ético tomar metformina sin diabetes en España? La metformina es un fármaco con receta. Tomarla sin prescripción médica es ilegal. Existen clínicas de longevidad en Estados Unidos, México y Portugal que la prescriben off-label para antiedad, pero en España el marco regulatorio actual no lo permite sin un diagnóstico de prediabetes o síndrome metabólico que lo justifique clínicamente.",
       "visual": "metformin prescription Spain legal off-label longevity clinic regulatory",
       "duration": 25
     },
     {
-      "voice": "Common side effects include nausea, diarrhea, and gastrointestinal discomfort, especially at the beginning. Lactic acidosis, a severe side effect, is rare but exists in people with severe kidney failure, which is why it is contraindicated in that group. Extended-release forms have a better gastrointestinal tolerability profile.",
+      "voice": "Los efectos secundarios habituales incluyen náuseas, diarrea y molestias gastrointestinales, sobre todo al principio. La acidosis láctica, un efecto adverso grave, es rara pero existe en personas con insuficiencia renal severa, por eso está contraindicada en ese grupo. Las formas de liberación prolongada tienen mejor perfil de tolerancia gastrointestinal.",
       "visual": "metformin side effects nausea lactic acidosis kidney contraindication",
       "duration": 25
     },
     {
-      "voice": "Metformin is the pharmacological candidate for anti-aging with the most accumulated evidence and the most established safety profile. The TAME trial could be historic: if it demonstrates that a drug can extend health as a preventive intervention in healthy adults, it would fundamentally change the paradigm of preventive medicine. Until then, the data justify cautious hope, but not self-medication.",
+      "voice": "La metformina es el candidato farmacológico antiedad con más evidencia acumulada y el perfil de seguridad mejor establecido. El ensayo TAME podría ser histórico: si demuestra que un fármaco puede alargar la salud como intervención preventiva en adultos sanos, cambiaría de raíz el paradigma de la medicina preventiva. Hasta entonces, los datos justifican una esperanza prudente, pero no la automedicación. Suscríbete a SaludLongevidad y dale a la campana. Lo que viene la próxima semana...",
       "visual": "aging biology geroscience future metformin evidence hope research",
       "duration": 25
     }
