@@ -625,6 +625,15 @@ def _load_prewritten_script(channel: dict) -> dict | None:
     # Recorrer scripts disponibles, saltar los que ya están en YouTube
     all_scripts = sorted(f for f in os.listdir(scripts_dir) if f.endswith(".json"))
 
+    expected_lang = channel.get("language", "es")
+    es_func = {"que","los","las","del","con","para","una","este","como","porque","pero","más","están","años","muy","cuando","ese","esta","tu"}
+
+    def _detect_lang(text: str) -> str:
+        import re
+        words = re.findall(r"\b\w+\b", text.lower())[:200]
+        es_hits = sum(1 for w in words if w in es_func)
+        return "es" if es_hits >= 4 else "en"
+
     for script_file in all_scripts:
         path = os.path.join(scripts_dir, script_file)
         with open(path) as f:
@@ -633,6 +642,13 @@ def _load_prewritten_script(channel: dict) -> dict | None:
         title = script.get("title", "").lower().strip()
         if title in recent_lower:
             log.info("Script %s ya subido ('%s'), saltando", script_file, script.get("title", "?"))
+            continue
+
+        # Filtro idioma: skip scripts en idioma incorrecto
+        first_voice = " ".join(s.get("voice","")[:300] for s in script.get("segments", [])[:2])
+        actual_lang = _detect_lang(first_voice)
+        if actual_lang != expected_lang:
+            log.warning("Script %s en %s (esperado %s), saltando", script_file, actual_lang, expected_lang)
             continue
 
         log.info("Guión pre-escrito cargado: %s (%d segmentos)", script_file, len(script.get("segments", [])))
