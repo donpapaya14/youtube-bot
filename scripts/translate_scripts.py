@@ -70,18 +70,18 @@ def _call_nvidia(prompt):
     return _parse_json(r.choices[0].message.content)
 
 def call_ai(prompt):
-    providers = [_call_groq, _call_github]
-    for attempt in range(6):  # 6 total attempts cycling providers
+    providers = [_call_groq, _call_nvidia, _call_github]
+    for attempt in range(9):
         fn = providers[attempt % len(providers)]
         try:
             result = fn(prompt)
             return result
         except Exception as e:
             err = str(e)
-            wait = 30 if "429" in err else 10
-            log.warning("Provider failed (attempt %d): %s — waiting %ds", attempt+1, err[:80], wait)
+            wait = 60 if "429" in err else 10
+            log.warning("Provider %s failed (attempt %d): %s — waiting %ds", fn.__name__, attempt+1, err[:80], wait)
             time.sleep(wait)
-    raise RuntimeError("All providers failed after 6 attempts")
+    raise RuntimeError("All providers failed after 9 attempts")
 
 
 # ── Translation prompts ──────────────────────────────────────────────────────

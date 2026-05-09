@@ -584,7 +584,7 @@ def generate_one(channel_key, topic):
             data = call_ai(prompt, temp=0.85 + 0.05*attempt)
             segs = data.get("segments", [])
             words = sum(len(s.get("voice","").split()) for s in segs)
-            if len(segs) >= 20 and words >= 1500:
+            if len(segs) >= 20 and words >= 1300:
                 return data
             log.warning("Short script attempt %d: %d segs %d words", attempt+1, len(segs), words)
         except Exception as e:
