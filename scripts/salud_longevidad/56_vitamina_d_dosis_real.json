@@ -1,0 +1,145 @@
+{
+  "id": 56,
+  "title": "💪 Vitamina D: Cuánta Tomar Realmente Según la Ciencia",
+  "description": "El 70% de los españoles tiene déficit de vitamina D. Pero suplementar a ciegas no es la solución. Niveles ideales, dosis, cofactores y los errores más comunes.\n\n#vitaminaD #salud #longevidad #suplementos",
+  "tags": [
+    "vitamina D",
+    "déficit",
+    "suplementos",
+    "salud",
+    "longevidad",
+    "huesos",
+    "inmunidad",
+    "calcio",
+    "K2",
+    "sol"
+  ],
+  "thumbnail_text": "VITAMINA D ¿CUÁNTA?",
+  "segments": [
+    {
+      "voice": "El 70 por ciento de los españoles tiene déficit de vitamina D según el estudio Di@bet.es publicado en The Lancet Diabetes and Endocrinology. Pero la respuesta no es suplementar a ciegas con la primera caja que veas en la farmacia. La vitamina D requiere medición, dosificación correcta y cofactores que casi nadie menciona. Hoy te cuento cómo hacerlo bien.",
+      "visual": "vitamin D supplement deficiency Spain study sunlight",
+      "duration": 25
+    },
+    {
+      "voice": "Empecemos por aclarar conceptos. La vitamina D no es realmente una vitamina, es una hormona esteroidea. Tu cuerpo la sintetiza cuando los rayos UVB del sol impactan tu piel. Las principales formas son D3, colecalciferol, la que produces tú; y D2, ergocalciferol, de origen vegetal. La D3 es entre 2 y 3 veces más potente que la D2 según un metaanálisis de 2012 en el American Journal of Clinical Nutrition.",
+      "visual": "vitamin D3 cholecalciferol skin synthesis UVB sunlight",
+      "duration": 25
+    },
+    {
+      "voice": "Los niveles se miden con la 25-hidroxi-vitamina D en sangre. La cifra clave: nanogramos por mililitro. Por debajo de 20 es déficit, entre 20 y 30 insuficiencia, entre 30 y 50 normal, entre 50 y 80 óptimo según muchos endocrinos, y por encima de 100 toxicidad potencial. La mayoría de españoles está entre 15 y 25, claramente subóptimo.",
+      "visual": "vitamin D blood test 25 hydroxy levels reference ranges",
+      "duration": 25
+    },
+    {
+      "voice": "Por qué importa: la vitamina D regula más de 1.000 genes según un estudio de la Universidad de Oxford. Sus efectos van mucho más allá de los huesos. Modula el sistema inmune, controla la inflamación, influye en hormonas tiroideas, sexuales y del estrés. Es una hormona maestra del cuerpo, no solo un nutriente óseo.",
+      "visual": "vitamin D gene regulation hormones immune system metabolism",
+      "duration": 25
+    },
+    {
+      "voice": "Aquí está el truco: la suplementación funciona mejor que la exposición solar para la mayoría de españoles. Razones: la latitud de España no permite síntesis efectiva entre octubre y abril; el factor de protección solar 30 reduce la síntesis un 95 por ciento; el envejecimiento cutáneo reduce la capacidad de síntesis hasta un 75 por ciento a partir de los 60 años. La realidad es que necesitamos suplementar.",
+      "visual": "Spanish latitude winter sunlight insufficient vitamin D synthesis",
+      "duration": 25
+    },
+    {
+      "voice": "Las dosis recomendadas oficiales en España son 600 unidades internacionales para adultos, 800 para mayores de 70. Pero estos valores son obsoletos. Un metaanálisis de 2020 en el British Journal of Nutrition con más de 60 estudios concluyó que se necesitan entre 1.500 y 2.500 unidades diarias para llevar al 95 por ciento de adultos sanos a niveles superiores a 30 nanogramos.",
+      "visual": "vitamin D dosing recommendations evidence based 1500 2500",
+      "duration": 25
+    },
+    {
+      "voice": "Si tu nivel está claramente bajo, por debajo de 15, dosis de carga son razonables. El protocolo Endocrine Society recomienda 50.000 UI semanales durante 8 semanas, seguidas de mantenimiento. Pero esto debe hacerse con análisis previos y de control. La automedicación con dosis altas sin medir niveles es un error serio.",
+      "visual": "vitamin D loading dose protocol Endocrine Society monitoring",
+      "duration": 25
+    },
+    {
+      "voice": "El cofactor olvidado: la vitamina K2. Sin ella, el calcio movilizado por la vitamina D puede acabar en arterias en lugar de en huesos. Un estudio del estudio Rotterdam con 4.807 participantes seguidos 10 años encontró que la ingesta alta de K2 reducía la mortalidad cardiovascular un 50 por ciento y la calcificación arterial un 52 por ciento. Suplementar D sin K2 puede ser contraproducente.",
+      "visual": "vitamin K2 calcification arteries cardiovascular cofactor",
+      "duration": 25
+    },
+    {
+      "voice": "La forma de K2 más estudiada es la MK-7, derivada del natto japonés. Las dosis efectivas son entre 100 y 200 microgramos al día. Si tomas suplementos de vitamina D por encima de 2.000 UI a diario, añadir K2 es razonable. La combinación D3+K2 ya viene preparada en muchas marcas. Buscar al menos 100 microgramos de MK-7.",
+      "visual": "vitamin K2 MK7 menaquinone natto Japanese fermented",
+      "duration": 25
+    },
+    {
+      "voice": "Otros cofactores importantes: magnesio. Sin magnesio, las enzimas que convierten la D inactiva en su forma activa no funcionan. Un estudio de 2018 en el Journal of the American Osteopathic Association encontró que el déficit de magnesio reduce la eficacia de la suplementación con vitamina D entre un 30 y un 40 por ciento. La mayoría de españoles tiene déficit subclínico de magnesio.",
+      "visual": "magnesium cofactor vitamin D activation enzymes deficiency",
+      "duration": 25
+    },
+    {
+      "voice": "El boro es otro nutriente que potencia la vitamina D. Un estudio del Departamento de Agricultura de Estados Unidos demostró que 3 mg de boro al día aumentaron los niveles plasmáticos de vitamina D activa hasta un 20 por ciento en mujeres deficientes. El boro está en aguacates, ciruelas pasas, almendras y judías. Difícil cubrir con suplementos sueltos, mejor con dieta.",
+      "visual": "boron mineral vitamin D potentiation foods avocado",
+      "duration": 25
+    },
+    {
+      "voice": "Para la inmunidad, los datos son sólidos. Un metaanálisis de 2017 en The BMJ con 25 ensayos y 11.321 participantes encontró que la suplementación de vitamina D redujo el riesgo de infecciones respiratorias agudas un 12 por ciento. En quienes partían de déficit grave, la reducción llegaba al 70 por ciento. Especialmente útil en otoño-invierno.",
+      "visual": "vitamin D respiratory infections immunity meta analysis BMJ",
+      "duration": 25
+    },
+    {
+      "voice": "Para depresión, la evidencia es más mixta. Un metaanálisis de 2020 en Depression and Anxiety con 41 estudios encontró que la suplementación con vitamina D mejora síntomas depresivos en personas con déficit, pero no en quienes tienen niveles normales. El efecto es modesto pero real. No reemplaza terapia ni medicación, complementa.",
+      "visual": "vitamin D depression mood mental health supplementation",
+      "duration": 25
+    },
+    {
+      "voice": "Para los huesos, la combinación con calcio es importante pero no siempre necesaria. La sociedad española de endocrinología recomienda primero asegurar 1.000 a 1.200 mg de calcio dietético al día. Si la dieta es rica en lácteos, vegetales verdes y pescados pequeños, el suplemento de calcio es innecesario. Sobreusar calcio sin K2 puede ser perjudicial.",
+      "visual": "calcium dietary intake bones vitamin D K2 balance",
+      "duration": 25
+    },
+    {
+      "voice": "Sobre toxicidad: existe pero requiere mucho. La intoxicación seria por vitamina D suele necesitar dosis crónicas por encima de 10.000 UI diarias durante meses. Los síntomas son hipercalcemia, náuseas, debilidad. Casos documentados en Annals of Internal Medicine en 2017 mostraron que los niveles tóxicos están por encima de 150 nanogramos. Con dosis razonables y monitorización es muy raro.",
+      "visual": "vitamin D toxicity hypercalcemia high dose chronic monitoring",
+      "duration": 25
+    },
+    {
+      "voice": "Sobre las pruebas para medirla: el análisis de sangre cuesta entre 15 y 30 euros en clínicas privadas. En la sanidad pública española suele tener cobertura solo si hay sospecha clínica de déficit u osteoporosis. Si tienes acceso a tu médico de familia y manifestas síntomas, suele entrar en el panel anual. La medición es fundamental antes de empezar a suplementar.",
+      "visual": "vitamin D blood test cost public private healthcare Spain",
+      "duration": 25
+    },
+    {
+      "voice": "Para la exposición solar racional: 15 a 20 minutos al día con cara, brazos y piernas descubiertos entre las 10 y las 15 horas, sin protector solar, entre mayo y septiembre. Después aplicas protector. Suficiente para sintetizar entre 5.000 y 10.000 UI según la pigmentación. Las pieles oscuras necesitan 3 a 6 veces más exposición que las claras.",
+      "visual": "sun exposure 15 minutes face arms vitamin D synthesis",
+      "duration": 25
+    },
+    {
+      "voice": "Las fuentes alimentarias son limitadas. El salmón salvaje aporta unos 988 UI por 100 gramos, las sardinas 480, la yema de huevo 40, el hígado de bacalao 1.300 por cucharada sopera. La leche enriquecida tiene unos 100 UI por vaso. Cubrir 2.000 UI solo con dieta es muy difícil sin pescados azules a diario o aceite de hígado de bacalao.",
+      "visual": "fish salmon sardines egg yolk vitamin D food sources",
+      "duration": 25
+    },
+    {
+      "voice": "Los grupos en mayor riesgo: mayores de 60 años, personas con piel oscura viviendo en Europa, embarazadas, lactantes, obesos por secuestro de vitamina D en tejido graso, personas con malabsorción intestinal como celiaquía o enfermedad de Crohn, y quienes toman corticoides crónicos. Para estos grupos, la suplementación es prioritaria.",
+      "visual": "vitamin D risk groups elderly dark skin pregnant obese",
+      "duration": 25
+    },
+    {
+      "voice": "Lo que yo hago: análisis cada 6 meses, mantengo niveles entre 50 y 70 nanogramos. Tomo 4.000 UI de D3 con 200 mcg de K2 MK-7 a diario en otoño-invierno, bajo a 2.000 UI en primavera-verano. En verano, 20 minutos de sol diarios entre semana sin protector y 30 los fines de semana. La medición me ha permitido ajustar a mi caso.",
+      "visual": "personal vitamin D protocol seasonal monitoring sun exposure",
+      "duration": 25
+    },
+    {
+      "voice": "Sobre la frecuencia, la vitamina D se almacena en grasa. Un estudio de 2010 en Osteoporosis International demostró que dosis semanales de 7.000 UI o mensuales de 30.000 UI son tan efectivas como dosis diarias para mantener niveles. Algunas personas prefieren la pauta semanal por simplicidad. La diaria sigue siendo la opción más estudiada.",
+      "visual": "vitamin D weekly monthly daily dosing equivalence",
+      "duration": 25
+    },
+    {
+      "voice": "Para niños y adolescentes, la pediatría española recomienda 400 UI desde el nacimiento hasta los 12 meses. Después, dependiente de la exposición solar. Los niños con bajo consumo de pescado y poca exposición pueden necesitar 600 a 1.000 UI continuadas. Las consultas con el pediatra son esenciales: dosis pediátricas no son las del adulto.",
+      "visual": "pediatric vitamin D children infants supplementation pediatrician",
+      "duration": 25
+    },
+    {
+      "voice": "El error más común: tomar la primera caja barata de la farmacia, en gotas con un dosificador impreciso, sin medir niveles, sin K2, sin magnesio. Resultado: gastas dinero sin saber si funciona. Mejor estrategia: medir niveles, comprar marca con fórmula completa D3 más K2, calcular dosis según peso y déficit, recontrol a los 3-6 meses.",
+      "visual": "vitamin D supplementation mistakes cheap brands no measurement",
+      "duration": 25
+    },
+    {
+      "voice": "El estudio más relevante para mortalidad: un metaanálisis de Cochrane de 2019 con 81.508 participantes encontró que la suplementación con vitamina D3 reducía la mortalidad por cualquier causa un 6 por ciento, con efectos más pronunciados en personas mayores y con déficit basal. La D2 no mostró efectos. Otra razón para elegir D3 sobre D2.",
+      "visual": "vitamin D3 mortality reduction Cochrane meta analysis",
+      "duration": 25
+    },
+    {
+      "voice": "Suscríbete a SaludLongevidad y dale a la campana. Lo que viene la próxima semana es un análisis de los 3 tipos de magnesio que sí funcionan y los 5 que no. Cuéntame en los comentarios cuál es tu nivel de vitamina D y si llevabas suplementando sin medirlo antes.",
+      "visual": "subscribe channel magnesium types next week vitamin D",
+      "duration": 25
+    }
+  ]
+}

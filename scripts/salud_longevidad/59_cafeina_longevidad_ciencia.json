@@ -1,0 +1,145 @@
+{
+  "id": 59,
+  "title": "⚡ Cafeína y Longevidad: La Verdad Científica del Café",
+  "description": "El café es la bebida más estudiada del mundo. 521.000 personas seguidas durante años. La cafeína reduce mortalidad pero no para todos igual. Genética, dosis y horarios.\n\n#cafeina #cafe #longevidad #salud",
+  "tags": [
+    "cafeína",
+    "café",
+    "longevidad",
+    "salud",
+    "metabolismo",
+    "mortalidad",
+    "Parkinson",
+    "Alzheimer",
+    "diabetes",
+    "polifenoles"
+  ],
+  "thumbnail_text": "CAFÉ ¿BUENO O MALO?",
+  "segments": [
+    {
+      "voice": "El café es la segunda bebida más consumida del mundo después del agua. 2.000 millones de tazas al día en el planeta. Y es la bebida más estudiada de la historia: más de 30.000 publicaciones científicas. La pregunta clave: ¿alarga o acorta la vida? La respuesta es matizada y depende de factores genéticos que probablemente desconoces. Hoy te lo cuento todo.",
+      "visual": "coffee cup espresso global consumption morning ritual",
+      "duration": 25
+    },
+    {
+      "voice": "El estudio más grande publicado hasta la fecha lo realizó el European Journal of Epidemiology con 521.330 personas de 10 países seguidas durante 16 años. Los resultados: beber 3 a 4 tazas de café al día se asocia con un 17 por ciento menos de mortalidad por cualquier causa. Beber 2 tazas, un 8 por ciento menos. Beber 1, sin diferencia significativa.",
+      "visual": "European Epidemiology coffee mortality study 521 thousand",
+      "duration": 25
+    },
+    {
+      "voice": "Pero hay un giro: el café tiene efectos diferentes según la genética. Hay un gen llamado CYP1A2 que determina si metabolizas la cafeína rápida o lentamente. Los metabolizadores rápidos toleran más café. Los lentos pueden empeorar su salud cardiovascular si consumen más de 2 tazas al día. Un estudio de 2006 de la Universidad de Toronto en JAMA lo demostró con 4.000 personas.",
+      "visual": "CYP1A2 gene caffeine metabolism fast slow genetics individual",
+      "duration": 25
+    },
+    {
+      "voice": "Aproximadamente el 40 por ciento de la población es metabolizadora lenta. ¿Cómo lo sabes? Hay tests genéticos comerciales como 23andMe que miden el CYP1A2. Pero hay señales prácticas: si el café te pone nervioso, te quita el sueño 6 horas después o te sube la tensión, probablemente eres metabolizador lento. Para ti, menos café o descafeinado.",
+      "visual": "slow caffeine metabolizer signs genetic test signs nervousness",
+      "duration": 25
+    },
+    {
+      "voice": "Más allá de la cafeína, el café tiene cientos de polifenoles bioactivos. Los principales son los ácidos clorogénicos, que mejoran sensibilidad a la insulina, reducen inflamación y tienen efectos antioxidantes potentes. Por eso el café descafeinado mantiene muchos beneficios del café normal. La cafeína es solo una pieza del puzzle.",
+      "visual": "coffee polyphenols chlorogenic acid antioxidants compounds",
+      "duration": 25
+    },
+    {
+      "voice": "Para Parkinson, los datos son sorprendentes. Un metaanálisis de 2010 en el Journal of Alzheimer's Disease con 26 estudios y más de 200.000 participantes encontró que beber 3 tazas al día reducía el riesgo de Parkinson un 28 por ciento. La cafeína bloquea los receptores de adenosina, lo que parece tener efectos protectores en las neuronas dopaminérgicas.",
+      "visual": "coffee Parkinson disease risk reduction adenosine dopamine",
+      "duration": 25
+    },
+    {
+      "voice": "Para Alzheimer y demencia, también hay efecto protector. Un estudio del Karolinska Institute de Suecia con 1.409 adultos seguidos 21 años encontró que quienes bebían 3 a 5 tazas al día en mediana edad tenían un 65 por ciento menos de riesgo de demencia y Alzheimer en la vejez. La protección parece operar a través de inflamación reducida y modulación de proteínas tau.",
+      "visual": "coffee Alzheimer dementia Karolinska 21 years protection",
+      "duration": 25
+    },
+    {
+      "voice": "Para diabetes tipo 2, la evidencia es muy sólida. Un metaanálisis de 2014 en Diabetologia con 18 estudios y 1.109.272 participantes demostró que cada taza adicional de café se asociaba con un 7 por ciento menos de riesgo de diabetes. Los ácidos clorogénicos mejoran la sensibilidad a la insulina y los polifenoles reducen el estrés oxidativo en células beta del páncreas.",
+      "visual": "coffee diabetes type 2 prevention insulin sensitivity Diabetologia",
+      "duration": 25
+    },
+    {
+      "voice": "Para enfermedad hepática, los datos son aún más impresionantes. Un metaanálisis publicado en BMJ Open en 2017 con 432.000 participantes encontró que 2 tazas al día reducían el riesgo de cirrosis un 44 por ciento y el riesgo de cáncer hepático un 28 por ciento. Los gastroenterólogos están empezando a recomendar formalmente café a pacientes con hígado graso.",
+      "visual": "coffee liver cirrhosis cancer protection BMJ analysis",
+      "duration": 25
+    },
+    {
+      "voice": "Para cáncer en general, los datos son mixtos pero positivos. Reduce significativamente el riesgo de cáncer hepático, endometrial, próstata y melanoma. No tiene efecto claro sobre cáncer de mama, colon, ovario o pulmón. Un metaanálisis de 2017 en BMJ con 7,2 millones de participantes encontró un 18 por ciento menos de mortalidad por cáncer en bebedores de café.",
+      "visual": "coffee cancer mortality reduction BMJ meta analysis large",
+      "duration": 25
+    },
+    {
+      "voice": "Aquí está el truco con la presión arterial: efectos agudos versus crónicos. La cafeína aguda eleva la presión sistólica entre 5 y 8 mmHg durante 2 a 3 horas. Pero los bebedores habituales desarrollan tolerancia: el efecto crónico sobre la presión es mínimo. Un metaanálisis del Journal of Hypertension en 2011 confirmó que el café crónico no causa hipertensión.",
+      "visual": "coffee blood pressure acute chronic tolerance habitual drinkers",
+      "duration": 25
+    },
+    {
+      "voice": "Sobre el corazón, las arritmias son el miedo clásico. Los datos actuales son tranquilizadores. Un estudio del JAMA Internal Medicine de 2021 con 386.258 participantes encontró que el consumo regular de café no se asocia con mayor riesgo de fibrilación auricular. Para quienes ya la tienen, mejor moderación, pero el café no la causa.",
+      "visual": "coffee heart arrhythmia atrial fibrillation JAMA risk study",
+      "duration": 25
+    },
+    {
+      "voice": "Para el embarazo, hay límites importantes. La American College of Obstetricians and Gynecologists recomienda no exceder 200 mg de cafeína diarios, equivalentes a unos 2 cafés americanos. Por encima se asocia con mayor riesgo de aborto y bajo peso al nacer. La cafeína cruza la placenta y el feto no la metaboliza tan eficientemente.",
+      "visual": "coffee pregnancy 200 mg limit caffeine fetal metabolism",
+      "duration": 25
+    },
+    {
+      "voice": "Sobre el sueño, la regla es matemática. La cafeína tiene una vida media de 5 a 7 horas. Un café espresso a las 4 de la tarde significa que a las 11 de la noche todavía tienes la mitad en sangre. Un estudio de la Universidad de Wayne State demostró que 400 mg de cafeína 6 horas antes de dormir reducían el sueño total en 1 hora. La regla: nada de cafeína después de las 14:00.",
+      "visual": "caffeine half life 5 hours sleep evening cutoff afternoon",
+      "duration": 25
+    },
+    {
+      "voice": "El cortisol y la cafeína interactúan. Por la mañana, entre las 8 y las 9, los niveles de cortisol están en su pico natural. Tomar café en ese momento puede generar tolerancia más rápida. Un estudio de la Universidad de Yale sugiere esperar de 1 a 2 horas tras despertar para tomar el primer café. Tu propio cortisol ya te despierta.",
+      "visual": "cortisol morning rhythm coffee timing tolerance Yale study",
+      "duration": 25
+    },
+    {
+      "voice": "Lo que yo hago: 1 espresso por la mañana entre las 9 y las 10, después de mi primera comida. 1 espresso a las 13:00 después de comer si tengo trabajo intenso por la tarde. Cero café después de las 14:00. Café siempre puro, sin azúcar, con un chorrito mínimo de leche solo en el segundo. La cantidad total: 200 mg de cafeína al día.",
+      "visual": "personal coffee routine morning afternoon timing limits",
+      "duration": 25
+    },
+    {
+      "voice": "El café espresso versus café filtrado tiene diferencias. El café filtrado deja menos cafestol y kahweol en la taza, dos compuestos que pueden elevar el LDL en personas susceptibles. Un metaanálisis de 2018 en el European Journal of Preventive Cardiology demostró que el café no filtrado, como el de prensa francesa o turco, eleva el colesterol más que el filtrado. Para quien tiene LDL alto, mejor filtrado.",
+      "visual": "coffee filtered unfiltered cafestol cholesterol LDL elevation",
+      "duration": 25
+    },
+    {
+      "voice": "Sobre el descafeinado, mucha gente lo desprecia injustamente. Los polifenoles antioxidantes están preservados, los ácidos clorogénicos también. Mantiene los beneficios para hígado, diabetes y antiinflamación. Solo pierde el efecto estimulante de la cafeína. Para metabolizadores lentos, embarazadas o por la tarde, es excelente opción.",
+      "visual": "decaf coffee polyphenols antioxidants benefits maintained",
+      "duration": 25
+    },
+    {
+      "voice": "El método de descafeinado importa. El proceso suizo con agua y el método CO2 son los más limpios. Evita el descafeinado con cloruro de metileno, un disolvente con potencial controvertido. Las marcas premium suelen indicar el método. La regla: leer la etiqueta y elegir Swiss Water o CO2.",
+      "visual": "decaffeination methods Swiss Water CO2 chemical solvent",
+      "duration": 25
+    },
+    {
+      "voice": "El café orgánico tiene su sentido. Los granos de café son uno de los cultivos más rociados del planeta con pesticidas. Aunque la mayoría se elimina en el tostado, residuos pueden quedar. El café orgánico de comercio justo asegura menos químicos y mejores condiciones para los productores. Pagar 2 euros más por kilo es razonable.",
+      "visual": "organic coffee fair trade pesticides quality grains",
+      "duration": 25
+    },
+    {
+      "voice": "Sobre el café molido versus en grano, la frescura cambia todo. Los aceites del café se oxidan en horas tras moler. Los antioxidantes pierden potencia. Comprar grano y moler antes de cada cafetera multiplica los polifenoles disponibles. Un molinillo decente cuesta 50 a 80 euros y dura años. Mejor inversión que cualquier suplemento de antioxidantes.",
+      "visual": "coffee grinder fresh beans antioxidants oxidation freshness",
+      "duration": 25
+    },
+    {
+      "voice": "La temperatura del agua importa. La SCAA, asociación americana de cafés especiales, recomienda entre 90 y 96 grados centígrados. Hervir el agua y echarla directamente sobre el café quema y extrae compuestos amargos. Esperar 30 segundos tras hervir y verter es suficiente. Diferencia notable en sabor y compuestos extraídos.",
+      "visual": "coffee water temperature 90 96 degrees SCAA optimal",
+      "duration": 25
+    },
+    {
+      "voice": "Sobre el azúcar y la leche, alteran el perfil del café. Añadir azúcar arruina la sensibilidad a la insulina y los beneficios metabólicos. La leche de vaca no destruye los polifenoles, pero la mayoría de leches vegetales sí debido a los emulsionantes y aditivos. Si quieres leche, mejor leche fresca de calidad o entera.",
+      "visual": "coffee sugar milk polyphenols additives metabolic effects",
+      "duration": 25
+    },
+    {
+      "voice": "El error más común que veo: tomar café con mucha azúcar y crema, varios al día, sin medir cafeína total, después no entender por qué duermen mal o están ansiosos. La autopercepción es engañosa con la cafeína. Si tienes problemas de sueño o ansiedad, prueba 2 semanas sin cafeína después de las 14:00 y observa cambios.",
+      "visual": "coffee sugar cream sleep anxiety self awareness lifestyle",
+      "duration": 25
+    },
+    {
+      "voice": "Suscríbete a SaludLongevidad y dale a la campana. Lo que viene la próxima semana es un análisis del aceite de oliva virgen extra y la mortalidad, con los datos de los estudios mediterráneos más sólidos. Cuéntame en los comentarios cuántos cafés tomas al día y si crees ser metabolizador rápido o lento.",
+      "visual": "subscribe channel olive oil mortality next week coffee daily",
+      "duration": 25
+    }
+  ]
+}
