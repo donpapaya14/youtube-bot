@@ -1,0 +1,146 @@
+{
+  "title": "How Cats See Motion vs Humans 🐱 The Slow-Motion Advantage",
+  "description": "Cats see the world at a faster temporal resolution than humans. They detect movement we miss entirely. Discover the science of flicker fusion frequency, motion-sensing biology, and why your cat sees fluorescent bulbs as flashing strobes. Real research on feline vision speed.",
+  "tags": [
+    "cat vision",
+    "motion detection",
+    "flicker fusion",
+    "feline eyes",
+    "predator vision",
+    "Hertz frequency",
+    "cat senses",
+    "vision science",
+    "fluorescent light",
+    "cat facts",
+    "feline biology",
+    "research"
+  ],
+  "segments": [
+    {
+      "voice": "Wave a string in front of your cat. Their head snaps. Their eyes lock. Their body goes still in a way that suggests they're seeing the motion at a level of detail we can't match. They're not exaggerating. Cats actually see motion faster than humans, and the science is fascinating.",
+      "visual": "cat watching string motion",
+      "duration": 24
+    },
+    {
+      "voice": "Welcome to CatBrothers. The relevant concept is called flicker fusion frequency. It refers to how many times per second a flickering light source needs to flash before our eyes perceive it as continuous illumination. Humans top out at around 60 hertz under most conditions. Cats can detect flickering up to roughly 70 to 100 hertz.",
+      "visual": "flicker frequency comparison chart",
+      "duration": 26
+    },
+    {
+      "voice": "That difference matters. Standard fluorescent lights flicker at 100 to 120 hertz, depending on the country. To human eyes, the light appears steady. To a cat, the light may pulse visibly throughout the day. Some researchers suspect that flicker contributes to subtle stress in indoor cats living under fluorescent lighting.",
+      "visual": "fluorescent light flickering",
+      "duration": 26
+    },
+    {
+      "voice": "The mechanism behind faster motion perception lies in the retina. Cats have a higher proportion of rod cells compared to humans. Rods specialize in detecting motion and low-light contrast. The trade-off is reduced color vision, but the gain is dramatically faster movement detection in any lighting condition.",
+      "visual": "retina rod cells microscope",
+      "duration": 26
+    },
+    {
+      "voice": "A 2021 study published in the journal Current Biology examined visual processing speed across multiple animal species. Cats, alongside other predators like dragonflies and birds of prey, processed visual information significantly faster than typical prey animals. The pattern reflects a fundamental rule — predators benefit from fast vision.",
+      "visual": "predator vision research",
+      "duration": 26
+    },
+    {
+      "voice": "Cat eyes also have a wider field of view than humans. Their visual field spans about 200 degrees, compared to our 180. That extra peripheral coverage gives them more chance to detect motion at the edges of their environment. Combined with faster temporal resolution, cats are essentially built as motion-detection machines.",
+      "visual": "field of view comparison",
+      "duration": 26
+    },
+    {
+      "voice": "But there's a trade-off. Cats sacrifice fine detail resolution for speed and motion sensitivity. Their visual acuity sits around 20/100 to 20/200, compared to human 20/20. So while they see motion better, they can't read text or pick up fine textures from a distance the way we can.",
+      "visual": "blurry vision detail comparison",
+      "duration": 26
+    },
+    {
+      "voice": "Watch a cat play with a laser pointer. The dot moves rapidly, and the cat tracks it with extraordinary precision. Their pupils contract, their eyes lock on, their body adjusts in microseconds. The laser dot exploits exactly the kind of fast, unpredictable motion their visual system is optimized to detect.",
+      "visual": "cat chasing laser pointer",
+      "duration": 26
+    },
+    {
+      "voice": "Hunting behavior depends on this temporal advantage. A wild cat stalking a bird needs to detect movement before the bird notices the predator. The cat's faster visual processing buys precious milliseconds during the approach phase. Those milliseconds often determine the difference between successful kill and missed prey.",
+      "visual": "cat stalking bird hunting",
+      "duration": 26
+    },
+    {
+      "voice": "Cats also have specialized eye muscles that move faster than human eye muscles. Saccadic movements — those rapid eye jerks we make when scanning a scene — happen quicker in cats. They can refocus across a scene in fractions of the time we need, making prey tracking more efficient.",
+      "visual": "cat eye movement tracking",
+      "duration": 26
+    },
+    {
+      "voice": "Slow-motion video of cats hunting reveals the precision in real terms. They can adjust trajectory mid-leap based on prey movement during the jump itself. Their visual feedback loop is fast enough to incorporate new information after they've left the ground. Most mammals can't do that.",
+      "visual": "slow motion cat leaping",
+      "duration": 26
+    },
+    {
+      "voice": "But there's a catch. Cats struggle with very slow motion. A target moving at human walking speed in a calm direction often doesn't register as prey. That's why some cats walk past birds without reacting. The bird's slow shuffle doesn't trigger the predator response that fast, erratic movement does.",
+      "visual": "cat ignoring slow movement",
+      "duration": 26
+    },
+    {
+      "voice": "This explains why cat toys are designed with rapid, unpredictable motion. Feather wands, laser pointers, and motorized toys all simulate prey behavior. A toy that moves smoothly and steadily won't engage your cat. A toy that jerks, hides, and surprises will trigger their hunting instinct instantly.",
+      "visual": "cat playing wand toy",
+      "duration": 26
+    },
+    {
+      "voice": "Cats also see better in dim light, which combines with motion sensitivity for a serious twilight advantage. The tapetum lucidum behind their retina reflects light back through photoreceptors twice, doubling the chance to detect motion in low-light conditions. The combination is brutal for nocturnal prey.",
+      "visual": "cat eyes glowing dark night",
+      "duration": 26
+    },
+    {
+      "voice": "Researchers have measured the minimum light level required for cats to detect motion. Cats can identify movement in about one-sixth the light humans need. A room that looks pitch black to you might be dim but workable for the cat. They function as visual systems in conditions we can't.",
+      "visual": "low light vision comparison",
+      "duration": 26
+    },
+    {
+      "voice": "Computer screens behave strangely to cats. CRT monitors, which flicker at 60 hertz, often appear as visibly pulsing screens to cats with high flicker fusion frequencies. Modern LED and OLED screens refresh much faster, which is why many cats now stare at TV shows or video calls — the smooth motion engages their attention.",
+      "visual": "cat watching tv screen",
+      "duration": 26
+    },
+    {
+      "voice": "Some YouTube channels create cat-specific content with fast-moving birds, mice, and fish. These videos exploit the cat's visual preferences. The motion is unpredictable, fast, and prey-like. Cats engage with them more than they would with most other video content. The internet has discovered cat vision and weaponized it for entertainment.",
+      "visual": "cat watching bird video",
+      "duration": 26
+    },
+    {
+      "voice": "What I've noticed in my own home, when a fly enters the living room, both my cats lock onto it immediately. The fly's erratic flight pattern triggers them simultaneously, and they coordinate without any signal. One stalks low, the other circles. The fly's path is being processed in real time across two predator brains.",
+      "visual": "cat tracking fly together",
+      "duration": 26
+    },
+    {
+      "voice": "Even motion at the periphery of their vision triggers responses. A flicker outside the window. A shadow moving across the floor. A leaf blowing in the corner of the yard. Cats catch motion that humans completely miss. Their attention isn't selective — it's systematic, scanning for any sign of movement worth investigating.",
+      "visual": "cat alert peripheral motion",
+      "duration": 26
+    },
+    {
+      "voice": "Younger cats process motion faster than older cats. Studies have shown that visual processing speed declines with age in cats just as it does in humans. Senior cats can still detect motion well, but their reaction speed slows. That's part of why kittens look hyperactive — their visual system is operating at peak speed.",
+      "visual": "kitten fast reaction motion",
+      "duration": 26
+    },
+    {
+      "voice": "Some breeds have slightly different visual profiles. Siamese cats, for example, often have crossed eyes due to a genetic quirk in the optic nerve pathway. Their depth perception is reduced, but their motion detection remains roughly average. Persians have flatter faces that change peripheral vision somewhat.",
+      "visual": "siamese persian cat eyes",
+      "duration": 26
+    },
+    {
+      "voice": "Veterinarians sometimes use motion-based tests to evaluate cat vision in older patients. A simple cotton ball dropped from above can reveal whether a senior cat is losing visual function. Cats that no longer track falling objects may be developing cataracts, retinal issues, or other age-related vision changes.",
+      "visual": "vet eye test cat motion",
+      "duration": 26
+    },
+    {
+      "voice": "Indoor cats benefit from window views with bird traffic, leaf movement, and outdoor activity. Their visual system needs stimulation. A cat that can watch motion outside spends time engaging with the environment instead of becoming bored. It's free enrichment, and it taps into their evolutionary strengths.",
+      "visual": "cat watching window outside",
+      "duration": 26
+    },
+    {
+      "voice": "So the next time your cat snaps to attention when you can't see anything, trust them. They're operating on a faster visual frame rate, with wider peripheral coverage, and better low-light performance. They're not paranoid. They're actually seeing things you can't.",
+      "visual": "cat alert ears forward",
+      "duration": 25
+    },
+    {
+      "voice": "Subscribe to CatBrothers and hit the bell. What's coming next week — the most expensive cat breeds in the world, with eye-watering prices and the genetics behind them. See you in the next documentary.",
+      "visual": "cat eyes intense focus",
+      "duration": 20
+    }
+  ],
+  "thumbnail_text": "MOTION VISION"
+}
