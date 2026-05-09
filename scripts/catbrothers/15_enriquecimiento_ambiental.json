@@ -1,33 +1,144 @@
 {
-  "title": "Gato Feliz en Interior 🐱 Enriquecimiento Ambiental Real",
-  "description": "Tu gato de interior puede estar aburrido y estresado sin que lo sepas. La ciencia del enriquecimiento ambiental felino explica cómo estimular los cinco sentidos de tu gato, prevenir problemas de comportamiento y crear un hogar donde tu gato sea genuinamente feliz. Datos de universidades veterinarias reales.",
-  "tags": ["gatos", "enriquecimiento ambiental gatos", "gato de interior feliz", "bienestar felino", "comportamiento de gatos", "gatos aburridos", "juegos para gatos", "salud mental gatos", "documentales de gatos", "cuidado de gatos"],
-  "segments": [
-    {"voice": "Un gato de interior vive en promedio entre doce y dieciocho años, casi el doble que un gato callejero. Pero vivir más no significa vivir mejor. Un estudio de la Universidad Estatal de Ohio demostró que el sesenta por ciento de los problemas de comportamiento felino se originan por falta de estimulación ambiental. Tu gato necesita más que comida y techo.", "visual": "bored cat staring out window", "duration": 25},
-    {"voice": "Bienvenidos a CatBrothers. Hoy vamos a transformar tu hogar en un paraíso felino usando la ciencia del enriquecimiento ambiental. Todo lo que vas a aprender está respaldado por investigaciones de las mejores universidades veterinarias del mundo. Tu gato va a agradecértelo de formas que ni imaginas.", "visual": "cat exploring enriched indoor space", "duration": 25},
-    {"voice": "Primero entendamos el problema. Un gato salvaje dedica entre seis y ocho horas diarias a cazar, patrullar territorio y socializar. Un gato de interior dedica entre veinte y treinta minutos a comer de un plato. El resto del tiempo no tiene qué hacer. La doctora Mikel Delgado de la Universidad de California en Davis llama a esto pobreza ambiental y la vincula directamente con obesidad, ansiedad y agresividad.", "visual": "lazy overweight cat sleeping all day", "duration": 25},
-    {"voice": "El concepto de enriquecimiento ambiental viene de los zoológicos. En los años ochenta, los científicos descubrieron que los animales en cautiverio desarrollaban comportamientos anormales repetitivos llamados estereotipias. La solución fue enriquecer su entorno. La Asociación Internacional de Medicina Felina adaptó estos principios para gatos domésticos en sus directrices de 2013.", "visual": "cat playing with interactive toy engaged", "duration": 25},
-    {"voice": "El pilar número uno es el espacio vertical. Los gatos son trepadores por naturaleza. Un estudio de la Universidad de Lincoln publicado en Applied Animal Behaviour Science demostró que los gatos con acceso a espacios verticales muestran un treinta y seis por ciento menos de comportamientos de estrés. Estanterías, rascadores altos y hamacas de ventana cambian todo.", "visual": "cat climbing tall cat tree tower", "duration": 25},
-    {"voice": "La doctora Sarah Ellis de la Universidad de Lincoln desarrolló el concepto de las cinco necesidades ambientales del gato. Primera: un lugar seguro y elevado para observar. Segunda: recursos separados para cada gato. Tercera: oportunidades de juego y caza. Cuarta: contacto social positivo. Quinta: respeto por su sentido del olfato.", "visual": "cat sitting on high shelf looking down", "duration": 25},
-    {"voice": "Los comederos interactivos o puzzle feeders son quizás la herramienta más efectiva. Un estudio publicado en el Journal of Feline Medicine and Surgery en 2016 por Mikel Delgado demostró que los gatos que usan puzzle feeders tienen menos problemas de peso, menos comportamientos destructivos y menos vocalizaciones excesivas. Comer debe ser un desafío, no un acto pasivo.", "visual": "cat using puzzle feeder toy food", "duration": 25},
-    {"voice": "Puedes empezar con algo simple: un tubo de cartón con agujeros y croquetas dentro. La investigación mostró que los gatos inicialmente se frustran pero en tres a cinco días dominan el puzzle y muestran signos claros de satisfacción. La clave es empezar con puzzles fáciles y aumentar la dificultad gradualmente.", "visual": "diy cat puzzle cardboard homemade", "duration": 25},
-    {"voice": "El juego de caza es esencial. Los gatos necesitan completar la secuencia completa de caza: acechar, perseguir, abalanzarse, atrapar y consumir. La doctora Leticia Fanucchi de la Universidad Estatal de Oklahoma demostró que dos sesiones de juego interactivo de quince minutos al día reducen los problemas de agresividad en un cuarenta y ocho por ciento.", "visual": "cat stalking and pouncing on feather toy", "duration": 25},
-    {"voice": "Las cañas con plumas son el juguete interactivo más efectivo según la ciencia. Simulan el movimiento errático de una presa. Pero hay una regla crucial: después de la sesión de juego, dale a tu gato una pequeña porción de comida. Esto completa el ciclo de caza natural. Acechar, cazar, comer, acicalarse, dormir. Sin la recompensa final, la frustración se acumula.", "visual": "cat chasing feather wand toy jumping", "duration": 25},
-    {"voice": "El rascado no es destrucción: es comunicación. Los gatos rascan para marcar territorio con las glándulas de sus almohadillas, para estirar músculos y para mantener sus garras. Un estudio de la Universidad de Berna encontró que los gatos con rascadores verticales de al menos noventa centímetros de alto rascan un sesenta y tres por ciento menos los muebles.", "visual": "cat scratching tall sisal post", "duration": 25},
-    {"voice": "El tipo de rascador importa. La misma investigación de Berna probó diferentes materiales y encontró que el sisal en cuerda es el preferido por el ochenta y cuatro por ciento de los gatos, seguido del cartón corrugado con un sesenta y uno por ciento. La alfombra y la madera quedan en último lugar. Y la ubicación ideal es junto a las zonas de descanso.", "visual": "cat using sisal scratching post happy", "duration": 25},
-    {"voice": "Las ventanas son televisión para gatos. Un estudio de la Universidad de Guelph demostró que los gatos con acceso visual al exterior tienen niveles de cortisol un veintiocho por ciento más bajos. Instala una hamaca de ventana o un comedero de pájaros fuera de la ventana. La estimulación visual reduce el estrés y proporciona entretenimiento durante horas.", "visual": "cat watching birds through window", "duration": 25},
-    {"voice": "El enriquecimiento olfativo es el más subestimado. Los gatos tienen doscientos millones de receptores olfativos. La hierba gatera, Nepeta cataria, activa los receptores de opioides en aproximadamente el setenta por ciento de los gatos, según investigación de la Universidad de Harvard. Pero también puedes usar olivas, menta y silvervine, una planta asiática que afecta al noventa por ciento de los gatos.", "visual": "cat rolling in catnip blissful", "duration": 25},
-    {"voice": "El silvervine, Actinidia polygama, merece atención especial. Un estudio de 2021 publicado en Science Advances por la Universidad de Iwate descubrió que la respuesta de los gatos al silvervine tiene función antiparasitaria. Al frotarse contra la planta, liberan nepetalactol que repele mosquitos. Los gatos que no responden a la hierba gatera casi siempre responden al silvervine.", "visual": "cat rubbing against silver vine plant", "duration": 25},
-    {"voice": "La bandeja sanitaria es un tema de enriquecimiento crucial. La regla veterinaria estándar es una bandeja por gato más una extra, en ubicaciones diferentes. Un estudio de la Universidad Estatal de Ohio con ciento sesenta gatos encontró que las bandejas cubiertas aumentan un cuarenta por ciento los problemas de eliminación inapropiada. A los gatos les gustan las bandejas abiertas y grandes.", "visual": "clean cat litter box spacious", "duration": 25},
-    {"voice": "La música ambiental para gatos existe y funciona. Un estudio de la Universidad de Wisconsin publicado en Applied Animal Behaviour Science creó música diseñada específicamente para gatos con frecuencias y tempos basados en vocalizaciones felinas. Los gatos mostraron significativamente más comportamientos positivos con esta música que con música humana o silencio.", "visual": "cat relaxing listening calm environment", "duration": 25},
-    {"voice": "El escondite es una necesidad, no un capricho. Un estudio de la Universidad de Utrecht con gatos recién adoptados demostró que los que tenían cajas para esconderse se adaptaban al refugio cuatro días antes que los que no. El estrés medido por comportamiento fue significativamente menor. Una simple caja de cartón es un recurso de bienestar poderoso.", "visual": "cat hiding inside cardboard box cozy", "duration": 25},
-    {"voice": "Para hogares con múltiples gatos, la separación de recursos es vital. La Asociación Americana de Practicantes Felinos establece que cada gato debe tener su propio punto de alimentación, agua, descanso y bandeja, en diferentes ubicaciones. La competencia por recursos es la principal causa de estrés en hogares multigato según un estudio de la Universidad de Bristol.", "visual": "two cats eating separately peaceful", "duration": 25},
-    {"voice": "El acceso controlado al exterior es una opción intermedia. Los catios, patios cerrados para gatos, permiten experiencias al aire libre sin los riesgos. Un estudio de la Universidad de Exeter encontró que los gatos con acceso a catios muestran niveles de actividad un cuarenta y cinco por ciento mayores que los gatos estrictamente de interior sin perder la seguridad.", "visual": "cat in outdoor enclosed catio garden", "duration": 25},
-    {"voice": "El entrenamiento con clicker es enriquecimiento cognitivo de primer nivel. La doctora Sarah Ellis demostró que los gatos entrenados con refuerzo positivo muestran menos problemas de comportamiento y un vínculo más fuerte con sus dueños. Los gatos pueden aprender a sentarse, dar la pata, saltar aros y responder a comandos vocales en pocas sesiones.", "visual": "cat being trained clicker treat", "duration": 25},
-    {"voice": "La rotación de juguetes es una estrategia respaldada por la ciencia. Un estudio de la Universidad de Bristol encontró que los gatos pierden interés en un juguete después de aproximadamente cinco minutos de exposición continua, un fenómeno llamado habituación. Rotar juguetes cada tres días renueva el interés y mantiene la estimulación sin comprar juguetes nuevos constantemente.", "visual": "variety of cat toys scattered floor", "duration": 25},
-    {"voice": "Un último consejo respaldado por la ciencia: el contacto social. Un estudio de la Universidad de Oregon publicado en Behavioural Processes en 2017 descubrió que los gatos prefieren la interacción social con humanos incluso por encima de la comida. El cincuenta por ciento eligió interacción humana frente al treinta y siete por ciento que eligió comida cuando se les dio opción.", "visual": "person gently petting cat on couch", "duration": 25},
-    {"voice": "Enriquecimiento ambiental no significa gastar dinero. Cajas de cartón, tubos de papel, pelota de papel de aluminio, hierbas aromáticas del jardín y quince minutos de juego interactivo al día. Con estas herramientas simples y gratuitas, la ciencia demuestra que puedes transformar la vida de tu gato de interior.", "visual": "happy cat playing in enriched room", "duration": 25},
-    {"voice": "Si quieres un gato más feliz y saludable, suscríbete a CatBrothers ahora mismo y activa la campana. El próximo episodio va a contar la realidad de los gatos callejeros en España y cómo el método CER está cambiando sus vidas. Es un documental que necesitas ver. Comparte este video con alguien que tenga un gato de interior.", "visual": "happy cat waving paw at camera", "duration": 20}
+  "title": "Happy Indoor Cat: Real Environmental Enrichment",
+  "description": "Your indoor cat may be bored and stressed without you realizing it. The science of feline environmental enrichment explains how to stimulate your cat's five senses, prevent behavioral problems, and create a home where your cat is genuinely happy. Data from real veterinary universities.",
+  "tags": [
+    "cats",
+    "feline environmental enrichment",
+    "happy indoor cat",
+    "feline welfare",
+    "cat behavior",
+    "bored cats",
+    "cat games",
+    "cat mental health",
+    "cat documentaries",
+    "cat care"
   ],
-  "thumbnail_text": "GATO FELIZ"
+  "segments": [
+    {
+      "voice": "An indoor cat lives on average between twelve and eighteen years, almost double that of a stray cat. But living longer doesn't mean living better. A study by Ohio State University showed that sixty percent of feline behavioral problems originate from lack of environmental stimulation. Your cat needs more than just food and shelter.",
+      "visual": "bored cat staring out window",
+      "duration": 25
+    },
+    {
+      "voice": "Welcome to CatBrothers. Today, we're going to transform your home into a feline paradise using the science of environmental enrichment. Everything you're about to learn is backed by research from the world's top veterinary universities. Your cat will thank you in ways you can't even imagine.",
+      "visual": "cat exploring enriched indoor space",
+      "duration": 25
+    },
+    {
+      "voice": "First, let's understand the problem. A wild cat spends between six and eight hours a day hunting, patrolling territory, and socializing. An indoor cat spends between twenty and thirty minutes eating from a plate. The rest of the time, they have nothing to do. Dr. Mikel Delgado from the University of California, Davis, calls this environmental poverty, directly linking it to obesity, anxiety, and aggression.",
+      "visual": "lazy overweight cat sleeping all day",
+      "duration": 25
+    },
+    {
+      "voice": "The concept of environmental enrichment comes from zoos. In the eighties, scientists discovered that animals in captivity developed abnormal repetitive behaviors called stereotypies. The solution was to enrich their environment. The International Cat Care organization adapted these principles for domestic cats in their 2013 guidelines.",
+      "visual": "cat playing with interactive toy engaged",
+      "duration": 25
+    },
+    {
+      "voice": "The first pillar is vertical space. Cats are natural climbers. A study by the University of Lincoln published in Applied Animal Behaviour Science showed that cats with access to vertical spaces exhibit thirty-six percent fewer stress behaviors. Shelves, tall scratching posts, and window hammocks change everything.",
+      "visual": "cat climbing tall cat tree tower",
+      "duration": 25
+    },
+    {
+      "voice": "Dr. Sarah Ellis from the University of Lincoln developed the concept of the five environmental needs of cats. First: a safe and elevated place to observe. Second: separate resources for each cat. Third: opportunities for play and hunting. Fourth: positive social contact. Fifth: respect for their sense of smell.",
+      "visual": "cat sitting on high shelf looking down",
+      "duration": 25
+    },
+    {
+      "voice": "Interactive feeders or puzzle feeders are perhaps the most effective tool. A study published in the Journal of Feline Medicine and Surgery in 2016 by Mikel Delgado demonstrated that cats using puzzle feeders have fewer weight problems, fewer destructive behaviors, and fewer excessive vocalizations. Eating should be a challenge, not a passive act.",
+      "visual": "cat using puzzle feeder toy food",
+      "duration": 25
+    },
+    {
+      "voice": "You can start with something simple: a cardboard tube with holes and treats inside. Research showed that cats initially get frustrated but within three to five days master the puzzle and show clear signs of satisfaction. The key is to start with easy puzzles and gradually increase the difficulty.",
+      "visual": "diy cat puzzle cardboard homemade",
+      "duration": 25
+    },
+    {
+      "voice": "Hunting play is essential. Cats need to complete the full hunting sequence: stalking, chasing, pouncing, catching, and consuming. Dr. Leticia Fanucchi from Oklahoma State University demonstrated that two fifteen-minute interactive play sessions a day reduce aggression problems by forty-eight percent.",
+      "visual": "cat stalking and pouncing on feather toy",
+      "duration": 25
+    },
+    {
+      "voice": "Feather wands are the most effective interactive toy according to science. They simulate the erratic movement of prey. But there's a crucial rule: after the play session, give your cat a small portion of food. This completes the natural hunting cycle. Stalk, hunt, eat, groom, sleep. Without the final reward, frustration builds up.",
+      "visual": "cat chasing feather wand toy jumping",
+      "duration": 25
+    },
+    {
+      "voice": "Scratching is not destruction; it's communication. Cats scratch to mark territory with the glands on their paw pads, to stretch muscles, and to maintain their claws. A study by the University of Bern found that cats with vertical scratching posts at least ninety centimeters high scratch furniture sixty-three percent less.",
+      "visual": "cat scratching tall sisal post",
+      "duration": 25
+    },
+    {
+      "voice": "The type of scratching post matters. The same Bern research tested different materials and found that sisal rope is preferred by eighty-four percent of cats, followed by corrugated cardboard with sixty-one percent. Carpet and wood are last. And the ideal location is next to resting areas.",
+      "visual": "cat using sisal scratching post happy",
+      "duration": 25
+    },
+    {
+      "voice": "Windows are television for cats. A study by the University of Guelph demonstrated that cats with a view of the outdoors have twenty-eight percent lower cortisol levels. Install a window hammock or a bird feeder outside the window. Visual stimulation reduces stress and provides entertainment for hours.",
+      "visual": "cat watching birds through window",
+      "duration": 25
+    },
+    {
+      "voice": "Olfactory enrichment is the most underestimated. Cats have two hundred million olfactory receptors. Catnip, Nepeta cataria, activates opioid receptors in approximately seventy percent of cats, according to Harvard University research. But you can also use olives, mint, and silvervine, an Asian plant that affects ninety percent of cats.",
+      "visual": "cat rolling in catnip blissful",
+      "duration": 25
+    },
+    {
+      "voice": "Silvervine, Actinidia polygama, deserves special attention. A 2021 study published in Science Advances by Iwate University discovered that cats' response to silvervine has antiparasitic function. By rubbing against the plant, they release nepetalactol, which repels mosquitoes. Cats that don't respond to catnip almost always respond to silvervine.",
+      "visual": "cat rubbing against silver vine plant",
+      "duration": 25
+    },
+    {
+      "voice": "The litter box is a crucial enrichment topic. The standard veterinary rule is one litter box per cat plus one extra, in different locations. A study by Ohio State University with one hundred sixty cats found that covered litter boxes increase inappropriate elimination problems by forty percent. Cats prefer open and large litter boxes.",
+      "visual": "clean cat litter box spacious",
+      "duration": 25
+    },
+    {
+      "voice": "There is such a thing as ambient music for cats, and it works. A study by the University of Wisconsin published in Applied Animal Behaviour Science created music specifically designed for cats with frequencies and tempos based on feline vocalizations. Cats showed significantly more positive behaviors with this music than with human music or silence.",
+      "visual": "cat relaxing listening calm environment",
+      "duration": 25
+    },
+    {
+      "voice": "Hiding is a need, not a whim. A study by Utrecht University with newly adopted cats showed that those with boxes to hide in adapted to the shelter four days earlier than those without. Measured stress through behavior was significantly lower. A simple cardboard box is a powerful welfare resource.",
+      "visual": "cat hiding inside cardboard box cozy",
+      "duration": 25
+    },
+    {
+      "voice": "For multi-cat households, resource separation is vital. The American Association of Feline Practitioners states that each cat should have its own feeding point, water, resting place, and litter box, in different locations. Resource competition is the main cause of stress in multi-cat households, according to a University of Bristol study.",
+      "visual": "two cats eating separately peaceful",
+      "duration": 25
+    },
+    {
+      "voice": "Controlled outdoor access is a middle ground. Catios, enclosed outdoor spaces for cats, allow for outdoor experiences without the risks. A study by the University of Exeter found that cats with access to catios show forty-five percent higher activity levels than strictly indoor cats without losing safety.",
+      "visual": "cat in outdoor enclosed catio garden",
+      "duration": 25
+    },
+    {
+      "voice": "Clicker training is first-rate cognitive enrichment. Dr. Sarah Ellis demonstrated that cats trained with positive reinforcement show fewer behavioral problems and a stronger bond with their owners. Cats can learn to sit, give their paw, jump through hoops, and respond to vocal commands in a few sessions.",
+      "visual": "cat being trained clicker treat",
+      "duration": 25
+    },
+    {
+      "voice": "Toy rotation is a strategy backed by science. A University of Bristol study found that cats lose interest in a toy after about five minutes of continuous exposure, a phenomenon called habituation. Rotating toys every three days renews interest and maintains stimulation without constantly buying new toys.",
+      "visual": "variety of cat toys scattered floor",
+      "duration": 25
+    },
+    {
+      "voice": "A final tip backed by science: social contact. A University of Oregon study published in Behavioural Processes in 2017 discovered that cats prefer social interaction with humans even over food. Fifty percent chose human interaction over thirty-seven percent who chose food when given the option.",
+      "visual": "person gently petting cat on couch",
+      "duration": 25
+    },
+    {
+      "voice": "Environmental enrichment doesn't mean spending money. Cardboard boxes, paper rolls, aluminum foil balls, aromatic herbs from the garden, and fifteen minutes of interactive play a day. With these simple and free tools, science demonstrates that you can transform your indoor cat's life.",
+      "visual": "happy cat playing in enriched room",
+      "duration": 25
+    },
+    {
+      "voice": "If you want a happier and healthier cat, subscribe to CatBrothers now and turn on the bell. The next episode will reveal the reality of stray cats in Spain and how the CER method is changing their lives. It's a documentary you need to see. Share this video with someone who has an indoor cat.",
+      "visual": "happy cat waving paw at camera",
+      "duration": 20
+    }
+  ],
+  "thumbnail_text": "HAPPY CAT"
 }

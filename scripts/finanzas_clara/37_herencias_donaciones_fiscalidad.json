@@ -1,65 +1,87 @@
 {
   "id": 37,
-  "title": "Herencias y Donaciones en Vida — La Fiscalidad Real que Nadie Te Explica",
-  "description": "Impuesto de sucesiones y donaciones en España: cómo funciona, diferencias entre comunidades autónomas, si conviene heredar o recibir donación en vida y cómo minimizar la carga fiscal legalmente.",
-  "tags": ["impuesto sucesiones españa", "herencia donacion fiscalidad", "impuesto herencias comunidades", "donacion en vida irpf", "planificacion sucesoria", "heredar piso españa", "reduccion herencia autonomica"],
-  "thumbnail_text": "Hereda sin arruinarte",
+  "title": "Inheritance and Lifetime Gifts — The Real Taxation Nobody Explains",
+  "description": "Understanding income tax on inheritances and gifts in the US/UK: how it works, differences between regions, whether it's more beneficial to inherit or receive a gift during your lifetime, and how to minimize your tax liability legally.",
+  "tags": [
+    "inheritance tax US UK",
+    "gift taxation",
+    "regional inheritance tax",
+    "lifetime gift income tax",
+    "estate planning",
+    "inheriting property",
+    "reducing inheritance tax"
+  ],
+  "thumbnail_text": "Inherit Without Going Bankrupt",
   "segments": [
     {
-      "voice": "Cuando alguien fallece y deja una herencia, o cuando un padre decide donar un bien a sus hijos en vida, entra en juego uno de los impuestos más incomprendidos en España: el Impuesto sobre Sucesiones y Donaciones, regulado en la Ley 29/1987. Este impuesto es cedido a las comunidades autónomas, lo que significa que lo que pagas puede variar enormemente dependiendo de dónde vives. En este vídeo te explicamos cómo funciona realmente y cómo planificarlo para pagar lo mínimo legal.",
-      "visual": "Spain inheritance donation tax law 1987 regional differences"
+      "voice": "When someone passes away and leaves an inheritance, or when a parent decides to gift a property to their children during their lifetime, one of the most misunderstood taxes comes into play: the tax on inheritances and gifts, according to tax law. This tax is managed by the tax authority, which means what you pay can vary greatly depending on where you live. In this video, we explain how it really works and how to plan for it to pay the minimum legally.",
+      "visual": "US UK inheritance donation tax law regional differences",
+      "duration": 25
     },
     {
-      "voice": "El Impuesto sobre Sucesiones y Donaciones: quién lo gestiona. Aunque existe una normativa estatal básica en la Ley 29/1987, las comunidades autónomas tienen amplias competencias para establecer reducciones, bonificaciones y tipos propios. El resultado es una brecha enorme entre comunidades. En Madrid y Andalucía, los hijos y cónyuges tienen bonificaciones del 99% en este impuesto, lo que en la práctica significa tributación casi cero. En otras comunidades como Aragón, Asturias o Valencia, el impuesto puede ser significativo incluso entre padres e hijos.",
-      "visual": "Spain inheritance tax regional differences Madrid Andalusia bonification"
+      "voice": "The tax on inheritances and gifts: who manages it. Although there's a basic national regulation, the tax authority has broad competencies to establish reductions, bonuses, and its own rates. The result is a huge gap between regions. In some areas, children and spouses have bonuses of up to 99% on this tax, which in practice means almost no taxation. In other regions, the tax can be significant even between parents and children.",
+      "visual": "US UK inheritance tax regional differences bonuses",
+      "duration": 25
     },
     {
-      "voice": "¿Quién paga el impuesto de sucesiones? Lo paga el heredero o legatario, no el fallecido. Y se paga en la comunidad autónoma donde residía el fallecido, no donde vive el heredero. Si tu padre residía en Extremadura y tú en Madrid, tributas en Extremadura. El plazo para presentar el impuesto es de 6 meses desde el fallecimiento, prorrogables otros 6 meses solicitando la prórroga en los primeros 5 meses. No presentar en plazo genera recargos automáticos.",
-      "visual": "Spain inheritance tax payer heir residence region 6 months deadline"
+      "voice": "Who pays the inheritance tax? It's paid by the heir or legatee, not the deceased. And it's paid in the region where the deceased resided, not where the heir lives. If your parent resided in one state and you in another, you pay tax in the state where your parent resided. The deadline to file the tax is 6 months from the date of death, extendable for another 6 months by requesting an extension within the first 5 months. Failing to file on time generates automatic penalties.",
+      "visual": "US UK inheritance tax payer heir residence region 6 months deadline",
+      "duration": 25
     },
     {
-      "voice": "Los grupos de parentesco y su importancia fiscal. La ley divide a los herederos en cuatro grupos según el parentesco. Grupo I: descendientes menores de 21 años, con la reducción más alta. Grupo II: descendientes mayores de 21 años, cónyuge y ascendientes, con reducción significativa. Grupo III: colaterales de segundo y tercer grado, como hermanos, sobrinos, tíos. Grupo IV: colaterales de cuarto grado o más y personas sin relación familiar. A menor grupo, menor parentesco y mayor tributación. Heredar de un tío puede costar mucho más que heredar de un padre.",
-      "visual": "Spain inheritance groups parentage I II III IV taxation levels"
+      "voice": "The groups of relatives and their fiscal importance. The law divides heirs into four groups based on their relationship. Group I: descendants under 21, with the highest reduction. Group II: descendants over 21, spouses, and ancestors, with significant reductions. Group III: second and third-degree relatives, like siblings, nieces, and uncles. Group IV: fourth-degree relatives or more and individuals without a family relationship. The lower the group, the lower the relationship and the higher the taxation. Inheriting from an uncle can cost much more than inheriting from a parent.",
+      "visual": "US UK inheritance groups parentage I II III IV taxation levels",
+      "duration": 25
     },
     {
-      "voice": "Reducciones estatales por parentesco. La normativa estatal establece reducciones mínimas que las comunidades pueden mejorar pero no empeorar. Grupo I, descendientes menores de 21 años: 15.956 euros más 3.990 euros por cada año menos de 21 que tenga el heredero. Grupo II, descendientes mayores de 21 y cónyuge: 15.956 euros. Grupo III: 7.993 euros. Grupo IV: sin reducción estatal. Estos importes se aplican a la base imponible antes de calcular el impuesto. Pero muchas comunidades amplían estas reducciones hasta hacerlas virtualmente totales.",
-      "visual": "Spain inheritance reduction state minimum parentage groups euros amounts"
+      "voice": "National reductions based on relationships. National regulations establish minimum reductions that regions can improve but not worsen. Group I, descendants under 21: 15,956 dollars plus 3,990 dollars for each year under 21 the heir is. Group II, descendants over 21 and spouses: 15,956 dollars. Group III: 7,993 dollars. Group IV: no national reduction. These amounts apply to the taxable base before calculating the tax. But many regions expand these reductions to make them virtually total.",
+      "visual": "US UK inheritance reduction national minimum parentage groups dollars amounts",
+      "duration": 25
     },
     {
-      "voice": "La variación entre comunidades: ejemplos concretos. En Madrid: bonificación del 99% en cuota para descendientes, ascendientes y cónyuge. Resultado: prácticamente sin impuesto. En Andalucía: misma bonificación del 99%. En País Vasco y Navarra: régimen foral completamente diferente, con tipos más bajos para familiares directos. En Asturias: reducciones menos generosas, el impuesto puede representar entre el 5 y el 20% de la herencia para descendientes en ciertos importes. Antes de cualquier planificación sucesoria, analiza el régimen de la comunidad donde reside el futuro causante.",
-      "visual": "Spain inheritance tax comparison regions Madrid Andalusia Asturias"
+      "voice": "The variation between regions: concrete examples. In some regions: a 99% bonus on the tax quota for descendants, ancestors, and spouses. Result: practically no tax. In other regions: the same 99% bonus. In some areas: a completely different tax regime, with lower rates for direct family members. In other areas: less generous reductions, the tax can represent between 5 and 20% of the inheritance for descendants in certain amounts. Before any estate planning, analyze the regime of the region where the future deceased resides.",
+      "visual": "US UK inheritance tax comparison regions bonuses",
+      "duration": 25
     },
     {
-      "voice": "Herencia de la vivienda habitual: la reducción especial. En la normativa estatal existe una reducción específica del 95% para la herencia de la vivienda habitual del fallecido, con un límite de 122.606 euros por heredero. Esta reducción aplica para cónyuge, descendientes y ascendientes. La condición es que el heredero mantenga la vivienda durante al menos 10 años, de lo contrario debe devolver el impuesto ahorrrado. Muchas comunidades mejoran esta reducción y reducen el plazo de mantenimiento.",
-      "visual": "Spain main home inheritance 95 percent reduction keep 10 years"
+      "voice": "Inheriting the main home: the special reduction. In national regulations, there's a specific reduction of 95% for inheriting the main home of the deceased, with a limit of 122,606 dollars per heir. This reduction applies to spouses, descendants, and ancestors. The condition is that the heir must keep the home for at least 10 years; otherwise, they must return the saved tax. Many regions improve this reduction and reduce the maintenance period.",
+      "visual": "US UK main home inheritance 95 percent reduction keep 10 years",
+      "duration": 25
     },
     {
-      "voice": "¿Conviene más la herencia o la donación en vida? Esta es la pregunta estratégica central en planificación sucesoria. La donación en vida del mismo bien puede tributar de forma diferente. Para la donación en vida de un inmueble, el donatario, quien recibe, paga el Impuesto sobre Donaciones, y el donante, quien da, puede tener una ganancia patrimonial en su IRPF si el valor del inmueble ha subido desde que lo compró. Esto puede hacer que la donación en vida sea más cara fiscalmente que esperar a la herencia.",
-      "visual": "Spain donation vs inheritance comparison lifetime gift tax planning"
+      "voice": "Is it more beneficial to inherit or receive a gift during your lifetime? This is the central strategic question in estate planning. Gifting the same property during your lifetime can be taxed differently. For gifting a property, the recipient pays the gift tax, and the donor may have a capital gain in their income tax if the property's value has increased since they bought it. This can make gifting during your lifetime more expensive than waiting for an inheritance.",
+      "visual": "US UK donation vs inheritance comparison lifetime gift tax planning",
+      "duration": 25
     },
     {
-      "voice": "El IRPF del donante en las donaciones de inmuebles. Cuando donas un inmueble a tus hijos, desde el punto de vista del IRPF del donante, la operación tributa como si hubieras vendido el bien al valor de mercado. Si compraste el piso por 100.000 euros hace 20 años y ahora vale 200.000 euros, Hacienda considera que tienes una ganancia patrimonial de 100.000 euros aunque no hayas recibido dinero. Esa ganancia tributa en la base del ahorro del IRPF al 19-27%. Esto es un punto crítico que muchas familias no conocen y que puede generar una factura fiscal inesperada.",
-      "visual": "Spain donor IRPF gift property capital gain tax problem unknown"
+      "voice": "The donor's income tax on property gifts. When you gift a property to your children, from the donor's income tax perspective, the operation is taxed as if you had sold the property at its market value. If you bought the property for 100,000 dollars 20 years ago and it's now worth 200,000 dollars, the tax authority considers you have a capital gain of 100,000 dollars, even though you didn't receive any money. This gain is taxed in the savings base of the income tax at 19-27%. This is a critical point many families are unaware of and can generate an unexpected tax bill.",
+      "visual": "US UK donor income tax gift property capital gain tax problem unknown",
+      "duration": 25
     },
     {
-      "voice": "La plusvalía municipal en herencias y donaciones. Además del Impuesto de Sucesiones y del IRPF, en las transmisiones de inmuebles hay que considerar la plusvalía municipal, el Impuesto sobre el Incremento del Valor de los Terrenos de Naturaleza Urbana. En las herencias, la paga el heredero. En las donaciones, la paga el donatario. Tras la sentencia del Tribunal Constitucional de octubre de 2021, el impuesto fue reformado y ahora existe la opción de calcular la plusvalía por el método real o el objetivo, eligiendo el que resulte más favorable.",
-      "visual": "Spain municipal capital gains tax inheritance donation plusvalia 2021"
+      "voice": "The municipal capital gains tax on inheritances and gifts. Besides the inheritance tax and income tax, in property transfers, you must consider the municipal capital gains tax. In inheritances, it's paid by the heir. In gifts, it's paid by the recipient. After the Constitutional Court's ruling in 2021, the tax was reformed, and now there's the option to calculate the capital gains tax using the real or objective method, choosing the one that's more favorable.",
+      "visual": "US UK municipal capital gains tax inheritance donation 2021",
+      "duration": 25
     },
     {
-      "voice": "Pactos sucesorios en comunidades donde están permitidos. En Galicia, Cataluña, País Vasco, Navarra, Aragón y Baleares, los llamados pactos sucesorios permiten transmitir bienes de padres a hijos en vida con un tratamiento fiscal más favorable. En algunos de estos territorios, la transmisión por pacto sucesorio queda exenta de plusvalía municipal y la ganancia patrimonial del donante no tributa en el IRPF. Son instrumentos muy eficientes en los territorios que los permiten, pero requieren escritura notarial.",
-      "visual": "Spain succession pact regional law Galicia Catalonia inheritance plan"
+      "voice": "Succession agreements in regions where they are allowed. In some regions, succession agreements allow the transfer of properties from parents to children during their lifetime with more favorable tax treatment. In some of these territories, the transfer through a succession agreement is exempt from municipal capital gains tax, and the donor's capital gain is not taxed in their income tax. These are very efficient tools in the regions that allow them but require a notarial deed.",
+      "visual": "US UK succession agreement regional law inheritance plan",
+      "duration": 25
     },
     {
-      "voice": "El seguro de vida como herramienta de planificación sucesoria. Los capitales de seguros de vida que se cobran por fallecimiento del asegurado tributan en el Impuesto de Sucesiones, no en el IRPF. Pero tienen una reducción estatal específica de 9.195 euros por beneficiario del grupo I y II. Además, en algunas comunidades el seguro de vida tiene bonificaciones adicionales. Un seguro de vida bien estructurado puede ser una forma eficiente de transmitir capital a los beneficiarios con menor carga fiscal.",
-      "visual": "Spain life insurance inheritance tax succession planning beneficiary"
+      "voice": "Life insurance as a tool for estate planning. Life insurance capitals paid upon the death of the insured are taxed in the inheritance tax, not in the income tax. But they have a specific national reduction of 9,195 dollars per beneficiary of groups I and II. Additionally, in some regions, life insurance has additional bonuses. A well-structured life insurance policy can be an efficient way to transfer capital to beneficiaries with a lower tax burden.",
+      "visual": "US UK life insurance inheritance tax succession planning beneficiary",
+      "duration": 25
     },
     {
-      "voice": "El usufructo viudal como instrumento de planificación. El cónyuge superviviente tiene derecho legal al tercio de usufructo del tercio de mejora y al tercio de libre disposición según el Código Civil. En términos fiscales, cuando se divide el pleno dominio en nuda propiedad para los hijos y usufructo para el cónyuge, cada parte tributa por su proporción. El usufructo se valora como el 70% del valor total menos el 1% por cada año de edad del usufructuario. Esta división puede reducir la carga fiscal total de la herencia.",
-      "visual": "Spain usufruct widower inheritance tax split bare ownership strategy"
+      "voice": "The usufruct as an instrument for planning. The surviving spouse has a legal right to the usufruct of the property. In fiscal terms, when the full ownership is divided into bare ownership for the children and usufruct for the spouse, each part is taxed according to its proportion. The usufruct is valued at 70% of the total value minus 1% for each year of age of the usufructuary. This division can reduce the total tax burden of the inheritance.",
+      "visual": "US UK usufruct inheritance tax split bare ownership strategy",
+      "duration": 25
     },
     {
-      "voice": "Resumen de planificación sucesoria básica. Primero: conoce la normativa de la comunidad autónoma donde resides, que puede ser muy diferente de la estatal. Segundo: si el patrimonio principal es un inmueble, analiza los costes fiscales tanto de donación en vida como de herencia, incluyendo el IRPF del donante. Tercero: en comunidades con bonificaciones del 99% como Madrid y Andalucía, la herencia prácticamente no tributa para hijos y cónyuge, haciendo innecesaria la planificación compleja. Cuarto: consulta con notario y asesor fiscal para importes significativos, el coste del asesoramiento siempre es inferior al ahorro posible.",
-      "visual": "Spain succession planning summary community region notary advisor strategy"
+      "voice": "Summary of basic estate planning. First: know the regulations of the region where you reside, which can be very different from national regulations. Second: if the main asset is a property, analyze the tax costs of both gifting during your lifetime and inheriting, including the donor's income tax. Third: in regions with 99% bonuses, inheriting is practically tax-free for children and spouses, making complex planning unnecessary. Fourth: consult with a notary and tax advisor for significant amounts; the cost of advice is always less than the possible savings.",
+      "visual": "US UK estate planning summary region notary advisor strategy",
+      "duration": 25
     }
   ]
 }

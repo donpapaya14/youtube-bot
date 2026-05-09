@@ -1,33 +1,144 @@
 {
-  "title": "A Cat's Senses Are SUPERHUMAN 🐱 The Science Behind Them",
+  "title": "A Cat's Senses Are SUPERHUMAN The Science Behind Them",
   "description": "Cats can see in the dark, hear ultrasounds, and smell things invisible to us. Discover how the 5 senses of cats work according to science. Night vision, ultrasonic hearing, smell 14 times more powerful than human. Scientific data revealing why cats are sensory superpredators.",
-  "tags": ["cat senses", "cat night vision", "cat hearing", "feline smell", "cat whiskers", "cat eyes", "cat superpowers", "feline science", "cat curiosities", "cat anatomy"],
+  "tags": [
+    "cat senses",
+    "cat night vision",
+    "cat hearing",
+    "feline smell",
+    "cat whiskers",
+    "cat eyes",
+    "cat superpowers",
+    "feline science",
+    "cat curiosities",
+    "cat anatomy"
+  ],
   "segments": [
-    {"voice": "A cat can detect the movement of a mouse fifty meters away in complete darkness, hear the heartbeat of its prey through a wall, and smell a single food molecule among millions of others. Your cat's senses operate in dimensions we can't even perceive. Today we show you the feline sensory superpower.", "visual": "cat in dark room eyes glowing green", "duration": 25},
-    {"voice": "Welcome to CatBrothers. Cats don't see the world the way we do. They literally inhabit a different sensory reality, richer in sounds, smells, and movement. Each of their senses has been refined by fifty million years of predator evolution. Get ready to see your cat with new eyes.", "visual": "cat looking around alert all senses", "duration": 25},
-    {"voice": "Let's start with vision. Cats' eyes proportionally take up more space in their skull than any other carnivorous mammal. If humans had proportionally equal eyes, they would be the size of tennis balls. This massive structure lets them capture the maximum available light in low-luminosity conditions.", "visual": "cat eyes extreme close up beautiful", "duration": 25},
-    {"voice": "The key to their night vision is the tapetum lucidum, a reflective layer behind the retina that acts like a mirror. When light enters the eye, it passes through the retina, bounces off the tapetum, and passes through the retina again, doubling the stimulation of the photoreceptors. According to veterinary ophthalmologist Ron Ofri at Hebrew University, this lets them see with just one-sixth of the light we need.", "visual": "cat eyes reflecting light in darkness", "duration": 25},
-    {"voice": "Cats have a rod-to-cone ratio of twenty-five to one, compared to our four to one. Rods detect light and movement, cones detect color. This means cats see motion with supernatural precision, but in exchange they sacrifice color resolution. They see the world in shades of blue and green, with no red.", "visual": "cat watching moving object intensely focused", "duration": 25},
-    {"voice": "Their visual field is two hundred degrees, thirty degrees wider than the human one. But their binocular vision, where both eyes overlap to create depth, covers one hundred forty degrees. This combination of wide field and good depth perception makes them exceptional visual predators. They see more world and calculate distances better than we do.", "visual": "cat scanning wide field of vision", "duration": 25},
-    {"voice": "However, cats are nearsighted by human standards. They see clearly up to about six meters, while we see clearly at thirty meters or more. Doctor Kerry Ketring at the Animal Eye Center in Michigan explains that evolution optimized their vision for close-range hunting: catching mice, not spotting distant horizons.", "visual": "cat crouching ready to pounce close prey", "duration": 25},
-    {"voice": "Let's move to hearing, perhaps the cat's most impressive sense. They can detect frequencies up to sixty-four thousand hertz. Humans reach twenty thousand, dogs forty-five thousand. A study at the Bioacoustics Laboratory of the University of Maryland showed that this ultrasonic ability lets them hear the communication squeaks of rodents.", "visual": "cat ears perking up hearing sound", "duration": 25},
-    {"voice": "Cat ears function as biological parabolic antennas. Their thirty-two muscles per ear let them rotate them one hundred eighty degrees independently, locating the source of a sound with five-degree precision. Researcher Henry Heffner at the University of Toledo demonstrated they can distinguish between two sound sources separated by just eight centimeters at one meter away.", "visual": "cat rotating ears independently different directions", "duration": 25},
-    {"voice": "This auditory ability isn't just impressive, it's crucial for their survival as hunters. Mice communicate through ultrasounds between forty and sixty thousand hertz, completely inaudible to humans and dogs. Cats hear these secret conversations and use them to locate prey. It's like having a permanently active biological radar.", "visual": "cat stalking mouse hunting behavior", "duration": 25},
-    {"voice": "The cat's sense of smell is fourteen times more powerful than the human one. With two hundred million olfactory receptors compared to our five million, cats live in a world of smells we can't imagine. But they have an extra ace: the Jacobson's organ, also called the vomeronasal organ, located on the palate, which detects pheromones and chemical signals.", "visual": "cat sniffing air nose close up", "duration": 25},
-    {"voice": "When you see your cat open its mouth with a strange expression after smelling something, it's using the Jacobson's organ. This expression is called the Flehmen response and lets scent molecules reach the vomeronasal organ directly. Doctor Benjamin Hart at the University of California Davis explains that this response processes social and sexual information that the regular nose can't decode.", "visual": "cat flehmen response mouth open smelling", "duration": 25},
-    {"voice": "Cats use smell to create a social map of their territory. Every cat has a unique scent, like a chemical fingerprint. They rub their facial glands on objects to mark their space, and they can detect when another cat has been somewhere hours or even days later. The feline sense of smell is their social network, their GPS, and their security system all in one.", "visual": "cat rubbing face on furniture marking", "duration": 25},
-    {"voice": "Touch in cats is dominated by an extraordinary organ: the whiskers, technically called vibrissae. Each whisker is inserted three times deeper than a normal hair and connected to a dense network of nerve endings. Doctor Sarah Ellis at the feline behavior program at the University of Lincoln explains that whiskers are so sensitive they detect changes in air currents.", "visual": "cat whiskers close up detail macro", "duration": 25},
-    {"voice": "A cat's whiskers are exactly as wide as its body. They work as a natural ruler that lets it know if it can pass through a gap without getting stuck. A study published in the Journal of Neurophysiology showed that each vibrissa activates a specific cortical column in the brain, creating a three-dimensional tactile map of the surrounding space.", "visual": "cat squeezing through narrow space whiskers", "duration": 25},
-    {"voice": "Cats also have vibrissae on their front paws, just above the pads. These carpal whiskers let them detect ground vibrations and feel the prey they have caught. When a cat captures a mouse, it can feel whether it's still alive through these whiskers without needing to look. Surgical-level touch in a predator.", "visual": "cat paw pads close up showing carpal whiskers", "duration": 25},
-    {"voice": "Taste is paradoxically the cat's most limited sense. With only four hundred seventy taste buds compared to our nine thousand, cats live in a reduced taste world. And the most surprising part: a study at the Monell Chemical Senses Center discovered that cats completely lack the sweet taste receptor. They can't taste sugar at all.", "visual": "cat tasting food carefully selective", "duration": 25},
-    {"voice": "This inability to detect sweetness has an elegant evolutionary explanation. Cats are obligate carnivores. Their natural diet doesn't include sugary fruits or vegetables. The TAS1R2 gene, responsible for the sweet receptor, mutated and shut off millions of years ago because detecting sweetness offered no survival advantage for a pure meat predator.", "visual": "cat eating meat raw food natural", "duration": 25},
-    {"voice": "There's a sixth sense worth mentioning: feline proprioception, their sense of balance. Cats have an extraordinarily refined vestibular system in the inner ear. Combined with their tail, which acts as a counterweight, it lets them perform the famous righting reflex: always landing on their feet. An MIT study showed they can complete this rotation in just thirty centimeters of fall.", "visual": "cat landing on feet falling reflex", "duration": 25},
-    {"voice": "Cats also seem to detect phenomena that science still doesn't fully explain. There are hundreds of documented cases of cats predicting earthquakes, storms, and medical emergencies. A Japanese study published after the 2011 Tohoku earthquake documented anomalous behaviors in cats hours before the seismic event. They could detect pre-seismic vibrations inaudible to humans.", "visual": "cat acting strange alert before storm", "duration": 25},
-    {"voice": "The most famous case is Oscar, a cat from the Steere House Rehabilitation Center in Rhode Island that predicted the death of more than fifty patients, curling up next to them hours before they passed. Doctor David Dosa published these cases in the New England Journal of Medicine. The most accepted theory is that Oscar detected biochemical body changes through his hypersensitive sense of smell.", "visual": "cat lying next to elderly person gentle", "duration": 25},
-    {"voice": "The cat's sensory ability also extends to the perception of electromagnetic fields. A study at the University of Duisburg-Essen in Germany suggested that cats might be sensitive to Earth's magnetic fields, using them as an internal compass for navigation. This would explain documented cases of cats traveling hundreds of kilometers to return home.", "visual": "cat navigating outdoors returning home", "duration": 25},
-    {"voice": "When you watch your cat sitting by the window, apparently doing nothing, remember that it's processing a flow of sensory information you can't even imagine. It's listening to ultrasounds, smelling cat pheromones two hundred meters away, seeing imperceptible movements, and feeling air currents with its whiskers. Your cat is never idle. It's always perceiving.", "visual": "cat sitting at window observing outside alert", "duration": 25},
-    {"voice": "Cat senses remind us that we share the planet with creatures whose experience of reality is radically different from ours. Your cat lives in a louder, smellier, darker, and more vibrant world than yours. And yet, it chooses to be by your side. That says a lot about what you mean to it.", "visual": "cat and owner together peaceful sunset", "duration": 25},
-    {"voice": "If you love cats as much as we do, subscribe to CatBrothers and hit the bell. What's coming next week is going to blow your mind. We're sharing real stories of cats that saved human lives, documented and verified. They're incredible accounts proving how deep the bond between cat and human can go. See you in the next documentary.", "visual": "majestic cat portrait looking at camera", "duration": 20}
+    {
+      "voice": "A cat can detect the movement of a mouse fifty meters away in complete darkness, hear the heartbeat of its prey through a wall, and smell a single food molecule among millions of others. Your cat's senses operate in dimensions we can't even perceive. Today we show you the feline sensory superpower.",
+      "visual": "cat in dark room eyes glowing green",
+      "duration": 25
+    },
+    {
+      "voice": "Welcome to CatBrothers. Cats don't see the world the way we do. They literally inhabit a different sensory reality, richer in sounds, smells, and movement. Each of their senses has been refined by fifty million years of predator evolution. Get ready to see your cat with new eyes.",
+      "visual": "cat looking around alert all senses",
+      "duration": 25
+    },
+    {
+      "voice": "Let's start with vision. Cats' eyes proportionally take up more space in their skull than any other carnivorous mammal. If humans had proportionally equal eyes, they would be the size of tennis balls. This massive structure lets them capture the maximum available light in low-luminosity conditions.",
+      "visual": "cat eyes extreme close up beautiful",
+      "duration": 25
+    },
+    {
+      "voice": "The key to their night vision is the tapetum lucidum, a reflective layer behind the retina that acts like a mirror. When light enters the eye, it passes through the retina, bounces off the tapetum, and passes through the retina again, doubling the stimulation of the photoreceptors. According to veterinary ophthalmologist Ron Ofri at Hebrew University, this lets them see with just one-sixth of the light we need.",
+      "visual": "cat eyes reflecting light in darkness",
+      "duration": 25
+    },
+    {
+      "voice": "Cats have a rod-to-cone ratio of twenty-five to one, compared to our four to one. Rods detect light and movement, cones detect color. This means cats see motion with supernatural precision, but in exchange they sacrifice color resolution. They see the world in shades of blue and green, with no red.",
+      "visual": "cat watching moving object intensely focused",
+      "duration": 25
+    },
+    {
+      "voice": "Their visual field is two hundred degrees, thirty degrees wider than the human one. But their binocular vision, where both eyes overlap to create depth, covers one hundred forty degrees. This combination of wide field and good depth perception makes them exceptional visual predators. They see more world and calculate distances better than we do.",
+      "visual": "cat scanning wide field of vision",
+      "duration": 25
+    },
+    {
+      "voice": "However, cats are nearsighted by human standards. They see clearly up to about six meters, while we see clearly at thirty meters or more. Doctor Kerry Ketring at the Animal Eye Center in Michigan explains that evolution optimized their vision for close-range hunting: catching mice, not spotting distant horizons.",
+      "visual": "cat crouching ready to pounce close prey",
+      "duration": 25
+    },
+    {
+      "voice": "Let's move to hearing, perhaps the cat's most impressive sense. They can detect frequencies up to sixty-four thousand hertz. Humans reach twenty thousand, dogs forty-five thousand. A study at the Bioacoustics Laboratory of the University of Maryland showed that this ultrasonic ability lets them hear the communication squeaks of rodents.",
+      "visual": "cat ears perking up hearing sound",
+      "duration": 25
+    },
+    {
+      "voice": "Cat ears function as biological parabolic antennas. Their thirty-two muscles per ear let them rotate them one hundred eighty degrees independently, locating the source of a sound with five-degree precision. Researcher Henry Heffner at the University of Toledo demonstrated they can distinguish between two sound sources separated by just eight centimeters at one meter away.",
+      "visual": "cat rotating ears independently different directions",
+      "duration": 25
+    },
+    {
+      "voice": "This auditory ability isn't just impressive, it's crucial for their survival as hunters. Mice communicate through ultrasounds between forty and sixty thousand hertz, completely inaudible to humans and dogs. Cats hear these secret conversations and use them to locate prey. It's like having a permanently active biological radar.",
+      "visual": "cat stalking mouse hunting behavior",
+      "duration": 25
+    },
+    {
+      "voice": "The cat's sense of smell is fourteen times more powerful than the human one. With two hundred million olfactory receptors compared to our five million, cats live in a world of smells we can't imagine. But they have an extra ace: the Jacobson's organ, also called the vomeronasal organ, located on the palate, which detects pheromones and chemical signals.",
+      "visual": "cat sniffing air nose close up",
+      "duration": 25
+    },
+    {
+      "voice": "When you see your cat open its mouth with a strange expression after smelling something, it's using the Jacobson's organ. This expression is called the Flehmen response and lets scent molecules reach the vomeronasal organ directly. Doctor Benjamin Hart at the University of California Davis explains that this response processes social and sexual information that the regular nose can't decode.",
+      "visual": "cat flehmen response mouth open smelling",
+      "duration": 25
+    },
+    {
+      "voice": "Cats use smell to create a social map of their territory. Every cat has a unique scent, like a chemical fingerprint. They rub their facial glands on objects to mark their space, and they can detect when another cat has been somewhere hours or even days later. The feline sense of smell is their social network, their GPS, and their security system all in one.",
+      "visual": "cat rubbing face on furniture marking",
+      "duration": 25
+    },
+    {
+      "voice": "Touch in cats is dominated by an extraordinary organ: the whiskers, technically called vibrissae. Each whisker is inserted three times deeper than a normal hair and connected to a dense network of nerve endings. Doctor Sarah Ellis at the feline behavior program at the University of Lincoln explains that whiskers are so sensitive they detect changes in air currents.",
+      "visual": "cat whiskers close up detail macro",
+      "duration": 25
+    },
+    {
+      "voice": "A cat's whiskers are exactly as wide as its body. They work as a natural ruler that lets it know if it can pass through a gap without getting stuck. A study published in the Journal of Neurophysiology showed that each vibrissa activates a specific cortical column in the brain, creating a three-dimensional tactile map of the surrounding space.",
+      "visual": "cat squeezing through narrow space whiskers",
+      "duration": 25
+    },
+    {
+      "voice": "Cats also have vibrissae on their front paws, just above the pads. These carpal whiskers let them detect ground vibrations and feel the prey they have caught. When a cat captures a mouse, it can feel whether it's still alive through these whiskers without needing to look. Surgical-level touch in a predator.",
+      "visual": "cat paw pads close up showing carpal whiskers",
+      "duration": 25
+    },
+    {
+      "voice": "Taste is paradoxically the cat's most limited sense. With only four hundred seventy taste buds compared to our nine thousand, cats live in a reduced taste world. And the most surprising part: a study at the Monell Chemical Senses Center discovered that cats completely lack the sweet taste receptor. They can't taste sugar at all.",
+      "visual": "cat tasting food carefully selective",
+      "duration": 25
+    },
+    {
+      "voice": "This inability to detect sweetness has an elegant evolutionary explanation. Cats are obligate carnivores. Their natural diet doesn't include sugary fruits or vegetables. The TAS1R2 gene, responsible for the sweet receptor, mutated and shut off millions of years ago because detecting sweetness offered no survival advantage for a pure meat predator.",
+      "visual": "cat eating meat raw food natural",
+      "duration": 25
+    },
+    {
+      "voice": "There's a sixth sense worth mentioning: feline proprioception, their sense of balance. Cats have an extraordinarily refined vestibular system in the inner ear. Combined with their tail, which acts as a counterweight, it lets them perform the famous righting reflex: always landing on their feet. An MIT study showed they can complete this rotation in just thirty centimeters of fall.",
+      "visual": "cat landing on feet falling reflex",
+      "duration": 25
+    },
+    {
+      "voice": "Cats also seem to detect phenomena that science still doesn't fully explain. There are hundreds of documented cases of cats predicting earthquakes, storms, and medical emergencies. A Japanese study published after the 2011 Tohoku earthquake documented anomalous behaviors in cats hours before the seismic event. They could detect pre-seismic vibrations inaudible to humans.",
+      "visual": "cat acting strange alert before storm",
+      "duration": 25
+    },
+    {
+      "voice": "The most famous case is Oscar, a cat from the Steere House Rehabilitation Center in Rhode Island that predicted the death of more than fifty patients, curling up next to them hours before they passed. Doctor David Dosa published these cases in the New England Journal of Medicine. The most accepted theory is that Oscar detected biochemical body changes through his hypersensitive sense of smell.",
+      "visual": "cat lying next to elderly person gentle",
+      "duration": 25
+    },
+    {
+      "voice": "The cat's sensory ability also extends to the perception of electromagnetic fields. A study at the University of Duisburg-Essen in Germany suggested that cats might be sensitive to Earth's magnetic fields, using them as an internal compass for navigation. This would explain documented cases of cats traveling hundreds of kilometers to return home.",
+      "visual": "cat navigating outdoors returning home",
+      "duration": 25
+    },
+    {
+      "voice": "When you watch your cat sitting by the window, apparently doing nothing, remember that it's processing a flow of sensory information you can't even imagine. It's listening to ultrasounds, smelling cat pheromones two hundred meters away, seeing imperceptible movements, and feeling air currents with its whiskers. Your cat is never idle. It's always perceiving.",
+      "visual": "cat sitting at window observing outside alert",
+      "duration": 25
+    },
+    {
+      "voice": "Cat senses remind us that we share the planet with creatures whose experience of reality is radically different from ours. Your cat lives in a louder, smellier, darker, and more vibrant world than yours. And yet, it chooses to be by your side. That says a lot about what you mean to it.",
+      "visual": "cat and owner together peaceful sunset",
+      "duration": 25
+    },
+    {
+      "voice": "If you love cats as much as we do, subscribe to CatBrothers and hit the bell. What's coming next week is going to blow your mind. We're sharing real stories of cats that saved human lives, documented and verified. They're incredible accounts proving how deep the bond between cat and human can go. See you in the next documentary.",
+      "visual": "majestic cat portrait looking at camera",
+      "duration": 20
+    }
   ],
   "thumbnail_text": "EXTREME SENSES"
 }

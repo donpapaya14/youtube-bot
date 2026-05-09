@@ -1,33 +1,144 @@
 {
-  "title": "Cats That SAVED Human Lives 🐱 Real Documented Stories",
+  "title": "Cats That SAVED Human Lives Real Documented Stories",
   "description": "Real, documented stories of cats that saved their owners' lives. From detecting fires to alerting medical emergencies. Cases verified by outlets like BBC, CNN, and scientific studies. Proof that cats are more than pets: they are silent guardians that protect those they love.",
-  "tags": ["hero cats", "cats saved lives", "cat stories", "protective cats", "amazing cats", "real cat stories", "cats detect danger", "cat human bond", "loyal cats", "cat documentaries"],
+  "tags": [
+    "hero cats",
+    "cats saved lives",
+    "cat stories",
+    "protective cats",
+    "amazing cats",
+    "real cat stories",
+    "cats detect danger",
+    "cat human bond",
+    "loyal cats",
+    "cat documentaries"
+  ],
   "segments": [
-    {"voice": "In May 2014, a security camera in Bakersfield, California, recorded the exact moment a cat launched itself at a dog that was attacking a four-year-old boy. The video went viral with more than thirty million views. That cat was named Tara, and what she did challenged everything we thought we knew about cats. Today we tell you her story and many more.", "visual": "cat protecting child brave stance", "duration": 25},
-    {"voice": "Welcome to CatBrothers. There's a persistent myth that cats are selfish, that they only care about themselves. The stories you're about to hear today completely destroy that myth. They are real cases, documented by international media and verified by veterinarians and scientists. Ordinary cats that did extraordinary things.", "visual": "heroic cat looking brave determined", "duration": 25},
-    {"voice": "Tara's story shocked the world. Jeremy Triantafilo, four years old, was playing in the yard when the neighbor's dog bit his leg and started dragging him. Tara, the family cat, sprinted across the yard, slammed into the dog with her whole body, and chased him until he fled. Jeremy needed stitches, but Tara prevented something far worse.", "visual": "cat running fast protective aggressive", "duration": 25},
-    {"voice": "Veterinary behaviorists were stunned. Doctor Bonnie Beaver, professor of animal behavior at Texas A&M University, explained that Tara's behavior is extremely rare but not impossible. Cats can form intense protective bonds, especially with children of the household whom they perceive as part of their social group.", "visual": "cat sitting protectively next to child", "duration": 25},
-    {"voice": "In 2012, in Melbourne, Australia, a cat named Sally woke her owner, Sue McKenzie, in the middle of the night by jumping repeatedly onto her chest and meowing insistently. Sue woke up confused, but when she got up she discovered the house was filling with carbon monoxide from a gas leak. Sally saved the lives of the entire family.", "visual": "cat waking up sleeping person urgently at night", "duration": 25},
-    {"voice": "Cats can detect carbon monoxide before humans can, thanks to their faster metabolism. They are more sensitive to changes in air composition. Doctor Richard Goldstein at the Cornell University Veterinary Hospital explains that cats detect toxic gases because their small lungs react faster to atmospheric changes.", "visual": "cat sniffing air alertly concerned", "duration": 25},
-    {"voice": "In 2007, a cat named Pudding saved the life of Amy Jung just hours after being adopted. Amy was suffering a diabetic seizure during the night. Pudding jumped on her chest, bit her nose to wake her, and when he saw she wasn't fully responding, he ran to her son's room and meowed until the boy went to find help. Amy survived because of that cat.", "visual": "orange cat jumping on bed alert worried", "duration": 25},
-    {"voice": "Pudding's story was published by outlets like ABC News and NBC. Door County Regional Hospital confirmed that Amy would have suffered irreversible brain damage or death if she hadn't received treatment in the next few minutes. Pudding was named Therapy Cat of the Year by the Pet Partners therapy animal association.", "visual": "cat receiving award being petted praised", "duration": 25},
-    {"voice": "In Russia, in 2015, a cat named Masha became a national hero by saving the life of an abandoned baby. The baby was left in a box in a stairwell during the Russian winter, in below-freezing temperatures. Masha climbed into the box with the baby, kept him warm with her body, and meowed for hours until neighbors heard and found the child alive.", "visual": "cat curled up keeping warm protective", "duration": 25},
-    {"voice": "Masha's story was reported by the BBC and multiple Russian outlets. The paramedics who arrived found the baby in perfect condition, warm next to the cat that refused to leave him. The local veterinarian confirmed that the cat's body temperature, around thirty-eight degrees Celsius, was enough to keep the baby alive through the freezing night.", "visual": "cat next to baby gentle protective warm", "duration": 25},
-    {"voice": "Cats have also shown the ability to detect illness. In 2012, in Staffordshire, England, a cat named Fidge began jumping repeatedly onto her owner Wendy Humphreys' left breast. Wendy went to the doctor out of curiosity and was diagnosed with a malignant tumor exactly where Fidge had been insisting on touching.", "visual": "cat pressing paw on person chest gently", "duration": 25},
-    {"voice": "The oncologist who treated Wendy confirmed the tumor was at an early stage and was completely curable thanks to early detection. Similar cases have been documented in the British Medical Journal. Scientists believe cats can smell the volatile organic compounds that cancer cells release, detecting them with their sense of smell fourteen times more powerful than human.", "visual": "woman hugging cat gratefully emotional", "duration": 25},
-    {"voice": "In Montana, United States, a cat named Schnautzie woke her family in 2007 by pawing her owner's face repeatedly. When Trudy Guy woke up, she discovered a natural gas leak had filled the basement. Firefighters confirmed that the gas concentration was enough to cause an explosion. Schnautzie saved two adults and several household animals.", "visual": "cat pawing at owner face persistently", "duration": 25},
-    {"voice": "In Japan, a cat named Tama became stationmaster of the Kishi train station in 2007. But her real feat was saving the station from demolition. Tama's presence attracted so many tourists that the train line, which was about to close due to lack of passengers, experienced a seventeen percent rise in ridership. Tama generated more than eleven million dollars in tourism.", "visual": "cat sitting at train station entrance Japan", "duration": 25},
-    {"voice": "In 2003, in New Castle, Indiana, an orange cat named Tommy called 911 by pressing the emergency button on the phone when his owner, Gary Rosheisen, fell and couldn't get up. When the police arrived, they found Gary on the floor and Tommy next to the phone. Gary had trained Tommy to dial emergencies, but he never thought he actually would.", "visual": "cat next to telephone pressing button", "duration": 25},
-    {"voice": "Tommy's story was verified by New Castle police and published by Associated Press. Officer Patrick Daugherty confirmed that when they arrived at the house, the cat was literally next to the phone with the receiver off the hook and 911 on the line. Gary explained that Tommy had learned by watching him dial numbers repeatedly.", "visual": "cat looking at phone intelligent expression", "duration": 25},
-    {"voice": "In 2010, in Brighton, England, a cat named Missy began behaving strangely with her owner Claire Nelson: sniffing her compulsively and gently tapping her head with a paw. Claire went to the doctor and was diagnosed with a brain aneurysm that could have been fatal. Surgeons operated in time and Claire credits her life to Missy's insistence.", "visual": "cat gently touching person head with paw", "duration": 25},
-    {"voice": "The neurologists who treated Claire speculated that Missy might have detected subtle changes in body odor caused by altered intracranial pressure. Doctor Daniel Mills at the University of Lincoln explains that cats are extremely sensitive to changes in their owners' scent, which could explain many cases of feline medical detection.", "visual": "cat smelling person head concerned behavior", "duration": 25},
-    {"voice": "In Colombia, a cat named Simon alerted his owners during an earthquake in 2019 by howling and running through the house thirty seconds before the shaking began. The family ran out of the house just in time before a wall collapsed onto the bed where they had been sleeping. Seismologists confirmed that some animals detect P-waves, the pre-seismic vibrations imperceptible to humans.", "visual": "cat running urgently through house alert", "duration": 25},
-    {"voice": "Perhaps the sweetest story is that of a cat named Pippa in Scotland. In 2018, Pippa began visiting an elderly neighbor daily who lived alone and suffered severe depression. The woman, Janet, confessed to local media that Pippa gave her a reason to get up every morning. Her psychiatrist confirmed that the cat's visits were a key factor in her emotional recovery.", "visual": "cat visiting elderly person sitting together", "duration": 25},
-    {"voice": "In Italy, a cat named Tommasino inherited ten million euros from his owner Maria Assunta in 2011. But beyond the inheritance, what moved Italy was the backstory: Tommasino had alerted neighbors when Maria fell and couldn't get up, meowing insistently for hours until someone came in to check. He was her guardian until his owner's last day.", "visual": "devoted cat sitting next to elderly owner", "duration": 25},
-    {"voice": "These stories raise a deep scientific question: do cats consciously act to save lives, or is it instinct? Ethologist John Bradshaw at the University of Bristol suggests it's probably a combination. Cats detect sensory anomalies instinctively, but their response, seeking help, alerting, protecting, involves a level of processing that goes beyond simple reflex.", "visual": "cat looking thoughtfully at owner meaningful", "duration": 25},
-    {"voice": "A 2019 study published in Current Biology showed that cats are capable of inferring the location of invisible objects using only auditory information, a cognitive skill called causal-logical representation. This suggests that when a cat detects a danger, it can reason about its consequences and act accordingly. It's not just instinct, it's cognition.", "visual": "intelligent cat analyzing situation alert", "duration": 25},
-    {"voice": "What all these stories have in common is something science is increasingly confirming: cats form deep emotional bonds with humans. They are not the cold, indifferent animals the stereotype suggests. They are silent guardians that observe, detect, and protect the people they love, in their feline and incomparable way.", "visual": "cat and owner bonding emotional close up", "duration": 25},
-    {"voice": "If you love cats as much as we do, subscribe to CatBrothers and hit the bell. What's coming next week is going to blow your mind. We're revealing why cats sleep sixteen hours a day, and the science behind feline sleep is much more complex than you imagine. See you in the next documentary.", "visual": "cat hero looking at camera proud noble", "duration": 20}
+    {
+      "voice": "In May 2014, a security camera in Bakersfield, California, recorded the exact moment a cat launched itself at a dog that was attacking a four-year-old boy. The video went viral with more than thirty million views. That cat was named Tara, and what she did challenged everything we thought we knew about cats. Today we tell you her story and many more.",
+      "visual": "cat protecting child brave stance",
+      "duration": 25
+    },
+    {
+      "voice": "Welcome to CatBrothers. There's a persistent myth that cats are selfish, that they only care about themselves. The stories you're about to hear today completely destroy that myth. They are real cases, documented by international media and verified by veterinarians and scientists. Ordinary cats that did extraordinary things.",
+      "visual": "heroic cat looking brave determined",
+      "duration": 25
+    },
+    {
+      "voice": "Tara's story shocked the world. Jeremy Triantafilo, four years old, was playing in the yard when the neighbor's dog bit his leg and started dragging him. Tara, the family cat, sprinted across the yard, slammed into the dog with her whole body, and chased him until he fled. Jeremy needed stitches, but Tara prevented something far worse.",
+      "visual": "cat running fast protective aggressive",
+      "duration": 25
+    },
+    {
+      "voice": "Veterinary behaviorists were stunned. Doctor Bonnie Beaver, professor of animal behavior at Texas A&M University, explained that Tara's behavior is extremely rare but not impossible. Cats can form intense protective bonds, especially with children of the household whom they perceive as part of their social group.",
+      "visual": "cat sitting protectively next to child",
+      "duration": 25
+    },
+    {
+      "voice": "In 2012, in Melbourne, Australia, a cat named Sally woke her owner, Sue McKenzie, in the middle of the night by jumping repeatedly onto her chest and meowing insistently. Sue woke up confused, but when she got up she discovered the house was filling with carbon monoxide from a gas leak. Sally saved the lives of the entire family.",
+      "visual": "cat waking up sleeping person urgently at night",
+      "duration": 25
+    },
+    {
+      "voice": "Cats can detect carbon monoxide before humans can, thanks to their faster metabolism. They are more sensitive to changes in air composition. Doctor Richard Goldstein at the Cornell University Veterinary Hospital explains that cats detect toxic gases because their small lungs react faster to atmospheric changes.",
+      "visual": "cat sniffing air alertly concerned",
+      "duration": 25
+    },
+    {
+      "voice": "In 2007, a cat named Pudding saved the life of Amy Jung just hours after being adopted. Amy was suffering a diabetic seizure during the night. Pudding jumped on her chest, bit her nose to wake her, and when he saw she wasn't fully responding, he ran to her son's room and meowed until the boy went to find help. Amy survived because of that cat.",
+      "visual": "orange cat jumping on bed alert worried",
+      "duration": 25
+    },
+    {
+      "voice": "Pudding's story was published by outlets like ABC News and NBC. Door County Regional Hospital confirmed that Amy would have suffered irreversible brain damage or death if she hadn't received treatment in the next few minutes. Pudding was named Therapy Cat of the Year by the Pet Partners therapy animal association.",
+      "visual": "cat receiving award being petted praised",
+      "duration": 25
+    },
+    {
+      "voice": "In Russia, in 2015, a cat named Masha became a national hero by saving the life of an abandoned baby. The baby was left in a box in a stairwell during the Russian winter, in below-freezing temperatures. Masha climbed into the box with the baby, kept him warm with her body, and meowed for hours until neighbors heard and found the child alive.",
+      "visual": "cat curled up keeping warm protective",
+      "duration": 25
+    },
+    {
+      "voice": "Masha's story was reported by the BBC and multiple Russian outlets. The paramedics who arrived found the baby in perfect condition, warm next to the cat that refused to leave him. The local veterinarian confirmed that the cat's body temperature, around thirty-eight degrees Celsius, was enough to keep the baby alive through the freezing night.",
+      "visual": "cat next to baby gentle protective warm",
+      "duration": 25
+    },
+    {
+      "voice": "Cats have also shown the ability to detect illness. In 2012, in Staffordshire, England, a cat named Fidge began jumping repeatedly onto her owner Wendy Humphreys' left breast. Wendy went to the doctor out of curiosity and was diagnosed with a malignant tumor exactly where Fidge had been insisting on touching.",
+      "visual": "cat pressing paw on person chest gently",
+      "duration": 25
+    },
+    {
+      "voice": "The oncologist who treated Wendy confirmed the tumor was at an early stage and was completely curable thanks to early detection. Similar cases have been documented in the British Medical Journal. Scientists believe cats can smell the volatile organic compounds that cancer cells release, detecting them with their sense of smell fourteen times more powerful than human.",
+      "visual": "woman hugging cat gratefully emotional",
+      "duration": 25
+    },
+    {
+      "voice": "In Montana, United States, a cat named Schnautzie woke her family in 2007 by pawing her owner's face repeatedly. When Trudy Guy woke up, she discovered a natural gas leak had filled the basement. Firefighters confirmed that the gas concentration was enough to cause an explosion. Schnautzie saved two adults and several household animals.",
+      "visual": "cat pawing at owner face persistently",
+      "duration": 25
+    },
+    {
+      "voice": "In Japan, a cat named Tama became stationmaster of the Kishi train station in 2007. But her real feat was saving the station from demolition. Tama's presence attracted so many tourists that the train line, which was about to close due to lack of passengers, experienced a seventeen percent rise in ridership. Tama generated more than eleven million dollars in tourism.",
+      "visual": "cat sitting at train station entrance Japan",
+      "duration": 25
+    },
+    {
+      "voice": "In 2003, in New Castle, Indiana, an orange cat named Tommy called 911 by pressing the emergency button on the phone when his owner, Gary Rosheisen, fell and couldn't get up. When the police arrived, they found Gary on the floor and Tommy next to the phone. Gary had trained Tommy to dial emergencies, but he never thought he actually would.",
+      "visual": "cat next to telephone pressing button",
+      "duration": 25
+    },
+    {
+      "voice": "Tommy's story was verified by New Castle police and published by Associated Press. Officer Patrick Daugherty confirmed that when they arrived at the house, the cat was literally next to the phone with the receiver off the hook and 911 on the line. Gary explained that Tommy had learned by watching him dial numbers repeatedly.",
+      "visual": "cat looking at phone intelligent expression",
+      "duration": 25
+    },
+    {
+      "voice": "In 2010, in Brighton, England, a cat named Missy began behaving strangely with her owner Claire Nelson: sniffing her compulsively and gently tapping her head with a paw. Claire went to the doctor and was diagnosed with a brain aneurysm that could have been fatal. Surgeons operated in time and Claire credits her life to Missy's insistence.",
+      "visual": "cat gently touching person head with paw",
+      "duration": 25
+    },
+    {
+      "voice": "The neurologists who treated Claire speculated that Missy might have detected subtle changes in body odor caused by altered intracranial pressure. Doctor Daniel Mills at the University of Lincoln explains that cats are extremely sensitive to changes in their owners' scent, which could explain many cases of feline medical detection.",
+      "visual": "cat smelling person head concerned behavior",
+      "duration": 25
+    },
+    {
+      "voice": "In Colombia, a cat named Simon alerted his owners during an earthquake in 2019 by howling and running through the house thirty seconds before the shaking began. The family ran out of the house just in time before a wall collapsed onto the bed where they had been sleeping. Seismologists confirmed that some animals detect P-waves, the pre-seismic vibrations imperceptible to humans.",
+      "visual": "cat running urgently through house alert",
+      "duration": 25
+    },
+    {
+      "voice": "Perhaps the sweetest story is that of a cat named Pippa in Scotland. In 2018, Pippa began visiting an elderly neighbor daily who lived alone and suffered severe depression. The woman, Janet, confessed to local media that Pippa gave her a reason to get up every morning. Her psychiatrist confirmed that the cat's visits were a key factor in her emotional recovery.",
+      "visual": "cat visiting elderly person sitting together",
+      "duration": 25
+    },
+    {
+      "voice": "In Italy, a cat named Tommasino inherited ten million euros from his owner Maria Assunta in 2011. But beyond the inheritance, what moved Italy was the backstory: Tommasino had alerted neighbors when Maria fell and couldn't get up, meowing insistently for hours until someone came in to check. He was her guardian until his owner's last day.",
+      "visual": "devoted cat sitting next to elderly owner",
+      "duration": 25
+    },
+    {
+      "voice": "These stories raise a deep scientific question: do cats consciously act to save lives, or is it instinct? Ethologist John Bradshaw at the University of Bristol suggests it's probably a combination. Cats detect sensory anomalies instinctively, but their response, seeking help, alerting, protecting, involves a level of processing that goes beyond simple reflex.",
+      "visual": "cat looking thoughtfully at owner meaningful",
+      "duration": 25
+    },
+    {
+      "voice": "A 2019 study published in Current Biology showed that cats are capable of inferring the location of invisible objects using only auditory information, a cognitive skill called causal-logical representation. This suggests that when a cat detects a danger, it can reason about its consequences and act accordingly. It's not just instinct, it's cognition.",
+      "visual": "intelligent cat analyzing situation alert",
+      "duration": 25
+    },
+    {
+      "voice": "What all these stories have in common is something science is increasingly confirming: cats form deep emotional bonds with humans. They are not the cold, indifferent animals the stereotype suggests. They are silent guardians that observe, detect, and protect the people they love, in their feline and incomparable way.",
+      "visual": "cat and owner bonding emotional close up",
+      "duration": 25
+    },
+    {
+      "voice": "If you love cats as much as we do, subscribe to CatBrothers and hit the bell. What's coming next week is going to blow your mind. We're revealing why cats sleep sixteen hours a day, and the science behind feline sleep is much more complex than you imagine. See you in the next documentary.",
+      "visual": "cat hero looking at camera proud noble",
+      "duration": 20
+    }
   ],
   "thumbnail_text": "HERO CATS"
 }

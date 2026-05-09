@@ -108,6 +108,28 @@ Return ONLY the translated JSON with the EXACT same structure:
   "thumbnail_text": "TRANSLATED TEXT"
 }}"""
 
+PROMPT_REVERSE_TO_ES = """Translate this YouTube video script from English to Spanish (Spain).
+Keep the same structure, facts, scientific references, and tone.
+Do NOT change names of studies, researchers, or institutions.
+Use natural Spanish from Spain (not Latin American).
+Keep all durations exactly as-is.
+The "visual" field stays as English (it already describes visuals for stock footage search).
+
+Input JSON:
+{script}
+
+Return ONLY the translated JSON with the EXACT same structure:
+{{
+  "title": "título traducido en español",
+  "description": "descripción traducida",
+  "tags": ["etiquetas", "en", "español"],
+  "segments": [
+    {{"voice": "narración traducida al español", "visual": "same visual description in English", "duration": same_number}},
+    ...
+  ],
+  "thumbnail_text": "TEXTO ES"
+}}"""
+
 PROMPT_FINANCE_ADAPT = """Adapt this YouTube video script from Spanish personal finance (Spain-specific) to English personal finance for a US/UK audience.
 
 ADAPTATION RULES:
@@ -139,21 +161,34 @@ Return ONLY the adapted JSON with the EXACT same structure:
 }}"""
 
 
-def translate_file(path: Path, finance_mode: bool = False) -> bool:
-    """Returns True if translated, False if skipped (already English)."""
+_ES_FUNC = {"que","los","las","del","con","para","una","este","como","porque","pero","más","están","años","muy","cuando","ese","esta","tu","si","es","ya","no","me","te","se","en","la","el","de","y","a","por","sus","todo","sin","sobre"}
+
+def _detect_lang(text: str) -> str:
+    import re as _r
+    words = _r.findall(r"\b\w+\b", text.lower())[:200]
+    es_hits = sum(1 for w in words if w in _ES_FUNC)
+    return "es" if es_hits >= 5 else "en"
+
+
+def translate_file(path: Path, mode: str = "es_to_en") -> bool:
+    """Returns True if translated, False if skipped (already in target lang).
+    mode: 'es_to_en' (direct), 'es_to_en_finance' (US/UK adapt), 'en_to_es' (reverse)."""
     data = json.loads(path.read_text(encoding="utf-8"))
 
-    # Skip if already in English (check title)
-    title = data.get("title", "")
-    if not any(ord(c) > 127 for c in title) and len(title) > 5:
-        # Check a segment voice line
-        first_voice = data.get("segments", [{}])[0].get("voice", "")
-        spanish_words = ["que", "los", "las", "del", "con", "por", "para", "una", "este"]
-        if not any(w in first_voice.lower().split() for w in spanish_words):
-            log.info("SKIP (already English): %s", path.name)
-            return False
+    first_voice = " ".join(s.get("voice","")[:300] for s in data.get("segments",[])[:2])
+    actual = _detect_lang(first_voice)
+    target = "en" if mode in ("es_to_en", "es_to_en_finance") else "es"
 
-    prompt_template = PROMPT_FINANCE_ADAPT if finance_mode else PROMPT_DIRECT
+    if actual == target:
+        log.info("SKIP (already %s): %s", target, path.name)
+        return False
+
+    if mode == "es_to_en_finance":
+        prompt_template = PROMPT_FINANCE_ADAPT
+    elif mode == "en_to_es":
+        prompt_template = PROMPT_REVERSE_TO_ES
+    else:
+        prompt_template = PROMPT_DIRECT
     prompt = prompt_template.replace("{script}", json.dumps(data, ensure_ascii=False))
 
     result = call_ai(prompt)
@@ -178,30 +213,30 @@ def translate_file(path: Path, finance_mode: bool = False) -> bool:
 def main():
     base = Path(__file__).parent
 
+    # mode per folder: es_to_en | es_to_en_finance | en_to_es
     DIRS = {
-        "catbrothers": False,       # direct translation
-        "salud_longevidad": False,   # direct translation
-        "finanzas_clara": True,      # finance adaptation
+        "catbrothers": "es_to_en",
+        "finanzas_clara": "es_to_en_finance",
+        "salud_longevidad": "en_to_es",
     }
 
     total = 0
     translated = 0
     failed = 0
 
-    for folder, finance_mode in DIRS.items():
+    for folder, mode in DIRS.items():
         script_dir = base / folder
         files = sorted(script_dir.glob("*.json"))
-        log.info("=== %s: %d files ===", folder, len(files))
+        log.info("=== %s (%s): %d files ===", folder, mode, len(files))
 
         for i, f in enumerate(files):
             total += 1
             try:
-                done = translate_file(f, finance_mode=finance_mode)
+                done = translate_file(f, mode=mode)
                 if done:
                     translated += 1
-                # Rate limit: pause between calls (scripts are large, need longer wait)
                 if i < len(files) - 1:
-                    time.sleep(30)
+                    time.sleep(20)
             except Exception as e:
                 log.error("FAILED %s: %s", f.name, str(e)[:120])
                 failed += 1

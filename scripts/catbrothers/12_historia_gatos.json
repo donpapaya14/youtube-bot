@@ -1,33 +1,144 @@
 {
-  "title": "Historia de los Gatos 🐱 De Dioses Egipcios a Tu Sofá",
-  "description": "La historia completa de los gatos: desde los templos del antiguo Egipto donde eran adorados como dioses, pasando por la persecución medieval, hasta convertirse en la mascota más popular del siglo XXI. Diez mil años de evolución felina contados con datos arqueológicos y genéticos reales. Un viaje épico.",
-  "tags": ["gatos", "historia de los gatos", "gatos en Egipto", "domesticación felina", "gatos medievales", "evolución de gatos", "gatos antiguos", "Bastet diosa gata", "documentales de gatos", "gatos domésticos"],
-  "segments": [
-    {"voice": "Hace diez mil años, un gato salvaje decidió acercarse a un granero humano. Esa decisión cambió la historia de dos especies para siempre. Los gatos no fueron domesticados como los perros. Ellos se domesticaron a sí mismos. Y la evidencia arqueológica más antigua la encontramos en una tumba de Chipre del año siete mil quinientos antes de Cristo.", "visual": "ancient ruins archaeological site", "duration": 25},
-    {"voice": "Bienvenidos a CatBrothers. Hoy vamos a recorrer diez mil años de historia felina. Desde las arenas del Creciente Fértil hasta tu sofá. La historia de los gatos es una de las más fascinantes del reino animal, llena de adoración, persecución, superstición y redención. Empezamos.", "visual": "cat sitting majestically like sphinx", "duration": 25},
-    {"voice": "Todo comenzó en el Neolítico. Cuando los humanos inventaron la agricultura en el Creciente Fértil, los graneros atrajeron ratones. Y los ratones atrajeron gatos salvajes. Un estudio genético publicado en Science en 2007 por Carlos Driscoll del Instituto Nacional del Cáncer rastreó todos los gatos domésticos actuales al gato montés africano, Felis silvestris lybica.", "visual": "wild cat hunting mouse in field", "duration": 25},
-    {"voice": "La prueba arqueológica más antigua de convivencia gato-humano se encontró en Shillourokambos, Chipre. El arqueólogo Jean-Denis Vigne descubrió en 2004 un gato enterrado junto a un humano hace nueve mil quinientos años. Los gatos no son nativos de Chipre, así que alguien llevó deliberadamente a este gato en barco. Ya eran compañeros.", "visual": "ancient burial site excavation", "duration": 25},
-    {"voice": "Pero la verdadera edad de oro felina llegó con Egipto. Los antiguos egipcios elevaron a los gatos al estatus de divinidad. La diosa Bastet, representada como una mujer con cabeza de gata, era protectora del hogar, la fertilidad y los niños. El historiador Heródoto documentó en el siglo quinto antes de Cristo que matar un gato en Egipto se castigaba con la muerte.", "visual": "ancient egyptian cat statue gold", "duration": 25},
-    {"voice": "Los egipcios momificaban gatos con el mismo cuidado que a los humanos. Investigadores del Museo Británico analizaron con tomografía más de ochocientas momias de gatos. Descubrieron que muchos eran gatitos criados específicamente como ofrendas a Bastet. En la ciudad de Bubastis se celebraba un festival anual en su honor al que acudían setecientas mil personas según Heródoto.", "visual": "egyptian cat mummy museum artifact", "duration": 25},
-    {"voice": "Cuando un gato doméstico moría en Egipto, la familia entera se afeitaba las cejas en señal de duelo. El historiador romano Diodoro Sículo narró en el siglo primero antes de Cristo cómo un soldado romano que mató accidentalmente un gato fue linchado por una multitud egipcia furiosa, a pesar de que Roma gobernaba Egipto en ese momento.", "visual": "ancient egyptian wall painting cats", "duration": 25},
-    {"voice": "Los fenicios fueron los responsables de llevar gatos a Europa alrededor del año mil antes de Cristo. Los usaban en sus barcos mercantes para controlar plagas de ratones. Los romanos adoptaron rápidamente al gato. En Pompeya se encontraron mosaicos de gatos del siglo primero. Pero para Roma, el gato era útil, no sagrado. Una mascota práctica.", "visual": "ancient roman mosaic cat artwork", "duration": 25},
-    {"voice": "La expansión del gato por Europa siguió las rutas comerciales romanas. Un estudio de 2017 publicado en Nature Ecology and Evolution analizó ADN de más de doscientos gatos antiguos y confirmó dos oleadas de expansión: una desde Egipto por el Mediterráneo y otra desde Oriente Medio siguiendo las rutas terrestres. Ambas coinciden con rutas comerciales documentadas.", "visual": "ancient trade route map mediterranean", "duration": 25},
-    {"voice": "Entonces llegó la Edad Media y todo cambió. La asociación entre gatos y brujería comenzó en el siglo trece. En 1233, el papa Gregorio Noveno publicó la bula Vox in Rama, que vinculaba a los gatos negros con rituales satánicos. Durante siglos, miles de gatos fueron perseguidos y quemados vivos en hogueras públicas en toda Europa.", "visual": "black cat in dark medieval setting", "duration": 25},
-    {"voice": "La ironía histórica es devastadora. La eliminación masiva de gatos en Europa contribuyó a la proliferación de ratas. Los historiadores como Robert Darnton de la Universidad de Princeton han argumentado que la reducción de la población felina facilitó la propagación de la peste negra entre 1347 y 1353, que mató a un tercio de la población europea.", "visual": "medieval dark town old buildings", "duration": 25},
-    {"voice": "No toda Europa persiguió a los gatos. En los países islámicos, los gatos siempre fueron respetados. El profeta Mahoma, según los hadices, tenía una gata llamada Muezza. Se cuenta que cortó la manga de su túnica antes que despertarla. En el mundo islámico medieval, los gatos eran bienvenidos en mezquitas y hogares mientras Europa los quemaba.", "visual": "cat resting in ornate mosque courtyard", "duration": 25},
-    {"voice": "En Japón, los gatos llegaron alrededor del siglo sexto desde China, traídos para proteger manuscritos budistas de los ratones. El Maneki-neko, el gato de la suerte con la pata levantada, se originó en el periodo Edo. La leyenda más aceptada cuenta que un gato salvó a un señor feudal de un rayo atrayéndolo hacia un templo. Los japoneses nunca dejaron de venerarlos.", "visual": "japanese lucky cat maneki neko temple", "duration": 25},
-    {"voice": "La rehabilitación del gato en Europa comenzó en el Renacimiento. El cardenal Richelieu, primer ministro de Francia en el siglo diecisiete, tenía más de una docena de gatos en sus aposentos. Isaac Newton inventó la gatera en el siglo dieciocho para que sus gatos entraran y salieran sin interrumpir sus experimentos. Los ilustrados redescubrieron la compañía felina.", "visual": "elegant cat in renaissance style room", "duration": 25},
-    {"voice": "La era victoriana fue el punto de inflexión definitivo. La primera exposición felina de la historia se celebró en el Crystal Palace de Londres el 13 de julio de 1871, organizada por Harrison Weir. Se presentaron ciento sesenta gatos. Las razas fueron clasificadas por primera vez y la cría selectiva moderna comenzó. El gato pasó de utilidad a lujo.", "visual": "victorian era fancy cat portrait", "duration": 25},
-    {"voice": "En el siglo veinte, los gatos conquistaron el mundo. Datos de la Asociación Americana de Medicina Veterinaria muestran que en Estados Unidos hay aproximadamente cincuenta y ocho millones de hogares con gatos, superando a los perros. En Europa, la Federación Europea de la Industria de Alimentos para Mascotas estima ciento diez millones de gatos domésticos.", "visual": "modern home interior cat on sofa", "duration": 25},
-    {"voice": "Internet catapultó la fama felina. El primer video viral de gatos se publicó en YouTube en 2006. Para 2015, había más de dos millones de videos de gatos en la plataforma con veintiséis mil millones de reproducciones. Un estudio de la Universidad de Indiana por Jessica Gall Myrick encontró que ver videos de gatos mejora el estado de ánimo y reduce la ansiedad.", "visual": "cat looking at camera funny pose", "duration": 25},
-    {"voice": "Genéticamente, los gatos domésticos apenas han cambiado. Un estudio de 2014 publicado en Proceedings of the National Academy of Sciences comparó el genoma del gato doméstico con el del gato montés y encontró diferencias en solo trece genes, la mayoría relacionados con la docilidad y la memoria del miedo. El gato se domesticó con cambios mínimos.", "visual": "wild cat and domestic cat comparison", "duration": 25},
-    {"voice": "Hoy existen más de setenta razas reconocidas por la Asociación Internacional del Gato. Desde el diminuto Singapura de dos kilos hasta el Maine Coon que puede superar los doce. Desde el Sphynx sin pelo hasta el Persa de pelaje abundante. Toda esta diversidad surgió en apenas doscientos años de cría selectiva, un parpadeo en términos evolutivos.", "visual": "different cat breeds lineup portrait", "duration": 25},
-    {"voice": "Los gatos de barco merecen mención especial. Durante siglos, los marineros llevaban gatos para controlar ratones que destruían provisiones y cuerdas. El gato más famoso de la marina fue Trim, que dio la vuelta al mundo con el explorador Matthew Flinders a principios del siglo diecinueve. Los barcos sin gatos eran considerados de mala suerte.", "visual": "cat on sailing ship deck ocean", "duration": 25},
-    {"voice": "En la Primera y Segunda Guerra Mundial, los gatos sirvieron como mascotas de trinchera y detectores informales de gas. El gato Simon del HMS Amethyst recibió la Medalla Dickin, el equivalente animal de la Cruz Victoria, por mantener la moral y cazar ratas durante el incidente del río Yangtze en 1949. Un gato condecorado por heroísmo militar.", "visual": "military ship historical photograph cat", "duration": 25},
-    {"voice": "La relación gato-humano sigue evolucionando. Un estudio de 2019 de la Universidad de Oregon publicado en Current Biology demostró que los gatos forman vínculos de apego seguros con sus dueños, similar a los bebés humanos. El sesenta y cinco por ciento de los gatos mostraron apego seguro. El mito del gato independiente e indiferente quedó científicamente desmentido.", "visual": "cat nuzzling owner affectionate close up", "duration": 25},
-    {"voice": "Hoy los gatos son protagonistas de investigaciones médicas. Se estudia su ronroneo para terapias óseas, su genoma para entender enfermedades humanas y su comportamiento social para comprender la domesticación. La doctora Leslie Lyons del Centro de Genómica Felina de la Universidad de Missouri lidera proyectos que usan la genética felina para curar enfermedades en ambas especies.", "visual": "scientist laboratory research cat genetics", "duration": 25},
-    {"voice": "De dioses en Egipto a víctimas en la Europa medieval. De cazadores de ratas en barcos a estrellas de internet. De animales salvajes del desierto a compañeros que duermen en nuestra cama. Diez mil años de historia y los gatos siguen siendo uno de los mayores enigmas de la naturaleza. Se domesticaron solos y conquistaron el mundo a su manera.", "visual": "majestic cat sitting on window golden light", "duration": 25},
-    {"voice": "Si esta historia te fascinó tanto como a nosotros, suscríbete ahora a CatBrothers y activa la campana. La próxima semana vamos a hablar de algo que te va a volar la cabeza: gatos con dedos extra. La genética detrás de los gatos polidáctilos es más extraña de lo que imaginas. No te lo pierdas.", "visual": "happy cat waving paw at camera", "duration": 20}
+  "title": "History of Cats From Egyptian Gods to Your Sofa",
+  "description": "The complete history of cats: from the temples of ancient Egypt where they were worshipped as gods, through the medieval persecution, to becoming the most popular pet of the 21st century. Ten thousand years of feline evolution told with real archaeological and genetic data. An epic journey.",
+  "tags": [
+    "cats",
+    "history of cats",
+    "cats in Egypt",
+    "feline domestication",
+    "medieval cats",
+    "cat evolution",
+    "ancient cats",
+    "Bastet cat goddess",
+    "cat documentaries",
+    "domestic cats"
   ],
-  "thumbnail_text": "DIOSES GATOS"
+  "segments": [
+    {
+      "voice": "Ten thousand years ago, a wild cat decided to approach a human granary. That decision changed the history of two species forever. Cats were not domesticated like dogs. They domesticated themselves. And the oldest archaeological evidence we find is in a tomb in Cyprus from 7500 BC.",
+      "visual": "ancient ruins archaeological site",
+      "duration": 25
+    },
+    {
+      "voice": "Welcome to CatBrothers. Today we're going to cover ten thousand years of feline history. From the sands of the Fertile Crescent to your sofa. The history of cats is one of the most fascinating in the animal kingdom, full of worship, persecution, superstition, and redemption. Let's start.",
+      "visual": "cat sitting majestically like sphinx",
+      "duration": 25
+    },
+    {
+      "voice": "It all began in the Neolithic. When humans invented agriculture in the Fertile Crescent, granaries attracted mice. And mice attracted wild cats. A genetic study published in Science in 2007 by Carlos Driscoll of the National Cancer Institute traced all current domestic cats back to the African wildcat, Felis silvestris lybica.",
+      "visual": "wild cat hunting mouse in field",
+      "duration": 25
+    },
+    {
+      "voice": "The oldest archaeological proof of cat-human cohabitation was found in Shillourokambos, Cyprus. Archaeologist Jean-Denis Vigne discovered in 2004 a cat buried alongside a human 9,500 years ago. Cats are not native to Cyprus, so someone deliberately brought this cat by boat. They were already companions.",
+      "visual": "ancient burial site excavation",
+      "duration": 25
+    },
+    {
+      "voice": "But the true golden age of cats came with Egypt. The ancient Egyptians elevated cats to the status of divinity. The goddess Bastet, represented as a woman with the head of a cat, was the protector of the home, fertility, and children. Historian Herodotus documented in the fifth century BC that killing a cat in Egypt was punishable by death.",
+      "visual": "ancient egyptian cat statue gold",
+      "duration": 25
+    },
+    {
+      "voice": "The Egyptians mummified cats with the same care as humans. Researchers from the British Museum analyzed over 800 cat mummies with tomography. They found that many were kittens specifically raised as offerings to Bastet. In the city of Bubastis, an annual festival was held in her honor, attended by 700,000 people according to Herodotus.",
+      "visual": "egyptian cat mummy museum artifact",
+      "duration": 25
+    },
+    {
+      "voice": "When a domestic cat died in Egypt, the entire family would shave their eyebrows in mourning. Roman historian Diodorus Siculus narrated in the first century BC how a Roman soldier who accidentally killed a cat was lynched by a furious Egyptian crowd, despite Rome ruling Egypt at the time.",
+      "visual": "ancient egyptian wall painting cats",
+      "duration": 25
+    },
+    {
+      "voice": "The Phoenicians were responsible for bringing cats to Europe around 1000 BC. They used them on their merchant ships to control mouse infestations. The Romans quickly adopted the cat. In Pompeii, cat mosaics from the first century were found. But for Rome, the cat was useful, not sacred. A practical pet.",
+      "visual": "ancient roman mosaic cat artwork",
+      "duration": 25
+    },
+    {
+      "voice": "The expansion of cats across Europe followed Roman trade routes. A 2017 study published in Nature Ecology and Evolution analyzed DNA from over 200 ancient cats and confirmed two waves of expansion: one from Egypt via the Mediterranean and another from the Middle East following land routes. Both coincide with documented trade routes.",
+      "visual": "ancient trade route map mediterranean",
+      "duration": 25
+    },
+    {
+      "voice": "Then came the Middle Ages and everything changed. The association between cats and witchcraft began in the thirteenth century. In 1233, Pope Gregory IX published the Vox in Rama bull, linking black cats to satanic rituals. For centuries, thousands of cats were persecuted and burned alive in public bonfires across Europe.",
+      "visual": "black cat in dark medieval setting",
+      "duration": 25
+    },
+    {
+      "voice": "The historical irony is devastating. The massive elimination of cats in Europe contributed to the proliferation of rats. Historians like Robert Darnton of Princeton University have argued that the reduction of the feline population facilitated the spread of the Black Death between 1347 and 1353, which killed a third of Europe's population.",
+      "visual": "medieval dark town old buildings",
+      "duration": 25
+    },
+    {
+      "voice": "Not all of Europe persecuted cats. In Islamic countries, cats were always respected. Prophet Muhammad, according to hadiths, had a cat named Muezza. It's said he cut his robe's sleeve rather than wake her. In the medieval Islamic world, cats were welcome in mosques and homes while Europe was burning them.",
+      "visual": "cat resting in ornate mosque courtyard",
+      "duration": 25
+    },
+    {
+      "voice": "In Japan, cats arrived around the sixth century from China, brought to protect Buddhist manuscripts from mice. The Maneki-neko, the lucky cat with the raised paw, originated in the Edo period. The most accepted legend tells that a cat saved a feudal lord from lightning by attracting it to a temple. The Japanese never stopped venerating them.",
+      "visual": "japanese lucky cat maneki neko temple",
+      "duration": 25
+    },
+    {
+      "voice": "The rehabilitation of the cat in Europe began in the Renaissance. Cardinal Richelieu, Prime Minister of France in the seventeenth century, had over a dozen cats in his quarters. Isaac Newton invented the cat door in the eighteenth century so his cats could enter and exit without interrupting his experiments. The Enlightened rediscovered feline company.",
+      "visual": "elegant cat in renaissance style room",
+      "duration": 25
+    },
+    {
+      "voice": "The Victorian era was the definitive turning point. The first cat show in history was held at the Crystal Palace in London on July 13, 1871, organized by Harrison Weir. 160 cats were presented. Breeds were classified for the first time, and modern selective breeding began. The cat went from utility to luxury.",
+      "visual": "victorian era fancy cat portrait",
+      "duration": 25
+    },
+    {
+      "voice": "In the twentieth century, cats conquered the world. Data from the American Veterinary Medical Association shows that in the United States, there are approximately 58 million households with cats, surpassing dogs. In Europe, the European Pet Food Industry Federation estimates 110 million domestic cats.",
+      "visual": "modern home interior cat on sofa",
+      "duration": 25
+    },
+    {
+      "voice": "The internet catapulted feline fame. The first viral cat video was published on YouTube in 2006. By 2015, there were over two million cat videos on the platform with 26 billion views. A study by the University of Indiana by Jessica Gall Myrick found that watching cat videos improves mood and reduces anxiety.",
+      "visual": "cat looking at camera funny pose",
+      "duration": 25
+    },
+    {
+      "voice": "Genetically, domestic cats have barely changed. A 2014 study published in the Proceedings of the National Academy of Sciences compared the genome of the domestic cat to that of the wildcat and found differences in only 13 genes, most related to docility and fear memory. The cat domesticated itself with minimal changes.",
+      "visual": "wild cat and domestic cat comparison",
+      "duration": 25
+    },
+    {
+      "voice": "Today, there are over 70 recognized cat breeds by the International Cat Association. From the tiny Singapura weighing two kilograms to the Maine Coon that can exceed twelve. From the hairless Sphynx to the Persian with its abundant coat. All this diversity emerged in just two hundred years of selective breeding, a blink in evolutionary terms.",
+      "visual": "different cat breeds lineup portrait",
+      "duration": 25
+    },
+    {
+      "voice": "Ship cats deserve special mention. For centuries, sailors took cats on their ships to control mouse infestations that destroyed provisions and ropes. The most famous ship cat was Trim, who circumnavigated the world with explorer Matthew Flinders in the early nineteenth century. Ships without cats were considered unlucky.",
+      "visual": "cat on sailing ship deck ocean",
+      "duration": 25
+    },
+    {
+      "voice": "In World War I and II, cats served as trench mascots and informal gas detectors. The cat Simon from the HMS Amethyst received the Dickin Medal, the animal equivalent of the Victoria Cross, for keeping morale high and hunting rats during the Yangtze River incident in 1949. A cat decorated for military heroism.",
+      "visual": "military ship historical photograph cat",
+      "duration": 25
+    },
+    {
+      "voice": "The cat-human relationship continues to evolve. A 2019 study from the University of Oregon published in Current Biology showed that cats form secure attachment bonds with their owners, similar to human babies. 65% of cats showed secure attachment. The myth of the independent and indifferent cat was scientifically debunked.",
+      "visual": "cat nuzzling owner affectionate close up",
+      "duration": 25
+    },
+    {
+      "voice": "Today, cats are protagonists of medical research. Their purring is studied for bone therapies, their genome for understanding human diseases, and their social behavior to comprehend domestication. Dr. Leslie Lyons from the Feline Genome Center at the University of Missouri leads projects using feline genetics to cure diseases in both species.",
+      "visual": "scientist laboratory research cat genetics",
+      "duration": 25
+    },
+    {
+      "voice": "From gods in Egypt to victims in medieval Europe. From rat hunters on ships to internet stars. From wild animals of the desert to companions that sleep in our beds. Ten thousand years of history and cats remain one of nature's greatest enigmas. They domesticated themselves and conquered the world in their own way.",
+      "visual": "majestic cat sitting on window golden light",
+      "duration": 25
+    },
+    {
+      "voice": "If this story fascinated you as much as it did us, subscribe now to CatBrothers and turn on the bell. Next week, we're going to talk about something that will blow your mind: polydactyl cats. The genetics behind these cats is stranger than you imagine. Don't miss it.",
+      "visual": "happy cat waving paw at camera",
+      "duration": 20
+    }
+  ],
+  "thumbnail_text": "CAT GODS"
 }

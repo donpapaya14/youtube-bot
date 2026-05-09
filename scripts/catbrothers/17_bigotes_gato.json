@@ -1,33 +1,144 @@
 {
-  "title": "Los Bigotes del Gato 🐱 Un Órgano Sensorial Increíble",
-  "description": "Los bigotes de los gatos no son simples pelos: son órganos sensoriales de alta precisión llamados vibrisas. Conectados a más de doscientas terminaciones nerviosas cada uno, detectan cambios de presión atmosférica, miden espacios y hasta sienten emociones. La ciencia detrás de los bigotes felinos es asombrosa.",
-  "tags": ["gatos", "bigotes de gato", "vibrisas felinas", "sentidos de los gatos", "anatomía felina", "curiosidades de gatos", "comportamiento gatos", "ciencia animal", "documentales de gatos", "órganos sensoriales"],
-  "segments": [
-    {"voice": "Cada bigote de tu gato es un instrumento de precisión milimétrica conectado a más de doscientas terminaciones nerviosas. Los bigotes felinos pueden detectar cambios de presión de aire tan sutiles que el gato sabe que hay una pared frente a él sin tocarla. No son pelos. Son un sexto sentido.", "visual": "cat whiskers extreme close up detail", "duration": 25},
-    {"voice": "Bienvenidos a CatBrothers. Hoy vamos a explorar uno de los órganos más sofisticados del reino animal: las vibrisas del gato. Esos bigotes que parecen simples adornos son en realidad sensores biomecánicos que la evolución ha perfeccionado durante millones de años. La ciencia detrás de ellos te va a dejar sin palabras.", "visual": "cat face front view whiskers prominent", "duration": 25},
-    {"voice": "Empecemos por la anatomía. Las vibrisas no son pelos ordinarios. Su folículo es tres veces más profundo que el de un pelo normal y está rodeado por un seno sanguíneo lleno de sangre. Según el doctor Adam Bhatt de la Universidad de Sheffield, este seno actúa como un amplificador hidráulico: cualquier vibración mínima del bigote se transmite amplificada a los nervios.", "visual": "cat whisker root follicle anatomy", "duration": 25},
-    {"voice": "Cada folículo de vibrisa contiene entre cien y doscientos mecanorreceptores, según investigaciones de la Universidad de Zúrich publicadas en el Journal of Comparative Neurology. Estos receptores son de cuatro tipos diferentes, cada uno especializado en detectar un tipo de estímulo: presión, vibración, textura y movimiento del aire.", "visual": "cat moving whiskers forward sensing", "duration": 25},
-    {"voice": "Un gato tiene entre veinticuatro y treinta y seis vibrisas distribuidas en cuatro hileras a cada lado del hocico. Pero también tiene vibrisas sobre los ojos, en la barbilla, en las muñecas de las patas delanteras y detrás de las orejas. El investigador Guido Dehnhardt de la Universidad de Rostock contó hasta sesenta vibrisas en total en un gato doméstico.", "visual": "cat showing all whisker locations", "duration": 25},
-    {"voice": "Las vibrisas del hocico son las más estudiadas. Tienen exactamente el mismo ancho que el cuerpo del gato cuando están relajadas. Esto no es coincidencia. Un estudio de la Universidad de Cambridge publicado en Proceedings of the Royal Society B demostró que los gatos usan sus bigotes como un calibrador viviente: si los bigotes pasan, el cuerpo pasa.", "visual": "cat squeezing through narrow gap space", "duration": 25},
-    {"voice": "Pero la función va mucho más allá de medir espacios. Las vibrisas detectan corrientes de aire. Cuando un gato se mueve en la oscuridad, las microcorrientes de aire que rebotan en los objetos cercanos son captadas por los bigotes. Un estudio de la Universidad de Múnich demostró que los gatos pueden crear un mapa tridimensional de su entorno usando solo las vibrisas.", "visual": "cat navigating dark room at night", "duration": 25},
-    {"voice": "Las vibrisas de las patas delanteras, llamadas vibrisas carpianas, tienen una función específica: detectar movimiento de presas. Cuando un gato atrapa un ratón, los bigotes de las muñecas rodean a la presa y detectan cualquier movimiento. La doctora Robyn Grant de la Universidad John Moores de Liverpool publicó en 2013 que estas vibrisas son esenciales para el golpe de gracia.", "visual": "cat hunting catching prey paws close up", "duration": 25},
-    {"voice": "Las vibrisas supraorbitales, las que están sobre los ojos, funcionan como un sistema de protección automático. Cuando algo roza estos bigotes, el gato cierra los ojos reflexivamente en milisegundos. Un estudio del Instituto Max Planck de Neurobiología midió este reflejo en seis milisegundos, más rápido que cualquier otro reflejo protector documentado en mamíferos.", "visual": "cat blinking close up eye protection", "duration": 25},
-    {"voice": "La información de las vibrisas se procesa en una región cerebral específica llamada corteza de barriles. Cada vibrisa tiene su propia columna cortical dedicada. Un estudio de la Universidad de Harvard publicado en Neuron demostró que el área cerebral dedicada a las vibrisas en los gatos es proporcionalmente mayor que el área visual. Los bigotes son más importantes que los ojos para un gato.", "visual": "cat brain neuroscience illustration", "duration": 25},
-    {"voice": "Las vibrisas también comunican emociones. Cuando un gato está relajado, los bigotes se extienden lateralmente. Cuando está alerta o curioso, se proyectan hacia adelante. Cuando tiene miedo, se pegan al rostro. La etóloga Sarah Brown de la Universidad de Bristol documentó diecisiete posiciones diferentes de bigotes que corresponden a estados emocionales distintos.", "visual": "cat face showing alert forward whiskers", "duration": 25},
-    {"voice": "Un fenómeno poco conocido es la fatiga de vibrisas, también llamado estrés de bigotes. Cuando los bigotes rozan constantemente los bordes de un plato de comida estrecho, los receptores se sobreestimulan. Un estudio de la Asociación Americana de Practicantes Felinos encontró que el veinticinco por ciento de los gatos evitan platos profundos y estrechos por esta razón.", "visual": "cat eating from wide shallow bowl", "duration": 25},
-    {"voice": "Por eso los veterinarios recomiendan platos anchos y poco profundos para gatos. La doctora Lore Haug, veterinaria conductista certificada, publicó que cambiar a platos más amplios elimina comportamientos como sacar la comida con la pata, comer menos de lo necesario o vocalizar frente al plato. Una solución simple a un problema que muchos dueños desconocen.", "visual": "cat happily eating from flat plate", "duration": 25},
-    {"voice": "Los bigotes crecen, caen y se regeneran como cualquier pelo, pero en un ciclo mucho más lento. El ciclo de vida de una vibrisa felina es de aproximadamente tres a cuatro meses. Según la doctora Karen Overall del Centro de Neurobiología del Comportamiento de la Universidad de Pennsylvania, un gato que pierde un bigote necesita entre ocho y doce semanas para regenerarlo completamente.", "visual": "single cat whisker on floor fallen", "duration": 25},
-    {"voice": "Nunca debes cortar los bigotes de un gato. Un estudio de la Universidad de Saint Andrews documentó que los gatos con vibrisas cortadas experimentalmente perdían la capacidad de juzgar distancias, chocaban contra objetos y mostraban signos claros de desorientación y estrés. El efecto es equivalente a poner una venda en los ojos de un humano.", "visual": "disoriented confused cat bumping into things", "duration": 25},
-    {"voice": "Las vibrisas también funcionan de noche como sustituto parcial de la visión. Aunque los gatos ven bien con poca luz gracias al tapetum lucidum, en oscuridad total dependen completamente de sus bigotes. Un estudio de la Universidad de Oxford demostró que gatos en completa oscuridad navegan con noventa y cinco por ciento de precisión usando solo las vibrisas.", "visual": "cat walking confidently in dim light", "duration": 25},
-    {"voice": "La propiocepción vibrisal es otro fenómeno fascinante. Las vibrisas detectan su propia posición en el espacio, proporcionando al gato información constante sobre la posición de su cabeza. El doctor Mitra Hartmann de la Universidad de Northwestern construyó un modelo robótico de vibrisas felinas en 2003 que demostró cómo este sistema crea un mapa espacial en tiempo real.", "visual": "cat moving head precisely through space", "duration": 25},
-    {"voice": "Los ingenieros se han inspirado en las vibrisas para crear tecnología. Investigadores del Instituto Tecnológico de Massachusetts desarrollaron sensores artificiales basados en la estructura de los bigotes felinos para robots que navegan en la oscuridad. La publicación en el Journal of Neurophysiology demostró que estos sensores bio-inspirados superan a los sensores táctiles convencionales.", "visual": "robot sensors technology inspired nature", "duration": 25},
-    {"voice": "Las vibrisas varían entre razas. Los gatos de razas de pelo rizado como el Devon Rex y el Cornish Rex tienen vibrisas rizadas y más cortas. Un estudio genético de la Universidad de Lyon identificó que la mutación del gen KRT71 que riza el pelo también afecta a las vibrisas. Estos gatos pueden tener ligeras desventajas sensoriales comparados con gatos de bigotes rectos.", "visual": "devon rex cat curly whiskers face", "duration": 25},
-    {"voice": "La sensibilidad de las vibrisas es extraordinaria. Investigadores de la Universidad Técnica de Berlín midieron que una vibrisa felina puede detectar un desplazamiento de dos micrómetros, menos que el grosor de un cabello humano. En términos prácticos, un gato puede sentir un cambio de temperatura del aire causado por una persona que entra en la habitación a varios metros de distancia.", "visual": "cat turning head sensing invisible change", "duration": 25},
-    {"voice": "Las vibrisas tienen un papel crucial en la comunicación madre-cría. Los gatitos recién nacidos, ciegos y sordos, usan sus pequeñas vibrisas para encontrar el pezón de la madre. Un estudio de la Universidad de Georgia demostró que gatitos con vibrisas intactas encontraban el pezón tres veces más rápido que gatitos a los que experimentalmente se les limitó el input vibrisal.", "visual": "newborn kittens nursing mother cat", "duration": 25},
-    {"voice": "La presión barométrica también es detectada por las vibrisas. Existe evidencia anecdótica respaldada por un estudio piloto de la Universidad de Edimburgo de que los gatos pueden detectar cambios atmosféricos previos a tormentas. Sus vibrisas responden a las variaciones de presión del aire, lo que explicaría por qué algunos gatos se esconden antes de que llegue una tormenta.", "visual": "cat hiding before storm dark clouds", "duration": 25},
-    {"voice": "Un dato curioso final: los gatos pueden mover cada bigote de forma independiente. Tienen músculos estriados voluntarios en cada folículo de vibrisa, a diferencia de la mayoría de mamíferos que mueven las vibrisas en grupo. Un estudio de la Universidad de Bonn mediante electromiografía demostró movimientos independientes de vibrisas individuales, un control motor extraordinariamente fino.", "visual": "cat twitching individual whiskers close up", "duration": 25},
-    {"voice": "Los bigotes del gato son uno de los logros más impresionantes de la evolución. Doscientas terminaciones nerviosas por folículo, detección micrométrica, mapa tridimensional del entorno, comunicación emocional y protección refleja. Todo en unos hilos que parecen simples pelos. Tu gato literalmente siente el mundo a través de sus bigotes.", "visual": "majestic cat face whiskers backlit", "duration": 25},
-    {"voice": "Si los bigotes te fascinaron tanto como a nosotros, suscríbete a CatBrothers ahora y activa la campana de notificaciones. El próximo episodio va a explorar cómo los gatos mejoran tu salud mental según la ciencia. Terapia felina con datos reales. Comparte este video con alguien que ame a los gatos.", "visual": "happy cat waving paw at camera", "duration": 20}
+  "title": "Cat Whiskers 🐱 An Incredible Sensory Organ",
+  "description": "Cat whiskers aren't just ordinary hairs: they're high-sensory precision organs called vibrissae. Each one is connected to over two hundred nerve endings, detecting atmospheric pressure changes, measuring spaces, and even sensing emotions. The science behind feline whiskers is astonishing.",
+  "tags": [
+    "cats",
+    "cat whiskers",
+    "feline vibrissae",
+    "cat senses",
+    "feline anatomy",
+    "cat facts",
+    "cat behavior",
+    "animal science",
+    "cat documentaries",
+    "sensory organs"
   ],
-  "thumbnail_text": "SUPER BIGOTES"
+  "segments": [
+    {
+      "voice": "Each of your cat's whiskers is a precision instrument connected to over two hundred nerve endings. Feline whiskers can detect air pressure changes so subtle that the cat knows there's a wall in front of it without touching it. They're not just hairs. They're a sixth sense.",
+      "visual": "cat whiskers extreme close up detail",
+      "duration": 25
+    },
+    {
+      "voice": "Welcome to CatBrothers. Today we're exploring one of the most sophisticated organs in the animal kingdom: the cat's vibrissae. Those whiskers that look like simple decorations are actually biomechanical sensors that evolution has perfected over millions of years. The science behind them will leave you speechless.",
+      "visual": "cat face front view whiskers prominent",
+      "duration": 25
+    },
+    {
+      "voice": "Let's start with the anatomy. Vibrissae aren't ordinary hairs. Their follicles are three times deeper than normal hair and surrounded by a blood-filled sinus. According to Dr. Adam Bhatt from the University of Sheffield, this sinus acts as a hydraulic amplifier: even the slightest whisker vibration is amplified and transmitted to the nerves.",
+      "visual": "cat whisker root follicle anatomy",
+      "duration": 25
+    },
+    {
+      "voice": "Each vibrissa follicle contains between one and two hundred mechanoreceptors, according to research from the University of Zurich published in the Journal of Comparative Neurology. These receptors come in four different types, each specialized in detecting a specific stimulus: pressure, vibration, texture, and air movement.",
+      "visual": "cat moving whiskers forward sensing",
+      "duration": 25
+    },
+    {
+      "voice": "A cat has between twenty-four and thirty-six vibrissae arranged in four rows on each side of its muzzle. But they also have whiskers above their eyes, on their chin, on their front paws' wrists, and behind their ears. Researcher Guido Dehnhardt from the University of Rostock counted up to sixty vibrissae in total on a domestic cat.",
+      "visual": "cat showing all whisker locations",
+      "duration": 25
+    },
+    {
+      "voice": "The muzzle's vibrissae are the most studied. They're exactly as wide as the cat's body when relaxed. This isn't a coincidence. A study from the University of Cambridge published in Proceedings of the Royal Society B showed that cats use their whiskers as a living caliper: if the whiskers fit, the body fits.",
+      "visual": "cat squeezing through narrow gap space",
+      "duration": 25
+    },
+    {
+      "voice": "But their function goes far beyond measuring spaces. Vibrissae detect air currents. When a cat moves in the dark, the micro-air currents bouncing off nearby surfaces are picked up by the whiskers. A study from the University of Munich proved that cats can create a three-dimensional map of their surroundings using only their vibrissae.",
+      "visual": "cat navigating dark room at night",
+      "duration": 25
+    },
+    {
+      "voice": "The front paw vibrissae, called carpal whiskers, have a specific function: detecting prey movement. When a cat catches a mouse, the wrist whiskers surround the prey and detect any motion. Dr. Robyn Grant from Liverpool John Moores University published in 2013 that these whiskers are essential for the killing bite.",
+      "visual": "cat hunting catching prey paws close up",
+      "duration": 25
+    },
+    {
+      "voice": "The supraorbital whiskers, those above the eyes, function as an automatic protection system. When something brushes these whiskers, the cat reflexively closes its eyes in milliseconds. A study from the Max Planck Institute for Neurobiology measured this reflex at six milliseconds, faster than any other documented protective reflex in mammals.",
+      "visual": "cat blinking close up eye protection",
+      "duration": 25
+    },
+    {
+      "voice": "Vibrissae information is processed in a specific brain region called the barrel cortex. Each whisker has its own dedicated cortical column. A Harvard University study published in Neuron showed that the brain area dedicated to whiskers in cats is proportionally larger than the visual area. Whiskers are more important than eyes for a cat.",
+      "visual": "cat brain neuroscience illustration",
+      "duration": 25
+    },
+    {
+      "voice": "Whiskers also communicate emotions. When a cat is relaxed, the whiskers extend sideways. When alert or curious, they project forward. When afraid, they flatten against the face. Ethologist Sarah Brown from the University of Bristol documented seventeen different whisker positions corresponding to distinct emotional states.",
+      "visual": "cat face showing alert forward whiskers",
+      "duration": 25
+    },
+    {
+      "voice": "A little-known phenomenon is whisker fatigue, also called whisker stress. When whiskers constantly rub against the edges of a narrow food bowl, the receptors become overstimulated. A study by the American Association of Feline Practitioners found that twenty-five percent of cats avoid deep, narrow bowls for this reason.",
+      "visual": "cat eating from wide shallow bowl",
+      "duration": 25
+    },
+    {
+      "voice": "That's why veterinarians recommend wide, shallow dishes for cats. Dr. Lore Haug, a certified veterinary behaviorist, published that switching to wider bowls eliminates behaviors like pawing food out, eating less than needed, or vocalizing near the bowl. A simple solution to a problem many owners don't know about.",
+      "visual": "cat happily eating from flat plate",
+      "duration": 25
+    },
+    {
+      "voice": "Whiskers grow, fall out, and regenerate like any hair, but on a much slower cycle. A feline whisker's life cycle lasts about three to four months. According to Dr. Karen Overall from the University of Pennsylvania's Center for Neurobiology of Behavior, a cat that loses a whisker needs eight to twelve weeks to fully regrow it.",
+      "visual": "single cat whisker on floor fallen",
+      "duration": 25
+    },
+    {
+      "voice": "You should never cut a cat's whiskers. A University of St Andrews study documented that cats with experimentally trimmed whiskers lost the ability to judge distances, bumped into objects, and showed clear signs of disorientation and stress. The effect is equivalent to blindfolding a human.",
+      "visual": "disoriented confused cat bumping into things",
+      "duration": 25
+    },
+    {
+      "voice": "Whiskers also function as a partial vision substitute at night. Although cats see well in low light thanks to the tapetum lucidum, in total darkness they rely entirely on their whiskers. An Oxford University study showed that cats in complete darkness navigate with ninety-five percent accuracy using only their vibrissae.",
+      "visual": "cat walking confidently in dim light",
+      "duration": 25
+    },
+    {
+      "voice": "Vibrissal proprioception is another fascinating phenomenon. Whiskers detect their own position in space, providing the cat with constant information about its head's position. Dr. Mitra Hartmann from Northwestern University built a robotic model of feline whiskers in 2003 that demonstrated how this system creates a real-time spatial map.",
+      "visual": "cat moving head precisely through space",
+      "duration": 25
+    },
+    {
+      "voice": "Engineers have drawn inspiration from vibrissae to create technology. Researchers at MIT developed artificial sensors based on feline whisker structure for robots navigating in darkness. The Journal of Neurophysiology publication showed these bio-inspired sensors outperform conventional tactile sensors.",
+      "visual": "robot sensors technology inspired nature",
+      "duration": 25
+    },
+    {
+      "voice": "Whiskers vary between breeds. Curly-haired breeds like the Devon Rex and Cornish Rex have curly, shorter whiskers. A genetic study from the University of Lyon identified that the KRT71 gene mutation causing curly fur also affects whiskers. These cats may have slight sensory disadvantages compared to straight-whiskered cats.",
+      "visual": "devon rex cat curly whiskers face",
+      "duration": 25
+    },
+    {
+      "voice": "Whisker sensitivity is extraordinary. Researchers at the Technical University of Berlin measured that a feline whisker can detect a displacement of two micrometers—less than a human hair's width. Practically speaking, a cat can sense air temperature changes caused by a person entering a room several meters away.",
+      "visual": "cat turning head sensing invisible change",
+      "duration": 25
+    },
+    {
+      "voice": "Whiskers play a crucial role in mother-offspring communication. Newborn kittens, blind and deaf, use their tiny whiskers to find their mother's nipple. A University of Georgia study showed that kittens with intact whiskers found the nipple three times faster than those with experimentally limited whisker input.",
+      "visual": "newborn kittens nursing mother cat",
+      "duration": 25
+    },
+    {
+      "voice": "Barometric pressure is also detected by whiskers. Anecdotal evidence supported by a pilot study from the University of Edinburgh suggests cats can detect atmospheric changes before storms. Their whiskers respond to air pressure variations, explaining why some cats hide before a storm arrives.",
+      "visual": "cat hiding before storm dark clouds",
+      "duration": 25
+    },
+    {
+      "voice": "A final fun fact: cats can move each whisker independently. They have voluntary striated muscles in each whisker follicle, unlike most mammals that move whiskers in groups. A University of Bonn study using electromyography demonstrated independent movements of individual whiskers—extraordinarily fine motor control.",
+      "visual": "cat twitching individual whiskers close up",
+      "duration": 25
+    },
+    {
+      "voice": "Cat whiskers are one of evolution's most impressive achievements. Two hundred nerve endings per follicle, micrometer-level detection, 3D environmental mapping, emotional communication, and reflexive protection—all in strands that look like simple hairs. Your cat literally senses the world through its whiskers.",
+      "visual": "majestic cat face whiskers backlit",
+      "duration": 25
+    },
+    {
+      "voice": "If whiskers fascinate you as much as they fascinate us, subscribe to CatBrothers now and hit the notification bell. The next episode will explore how cats improve your mental health according to science. Feline therapy with real data. Share this video with someone who loves cats.",
+      "visual": "happy cat waving paw at camera",
+      "duration": 20
+    }
+  ],
+  "thumbnail_text": "SUPER WHISKERS"
 }

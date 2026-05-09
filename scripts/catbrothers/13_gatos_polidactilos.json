@@ -1,33 +1,144 @@
 {
-  "title": "Gatos Polidáctilos 🐱 La Genética de los Dedos Extra",
-  "description": "Los gatos polidáctilos tienen más dedos de lo normal y la ciencia detrás es fascinante. Desde los gatos de Ernest Hemingway hasta la genética del gen Shh, descubre por qué nacen gatos con seis, siete o hasta ocho dedos por pata. Datos científicos reales sobre esta mutación genética única en el mundo felino.",
-  "tags": ["gatos", "gatos polidáctilos", "gatos con dedos extra", "genética felina", "gatos de Hemingway", "mutaciones genéticas gatos", "curiosidades de gatos", "polidactilia en gatos", "documentales de gatos", "ciencia felina"],
-  "segments": [
-    {"voice": "Imagina un gato con veintiocho dedos en lugar de dieciocho. Existe. Se llama Jake y entró al Libro Guinness de los Récords con siete dedos en cada pata. Los gatos polidáctilos desafían la anatomía normal y la genética detrás de sus dedos extra es una de las historias más fascinantes de la biología moderna.", "visual": "cat paw close up extra toes", "duration": 25},
-    {"voice": "Bienvenidos a CatBrothers. Hoy entramos en el mundo de los gatos polidáctilos, esos felinos extraordinarios que nacen con dedos adicionales. No es una enfermedad ni un defecto. Es una mutación genética dominante que ha fascinado a científicos, escritores y marineros durante siglos. Vamos a contarte toda la ciencia.", "visual": "polydactyl cat showing large paws", "duration": 25},
-    {"voice": "Primero los números. Un gato normal tiene dieciocho dedos: cinco en cada pata delantera y cuatro en cada trasera. Los gatos polidáctilos pueden tener entre uno y tres dedos extra por pata. El promedio más común es seis dedos en las patas delanteras. La prevalencia varía geográficamente: en la costa este de Estados Unidos puede alcanzar el diez por ciento.", "visual": "cat stretching paws on blanket", "duration": 25},
-    {"voice": "La causa genética fue identificada en 2008 por investigadores de la Universidad de Edimburgo liderados por Laura Lettice. Publicaron en Human Molecular Genetics que la polidactilia felina se debe a mutaciones en un elemento regulador del gen Sonic Hedgehog, sí, llamado así por el videojuego. Este gen controla el desarrollo de los dedos en el embrión.", "visual": "dna helix science genetics illustration", "duration": 25},
-    {"voice": "El gen Sonic Hedgehog, abreviado Shh, es crucial en el desarrollo embrionario de todos los vertebrados. Actúa como una señal que indica a las células dónde y cuándo formar dedos. En los gatos polidáctilos, una mutación en la zona reguladora ZRS hace que el gen se active en una zona más amplia del embrión, produciendo dedos adicionales.", "visual": "kitten paws developing growing", "duration": 25},
-    {"voice": "Lo fascinante es que la polidactilia es un rasgo autosómico dominante. Esto significa que basta con que uno de los padres sea polidáctilo para que aproximadamente el cincuenta por ciento de los gatitos hereden la condición. No necesita que ambos padres la tengan. Un estudio de la Universidad de California en Davis confirmó este patrón de herencia en 2010.", "visual": "mother cat with kittens nursing", "duration": 25},
-    {"voice": "Ernest Hemingway es quizás el humano más asociado con los gatos polidáctilos. Un capitán de barco llamado Stanley Dexter le regaló un gato blanco de seis dedos llamado Snow White en los años treinta. Hoy, el Museo Hemingway en Key West, Florida, alberga entre cuarenta y sesenta descendientes de Snow White. Aproximadamente la mitad son polidáctilos.", "visual": "white cat in tropical garden key west", "duration": 25},
-    {"voice": "Los gatos del Museo Hemingway están protegidos por ley federal. En 2003, el Departamento de Agricultura de Estados Unidos intentó regular la colonia. Después de una batalla legal de años, un tribunal federal falló en 2013 a favor del museo, permitiendo que los gatos vivieran libremente en la propiedad. Son gatos con protección judicial.", "visual": "cats lounging in sunny garden estate", "duration": 25},
-    {"voice": "Los marineros tienen una relación histórica especial con los gatos polidáctilos. Desde el siglo dieciséis, los marineros británicos y americanos los consideraban amuletos de buena suerte. Se creía que sus dedos extra les daban mejor agarre en cubiertas húmedas y los hacían mejores cazadores de ratones. Los barcos con gatos polidáctilos eran preferidos.", "visual": "cat walking on wooden ship deck", "duration": 25},
-    {"voice": "Esto explica la distribución geográfica. La mayor concentración de gatos polidáctilos se encuentra en puertos históricos: Boston, Halifax, Yarmouth en Inglaterra y las costas de Gales. Un estudio de la genetista Sarah Hartwell rastreó la distribución y encontró que coincide perfectamente con las antiguas rutas comerciales marítimas británicas.", "visual": "harbor port town boats coastal", "duration": 25},
-    {"voice": "No todos los dedos extra son iguales. La forma más común es la polidactilia preaxial, donde los dedos extra aparecen en el lado del pulgar. Menos frecuente es la postaxial, en el lado del meñique. Y raramente se ve la polidactilia central, con dedos extra en el medio. Cada tipo está asociado con mutaciones diferentes en la zona reguladora ZRS.", "visual": "cat paw beans toes close up detail", "duration": 25},
-    {"voice": "Los gatos polidáctilos a menudo parecen tener pulgares oponibles. Estos pulgares, llamados prehalluces, no son verdaderamente oponibles como los humanos, pero les dan una capacidad prensil superior. Videos documentados muestran gatos polidáctilos abriendo puertas, girando pomos y agarrando objetos con una destreza inusual para un felino.", "visual": "cat using paws grabbing toy object", "duration": 25},
-    {"voice": "¿La polidactilia causa problemas de salud? Generalmente no. La Asociación Americana de Medicina Veterinaria clasifica la polidactilia simple como benigna. Sin embargo, en casos raros, los dedos extra pueden crecer en ángulos incómodos, atrapar uñas o dificultar el caminado. El veterinario debe revisar que las uñas extra se recorten regularmente para evitar encarnamiento.", "visual": "veterinarian examining cat paws", "duration": 25},
-    {"voice": "Existe una condición diferente llamada hipoplasia radial felina que a veces se confunde con la polidactilia pero es mucho más seria. En esta condición, los huesos del antebrazo no se desarrollan correctamente, causando las llamadas patas de hamburguesa. Un estudio del Journal of Feline Medicine and Surgery recomienda no cruzar gatos con esta condición.", "visual": "healthy cat walking showing normal gait", "duration": 25},
-    {"voice": "Los gatos polidáctilos aparecen en la historia de la genética temprana. Charles Darwin mencionó la polidactilia en gatos en su obra La Variación de Animales y Plantas bajo Domesticación en 1868. Fue uno de los primeros rasgos hereditarios documentados en felinos, años antes de que se redescubrieran las leyes de Mendel.", "visual": "old book pages science historical", "duration": 25},
-    {"voice": "La investigación moderna ha identificado al menos tres mutaciones diferentes en la zona reguladora ZRS que causan polidactilia en gatos. Un equipo del Instituto Roslin de Edimburgo, el mismo instituto que clonó a la oveja Dolly, publicó en 2014 que cada mutación produce un patrón ligeramente diferente de dedos extra. La genética es más compleja de lo que se creía.", "visual": "laboratory scientist microscope research", "duration": 25},
-    {"voice": "En el mundo felino del espectáculo, la polidactilia fue históricamente penalizada. La Cat Fanciers Association no acepta gatos polidáctilos en competencia estándar. Sin embargo, desde 2008, la organización TICA permite Pixie-bobs polidáctilos en exhibición, siendo la primera raza donde la polidactilia es un rasgo aceptado e incluso deseado.", "visual": "pixie bob cat large paws spotted", "duration": 25},
-    {"voice": "El Pixie-bob es la única raza donde la polidactilia está en el estándar. El estándar de TICA permite hasta siete dedos por pata en esta raza que se asemeja a un lince norteamericano. La criadora Carol Ann Brewer, que fundó la raza en 1985, incluyó deliberadamente la polidactilia como característica distintiva.", "visual": "pixie bob cat wild looking large", "duration": 25},
-    {"voice": "Un dato curioso: la polidactilia no es exclusiva de los gatos. Aparece en humanos, perros, ratones y hasta dinosaurios. Pero en gatos es particularmente común y benigna. El genetista Axel Visel del Laboratorio Nacional Lawrence Berkeley demostró en 2012 que el mismo elemento regulador ZRS existe en todos los vertebrados, es una pieza genética conservada durante cientos de millones de años.", "visual": "different animal paws comparison", "duration": 25},
-    {"voice": "Los gatos polidáctilos más extremos son extraordinarios. El récord actual según el Libro Guinness pertenece a Jake, un gato de Ontario, Canadá, verificado en 2002 con veintiocho dedos. Cada uno tenía su propia estructura ósea completa, almohadilla y uña. El veterinario que lo examinó confirmó que todos los dedos eran funcionales.", "visual": "tabby cat large paws impressive", "duration": 25},
-    {"voice": "Hay un mito popular de que los gatos polidáctilos son más inteligentes. No hay evidencia científica que lo sostenga. Sin embargo, un estudio de la Universidad de Liverpool documentó que los gatos polidáctilos muestran comportamientos manipulativos más complejos con objetos, probablemente porque sus patas extra les permiten mayor destreza, no mayor inteligencia.", "visual": "clever cat solving puzzle toy", "duration": 25},
-    {"voice": "En la cultura popular, los gatos polidáctilos han ganado fama en las redes sociales. La cuenta de Instagram de Craig, un gato polidáctilo canadiense, acumuló más de quinientos mil seguidores por sus patas que parecen guantes de boxeo. La apariencia de pulgares y patas grandes genera una estética que los amantes de gatos encuentran irresistible.", "visual": "cute cat with big paws posing", "duration": 25},
-    {"voice": "La polidactilia también interesa a la medicina humana. Las mismas mutaciones en el gen Shh que causan dedos extra en gatos causan polidactilia en humanos. Estudiar gatos polidáctilos ayuda a entender condiciones congénitas en personas. La doctora Laura Lettice publicó que los modelos felinos han acelerado la comprensión de malformaciones congénitas de las extremidades.", "visual": "scientist comparing xray paw and hand", "duration": 25},
-    {"voice": "Resumiendo: los gatos polidáctilos no son raros ni defectuosos. Son portadores de una mutación genética dominante en el gen Sonic Hedgehog que produce dedos extra perfectamente funcionales. Han navegado océanos, inspirado a escritores y ayudado a la ciencia a entender el desarrollo embrionario. Son pequeñas maravillas genéticas con historia.", "visual": "polydactyl cat sitting proudly paws visible", "duration": 25},
-    {"voice": "Si los gatos polidáctilos te fascinaron, suscríbete a CatBrothers y activa la campana ahora mismo. El próximo episodio va a desmontar mitos peligrosos: toxoplasmosis y embarazo. La ciencia real contra el miedo irracional. Es un tema que todo amante de gatos necesita conocer. Te esperamos.", "visual": "happy cat waving paw at camera", "duration": 20}
+  "title": "Polydactyl Cats The Genetics of Extra Toes",
+  "description": "Polydactyl cats have more toes than usual, and the science behind it is fascinating. From Ernest Hemingway's cats to the genetics of the Shh gene, discover why cats are born with six, seven, or even eight toes per paw. Real scientific data about this unique genetic mutation in the feline world.",
+  "tags": [
+    "cats",
+    "polydactyl cats",
+    "cats with extra toes",
+    "feline genetics",
+    "Hemingway's cats",
+    "genetic mutations in cats",
+    "cat curiosities",
+    "polydactyly in cats",
+    "cat documentaries",
+    "feline science"
   ],
-  "thumbnail_text": "DEDOS EXTRA"
+  "segments": [
+    {
+      "voice": "Imagine a cat with twenty-eight toes instead of eighteen. It exists. His name is Jake, and he entered the Guinness Book of Records with seven toes on each paw. Polydactyl cats defy normal anatomy, and the genetics behind their extra toes is one of the most fascinating stories in modern biology.",
+      "visual": "cat paw close up extra toes",
+      "duration": 25
+    },
+    {
+      "voice": "Welcome to CatBrothers. Today, we enter the world of polydactyl cats, those extraordinary felines born with extra toes. It's not a disease or a defect. It's a dominant genetic mutation that has fascinated scientists, writers, and sailors for centuries. We're going to tell you all about the science.",
+      "visual": "polydactyl cat showing large paws",
+      "duration": 25
+    },
+    {
+      "voice": "First, the numbers. A normal cat has eighteen toes: five on each front paw and four on each back paw. Polydactyl cats can have between one and three extra toes per paw. The most common average is six toes on the front paws. Prevalence varies geographically: on the east coast of the United States, it can reach ten percent.",
+      "visual": "cat stretching paws on blanket",
+      "duration": 25
+    },
+    {
+      "voice": "The genetic cause was identified in 2008 by researchers at the University of Edinburgh led by Laura Lettice. They published in Human Molecular Genetics that feline polydactyly is due to mutations in a regulatory element of the Sonic Hedgehog gene, yes, named after the video game. This gene controls toe development in the embryo.",
+      "visual": "dna helix science genetics illustration",
+      "duration": 25
+    },
+    {
+      "voice": "The Sonic Hedgehog gene, abbreviated Shh, is crucial in the embryonic development of all vertebrates. It acts as a signal that tells cells where and when to form toes. In polydactyl cats, a mutation in the ZRS regulatory zone causes the gene to be activated in a wider area of the embryo, producing extra toes.",
+      "visual": "kitten paws developing growing",
+      "duration": 25
+    },
+    {
+      "voice": "What's fascinating is that polydactyly is an autosomal dominant trait. This means that if one parent is polydactyl, about fifty percent of the kittens will inherit the condition. It doesn't need both parents to have it. A study by the University of California, Davis, confirmed this inheritance pattern in 2010.",
+      "visual": "mother cat with kittens nursing",
+      "duration": 25
+    },
+    {
+      "voice": "Ernest Hemingway is perhaps the human most associated with polydactyl cats. A ship captain named Stanley Dexter gave him a six-toed white cat named Snow White in the 1930s. Today, the Hemingway Museum in Key West, Florida, houses between forty and sixty descendants of Snow White. About half are polydactyl.",
+      "visual": "white cat in tropical garden key west",
+      "duration": 25
+    },
+    {
+      "voice": "The cats at the Hemingway Museum are protected by federal law. In 2003, the US Department of Agriculture tried to regulate the colony. After a years-long legal battle, a federal court ruled in 2013 in favor of the museum, allowing the cats to live freely on the property. They are cats with judicial protection.",
+      "visual": "cats lounging in sunny garden estate",
+      "duration": 25
+    },
+    {
+      "voice": "Sailors have a special historical relationship with polydactyl cats. Since the sixteenth century, British and American sailors considered them good luck charms. It was believed that their extra toes gave them better grip on wet decks and made them better mouse hunters. Ships with polydactyl cats were preferred.",
+      "visual": "cat walking on wooden ship deck",
+      "duration": 25
+    },
+    {
+      "voice": "This explains the geographical distribution. The highest concentration of polydactyl cats is found in historical ports: Boston, Halifax, Yarmouth in England, and the coasts of Wales. A study by geneticist Sarah Hartwell traced the distribution and found it coincides perfectly with ancient British maritime trade routes.",
+      "visual": "harbor port town boats coastal",
+      "duration": 25
+    },
+    {
+      "voice": "Not all extra toes are the same. The most common form is preaxial polydactyly, where the extra toes appear on the thumb side. Less frequent is postaxial, on the pinky side. And rarely seen is central polydactyly, with extra toes in the middle. Each type is associated with different mutations in the ZRS regulatory zone.",
+      "visual": "cat paw beans toes close up detail",
+      "duration": 25
+    },
+    {
+      "voice": "Polydactyl cats often seem to have opposable thumbs. These thumbs, called prehalluces, are not truly opposable like humans, but they give them superior grasping ability. Documented videos show polydactyl cats opening doors, turning knobs, and grasping objects with unusual dexterity for a feline.",
+      "visual": "cat using paws grabbing toy object",
+      "duration": 25
+    },
+    {
+      "voice": "Does polydactyly cause health problems? Generally, no. The American Veterinary Medical Association classifies simple polydactyly as benign. However, in rare cases, the extra toes can grow at uncomfortable angles, trap nails, or hinder walking. The veterinarian should check that the extra nails are trimmed regularly to avoid ingrowth.",
+      "visual": "veterinarian examining cat paws",
+      "duration": 25
+    },
+    {
+      "voice": "There's a different condition called radial hypoplasia that is sometimes confused with polydactyly but is much more serious. In this condition, the forearm bones do not develop correctly, causing what's called 'hamburger paws.' A study in the Journal of Feline Medicine and Surgery recommends not breeding cats with this condition.",
+      "visual": "healthy cat walking showing normal gait",
+      "duration": 25
+    },
+    {
+      "voice": "Polydactyl cats appear in the early history of genetics. Charles Darwin mentioned polydactyly in cats in his work 'The Variation of Animals and Plants under Domestication' in 1868. It was one of the first hereditary traits documented in felines, years before Mendel's laws were rediscovered.",
+      "visual": "old book pages science historical",
+      "duration": 25
+    },
+    {
+      "voice": "Modern research has identified at least three different mutations in the ZRS regulatory zone that cause polydactyly in cats. A team from the Roslin Institute in Edinburgh, the same institute that cloned Dolly the sheep, published in 2014 that each mutation produces a slightly different pattern of extra toes. The genetics are more complex than thought.",
+      "visual": "laboratory scientist microscope research",
+      "duration": 25
+    },
+    {
+      "voice": "In the feline show world, polydactyly was historically penalized. The Cat Fanciers Association does not accept polydactyl cats in standard competition. However, since 2008, TICA allows polydactyl Pixie-bobs in exhibition, being the first breed where polydactyly is an accepted and even desired trait.",
+      "visual": "pixie bob cat large paws spotted",
+      "duration": 25
+    },
+    {
+      "voice": "The Pixie-bob is the only breed where polydactyly is in the standard. TICA's standard allows up to seven toes per paw in this breed that resembles a North American lynx. Breeder Carol Ann Brewer, who founded the breed in 1985, deliberately included polydactyly as a distinctive feature.",
+      "visual": "pixie bob cat wild looking large",
+      "duration": 25
+    },
+    {
+      "voice": "A curious fact: polydactyly is not exclusive to cats. It appears in humans, dogs, mice, and even dinosaurs. But in cats, it's particularly common and benign. Geneticist Axel Visel from the Lawrence Berkeley National Laboratory demonstrated in 2012 that the same ZRS regulatory element exists in all vertebrates, a genetic piece conserved for hundreds of millions of years.",
+      "visual": "different animal paws comparison",
+      "duration": 25
+    },
+    {
+      "voice": "The most extreme polydactyl cats are extraordinary. The current record, according to the Guinness Book of Records, belongs to Jake, a cat from Ontario, Canada, verified in 2002 with twenty-eight toes. Each had its own complete bone structure, pad, and nail. The examining veterinarian confirmed that all toes were functional.",
+      "visual": "tabby cat large paws impressive",
+      "duration": 25
+    },
+    {
+      "voice": "There's a popular myth that polydactyl cats are more intelligent. There's no scientific evidence to support this. However, a study from the University of Liverpool documented that polydactyl cats show more complex manipulative behaviors with objects, probably because their extra paws allow for greater dexterity, not greater intelligence.",
+      "visual": "clever cat solving puzzle toy",
+      "duration": 25
+    },
+    {
+      "voice": "In popular culture, polydactyl cats have gained fame on social media. The Instagram account of Craig, a Canadian polydactyl cat, accumulated over five hundred thousand followers due to his paws that look like boxing gloves. The appearance of thumbs and large paws generates an aesthetic that cat lovers find irresistible.",
+      "visual": "cute cat with big paws posing",
+      "duration": 25
+    },
+    {
+      "voice": "Polydactyly also interests human medicine. The same mutations in the Shh gene that cause extra toes in cats cause polydactyly in humans. Studying polydactyl cats helps understand congenital conditions in people. Dr. Laura Lettice published that feline models have accelerated the understanding of congenital limb malformations.",
+      "visual": "scientist comparing xray paw and hand",
+      "duration": 25
+    },
+    {
+      "voice": "In summary: polydactyl cats are not rare or defective. They are carriers of a dominant genetic mutation in the Sonic Hedgehog gene that produces perfectly functional extra toes. They have navigated oceans, inspired writers, and helped science understand embryonic development. They are small genetic marvels with a history.",
+      "visual": "polydactyl cat sitting proudly paws visible",
+      "duration": 25
+    },
+    {
+      "voice": "If polydactyl cats fascinated you, subscribe to CatBrothers and turn on the bell now. The next episode will debunk dangerous myths: toxoplasmosis and pregnancy. Real science against irrational fear. It's a topic every cat lover needs to know. We'll see you there.",
+      "visual": "happy cat waving paw at camera",
+      "duration": 20
+    }
+  ],
+  "thumbnail_text": "EXTRA TOES"
 }

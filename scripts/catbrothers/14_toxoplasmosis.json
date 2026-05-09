@@ -1,33 +1,144 @@
 {
-  "title": "Toxoplasmosis y Gatos 🐱 Verdades y Mitos del Embarazo",
-  "description": "¿Hay que deshacerse del gato durante el embarazo? La ciencia dice NO. Desmontamos todos los mitos sobre toxoplasmosis y gatos con datos de la OMS, el CDC y estudios publicados. Descubre cómo se transmite realmente el Toxoplasma gondii, cuál es el riesgo real y qué precauciones tomar sin abandonar a tu gato.",
-  "tags": ["gatos", "toxoplasmosis", "gatos y embarazo", "toxoplasma gondii", "mitos sobre gatos", "salud felina", "embarazo y mascotas", "enfermedades de gatos", "documentales de gatos", "ciencia veterinaria"],
-  "segments": [
-    {"voice": "Cada año, miles de gatos son abandonados porque sus dueñas quedan embarazadas. La razón: el miedo a la toxoplasmosis. Pero los datos del Centro para el Control de Enfermedades de Estados Unidos demuestran que la principal fuente de infección no es tu gato, sino la carne mal cocida. Hoy vamos a desmontar el mito más dañino sobre los gatos.", "visual": "pregnant woman holding cat lovingly", "duration": 25},
-    {"voice": "Bienvenidos a CatBrothers. Este episodio es probablemente el más importante que hemos hecho. La toxoplasmosis ha generado un miedo irracional hacia los gatos que ha provocado miles de abandonos innecesarios. Vamos a usar solo ciencia publicada, datos verificables y recomendaciones oficiales de la Organización Mundial de la Salud.", "visual": "cat looking at camera innocent eyes", "duration": 25},
-    {"voice": "Empecemos por lo básico. La toxoplasmosis es una infección causada por el parásito Toxoplasma gondii, descubierto en 1908 por los investigadores Charles Nicolle y Louis Manceaux en Túnez. Es uno de los parásitos más exitosos del planeta. Según datos de los CDC, aproximadamente un tercio de la población mundial ha sido infectada en algún momento de su vida.", "visual": "microscope parasite science close up", "duration": 25},
-    {"voice": "El ciclo de vida del Toxoplasma tiene dos fases. La fase sexual solo ocurre en gatos, que son los huéspedes definitivos. Pero la fase asexual ocurre en prácticamente cualquier animal de sangre caliente, incluyendo humanos, cerdos, corderos y aves. Los gatos son parte del ciclo, pero no son la única fuente de infección ni la más común.", "visual": "cat outdoors hunting in garden", "duration": 25},
-    {"voice": "Dato crucial: según un metaanálisis publicado en el British Medical Journal en 2000, la principal fuente de infección de toxoplasmosis en humanos es el consumo de carne cruda o mal cocida, responsable del treinta al sesenta y tres por ciento de los casos en Europa. El contacto directo con gatos representa menos del seis por ciento de las infecciones documentadas.", "visual": "raw meat on cutting board kitchen", "duration": 25},
-    {"voice": "¿Cómo se infecta un gato? Solo cazando y comiendo presas infectadas como ratones o aves. Un gato de interior que come pienso comercial tiene un riesgo mínimo de infección. Según la doctora Patricia Conrad, parasitóloga de la Universidad de California en Davis, un gato que nunca sale y no come carne cruda tiene probabilidades cercanas a cero de portar Toxoplasma.", "visual": "indoor cat eating from bowl safe", "duration": 25},
-    {"voice": "Cuando un gato se infecta por primera vez, excreta ooquistes en sus heces durante solo una a tres semanas en toda su vida. Después desarrolla inmunidad y rara vez vuelve a excretarlos. Además, los ooquistes necesitan entre uno y cinco días de maduración en el ambiente para volverse infecciosos. Limpiar la bandeja diariamente elimina prácticamente el riesgo.", "visual": "person cleaning cat litter box gloves", "duration": 25},
-    {"voice": "Un estudio de la Universidad Complutense de Madrid publicado en Parasitology Research analizó heces de más de trescientos gatos domésticos en España y encontró ooquistes de Toxoplasma en solo el cero coma seis por ciento. Menos del uno por ciento. Los gatos domésticos son excretores extremadamente infrecuentes y temporales del parásito.", "visual": "veterinary lab testing samples", "duration": 25},
-    {"voice": "La toxoplasmosis en personas sanas es generalmente asintomática o produce síntomas similares a una gripe leve. El sistema inmunológico la controla eficazmente. El problema real surge en personas inmunodeprimidas y en la infección primaria durante el embarazo, especialmente en el primer trimestre, donde puede causar toxoplasmosis congénita en el feto.", "visual": "doctor consultation medical office", "duration": 25},
-    {"voice": "Pero incluso durante el embarazo, las cifras son tranquilizadoras. Según la Organización Mundial de la Salud, la incidencia de toxoplasmosis congénita varía entre uno y diez casos por cada diez mil nacidos vivos, dependiendo del país. En España, un estudio del Instituto de Salud Carlos Tercero estimó una incidencia de dos a tres casos por cada diez mil nacimientos.", "visual": "healthy newborn baby hospital", "duration": 25},
-    {"voice": "La Sociedad Española de Ginecología y Obstetricia publicó en 2018 directrices claras: no es necesario deshacerse del gato durante el embarazo. Las recomendaciones son sencillas: evitar limpiar la bandeja sanitaria o hacerlo con guantes, mantener al gato dentro de casa, no darle carne cruda y lavarse las manos después de manipular tierra de jardín.", "visual": "pregnant woman relaxing cat on lap", "duration": 25},
-    {"voice": "El Colegio Americano de Obstetras y Ginecólogos coincide. Sus guías oficiales de 2020 establecen que el riesgo de contraer toxoplasmosis de un gato doméstico de interior es extremadamente bajo. Recomiendan que otra persona limpie la bandeja sanitaria, pero enfatizan que no hay razón médica para separarse del gato durante el embarazo.", "visual": "medical guidelines document professional", "duration": 25},
-    {"voice": "Hay otros datos que el miedo oculta. La jardinería es una fuente significativa de infección. Los ooquistes de Toxoplasma pueden sobrevivir en el suelo durante meses. Un estudio de la Universidad de Montpellier encontró ooquistes viables en el veinticinco por ciento de muestras de tierra de jardín. Usar guantes al hacer jardinería es más importante que alejarse del gato.", "visual": "person gardening wearing gloves outdoors", "duration": 25},
-    {"voice": "El agua también puede ser fuente de infección. En 1995, una epidemia de toxoplasmosis en Victoria, Canadá, afectó a más de cien personas y se rastreó al suministro de agua municipal contaminado con ooquistes. El investigador Brent Dixon publicó el caso en el International Journal for Parasitology, demostrando que el riesgo hídrico es real pero prevenible.", "visual": "clean water tap glass drinking", "duration": 25},
-    {"voice": "Ahora hablemos de algo que pocos mencionan: el efecto del miedo infundado. Un estudio de la Universidad de Guelph en Canadá publicado en Zoonoses and Public Health encontró que el miedo a la toxoplasmosis es la segunda causa más frecuente de abandono de gatos relacionada con embarazo, después de las alergias. Miles de gatos pierden su hogar por información incorrecta.", "visual": "sad cat in animal shelter cage", "duration": 25},
-    {"voice": "La doctora Julie Levy de la Universidad de Florida, especialista en medicina de refugios, estima que más de veinticinco mil gatos son entregados anualmente a refugios en Estados Unidos por razones relacionadas con embarazo. Muchos son eutanasiados. Desmitificar la toxoplasmosis no es solo cuestión científica, es una emergencia de bienestar animal.", "visual": "cat rescue shelter volunteer caring", "duration": 25},
-    {"voice": "¿Qué hay de la toxoplasmosis y el comportamiento humano? El investigador Jaroslav Flegr de la Universidad Carolina de Praga ha publicado estudios controvertidos sugiriendo que el Toxoplasma puede modificar el comportamiento humano, aumentando la toma de riesgos. Sin embargo, metaanálisis posteriores publicados en PLOS ONE en 2019 encontraron efectos mucho menores a los sugeridos inicialmente.", "visual": "brain scan medical neuroscience", "duration": 25},
-    {"voice": "Para los gatos, la toxoplasmosis rara vez es un problema. La mayoría de gatos infectados no muestran síntomas. Los gatitos y gatos inmunodeprimidos pueden desarrollar neumonía, inflamación ocular o problemas neurológicos. Pero según la Asociación Americana de Hospitales de Animales, los casos clínicos severos son excepcionales en gatos domésticos bien alimentados.", "visual": "healthy happy cat playing with toy", "duration": 25},
-    {"voice": "La prevención es simple. El CDC resume las medidas en cinco puntos: cocinar la carne a más de setenta y cuatro grados centígrados, lavar frutas y verduras, limpiar la bandeja del gato diariamente con guantes, mantener al gato dentro de casa y lavarse las manos después de manipular tierra. Ninguno de estos puntos incluye abandonar al gato.", "visual": "cooking meat thermometer kitchen safe", "duration": 25},
-    {"voice": "Existe una prueba serológica que puede determinar si ya has tenido toxoplasmosis. Si la inmunoglobulina G es positiva y la inmunoglobulina M es negativa, significa que tuviste la infección en el pasado y eres inmune. En ese caso, no hay riesgo durante el embarazo. Tu ginecólogo puede solicitarla en un análisis de sangre rutinario.", "visual": "blood test medical laboratory tubes", "duration": 25},
-    {"voice": "En Francia, la prueba de toxoplasmosis es obligatoria al inicio del embarazo desde 1978. Las mujeres seronegativas son monitorizadas mensualmente. Gracias a este programa, la incidencia de toxoplasmosis congénita se redujo un setenta por ciento en tres décadas según datos del Instituto Nacional de Salud e Investigación Médica francés.", "visual": "prenatal medical checkup ultrasound", "duration": 25},
-    {"voice": "También se puede analizar al gato. Un veterinario puede hacer una prueba serológica para determinar si tu gato ha tenido contacto con Toxoplasma. Si es seropositivo, probablemente ya excretó los ooquistes en el pasado y es inmune, con riesgo mínimo de volver a excretarlos. Si es seronegativo, mantenerlo dentro de casa eliminará el riesgo.", "visual": "veterinarian examining cat blood test", "duration": 25},
-    {"voice": "Un último dato que merece reflexión. Los países con mayor consumo de carne cruda, como Francia, tienen las tasas más altas de toxoplasmosis humana. Los países donde se cocina bien la carne tienen tasas bajas. Si la causa principal fueran los gatos, las tasas serían similares en todos los países con poblaciones felinas similares. Los datos no mienten.", "visual": "world map statistics health data", "duration": 25},
-    {"voice": "La ciencia es clara: no necesitas deshacerte de tu gato si estás embarazada. Necesitas cocinar bien la carne, lavar frutas y verduras, usar guantes para la bandeja sanitaria y el jardín, y mantener a tu gato dentro de casa. Estas medidas simples reducen el riesgo a prácticamente cero. Tu gato y tu bebé pueden convivir perfectamente.", "visual": "happy family baby and cat together", "duration": 25},
-    {"voice": "Si este documental puede salvar aunque sea un gato del abandono, habrá valido la pena. Comparte este video con toda embarazada que conozcas. Suscríbete a CatBrothers y activa la campana. La próxima semana te enseñamos a hacer feliz a tu gato de interior con enriquecimiento ambiental científico. Dale a compartir ahora.", "visual": "happy cat waving paw at camera", "duration": 20}
+  "title": "Toxoplasmosis and Cats: Truths and Myths of Pregnancy",
+  "description": "Do you need to get rid of your cat during pregnancy? Science says NO. We debunk all the myths about toxoplasmosis and cats with data from the WHO, CDC, and published studies. Discover how Toxoplasma gondii is really transmitted, what the real risk is, and what precautions to take without abandoning your cat.",
+  "tags": [
+    "cats",
+    "toxoplasmosis",
+    "cats and pregnancy",
+    "toxoplasma gondii",
+    "myths about cats",
+    "feline health",
+    "pregnancy and pets",
+    "cat diseases",
+    "cat documentaries",
+    "veterinary science"
   ],
-  "thumbnail_text": "MITO GATOS"
+  "segments": [
+    {
+      "voice": "Every year, thousands of cats are abandoned because their owners become pregnant. The reason: fear of toxoplasmosis. But data from the US Centers for Disease Control and Prevention shows that the primary source of infection is not your cat, but undercooked meat. Today, we're going to debunk the most damaging myth about cats.",
+      "visual": "pregnant woman holding cat lovingly",
+      "duration": 25
+    },
+    {
+      "voice": "Welcome to CatBrothers. This episode is probably the most important one we've made. Toxoplasmosis has generated an irrational fear of cats that has led to thousands of unnecessary abandonments. We'll use only published science, verifiable data, and official recommendations from the World Health Organization.",
+      "visual": "cat looking at camera innocent eyes",
+      "duration": 25
+    },
+    {
+      "voice": "Let's start with the basics. Toxoplasmosis is an infection caused by the parasite Toxoplasma gondii, discovered in 1908 by researchers Charles Nicolle and Louis Manceaux in Tunisia. It's one of the most successful parasites on the planet. According to CDC data, approximately one-third of the global population has been infected at some point in their lives.",
+      "visual": "microscope parasite science close up",
+      "duration": 25
+    },
+    {
+      "voice": "The life cycle of Toxoplasma has two phases. The sexual phase only occurs in cats, which are the definitive hosts. But the asexual phase occurs in virtually any warm-blooded animal, including humans, pigs, sheep, and birds. Cats are part of the cycle, but they're not the only source of infection or the most common one.",
+      "visual": "cat outdoors hunting in garden",
+      "duration": 25
+    },
+    {
+      "voice": "Crucial fact: according to a meta-analysis published in the British Medical Journal in 2000, the primary source of toxoplasmosis infection in humans is the consumption of raw or undercooked meat, responsible for thirty to sixty-three percent of cases in Europe. Direct contact with cats accounts for less than six percent of documented infections.",
+      "visual": "raw meat on cutting board kitchen",
+      "duration": 25
+    },
+    {
+      "voice": "How does a cat get infected? Only by hunting and eating infected prey like mice or birds. An indoor cat that eats commercial food has a minimal risk of infection. According to Dr. Patricia Conrad, a parasitologist at the University of California, Davis, a cat that never goes outside and doesn't eat raw meat has a near-zero chance of carrying Toxoplasma.",
+      "visual": "indoor cat eating from bowl safe",
+      "duration": 25
+    },
+    {
+      "voice": "When a cat is infected for the first time, it excretes oocysts in its feces for only one to three weeks in its entire life. After that, it develops immunity and rarely excretes them again. Additionally, oocysts need one to five days to mature in the environment to become infectious. Cleaning the litter box daily eliminates the risk almost entirely.",
+      "visual": "person cleaning cat litter box gloves",
+      "duration": 25
+    },
+    {
+      "voice": "A study by the Complutense University of Madrid published in Parasitology Research analyzed feces from over three hundred domestic cats in Spain and found Toxoplasma oocysts in only 0.6 percent. Less than one percent. Domestic cats are extremely infrequent and temporary excretors of the parasite.",
+      "visual": "veterinary lab testing samples",
+      "duration": 25
+    },
+    {
+      "voice": "Toxoplasmosis in healthy people is generally asymptomatic or produces symptoms similar to a mild flu. The immune system controls it effectively. The real problem arises in immunocompromised individuals and in primary infection during pregnancy, especially in the first trimester, where it can cause congenital toxoplasmosis in the fetus.",
+      "visual": "doctor consultation medical office",
+      "duration": 25
+    },
+    {
+      "voice": "But even during pregnancy, the figures are reassuring. According to the World Health Organization, the incidence of congenital toxoplasmosis varies between one and ten cases per ten thousand live births, depending on the country. In Spain, a study by the Carlos III Health Institute estimated an incidence of two to three cases per ten thousand births.",
+      "visual": "healthy newborn baby hospital",
+      "duration": 25
+    },
+    {
+      "voice": "The Spanish Society of Gynecology and Obstetrics published clear guidelines in 2018: it's not necessary to get rid of the cat during pregnancy. The recommendations are simple: avoid cleaning the litter box or do it with gloves, keep the cat indoors, don't give it raw meat, and wash your hands after handling garden soil.",
+      "visual": "pregnant woman relaxing cat on lap",
+      "duration": 25
+    },
+    {
+      "voice": "The American College of Obstetricians and Gynecologists agrees. Their 2020 official guidelines state that the risk of contracting toxoplasmosis from a domestic indoor cat is extremely low. They recommend that someone else clean the litter box, but emphasize that there's no medical reason to separate from the cat during pregnancy.",
+      "visual": "medical guidelines document professional",
+      "duration": 25
+    },
+    {
+      "voice": "There are other facts that fear hides. Gardening is a significant source of infection. Toxoplasma oocysts can survive in soil for months. A study by the University of Montpellier found viable oocysts in twenty-five percent of garden soil samples. Wearing gloves while gardening is more important than staying away from cats.",
+      "visual": "person gardening wearing gloves outdoors",
+      "duration": 25
+    },
+    {
+      "voice": "Water can also be a source of infection. In 1995, a toxoplasmosis outbreak in Victoria, Canada, affected over a hundred people and was traced back to the contaminated municipal water supply with oocysts. Researcher Brent Dixon published the case in the International Journal for Parasitology, demonstrating that the waterborne risk is real but preventable.",
+      "visual": "clean water tap glass drinking",
+      "duration": 25
+    },
+    {
+      "voice": "Now, let's talk about something few people mention: the effect of unfounded fear. A study by the University of Guelph in Canada published in Zoonoses and Public Health found that fear of toxoplasmosis is the second most common reason for cat abandonment related to pregnancy, after allergies. Thousands of cats lose their homes due to misinformation.",
+      "visual": "sad cat in animal shelter cage",
+      "duration": 25
+    },
+    {
+      "voice": "Dr. Julie Levy from the University of Florida, a specialist in shelter medicine, estimates that over twenty-five thousand cats are surrendered to shelters annually in the US for pregnancy-related reasons. Many are euthanized. Debunking toxoplasmosis is not just a scientific matter; it's an animal welfare emergency.",
+      "visual": "cat rescue shelter volunteer caring",
+      "duration": 25
+    },
+    {
+      "voice": "What about toxoplasmosis and human behavior? Researcher Jaroslav Flegr from Charles University in Prague has published controversial studies suggesting that Toxoplasma can modify human behavior, increasing risk-taking. However, subsequent meta-analyses published in PLOS ONE in 2019 found much smaller effects than initially suggested.",
+      "visual": "brain scan medical neuroscience",
+      "duration": 25
+    },
+    {
+      "voice": "For cats, toxoplasmosis is rarely a problem. Most infected cats show no symptoms. Kittens and immunocompromised cats may develop pneumonia, eye inflammation, or neurological problems. But according to the American Animal Hospital Association, severe clinical cases are exceptional in well-fed domestic cats.",
+      "visual": "healthy happy cat playing with toy",
+      "duration": 25
+    },
+    {
+      "voice": "Prevention is simple. The CDC summarizes the measures in five points: cook meat to over seventy-four degrees Celsius, wash fruits and vegetables, clean the cat litter box daily with gloves, keep the cat indoors, and wash your hands after handling soil. None of these points include abandoning the cat.",
+      "visual": "cooking meat thermometer kitchen safe",
+      "duration": 25
+    },
+    {
+      "voice": "There's a serological test that can determine if you've already had toxoplasmosis. If the IgG is positive and the IgM is negative, it means you had the infection in the past and are immune. In that case, there's no risk during pregnancy. Your gynecologist can request it in a routine blood test.",
+      "visual": "blood test medical laboratory tubes",
+      "duration": 25
+    },
+    {
+      "voice": "In France, the toxoplasmosis test is mandatory at the start of pregnancy since 1978. Seronegative women are monitored monthly. Thanks to this program, the incidence of congenital toxoplasmosis decreased by seventy percent over three decades, according to data from the French National Institute of Health and Medical Research.",
+      "visual": "prenatal medical checkup ultrasound",
+      "duration": 25
+    },
+    {
+      "voice": "The cat can also be tested. A veterinarian can perform a serological test to determine if your cat has had contact with Toxoplasma. If it's seropositive, it probably already excreted oocysts in the past and is immune, with minimal risk of excreting them again. If it's seronegative, keeping it indoors will eliminate the risk.",
+      "visual": "veterinarian examining cat blood test",
+      "duration": 25
+    },
+    {
+      "voice": "One last fact worth considering. Countries with higher consumption of raw meat, like France, have the highest rates of human toxoplasmosis. Countries where meat is cooked well have low rates. If the primary cause were cats, the rates would be similar in all countries with similar feline populations. The data doesn't lie.",
+      "visual": "world map statistics health data",
+      "duration": 25
+    },
+    {
+      "voice": "Science is clear: you don't need to get rid of your cat if you're pregnant. You need to cook meat well, wash fruits and vegetables, use gloves for the litter box and gardening, and keep your cat indoors. These simple measures reduce the risk to almost zero. Your cat and your baby can coexist perfectly.",
+      "visual": "happy family baby and cat together",
+      "duration": 25
+    },
+    {
+      "voice": "If this documentary can save even one cat from abandonment, it will have been worth it. Share this video with every pregnant woman you know. Subscribe to CatBrothers and turn on the bell. Next week, we'll teach you how to make your indoor cat happy with scientific environmental enrichment. Share now.",
+      "visual": "happy cat waving paw at camera",
+      "duration": 20
+    }
+  ],
+  "thumbnail_text": "CAT MYTHS"
 }

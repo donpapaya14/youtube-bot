@@ -1,33 +1,144 @@
 {
-  "title": "Los Gatos Salvajes Más INCREÍBLES del Mundo 🐱",
-  "description": "Viaje por el mundo para conocer a los felinos salvajes más impresionantes del planeta. Del lince ibérico en peligro de extinción al gato de Pallas en las estepas de Mongolia. Gato de arena del Sahara, gato pescador de Asia, serval africano y más. Datos científicos, estado de conservación y curiosidades de cada especie documentadas por biólogos.",
-  "tags": ["gatos salvajes", "felinos salvajes", "lince ibérico", "gato de Pallas", "gato de arena", "serval", "felinos del mundo", "animales salvajes", "conservación felina", "documentales de animales"],
-  "segments": [
-    {"voice": "Existen treinta y ocho especies de felinos salvajes en el planeta, y la mayoría de la gente no conoce ni cinco. Algunos son tan pequeños como un gatito doméstico, otros cazan en la nieve a menos cuarenta grados. Uno de ellos estuvo a punto de extinguirse con solo noventa y cuatro individuos en el mundo. Hoy viajamos a todos los continentes para conocer a los gatos más extraordinarios de la Tierra.", "visual": "wild cat in natural habitat majestic", "duration": 25},
-    {"voice": "Bienvenidos a CatBrothers. Este es un episodio especial. Vamos a dejar tu salón y vamos a viajar por desiertos, selvas, montañas y estepas para conocer a los primos salvajes de tu gato doméstico. Algunos están en peligro crítico de extinción. Otros prosperan en los ambientes más hostiles del planeta. Todos son absolutamente fascinantes.", "visual": "panoramic wild landscape with hidden cat", "duration": 25},
-    {"voice": "Comenzamos en España con el lince ibérico, el felino más amenazado del mundo hasta hace poco. En 2002, solo quedaban noventa y cuatro individuos en toda la Península Ibérica. Gracias al programa de cría en cautividad más ambicioso de la historia, coordinado por el Ministerio de Medio Ambiente español, la población ha superado los mil quinientos ejemplares en 2024. Es el mayor éxito de conservación felina.", "visual": "iberian lynx in spanish forest", "duration": 25},
-    {"voice": "El lince ibérico tiene unas orejas con mechones negros característicos y patillas faciales que le dan un aspecto inconfundible. Su dieta depende en un noventa por ciento del conejo europeo. Cuando la mixomatosis diezmó las poblaciones de conejos en los años noventa, el lince casi desapareció con ellos. Los biólogos del programa LIFE Lince aprendieron que salvar al lince significaba primero salvar al conejo.", "visual": "iberian lynx close up face ear tufts", "duration": 25},
-    {"voice": "Viajamos a las montañas de Mongolia para encontrar al gato de Pallas, también llamado manul. Este pequeño felino de aspecto gruñón tiene el pelaje más denso de cualquier felino del mundo: nueve mil pelos por centímetro cuadrado. Lo necesita para sobrevivir a temperaturas de menos cincuenta grados en las estepas de Asia Central. El biólogo Peter Pallas lo describió por primera vez en 1776.", "visual": "pallas cat manul in steppe rocky terrain", "duration": 25},
-    {"voice": "El gato de Pallas tiene pupilas redondas, no verticales como la mayoría de gatos pequeños. Sus orejas están implantadas muy bajas en la cabeza, una adaptación que le permite asomarse detrás de las rocas sin ser detectado. Un estudio del Snow Leopard Trust documentó que sus principales presas son las pikas, pequeños mamíferos de las montañas que captura mediante emboscadas pacientes entre las rocas.", "visual": "pallas cat hiding behind rocks steppe", "duration": 25},
-    {"voice": "Volamos al Sahara para conocer al gato de las arenas, el único felino que vive exclusivamente en desiertos verdaderos. Puede sobrevivir sin beber agua durante semanas, obteniendo toda la hidratación de sus presas. Sus patas tienen pelo entre las almohadillas que le permite caminar sobre arena a sesenta grados sin quemarse. El investigador Alexander Sliwa del Zoo de Colonia ha estudiado esta especie durante décadas.", "visual": "sand cat in sahara desert walking", "duration": 25},
-    {"voice": "El gato de arena es tan elusivo que fue redescubierto en 2017 en los Emiratos Árabes después de diez años sin avistamientos. Un equipo del Instituto de Biología de la Conservación Smithsoniano utilizó cámaras trampa nocturnas y documentó tres individuos en una sola noche. Sus enormes orejas funcionan como antenas que detectan el movimiento de presas subterráneas bajo la arena del desierto.", "visual": "sand cat big ears night desert", "duration": 25},
-    {"voice": "En los manglares y humedales del sudeste asiático vive un felino que desafía todo lo que sabemos sobre gatos: el gato pescador. Este felino semiacuático tiene membranas interdigitales parciales y un pelaje de doble capa impermeable. Se sumerge completamente en el agua para capturar peces. Un estudio de la Wildlife Conservation Society documentó que el sesenta por ciento de su dieta es pescado.", "visual": "fishing cat hunting in water wetland", "duration": 25},
-    {"voice": "El gato pescador está clasificado como vulnerable por la Unión Internacional para la Conservación de la Naturaleza. La destrucción de humedales y manglares en Asia es su principal amenaza. La bióloga Anya Ratnayaka de la Universidad de Colombo documentó que los gatos pescadores urbanos de Sri Lanka se están adaptando a canales y estanques artificiales, mostrando una flexibilidad notable frente a la urbanización.", "visual": "fishing cat swimming in mangrove", "duration": 25},
-    {"voice": "El serval africano es probablemente el cazador más eficiente de todos los felinos. Tiene la tasa de éxito de caza más alta: cincuenta por ciento de sus intentos terminan en captura, comparado con el treinta por ciento del león. Sus piernas son las más largas en proporción al cuerpo de cualquier felino, permitiéndole saltar tres metros verticalmente para atrapar aves en pleno vuelo.", "visual": "serval cat jumping high catching prey", "duration": 25},
-    {"voice": "El serval tiene orejas enormes que funcionan como localizadores acústicos de precisión. Investigadores del Parque Nacional Kruger documentaron que puede localizar un roedor entre la hierba alta usando exclusivamente el sonido, lanzarse al aire y aterrizar con las patas delanteras exactamente sobre la presa. Es el equivalente felino de un misil guiado por sonar.", "visual": "serval listening in tall grass Africa", "duration": 25},
-    {"voice": "En las selvas tropicales de Centro y Sudamérica habita el margay, un felino arbóreo con una habilidad única. Es uno de los pocos gatos que puede rotar sus tobillos ciento ochenta grados, permitiéndole descender árboles de cabeza como una ardilla. Un estudio de la Wildlife Conservation Research Unit de Oxford documentó que pasa hasta el ochenta por ciento de su vida en los árboles.", "visual": "margay cat climbing tree tropical forest", "duration": 25},
-    {"voice": "El margay también es el maestro del engaño acústico. Investigadores de la Reserva Amanã en Brasil documentaron por primera vez en 2010 que el margay imita los chillidos de las crías de mono tití para atraer a monos adultos a su alcance. Esta estrategia de caza por mimetismo vocal es extremadamente rara en mamíferos y demuestra un nivel de cognición impresionante.", "visual": "margay cat in tree canopy camouflaged", "duration": 25},
-    {"voice": "En las selvas de Borneo vive el gato de la bahía, una de las especies más misteriosas del planeta. Es tan raro que hasta 2003 solo existían siete avistamientos confirmados. Un estudio de la Universidad de Sabah con cámaras trampa documentó que es nocturno, solitario y terriblemente elusivo. Los biólogos estiman que quedan menos de dos mil quinientos individuos en estado salvaje.", "visual": "borneo bay cat rare forest floor", "duration": 25},
-    {"voice": "Volvemos a Europa para encontrar al gato montés europeo, el ancestro directo de nuestro gato doméstico según un estudio genético de la revista Science publicado en 2007. Es más robusto que un gato doméstico, con una cola gruesa y anillada y un carácter absolutamente indomable. Los intentos de domesticación del gato montés europeo han fracasado consistentemente durante siglos.", "visual": "european wildcat in forest strong build", "duration": 25},
-    {"voice": "El gato montés europeo enfrenta una amenaza invisible: la hibridación con gatos domésticos. Un estudio de la Universidad de Oxford demostró que la mezcla genética entre gatos domésticos asilvestrados y gatos monteses está diluyendo el genoma puro del montés en muchas regiones. En Escocia, el gato montés escocés es genéticamente puro en menos del treinta por ciento de la población estudiada.", "visual": "european wildcat vs domestic cat comparison", "duration": 25},
-    {"voice": "En los Andes sudamericanos vive el gato andino, considerado el felino más amenazado del continente americano. Habita a altitudes de entre tres mil quinientos y cinco mil metros, donde el oxígeno es escaso y las temperaturas son extremas. La Alianza para el Gato Andino estima que quedan menos de dos mil quinientos individuos y trabaja con comunidades locales para su conservación.", "visual": "andean mountain cat on rocky mountain", "duration": 25},
-    {"voice": "El gato de patas negras de Sudáfrica es el felino más pequeño de África, pesando apenas entre uno y dos kilos. Pero no te dejes engañar: es proporcionalmente el cazador más letal de todos los felinos. Un estudio del Proyecto Gato de Patas Negras documentó que realiza hasta catorce cacerías exitosas por noche, matando una presa cada cincuenta minutos. Es una máquina de cazar en miniatura.", "visual": "black footed cat small hunting at night", "duration": 25},
-    {"voice": "Este diminuto felino tiene un metabolismo tan acelerado que necesita comer el equivalente a una sexta parte de su peso corporal cada noche para sobrevivir. El investigador Alexander Sliwa lo ha estudiado durante más de veinte años y lo describe como el felino más concentrado y determinado que ha observado jamás. Su apodo en afrikáans es miershooptier: el tigre del hormiguero.", "visual": "black footed cat catching prey efficiently", "duration": 25},
-    {"voice": "El caracal, con sus impresionantes orejas coronadas por mechones negros de hasta cinco centímetros, es uno de los felinos más ágiles del mundo. Puede saltar tres metros en vertical y atrapar hasta tres pájaros de un solo salto usando sus garras como raquetas en el aire. Los persas antiguos lo usaban para cazar aves, y las competiciones de caracal contra bandadas eran un deporte popular.", "visual": "caracal jumping catching bird midair", "duration": 25},
-    {"voice": "En las islas de Indonesia vive el gato ruginoso, empatado con el gato de patas negras como el felino más pequeño del mundo. Pesa apenas un kilo y medio. Un estudio del Zoológico de Berlín documentó que a pesar de su tamaño diminuto, tiene todas las habilidades de caza de los grandes felinos en miniatura: acecho, emboscada, salto y mordida cervical letal.", "visual": "rusty spotted cat tiny adorable hunting", "duration": 25},
-    {"voice": "La conservación de estos felinos salvajes es urgente. De las treinta y ocho especies de felinos del mundo, trece están clasificadas como vulnerables o en peligro por la UICN. La pérdida de hábitat, el conflicto con humanos y el cambio climático son las amenazas principales. Organizaciones como Panthera, la Alianza para el Gato Andino y el Snow Leopard Trust trabajan incansablemente para protegerlos.", "visual": "conservation workers protecting wild cats", "duration": 25},
-    {"voice": "Cada uno de estos gatos salvajes comparte ADN con el felino que ahora mismo duerme en tu sofá. Son primos lejanos separados por millones de años de evolución, pero conectados por una herencia genética común. Cuando miras a tu gato doméstico, estás viendo al descendiente de una de las familias de depredadores más exitosas de la historia de la vida en la Tierra.", "visual": "domestic cat next to wild cat comparison", "duration": 25},
-    {"voice": "Si amas a los gatos tanto como nosotros, suscríbete a CatBrothers y activa la campana. Cada semana traemos documentales fascinantes sobre el mundo felino. Comparte este video para que más personas conozcan a estos increíbles gatos salvajes y apoyen su conservación. El futuro de estos felinos depende de que los conozcamos. Nos vemos en el próximo documental.", "visual": "wild cat looking at camera powerful majestic sunset", "duration": 20}
+  "title": "The Most AMAZING Wild Cats in the World ",
+  "description": "Travel the world to meet the most impressive wild felines on the planet. From the endangered Iberian lynx to the Pallas cat in the Mongolian steppes. Sand cat of the Sahara, Asian fishing cat, African serval, and more. Scientific data, conservation status, and curiosities of each species documented by biologists.",
+  "tags": [
+    "wild cats",
+    "wild felines",
+    "Iberian lynx",
+    "Pallas cat",
+    "sand cat",
+    "serval",
+    "felines of the world",
+    "wild animals",
+    "feline conservation",
+    "animal documentaries"
   ],
-  "thumbnail_text": "GATOS SALVAJES"
+  "segments": [
+    {
+      "voice": "There are thirty-eight species of wild felines on the planet, and most people don't know more than five. Some are as small as a domestic kitten, others hunt in the snow at minus forty degrees. One of them was on the verge of extinction with only ninety-four individuals in the world. Today, we travel to all continents to meet the most extraordinary cats on Earth.",
+      "visual": "wild cat in natural habitat majestic",
+      "duration": 25
+    },
+    {
+      "voice": "Welcome to CatBrothers. This is a special episode. We're going to leave your living room and travel through deserts, jungles, mountains, and steppes to meet the wild cousins of your domestic cat. Some are critically endangered. Others thrive in the most hostile environments on the planet. All are absolutely fascinating.",
+      "visual": "panoramic wild landscape with hidden cat",
+      "duration": 25
+    },
+    {
+      "voice": "We start in Spain with the Iberian lynx, the most threatened feline in the world until recently. In 2002, only ninety-four individuals remained in the entire Iberian Peninsula. Thanks to the most ambitious captive breeding program in history, coordinated by the Spanish Ministry of Environment, the population has exceeded one thousand five hundred specimens in 2024. It's the greatest feline conservation success.",
+      "visual": "iberian lynx in spanish forest",
+      "duration": 25
+    },
+    {
+      "voice": "The Iberian lynx has characteristic black tufted ears and facial whiskers that give it an unmistakable appearance. Its diet depends ninety percent on the European rabbit. When myxomatosis decimated rabbit populations in the nineties, the lynx almost disappeared with them. Biologists from the LIFE Lince program learned that saving the lynx meant first saving the rabbit.",
+      "visual": "iberian lynx close up face ear tufts",
+      "duration": 25
+    },
+    {
+      "voice": "We travel to the mountains of Mongolia to find the Pallas cat, also called the manul. This small, gruff-looking feline has the densest fur of any feline in the world: nine thousand hairs per square centimeter. It needs it to survive temperatures of minus fifty degrees in the Asian steppes. Biologist Peter Pallas first described it in 1776.",
+      "visual": "pallas cat manul in steppe rocky terrain",
+      "duration": 25
+    },
+    {
+      "voice": "The Pallas cat has round pupils, not vertical like most small cats. Its ears are implanted very low on the head, an adaptation that allows it to peek behind rocks without being detected. A study by the Snow Leopard Trust documented that its main prey are pikas, small mountain mammals that it captures through patient ambushes among the rocks.",
+      "visual": "pallas cat hiding behind rocks steppe",
+      "duration": 25
+    },
+    {
+      "voice": "We fly to the Sahara to meet the sand cat, the only feline that lives exclusively in true deserts. It can survive without drinking water for weeks, obtaining all hydration from its prey. Its paws have hair between the pads, allowing it to walk on sand at sixty degrees without burning. Researcher Alexander Sliwa from the Cologne Zoo has studied this species for decades.",
+      "visual": "sand cat in sahara desert walking",
+      "duration": 25
+    },
+    {
+      "voice": "The sand cat is so elusive that it was rediscovered in 2017 in the United Arab Emirates after ten years without sightings. A team from the Smithsonian Conservation Biology Institute used night trap cameras and documented three individuals in a single night. Its enormous ears function as antennas that detect the movement of underground prey beneath the desert sand.",
+      "visual": "sand cat big ears night desert",
+      "duration": 25
+    },
+    {
+      "voice": "In the mangroves and wetlands of Southeast Asia lives a feline that defies everything we know about cats: the fishing cat. This semi-aquatic feline has partial interdigital membranes and a double-layered, waterproof coat. It fully submerges in water to catch fish. A study by the Wildlife Conservation Society documented that sixty percent of its diet is fish.",
+      "visual": "fishing cat hunting in water wetland",
+      "duration": 25
+    },
+    {
+      "voice": "The fishing cat is classified as vulnerable by the International Union for Conservation of Nature. The destruction of wetlands and mangroves in Asia is its main threat. Biologist Anya Ratnayaka from the University of Colombo documented that urban fishing cats in Sri Lanka are adapting to canals and artificial ponds, showing notable flexibility in the face of urbanization.",
+      "visual": "fishing cat swimming in mangrove",
+      "duration": 25
+    },
+    {
+      "voice": "The African serval is probably the most efficient hunter of all felines. It has the highest hunting success rate: fifty percent of its attempts end in capture, compared to the lion's thirty percent. Its legs are the longest in proportion to its body of any feline, allowing it to jump three meters vertically to catch birds in mid-air.",
+      "visual": "serval cat jumping high catching prey",
+      "duration": 25
+    },
+    {
+      "voice": "The serval has enormous ears that function as precision acoustic locators. Researchers from Kruger National Park documented that it can locate a rodent in the tall grass using sound alone, launch itself into the air, and land with its front paws exactly on the prey. It's the feline equivalent of a sonar-guided missile.",
+      "visual": "serval listening in tall grass Africa",
+      "duration": 25
+    },
+    {
+      "voice": "In the tropical forests of Central and South America lives the margay, an arboreal feline with a unique ability. It's one of the few cats that can rotate its ankles one hundred eighty degrees, allowing it to descend trees headfirst like a squirrel. A study by the Wildlife Conservation Research Unit at Oxford documented that it spends up to eighty percent of its life in the trees.",
+      "visual": "margay cat climbing tree tropical forest",
+      "duration": 25
+    },
+    {
+      "voice": "The margay is also the master of acoustic deception. Researchers from the Amanã Reserve in Brazil first documented in 2010 that the margay imitates the cries of titi monkey infants to lure adult monkeys within its reach. This vocal mimicry hunting strategy is extremely rare in mammals and demonstrates impressive cognition.",
+      "visual": "margay cat in tree canopy camouflaged",
+      "duration": 25
+    },
+    {
+      "voice": "In the forests of Borneo lives the bay cat, one of the most mysterious species on the planet. It's so rare that until 2003, only seven confirmed sightings existed. A study by the University of Sabah using trap cameras documented that it's nocturnal, solitary, and terribly elusive. Biologists estimate that fewer than two thousand five hundred individuals remain in the wild.",
+      "visual": "borneo bay cat rare forest floor",
+      "duration": 25
+    },
+    {
+      "voice": "We return to Europe to find the European wildcat, the direct ancestor of our domestic cat according to a genetic study published in Science in 2007. It's more robust than a domestic cat, with a thick, ringed tail and an absolutely untamable character. Attempts to domesticate the European wildcat have consistently failed for centuries.",
+      "visual": "european wildcat in forest strong build",
+      "duration": 25
+    },
+    {
+      "voice": "The European wildcat faces an invisible threat: hybridization with domestic cats. A study by the University of Oxford showed that genetic mixing between feral domestic cats and wildcats is diluting the pure genome of the wildcat in many regions. In Scotland, the Scottish wildcat is genetically pure in less than thirty percent of the studied population.",
+      "visual": "european wildcat vs domestic cat comparison",
+      "duration": 25
+    },
+    {
+      "voice": "In the South American Andes lives the Andean cat, considered the most threatened feline in the American continent. It inhabits altitudes between three thousand five hundred and five thousand meters, where oxygen is scarce and temperatures are extreme. The Andean Cat Alliance estimates that fewer than two thousand five hundred individuals remain and works with local communities for its conservation.",
+      "visual": "andean mountain cat on rocky mountain",
+      "duration": 25
+    },
+    {
+      "voice": "The black-footed cat of South Africa is the smallest feline in Africa, weighing barely between one and two kilograms. But don't be fooled: it's proportionally the deadliest hunter of all felines. A study by the Black-footed Cat Project documented that it makes up to fourteen successful hunts per night, killing a prey every fifty minutes. It's a miniature hunting machine.",
+      "visual": "black footed cat small hunting at night",
+      "duration": 25
+    },
+    {
+      "voice": "This tiny feline has such an accelerated metabolism that it needs to eat the equivalent of one-sixth of its body weight every night to survive. Researcher Alexander Sliwa has studied it for over twenty years and describes it as the most concentrated and determined feline he has ever observed. Its Afrikaans nickname is miershooptier: the ant hill tiger.",
+      "visual": "black footed cat catching prey efficiently",
+      "duration": 25
+    },
+    {
+      "voice": "The caracal, with its impressive ears crowned by black tufts up to five centimeters long, is one of the most agile felines in the world. It can jump three meters vertically and catch up to three birds in a single leap using its claws like rackets in the air. Ancient Persians used it for bird hunting, and caracal versus bird flocks competitions were a popular sport.",
+      "visual": "caracal jumping catching bird midair",
+      "duration": 25
+    },
+    {
+      "voice": "In the islands of Indonesia lives the rusty-spotted cat, tied with the black-footed cat as the smallest feline in the world. It weighs barely one and a half kilograms. A study by the Berlin Zoo documented that despite its tiny size, it has all the hunting skills of large felines in miniature: stalking, ambushing, jumping, and lethal neck bite.",
+      "visual": "rusty spotted cat tiny adorable hunting",
+      "duration": 25
+    },
+    {
+      "voice": "The conservation of these wild felines is urgent. Of the thirty-eight feline species in the world, thirteen are classified as vulnerable or endangered by the IUCN. Habitat loss, human conflict, and climate change are the main threats. Organizations like Panthera, the Andean Cat Alliance, and the Snow Leopard Trust work tirelessly to protect them.",
+      "visual": "conservation workers protecting wild cats",
+      "duration": 25
+    },
+    {
+      "voice": "Each of these wild cats shares DNA with the feline that's now sleeping on your sofa. They're distant cousins separated by millions of years of evolution but connected by a common genetic heritage. When you look at your domestic cat, you're seeing the descendant of one of the most successful predator families in the history of life on Earth.",
+      "visual": "domestic cat next to wild cat comparison",
+      "duration": 25
+    },
+    {
+      "voice": "If you love cats as much as we do, subscribe to CatBrothers and turn on the bell. Every week, we bring you fascinating documentaries about the feline world. Share this video so more people can meet these incredible wild cats and support their conservation. The future of these felines depends on our knowledge of them. See you in the next documentary.",
+      "visual": "wild cat looking at camera powerful majestic sunset",
+      "duration": 20
+    }
+  ],
+  "thumbnail_text": "WILD CATS"
 }
