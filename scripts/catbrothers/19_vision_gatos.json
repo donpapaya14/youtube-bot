@@ -1,33 +1,144 @@
 {
-  "title": "Cómo Ven los Gatos el Mundo 🐱 Visión UV y Nocturna",
-  "description": "Los gatos ven ultravioleta, detectan movimiento a velocidades imperceptibles para humanos y su visión nocturna es seis veces mejor que la nuestra. Descubre cómo es realmente el mundo a través de los ojos de un gato según la ciencia. Datos de universidades y estudios publicados sobre la visión felina.",
-  "tags": ["gatos", "visión de los gatos", "cómo ven los gatos", "ojos de gato", "visión nocturna gatos", "ultravioleta gatos", "tapetum lucidum", "pupilas felinas", "documentales de gatos", "ciencia felina"],
-  "segments": [
-    {"voice": "Tu gato puede ver cosas que para ti son completamente invisibles. Investigadores de la Universidad de Londres demostraron en 2014 que los gatos perciben luz ultravioleta, un espectro que los humanos no podemos detectar. Los gatos literalmente ven un mundo más amplio que el nuestro. Lo que ellos ven cada día sería invisible para nosotros.", "visual": "cat eyes glowing in dim light close up", "duration": 25},
-    {"voice": "Bienvenidos a CatBrothers. Hoy vamos a ponernos los ojos de un gato y descubrir cómo ven realmente el mundo. Spoiler: no es como los documentales muestran. La visión felina es un sistema completamente diferente al humano, optimizado para la caza nocturna y la detección de movimiento. Vamos a desmitificar todo lo que crees saber.", "visual": "cat looking at camera mysterious eyes", "duration": 25},
-    {"voice": "Empecemos por la estructura del ojo. El ojo de un gato es proporcionalmente enorme: ocupa aproximadamente el veinte por ciento de su cráneo. Si nuestros ojos fueran proporcionalmente iguales, tendrían el tamaño de pelotas de tenis. La doctora Heather Lewis, oftalmóloga veterinaria de la Universidad de Wisconsin, explica que este tamaño permite captar mucha más luz.", "visual": "cat eye extreme macro close up pupil", "duration": 25},
-    {"voice": "La retina felina tiene una proporción de bastones a conos radicalmente diferente a la humana. Los gatos tienen veinticinco bastones por cada cono, mientras que los humanos tenemos cuatro bastones por cono. Los bastones detectan luz y movimiento. Los conos detectan color. Según investigaciones de la Universidad de Bristol, esto hace que los gatos vean seis veces mejor que nosotros en condiciones de poca luz.", "visual": "cat eyes reflecting light in darkness", "duration": 25},
-    {"voice": "El tapetum lucidum es la clave de la visión nocturna. Es una capa reflectante detrás de la retina que actúa como un espejo, devolviendo la luz que no fue captada para que la retina tenga una segunda oportunidad de procesarla. El doctor Ron Ofri de la Universidad Hebrea de Jerusalén midió que el tapetum lucidum duplica la cantidad de luz disponible para los fotorreceptores.", "visual": "cat eyes shining bright in dark", "duration": 25},
-    {"voice": "Ese brillo espeluznante que ves en los ojos de tu gato cuando le apuntas con una linterna en la oscuridad es exactamente el tapetum lucidum reflejando la luz de vuelta. El color del reflejo depende del color de los ojos: verde en gatos de ojos verdes, dorado en gatos de ojos ámbar, y rojo en gatos siameses que carecen de tapetum.", "visual": "multiple cat eyes glowing green dark", "duration": 25},
-    {"voice": "Las pupilas del gato son una obra maestra de ingeniería óptica. Pueden abrirse hasta ocupar el noventa por ciento del iris, captando la máxima cantidad de luz. Y se contraen en una rendija vertical tan fina como una aguja. Un estudio de la Universidad de California en Berkeley publicado en Science Advances en 2015 demostró que las pupilas verticales permiten un control de luz trescientas veces mayor que las pupilas redondas humanas.", "visual": "cat pupil dilating contracting close up", "duration": 25},
-    {"voice": "¿Por qué verticales y no redondas? El investigador Martin Banks de Berkeley descubrió que las pupilas verticales son una adaptación de depredadores emboscadores de baja estatura. La rendija vertical optimiza la percepción de profundidad horizontal, exactamente lo que necesita un gato agazapado para calcular la distancia de salto hacia una presa que se mueve lateralmente.", "visual": "cat crouching ready to pounce hunt", "duration": 25},
-    {"voice": "Ahora el tema más revolucionario: la visión ultravioleta. Un estudio de 2014 de Ronald Douglas y Glen Jeffery de la Universidad de Londres publicado en Proceedings of the Royal Society B demostró que el cristalino del gato transmite luz ultravioleta hasta los trescientos diecisiete nanómetros. El cristalino humano bloquea la UV. Los gatos ven un espectro que para nosotros no existe.", "visual": "ultraviolet light flowers glowing pattern", "duration": 25},
-    {"voice": "¿Qué cosas pueden ver los gatos en ultravioleta que nosotros no? Muchas. La orina de roedor brilla intensamente bajo luz UV. Las marcas de territorio de otros gatos también. Ciertos patrones en pelajes de presas y flores son visibles solo en UV. Un mundo entero de señales que para el ojo humano es completamente invisible está disponible para tu gato cada día.", "visual": "glowing uv light patterns nature", "duration": 25},
-    {"voice": "En cuanto al color, los gatos no ven en blanco y negro como se creía, pero tampoco ven como nosotros. Tienen dos tipos de conos, sensibles al azul y al verde. Los humanos tenemos tres, añadiendo el rojo. Un estudio de la Universidad de California publicado en Visual Neuroscience demostró que los gatos ven azules y amarillos con claridad pero no distinguen bien rojos y verdes.", "visual": "color spectrum comparison cat human vision", "duration": 25},
-    {"voice": "La visión del color de un gato es comparable a la de una persona con deuteranopía, un tipo de daltonismo rojo-verde. El mundo para un gato es una paleta de azules, amarillos, verdes apagados y grises. El rojo de un juguete se ve como un marrón grisáceo. Por eso los juguetes azules y amarillos son más estimulantes para los gatos que los rojos.", "visual": "colorful cat toys blue yellow selection", "duration": 25},
-    {"voice": "La detección de movimiento es donde la visión felina supera ampliamente a la humana. Los gatos pueden detectar movimiento a velocidades tan lentas como dos milímetros por segundo, según investigaciones del MIT. Los humanos necesitamos al menos diez veces esa velocidad. Esto explica por qué un gato detecta un insecto moviéndose en la pared que tú ni siquiera notas.", "visual": "cat watching tiny insect on wall alert", "duration": 25},
-    {"voice": "Sin embargo, la visión estática de los gatos es inferior a la humana. La agudeza visual del gato es de aproximadamente 20/100 a 20/200 en la escala humana, según la doctora Kerry Ketring del Colegio Americano de Oftalmología Veterinaria. Un gato necesita estar a seis metros para ver con claridad lo que un humano ve a veinte metros. Si no se mueve, un gato podría no verlo bien.", "visual": "cat squinting trying to focus far", "duration": 25},
-    {"voice": "El campo visual del gato es más amplio que el humano: doscientos grados frente a nuestros ciento ochenta. Pero el campo binocular, donde ambos ojos se superponen para crear percepción de profundidad, es de solo ciento cuarenta grados frente a nuestros ciento veinte. Un estudio de la Universidad de Cambridge demostró que esta configuración optimiza tanto la visión periférica como la percepción de distancia.", "visual": "cat scanning environment wide eyes", "duration": 25},
-    {"voice": "Los gatos tienen un tercer párpado llamado membrana nictitante. Esta membrana semitransparente se desliza horizontalmente para proteger y lubricar el ojo sin bloquear completamente la visión. Según la doctora Cynthia Powell del Colegio de Medicina Veterinaria de Colorado, el tercer párpado contiene una glándula lagrimal que produce hasta el cincuenta por ciento de las lágrimas del gato.", "visual": "cat third eyelid visible close up", "duration": 25},
-    {"voice": "Los gatos parpadean mucho menos que los humanos. Mientras nosotros parpadeamos entre quince y veinte veces por minuto, los gatos lo hacen entre dos y cinco veces. El parpadeo lento del gato tiene un significado social documentado por la Universidad de Sussex: es una señal de confianza. Cuando tu gato te parpadea lentamente, te está diciendo que se siente seguro contigo.", "visual": "cat slow blinking at owner trust", "duration": 25},
-    {"voice": "La velocidad de fusión de parpadeo, o flicker fusion rate, del gato es de aproximadamente setenta hercios, comparada con los sesenta hercios humanos. Esto significa que los gatos perciben las pantallas de televisión antiguas como una serie de imágenes parpadeantes. Las pantallas LED modernas de alta frecuencia son más fluidas para los gatos y por eso algunos reaccionan a las pantallas actuales.", "visual": "cat watching television screen curious", "duration": 25},
-    {"voice": "Los ojos del gato tienen una estructura reflectante adicional poco conocida. Las fibras de Purkinje en la periferia de la retina son extremadamente sensibles al movimiento. Un estudio del Instituto Nacional de Investigación Óptica de Japón demostró que estas fibras permiten al gato detectar movimiento en su visión periférica con una eficiencia un cuatrocientos por ciento superior a la humana.", "visual": "cat turning head quickly detecting movement", "duration": 25},
-    {"voice": "La miopía del gato tiene sentido evolutivo. Como depredadores de emboscada, los gatos necesitan ver con máximo detalle los objetos cercanos, las presas. La visión lejana borrosa no es una desventaja porque cazan abalanzándose, no persiguiendo a larga distancia. El sistema visual felino sacrificó nitidez lejana por máxima eficiencia a distancias de caza: entre uno y seis metros.", "visual": "cat pouncing on toy precise close range", "duration": 25},
-    {"voice": "El color de los ojos del gato está determinado genéticamente por la melanina. Los ojos azules tienen poca melanina, los verdes una cantidad media y los ámbar o cobre mucha. Los gatos blancos con ojos azules tienen mayor incidencia de sordera: un estudio de la Universidad de Cornell encontró que entre el sesenta y cinco y el ochenta y cinco por ciento son sordos de al menos un oído.", "visual": "white cat with blue eyes beautiful", "duration": 25},
-    {"voice": "La heterocromía, tener un ojo de cada color, es relativamente común en gatos. Afecta especialmente a razas blancas como el Van Turco y el Angora Turco. Un estudio de la Universidad de Leipzig demostró que los gatos con heterocromía son frecuentemente sordos del lado del ojo azul, ya que la falta de melanina afecta tanto al iris como a la cóclea del mismo lado.", "visual": "cat with heterochromia different eye colors", "duration": 25},
-    {"voice": "Los gatitos nacen con los ojos cerrados y los abren entre los siete y los diez días de vida. Todos los gatitos nacen con ojos azules porque carecen de melanina. El color definitivo se establece entre las seis y las ocho semanas de edad según la Asociación de Oftalmología Veterinaria. Durante las primeras semanas, su visión es borrosa y no perciben profundidad.", "visual": "tiny kitten opening eyes first time", "duration": 25},
-    {"voice": "Resumiendo: tu gato ve ultravioleta, detecta movimientos imperceptibles para ti, tiene visión nocturna seis veces mejor que la tuya, controla la luz trescientas veces mejor con sus pupilas y tiene un campo visual de doscientos grados. A cambio, ve colores limitados y objetos lejanos borrosos. La evolución no creó ojos perfectos sino ojos perfectos para cazar.", "visual": "cat eyes beautiful dramatic lighting", "duration": 25},
-    {"voice": "Si la visión felina te alucinó, suscríbete a CatBrothers ahora y activa esa campana. El próximo y último episodio de esta temporada va a revelarte algo increíble: los maullidos son un lenguaje que los gatos inventaron exclusivamente para comunicarse con los humanos. No lo usan entre ellos. Es fascinante. No te lo pierdas.", "visual": "happy cat waving paw at camera", "duration": 20}
+  "title": "How Cats See the World 🐱 UV and Night Vision",
+  "description": "Cats see ultraviolet light, detect movement at speeds imperceptible to humans, and their night vision is six times better than ours. Discover what the world really looks like through a cat's eyes according to science. Data from universities and published studies on feline vision.",
+  "tags": [
+    "cats",
+    "cat vision",
+    "how cats see",
+    "cat eyes",
+    "cat night vision",
+    "ultraviolet cats",
+    "tapetum lucidum",
+    "feline pupils",
+    "cat documentaries",
+    "feline science"
   ],
-  "thumbnail_text": "VISIÓN UV"
+  "segments": [
+    {
+      "voice": "Your cat can see things that are completely invisible to you. Researchers from the University of London demonstrated in 2014 that cats perceive ultraviolet light, a spectrum that humans cannot detect. Cats literally see a broader world than we do. What they see every day would be invisible to us.",
+      "visual": "cat eyes glowing in dim light close up",
+      "duration": 25
+    },
+    {
+      "voice": "Welcome to CatBrothers. Today, we're going to put on a cat's eyes and discover how they really see the world. Spoiler: it's not like documentaries show. Feline vision is a system completely different from humans', optimized for night hunting and motion detection. Let's debunk everything you think you know.",
+      "visual": "cat looking at camera mysterious eyes",
+      "duration": 25
+    },
+    {
+      "voice": "Let's start with the eye structure. A cat's eye is proportionally enormous: it occupies about twenty percent of its skull. If our eyes were proportionally the same, they'd be the size of tennis balls. Dr. Heather Lewis, a veterinary ophthalmologist at the University of Wisconsin, explains that this size allows them to capture much more light.",
+      "visual": "cat eye extreme macro close up pupil",
+      "duration": 25
+    },
+    {
+      "voice": "The feline retina has a radically different ratio of rods to cones compared to humans. Cats have twenty-five rods for every cone, while humans have four rods per cone. Rods detect light and motion. Cones detect color. According to research from the University of Bristol, this allows cats to see six times better than us in low-light conditions.",
+      "visual": "cat eyes reflecting light in darkness",
+      "duration": 25
+    },
+    {
+      "voice": "The tapetum lucidum is the key to night vision. It's a reflective layer behind the retina that acts like a mirror, bouncing back light that wasn't captured so the retina gets a second chance to process it. Dr. Ron Ofri from the Hebrew University of Jerusalem measured that the tapetum lucidum doubles the amount of light available to photoreceptors.",
+      "visual": "cat eyes shining bright in dark",
+      "duration": 25
+    },
+    {
+      "voice": "That eerie glow you see in your cat's eyes when you shine a light on them in the dark is exactly the tapetum lucidum reflecting light back. The color of the reflection depends on eye color: green in green-eyed cats, gold in amber-eyed cats, and red in Siamese cats that lack a tapetum.",
+      "visual": "multiple cat eyes glowing green dark",
+      "duration": 25
+    },
+    {
+      "voice": "A cat's pupils are a masterpiece of optical engineering. They can dilate to occupy ninety percent of the iris, capturing maximum light. And they contract into a vertical slit as thin as a needle. A 2015 study from the University of California, Berkeley published in Science Advances showed that vertical pupils allow light control three hundred times greater than human round pupils.",
+      "visual": "cat pupil dilating contracting close up",
+      "duration": 25
+    },
+    {
+      "voice": "Why vertical and not round? Researcher Martin Banks from Berkeley discovered that vertical pupils are an adaptation of low-stature ambush predators. The vertical slit optimizes horizontal depth perception, exactly what a crouching cat needs to calculate the jumping distance toward prey moving laterally.",
+      "visual": "cat crouching ready to pounce hunt",
+      "duration": 25
+    },
+    {
+      "voice": "Now for the most major topic: ultraviolet vision. A 2014 study by Ronald Douglas and Glen Jeffery from the University of London published in Proceedings of the Royal Society B showed that a cat's lens transmits ultraviolet light up to 317 nanometers. The human lens blocks UV. Cats see a spectrum that doesn't exist for us.",
+      "visual": "ultraviolet light flowers glowing pattern",
+      "duration": 25
+    },
+    {
+      "voice": "What can cats see in UV that we can't? Many things. Rodent urine glows brightly under UV light. Other cats' territorial markings too. Certain patterns on prey fur and flowers are only visible in UV. An entire world of signals invisible to the human eye is available to your cat every day.",
+      "visual": "glowing uv light patterns nature",
+      "duration": 25
+    },
+    {
+      "voice": "As for color, cats don't see in black and white as once believed, but they don't see like us either. They have two types of cones, sensitive to blue and green. Humans have three, adding red. A University of California study published in Visual Neuroscience showed cats see blues and yellows clearly but don't distinguish reds and greens well.",
+      "visual": "color spectrum comparison cat human vision",
+      "duration": 25
+    },
+    {
+      "voice": "A cat's color vision is comparable to a person with deuteranopia, a type of red-green color blindness. The world to a cat is a palette of blues, yellows, muted greens, and grays. The red of a toy looks like a grayish brown. That's why blue and yellow toys are more stimulating to cats than red ones.",
+      "visual": "colorful cat toys blue yellow selection",
+      "duration": 25
+    },
+    {
+      "voice": "Motion detection is where feline vision far surpasses humans'. Cats can detect movement at speeds as slow as two millimeters per second, according to MIT research. Humans need at least ten times that speed. This explains why a cat spots an insect moving on the wall that you don't even notice.",
+      "visual": "cat watching tiny insect on wall alert",
+      "duration": 25
+    },
+    {
+      "voice": "However, cats' static vision is inferior to humans'. Cat visual acuity is approximately 20/100 to 20/200 on the human scale, according to Dr. Kerry Ketring from the American College of Veterinary Ophthalmology. A cat needs to be six meters away to see clearly what a human sees at twenty meters. If it's not moving, a cat might not see it well.",
+      "visual": "cat squinting trying to focus far",
+      "duration": 25
+    },
+    {
+      "voice": "A cat's visual field is wider than humans': two hundred degrees versus our one hundred eighty. But the binocular field, where both eyes overlap to create depth perception, is only one hundred forty degrees versus our one hundred twenty. A University of Cambridge study showed this configuration optimizes both peripheral vision and distance perception.",
+      "visual": "cat scanning environment wide eyes",
+      "duration": 25
+    },
+    {
+      "voice": "Cats have a third eyelid called the nictitating membrane. This semi-transparent membrane slides horizontally to protect and lubricate the eye without completely blocking vision. According to Dr. Cynthia Powell from the Colorado State University College of Veterinary Medicine, the third eyelid contains a tear gland that produces up to fifty percent of a cat's tears.",
+      "visual": "cat third eyelid visible close up",
+      "duration": 25
+    },
+    {
+      "voice": "Cats blink much less than humans. While we blink fifteen to twenty times per minute, cats blink two to five times. The slow blink has a social meaning documented by the University of Sussex: it's a trust signal. When your cat slow-blinks at you, it's saying it feels safe with you.",
+      "visual": "cat slow blinking at owner trust",
+      "duration": 25
+    },
+    {
+      "voice": "A cat's flicker fusion rate is about seventy hertz, compared to humans' sixty hertz. This means cats perceive old TV screens as a series of flickering images. Modern high-frequency LED screens are smoother for cats, which is why some react to current screens.",
+      "visual": "cat watching television screen curious",
+      "duration": 25
+    },
+    {
+      "voice": "Cat eyes have a little-known additional reflective structure. Purkinje fibers at the retina's periphery are extremely sensitive to motion. A study from Japan's National Institute of Optical Research showed these fibers allow cats to detect movement in their peripheral vision with four hundred percent greater efficiency than humans.",
+      "visual": "cat turning head quickly detecting movement",
+      "duration": 25
+    },
+    {
+      "voice": "Cat myopia makes evolutionary sense. As ambush predators, cats need to see nearby objects—prey—in maximum detail. Blurry distance vision isn't a disadvantage because they hunt by pouncing, not long-distance chasing. The feline visual system sacrificed far clarity for maximum efficiency at hunting distances: one to six meters.",
+      "visual": "cat pouncing on toy precise close range",
+      "duration": 25
+    },
+    {
+      "voice": "Cat eye color is genetically determined by melanin. Blue eyes have little melanin, green eyes a medium amount, and amber or copper eyes have much. White cats with blue eyes have higher rates of deafness: a Cornell University study found sixty-five to eighty-five percent are deaf in at least one ear.",
+      "visual": "white cat with blue eyes beautiful",
+      "duration": 25
+    },
+    {
+      "voice": "Heterochromia—having one eye of each color—is relatively common in cats. It especially affects white breeds like the Turkish Van and Turkish Angora. A University of Leipzig study showed cats with heterochromia are often deaf on the blue-eyed side, as the lack of melanin affects both the iris and cochlea on that side.",
+      "visual": "cat with heterochromia different eye colors",
+      "duration": 25
+    },
+    {
+      "voice": "Kittens are born with closed eyes and open them between seven and ten days old. All kittens are born with blue eyes because they lack melanin. The final color is established between six and eight weeks of age according to the Veterinary Ophthalmology Association. In the first weeks, their vision is blurry and they don't perceive depth.",
+      "visual": "tiny kitten opening eyes first time",
+      "duration": 25
+    },
+    {
+      "voice": "In summary: your cat sees ultraviolet light, detects movements imperceptible to you, has night vision six times better than yours, controls light three hundred times better with its pupils, and has a two-hundred-degree visual field. In exchange, it sees limited colors and distant objects blurry. Evolution didn't create perfect eyes but perfect eyes for hunting.",
+      "visual": "cat eyes beautiful dramatic lighting",
+      "duration": 25
+    },
+    {
+      "voice": "If feline vision blew your mind, subscribe to CatBrothers now and hit that bell. The next and final episode of this season will reveal something striking: meows are a language cats invented exclusively to communicate with humans. They don't use it with each other. It's remarkable. Don't miss it.",
+      "visual": "happy cat waving paw at camera",
+      "duration": 20
+    }
+  ],
+  "thumbnail_text": "UV VISION"
 }

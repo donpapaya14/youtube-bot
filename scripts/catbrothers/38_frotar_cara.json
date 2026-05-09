@@ -1,31 +1,136 @@
 {
   "title": "Why Cats Rub Their Face on EVERYTHING: Pheromones Decoded",
   "description": "When your cat rubs against you, it's not just affection. It's depositing pheromones. Discover the 9 pheromone glands a cat has. What it really means when your cat rubs its face against you.",
-  "tags": ["pheromones", "cat behavior", "chemical communication", "rubbing", "territorial marking", "glands", "scent", "territory", "feline behavior", "body language", "instinct", "scent marking"],
+  "tags": [
+    "pheromones",
+    "cat behavior",
+    "chemical communication",
+    "rubbing",
+    "territorial marking",
+    "glands",
+    "scent",
+    "territory",
+    "feline behavior",
+    "body language",
+    "instinct",
+    "scent marking"
+  ],
   "segments": [
-    {"voice": "When your cat rubs its face on you, on furniture, or on any object, it's doing far more than simply showing affection. It's taking part in a complex form of chemical communication that humans rarely notice and almost never understand.", "visual": "cat rubbing face affection", "duration": 22},
-    {"voice": "Cats have at least nine different glands that produce pheromones. These glands sit in different parts of the body and release unique scents for communication. Each gland sends a different message, and your cat picks the gland based on the situation.", "visual": "cat glands marking locations", "duration": 23},
-    {"voice": "The most important glands are on the cat's face: glands on the cheeks, chin, lips, and around the eyes. When it rubs its face against you, it's mainly using the cheek glands. That's why cats lead with the side of the face, not the nose.", "visual": "cat face cheek glands", "duration": 24},
-    {"voice": "These facial glands produce F-series pheromones, which are specifically used to mark objects as part of the safe territory. The cat is essentially declaring this is mine, this belongs in my secure zone. It's not ownership in the human sense — it's an emotional bookmark.", "visual": "territorial marking security", "duration": 23},
-    {"voice": "When a cat rubs its face on you repeatedly, it is marking you as part of its family group. You are part of its safety territory. Doctor John Bradshaw at the University of Bristol described this as the deepest signal of trust in the feline social repertoire.", "visual": "family bonding connection", "duration": 22},
-    {"voice": "Cats also have glands on their paws. When they scratch, they are depositing different pheromones, more linked to activity and motion than to safety. Scratching combines a visual mark with a chemical one, which is why claw posts become favorite spots.", "visual": "cat scratching claw marks", "duration": 22},
-    {"voice": "Cats have glands around the base of the tail. When the tail goes up, the animal may be releasing tail pheromones, which are social signals specific to other cats. Researcher Patrick Pageat documented this gland system in detail in the early 2000s.", "visual": "cat tail raised communication", "duration": 23},
-    {"voice": "There are also glands in the anal region, just under the tail. These produce more complex pheromones that communicate information about age, sex, and reproductive status. Cats greet each other by sniffing this area precisely because of how much data it carries.", "visual": "anal glands cat anatomy", "duration": 23},
-    {"voice": "Urine glands are another communication system. Cats spray urine to mark vertical territory. Although humans only smell urine, cats perceive these markings as sophisticated messages with details about who passed by, when, and in what mood.", "visual": "cat spraying vertical marking", "duration": 23},
-    {"voice": "There is a special organ in cats for detecting these pheromones: the vomeronasal organ. It is what triggers the Flehmen smile you see when a cat curls its lips after sniffing something intriguing. The brain receives that signal directly through this organ.", "visual": "vomeronasal organ detection", "duration": 23},
-    {"voice": "Research suggests cat pheromones can be detected by other cats from extraordinary distances. They can travel through the air for tens of meters under the right conditions. Wind, humidity, and surface texture all influence how far the message reaches.", "visual": "scent travel distance air", "duration": 23},
-    {"voice": "A study at the University of Pennsylvania found that cats could differentiate between pheromones of unfamiliar cats and familiar cats, even after weeks without exposure. Memory of scent in cats is far more durable than visual memory of faces.", "visual": "cat recognition smell memory", "duration": 24},
-    {"voice": "Pheromones are not just smells. Some carry an electrical or chemical fingerprint that cats can detect with their specialized sensory organs. The vomeronasal canal essentially functions as a second nose dedicated to social information.", "visual": "electrical chemical detection", "duration": 22},
-    {"voice": "When you rub your face against a cat, you might also be picking up its pheromones. This could be beneficial for the relationship, creating a mutual chemical bond. The cat then re-marks you, reinforcing the loop with each interaction.", "visual": "mutual bonding chemical", "duration": 22},
-    {"voice": "Synthetic pheromone products for cats — like Feliway — are based on the science of these glands. They use analogs of feline pheromones to calm stressed cats. Several controlled trials have shown measurable reductions in anxiety markers.", "visual": "synthetic pheromone spray", "duration": 23},
-    {"voice": "These products work because they mimic the natural safety pheromones a cat would produce in a comfortable environment. Veterinary behaviorists often recommend them for moves, vet visits, or new household members.", "visual": "cat stress reduction comfort", "duration": 22},
-    {"voice": "If your cat does not rub its face on you, that doesn't mean it doesn't love you. Some cats are simply less inclined to mark with pheromones. Genetics and personality both play important roles. Body language, slow blinks, or shadowing you may be that cat's preferred bond signal.", "visual": "shy cat introverted", "duration": 22},
-    {"voice": "Doctor Sharon Crowell-Davis at the University of Georgia notes that face-rubbing intensity often increases after stressful events. The cat is not seeking comfort blindly — it is rebuilding the chemical map of its world after disruption.", "visual": "cat marking after stress", "duration": 23},
-    {"voice": "An interesting field observation: feral colony cats use the same glandular system to identify members of the colony. Without face-rubbing, the social structure of urban cat colonies would collapse within days. The glands are not optional, they are infrastructure.", "visual": "feral cat colony marking", "duration": 23},
-    {"voice": "Domestic cats that go outside tend to deposit more facial pheromones at the property edges, marking the boundary with humans rather than chasing intruders directly. It's a quieter, slower form of defense than spraying.", "visual": "cat marking property boundary", "duration": 23},
-    {"voice": "When two cats living together cross-rub, they exchange pheromones and create what is called a colony scent. Doctor Mikel Delgado at the University of California Davis describes it as a shared olfactory identity, almost like a family signature.", "visual": "two cats rubbing exchange", "duration": 24},
-    {"voice": "In conclusion, when your cat rubs its face on you, it is doing far more than seeking pets. It is running a sophisticated chemical communication strategy that ties its territory and its family together. Every rub is a sentence in a language we barely understand.", "visual": "cat face rub affectionate", "duration": 22},
-    {"voice": "If you love cats as much as we do, subscribe to CatBrothers and hit the bell. What's coming next week is going to surprise you. We're decoding the strange science of why cats sit on paper. See you in the next documentary.", "visual": "cat looking at camera friendly", "duration": 20}
+    {
+      "voice": "When your cat rubs its face on you, on furniture, or on any object, it's doing far more than simply showing affection. It's taking part in a complex form of chemical communication that humans rarely notice and almost never understand.",
+      "visual": "cat rubbing face affection",
+      "duration": 22
+    },
+    {
+      "voice": "Cats have at least nine different glands that produce pheromones. These glands sit in different parts of the body and release unique scents for communication. Each gland sends a different message, and your cat picks the gland based on the situation.",
+      "visual": "cat glands marking locations",
+      "duration": 23
+    },
+    {
+      "voice": "The most important glands are on the cat's face: glands on the cheeks, chin, lips, and around the eyes. When it rubs its face against you, it's mainly using the cheek glands. That's why cats lead with the side of the face, not the nose.",
+      "visual": "cat face cheek glands",
+      "duration": 24
+    },
+    {
+      "voice": "These facial glands produce F-series pheromones, which are specifically used to mark objects as part of the safe territory. The cat is essentially declaring this is mine, this belongs in my secure zone. It's not ownership in the human sense — it's an emotional bookmark.",
+      "visual": "territorial marking security",
+      "duration": 23
+    },
+    {
+      "voice": "When a cat rubs its face on you repeatedly, it is marking you as part of its family group. You are part of its safety territory. Doctor John Bradshaw at the University of Bristol described this as the deepest signal of trust in the feline social repertoire.",
+      "visual": "family bonding connection",
+      "duration": 22
+    },
+    {
+      "voice": "Cats also have glands on their paws. When they scratch, they are depositing different pheromones, more linked to activity and motion than to safety. Scratching combines a visual mark with a chemical one, which is why claw posts become favorite spots.",
+      "visual": "cat scratching claw marks",
+      "duration": 22
+    },
+    {
+      "voice": "Cats have glands around the base of the tail. When the tail goes up, the animal may be releasing tail pheromones, which are social signals specific to other cats. Researcher Patrick Pageat documented this gland system in detail in the early 2000s.",
+      "visual": "cat tail raised communication",
+      "duration": 23
+    },
+    {
+      "voice": "There are also glands in the anal region, just under the tail. These produce more complex pheromones that communicate information about age, sex, and reproductive status. Cats greet each other by sniffing this area precisely because of how much data it carries.",
+      "visual": "anal glands cat anatomy",
+      "duration": 23
+    },
+    {
+      "voice": "Urine glands are another communication system. Cats spray urine to mark vertical territory. Although humans only smell urine, cats perceive these markings as sophisticated messages with details about who passed by, when, and in what mood.",
+      "visual": "cat spraying vertical marking",
+      "duration": 23
+    },
+    {
+      "voice": "There is a special organ in cats for detecting these pheromones: the vomeronasal organ. It is what triggers the Flehmen smile you see when a cat curls its lips after sniffing something intriguing. The brain receives that signal directly through this organ.",
+      "visual": "vomeronasal organ detection",
+      "duration": 23
+    },
+    {
+      "voice": "Research suggests cat pheromones can be detected by other cats from extraordinary distances. They can travel through the air for tens of meters under the right conditions. Wind, humidity, and surface texture all influence how far the message reaches.",
+      "visual": "scent travel distance air",
+      "duration": 23
+    },
+    {
+      "voice": "A study at the University of Pennsylvania found that cats could differentiate between pheromones of unfamiliar cats and familiar cats, even after weeks without exposure. Memory of scent in cats is far more durable than visual memory of faces.",
+      "visual": "cat recognition smell memory",
+      "duration": 24
+    },
+    {
+      "voice": "Pheromones are not just smells. Some carry an electrical or chemical fingerprint that cats can detect with their specialized sensory organs. The vomeronasal canal essentially functions as a second nose dedicated to social information.",
+      "visual": "electrical chemical detection",
+      "duration": 22
+    },
+    {
+      "voice": "When you rub your face against a cat, you might also be picking up its pheromones. This could be beneficial for the relationship, creating a mutual chemical bond. The cat then re-marks you, reinforcing the loop with each interaction.",
+      "visual": "mutual bonding chemical",
+      "duration": 22
+    },
+    {
+      "voice": "Synthetic pheromone products for cats — like Feliway — are based on the science of these glands. They use analogs of feline pheromones to calm stressed cats. Several controlled trials have shown measurable reductions in anxiety markers.",
+      "visual": "synthetic pheromone spray",
+      "duration": 23
+    },
+    {
+      "voice": "These products work because they mimic the natural safety pheromones a cat would produce in a comfortable environment. Veterinary behaviorists often recommend them for moves, vet visits, or new household members.",
+      "visual": "cat stress reduction comfort",
+      "duration": 22
+    },
+    {
+      "voice": "If your cat does not rub its face on you, that doesn't mean it doesn't love you. Some cats are simply less inclined to mark with pheromones. Genetics and personality both play important roles. Body language, slow blinks, or shadowing you may be that cat's preferred bond signal.",
+      "visual": "shy cat introverted",
+      "duration": 22
+    },
+    {
+      "voice": "Doctor Sharon Crowell-Davis at the University of Georgia notes that face-rubbing intensity often increases after stressful events. The cat is not seeking comfort blindly — it is rebuilding the chemical map of its world after disruption.",
+      "visual": "cat marking after stress",
+      "duration": 23
+    },
+    {
+      "voice": "An interesting field observation: feral colony cats use the same glandular system to identify members of the colony. Without face-rubbing, the social structure of urban cat colonies would collapse within days. The glands are not optional, they are infrastructure.",
+      "visual": "feral cat colony marking",
+      "duration": 23
+    },
+    {
+      "voice": "Domestic cats that go outside tend to deposit more facial pheromones at the property edges, marking the boundary with humans rather than chasing intruders directly. It's a quieter, slower form of defense than spraying.",
+      "visual": "cat marking property boundary",
+      "duration": 23
+    },
+    {
+      "voice": "When two cats living together cross-rub, they exchange pheromones and create what is called a colony scent. Doctor Mikel Delgado at the University of California Davis describes it as a shared olfactory identity, almost like a family signature.",
+      "visual": "two cats rubbing exchange",
+      "duration": 24
+    },
+    {
+      "voice": "In conclusion, when your cat rubs its face on you, it is doing far more than seeking pets. It is running a sophisticated chemical communication strategy that ties its territory and its family together. Every rub is a sentence in a language we barely understand.",
+      "visual": "cat face rub affectionate",
+      "duration": 22
+    },
+    {
+      "voice": "If you love cats as much as we do, subscribe to CatBrothers and hit the bell. What's coming next week is going to surprise you. We're decoding the strange science of why cats sit on paper. See you in the next documentary.",
+      "visual": "cat looking at camera friendly",
+      "duration": 20
+    }
   ],
   "thumbnail_text": "SCENT MARKING"
 }

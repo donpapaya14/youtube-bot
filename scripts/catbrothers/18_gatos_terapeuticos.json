@@ -1,33 +1,144 @@
 {
-  "title": "Gatos Terapéuticos 🐱 Cómo Mejoran Tu Salud Mental",
-  "description": "La ciencia confirma que los gatos reducen el estrés, la ansiedad y la depresión. Estudios de universidades como Mayo Clinic, Minnesota y Missouri demuestran que tener un gato reduce hasta un 40% el riesgo de infarto. Descubre la terapia asistida con gatos y cómo tu felino mejora tu salud mental cada día.",
-  "tags": ["gatos", "gatos terapéuticos", "gatos y salud mental", "terapia con gatos", "beneficios tener gato", "gatos reducen estrés", "ronroneo terapéutico", "ansiedad y gatos", "documentales de gatos", "ciencia felina"],
-  "segments": [
-    {"voice": "Un estudio de diez años con más de cuatro mil participantes encontró que los dueños de gatos tienen un cuarenta por ciento menos de riesgo de morir por un ataque cardíaco. No es magia. Es ciencia publicada en el Journal of Vascular and Interventional Neurology. Tu gato podría estar salvándote la vida sin que lo sepas.", "visual": "person relaxing with cat peaceful home", "duration": 25},
-    {"voice": "Bienvenidos a CatBrothers. Hoy vamos a explorar algo que millones de dueños de gatos intuyen pero que la ciencia ha tardado décadas en confirmar: los gatos son terapéuticos. Y no hablamos de sentimientos subjetivos. Hablamos de cortisol, serotonina, presión arterial y resonancias magnéticas cerebrales. Vamos con los datos.", "visual": "cat sleeping on person chest calm", "duration": 25},
-    {"voice": "Empecemos por el estudio más impactante. Investigadores de la Universidad de Minnesota analizaron datos del Segundo Estudio Nacional de Salud y Nutrición entre 1976 y 2006. De cuatro mil cuatrocientos treinta y cinco participantes, los dueños de gatos tenían un treinta por ciento menos de riesgo de muerte por enfermedad cardiovascular que los no dueños, incluso controlando factores como edad, peso y tabaquismo.", "visual": "heart health medical stethoscope", "duration": 25},
-    {"voice": "La hormona del estrés, el cortisol, baja significativamente con la presencia de gatos. La doctora Rebecca Johnson del Centro de Interacción Humano-Animal de la Universidad de Missouri midió los niveles de cortisol en saliva de cincuenta personas antes y después de interactuar con gatos durante quince minutos. Los niveles bajaron un promedio del veintitrés por ciento.", "visual": "person gently stroking cat calm hands", "duration": 25},
-    {"voice": "Pero no solo baja el cortisol. También suben las hormonas del bienestar. El mismo estudio de Missouri encontró aumentos significativos de oxitocina, la hormona del vínculo afectivo, serotonina, relacionada con la felicidad, y dopamina, asociada con la motivación. Quince minutos con un gato producen un cóctel hormonal comparable al que genera el ejercicio moderado.", "visual": "happy person cuddling cat smiling", "duration": 25},
-    {"voice": "El ronroneo tiene propiedades terapéuticas medidas. Un estudio del Instituto de Investigación en Biomédica de Fauna documentó que las frecuencias del ronroneo, entre 25 y 150 hercios, corresponden exactamente a las frecuencias utilizadas en fisioterapia para reducir inflamación, aliviar dolor y estimular la regeneración ósea. Tu gato es una máquina de vibraciones curativas.", "visual": "cat purring on person lap close up", "duration": 25},
-    {"voice": "La terapia asistida con animales usando gatos está ganando terreno. Un programa piloto en el Hospital Monte Sinaí de Nueva York introdujo gatos terapéuticos en la unidad de psiquiatría en 2016. Los pacientes que interactuaron con gatos mostraron una reducción del treinta y siete por ciento en comportamientos agitados y un veintiocho por ciento menos de solicitudes de medicación ansiolítica.", "visual": "therapy cat visiting hospital patient", "duration": 25},
-    {"voice": "Los gatos son especialmente efectivos para personas con trastornos de ansiedad. Un metaanálisis publicado en BMC Psychiatry en 2019 que revisó diecisiete estudios concluyó que la tenencia de gatos se asocia con una reducción significativa de síntomas de ansiedad generalizada. Los investigadores sugieren que la rutina del cuidado del gato proporciona estructura y propósito.", "visual": "anxious person calming down with cat", "duration": 25},
-    {"voice": "Para personas con depresión, los resultados son igualmente prometedores. Un estudio de la Universidad de Melbourne publicado en Anthrozoös encontró que el ochenta y siete por ciento de dueños de gatos reportaron que su mascota tenía un impacto positivo en su bienestar emocional, y el setenta y seis por ciento dijo que su gato les ayudaba a sobrellevar la vida cotidiana.", "visual": "person sitting with cat looking hopeful", "duration": 25},
-    {"voice": "Los gatos también benefician a personas con trastorno del espectro autista. Un estudio de la Universidad de Missouri publicado en el Journal of Pediatric Nursing encontró que los niños autistas que convivían con gatos mostraban mayor empatía y menos ansiedad que los que no tenían mascotas. Los gatos, con su naturaleza calmada y predecible, son compañeros ideales para personas en el espectro.", "visual": "child gently petting calm cat", "duration": 25},
-    {"voice": "En residencias de mayores, los programas con gatos muestran resultados impactantes. Un estudio de la Universidad de Kansas publicado en Western Journal of Nursing Research documentó que los residentes que participaron en terapia con gatos tuvieron una reducción del cincuenta por ciento en sentimientos de soledad y un aumento del cuarenta y tres por ciento en interacciones sociales con otros residentes.", "visual": "elderly person holding cat nursing home", "duration": 25},
-    {"voice": "El efecto sobre la presión arterial es notable. La doctora Karen Allen de la Universidad del Estado de Nueva York en Buffalo demostró en un estudio controlado que la presencia de un gato reduce la presión arterial sistólica en una media de diez milímetros de mercurio durante situaciones de estrés. Este efecto es comparable al de algunos medicamentos antihipertensivos.", "visual": "blood pressure monitor health check", "duration": 25},
-    {"voice": "Los gatos también mejoran la calidad del sueño. Un estudio de la Clínica Mayo de 2015 encuestó a ciento cincuenta pacientes de su clínica del sueño. El cuarenta y uno por ciento de los que dormían con mascotas, principalmente gatos, reportaban dormir mejor. Solo el veinte por ciento reportaba interrupciones. La presencia del gato proporciona sensación de seguridad y compañía.", "visual": "cat sleeping next to person in bed", "duration": 25},
-    {"voice": "Los veteranos de guerra con trastorno de estrés postraumático se benefician especialmente. Un programa piloto del Departamento de Veteranos de Estados Unidos en 2018 emparejó a treinta veteranos con gatos rescatados. Los resultados, publicados en Military Medicine, mostraron reducciones significativas en pesadillas, hipervigilancia y aislamiento social después de solo ocho semanas.", "visual": "veteran sitting peacefully with cat", "duration": 25},
-    {"voice": "El simple acto de ver videos de gatos tiene efectos medibles. Un estudio de la Universidad de Indiana por Jessica Gall Myrick encuestó a casi siete mil personas y encontró que ver videos de gatos en internet aumenta la energía positiva, disminuye las emociones negativas y reduce sentimientos de ansiedad, tristeza e irritabilidad. No es pérdida de tiempo, es automedicación emocional.", "visual": "person watching cat videos smiling screen", "duration": 25},
-    {"voice": "Los gatos como compañeros en el trabajo remoto ganaron protagonismo desde 2020. Una encuesta de la Universidad de Lincoln durante la pandemia encontró que el noventa y tres por ciento de los trabajadores remotos con gatos reportaron que su mascota les ayudó a sobrellevar el aislamiento. El gato se convirtió en el compañero de oficina más valorado del confinamiento.", "visual": "cat sitting next to laptop home office", "duration": 25},
-    {"voice": "La ciencia de los beneficios no se limita a lo emocional. Un estudio longitudinal sueco publicado en Scientific Reports en 2020 que siguió a más de tres millones de personas encontró que los dueños de gatos y perros tenían menor riesgo de mortalidad por todas las causas. Los investigadores controlaron factores socioeconómicos y la asociación persistió.", "visual": "healthy active person with cat outdoors", "duration": 25},
-    {"voice": "Los gatos también ayudan con el duelo. Un estudio de la Universidad de Nuevo México publicado en Omega Journal of Death and Dying encontró que las personas que tenían gatos durante un proceso de duelo mostraban una recuperación emocional más rápida y menos síntomas de duelo complicado. El gato proporciona una razón para levantarse, una rutina y afecto incondicional.", "visual": "person holding cat seeking comfort", "duration": 25},
-    {"voice": "En hospitales psiquiátricos, los gatos residentes están ganando aceptación. El Hospital Sant Joan de Déu en Barcelona incorporó un programa de terapia asistida con gatos en 2019. Los datos preliminares muestran mejoras en adherencia al tratamiento, reducción de autolesiones y aumento de participación en actividades grupales entre pacientes con trastornos del estado de ánimo.", "visual": "calm therapy cat in clinical setting", "duration": 25},
-    {"voice": "Los mecanismos biológicos están cada vez más claros. Un estudio de la Universidad de Tokio publicado en PLOS ONE en 2019 usó resonancia magnética funcional para demostrar que interactuar con gatos activa el sistema de recompensa cerebral, las mismas áreas que se activan con el chocolate, la música placentera o el enamoramiento. Los gatos son literalmente adictivos para el cerebro.", "visual": "brain scan highlighting pleasure centers", "duration": 25},
-    {"voice": "Para personas que viven solas, los beneficios se amplifican. Datos del Estudio Longitudinal Inglés de Envejecimiento mostraron que los adultos mayores que viven solos con gatos tienen un treinta y seis por ciento menos de riesgo de sentir soledad extrema. El gato proporciona contacto físico diario, rutina y la sensación de ser necesitado, tres factores protectores contra la soledad.", "visual": "elderly person living alone with cat", "duration": 25},
-    {"voice": "El contacto físico con un gato es particularmente poderoso. Un estudio de la Universidad de Viena demostró que los gatos inician el contacto físico con sus dueños más frecuentemente de lo que se creía. Las caricias mutuas activan las fibras C-táctiles, nervios especializados en transmitir sensaciones placenteras que solo responden al tacto lento y suave.", "visual": "cat rubbing against person hand petting", "duration": 25},
-    {"voice": "La responsabilidad de cuidar un gato también tiene efectos terapéuticos. Un estudio de la Universidad de Liverpool publicado en BMC Public Health encontró que el cuidado de mascotas proporciona un sentido de propósito, estructura temporal y responsabilidad que funciona como factor protector contra crisis de salud mental, especialmente en personas que viven solas.", "visual": "person preparing cat food care routine", "duration": 25},
-    {"voice": "Recapitulemos: la ciencia confirma que los gatos reducen el cortisol, aumentan la oxitocina y serotonina, bajan la presión arterial, mejoran el sueño, reducen la ansiedad y la depresión, ayudan en el duelo, combaten la soledad y disminuyen el riesgo cardiovascular. Todo esto documentado en revistas científicas revisadas por pares. Tu gato es medicina viva.", "visual": "happy person and cat together sunlight", "duration": 25},
-    {"voice": "Si este documental te tocó el corazón, suscríbete a CatBrothers ahora mismo y dale a la campana. El próximo episodio va a revelarte cómo ven el mundo los gatos realmente, incluida su capacidad de ver luz ultravioleta. La visión felina es alucinante. Comparte este video con alguien que necesite escuchar que los gatos curan.", "visual": "happy cat waving paw at camera", "duration": 20}
+  "title": "Therapeutic Cats 🐱 How They Improve Your Mental Health",
+  "description": "Science confirms that cats reduce stress, anxiety, and depression. Studies from universities like Mayo Clinic, Minnesota, and Missouri show that owning a cat lowers the risk of heart attack by up to 40%. Discover cat-assisted therapy and how your feline improves your mental health every day.",
+  "tags": [
+    "cats",
+    "therapy cats",
+    "cats and mental health",
+    "cat therapy",
+    "benefits of owning a cat",
+    "cats reduce stress",
+    "therapeutic purring",
+    "anxiety and cats",
+    "cat documentaries",
+    "feline science"
   ],
-  "thumbnail_text": "GATOS CURAN"
+  "segments": [
+    {
+      "voice": "A ten-year study with over four thousand participants found that cat owners have a forty percent lower risk of dying from a heart attack. It's not magic. It's science published in the Journal of Vascular and Interventional Neurology. Your cat might be saving your life without you even knowing it.",
+      "visual": "person relaxing with cat peaceful home",
+      "duration": 25
+    },
+    {
+      "voice": "Welcome to CatBrothers. Today, we’ll explore something millions of cat owners intuitively know but that science took decades to confirm: cats are therapeutic. And we’re not talking about subjective feelings. We’re talking about cortisol, serotonin, blood pressure, and brain MRI scans. Let’s look at the data.",
+      "visual": "cat sleeping on person chest calm",
+      "duration": 25
+    },
+    {
+      "voice": "Let’s start with the most impactful study. Researchers from the University of Minnesota analyzed data from the Second National Health and Nutrition Examination Study between 1976 and 2006. Out of four thousand four hundred thirty-five participants, cat owners had a thirty percent lower risk of death from cardiovascular disease than non-owners, even after controlling for factors like age, weight, and smoking.",
+      "visual": "heart health medical stethoscope",
+      "duration": 25
+    },
+    {
+      "voice": "The stress hormone cortisol drops significantly in the presence of cats. Dr. Rebecca Johnson from the University of Missouri’s Research Center for Human-Animal Interaction measured cortisol levels in the saliva of fifty people before and after interacting with cats for fifteen minutes. Levels dropped by an average of twenty-three percent.",
+      "visual": "person gently stroking cat calm hands",
+      "duration": 25
+    },
+    {
+      "voice": "But it’s not just cortisol that decreases. The hormones of well-being also rise. The same Missouri study found significant increases in oxytocin, the bonding hormone; serotonin, linked to happiness; and dopamine, associated with motivation. Fifteen minutes with a cat produces a hormonal cocktail comparable to moderate exercise.",
+      "visual": "happy person cuddling cat smiling",
+      "duration": 25
+    },
+    {
+      "voice": "Purring has measurable therapeutic properties. A study by the Fauna Biomedical Research Institute documented that purring frequencies, between 25 and 150 hertz, match exactly the frequencies used in physical therapy to reduce inflammation, relieve pain, and stimulate bone regeneration. Your cat is a healing vibration machine.",
+      "visual": "cat purring on person lap close up",
+      "duration": 25
+    },
+    {
+      "voice": "Animal-assisted therapy using cats is gaining ground. A pilot program at Mount Sinai Hospital in New York introduced therapy cats to the psychiatry unit in 2016. Patients who interacted with cats showed a thirty-seven percent reduction in agitated behaviors and twenty-eight percent fewer requests for anti-anxiety medication.",
+      "visual": "therapy cat visiting hospital patient",
+      "duration": 25
+    },
+    {
+      "voice": "Cats are especially effective for people with anxiety disorders. A 2019 meta-analysis published in BMC Psychiatry, which reviewed seventeen studies, concluded that cat ownership is associated with a significant reduction in generalized anxiety symptoms. Researchers suggest that the routine of caring for a cat provides structure and purpose.",
+      "visual": "anxious person calming down with cat",
+      "duration": 25
+    },
+    {
+      "voice": "For people with depression, the results are equally promising. A University of Melbourne study published in Anthrozoös found that eighty-seven percent of cat owners reported their pet had a positive impact on their emotional well-being, and seventy-six percent said their cat helped them cope with daily life.",
+      "visual": "person sitting with cat looking hopeful",
+      "duration": 25
+    },
+    {
+      "voice": "Cats also benefit people on the autism spectrum. A University of Missouri study published in the Journal of Pediatric Nursing found that autistic children living with cats showed greater empathy and less anxiety than those without pets. Cats, with their calm and predictable nature, are ideal companions for people on the spectrum.",
+      "visual": "child gently petting calm cat",
+      "duration": 25
+    },
+    {
+      "voice": "In senior living facilities, cat therapy programs show striking results. A University of Kansas study published in the Western Journal of Nursing Research documented that residents who participated in cat sessions had a fifty percent reduction in feelings of loneliness and a forty-three percent increase in social interactions with other residents.",
+      "visual": "elderly person holding cat nursing home",
+      "duration": 25
+    },
+    {
+      "voice": "The effect on blood pressure is remarkable. Dr. Karen Allen from the State University of New York at Buffalo demonstrated in a controlled study that the presence of a cat reduces systolic blood pressure by an average of ten millimeters of mercury during stressful situations. This effect is comparable to some antihypertensive medications.",
+      "visual": "blood pressure monitor health check",
+      "duration": 25
+    },
+    {
+      "voice": "Cats also improve sleep quality. A 2015 Mayo Clinic study surveyed one hundred fifty patients from their sleep clinic. Forty-one percent of those who slept with pets, primarily cats, reported better sleep. Only twenty percent reported disruptions. The cat’s presence provides a sense of security and companionship.",
+      "visual": "cat sleeping next to person in bed",
+      "duration": 25
+    },
+    {
+      "voice": "War veterans with PTSD benefit especially. A 2018 pilot program by the U.S. Department of Veterans Affairs paired thirty veterans with rescued cats. The results, published in Military Medicine, showed significant reductions in nightmares, hypervigilance, and social isolation after just eight weeks.",
+      "visual": "veteran sitting peacefully with cat",
+      "duration": 25
+    },
+    {
+      "voice": "Even watching cat videos has measurable effects. A University of Indiana study by Jessica Gall Myrick surveyed nearly seven thousand people and found that watching cat videos online increases positive energy, decreases negative emotions, and reduces feelings of anxiety, sadness, and irritability. It’s not time-wasting—it’s emotional self-medication.",
+      "visual": "person watching cat videos smiling screen",
+      "duration": 25
+    },
+    {
+      "voice": "Cats as remote work companions gained prominence since 2020. A University of Lincoln survey during the pandemic found that ninety-three percent of remote workers with cats reported their pet helped them cope with isolation. The cat became the most valued office companion during lockdown.",
+      "visual": "cat sitting next to laptop home office",
+      "duration": 25
+    },
+    {
+      "voice": "The science of benefits isn’t limited to emotions. A 2020 Swedish longitudinal study published in Scientific Reports, which followed over three million people, found that cat and dog owners had a lower risk of all-cause mortality. Researchers controlled for socioeconomic factors, and the association persisted.",
+      "visual": "healthy active person with cat outdoors",
+      "duration": 25
+    },
+    {
+      "voice": "Cats also help with grief. A University of New Mexico study published in Omega Journal of Death and Dying found that people who had cats during bereavement showed faster emotional recovery and fewer symptoms of complicated grief. The cat provides a reason to get up, a routine, and unconditional affection.",
+      "visual": "person holding cat seeking comfort",
+      "duration": 25
+    },
+    {
+      "voice": "In psychiatric hospitals, resident cats are gaining acceptance. Sant Joan de Déu Hospital in Barcelona introduced a cat-assisted therapy program in 2019. Preliminary data show improvements in treatment adherence, reduced self-harm, and increased participation in group activities among patients with mood disorders.",
+      "visual": "calm therapy cat in clinical setting",
+      "duration": 25
+    },
+    {
+      "voice": "The biological mechanisms are becoming clearer. A 2019 University of Tokyo study published in PLOS ONE used functional MRI to show that interacting with cats activates the brain’s reward system—the same areas triggered by chocolate, pleasant music, or falling in love. Cats are literally addictive to the brain.",
+      "visual": "brain scan highlighting pleasure centers",
+      "duration": 25
+    },
+    {
+      "voice": "For people living alone, the benefits amplify. Data from the English Longitudinal Study of Ageing showed that older adults living alone with cats had a thirty-six percent lower risk of extreme loneliness. The cat provides daily physical contact, routine, and the feeling of being needed—three protective factors against loneliness.",
+      "visual": "elderly person living alone with cat",
+      "duration": 25
+    },
+    {
+      "voice": "Physical contact with a cat is particularly powerful. A University of Vienna study showed that cats initiate physical contact with their owners more frequently than believed. Mutual petting activates C-tactile fibers, specialized nerves that transmit pleasurable sensations and only respond to slow, gentle touch.",
+      "visual": "cat rubbing against person hand petting",
+      "duration": 25
+    },
+    {
+      "voice": "The responsibility of caring for a cat also has therapeutic effects. A University of Liverpool study published in BMC Public Health found that pet care provides a sense of purpose, time structure, and responsibility that acts as a protective factor against mental health crises, especially for people living alone.",
+      "visual": "person preparing cat food care routine",
+      "duration": 25
+    },
+    {
+      "voice": "To recap: science confirms that cats reduce cortisol, increase oxytocin and serotonin, lower blood pressure, improve sleep, reduce anxiety and depression, aid in grief, combat loneliness, and decrease cardiovascular risk. All documented in peer-reviewed scientific journals. Your cat is living medicine.",
+      "visual": "happy person and cat together sunlight",
+      "duration": 25
+    },
+    {
+      "voice": "If this documentary touched your heart, subscribe to CatBrothers now and hit the bell. The next episode will reveal how cats truly see the world, including their ability to see ultraviolet light. Feline vision is mind-blowing. Share this video with someone who needs to hear that cats heal.",
+      "visual": "happy cat waving paw at camera",
+      "duration": 20
+    }
+  ],
+  "thumbnail_text": "CATS HEAL"
 }

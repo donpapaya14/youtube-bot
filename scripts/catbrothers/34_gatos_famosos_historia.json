@@ -1,98 +1,111 @@
 {
-  "title": "Gatos Famosos de la Historia: Newton, Churchill, Hemingway y Más",
-  "description": "Descubre los gatos más influyentes de la historia. Isaac Newton y su gato invisible. Winston Churchill y sus gatos nombrados por sus enemigos. ¿Cómo los gatos influyeron en grandes mentes?",
-  "tags": ["historia", "gatos famosos", "personalidades", "Newton", "Churchill", "Hemingway", "literatura", "ciencia", "cultura", "anécdotas", "influencia", "personajes históricos"],
+  "title": "Famous Cats in History: Newton, Churchill, Hemingway, and More 🐱",
+  "description": "Discover the most influential cats in history. Isaac Newton and his invisible cat. Winston Churchill and his cats named after his enemies. How did cats influence great minds?",
+  "tags": [
+    "history",
+    "famous cats",
+    "personalities",
+    "Newton",
+    "Churchill",
+    "Hemingway",
+    "literature",
+    "science",
+    "culture",
+    "anecdotes",
+    "influence",
+    "historical figures"
+  ],
   "segments": [
     {
-      "voice": "A través de la historia, los gatos han sido compañeros de algunas de las mentes más brillantes de la humanidad. Desde científicos hasta políticos, los gatos han dejado su marca en la historia mundial.",
+      "voice": "Throughout history, cats have been companions to some of the brightest minds in humanity. From scientists to politicians, cats have left their mark on world history.",
       "visual": "history books famous figures",
       "duration": 22
     },
     {
-      "voice": "Isaac Newton, uno de los científicos más grandes de todos los tiempos, tenía un gato favorito. Newton era tan cercano a su gato que frecuentemente experimentaba con él.",
+      "voice": "Isaac Newton, one of the greatest scientists of all time, had a favorite cat. Newton was so close to his cat that he frequently experimented with it.",
       "visual": "Isaac Newton scientist portrait",
       "duration": 22
     },
     {
-      "voice": "Newton supuestamente cortó un agujero en la puerta de su casa para que su gato pudiera entrar y salir libremente. Un estudiante luego cortó un agujero más grande para el gatito del gato, no entendiendo que no era necesario.",
+      "voice": "Newton supposedly cut a hole in the door of his house so his cat could enter and exit freely. A student then cut a larger hole for the cat's kitten, not understanding it wasn't necessary.",
       "visual": "door cat flap innovation",
       "duration": 23
     },
     {
-      "voice": "Aunque la historia del agujero de la puerta es probablemente apócrifa, es revelador cómo los contemporáneos de Newton asociaban su nombre con la innovación de gatos. Su apego a su gato era notorio.",
+      "voice": "Although the story of the hole in the door is probably apocryphal, it's revealing how Newton's contemporaries associated his name with cat innovation. His attachment to his cat was notorious.",
       "visual": "scientific innovation invention",
       "duration": 23
     },
     {
-      "voice": "Winston Churchill, primer ministro de Gran Bretaña durante la Segunda Guerra Mundial, fue un amante confeso de gatos. Tenía varios gatos que vivían en el 10 de Downing Street.",
+      "voice": "Winston Churchill, Prime Minister of Britain during World War II, was a confessed cat lover. He had several cats living in 10 Downing Street.",
       "visual": "Winston Churchill portrait",
       "duration": 22
     },
     {
-      "voice": "Churchill tenía un gato naranja llamado Marmalade. Se conoce una anécdota donde Churchill estaba en una reunión de guerra importante y vio que su gato estaba hambriento. Churchill pausó la reunión para alimentar al gato.",
+      "voice": "Churchill had an orange cat named Marmalade. There's an anecdote where Churchill was in an important war meeting and saw his cat was hungry. Churchill paused the meeting to feed the cat.",
       "visual": "orange cat feeding care",
       "duration": 24
     },
     {
-      "voice": "Churchill nombró a algunos de sus gatos con nombres de sus enemigos políticos. Tenía gatos llamados Hitler, Mussolini, y otros dictadores, como una forma sarcástica de demostrar su desdén.",
+      "voice": "Churchill named some of his cats after his political enemies. He had cats named Hitler, Mussolini, and other dictators, as a sarcastic way to show his disdain.",
       "visual": "political enemies names",
       "duration": 23
     },
     {
-      "voice": "Ernest Hemingway, el famoso escritor, tenía una obsesión extrema con los gatos. Como ya mencionamos, tenía alrededor de 54 gatos en su casa de Key West, muchos de ellos polidáctilos.",
+      "voice": "Ernest Hemingway, the famous writer, had an extreme obsession with cats. As we mentioned, he had around 54 cats in his Key West house, many of them polydactyl.",
       "visual": "Ernest Hemingway writer",
       "duration": 22
     },
     {
-      "voice": "Hemingway escribía frecuentemente sobre sus gatos. Algunos de sus amigos reportaban que pasaba tanto tiempo con sus gatos que escribía menos. El gato y la escritura fueron siempre competidores por su atención.",
+      "voice": "Hemingway frequently wrote about his cats. Some of his friends reported that he spent so much time with his cats that he wrote less. The cat and writing were always competing for his attention.",
       "visual": "typewriter writing desk",
       "duration": 23
     },
     {
-      "voice": "El gato de Hemingway más famoso fue Fuzzy, quien supuestamente se sentaba en su escritorio mientras él escribía. Algunos especulan que Fuzzy inspiró personajes en sus historias.",
+      "voice": "Hemingway's most famous cat was Fuzzy, who supposedly sat on his desk while he wrote. Some speculate that Fuzzy inspired characters in his stories.",
       "visual": "cat literary inspiration",
       "duration": 22
     },
     {
-      "voice": "T.S. Eliot, el poeta modernista famoso, fue un apasionado amante de gatos. Su colección de poemas 'Old Possum's Book of Practical Cats' fue directamente inspirada por sus propios gatos felinos.",
+      "voice": "T.S. Eliot, the famous modernist poet, was a passionate cat lover. His collection of poems 'Old Possum's Book of Practical Cats' was directly inspired by his own feline cats.",
       "visual": "T.S. Eliot poet literary",
       "duration": 22
     },
     {
-      "voice": "Eliot escribió que los gatos eran sus mejores críticos literarios. Decía que si un gato no prestaba atención a algo que escribía, probablemente no valía la pena escribirlo.",
+      "voice": "Eliot wrote that cats were his best literary critics. He said that if a cat didn't pay attention to something he wrote, it probably wasn't worth writing.",
       "visual": "cat critic reading review",
       "duration": 22
     },
     {
-      "voice": "Frida Kahlo, la artista mexicana, tenía numerosos gatos en su casa de México. Sus gatos aparecen en varios de sus autorretratos, integrados como símbolos de su identidad artística.",
+      "voice": "Frida Kahlo, the Mexican artist, had numerous cats in her Mexico house. Her cats appear in several of her self-portraits, integrated as symbols of her artistic identity.",
       "visual": "Frida Kahlo self portrait",
       "duration": 22
     },
     {
-      "voice": "La Casa Azul de Frida en Coyoacán era un santuario para animales, incluyendo gatos. Se estimaba que tenía hasta 50 gatos viviendo allí en varios momentos.",
+      "voice": "Frida's Blue House in Coyoacán was a sanctuary for animals, including cats. It's estimated that she had up to 50 cats living there at various times.",
       "visual": "blue house Mexico City",
       "duration": 22
     },
     {
-      "voice": "Florence Nightingale, la famosa enfermera, tenía un gato favoritísimo llamado Bismarck. Lo llevaba con ella a sus campañas de enfermería, y se rumoreaba que Bismarck tenía un acceso especial al corazón de Nightingale.",
+      "voice": "Florence Nightingale, the famous nurse, had a favorite cat named Bismarck. She took him with her on her nursing campaigns, and it's rumored that Bismarck had special access to Nightingale's heart.",
       "visual": "Florence Nightingale nurse",
       "duration": 23
     },
     {
-      "voice": "Cardinal Richelieu, el poderoso ministro francés del siglo XVII, tenía más de 14 gatos. Se sabe que frecuentemente tenía gatos sentados con él durante reuniones políticas importantes.",
+      "voice": "Cardinal Richelieu, the powerful 17th-century French minister, had over 14 cats. It's known that he frequently had cats sitting with him during important political meetings.",
       "visual": "French cardinal historical",
       "duration": 22
     },
     {
-      "voice": "Se reporta que Richelieu incluso tenía un guardaespaldas especial para sus gatos. Los gatos eran tan valiosos para él que recibían protección dedicada.",
+      "voice": "It's reported that Richelieu even had a special bodyguard for his cats. The cats were so valuable to him that they received dedicated protection.",
       "visual": "precious cat protection",
       "duration": 21
     },
     {
-      "voice": "En conclusión, los gatos han sido compañeros de algunos de los individuos más influyentes de la historia. Esto sugiere que tal vez hay algo especial sobre los gatos que atrae a mentes creativas y poderosas.",
+      "voice": "In conclusion, cats have been companions to some of the most influential individuals in history. This suggests that perhaps there's something special about cats that attracts creative and powerful minds.",
       "visual": "cat influence creativity",
       "duration": 22
     }
   ],
-  "thumbnail_text": "GATOS HISTÓRICOS"
+  "thumbnail_text": "HISTORIC CATS"
 }

@@ -1,33 +1,144 @@
 {
-  "title": "Maullidos 🐱 El Lenguaje que los Gatos Inventaron Para Ti",
-  "description": "Los gatos adultos casi nunca maúllan entre ellos. Los maullidos son un lenguaje desarrollado exclusivamente para comunicarse con humanos. La ciencia ha identificado más de 20 tipos diferentes de maullidos con significados distintos. Descubre cómo tu gato te habla y qué intenta decirte según estudios reales.",
-  "tags": ["gatos", "maullidos de gato", "por qué maúllan los gatos", "lenguaje de gatos", "comunicación felina", "sonidos de gatos", "vocalización gatos", "entender a tu gato", "documentales de gatos", "comportamiento felino"],
-  "segments": [
-    {"voice": "Los gatos adultos casi nunca maúllan entre ellos. Usan lenguaje corporal, olores y gruñidos. El maullido es un lenguaje que los gatos desarrollaron exclusivamente para comunicarse con humanos. Investigadores de la Universidad de Lund en Suecia identificaron más de veintiún tipos diferentes de maullidos, cada uno con un significado distinto. Tu gato literalmente aprendió a hablarte.", "visual": "cat meowing at owner looking up", "duration": 25},
-    {"voice": "Bienvenidos a CatBrothers. Hoy vamos a descifrar el lenguaje más sofisticado que un animal ha desarrollado para comunicarse con otra especie. Los maullidos felinos no son ruido aleatorio. Son un sistema de comunicación que evolucionó durante diez mil años de convivencia con humanos. La ciencia está empezando a decodificarlo y los resultados son extraordinarios.", "visual": "cat opening mouth meowing close up", "duration": 25},
-    {"voice": "Empecemos con el dato fundamental. Los gatitos maúllan a su madre para pedir atención, comida o ayuda. A medida que crecen, dejan de hacerlo. Los gatos adultos ferales prácticamente no maúllan. Pero los gatos domésticos mantienen y refinan el maullido durante toda su vida. La doctora Sharon Crowell-Davis de la Universidad de Georgia llama a esto neotenia vocal: retener un comportamiento infantil en la edad adulta.", "visual": "kitten meowing at mother cat", "duration": 25},
-    {"voice": "La investigadora Susanne Schötz de la Universidad de Lund lideró el proyecto Melody entre 2016 y 2021, el estudio más completo sobre vocalización felina. Grabó y analizó acústicamente miles de maullidos de setenta gatos. Descubrió que los gatos tienen un repertorio de al menos veintiún patrones vocales distintos, cada uno con características acústicas medibles y reproducibles.", "visual": "sound wave audio recording equipment", "duration": 25},
-    {"voice": "Los maullidos se dividen en tres categorías principales según Schötz. Primero, los sonidos de boca cerrada: ronroneo y trino. Segundo, los sonidos de boca abierta y cerrándose: el maullido clásico. Tercero, los sonidos de boca abierta tensa: siseo, aullido y gruñido. Cada categoría transmite un rango emocional diferente, desde afecto hasta agresión.", "visual": "cat making different vocal expressions", "duration": 25},
-    {"voice": "El trino o chirrido es quizás la vocalización más positiva. Es un sonido ascendente que el gato emite con la boca cerrada. Schötz documentó que los gatos usan el trino como saludo, para expresar alegría al ver a su dueño y como invitación a seguirlos. Las madres trinan a sus gatitos para llamarlos. Es el equivalente felino de un hola cariñoso.", "visual": "cat chirping trilling greeting owner door", "duration": 25},
-    {"voice": "El maullido de solicitud de comida es acústicamente diferente al maullido de solicitud de atención. Un estudio de Karen McComb de la Universidad de Sussex publicado en Current Biology en 2009 demostró que el maullido de comida contiene una frecuencia aguda embebida, entre trescientos y seiscientos hercios, que activa las mismas áreas cerebrales que el llanto de un bebé humano.", "visual": "cat meowing near food bowl kitchen", "duration": 25},
-    {"voice": "McComb lo llamó el ronroneo de solicitud. Es manipulación acústica pura. Los gatos aprendieron que incluir esa frecuencia urgente hace que los humanos respondan más rápido. Cuando se eliminó digitalmente esa frecuencia del audio, los humanos percibieron el maullido como menos urgente. Los gatos han hackeado nuestro instinto parental.", "visual": "person rushing to feed meowing cat", "duration": 25},
-    {"voice": "Los gatos desarrollan dialectos individuales con sus dueños. Un estudio de la Universidad de Cornell por el doctor Nicholas Nicastro analizó cien maullidos de doce gatos y encontró que los dueños podían identificar correctamente el contexto del maullido de su propio gato el setenta y tres por ciento de las veces. Pero con maullidos de gatos desconocidos, la tasa bajaba al cuarenta por ciento.", "visual": "owner and cat communicating understanding", "duration": 25},
-    {"voice": "Esto significa que cada gato desarrolla un vocabulario personalizado con su humano. Tu gato tiene un maullido específico para ti que no usa con otras personas. La doctora Sharon Crowell-Davis explica que los gatos ajustan la frecuencia, duración e intensidad de sus maullidos basándose en qué vocalizaciones obtienen la mejor respuesta de su dueño particular.", "visual": "cat looking at specific person meowing", "duration": 25},
-    {"voice": "Los gatos siameses y orientales son notoriamente más vocales. Un estudio comparativo de la Universidad de Helsinki analizó más de cuatro mil cuatrocientos gatos de veintiséis razas y confirmó que los siameses vocalizan tres veces más frecuentemente que los persas o los British Shorthair. La genética influye significativamente en la tendencia a maullar.", "visual": "siamese cat meowing loudly vocal", "duration": 25},
-    {"voice": "El aullido nocturno en gatos mayores puede indicar disfunción cognitiva felina, el equivalente al Alzheimer humano. Un estudio de la Universidad de Edimburgo publicado en el Journal of Feline Medicine and Surgery encontró que el treinta y seis por ciento de los gatos mayores de once años muestran signos de deterioro cognitivo, y la vocalización nocturna excesiva es uno de los primeros síntomas.", "visual": "senior cat meowing at night confused", "duration": 25},
-    {"voice": "El castañeteo o cháchara que hacen los gatos cuando ven un pájaro por la ventana es una vocalización única. Los dientes castañetean rápidamente mientras emiten un sonido entrecortado. Un estudio de la Universidad Federal de Juiz de Fora en Brasil propuso en 2010 que podría ser un ejemplo de mimetismo acústico: los gatos imitan los sonidos de sus presas para atraerlas.", "visual": "cat chattering at bird through window", "duration": 25},
-    {"voice": "Esta hipótesis del mimetismo surgió cuando investigadores observaron un margay salvaje en la Amazonia imitando los sonidos de un mono tití para atraerlo. Si los felinos salvajes mimetizan presas, los gatos domésticos podrían conservar este instinto cuando castañetean ante los pájaros. La investigación está en fase inicial pero la evidencia es intrigante.", "visual": "wild cat hunting in jungle mimicry", "duration": 25},
-    {"voice": "El siseo es una vocalización defensiva que imita a una serpiente. El gato abre la boca, aplana las orejas y expulsa aire bruscamente. La doctora John Bradshaw de la Universidad de Bristol sugiere que el siseo evolucionó como una forma de mimetismo batesiano: hacerse pasar por un animal peligroso para evitar confrontaciones. Los depredadores que temen serpientes retrocederían ante un siseo felino.", "visual": "cat hissing showing teeth defensive", "duration": 25},
-    {"voice": "La frecuencia del maullido varía enormemente. Un estudio de la Universidad de Viena midió maullidos entre trescientos y seiscientos hercios en situaciones normales, pero hasta mil hercios en situaciones de estrés extremo. Los maullidos más agudos indican mayor urgencia. Los gatos instintivamente saben que los sonidos agudos captan más atención humana.", "visual": "stressed cat meowing loudly high pitch", "duration": 25},
-    {"voice": "Los gatos sordos también maúllan, pero de forma diferente. Un estudio de la Universidad de Carolina del Norte encontró que los gatos sordos congénitos producen maullidos con frecuencias y patrones irregulares porque no pueden escucharse a sí mismos para ajustar su voz. Esto confirma que los gatos oyentes modulan activamente sus vocalizaciones basándose en retroalimentación auditiva.", "visual": "white deaf cat meowing silently", "duration": 25},
-    {"voice": "La inteligencia artificial está descifrando los maullidos. El proyecto MeowTalk, desarrollado por un exempleado de Amazon Alexa, usa aprendizaje automático para clasificar maullidos en categorías como hambre, juego, estrés y saludo. Aunque la precisión reportada es limitada, investigadores de la Universidad de Milán están entrenando modelos más sofisticados con bases de datos de miles de vocalizaciones etiquetadas.", "visual": "smartphone app translating cat meow", "duration": 25},
-    {"voice": "Los gatos también se comunican con ultrasonidos. Un estudio de la Universidad de Berna detectó componentes ultrasónicos en los maullidos de gatitos que están fuera del rango auditivo humano. Estos componentes podrían servir para comunicación madre-cría sin alertar a depredadores. Los gatitos podrían estar diciendo cosas que jamás podremos escuchar.", "visual": "mother cat listening to kittens closely", "duration": 25},
-    {"voice": "La respuesta humana a los maullidos ha sido estudiada por la neurolingüística. Un estudio de la Universidad de Sussex usando resonancia magnética funcional demostró que los maullidos activan las áreas cerebrales de procesamiento del lenguaje en los dueños experimentados. Literalmente, nuestro cerebro procesa los maullidos del gato como si fueran una forma de lenguaje.", "visual": "person listening to cat meow attentively", "duration": 25},
-    {"voice": "Los gatos no maúllan en el vacío. Un estudio de la Universidad de Portsmouth encontró que los gatos maúllan significativamente más cuando detectan que el humano está mirándolos. Si el humano está de espaldas o ausente, la frecuencia de maullidos se reduce drásticamente. Los gatos calibran su comunicación vocal a la atención percibida de su audiencia.", "visual": "cat making eye contact then meowing", "duration": 25},
-    {"voice": "El ronroneo con maullido incorporado es una combinación particularmente efectiva. La doctora McComb documentó que los gatos combinan ambas vocalizaciones para crear un sonido irresistible: relajante por el ronroneo pero urgente por la frecuencia aguda del maullido. Es la herramienta de manipulación acústica más sofisticada del repertorio felino.", "visual": "cat purring and meowing mixed sounds", "duration": 25},
-    {"voice": "Los gatos también vocalizan durante el juego. Sonidos cortos y agudos durante la persecución, trinos durante la captura y maullidos suaves durante la pausa. Un estudio etológico de la Universidad de Zúrich clasificó seis tipos de vocalizaciones de juego distintas, cada una asociada a una fase diferente de la secuencia de caza simulada.", "visual": "cat playing vocalizing chasing toy", "duration": 25},
-    {"voice": "Después de diez mil años de convivencia, los gatos han creado un lenguaje exclusivo para nosotros. No lo usan entre ellos. Cada gato desarrolla un vocabulario personalizado con su dueño. Y la ciencia está demostrando que nuestro cerebro lo procesa como un idioma real. No estás loco cuando dices que entiendes a tu gato. La ciencia te da la razón.", "visual": "cat and owner face to face bonding", "duration": 25},
-    {"voice": "Este ha sido el último episodio de la temporada y ha sido un honor compartir ciencia felina contigo. Si quieres que sigamos contando historias increíbles sobre gatos, suscríbete a CatBrothers ahora mismo y activa la campana. Dale a compartir para que más gente descubra lo increíbles que son los gatos. Nos vemos en la próxima temporada.", "visual": "happy cat waving paw at camera", "duration": 20}
+  "title": "Meows 🐱 The Language Cats Invented For You",
+  "description": "Adult cats almost never meow at each other. Meows are a language developed exclusively to communicate with humans. Science has identified over 20 different types of meows with distinct meanings. Discover how your cat talks to you and what they're trying to say based on real studies.",
+  "tags": [
+    "cats",
+    "cat meows",
+    "why cats meow",
+    "cat language",
+    "feline communication",
+    "cat sounds",
+    "cat vocalization",
+    "understanding your cat",
+    "cat documentaries",
+    "feline behavior"
   ],
-  "thumbnail_text": "HABLAN GATOS"
+  "segments": [
+    {
+      "voice": "Adult cats almost never meow at each other. They use body language, scents, and growls. The meow is a language cats developed exclusively to communicate with humans. Researchers at Lund University in Sweden identified over twenty-one distinct types of meows, each with a different meaning. Your cat literally learned to talk to you.",
+      "visual": "cat meowing at owner looking up",
+      "duration": 25
+    },
+    {
+      "voice": "Welcome to CatBrothers. Today we'll decode the most sophisticated language an animal has developed to communicate with another species. Cat meows aren't random noise. They're a communication system that evolved over ten thousand years of coexistence with humans. Science is beginning to decode it, and the results are extraordinary.",
+      "visual": "cat opening mouth meowing close up",
+      "duration": 25
+    },
+    {
+      "voice": "Let's start with the fundamental fact. Kittens meow at their mother to ask for attention, food, or help. As they grow, they stop doing this. Feral adult cats practically never meow. But domestic cats maintain and refine their meows throughout their lives. Dr. Sharon Crowell-Davis from the University of Georgia calls this vocal neoteny: retaining an infantile behavior into adulthood.",
+      "visual": "kitten meowing at mother cat",
+      "duration": 25
+    },
+    {
+      "voice": "Researcher Susanne Schötz from Lund University led the Melody project between 2016 and 2021, the most comprehensive study on feline vocalization. She recorded and acoustically analyzed thousands of meows from seventy cats. She discovered that cats have a repertoire of at least twenty-one distinct vocal patterns, each with measurable and reproducible acoustic characteristics.",
+      "visual": "sound wave audio recording equipment",
+      "duration": 25
+    },
+    {
+      "voice": "Meows are divided into three main categories according to Schötz. First, closed-mouth sounds: purring and trilling. Second, open-mouth sounds that close: the classic meow. Third, tense open-mouth sounds: hissing, yowling, and growling. Each category conveys a different emotional range, from affection to aggression.",
+      "visual": "cat making different vocal expressions",
+      "duration": 25
+    },
+    {
+      "voice": "The trill or chirp is perhaps the most positive vocalization. It's an ascending sound the cat makes with its mouth closed. Schötz documented that cats use trills as greetings, to express joy when seeing their owner, and as invitations to follow them. Mothers trill to call their kittens. It's the feline equivalent of a loving hello.",
+      "visual": "cat chirping trilling greeting owner door",
+      "duration": 25
+    },
+    {
+      "voice": "The food-request meow is acoustically different from the attention-request meow. A 2009 study by Karen McComb from the University of Sussex, published in Current Biology, showed that the food meow contains an embedded high-pitched frequency between 300 and 600 Hz, which activates the same brain areas as a human baby's cry.",
+      "visual": "cat meowing near food bowl kitchen",
+      "duration": 25
+    },
+    {
+      "voice": "McComb called this the solicitation purr. It's pure acoustic manipulation. Cats learned that including this urgent frequency makes humans respond faster. When this frequency was digitally removed from the audio, humans perceived the meow as less urgent. Cats have hacked our parental instincts.",
+      "visual": "person rushing to feed meowing cat",
+      "duration": 25
+    },
+    {
+      "voice": "Cats develop individual dialects with their owners. A Cornell University study by Dr. Nicholas Nicastro analyzed one hundred meows from twelve cats and found that owners could correctly identify the context of their own cat's meow 73% of the time. But with unfamiliar cats' meows, the accuracy dropped to 40%.",
+      "visual": "owner and cat communicating understanding",
+      "duration": 25
+    },
+    {
+      "voice": "This means each cat develops a customized vocabulary with their human. Your cat has a specific meow for you that they don't use with others. Dr. Sharon Crowell-Davis explains that cats adjust the frequency, duration, and intensity of their meows based on which vocalizations get the best response from their particular owner.",
+      "visual": "cat looking at specific person meowing",
+      "duration": 25
+    },
+    {
+      "voice": "Siamese and Oriental cats are notoriously more vocal. A comparative study from the University of Helsinki analyzed over 4,400 cats from 26 breeds and confirmed that Siamese cats vocalize three times more frequently than Persians or British Shorthairs. Genetics significantly influence meowing tendencies.",
+      "visual": "siamese cat meowing loudly vocal",
+      "duration": 25
+    },
+    {
+      "voice": "Nighttime yowling in older cats may indicate feline cognitive dysfunction, the equivalent of human Alzheimer's. A University of Edinburgh study published in the Journal of Feline Medicine and Surgery found that 36% of cats over eleven show signs of cognitive decline, and excessive nighttime vocalization is one of the first symptoms.",
+      "visual": "senior cat meowing at night confused",
+      "duration": 25
+    },
+    {
+      "voice": "The chattering or chirping cats make when they see a bird through the window is a unique vocalization. Their teeth chatter rapidly while making a staccato sound. A 2010 study by the Federal University of Juiz de Fora in Brazil proposed this might be an example of acoustic mimicry: cats imitating their prey's sounds to lure them.",
+      "visual": "cat chattering at bird through window",
+      "duration": 25
+    },
+    {
+      "voice": "This mimicry hypothesis emerged when researchers observed a wild margay in the Amazon mimicking the sounds of a tamarin monkey to lure it. If wild felines mimic prey, domestic cats might retain this instinct when chattering at birds. The research is in early stages, but the evidence is curious.",
+      "visual": "wild cat hunting in jungle mimicry",
+      "duration": 25
+    },
+    {
+      "voice": "Hissing is a defensive vocalization that mimics a snake. The cat opens its mouth, flattens its ears, and expels air sharply. Dr. John Bradshaw from the University of Bristol suggests hissing evolved as a form of Batesian mimicry: pretending to be a dangerous animal to avoid confrontation. Predators that fear snakes would retreat from a feline hiss.",
+      "visual": "cat hissing showing teeth defensive",
+      "duration": 25
+    },
+    {
+      "voice": "Meow frequency varies dramatically. A University of Vienna study measured meows between 300-600 Hz in normal situations, but up to 1,000 Hz in extreme stress. Higher-pitched meows indicate greater urgency. Cats instinctively know high-pitched sounds grab more human attention.",
+      "visual": "stressed cat meowing loudly high pitch",
+      "duration": 25
+    },
+    {
+      "voice": "Deaf cats also meow, but differently. A University of North Carolina study found that congenitally deaf cats produce meows with irregular frequencies and patterns because they can't hear themselves to adjust their voice. This confirms that hearing cats actively modulate their vocalizations based on auditory feedback.",
+      "visual": "white deaf cat meowing silently",
+      "duration": 25
+    },
+    {
+      "voice": "Artificial intelligence is decoding meows. The MeowTalk project, developed by a former Amazon Alexa employee, uses machine learning to classify meows into categories like hunger, play, stress, and greeting. Though reported accuracy is limited, University of Milan researchers are training more sophisticated models with databases of thousands of labeled vocalizations.",
+      "visual": "smartphone app translating cat meow",
+      "duration": 25
+    },
+    {
+      "voice": "Cats also communicate with ultrasounds. A University of Bern study detected ultrasonic components in kitten meows that are beyond human hearing range. These components might serve for mother-offspring communication without alerting predators. Kittens might be saying things we'll never hear.",
+      "visual": "mother cat listening to kittens closely",
+      "duration": 25
+    },
+    {
+      "voice": "Human response to meows has been studied by neurolinguistics. A University of Sussex study using functional MRI showed that meows activate language-processing brain areas in experienced owners. Literally, our brains process cat meows as if they were a form of language.",
+      "visual": "person listening to cat meow attentively",
+      "duration": 25
+    },
+    {
+      "voice": "Cats don't meow into a void. A University of Portsmouth study found cats meow significantly more when they detect humans are looking at them. If the human is turned away or absent, meowing frequency drops drastically. Cats calibrate their vocal communication to their audience's perceived attention.",
+      "visual": "cat making eye contact then meowing",
+      "duration": 25
+    },
+    {
+      "voice": "Purring with an embedded meow is a particularly effective combination. Dr. McComb documented that cats combine both vocalizations to create an irresistible sound: soothing from the purr but urgent from the meow's high-pitched frequency. It's the most sophisticated acoustic manipulation tool in the feline repertoire.",
+      "visual": "cat purring and meowing mixed sounds",
+      "duration": 25
+    },
+    {
+      "voice": "Cats also vocalize during play. Short, high-pitched sounds during chasing, trills during capture, and soft meows during pauses. An ethological study from the University of Zurich classified six distinct play vocalizations, each associated with a different phase of the simulated hunting sequence.",
+      "visual": "cat playing vocalizing chasing toy",
+      "duration": 25
+    },
+    {
+      "voice": "After ten thousand years of coexistence, cats have created a language exclusively for us. They don't use it with each other. Each cat develops a customized vocabulary with their owner. And science is proving our brains process it as a real language. You're not crazy when you say you understand your cat. Science backs you up.",
+      "visual": "cat and owner face to face bonding",
+      "duration": 25
+    },
+    {
+      "voice": "This was the last episode of the season, and it's been an honor sharing feline science with you. If you want us to keep telling striking cat stories, subscribe to CatBrothers now and hit the bell. Share this so more people discover how striking cats are. See you next season.",
+      "visual": "happy cat waving paw at camera",
+      "duration": 20
+    }
+  ],
+  "thumbnail_text": "CATS TALK"
 }

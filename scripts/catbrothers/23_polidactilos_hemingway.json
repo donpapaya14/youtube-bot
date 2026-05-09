@@ -1,98 +1,111 @@
 {
-  "title": "Gatos Polidáctilos: Hemingway y los Gatos con 6 Dedos",
-  "description": "Descubre la genética detrás de los gatos con dedos extra. Ernest Hemingway tenía 54 gatos polidáctilos. ¿Cuál es el gen dominante que causa esta mutación? Datos sobre la Casa de Hemingway y sus legendarios gatos con dedos múltiples.",
-  "tags": ["gatos polidáctilos", "Hemingway", "genética gatos", "mutación", "dedos extra", "felinos", "historia literaria", "Miami", "curiosidades gatos", "biología", "razas raras", "ciencia gatos"],
+  "title": "Polydactyl Cats: Hemingway and the Six-Toed Felines 🐱",
+  "description": "Discover the genetics behind cats with extra toes. Ernest Hemingway had 54 polydactyl cats. What is the dominant gene causing this mutation? Facts about the Hemingway House and its legendary multi-toed cats.",
+  "tags": [
+    "polydactyl cats",
+    "Hemingway",
+    "cat genetics",
+    "mutation",
+    "extra toes",
+    "felines",
+    "literary history",
+    "Miami",
+    "cat curiosities",
+    "biology",
+    "rare breeds",
+    "cat science"
+  ],
   "segments": [
     {
-      "voice": "Los gatos polidáctilos son aquellos que nacen con más dedos de lo normal. La palabra polidáctilo viene del griego 'poly' (muchos) y 'daktylos' (dedos). Mientras que los gatos normales tienen 18 dedos, los polidáctilos pueden tener hasta 28.",
+      "voice": "Polydactyl cats are those born with more toes than usual. The word 'polydactyl' comes from the Greek 'poly' (many) and 'daktylos' (toes). While normal cats have 18 toes, polydactyl cats can have up to 28.",
       "visual": "cat paws six toes polydactyl",
       "duration": 23
     },
     {
-      "voice": "Ernest Hemingway, el famoso escritor estadounidense, fue un apasionado amante de los gatos polidáctilos. Comenzó con un gato regalo de un capitán de barco en los años 1930, y su colección creció hasta 54 gatos en su casa de Key West, Florida.",
+      "voice": "Ernest Hemingway, the famous American writer, was a passionate lover of polydactyl cats. It started with a cat gifted by a ship captain in the 1930s, and his collection grew to 54 cats at his home in Key West, Florida.",
       "visual": "Ernest Hemingway portrait writer",
       "duration": 24
     },
     {
-      "voice": "Hemingway llamaba a sus gatos polidáctilos sus 'gatos de la suerte' o 'gatos de la casa'. Algunos de sus descendientes todavía viven en la Casa Museo de Hemingway en Key West, que ahora es un destino turístico popular.",
+      "voice": "Hemingway called his polydactyl cats his 'lucky cats' or 'house cats.' Some of their descendants still live at the Hemingway House Museum in Key West, which is now a popular tourist destination.",
       "visual": "Hemingway house Key West exterior",
       "duration": 23
     },
     {
-      "voice": "La polidactilia en gatos es causada por un gen dominante. Esto significa que solo necesita heredar el gen de uno de los padres para expresar el rasgo. Si un gato polidáctilo se reproduce, hay un 50% de probabilidad de que sus descendientes también sean polidáctilos.",
+      "voice": "Polydactyly in cats is caused by a dominant gene. This means they only need to inherit the gene from one parent to express the trait. If a polydactyl cat reproduces, there's a 50% chance its offspring will also be polydactyl.",
       "visual": "cat genetics inheritance diagram",
       "duration": 24
     },
     {
-      "voice": "Los gatos polidáctilos son más comunes en ciertas regiones. En Nueva Inglaterra y Canadá, aproximadamente el 10-20% de la población de gatos locales tienen este rasgo. En otras partes del mundo, es mucho menos común.",
+      "voice": "Polydactyl cats are more common in certain regions. In New England and Canada, about 10-20% of the local cat population has this trait. In other parts of the world, it's much rarer.",
       "visual": "map Canada New England regions",
       "duration": 23
     },
     {
-      "voice": "Un estudio realizado por la Universidad de Cornell analizó los registros genéticos de 1,200 gatos polidáctilos. Encontraron que el rasgo no causaba problemas de salud significativos en la mayoría de los casos.",
+      "voice": "A study by Cornell University analyzed genetic records of 1,200 polydactyl cats. They found the trait didn't cause significant health issues in most cases.",
       "visual": "veterinary research study cats",
       "duration": 22
     },
     {
-      "voice": "Sin embargo, los gatos polidáctilos pueden tener problemas si los dedos extra no están bien desarrollados. En algunos casos, pueden existir dedos rudimentarios que causan molestia o infección.",
+      "voice": "However, polydactyl cats can have problems if the extra toes aren't well-developed. In some cases, rudimentary toes may cause discomfort or infection.",
       "visual": "cat paw care veterinary exam",
       "duration": 23
     },
     {
-      "voice": "La configuración de los dedos varía mucho. Algunos gatos tienen dedos adicionales que se proyectan hacia los lados, otros tienen dedos que crecen hacia arriba como si tuvieran manoplas enormes.",
+      "voice": "The toe configurations vary widely. Some cats have extra toes that stick out sideways, while others have toes that point upward like giant mittens.",
       "visual": "cat paw six toes close up",
       "duration": 22
     },
     {
-      "voice": "Los gatos polidáctilos a menudo tienen más estabilidad y capacidad de agarre. Algunos creen que esto les da una ventaja evolutiva para trepar y cazar. Aunque esto nunca ha sido científicamente comprobado.",
+      "voice": "Polydactyl cats often have better stability and gripping ability. Some believe this gives them an evolutionary advantage for climbing and hunting—though this has never been scientifically proven.",
       "visual": "cat climbing tree claws grip",
       "duration": 23
     },
     {
-      "voice": "Hemingway decía que sus gatos polidáctilos le traían buena suerte con su escritura. Durante su tiempo en Key West, escribió algunas de sus obras más famosas, incluyendo 'Por quién doblan las campanas'.",
+      "voice": "Hemingway claimed his polydactyl cats brought him good luck with his writing. During his time in Key West, he wrote some of his most famous works, including 'For Whom the Bell Tolls.'",
       "visual": "typewriter writing literary work",
       "duration": 22
     },
     {
-      "voice": "La Casa Museo de Hemingway alberga aproximadamente 60 gatos hoy en día, muchos de ellos descendientes directos de los gatos originales de Hemingway. La mayoría siguen siendo polidáctilos.",
+      "voice": "The Hemingway House Museum is home to about 60 cats today, many of them direct descendants of Hemingway's original cats. Most remain polydactyl.",
       "visual": "house museum Hemingway garden",
       "duration": 22
     },
     {
-      "voice": "En los gatos domésticos modernos, se estima que aproximadamente el 1-5% de la población es polidáctilo. Es más común en gatos de raza mixta que en gatos de raza pura.",
+      "voice": "In modern domestic cats, an estimated 1-5% of the population is polydactyl. It's more common in mixed-breed cats than purebred ones.",
       "visual": "various cats tabby mixed breed",
       "duration": 23
     },
     {
-      "voice": "El gen polidáctilo ha sido mapeado en el cromosoma felino número 19. Los investigadores de la Universidad de Uppsala en Suecia identificaron el gen específico responsable en 2007.",
+      "voice": "The polydactyl gene has been mapped to feline chromosome 19. Researchers at Uppsala University in Sweden identified the specific responsible gene in 2007.",
       "visual": "chromosome genetic mapping science",
       "duration": 23
     },
     {
-      "voice": "Algunos gatos polidáctilos son tan famosos que se han convertido en atracciones turísticas. La Isla de los Gatos Polidáctilos en Nueva York es un refugio donde viven 60 gatos con esta características genética.",
+      "voice": "Some polydactyl cats are so famous they've become tourist attractions. Polydactyl Cat Island in New York is a sanctuary home to 60 cats with this genetic trait.",
       "visual": "island refuge sanctuary cats",
       "duration": 23
     },
     {
-      "voice": "Los gatos polidáctilos pueden tener dedos adicionales en las patas delanteras o traseras, o en ambas. La configuración más común es tener uno o dos dedos extra en las patas delanteras.",
+      "voice": "Polydactyl cats can have extra toes on their front paws, hind paws, or both. The most common configuration is one or two extra toes on the front paws.",
       "visual": "cat paws comparison six toes",
       "duration": 22
     },
     {
-      "voice": "Un gato polidáctilo famoso en los años 1900 era Clarence, un gato de barco que vivía en el puerto de Nueva York. Supuestamente, los marineros consideraban que traía buena suerte.",
+      "voice": "A famous polydactyl cat in the 1900s was Clarence, a ship's cat who lived in New York Harbor. Sailors supposedly believed he brought good luck.",
       "visual": "vintage ship port maritime",
       "duration": 22
     },
     {
-      "voice": "Si tienes un gato polidáctilo, es importante cuidar adecuadamente de esos dedos extra. Deben cortarse las uñas con cuidado para evitar infecciones o irritaciones.",
+      "voice": "If you have a polydactyl cat, it's important to properly care for those extra toes. Their nails should be trimmed carefully to avoid infections or irritation.",
       "visual": "cat nail care grooming scissors",
       "duration": 22
     },
     {
-      "voice": "En conclusión, los gatos polidáctilos son una maravilla genética fascinante. Gracias a Hemingway y su legado, estos gatos únicos siguen siendo apreciados y protegidos en todo el mundo.",
+      "voice": "In conclusion, polydactyl cats are a remarkable genetic marvel. Thanks to Hemingway and his legacy, these unique cats continue to be cherished and protected worldwide.",
       "visual": "happy cat playful cute adorable",
       "duration": 21
     }
   ],
-  "thumbnail_text": "DEDOS EXTRA"
+  "thumbnail_text": "EXTRA TOES"
 }
