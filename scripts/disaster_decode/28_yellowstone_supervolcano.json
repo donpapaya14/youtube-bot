@@ -1,0 +1,105 @@
+{
+  "id": 28,
+  "title": "🌋 Yellowstone: What 50 Years of Monitoring Actually Tells Us",
+  "description": "Yellowstone has erupted three times in the past 2.1 million years, with each eruption ejecting more than 1,000 cubic kilometers of material. The USGS Yellowstone Volcano Observatory tracks ground deformation, gas emissions, and seismic activity around the clock. The data tell a more complicated story than the documentaries suggest. #Yellowstone #Supervolcano #USGS #VolcanoMonitoring #DisasterDecode",
+  "tags": ["Yellowstone", "supervolcano", "USGS", "volcano observatory", "magma chamber", "ground deformation", "caldera", "Lava Creek", "Huckleberry Ridge", "monitoring", "geology", "disaster decode"],
+  "thumbnail_text": "WHAT 50 YEARS REVEAL",
+  "segments": [
+    {
+      "voice": "Yellowstone is the most studied volcano on Earth. It is also the most misunderstood. Documentaries describe it as overdue. Online videos predict an imminent global catastrophe. The actual data, collected continuously since the 1970s by the United States Geological Survey, tell a different story. The caldera breathes. It rises and falls. It produces earthquakes. It vents gas. None of these signals, in fifty years of monitoring, has approached the threshold geologists associate with a major eruption.",
+      "visual": "Yellowstone caldera USGS monitoring 1970s data scientific instruments aerial view"
+    },
+    {
+      "voice": "The Yellowstone hotspot has produced three caldera-forming eruptions in the past 2.1 million years. The Huckleberry Ridge Tuff erupted around 2.1 million years ago and ejected approximately 2,500 cubic kilometers of magma. The Mesa Falls Tuff, 1.3 million years ago, ejected about 280 cubic kilometers. The Lava Creek Tuff, 631,000 years ago, ejected roughly 1,000 cubic kilometers and formed the caldera that defines today's Yellowstone National Park.",
+      "visual": "Huckleberry Ridge Mesa Falls Lava Creek Tuff eruption sizes 2500 cubic kilometers timeline"
+    },
+    {
+      "voice": "The interval between these eruptions does not point to a clock. The gaps were 800,000 years and then 660,000 years. Geologists do not consider 631,000 years \"overdue.\" The hotspot has erupted, in non-caldera form, more recently — at Pitchstone Plateau roughly 70,000 years ago. Several rhyolite lava flows fill parts of the caldera. The system is active. The system is not on a schedule.",
+      "visual": "interval 800000 660000 years Pitchstone Plateau rhyolite flows caldera filling"
+    },
+    {
+      "voice": "Underneath the park, two distinct magma reservoirs have been imaged. The shallow rhyolitic chamber sits between 5 and 16 kilometers below the surface. It contains roughly 10,000 cubic kilometers of partially molten rock — but the melt fraction is only about 5 to 15 percent. The deeper basaltic chamber sits between 20 and 50 kilometers down and is much larger but even less molten. Most of both chambers is solid or near-solid rock with melt distributed in pockets.",
+      "visual": "magma chamber depths 5 to 16 kilometers rhyolitic basaltic melt fraction structure"
+    },
+    {
+      "voice": "Here's what nobody saw coming until the 1990s: the caldera floor is moving. GPS stations across the park record vertical motion of the ground. Between 2004 and 2010, parts of the caldera rose by about 25 centimeters. After 2010, the same area began to subside. The Norris Geyser Basin has its own pattern, sometimes rising while the caldera center subsides, sometimes the reverse. This breathing motion happens at all calderas with active hydrothermal systems.",
+      "visual": "GPS stations vertical motion 25 centimeters Norris Geyser Basin caldera breathing"
+    },
+    {
+      "voice": "The cause is not bulk magma intrusion in most cases. It is hydrothermal pressure. Water heated by the magma forms supercritical fluid that pushes against the rock above. As the fluid migrates and pressure changes, the surface bulges or sags. The pattern of motion looks dramatic but does not mean the magma chamber itself is filling. The USGS Yellowstone Volcano Observatory carefully separates these signals every quarter in published reports.",
+      "visual": "hydrothermal supercritical fluid pressure bulge sag USGS quarterly reports"
+    },
+    {
+      "voice": "Earthquakes are the most common Yellowstone signal. The park experiences 1,500 to 2,500 quakes per year. Most are below magnitude 3. They come in swarms — clusters of small quakes in short time periods. The largest quake in the modern record was the 1959 Hebgen Lake earthquake at magnitude 7.3, which killed 28 people in a landslide. That quake was tectonic, not volcanic. The fault systems around the caldera are independently active.",
+      "visual": "earthquake swarms 2500 per year Hebgen Lake 1959 magnitude 7.3 landslide"
+    },
+    {
+      "voice": "Bob Christiansen, the USGS geologist who mapped much of Yellowstone in the 1960s and 1970s, was the first to fully characterize the caldera. Before his work, the scale of past eruptions was underestimated. His mapping of ash deposits across half the continent established that the Lava Creek Tuff was a continental-scale event. His successor, Jake Lowenstern, served as the observatory's scientist-in-charge for over a decade and became the public voice for separating documentary hype from data.",
+      "visual": "Bob Christiansen 1960s mapping Jake Lowenstern observatory scientist USGS history"
+    },
+    {
+      "voice": "The Yellowstone Volcano Observatory was established formally in 2001. It is a partnership between the USGS, the University of Utah, and several other institutions. Its monitoring includes a permanent seismic network with about 30 stations, GPS receivers at over 20 sites, satellite radar interferometry providing surface deformation maps, gas measurement campaigns, stream temperature and chemistry sampling, and visual checks of geothermal features.",
+      "visual": "YVO monitoring 30 seismic stations 20 GPS satellite radar gas measurements"
+    },
+    {
+      "voice": "What would actual eruption precursors look like? Geologists who study other large calderas — Long Valley in California, Campi Flegrei in Italy, Toba in Indonesia — have catalogued the sequence. Sustained ground uplift over years, accelerating into months. Earthquake swarms that migrate upward through the crust. Increased CO2 and SO2 emissions. Changes in geyser behavior beyond normal variability. None of these patterns has been seen at Yellowstone in modern records.",
+      "visual": "eruption precursors uplift earthquake migration gas changes geyser behavior comparison"
+    },
+    {
+      "voice": "Long Valley caldera in California provides the closest analog. In the early 1980s, the caldera floor began rising. By 1983, more than 25 centimeters of uplift had occurred. Earthquake swarms accompanied the deformation. The USGS issued a hazard notice. The public reaction was hostile — local property values collapsed, tourism fell. No eruption occurred. The deformation slowed. The episode ended. It became a lesson in how communication of hazard can do real harm even when the science is correct.",
+      "visual": "Long Valley California 1983 uplift 25 centimeters property values hazard notice public reaction"
+    },
+    {
+      "voice": "Campi Flegrei west of Naples is currently in a similar phase. Ground at Pozzuoli has risen more than 4 meters since the 1950s. Earthquake activity has increased sharply since 2020. Italy's Istituto Nazionale di Geofisica e Vulcanologia maintains 24-hour observation. Campi Flegrei has erupted within recorded history — the Monte Nuovo eruption of 1538. Whether the current unrest will lead to another eruption or subside, as Long Valley did, is the live scientific question.",
+      "visual": "Campi Flegrei Pozzuoli 4 meters uplift Monte Nuovo 1538 INGV monitoring"
+    },
+    {
+      "voice": "Toba's most recent eruption 75,000 years ago is sometimes cited as a Yellowstone parallel. Toba ejected about 2,800 cubic kilometers of magma — comparable to Huckleberry Ridge. Ash from the eruption covered much of South Asia, with deposits 9 meters thick in places. Climate models suggest a global temperature drop of several degrees lasting years. Genetic studies once proposed the eruption caused a human population bottleneck. Newer archaeological work questions that conclusion.",
+      "visual": "Toba 75000 years ago 2800 cubic kilometers South Asia ash 9 meters climate impact"
+    },
+    {
+      "voice": "If Yellowstone produced another caldera-forming eruption, the immediate effects would be catastrophic for the region. Pyroclastic flows from a Lava Creek-scale eruption could reach about 100 kilometers from the source. Ash deposits of 10 centimeters or more could cover most of the Mountain West. North America's electrical grid, transportation, and agriculture would face crisis-level disruption. Global temperatures would drop temporarily. Crop yields would suffer for several years.",
+      "visual": "pyroclastic flow 100 kilometer reach ash 10 centimeters Mountain West infrastructure"
+    },
+    {
+      "voice": "But the most likely next eruption at Yellowstone is not caldera-forming. The system has produced more than 30 smaller eruptions since the last caldera event. Most of these were rhyolite lava flows that filled portions of the caldera. The Pitchstone Plateau flow covered about 70 square kilometers and was emplaced over months to years. A repeat of that style would be locally devastating but not continental.",
+      "visual": "smaller eruptions 30 events Pitchstone Plateau 70 square kilometers rhyolite flow"
+    },
+    {
+      "voice": "Hydrothermal explosions are a more common Yellowstone hazard. These occur when shallow groundwater flashes to steam under sudden pressure release. The 14,000-year-old Mary Bay event left a crater 2.5 kilometers across in what is now Yellowstone Lake. Smaller events occur every few years. In 2024, a hydrothermal explosion at Biscuit Basin damaged boardwalks and threw debris over a wide area. No volcanic eruption was involved.",
+      "visual": "hydrothermal explosion Mary Bay 2.5 kilometer crater Biscuit Basin 2024 damage"
+    },
+    {
+      "voice": "The geyser system itself is part of the monitoring network. Old Faithful's interval has stretched and shortened over decades. Steamboat Geyser, the world's tallest active geyser, was largely dormant from 1991 to 2018, then began erupting frequently — sometimes more than once a week. These changes reflect underlying hydrothermal plumbing shifts. They do not in themselves indicate an approaching eruption.",
+      "visual": "Old Faithful interval Steamboat Geyser dormant 1991 to 2018 frequent eruptions"
+    },
+    {
+      "voice": "Public risk perception of Yellowstone is largely driven by media. A 2018 study by the National Academies of Sciences, Engineering, and Medicine examined volcanic risk communication in the United States. Yellowstone topped the list of volcanoes the public worried about most. Mount Rainier and Mount St. Helens, with much higher near-term eruption probability and more people at risk, came lower in the list. The disconnect between actual and perceived risk is itself a hazard.",
+      "visual": "National Academies 2018 study public perception Mount Rainier St. Helens risk gap"
+    },
+    {
+      "voice": "Mount Rainier sits just 90 kilometers from Seattle and Tacoma. It is one of the most dangerous volcanoes in the lower 48 states. Its threat is not eruption-driven blast but lahars — fast-moving slurries of mud, ice, and rock that have inundated populated valleys multiple times in the past 10,000 years. The Osceola Mudflow about 5,600 years ago covered roughly 200 square kilometers, including land where Tacoma now stands. The probability of another lahar in the next century is estimated above 10 percent.",
+      "visual": "Mount Rainier lahar Osceola Mudflow 5600 years 200 square kilometers Tacoma threat"
+    },
+    {
+      "voice": "By comparison, the probability of any caldera-forming eruption at Yellowstone in the next century is below 1 in 700,000 per year, based on the geological record. The probability of any eruption at all — including small lava flows and hydrothermal events — is roughly 1 in 1,000 per year. The numbers come from USGS hazard assessments published in 2014 and updated periodically.",
+      "visual": "probability comparison Yellowstone 1 in 700000 caldera 1 in 1000 any eruption USGS"
+    },
+    {
+      "voice": "What changes if monitoring shows something unusual? The observatory uses a four-color alert system: green for background, yellow for elevated unrest, orange for heightened activity, red for eruption imminent or in progress. Yellowstone has been at green continuously since the alert system began. If the level were raised, formal notifications would go to FEMA, the National Park Service, state governors, and international aviation authorities. There is no scenario where an eruption would happen without warning.",
+      "visual": "four color alert system green yellow orange red FEMA aviation notifications"
+    },
+    {
+      "voice": "The aviation impact alone of a major eruption would be substantial. Ash at altitude can shut down jet engines — Mount St. Helens in 1980 caused billions in aviation losses. The Eyjafjallajökull eruption in Iceland in 2010 grounded most of European aviation for days, despite being a small event by global standards. A Yellowstone caldera eruption would shut North American aviation for months and disrupt global flight paths until the upper atmosphere cleared.",
+      "visual": "aviation Eyjafjallajökull 2010 grounded Europe Mount St. Helens jet engine ash"
+    },
+    {
+      "voice": "Long-term, Yellowstone's hotspot is moving. The North American plate slides southwest over a deep mantle plume at about 4 centimeters per year. The track of past eruptions runs from the Snake River Plain in Idaho into northwestern Wyoming. In tens of millions of years, the active center will be in Montana. The hotspot does not deactivate — it just leaves a chain of eroded calderas behind, like a finger pulled across drying paint.",
+      "visual": "hotspot track North American plate Snake River Plain Idaho Wyoming Montana future"
+    },
+    {
+      "voice": "Subscribe to DisasterDecode and hit the bell. Next week's disaster goes deeper into Tunguska — the 1908 explosion that flattened a Siberian forest the size of London and left no impact crater behind.",
+      "visual": "Tunguska 1908 Siberian forest London explosion mystery channel bell"
+    }
+  ]
+}
