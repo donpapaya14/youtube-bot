@@ -479,10 +479,11 @@ def _is_duplicate(new_title: str, existing_titles: list[str], threshold: float =
                     log.warning("DUP substring: '%s' ⊂ '%s'", chunk, existing[:50])
                     return True
 
-        # Capa 2: 2+ sustantivos significativos compartidos = duplicado
+        # Capa 2: 3+ sustantivos significativos compartidos = duplicado
+        # (era 2, demasiado estricto en canales mismo nicho)
         existing_sig = _significant_words(existing)
         shared_sig = new_sig & existing_sig
-        if len(shared_sig) >= 2:
+        if len(shared_sig) >= 3:
             log.warning("DUP sustantivos (%d compartidos: %s): '%s' ≈ '%s'",
                         len(shared_sig), shared_sig, new_title[:50], existing[:50])
             return True
@@ -639,7 +640,7 @@ def research_topic(channel: dict) -> dict:
             return prewritten
         log.warning("Tema pre-escrito duplicado, generando con AI")
 
-    # 2. Fallback: generar con AI + hard dedup (hasta 3 intentos)
+    # 2. Fallback: generar con AI + hard dedup (hasta 6 intentos)
     niche_key = NICHE_MAP.get(channel["name"], "salud_bienestar")
     formulas = CONTENT_FORMULAS.get(niche_key, CONTENT_FORMULAS["salud_bienestar"])
 
@@ -652,7 +653,7 @@ def research_topic(channel: dict) -> dict:
     shuffled = formulas[:]
     random.shuffle(shuffled)
 
-    for attempt in range(3):
+    for attempt in range(6):
         formula = shuffled[attempt % len(shuffled)]
 
         # Enriquecer con tendencias actuales
@@ -725,9 +726,9 @@ Responde JSON:
         log.warning("Intento %d: tema duplicado '%s', reintentando con otra fórmula", attempt + 1, data["topic"][:40])
         all_titles.append(data["topic"])  # Evitar regenerar el mismo
 
-    # Si 3 intentos fallan, ABORTAR — NO subir duplicado
-    log.error("DEDUP: 3 intentos fallaron. Último topic: %s. Abortando para no duplicar.", data["topic"][:50])
-    raise RuntimeError(f"DEDUP failed after 3 attempts. Last topic: {data['topic'][:80]}")
+    # Si 6 intentos fallan, ABORTAR — NO subir duplicado
+    log.error("DEDUP: 6 intentos fallaron. Último topic: %s. Abortando para no duplicar.", data["topic"][:50])
+    raise RuntimeError(f"DEDUP failed after 6 attempts. Last topic: {data['topic'][:80]}")
 
 
 # ── Estilos rotativos para evitar detección de patrón IA ──
