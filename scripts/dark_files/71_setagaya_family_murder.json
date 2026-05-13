@@ -1,30 +1,131 @@
 {
   "title": "Setagaya Family Murder: Japan's Coldest Case 🔍",
   "segments": [
-    "On December 30, 2000, the Miyazawa family went to bed inside their home in the Soshigaya district of Setagaya, Tokyo. Mikio, 44, his wife Yasuko, 41, daughter Niina, 8, and son Rei, 6. By the following morning, they were dead. The case has remained open for more than two decades, despite one of the largest investigations in modern Japanese history.",
-    "The killer entered through a second-floor bathroom window. He climbed a tree on the side of the home, slipped inside, and went straight for Rei first. The boy was strangled in his bed. Mikio came up the stairs and was attacked on the staircase. Yasuko and Niina were attacked next.",
-    "What investigators found inside the house puzzled them from the start. After the murders, the killer didn't leave. He stayed for hours.",
-    "He used the family computer. Logs showed someone accessed the household PC at 1:18 a.m. on December 31. The suspect browsed websites tied to a theater company that had been using the lot next door.",
-    "He ate ice cream from the freezer. Four containers were emptied. He drank from bottles in the fridge. Investigators recovered partial DNA from saliva left on the cans and from sweat soaked into clothing.",
-    "The killer used the bathroom and didn't flush. Forensic teams collected fecal matter, which gave investigators a clear genetic profile. They also found traces of sand on the floor.",
-    "That sand is one of the strangest pieces of evidence in the case. Lab analysis showed it contained minerals consistent with the Mediterranean coast, Nevada deserts, and parts of Edwards Air Force Base in California. It did not match any common Japanese soil sample.",
-    "Detectives suspected the killer either traveled internationally before the murder or had recently been at a US military facility. That theory has driven decades of follow-up work, with no resolution.",
-    "Footwear evidence was equally unusual. Bloody prints in the home matched Korean-made Slazenger sneakers in size 28 cm — large for a Japanese man. The shoes had only been distributed in limited numbers across South Korea.",
-    "The clothing the killer left behind was a logoed Uniqlo fleece, a hat, gloves, and a fanny pack. He apparently changed clothes inside the house. Investigators believe he was injured during the attack on Mikio, who fought back hard.",
-    "Blood from a different person was on the kitchen sink and on a towel. That blood produced the second key DNA profile in the case. It belongs to the killer himself.",
-    "The Tokyo Metropolitan Police have run the DNA against millions of samples. Genetic analysis suggests the suspect's paternal line traces to southern Europe or the Mediterranean, while the maternal line traces to East Asia.",
-    "Here's where the case gets stranger. The fanny pack contained sand that did not match the sand on the floor. It contained a black hair from someone unrelated to the family. And the tickets and items inside hinted at travel through multiple regions.",
-    "More than 280,000 investigators have worked the case across 24 years. The Tokyo police have collected over 12,000 pieces of physical evidence — the largest evidence file in Japanese cold case history.",
-    "There were no signs of forced robbery. Money was scattered around the home but most of it was untouched. The killer took roughly 150,000 yen and left tens of thousands more in plain sight.",
-    "Investigators believe the murders were not financially motivated. The savagery of the attack, the time spent in the home afterward, and the targeted nature of the violence point to something personal — but no link between the family and any suspect has surfaced.",
-    "A theater group had been performing on a vacant lot adjacent to the Miyazawa home. The lot was scheduled for demolition in early 2001. Some theorists believe the killer was tied to the dispute over that lot.",
-    "Mikio's brother also lived next door, in a building owned by their father. A few suspected the killer mistook the homes. That theory has been weighed and largely set aside.",
-    "The suspect made no effort to hide his identity. He left his clothes, his shoes, his blood, his DNA, his fingerprints, and even feces. Whoever he was, he wanted to disappear — and he did.",
-    "In 2017, Tokyo police released new sketches and renewed appeals worldwide, including in South Korea. They offered a reward of 20 million yen.",
-    "Genealogical DNA testing — the same approach used to identify the Golden State Killer — has been applied to the Setagaya samples. Japanese privacy law has limited certain follow-up steps, but international cooperation has expanded.",
-    "On the 24th anniversary of the case in December 2024, Tokyo Metropolitan Police chief Akihiro Onuma issued a public appeal for tips. The reward stands. The DNA profile still has no match.",
-    "A simple fact haunts every investigator who has touched the file. The killer ate ice cream while the family lay dead upstairs. He sat at a computer and surfed the web for hours. Then he walked away into the morning.",
-    "If you have any information about the Miyazawa family, the Tokyo Metropolitan Police continue to accept tips through their cold case division. Even a small detail can break this case.",
-    "Subscribe to DarkFiles and hit the bell. Next week's case goes deeper into a young woman who vanished from a Florida apartment complex with her car driven away by a stranger."
-  ]
+    {
+      "voice": "On December 30, 2000, the Miyazawa family went to bed inside their home in the Soshigaya district of Setagaya, Tokyo. Mikio Miyazawa, 44, his wife Yasuko, 41, daughter Niina, 8, and son Rei, 6. By the following morning, all four were dead. Their case has remained open for more than two decades, despite one of the largest investigations in modern Japanese history. The Tokyo Metropolitan Police consider it the most expensive single homicide investigation ever conducted in Japan.",
+      "visual": "crime scene investigation",
+      "duration": 31
+    },
+    {
+      "voice": "The killer entered through a second-floor bathroom window. He climbed a tree on the side of the home, slipped inside, and went straight for Rei first. The boy was strangled in his bed before he could wake up. Mikio came up the stairs after hearing something and was attacked on the staircase. Yasuko and Niina were attacked next. The level of violence escalated through each killing — investigators noted the pattern carefully when they reconstructed the scene.",
+      "visual": "detective board evidence",
+      "duration": 30
+    },
+    {
+      "voice": "What investigators found inside the house puzzled them from the start. After the murders, the killer didn't leave. He stayed for hours. Some estimates run as high as eight hours of post-killing presence in the home. The decision to remain at the scene of a multiple homicide is so unusual that it has shaped every theory developed since.",
+      "visual": "old newspaper article",
+      "duration": 23
+    },
+    {
+      "voice": "He used the family computer. Logs showed someone accessed the household PC at 1:18 a.m. on December 31, hours after the killings. The suspect browsed websites tied to a theater company that had been using the lot next door. He read the company's pages, looked at production schedules, and clicked through several internal links. The browsing pattern suggested he was searching for something specific rather than just passing time.",
+      "visual": "missing person flyer",
+      "duration": 27
+    },
+    {
+      "voice": "He ate ice cream from the freezer. Four containers were emptied and left on the counter. He drank from bottles in the fridge. Investigators recovered partial DNA from saliva left on the cans and from sweat soaked into the clothing he later abandoned. He used the family bathroom and didn't flush. Forensic teams collected the fecal matter, which gave them a clear genetic profile that has been preserved and re-analyzed multiple times.",
+      "visual": "police investigation files",
+      "duration": 28
+    },
+    {
+      "voice": "Investigators also found traces of sand on the floor near the bathroom and the bedroom. That sand is one of the strangest pieces of evidence in the case. Lab analysis at the National Research Institute of Police Science showed it contained minerals consistent with the Mediterranean coast, Nevada deserts, and parts of Edwards Air Force Base in California. It did not match any common Japanese soil sample. The geographic implications expanded the suspect pool dramatically.",
+      "visual": "forensic lab analysis",
+      "duration": 30
+    },
+    {
+      "voice": "Detectives suspected the killer either traveled internationally before the murder or had recently been at a US military facility. That theory has driven decades of follow-up work, with no resolution. Cooperation requests sent to the FBI, the United States Air Force investigative service, and Interpol have produced reviews but no specific suspect. The sand alone cannot identify a person.",
+      "visual": "abandoned building night",
+      "duration": 23
+    },
+    {
+      "voice": "Footwear evidence was equally unusual. Bloody prints in the home matched Korean-made Slazenger sneakers in size 28 cm — large for a typical Japanese male. The shoes had only been distributed in limited numbers across South Korea. Tokyo investigators traveled to Seoul to interview former store managers from the few outlets that carried the model. The work produced contacts but no decisive lead.",
+      "visual": "rural road night",
+      "duration": 25
+    },
+    {
+      "voice": "The clothing the killer left behind was a logoed Uniqlo fleece, a hat, gloves, and a fanny pack. He apparently changed clothes inside the house before leaving. Investigators believe he was injured during the attack on Mikio, who fought back hard. Bruising and defensive wounds on Mikio's hands and arms were extensive. He was the only adult in the family who had time to resist.",
+      "visual": "courthouse exterior",
+      "duration": 26
+    },
+    {
+      "voice": "Blood from a different person was on the kitchen sink and on a towel. That blood produced the second key DNA profile in the case — and it belongs to the killer himself. The Tokyo Metropolitan Police have run the DNA against millions of samples over the years. Genetic analysis suggests the suspect's paternal line traces to southern Europe or the Mediterranean, while the maternal line traces to East Asia. The mixed ancestry has shaped suspect search strategies.",
+      "visual": "vintage photograph",
+      "duration": 31
+    },
+    {
+      "voice": "Here's where the case gets stranger. The fanny pack contained sand that did not match the sand on the floor. It contained a black hair from someone unrelated to the family. And the items inside hinted at travel through multiple regions — small receipts, foreign coin fragments, and packaging from products distributed in different countries. The pack appeared to be the killer's actual carry kit rather than something staged.",
+      "visual": "fbi case files",
+      "duration": 27
+    },
+    {
+      "voice": "More than 280,000 investigators have worked the case across 24 years. The Tokyo police have collected over 12,000 pieces of physical evidence — the largest evidence file in Japanese cold case history. Annual reviews have refined the genetic profile, the suspect age estimate, and the geographic search regions. The work continues with each generation of detectives assigned to the unit.",
+      "visual": "evidence bag tape",
+      "duration": 24
+    },
+    {
+      "voice": "There were no signs of forced robbery. Money was scattered around the home but most of it was untouched. The killer took roughly 150,000 yen and left tens of thousands more in plain sight. The selectivity of what he took suggested either a specific motive or a deliberate effort to confuse investigators. Many cold case specialists lean toward the latter.",
+      "visual": "interrogation room",
+      "duration": 24
+    },
+    {
+      "voice": "Investigators believe the murders were not financially motivated. The savagery of the attack, the time spent in the home afterward, and the targeted nature of the violence point to something personal — but no link between the family and any suspect has surfaced. Mikio worked at a marketing firm. Yasuko was a piano teacher. Their professional lives were ordinary. Their financial circumstances were stable.",
+      "visual": "darkroom flashlight investigation",
+      "duration": 25
+    },
+    {
+      "voice": "A theater group had been performing on a vacant lot adjacent to the Miyazawa home. The lot was scheduled for demolition in early 2001. Some theorists believe the killer was tied to the dispute over that lot — possibly a person upset about the upcoming construction or about decisions made by the property owners. The dispute had drawn local attention but no documented threats.",
+      "visual": "vintage typewriter notes",
+      "duration": 25
+    },
+    {
+      "voice": "Mikio's brother also lived next door, in a building owned by their father. A few investigators initially suspected the killer mistook the homes — that the actual target was the brother. That theory has been weighed and largely set aside. The killer's movements inside the Miyazawa home were too deliberate, too unhurried, to suggest he had stumbled into the wrong house.",
+      "visual": "cold case archive",
+      "duration": 24
+    },
+    {
+      "voice": "The suspect made no effort to hide his identity. He left his clothes, his shoes, his blood, his DNA, his fingerprints, and even feces. Whoever he was, he wanted to disappear — and he did. Some investigators have argued he was psychologically dissociated from the consequences of his actions. Others have argued he simply did not believe Japan's investigative apparatus could find him.",
+      "visual": "missing person search",
+      "duration": 25
+    },
+    {
+      "voice": "In 2017, Tokyo police released new sketches and renewed appeals worldwide, including in South Korea. They offered a reward of 20 million yen for information leading to identification. The reward has been raised periodically. Tip lines remain active in multiple languages. The suspect's age in 2025 would be approximately 50 to 65 if he is still alive.",
+      "visual": "police badge close up",
+      "duration": 22
+    },
+    {
+      "voice": "Genealogical DNA testing — the same approach used to identify the Golden State Killer in California — has been applied to the Setagaya samples. Japanese privacy law has limited certain follow-up steps, but international cooperation has expanded. The Tokyo Metropolitan Police have shared genetic data with selected partner agencies in efforts to develop family trees outside Japan.",
+      "visual": "crime scene tape yellow",
+      "duration": 22
+    },
+    {
+      "voice": "On the 24th anniversary of the case in December 2024, Tokyo Metropolitan Police chief Akihiro Onuma issued a public appeal for tips. The reward stands. The DNA profile still has no match. The annual appeals have produced periodic spikes in tip volume but no decisive breakthrough. Investigators continue to log every contact, every theory, every possible suspect.",
+      "visual": "old phone receiver",
+      "duration": 22
+    },
+    {
+      "voice": "A simple fact haunts every investigator who has touched the file. The killer ate ice cream while the family lay dead upstairs. He sat at a computer and surfed the web for hours. Then he walked away into the morning. The deliberate calm of his post-killing behavior is unlike anything documented in modern Japanese homicide records. It is the detail most often cited by retired investigators who still talk about the case.",
+      "visual": "investigator notebook",
+      "duration": 28
+    },
+    {
+      "voice": "The Miyazawa home was preserved by the family for years after the killings. Yasuko's father refused to sell the property. He and other relatives maintained the building and visited regularly. The home was eventually demolished in 2018. The site is now a small memorial garden, marked by simple plantings and a stone the family placed in remembrance of the four victims.",
+      "visual": "evidence photograph wall",
+      "duration": 24
+    },
+    {
+      "voice": "Modern criminologists studying the case have produced multiple psychological profiles of the killer. The most widely-cited profile suggests a man between 25 and 35 at the time of the killings, with prior mental health issues, possible foreign travel experience, and a connection — direct or indirect — to the demolition dispute or to the broader Setagaya area. None of the profiles have produced a name.",
+      "visual": "darkened forest clue",
+      "duration": 26
+    },
+    {
+      "voice": "If you have any information about the Miyazawa family, the Tokyo Metropolitan Police continue to accept tips through their cold case division. Even a small detail can break this case. Contact information is available on the official Tokyo Metropolitan Police website in Japanese and English. International tipsters can also relay information through Interpol or through the FBI's Tokyo legal attaché office.",
+      "visual": "vintage clock tower",
+      "duration": 24
+    },
+    {
+      "voice": "Subscribe to DarkFiles and hit the bell. Next week's case goes deeper into a young woman who vanished from a Florida apartment complex with her car driven away by a stranger.",
+      "visual": "old map markings",
+      "duration": 20
+    }
+  ],
+  "thumbnail_text": "SETAGAYA FAMILY MURD"
 }

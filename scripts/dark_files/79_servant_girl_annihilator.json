@@ -1,30 +1,136 @@
 {
   "title": "The Servant Girl Annihilator: Austin 1885 📁",
   "segments": [
-    "Between December 1884 and December 1885, a series of brutal murders terrorized Austin, Texas. Eight people were killed — most of them young Black women working as domestic servants. The killer was never caught. He pre-dated Jack the Ripper by three years.",
-    "The first victim was Mollie Smith, a 25-year-old cook for the Hall family. On the night of December 30, 1884, she was attacked in her servants' quarters in the back yard of her employer's home. She had been struck with an axe.",
-    "Mollie's partner Walter Spencer survived the attack with serious injuries. He recovered and provided what details he could. He could not identify the assailant. Austin police initially treated the case as an isolated tragedy.",
-    "Through the spring and summer of 1885, more attacks followed. Eliza Shelley, a cook for Dr. L. B. Johnson, was killed on May 6, 1885 in her quarters behind the family home. She had been attacked with a similar weapon.",
-    "Two weeks later, Irene Cross, a servant in the home of Major Willis Robertson, was murdered in her room. The pattern began to clarify. Each victim was a young Black woman. Each was killed in the modest quarters that housed servants behind larger Austin homes.",
-    "Local newspapers, including the Austin Daily Statesman, began calling the killer the 'Servant Girl Annihilator' — a phrase used by the writer William Sydney Porter, who would later become famous as O. Henry. He was living in Austin during the killings.",
-    "Here's where the case grows more disturbing. The killer's signature included a specific element. Investigators found that several victims had been dragged from their beds, killed outdoors, and arranged in particular postures. The wounds suggested an axe or similar heavy implement.",
-    "On August 30, 1885, Rebecca Ramey was attacked, her young daughter Mary killed. The case shocked Austin. The Austin City Council voted emergency funds for police overtime, gas streetlamps, and additional patrols.",
-    "On Christmas Eve 1885, the killer struck twice in the same night. Susan Hancock was murdered in her bed in north Austin. Her husband had been sleeping in another room. He was investigated and ultimately cleared.",
-    "Hours later, on the same Christmas Eve, Eula Phillips was murdered in her home in central Austin. Eula was a young white woman of social standing. Her husband was charged but later acquitted.",
-    "The killing of two white women on a single night shifted public panic. The Austin Daily Statesman ran emergency editions. The mayor demanded action from chief of police Grooms Lee.",
-    "After Christmas Eve 1885, the killings stopped. There were no more attacks fitting the pattern. Police never made an arrest tied directly to the murders. The killer simply vanished.",
-    "Theories of the killer's identity have proliferated since. Some researchers point to a Cuban man named Maurice, who lived in Austin briefly during the killings, was arrested for unrelated crimes, and disappeared in 1886. Others argue for a railway worker who passed through.",
-    "In the 1930s, a researcher named John Lummis collected interviews from elderly Austin residents who remembered the killings. Several pointed to a man known locally as 'Nathan Elgin,' a teenager arrested in early 1886 for an unrelated assault. Elgin matched some of the killer's described characteristics — including a missing toe seen in footprint evidence at one scene.",
-    "Modern researcher Skip Hollandsworth's 2016 book on the case, 'The Midnight Assassin,' presents Elgin as the most likely suspect based on the surviving evidence. Hollandsworth's research drew from Austin city archives, Texas State Library files, and contemporary newspaper accounts.",
-    "Austin's growth around the killings is part of the story. The city had roughly 17,000 residents in 1885. Most homes outside the central core had servants' quarters in detached buildings. Locks were uncommon. Streetlights were rare.",
-    "After the killings, Austin invested in gas streetlights, increased police patrols, and modernized civic infrastructure. The city changed visibly over the next decade in ways that historians still trace to the panic of 1885.",
-    "Three years later, in 1888, Jack the Ripper began his killings in London's Whitechapel district. Some sensational accounts of the time speculated the Servant Girl Annihilator and the Ripper might be the same man. There is no evidence supporting that link.",
-    "What is clear is that the Austin killings represent the earliest documented case in the United States of a serial killer targeting a specific demographic across an extended geographic area. The pattern was identified before the term 'serial killer' existed.",
-    "Most of the victims were buried in Oakwood Cemetery in Austin. Their graves were modest. Several have been restored in recent decades through volunteer efforts. The cemetery maintains a record of all victims of the killings.",
-    "DNA evidence from 1885 does not exist. There were no fingerprints. No photographs of the crime scenes. The case will not be solved through forensic technology. What remains is documentary research.",
-    "The Austin History Center houses primary documents from the period — newspaper accounts, police records, coroner's reports, and trial transcripts from the husbands who were charged. Researchers can request access.",
-    "The case has been studied by FBI behavioral analysts as part of historical training. The pattern of escalation, victim selection, and signature behavior has been used as a teaching example for over a century after the killings.",
-    "If you are researching pre-1900 American crime, the Austin History Center and the Texas State Library and Archives Commission both maintain extensive holdings on the Servant Girl Annihilator killings.",
-    "Subscribe to DarkFiles and hit the bell. Next week's case goes deeper into a series of London nude murders in the 1960s targeting young women along the Thames."
-  ]
+    {
+      "voice": "Between December 1884 and December 1885, a series of brutal murders terrorized Austin, Texas. Eight people were killed — most of them young Black women working as domestic servants. The killer was never caught. He pre-dated Jack the Ripper by three years. The case is now studied in American criminology as the earliest documented serial-killer series in the United States.",
+      "visual": "crime scene investigation",
+      "duration": 24
+    },
+    {
+      "voice": "The first victim was Mollie Smith, a 25-year-old cook for the Hall family. On the night of December 30, 1884, she was attacked in her servants' quarters in the back yard of her employer's home. She had been struck with an axe. The attack was deliberate and forceful. The murder weapon had been brought to the scene rather than seized opportunistically.",
+      "visual": "detective board evidence",
+      "duration": 24
+    },
+    {
+      "voice": "Mollie's partner Walter Spencer survived the attack with serious injuries. He recovered and provided what details he could. He could not identify the assailant. The attack had occurred in darkness. Spencer had been struck before he could see the killer's face. His testimony established the pattern but not the suspect.",
+      "visual": "old newspaper article",
+      "duration": 20
+    },
+    {
+      "voice": "Austin police initially treated the case as an isolated tragedy. The city's investigative resources in 1884 were limited. There was no formal homicide unit. Investigations relied on patrol officers and constables. The early lack of dedicated attention may have allowed the killer to refine his methods between attacks.",
+      "visual": "missing person flyer",
+      "duration": 20
+    },
+    {
+      "voice": "Through the spring and summer of 1885, more attacks followed. Eliza Shelley, a cook for Dr. L. B. Johnson, was killed on May 6, 1885 in her quarters behind the family home. She had been attacked with a similar weapon. The location, the victim profile, and the method matched the Mollie Smith killing. The pattern was becoming undeniable.",
+      "visual": "police investigation files",
+      "duration": 23
+    },
+    {
+      "voice": "Two weeks later, Irene Cross, a servant in the home of Major Willis Robertson, was murdered in her room. The pattern began to clarify. Each victim was a young Black woman. Each was killed in the modest quarters that housed servants behind larger Austin homes. The targeting suggested deliberate selection rather than random violence.",
+      "visual": "forensic lab analysis",
+      "duration": 21
+    },
+    {
+      "voice": "Local newspapers, including the Austin Daily Statesman, began calling the killer the 'Servant Girl Annihilator' — a phrase used by the writer William Sydney Porter, who would later become famous as O. Henry. He was living in Austin during the killings. Porter's letters and newspaper writings from the period contain references to the case that have become primary historical sources.",
+      "visual": "abandoned building night",
+      "duration": 24
+    },
+    {
+      "voice": "Here's where the case grows more disturbing. The killer's signature included a specific element. Investigators found that several victims had been dragged from their beds, killed outdoors, and arranged in particular postures. The wounds suggested an axe or similar heavy implement. The post-mortem positioning of bodies indicated a psychological dimension beyond the violence itself.",
+      "visual": "rural road night",
+      "duration": 21
+    },
+    {
+      "voice": "On August 30, 1885, Rebecca Ramey was attacked, her young daughter Mary killed. The case shocked Austin. The Austin City Council voted emergency funds for police overtime, gas streetlamps, and additional patrols. The civic response represented the largest expansion of police funding in Austin to that date.",
+      "visual": "courthouse exterior",
+      "duration": 20
+    },
+    {
+      "voice": "On Christmas Eve 1885, the killer struck twice in the same night. Susan Hancock was murdered in her bed in north Austin. Her husband had been sleeping in another room. He was investigated and ultimately cleared. The Hancock killing was significant because it represented the first attack on a white victim. The shift suggested the killer's targeting was opportunity-based rather than purely racially motivated.",
+      "visual": "vintage photograph",
+      "duration": 25
+    },
+    {
+      "voice": "Hours later, on the same Christmas Eve, Eula Phillips was murdered in her home in central Austin. Eula was a young white woman of social standing. Her husband was charged but later acquitted. The Phillips case dominated the Austin Daily Statesman for weeks. The trial of her husband became one of the most-covered legal proceedings in 19th-century Texas.",
+      "visual": "fbi case files",
+      "duration": 23
+    },
+    {
+      "voice": "The killing of two white women on a single night shifted public panic. The Austin Daily Statesman ran emergency editions. The mayor demanded action from chief of police Grooms Lee. The pressure on Lee was severe. He was effectively forced to expand the investigation while also managing rapidly escalating public fear.",
+      "visual": "evidence bag tape",
+      "duration": 20
+    },
+    {
+      "voice": "After Christmas Eve 1885, the killings stopped. There were no more attacks fitting the pattern. Police never made an arrest tied directly to the murders. The killer simply vanished. The sudden cessation has shaped every theory about the killer's identity since. He either died, left Austin, or was incarcerated for an unrelated offense.",
+      "visual": "interrogation room",
+      "duration": 21
+    },
+    {
+      "voice": "Theories of the killer's identity have proliferated since. Some researchers point to a Cuban man named Maurice, who lived in Austin briefly during the killings, was arrested for unrelated crimes, and disappeared in 1886. Others argue for a railway worker who passed through. The transient nature of late-19th-century Austin makes identifying any specific individual difficult.",
+      "visual": "darkroom flashlight investigation",
+      "duration": 22
+    },
+    {
+      "voice": "In the 1930s, a researcher named John Lummis collected interviews from elderly Austin residents who remembered the killings. Several pointed to a man known locally as 'Nathan Elgin,' a teenager arrested in early 1886 for an unrelated assault. Elgin matched some of the killer's described characteristics — including a missing toe seen in footprint evidence at one scene.",
+      "visual": "vintage typewriter notes",
+      "duration": 23
+    },
+    {
+      "voice": "Modern researcher Skip Hollandsworth's 2016 book on the case, 'The Midnight Assassin,' presents Elgin as the most likely suspect based on the surviving evidence. Hollandsworth's research drew from Austin city archives, Texas State Library files, and contemporary newspaper accounts. The work synthesized over a century of investigative material into the most comprehensive single-volume analysis available.",
+      "visual": "cold case archive",
+      "duration": 22
+    },
+    {
+      "voice": "Austin's growth around the killings is part of the story. The city had roughly 17,000 residents in 1885. Most homes outside the central core had servants' quarters in detached buildings. Locks were uncommon. Streetlights were rare. The physical layout of the city allowed an offender to move between properties without being observed.",
+      "visual": "missing person search",
+      "duration": 20
+    },
+    {
+      "voice": "After the killings, Austin invested in gas streetlights, increased police patrols, and modernized civic infrastructure. The city changed visibly over the next decade in ways that historians still trace to the panic of 1885. The lighting improvements alone were among the largest infrastructure investments in late-19th-century Texas urban development.",
+      "visual": "police badge close up",
+      "duration": 20
+    },
+    {
+      "voice": "Three years later, in 1888, Jack the Ripper began his killings in London's Whitechapel district. Some sensational accounts of the time speculated the Servant Girl Annihilator and the Ripper might be the same man. There is no evidence supporting that link. The geographic and biographical considerations make the connection effectively impossible.",
+      "visual": "crime scene tape yellow",
+      "duration": 20
+    },
+    {
+      "voice": "What is clear is that the Austin killings represent the earliest documented case in the United States of a serial killer targeting a specific demographic across an extended geographic area. The pattern was identified before the term 'serial killer' existed. The case has been used in academic literature to push back the historical timeline of recognized serial offending in America.",
+      "visual": "old phone receiver",
+      "duration": 24
+    },
+    {
+      "voice": "Most of the victims were buried in Oakwood Cemetery in Austin. Their graves were modest. Several have been restored in recent decades through volunteer efforts. The cemetery maintains a record of all victims of the killings. The Oakwood restoration project has involved local historians, descendants of period residents, and the City of Austin's heritage office.",
+      "visual": "investigator notebook",
+      "duration": 22
+    },
+    {
+      "voice": "DNA evidence from 1885 does not exist. There were no fingerprints. No photographs of the crime scenes. The case will not be solved through forensic technology. What remains is documentary research. The historical record is the only path to better understanding the case. New documents continue to emerge from family archives across Texas.",
+      "visual": "evidence photograph wall",
+      "duration": 21
+    },
+    {
+      "voice": "The Austin History Center houses primary documents from the period — newspaper accounts, police records, coroner's reports, and trial transcripts from the husbands who were charged. Researchers can request access. The collection has been digitized in part and is available through the City of Austin's online historical archive.",
+      "visual": "darkened forest clue",
+      "duration": 20
+    },
+    {
+      "voice": "The case has been studied by FBI behavioral analysts as part of historical training. The pattern of escalation, victim selection, and signature behavior has been used as a teaching example for over a century after the killings. The Austin file is one of the foundational records in the historical study of serial offending in America.",
+      "visual": "vintage clock tower",
+      "duration": 22
+    },
+    {
+      "voice": "If you are researching pre-1900 American crime, the Austin History Center and the Texas State Library and Archives Commission both maintain extensive holdings on the Servant Girl Annihilator killings. The collections include period photographs, court documents, and personal papers from Austin residents who lived through the events. Researchers can request access through standard archival application processes.",
+      "visual": "old map markings",
+      "duration": 22
+    },
+    {
+      "voice": "Subscribe to DarkFiles and hit the bell. Next week's case goes deeper into a series of London nude murders in the 1960s targeting young women along the Thames.",
+      "visual": "crime scene investigation",
+      "duration": 20
+    }
+  ],
+  "thumbnail_text": "THE SERVANT GIRL"
 }

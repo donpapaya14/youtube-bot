@@ -1,30 +1,131 @@
 {
   "title": "Fritz Haarmann: The Hammer of Hanover 1924 🔍",
   "segments": [
-    "Between 1918 and 1924, in the German city of Hanover, a man named Fritz Haarmann murdered at least 24 young men. He was a butcher and a black-market trader. He sold the meat of his victims through his shop. He earned the nickname the Hammer of Hanover, though some called him the Vampire of Hanover. The case remains one of the darkest in Weimar German history.",
-    "Haarmann was born in 1879 in Hanover. He had a long history of mental institutionalization, petty crime, and homosexual offenses under German law. He had been in and out of asylums and prisons since adolescence.",
-    "After the First World War, Haarmann settled in Hanover's Old Town. He worked as a butcher, traded on the black market, and informed for the Hanover police. His role as a police informant gave him cover for his activities for years.",
-    "Hanover's central train station, the Hauptbahnhof, was a hub for runaway boys and homeless young men in the post-war period. The collapse of Imperial Germany had created widespread economic dislocation. Haarmann hunted there.",
-    "He approached young men at the station, offered them food, lodging, or work. He brought them to his apartment. Sometimes he claimed to be a police officer. He used his role as an informant to make the claim plausible.",
-    "Once inside his apartment, Haarmann killed his victims. According to his own later confession, he killed by biting through their throats — a detail that gave rise to the Vampire of Hanover nickname. He then dismembered the bodies.",
-    "Here's where the case becomes a study in Weimar Germany's broken systems. Haarmann sold the meat of his victims through his butcher's shop. He sold their clothing through second-hand markets. The disposal was systematic. The investigation into missing young men in Hanover was not.",
-    "Hanover police repeatedly received reports of missing boys and young men. Many of the victims were transient. Their families were poor or distant. Police prioritized other cases.",
-    "Haarmann's partner, a younger man named Hans Grans, may have been an accomplice in some killings. Grans was arrested with Haarmann in 1924. He served time but was released on appeal in 1925.",
-    "The case broke in May 1924. Children playing along the bank of the Leine River, which flows through Hanover, found human skulls. More remains were recovered over the following weeks.",
-    "Hanover police, now under public pressure, began detailed searches of the riverbank. They found over 500 bones from at least 22 separate individuals.",
-    "The investigation focused on Haarmann after a tip from the family of a missing young man named Friedel Rothe. Friedel had been seen entering Haarmann's apartment but had never been seen leaving. His family had complained to police a year earlier. The complaint had not been pursued.",
-    "Haarmann was arrested on June 22, 1924. The arrest came when two Hanover police officers, working undercover at the train station, observed him approach a young man in a manner consistent with the witness descriptions.",
-    "When officers searched Haarmann's apartment they found bloodstained walls, clothing belonging to missing men, and personal items that families later identified. The evidence was overwhelming.",
-    "Haarmann's trial began in December 1924 at the Hanover state court. He confessed to 24 murders during questioning. Forensic experts presented the bones from the Leine River and matched them by available techniques to specific missing-person reports.",
-    "On December 19, 1924, Haarmann was convicted of 24 murders. He was sentenced to death by beheading — the standard German method at the time. The sentence was carried out by guillotine on April 15, 1925, at Hanover's Strafanstalt prison.",
-    "Hans Grans was originally sentenced to death. His conviction was overturned on appeal in 1925. He was retried, convicted of being an accomplice to one murder, and served 12 years. He died in Hanover in 1975.",
-    "The case had profound effects on German criminology. The early 20th-century criminologist Theodor Lessing wrote a detailed psychological study, 'Haarmann: Geschichte eines Werwolfs' — Haarmann: History of a Werewolf. The book was banned by the Nazi regime in 1933 and Lessing was assassinated in 1933 by Nazi agents.",
-    "Lessing's analysis is one of the earliest detailed psychological profiles in modern criminology. He framed Haarmann as a product of his society — a society that had failed children, ignored marginalized populations, and tolerated police informants without scrutiny.",
-    "Haarmann's confessions are preserved in the Hanover state archives. They include detailed descriptions of his methods, his rationalizations, and his interactions with victims. They are restricted to credentialed researchers.",
-    "Modern forensic analysis applied to surviving bone fragments from the Leine River discoveries has helped identify some additional victims. Hanover police continue to receive occasional family inquiries from descendants of men who disappeared in 1918-1924.",
-    "The case is studied at the Bundeskriminalamt, Germany's federal police investigation training school, as an example of early systemic failure in missing-person investigation. It is also studied in Holocaust historical context for what it revealed about Weimar Germany.",
-    "The site of Haarmann's apartment in Hanover's Altstadt was destroyed in Allied bombing during the Second World War. The general area is now restored. Locals know the history. There is no marker.",
-    "If you are researching Weimar German crime, the Hanover City Archives and the Lower Saxony State Archives both maintain Haarmann case files. The Theodor Lessing Society publishes ongoing scholarly work on the case.",
-    "Subscribe to DarkFiles and hit the bell. Next week's case goes deeper into an American pioneer family who ran an inn on the Kansas frontier and whose guests began disappearing in the 1870s."
-  ]
+    {
+      "voice": "Between 1918 and 1924, in the German city of Hanover, a man named Fritz Haarmann murdered at least 24 young men. He was a butcher and a black-market trader. He sold the meat of his victims through his shop. He earned the nickname the Hammer of Hanover, though some called him the Vampire of Hanover. The case remains one of the darkest in Weimar German history.",
+      "visual": "crime scene investigation",
+      "duration": 26
+    },
+    {
+      "voice": "Haarmann was born in 1879 in Hanover. He had a long history of mental institutionalization, petty crime, and homosexual offenses under German law. He had been in and out of asylums and prisons since adolescence.",
+      "visual": "detective board evidence",
+      "duration": 20
+    },
+    {
+      "voice": "After the First World War, Haarmann settled in Hanover's Old Town. He worked as a butcher, traded on the black market, and informed for the Hanover police. His role as a police informant gave him cover for his activities for years.",
+      "visual": "old newspaper article",
+      "duration": 20
+    },
+    {
+      "voice": "Hanover's central train station, the Hauptbahnhof, was a hub for runaway boys and homeless young men in the post-war period. The collapse of Imperial Germany had created widespread economic dislocation. Haarmann hunted there.",
+      "visual": "missing person flyer",
+      "duration": 20
+    },
+    {
+      "voice": "He approached young men at the station, offered them food, lodging, or work. He brought them to his apartment. Sometimes he claimed to be a police officer. He used his role as an informant to make the claim plausible.",
+      "visual": "police investigation files",
+      "duration": 20
+    },
+    {
+      "voice": "Once inside his apartment, Haarmann killed his victims. According to his own later confession, he killed by biting through their throats — a detail that gave rise to the Vampire of Hanover nickname. He then dismembered the bodies.",
+      "visual": "forensic lab analysis",
+      "duration": 20
+    },
+    {
+      "voice": "Here's where the case becomes a study in Weimar Germany's broken systems. Haarmann sold the meat of his victims through his butcher's shop. He sold their clothing through second-hand markets. The disposal was systematic. The investigation into missing young men in Hanover was not.",
+      "visual": "abandoned building night",
+      "duration": 20
+    },
+    {
+      "voice": "Hanover police repeatedly received reports of missing boys and young men. Many of the victims were transient. Their families were poor or distant. Police prioritized other cases.",
+      "visual": "rural road night",
+      "duration": 20
+    },
+    {
+      "voice": "Haarmann's partner, a younger man named Hans Grans, may have been an accomplice in some killings. Grans was arrested with Haarmann in 1924. He served time but was released on appeal in 1925.",
+      "visual": "courthouse exterior",
+      "duration": 20
+    },
+    {
+      "voice": "The case broke in May 1924. Children playing along the bank of the Leine River, which flows through Hanover, found human skulls. More remains were recovered over the following weeks.",
+      "visual": "vintage photograph",
+      "duration": 20
+    },
+    {
+      "voice": "Hanover police, now under public pressure, began detailed searches of the riverbank. They found over 500 bones from at least 22 separate individuals.",
+      "visual": "fbi case files",
+      "duration": 20
+    },
+    {
+      "voice": "The investigation focused on Haarmann after a tip from the family of a missing young man named Friedel Rothe. Friedel had been seen entering Haarmann's apartment but had never been seen leaving. His family had complained to police a year earlier. The complaint had not been pursued.",
+      "visual": "evidence bag tape",
+      "duration": 20
+    },
+    {
+      "voice": "Haarmann was arrested on June 22, 1924. The arrest came when two Hanover police officers, working undercover at the train station, observed him approach a young man in a manner consistent with the witness descriptions.",
+      "visual": "interrogation room",
+      "duration": 20
+    },
+    {
+      "voice": "When officers searched Haarmann's apartment they found bloodstained walls, clothing belonging to missing men, and personal items that families later identified. The evidence was overwhelming.",
+      "visual": "darkroom flashlight investigation",
+      "duration": 20
+    },
+    {
+      "voice": "Haarmann's trial began in December 1924 at the Hanover state court. He confessed to 24 murders during questioning. Forensic experts presented the bones from the Leine River and matched them by available techniques to specific missing-person reports.",
+      "visual": "vintage typewriter notes",
+      "duration": 20
+    },
+    {
+      "voice": "On December 19, 1924, Haarmann was convicted of 24 murders. He was sentenced to death by beheading — the standard German method at the time. The sentence was carried out by guillotine on April 15, 1925, at Hanover's Strafanstalt prison.",
+      "visual": "cold case archive",
+      "duration": 20
+    },
+    {
+      "voice": "Hans Grans was originally sentenced to death. His conviction was overturned on appeal in 1925. He was retried, convicted of being an accomplice to one murder, and served 12 years. He died in Hanover in 1975.",
+      "visual": "missing person search",
+      "duration": 20
+    },
+    {
+      "voice": "The case had profound effects on German criminology. The early 20th-century criminologist Theodor Lessing wrote a detailed psychological study, 'Haarmann: Geschichte eines Werwolfs' — Haarmann: History of a Werewolf. The book was banned by the Nazi regime in 1933 and Lessing was assassinated in 1933 by Nazi agents.",
+      "visual": "police badge close up",
+      "duration": 20
+    },
+    {
+      "voice": "Lessing's analysis is one of the earliest detailed psychological profiles in modern criminology. He framed Haarmann as a product of his society — a society that had failed children, ignored marginalized populations, and tolerated police informants without scrutiny.",
+      "visual": "crime scene tape yellow",
+      "duration": 20
+    },
+    {
+      "voice": "Haarmann's confessions are preserved in the Hanover state archives. They include detailed descriptions of his methods, his rationalizations, and his interactions with victims. They are restricted to credentialed researchers.",
+      "visual": "old phone receiver",
+      "duration": 20
+    },
+    {
+      "voice": "Modern forensic analysis applied to surviving bone fragments from the Leine River discoveries has helped identify some additional victims. Hanover police continue to receive occasional family inquiries from descendants of men who disappeared in 1918-1924.",
+      "visual": "investigator notebook",
+      "duration": 20
+    },
+    {
+      "voice": "The case is studied at the Bundeskriminalamt, Germany's federal police investigation training school, as an example of early systemic failure in missing-person investigation. It is also studied in Holocaust historical context for what it revealed about Weimar Germany.",
+      "visual": "evidence photograph wall",
+      "duration": 20
+    },
+    {
+      "voice": "The site of Haarmann's apartment in Hanover's Altstadt was destroyed in Allied bombing during the Second World War. The general area is now restored. Locals know the history. There is no marker.",
+      "visual": "darkened forest clue",
+      "duration": 20
+    },
+    {
+      "voice": "If you are researching Weimar German crime, the Hanover City Archives and the Lower Saxony State Archives both maintain Haarmann case files. The Theodor Lessing Society publishes ongoing scholarly work on the case.",
+      "visual": "vintage clock tower",
+      "duration": 20
+    },
+    {
+      "voice": "Subscribe to DarkFiles and hit the bell. Next week's case goes deeper into an American pioneer family who ran an inn on the Kansas frontier and whose guests began disappearing in the 1870s.",
+      "visual": "old map markings",
+      "duration": 20
+    }
+  ],
+  "thumbnail_text": "FRITZ HAARMANN THE"
 }

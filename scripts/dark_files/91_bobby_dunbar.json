@@ -1,30 +1,131 @@
 {
   "title": "Bobby Dunbar: The Boy Who Came Home a Stranger 🔍",
   "segments": [
-    "On August 23, 1912, four-year-old Bobby Dunbar disappeared from a fishing trip with his family at Swayze Lake in Louisiana. Eight months later, a boy was found in Mississippi who matched his description. The Dunbar family identified him as their son. The case appeared closed. A century later, DNA proved it had not been Bobby at all.",
-    "The Dunbar family had been camping at the lake. Bobby was last seen near the railroad bridge above the lake's outlet. Within minutes he was missing. His parents Lessie and Percy Dunbar searched the immediate area in panic.",
-    "Local searchers spent the next several days dragging the lake. They drained portions of it. They searched the surrounding swamp. They found nothing. Some assumed an alligator had taken the boy. Others suspected a kidnapping.",
-    "The disappearance became national news. Newspapers in New Orleans, Atlanta, and even New York covered it. Lessie and Percy spent the next eight months pursuing every lead.",
-    "In April 1913, a young boy was found traveling with a man named William Cantwell Walters in rural Mississippi. Walters was a handyman who said the boy was his nephew, Bruce Anderson, the son of Julia Anderson, a poor woman from North Carolina.",
-    "Mississippi authorities suspected the boy might be Bobby Dunbar. Walters was arrested. The boy was sent to New Orleans to be examined by Bobby's parents.",
-    "Lessie Dunbar identified the boy as Bobby. So did Percy. The Dunbar family took the boy home. The case appeared resolved.",
-    "Here's where the case grew complicated. Julia Anderson, the boy's biological mother, traveled from North Carolina to claim him. She was poor, unmarried, and had given Walters informal permission to bring her son on his rural travels.",
-    "When Anderson examined the boy, she identified him as her son Bruce. The Dunbars and the Andersons gave conflicting testimony. The case went to trial in Louisiana.",
-    "Walters was tried for kidnapping in 1914. The Louisiana jury believed the Dunbars. Walters was convicted. He served two years before being released on appeal in 1915. Anderson lost custody. The boy stayed with the Dunbar family.",
-    "The boy raised as Bobby Dunbar grew up in Louisiana. He married, had children, and lived an ordinary life. He died in 1966. His descendants knew him as Bobby Dunbar.",
-    "In 2004, his granddaughter Margaret Dunbar Cutright began researching the case as a personal project. She read trial transcripts, newspaper accounts, and family letters. The deeper she went, the more uncertain the story became.",
-    "Cutright had her father — the son of the man raised as Bobby Dunbar — submit a DNA sample. She compared it to a male descendant of Alonzo Dunbar, Bobby's biological brother. If the boy taken in 1913 had truly been Bobby Dunbar, the DNA should match.",
-    "It did not. The 2004 DNA test, conducted by the University of Texas at Houston, conclusively showed that the boy raised as Bobby Dunbar was not biologically related to the Dunbar family.",
-    "The boy who had been taken from Mississippi in 1913 was, almost certainly, Bruce Anderson — Julia Anderson's son. Walters had been telling the truth.",
-    "The result was painful for both families. The Dunbars learned that their grandfather had been raised under a stolen identity. The Andersons learned that Julia had lost her son to a court system that had not believed her.",
-    "Cutright published her findings and continued to research the case. The 2008 New York Times reporting and a 'This American Life' broadcast in 2008 brought the resolution to national attention.",
-    "What happened to the original Bobby Dunbar in 1912 remains officially unsolved. The most likely explanation is that he drowned in Swayze Lake or its outlet. The body was never recovered. The terrain was difficult.",
-    "Walters had been a handyman known to the Anderson family. He had transported Bruce Anderson informally. He was not a kidnapper of the original Dunbar boy. The Mississippi judge who convicted him in 1914 had misjudged the case.",
-    "Julia Anderson lived the rest of her life knowing she had lost her son to a courtroom that did not believe her. She died in 1949 in North Carolina. She did not live to see DNA confirm her testimony.",
-    "The case is now studied in legal history as a major example of mistaken identity in early 20th-century courts. It is also studied in genealogical research methodology — the Cutright project is a benchmark in how DNA can resolve long-standing identity questions.",
-    "The Dunbar and Anderson descendants have built a relationship in recent years. They have visited each other's family sites in Louisiana and North Carolina. They have shared the story openly.",
-    "The original case file from 1913 and 1914 is held at the Louisiana State Archives in Baton Rouge. The trial transcripts have been digitized and are accessible for genealogical research.",
-    "If you are researching early 20th-century missing-children cases, the Dunbar case file and the Cutright research papers — donated to several university archives — are public resources.",
-    "Subscribe to DarkFiles and hit the bell. Next week's case goes deeper into unidentified bones found at a Florida construction site that took decades to give up their names."
-  ]
+    {
+      "voice": "On August 23, 1912, four-year-old Bobby Dunbar disappeared from a fishing trip with his family at Swayze Lake in Louisiana. Eight months later, a boy was found in Mississippi who matched his description. The Dunbar family identified him as their son. The case appeared closed. A century later, DNA proved it had not been Bobby at all.",
+      "visual": "crime scene investigation",
+      "duration": 22
+    },
+    {
+      "voice": "The Dunbar family had been camping at the lake. Bobby was last seen near the railroad bridge above the lake's outlet. Within minutes he was missing. His parents Lessie and Percy Dunbar searched the immediate area in panic.",
+      "visual": "detective board evidence",
+      "duration": 20
+    },
+    {
+      "voice": "Local searchers spent the next several days dragging the lake. They drained portions of it. They searched the surrounding swamp. They found nothing. Some assumed an alligator had taken the boy. Others suspected a kidnapping.",
+      "visual": "old newspaper article",
+      "duration": 20
+    },
+    {
+      "voice": "The disappearance became national news. Newspapers in New Orleans, Atlanta, and even New York covered it. Lessie and Percy spent the next eight months pursuing every lead.",
+      "visual": "missing person flyer",
+      "duration": 20
+    },
+    {
+      "voice": "In April 1913, a young boy was found traveling with a man named William Cantwell Walters in rural Mississippi. Walters was a handyman who said the boy was his nephew, Bruce Anderson, the son of Julia Anderson, a poor woman from North Carolina.",
+      "visual": "police investigation files",
+      "duration": 20
+    },
+    {
+      "voice": "Mississippi authorities suspected the boy might be Bobby Dunbar. Walters was arrested. The boy was sent to New Orleans to be examined by Bobby's parents.",
+      "visual": "forensic lab analysis",
+      "duration": 20
+    },
+    {
+      "voice": "Lessie Dunbar identified the boy as Bobby. So did Percy. The Dunbar family took the boy home. The case appeared resolved.",
+      "visual": "abandoned building night",
+      "duration": 20
+    },
+    {
+      "voice": "Here's where the case grew complicated. Julia Anderson, the boy's biological mother, traveled from North Carolina to claim him. She was poor, unmarried, and had given Walters informal permission to bring her son on his rural travels.",
+      "visual": "rural road night",
+      "duration": 20
+    },
+    {
+      "voice": "When Anderson examined the boy, she identified him as her son Bruce. The Dunbars and the Andersons gave conflicting testimony. The case went to trial in Louisiana.",
+      "visual": "courthouse exterior",
+      "duration": 20
+    },
+    {
+      "voice": "Walters was tried for kidnapping in 1914. The Louisiana jury believed the Dunbars. Walters was convicted. He served two years before being released on appeal in 1915. Anderson lost custody. The boy stayed with the Dunbar family.",
+      "visual": "vintage photograph",
+      "duration": 20
+    },
+    {
+      "voice": "The boy raised as Bobby Dunbar grew up in Louisiana. He married, had children, and lived an ordinary life. He died in 1966. His descendants knew him as Bobby Dunbar.",
+      "visual": "fbi case files",
+      "duration": 20
+    },
+    {
+      "voice": "In 2004, his granddaughter Margaret Dunbar Cutright began researching the case as a personal project. She read trial transcripts, newspaper accounts, and family letters. The deeper she went, the more uncertain the story became.",
+      "visual": "evidence bag tape",
+      "duration": 20
+    },
+    {
+      "voice": "Cutright had her father — the son of the man raised as Bobby Dunbar — submit a DNA sample. She compared it to a male descendant of Alonzo Dunbar, Bobby's biological brother. If the boy taken in 1913 had truly been Bobby Dunbar, the DNA should match.",
+      "visual": "interrogation room",
+      "duration": 20
+    },
+    {
+      "voice": "It did not. The 2004 DNA test, conducted by the University of Texas at Houston, conclusively showed that the boy raised as Bobby Dunbar was not biologically related to the Dunbar family.",
+      "visual": "darkroom flashlight investigation",
+      "duration": 20
+    },
+    {
+      "voice": "The boy who had been taken from Mississippi in 1913 was, almost certainly, Bruce Anderson — Julia Anderson's son. Walters had been telling the truth.",
+      "visual": "vintage typewriter notes",
+      "duration": 20
+    },
+    {
+      "voice": "The result was painful for both families. The Dunbars learned that their grandfather had been raised under a stolen identity. The Andersons learned that Julia had lost her son to a court system that had not believed her.",
+      "visual": "cold case archive",
+      "duration": 20
+    },
+    {
+      "voice": "Cutright published her findings and continued to research the case. The 2008 New York Times reporting and a 'This American Life' broadcast in 2008 brought the resolution to national attention.",
+      "visual": "missing person search",
+      "duration": 20
+    },
+    {
+      "voice": "What happened to the original Bobby Dunbar in 1912 remains officially unsolved. The most likely explanation is that he drowned in Swayze Lake or its outlet. The body was never recovered. The terrain was difficult.",
+      "visual": "police badge close up",
+      "duration": 20
+    },
+    {
+      "voice": "Walters had been a handyman known to the Anderson family. He had transported Bruce Anderson informally. He was not a kidnapper of the original Dunbar boy. The Mississippi judge who convicted him in 1914 had misjudged the case.",
+      "visual": "crime scene tape yellow",
+      "duration": 20
+    },
+    {
+      "voice": "Julia Anderson lived the rest of her life knowing she had lost her son to a courtroom that did not believe her. She died in 1949 in North Carolina. She did not live to see DNA confirm her testimony.",
+      "visual": "old phone receiver",
+      "duration": 20
+    },
+    {
+      "voice": "The case is now studied in legal history as a major example of mistaken identity in early 20th-century courts. It is also studied in genealogical research methodology — the Cutright project is a benchmark in how DNA can resolve long-standing identity questions.",
+      "visual": "investigator notebook",
+      "duration": 20
+    },
+    {
+      "voice": "The Dunbar and Anderson descendants have built a relationship in recent years. They have visited each other's family sites in Louisiana and North Carolina. They have shared the story openly.",
+      "visual": "evidence photograph wall",
+      "duration": 20
+    },
+    {
+      "voice": "The original case file from 1913 and 1914 is held at the Louisiana State Archives in Baton Rouge. The trial transcripts have been digitized and are accessible for genealogical research.",
+      "visual": "darkened forest clue",
+      "duration": 20
+    },
+    {
+      "voice": "If you are researching early 20th-century missing-children cases, the Dunbar case file and the Cutright research papers — donated to several university archives — are public resources.",
+      "visual": "vintage clock tower",
+      "duration": 20
+    },
+    {
+      "voice": "Subscribe to DarkFiles and hit the bell. Next week's case goes deeper into unidentified bones found at a Florida construction site that took decades to give up their names.",
+      "visual": "old map markings",
+      "duration": 20
+    }
+  ],
+  "thumbnail_text": "BOBBY DUNBAR THE"
 }

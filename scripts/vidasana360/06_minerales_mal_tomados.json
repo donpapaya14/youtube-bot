@@ -1,35 +1,150 @@
 {
   "title": "🌿 3 minerales que la mayoría tomamos mal",
   "description": "Magnesio, hierro y zinc. Los tres minerales más mal suplementados en España. Cuándo tomarlos, en qué forma y con qué evitar combinarlos.",
-  "tags": ["minerales", "suplementos", "magnesio", "hierro", "zinc"],
-  "segments": [
-    "Tomar bien un suplemento es casi tan importante como elegirlo. Y la mayoría de la gente que mete minerales en la rutina lo hace mal. Hora equivocada, forma equivocada, mezclas que cancelan absorción. Hoy revisamos los tres minerales más mal tomados en España y cómo corregirlo. Magnesio, hierro y zinc. Tres pilares de la salud que casi nadie consume con la cabeza.",
-    "Empezamos por el magnesio, el más popular y el más mal usado. La mayoría compra el primer bote barato del supermercado. Suele ser óxido de magnesio. La biodisponibilidad ronda el 4 por ciento. Es decir, de cada 400 miligramos que pone en la etiqueta, tu cuerpo absorbe 16. El resto va al baño con efecto laxante. Por eso la gente cree que les sienta mal el magnesio.",
-    "Las formas que sí se absorben bien tienen nombre. Glicinato, citrato, malato y treonato. El glicinato es el más relajante, ideal antes de dormir. El citrato es laxante suave, útil para personas con estreñimiento. El malato sirve para fatiga y rendimiento físico. El treonato es la única forma que cruza la barrera hematoencefálica para temas cognitivos.",
-    "Aquí está el truco. La dosis recomendada en España es de 350 miligramos al día. Pero entre el agua del grifo, las verduras de hoja, los frutos secos y el cacao puro, una dieta razonable cubre buena parte. La suplementación tiene sentido sobre todo si tienes calambres, ansiedad, sueño irregular o entrenas duro. Si comes bien y duermes bien, tal vez no la necesites.",
-    "El magnesio compite con el calcio por canales de absorción. Si te tomas un suplemento de magnesio junto con un yogur o un vaso de leche, ambos pierden eficacia. Separa magnesio y calcio al menos dos horas. Lo mismo con suplementos de hierro. Los tres minerales se pelean por el mismo transportador y solo entra el primero en llegar.",
-    "Lo que probé yo durante seis meses. Glicinato de magnesio 300 miligramos una hora antes de dormir. La calidad del sueño profundo subió de forma notable. Los calambres nocturnos de pantorrilla que tenía desde hace años desaparecieron a las dos semanas. No es magia, es química. El magnesio relaja la musculatura porque modula la entrada de calcio en la fibra.",
-    "Pasamos al hierro. El error más común es tomarlo con el café o el té. Los polifenoles del té forman complejos con el hierro y reducen la absorción hasta en un 70 por ciento, según trabajos de Inga Thorsdottir publicados en European Journal of Clinical Nutrition. La leche también interfiere por el calcio. Si te suplementas con hierro, sepáralo de cualquier infusión y lácteo al menos dos horas.",
-    "Las mujeres en edad fértil son el grupo con más anemia ferropénica en España. La regla mensual es la causa principal. Pero la suplementación habitual con sulfato ferroso es brutal. Estreñimiento, náuseas, heces oscuras. Hay formas más amables como el bisglicinato de hierro o el hierro liposomal. Cuestan más pero se toleran mejor. Y por absorción real, llegan al mismo destino.",
-    "El truco menos conocido del hierro. Tómalo en ayunas con vitamina C. Un trozo de naranja, un kiwi, un poco de zumo de limón. La vitamina C convierte el hierro férrico en ferroso, que se absorbe mejor. Un estudio de Saskia Osendarp encontró aumentos de absorción del 100 por ciento al combinar con 100 miligramos de vitamina C. Coste cero, efecto enorme.",
-    "Pero hay un detalle importante. Si tienes anemia y no sabes la causa, no improvises. La pérdida de hierro en hombres adultos suele significar sangrado oculto digestivo. Cáncer colorrectal, úlceras, divertículos. Suplementarte con hierro sin diagnóstico solo enmascara el problema y retrasa el descubrimiento real. Análisis primero, suplemento después.",
-    "El zinc es el tercer mal usado. La mayoría lo toma como inmunoestimulante en pastilla diaria todo el invierno. El problema es que el zinc compite con el cobre. Suplementación crónica de más de 40 miligramos al día durante meses puede generar deficiencia de cobre, que es peor que la de zinc. Anemia por cobre, problemas neurológicos, alteraciones del colesterol.",
-    "La forma del zinc también importa. El picolinato y el bisglicinato se absorben mejor que el óxido o el sulfato. Para defensas durante una infección viral aguda, los pastillas de zinc en lozenge, las que se chupan, tienen evidencia. Un meta-análisis Cochrane mostró reducción de duración del resfriado en uno o dos días si se empieza en las primeras 24 horas.",
-    "El zinc afecta al gusto y al olfato. La pérdida de sabor que se notó tanto durante el covid se ha asociado a déficit funcional de zinc. Trabajos del doctor Robert Henkin en Georgetown mostraron que pacientes con disgeusia respondían a suplementación con zinc en muchos casos. Si comes y todo te sabe insulso, conviene revisar este parámetro.",
-    "Algo que nadie cuenta. El selenio y el zinc se llevan bien y trabajan en equipo en el sistema inmune y la tiroides. Combinar ambos a dosis bajas, 100 microgramos de selenio y 15 de zinc, durante una infección, tiene más sentido que tirar solo de zinc a dosis altas. La dieta mediterránea con dos nueces de Brasil al día cubre el selenio sin pastilla.",
-    "Hablemos de cómo saber si tienes déficit antes de suplementar. La analítica de magnesio en sangre es engañosa porque solo el uno por ciento del magnesio del cuerpo está en sangre. La medición de magnesio eritrocitario es más fiel pero pocos laboratorios la hacen. El zinc plasmático también fluctúa con la hora del día y la inflamación.",
-    "Por eso muchos médicos prefieren suplementar a dosis fisiológicas durante un mes y observar respuesta clínica antes que pedir analíticas confusas. Si tras un mes de magnesio glicinato duermes mejor y no tienes calambres, había probable déficit. Si no notas nada, lo dejas. La prueba terapéutica es válida con dosis bajas y seguras.",
-    "Los excesos también existen. Demasiado hierro suplementado en personas sin déficit puede acelerar daño oxidativo. La hemocromatosis genética es más común en el norte de Europa pero también aparece en España. Antes de suplementar hierro de manera crónica conviene saber tu ferritina. Si pasa de 200 nanogramos por mililitro, no toques hierro.",
-    "Las mezclas de multivitamínicos pueden ser un mal trato. Llevan dosis bajas de muchas cosas y casi nada en la dosis efectiva de lo que necesitas. Salvo poblaciones específicas como embarazadas o ancianos con dieta pobre, un multivitamínico genérico tiene poco impacto. Mejor identificar tu déficit real y suplementar dirigido.",
-    "Las pastillas de calcio merecen mención aparte. La suplementación con calcio sin vitamina D y vitamina K2 no es buena idea. Estudios de Mark Bolland en Auckland sugirieron que el calcio aislado podía aumentar calcificación arterial. Mejor obtener calcio de la dieta vía lácteos, sardinas con espina, almendras, espinacas. Si suplementas, combina con K2.",
-    "El potasio es otro mineral con relevancia que casi nadie suplementa, aunque la mayoría tomamos poco. La OMS recomienda 3500 miligramos al día y el consumo medio español está bastante por debajo. La fruta, las verduras, las legumbres y las patatas tienen mucho potasio. Si tu dieta es occidental clásica con poco vegetal, este es el primer ajuste antes de minerales caros.",
-    "Cuando el médico te receta un mineral, sigue las instrucciones. Por ejemplo, los protocolos de hierro a veces son a días alternos, no diario. Estudios de Diego Moretti en Zúrich encontraron que el hierro a días alternos se absorbe mejor que el diario porque el sulfato diario sube la hepcidina, que bloquea absorción al día siguiente. Menos es más en este caso.",
-    "Algo que aprendí leyendo a Chris Masterjohn. El cobre está en muchos alimentos básicos como hígado, cacao, semillas y frutos secos. Si comes variado, no te falta. Pero si llevas años con dieta baja en estos alimentos y suplementación crónica de zinc, puede aparecer deficiencia silente. Síntomas tempranos son fatiga, palidez y problemas de equilibrio.",
-    "El boro es un mineral menor pero relevante para huesos y articulaciones. Tres miligramos al día parecen mejorar la utilización del calcio y la vitamina D. La fruta deshidratada, las legumbres y los aguacates lo aportan. No requiere suplementación habitual si la dieta es decente. Pero conviene saber que existe y juega un papel.",
-    "El yodo está en sal yodada en España, pero muchas personas evitan la sal y no compensan con otra fuente. El pescado, los lácteos y las algas son las principales. Un déficit silente de yodo afecta la tiroides. La OMS recomienda revisar yodo urinario en mujeres en edad fértil porque su demanda sube en embarazo y la deficiencia gestacional afecta al neurodesarrollo del bebé.",
-    "Lo que probé y vale la pena replicar. Una analítica completa cada año con ferritina, vitamina D, B12, magnesio eritrocitario si es posible, y zinc. Cuesta entre 50 y 100 euros en privado si la pública no la cubre. Es el mejor mapa de tu salud micronutricional. Y guías la suplementación con datos en lugar de moda.",
-    "Para terminar. La suplementación de minerales es una herramienta. No es identidad ni ritual mágico. Si comes una dieta variada con pescado, legumbres, frutos secos, verduras y fruta, probablemente solo necesites magnesio en momentos puntuales y vitamina D en invierno. El resto suele ser exceso de marketing y poca evidencia individualizada.",
-    "Suscríbete a VidaSana360 y dale a la campana. Lo que viene la próxima semana es un repaso de los ejercicios de 10 minutos que sí cambian tu cuerpo, basado en estudios de fisiología del ejercicio."
+  "tags": [
+    "minerales",
+    "suplementos",
+    "magnesio",
+    "hierro",
+    "zinc"
   ],
-  "duration_estimate_seconds": 1340
+  "segments": [
+    {
+      "voice": "Tomar bien un suplemento es casi tan importante como elegirlo. Y la mayoría de la gente que mete minerales en la rutina lo hace mal. Hora equivocada, forma equivocada, mezclas que cancelan absorción. Hoy revisamos los tres minerales más mal tomados en España y cómo corregirlo. Magnesio, hierro y zinc. Tres pilares de la salud que casi nadie consume con la cabeza.",
+      "visual": "healthy breakfast plate",
+      "duration": 24
+    },
+    {
+      "voice": "Empezamos por el magnesio, el más popular y el más mal usado. La mayoría compra el primer bote barato del supermercado. Suele ser óxido de magnesio. La biodisponibilidad ronda el 4 por ciento. Es decir, de cada 400 miligramos que pone en la etiqueta, tu cuerpo absorbe 16. El resto va al baño con efecto laxante. Por eso la gente cree que les sienta mal el magnesio.",
+      "visual": "fresh vegetables wooden table",
+      "duration": 26
+    },
+    {
+      "voice": "Las formas que sí se absorben bien tienen nombre. Glicinato, citrato, malato y treonato. El glicinato es el más relajante, ideal antes de dormir. El citrato es laxante suave, útil para personas con estreñimiento. El malato sirve para fatiga y rendimiento físico. El treonato es la única forma que cruza la barrera hematoencefálica para temas cognitivos.",
+      "visual": "person meditation morning",
+      "duration": 22
+    },
+    {
+      "voice": "Aquí está el truco. La dosis recomendada en España es de 350 miligramos al día. Pero entre el agua del grifo, las verduras de hoja, los frutos secos y el cacao puro, una dieta razonable cubre buena parte. La suplementación tiene sentido sobre todo si tienes calambres, ansiedad, sueño irregular o entrenas duro. Si comes bien y duermes bien, tal vez no la necesites.",
+      "visual": "wellness fitness routine",
+      "duration": 25
+    },
+    {
+      "voice": "El magnesio compite con el calcio por canales de absorción. Si te tomas un suplemento de magnesio junto con un yogur o un vaso de leche, ambos pierden eficacia. Separa magnesio y calcio al menos dos horas. Lo mismo con suplementos de hierro. Los tres minerales se pelean por el mismo transportador y solo entra el primero en llegar.",
+      "visual": "fresh fruit smoothie",
+      "duration": 23
+    },
+    {
+      "voice": "Lo que probé yo durante seis meses. Glicinato de magnesio 300 miligramos una hora antes de dormir. La calidad del sueño profundo subió de forma notable. Los calambres nocturnos de pantorrilla que tenía desde hace años desaparecieron a las dos semanas. No es magia, es química. El magnesio relaja la musculatura porque modula la entrada de calcio en la fibra.",
+      "visual": "person exercising home",
+      "duration": 24
+    },
+    {
+      "voice": "Pasamos al hierro. El error más común es tomarlo con el café o el té. Los polifenoles del té forman complejos con el hierro y reducen la absorción hasta en un 70 por ciento, según trabajos de Inga Thorsdottir publicados en European Journal of Clinical Nutrition. La leche también interfiere por el calcio. Si te suplementas con hierro, sepáralo de cualquier infusión y lácteo al menos dos horas.",
+      "visual": "doctor patient consultation",
+      "duration": 27
+    },
+    {
+      "voice": "Las mujeres en edad fértil son el grupo con más anemia ferropénica en España. La regla mensual es la causa principal. Pero la suplementación habitual con sulfato ferroso es brutal. Estreñimiento, náuseas, heces oscuras. Hay formas más amables como el bisglicinato de hierro o el hierro liposomal. Cuestan más pero se toleran mejor. Y por absorción real, llegan al mismo destino.",
+      "visual": "scientific lab research",
+      "duration": 24
+    },
+    {
+      "voice": "El truco menos conocido del hierro. Tómalo en ayunas con vitamina C. Un trozo de naranja, un kiwi, un poco de zumo de limón. La vitamina C convierte el hierro férrico en ferroso, que se absorbe mejor. Un estudio de Saskia Osendarp encontró aumentos de absorción del 100 por ciento al combinar con 100 miligramos de vitamina C. Coste cero, efecto enorme.",
+      "visual": "natural food cooking",
+      "duration": 24
+    },
+    {
+      "voice": "Pero hay un detalle importante. Si tienes anemia y no sabes la causa, no improvises. La pérdida de hierro en hombres adultos suele significar sangrado oculto digestivo. Cáncer colorrectal, úlceras, divertículos. Suplementarte con hierro sin diagnóstico solo enmascara el problema y retrasa el descubrimiento real. Análisis primero, suplemento después.",
+      "visual": "person sleeping peaceful",
+      "duration": 20
+    },
+    {
+      "voice": "El zinc es el tercer mal usado. La mayoría lo toma como inmunoestimulante en pastilla diaria todo el invierno. El problema es que el zinc compite con el cobre. Suplementación crónica de más de 40 miligramos al día durante meses puede generar deficiencia de cobre, que es peor que la de zinc. Anemia por cobre, problemas neurológicos, alteraciones del colesterol.",
+      "visual": "yoga stretching wellness",
+      "duration": 24
+    },
+    {
+      "voice": "La forma del zinc también importa. El picolinato y el bisglicinato se absorben mejor que el óxido o el sulfato. Para defensas durante una infección viral aguda, los pastillas de zinc en lozenge, las que se chupan, tienen evidencia. Un meta-análisis Cochrane mostró reducción de duración del resfriado en uno o dos días si se empieza en las primeras 24 horas.",
+      "visual": "fresh herbs spices",
+      "duration": 24
+    },
+    {
+      "voice": "El zinc afecta al gusto y al olfato. La pérdida de sabor que se notó tanto durante el covid se ha asociado a déficit funcional de zinc. Trabajos del doctor Robert Henkin en Georgetown mostraron que pacientes con disgeusia respondían a suplementación con zinc en muchos casos. Si comes y todo te sabe insulso, conviene revisar este parámetro.",
+      "visual": "healthy lifestyle outdoor",
+      "duration": 23
+    },
+    {
+      "voice": "Algo que nadie cuenta. El selenio y el zinc se llevan bien y trabajan en equipo en el sistema inmune y la tiroides. Combinar ambos a dosis bajas, 100 microgramos de selenio y 15 de zinc, durante una infección, tiene más sentido que tirar solo de zinc a dosis altas. La dieta mediterránea con dos nueces de Brasil al día cubre el selenio sin pastilla.",
+      "visual": "person hydration water",
+      "duration": 26
+    },
+    {
+      "voice": "Hablemos de cómo saber si tienes déficit antes de suplementar. La analítica de magnesio en sangre es engañosa porque solo el uno por ciento del magnesio del cuerpo está en sangre. La medición de magnesio eritrocitario es más fiel pero pocos laboratorios la hacen. El zinc plasmático también fluctúa con la hora del día y la inflamación.",
+      "visual": "balanced nutrition diet",
+      "duration": 22
+    },
+    {
+      "voice": "Por eso muchos médicos prefieren suplementar a dosis fisiológicas durante un mes y observar respuesta clínica antes que pedir analíticas confusas. Si tras un mes de magnesio glicinato duermes mejor y no tienes calambres, había probable déficit. Si no notas nada, lo dejas. La prueba terapéutica es válida con dosis bajas y seguras.",
+      "visual": "person stress relaxation",
+      "duration": 21
+    },
+    {
+      "voice": "Los excesos también existen. Demasiado hierro suplementado en personas sin déficit puede acelerar daño oxidativo. La hemocromatosis genética es más común en el norte de Europa pero también aparece en España. Antes de suplementar hierro de manera crónica conviene saber tu ferritina. Si pasa de 200 nanogramos por mililitro, no toques hierro.",
+      "visual": "fitness workout home",
+      "duration": 20
+    },
+    {
+      "voice": "Las mezclas de multivitamínicos pueden ser un mal trato. Llevan dosis bajas de muchas cosas y casi nada en la dosis efectiva de lo que necesitas. Salvo poblaciones específicas como embarazadas o ancianos con dieta pobre, un multivitamínico genérico tiene poco impacto. Mejor identificar tu déficit real y suplementar dirigido.",
+      "visual": "healthy senior active",
+      "duration": 20
+    },
+    {
+      "voice": "Las pastillas de calcio merecen mención aparte. La suplementación con calcio sin vitamina D y vitamina K2 no es buena idea. Estudios de Mark Bolland en Auckland sugirieron que el calcio aislado podía aumentar calcificación arterial. Mejor obtener calcio de la dieta vía lácteos, sardinas con espina, almendras, espinacas. Si suplementas, combina con K2.",
+      "visual": "nutritionist food healthy",
+      "duration": 21
+    },
+    {
+      "voice": "El potasio es otro mineral con relevancia que casi nadie suplementa, aunque la mayoría tomamos poco. La OMS recomienda 3500 miligramos al día y el consumo medio español está bastante por debajo. La fruta, las verduras, las legumbres y las patatas tienen mucho potasio. Si tu dieta es occidental clásica con poco vegetal, este es el primer ajuste antes de minerales caros.",
+      "visual": "wellness spa relaxation",
+      "duration": 24
+    },
+    {
+      "voice": "Cuando el médico te receta un mineral, sigue las instrucciones. Por ejemplo, los protocolos de hierro a veces son a días alternos, no diario. Estudios de Diego Moretti en Zúrich encontraron que el hierro a días alternos se absorbe mejor que el diario porque el sulfato diario sube la hepcidina, que bloquea absorción al día siguiente. Menos es más en este caso.",
+      "visual": "scientific study brain",
+      "duration": 24
+    },
+    {
+      "voice": "Algo que aprendí leyendo a Chris Masterjohn. El cobre está en muchos alimentos básicos como hígado, cacao, semillas y frutos secos. Si comes variado, no te falta. Pero si llevas años con dieta baja en estos alimentos y suplementación crónica de zinc, puede aparecer deficiencia silente. Síntomas tempranos son fatiga, palidez y problemas de equilibrio.",
+      "visual": "person walking nature",
+      "duration": 22
+    },
+    {
+      "voice": "El boro es un mineral menor pero relevante para huesos y articulaciones. Tres miligramos al día parecen mejorar la utilización del calcio y la vitamina D. La fruta deshidratada, las legumbres y los aguacates lo aportan. No requiere suplementación habitual si la dieta es decente. Pero conviene saber que existe y juega un papel.",
+      "visual": "vitamin supplements natural",
+      "duration": 21
+    },
+    {
+      "voice": "El yodo está en sal yodada en España, pero muchas personas evitan la sal y no compensan con otra fuente. El pescado, los lácteos y las algas son las principales. Un déficit silente de yodo afecta la tiroides. La OMS recomienda revisar yodo urinario en mujeres en edad fértil porque su demanda sube en embarazo y la deficiencia gestacional afecta al neurodesarrollo del bebé.",
+      "visual": "anti aging skincare",
+      "duration": 25
+    },
+    {
+      "voice": "Lo que probé y vale la pena replicar. Una analítica completa cada año con ferritina, vitamina D, B12, magnesio eritrocitario si es posible, y zinc. Cuesta entre 50 y 100 euros en privado si la pública no la cubre. Es el mejor mapa de tu salud micronutricional. Y guías la suplementación con datos en lugar de moda.",
+      "visual": "healthy cooking kitchen",
+      "duration": 22
+    },
+    {
+      "voice": "Para terminar. La suplementación de minerales es una herramienta. No es identidad ni ritual mágico. Si comes una dieta variada con pescado, legumbres, frutos secos, verduras y fruta, probablemente solo necesites magnesio en momentos puntuales y vitamina D en invierno. El resto suele ser exceso de marketing y poca evidencia individualizada.",
+      "visual": "healthy breakfast plate",
+      "duration": 20
+    },
+    {
+      "voice": "Suscríbete a VidaSana360 y dale a la campana. Lo que viene la próxima semana es un repaso de los ejercicios de 10 minutos que sí cambian tu cuerpo, basado en estudios de fisiología del ejercicio.",
+      "visual": "fresh vegetables wooden table",
+      "duration": 20
+    }
+  ],
+  "duration_estimate_seconds": 1340,
+  "thumbnail_text": "3 MINERALES QUE"
 }

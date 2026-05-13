@@ -1,30 +1,131 @@
 {
   "title": "The Texarkana Phantom Killer: 1946 📁",
   "segments": [
-    "In the spring of 1946, a hooded attacker terrorized the city of Texarkana, on the Texas-Arkansas state line. He attacked five couples in remote areas — usually parked cars — over a period of about 10 weeks. Eight people were attacked. Five were killed. The Phantom Killer was never identified.",
-    "The first attack happened on February 22, 1946. Jimmy Hollis and Mary Larey were parked on a lovers' lane outside Texarkana when a man in a white pillowcase mask approached the vehicle. He pistol-whipped Hollis and assaulted Larey. Both survived.",
-    "Larey gave investigators a description. The attacker was tall, masked, calm, and methodical. He spoke with what she described as a Southern accent. He used a particular firearm — a .32 caliber pistol.",
-    "On March 24, 1946, Richard Griffin and Polly Ann Moore were killed in a parked car about 100 yards off Highway 67. They had been shot at close range. The killer had taken something from each — a personal item from Moore and Griffin's wallet.",
-    "By this point Texarkana police were on alert. Bowie County Sheriff Bill Presley led the response. He requested help from the Texas Rangers. The Rangers sent Captain Manuel T. Gonzaullas, a legendary investigator known as the Lone Wolf.",
-    "Gonzaullas became the central figure in the public memory of the Phantom Killer case. He gave press interviews. He coordinated patrol efforts. He worked night shifts personally on the highways outside Texarkana.",
-    "On April 14, 1946, Paul Martin and Betty Jo Booker were killed near Spring Lake Park. Martin had been shot four times. Booker had been shot through the heart. Their bodies were found roughly two miles apart.",
-    "The killer's pattern had grown more aggressive. He was attacking earlier in the evening. He was choosing isolated areas where couples regularly parked. He was killing rather than merely assaulting.",
-    "Texarkana itself effectively shut down at night. Local hardware stores sold out of locks. Theaters posted curfews. Residents stopped driving on country roads after dark. National media coverage drew comparisons to the panic created by Jack the Ripper in Whitechapel.",
-    "Here's where the case took its strangest turn. On May 3, 1946, the killer struck inside a home rather than a parked car. Virgil and Katie Starks were attacked at their farmhouse on Highway 67, ten miles from Texarkana. Virgil was killed at his window. Katie was shot but survived.",
-    "Katie Starks ran to a neighbor's house through the woods. She gave police a description that matched Larey's — a tall, calm man, methodical in his violence. The Starks attack changed the investigation. The Phantom was not limited to lovers' lanes.",
-    "Texas Ranger Captain Gonzaullas implemented a controversial strategy. He published reports of decoy patrols using young Rangers in parked cars in Texarkana lovers' lanes. The strategy was meant to draw the killer out.",
-    "After the Starks attack on May 3, 1946, the Phantom Killer disappeared from the historical record. There were no more attacks fitting the pattern. The killings ended as suddenly as they had begun.",
-    "The leading suspect at the time was Youell Swinney, a 29-year-old Texarkana car thief. He was arrested on unrelated theft charges in July 1946. His wife, Peggy Swinney, gave police a detailed statement implicating him in the Phantom killings.",
-    "Peggy's statement included specific details about the Booker and Martin killings — details consistent with crime-scene evidence not publicly released. Her testimony was, however, legally problematic. As Swinney's wife she could not be compelled to testify, and her statement contained inconsistencies.",
-    "Without a usable witness, prosecutors could not bring murder charges against Swinney. He was instead convicted of car theft and sentenced to life under Texas habitual offender laws. He served until 1973 when he was released on appeal.",
-    "Swinney died in 1994. Investigators close to the case, including Texas Ranger Glenn Cunningham, believed Swinney was the Phantom Killer. The Bowie County Sheriff's department accepts that as the most plausible interpretation.",
-    "The case has been formally unsolved since 1946. Modern researchers including James Presley — Bill Presley's grandnephew — have published extensive analysis. Presley's book 'The Phantom Killer' argues for Swinney's guilt with detailed reference to the original Bowie County files.",
-    "DNA evidence does not exist from the case. The .32 caliber bullets recovered from the scenes were preserved but cannot match Swinney definitively. The original masks and clothing referenced by survivors were never recovered.",
-    "Texarkana itself preserves the memory of the case quietly. The 1976 film 'The Town That Dreaded Sundown' dramatized the killings. Each Halloween in Texarkana, a free outdoor screening of the film is held — a kind of communal acknowledgment.",
-    "Spring Lake Park, where Martin and Booker were killed, still exists. The exact spots where the attacks happened are not marked. Local historians know the locations. They have generally chosen not to publicize them out of respect for the victims' families.",
-    "The Bowie County Sheriff's Department maintains the original 1946 case files. Researchers can request access through the standard county records process. The Texas Ranger Hall of Fame in Waco also holds Captain Gonzaullas's personal investigation notes.",
-    "The Phantom Killer case is part of standard Texas Ranger training history. It is studied as a case where local panic, jurisdictional cooperation, and a specific suspect aligned but where prosecutorial constraints prevented closure.",
-    "If you are descended from a Texarkana resident who disappeared or who knew someone tied to the 1946 events, the Bowie County Sheriff's Department continues to accept genealogical and biographical information for the case file.",
-    "Subscribe to DarkFiles and hit the bell. Next week's case goes deeper into a German doctor in 1920s Hanover whose victims were dismembered and disposed of in a way that shocked Weimar Germany."
-  ]
+    {
+      "voice": "In the spring of 1946, a hooded attacker terrorized the city of Texarkana, on the Texas-Arkansas state line. He attacked five couples in remote areas — usually parked cars — over a period of about 10 weeks. Eight people were attacked. Five were killed. The Phantom Killer was never identified.",
+      "visual": "crime scene investigation",
+      "duration": 20
+    },
+    {
+      "voice": "The first attack happened on February 22, 1946. Jimmy Hollis and Mary Larey were parked on a lovers' lane outside Texarkana when a man in a white pillowcase mask approached the vehicle. He pistol-whipped Hollis and assaulted Larey. Both survived.",
+      "visual": "detective board evidence",
+      "duration": 20
+    },
+    {
+      "voice": "Larey gave investigators a description. The attacker was tall, masked, calm, and methodical. He spoke with what she described as a Southern accent. He used a particular firearm — a .32 caliber pistol.",
+      "visual": "old newspaper article",
+      "duration": 20
+    },
+    {
+      "voice": "On March 24, 1946, Richard Griffin and Polly Ann Moore were killed in a parked car about 100 yards off Highway 67. They had been shot at close range. The killer had taken something from each — a personal item from Moore and Griffin's wallet.",
+      "visual": "missing person flyer",
+      "duration": 20
+    },
+    {
+      "voice": "By this point Texarkana police were on alert. Bowie County Sheriff Bill Presley led the response. He requested help from the Texas Rangers. The Rangers sent Captain Manuel T. Gonzaullas, a legendary investigator known as the Lone Wolf.",
+      "visual": "police investigation files",
+      "duration": 20
+    },
+    {
+      "voice": "Gonzaullas became the central figure in the public memory of the Phantom Killer case. He gave press interviews. He coordinated patrol efforts. He worked night shifts personally on the highways outside Texarkana.",
+      "visual": "forensic lab analysis",
+      "duration": 20
+    },
+    {
+      "voice": "On April 14, 1946, Paul Martin and Betty Jo Booker were killed near Spring Lake Park. Martin had been shot four times. Booker had been shot through the heart. Their bodies were found roughly two miles apart.",
+      "visual": "abandoned building night",
+      "duration": 20
+    },
+    {
+      "voice": "The killer's pattern had grown more aggressive. He was attacking earlier in the evening. He was choosing isolated areas where couples regularly parked. He was killing rather than merely assaulting.",
+      "visual": "rural road night",
+      "duration": 20
+    },
+    {
+      "voice": "Texarkana itself effectively shut down at night. Local hardware stores sold out of locks. Theaters posted curfews. Residents stopped driving on country roads after dark. National media coverage drew comparisons to the panic created by Jack the Ripper in Whitechapel.",
+      "visual": "courthouse exterior",
+      "duration": 20
+    },
+    {
+      "voice": "Here's where the case took its strangest turn. On May 3, 1946, the killer struck inside a home rather than a parked car. Virgil and Katie Starks were attacked at their farmhouse on Highway 67, ten miles from Texarkana. Virgil was killed at his window. Katie was shot but survived.",
+      "visual": "vintage photograph",
+      "duration": 20
+    },
+    {
+      "voice": "Katie Starks ran to a neighbor's house through the woods. She gave police a description that matched Larey's — a tall, calm man, methodical in his violence. The Starks attack changed the investigation. The Phantom was not limited to lovers' lanes.",
+      "visual": "fbi case files",
+      "duration": 20
+    },
+    {
+      "voice": "Texas Ranger Captain Gonzaullas implemented a controversial strategy. He published reports of decoy patrols using young Rangers in parked cars in Texarkana lovers' lanes. The strategy was meant to draw the killer out.",
+      "visual": "evidence bag tape",
+      "duration": 20
+    },
+    {
+      "voice": "After the Starks attack on May 3, 1946, the Phantom Killer disappeared from the historical record. There were no more attacks fitting the pattern. The killings ended as suddenly as they had begun.",
+      "visual": "interrogation room",
+      "duration": 20
+    },
+    {
+      "voice": "The leading suspect at the time was Youell Swinney, a 29-year-old Texarkana car thief. He was arrested on unrelated theft charges in July 1946. His wife, Peggy Swinney, gave police a detailed statement implicating him in the Phantom killings.",
+      "visual": "darkroom flashlight investigation",
+      "duration": 20
+    },
+    {
+      "voice": "Peggy's statement included specific details about the Booker and Martin killings — details consistent with crime-scene evidence not publicly released. Her testimony was, however, legally problematic. As Swinney's wife she could not be compelled to testify, and her statement contained inconsistencies.",
+      "visual": "vintage typewriter notes",
+      "duration": 20
+    },
+    {
+      "voice": "Without a usable witness, prosecutors could not bring murder charges against Swinney. He was instead convicted of car theft and sentenced to life under Texas habitual offender laws. He served until 1973 when he was released on appeal.",
+      "visual": "cold case archive",
+      "duration": 20
+    },
+    {
+      "voice": "Swinney died in 1994. Investigators close to the case, including Texas Ranger Glenn Cunningham, believed Swinney was the Phantom Killer. The Bowie County Sheriff's department accepts that as the most plausible interpretation.",
+      "visual": "missing person search",
+      "duration": 20
+    },
+    {
+      "voice": "The case has been formally unsolved since 1946. Modern researchers including James Presley — Bill Presley's grandnephew — have published extensive analysis. Presley's book 'The Phantom Killer' argues for Swinney's guilt with detailed reference to the original Bowie County files.",
+      "visual": "police badge close up",
+      "duration": 20
+    },
+    {
+      "voice": "DNA evidence does not exist from the case. The .32 caliber bullets recovered from the scenes were preserved but cannot match Swinney definitively. The original masks and clothing referenced by survivors were never recovered.",
+      "visual": "crime scene tape yellow",
+      "duration": 20
+    },
+    {
+      "voice": "Texarkana itself preserves the memory of the case quietly. The 1976 film 'The Town That Dreaded Sundown' dramatized the killings. Each Halloween in Texarkana, a free outdoor screening of the film is held — a kind of communal acknowledgment.",
+      "visual": "old phone receiver",
+      "duration": 20
+    },
+    {
+      "voice": "Spring Lake Park, where Martin and Booker were killed, still exists. The exact spots where the attacks happened are not marked. Local historians know the locations. They have generally chosen not to publicize them out of respect for the victims' families.",
+      "visual": "investigator notebook",
+      "duration": 20
+    },
+    {
+      "voice": "The Bowie County Sheriff's Department maintains the original 1946 case files. Researchers can request access through the standard county records process. The Texas Ranger Hall of Fame in Waco also holds Captain Gonzaullas's personal investigation notes.",
+      "visual": "evidence photograph wall",
+      "duration": 20
+    },
+    {
+      "voice": "The Phantom Killer case is part of standard Texas Ranger training history. It is studied as a case where local panic, jurisdictional cooperation, and a specific suspect aligned but where prosecutorial constraints prevented closure.",
+      "visual": "darkened forest clue",
+      "duration": 20
+    },
+    {
+      "voice": "If you are descended from a Texarkana resident who disappeared or who knew someone tied to the 1946 events, the Bowie County Sheriff's Department continues to accept genealogical and biographical information for the case file.",
+      "visual": "vintage clock tower",
+      "duration": 20
+    },
+    {
+      "voice": "Subscribe to DarkFiles and hit the bell. Next week's case goes deeper into a German doctor in 1920s Hanover whose victims were dismembered and disposed of in a way that shocked Weimar Germany.",
+      "visual": "old map markings",
+      "duration": 20
+    }
+  ],
+  "thumbnail_text": "THE TEXARKANA PHANTO"
 }

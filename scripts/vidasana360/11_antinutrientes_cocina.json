@@ -1,36 +1,155 @@
 {
   "title": "🌿 Antinutrientes y cómo neutralizarlos al cocinar",
   "description": "Fitatos, lectinas, oxalatos. Qué son los antinutrientes, cómo afectan la absorción y técnicas tradicionales para reducirlos al cocinar.",
-  "tags": ["antinutrientes", "cocina", "legumbres", "salud", "nutrición"],
-  "segments": [
-    "Cuando comes legumbres, cereales integrales y frutos secos no estás absorbiendo el cien por cien de sus nutrientes. Hay unas moléculas llamadas antinutrientes que reducen la biodisponibilidad de minerales y proteínas. Y aunque suenan amenazadoras, no son veneno. Solo requieren saber cocinar bien para minimizar su efecto. Las abuelas españolas llevaban siglos haciéndolo sin saber el nombre. Hoy ponemos orden con datos reales.",
-    "El primer antinutriente importante son los fitatos. Están en el salvado del cereal, en las legumbres, en frutos secos y semillas. Su función natural es proteger al grano y fijar minerales para la futura germinación. El problema es que en el intestino humano se unen al hierro, zinc, calcio y magnesio, reduciendo su absorción hasta en un 50 por ciento.",
-    "Pero hay un detalle crucial. La presencia constante de fitatos en una dieta variada y bien preparada no causa déficits clínicamente relevantes en personas sanas. Los problemas aparecen cuando una dieta se basa exclusivamente en cereales sin procesar bien y sin diversidad. Las poblaciones rurales asiáticas con dietas casi exclusivamente de arroz integral mal preparado sí desarrollaban deficiencias.",
-    "El truco para reducir fitatos es el remojo prolongado. Las legumbres remojadas durante 12 a 24 horas pierden entre el 30 y el 50 por ciento del contenido de fitatos. Cambiar el agua una o dos veces durante el remojo aumenta la efectividad. Las abuelas españolas dejaban garbanzos en remojo desde la noche anterior. No era solo cuestión de ablandar.",
-    "La cocción en olla a presión también reduce fitatos. Trabajos del CSIC en Granada han mostrado reducciones del 40 al 50 por ciento tras cocción a presión durante 30 minutos. La olla rápida no solo ahorra energía. También mejora el perfil nutricional. Combina remojo más cocción a presión y dejas los fitatos en niveles muy bajos.",
-    "La fermentación es la técnica más potente. La masa madre fermentada de pan reduce fitatos hasta en un 90 por ciento gracias a la actividad de las fitasas, enzimas que producen las bacterias del fermento. El pan industrial con levadura rápida no logra esa reducción. Por eso un pan de masa madre real es nutricionalmente superior al pan blanco aunque ambos sean trigo.",
-    "Las lectinas son el segundo grupo. Proteínas que se unen a carbohidratos en la pared intestinal. Algunas son inofensivas. Otras como la fitohemaglutinina del frijol crudo pueden ser tóxicas en cantidades elevadas. La buena noticia es que la cocción adecuada las destruye casi por completo. Diez minutos de hervor a más de 90 grados eliminan la actividad lectínica peligrosa.",
-    "El error histórico. Cocinar judías en olla de cocción lenta a baja temperatura sin hervor previo. Los slow cookers con temperatura inferior a 80 grados pueden no destruir las lectinas. La FDA documentó intoxicaciones en Estados Unidos por este uso. La regla es siempre hervir las legumbres durante al menos diez minutos antes de pasar a cocción lenta. Sentido común antiguo.",
-    "La harina de garbanzos cruda es un error parecido. Se ha popularizado en recetas crudiveganas la harina de garbanzo sin cocinar. Esto puede causar molestias digestivas importantes. Cuando elabores bizcochos o crepes con esta harina, asegúrate de que la cocción es suficientemente prolongada. Los falafel deben freírse o hornearse a temperatura adecuada. No improvises con cremas crudas.",
-    "Lo que probé yo durante un mes. Cambié las legumbres en lata por legumbres a granel con remojo de 24 horas y cocción en olla rápida. Las molestias digestivas que tenía después de cada plato de garbanzos desaparecieron. La explicación. Las legumbres en lata suelen estar poco remojadas y la conserva añade sodio. Las preparadas en casa permiten control total.",
-    "Los oxalatos son otro grupo a conocer. Están en espinacas, acelgas, ruibarbo, almendras, té y chocolate. Se unen al calcio y reducen su absorción. En personas predispuestas pueden formar piedras renales de oxalato cálcico. Pero en personas sin predisposición y con buena hidratación, los oxalatos no son peligrosos a niveles dietéticos normales.",
-    "El truco con los oxalatos es hervir las verduras y desechar el agua. Hasta un 50 por ciento se elimina así, según trabajos de Linda Massey en Washington State University. Las espinacas blanqueadas en agua hirviendo tienen menos oxalatos que las crudas. Y combinar verduras con oxalato con lácteos o pescado pequeño reduce absorción intestinal de los oxalatos.",
-    "Aquí está el truco mediterráneo. Comer espinacas con leche o con queso, o las acelgas con sardinas, no es solo gastronomía. Es absorción de calcio que neutraliza el oxalato. Las recetas tradicionales que combinan estos alimentos por sabor llevan siglos siendo nutricionalmente correctas sin saberlo formalmente.",
-    "Los inhibidores de la tripsina son el cuarto grupo. Están en soja cruda y otras legumbres. Bloquean enzimas digestivas y reducen absorción de proteínas. La cocción a temperatura adecuada los desactiva casi por completo. Por eso la soja se consume tradicionalmente fermentada como tofu, miso o tempeh. La cocina asiática lleva milenios procesando estos antinutrientes con sabiduría.",
-    "Los taninos del té son un caso interesante. Reducen la absorción de hierro hasta en un 60 por ciento si tomas el té junto con la comida. Para personas con anemia ferropénica, este es un detalle importante. Separar el té al menos una hora de las comidas resuelve el problema. La infusión sigue siendo saludable, solo hay que organizar el momento.",
-    "Los glucosinolatos en crucíferas como brócoli, coliflor y col son interesantes. En grandes cantidades pueden afectar la tiroides en personas con déficit de yodo. La cocción los reduce. Pero los compuestos de azufre que se forman al cocinar crucíferas son antiinflamatorios y antitumorales según trabajos de Jed Fahey en Johns Hopkins. La balanza global es muy positiva.",
-    "Algo curioso. Las personas con tiroides normal y consumo adecuado de yodo pueden comer todo el brócoli que quieran sin riesgo. Solo en regiones con déficit endémico de yodo, como el Pirineo histórico o algunas zonas alpinas de hace décadas, podía haber problemas. La sal yodada moderna ha eliminado este riesgo para la población general española.",
-    "El gluten merece párrafo aparte. No es estrictamente antinutriente, pero genera problemas reales en celíacos, no celíacos con sensibilidad y personas con dermatitis herpetiforme. Para los demás, el gluten es proteína sin más. La fermentación larga del pan reduce la cantidad de gluten activo. Por eso muchas personas con sensibilidad leve toleran panes de masa madre real mejor que panes industriales.",
-    "Las saponinas en quinoa son el motivo por el que la quinoa amarga si no se enjuaga bien. Se eliminan con un lavado abundante antes de cocinar. La quinoa que viene ya prelavada en el supermercado normalmente no requiere mucho enjuague extra, pero un aclarado rápido bajo el grifo durante 30 segundos es buena práctica. El sabor mejora también.",
-    "El procesamiento moderno de alimentos a veces ignora estos pasos. Los cereales integrales del supermercado suelen tener fitatos altos porque se han procesado sin remojo previo. Por eso los productos integrales no siempre son nutricionalmente superiores al refinado, especialmente si se consumen sin compañía de otros alimentos que aporten minerales suficientes.",
-    "Cuidado con las dietas populares que prohíben todo lo que tenga antinutrientes. La dieta carnívora que elimina vegetales completamente o la dieta del doctor Steven Gundry contra las lectinas son extremas. Eliminan grupos de alimentos sin justificación científica para la mayoría. Y empobrecen la microbiota intestinal a largo plazo. La fibra vegetal es esencial para el microbioma.",
-    "Lo que sí merece atención es la individualización. Personas con síndrome de intestino irritable, con sensibilidad a FODMAPs o con autoinmunidad activa pueden notar mejorías reduciendo temporalmente ciertos antinutrientes. Pero esto debe ser supervisado por dietista especializado. No es protocolo general para todos. La personalización es la clave de la nutrición funcional moderna.",
-    "Algo que aprendí cocinando con la abuela. Las legumbres con bicarbonato en el remojo aceleran la cocción y mejoran la digestibilidad. Una cucharadita de bicarbonato por cada kilo de legumbre. Reduce la formación de gases y disminuye fitatos un poco más. Pero ojo. Demasiado bicarbonato altera el sabor y reduce vitaminas del grupo B. La dosis correcta es pequeña.",
-    "El germinado eleva las legumbres y los cereales a otra liga nutricional. Un brote de tres días aumenta la disponibilidad de proteína, reduce antinutrientes a la mitad y multiplica las vitaminas del grupo B. Los garbanzos germinados, las lentejas brotadas o los brotes de alfalfa son ejemplos prácticos. No requieren equipos caros, solo un tarro y agua.",
-    "Para terminar. Los antinutrientes no son veneno. Son parte natural del alimento. La cocción tradicional con remojo, fermentación, cocción a presión y combinaciones inteligentes reduce su efecto a niveles inocuos en una dieta variada. La sabiduría culinaria heredada en España no es casualidad. Es siglos de prueba y error transformados en recetas funcionales.",
-    "Para personas vegetarianas o veganas, este conocimiento es especialmente útil. Una dieta de base vegetal cubre proteínas, hierro y zinc si se sabe procesar bien legumbres y cereales. Si se descuida, aparecen déficits silenciosos. Combinar legumbres con cereales en la misma comida, como arroz con lentejas, mejora el aprovechamiento de los aminoácidos y compensa parte del efecto de los fitatos sobre minerales.",
-    "Algo extra. La vitamina C en la misma comida que el hierro vegetal aumenta la absorción hasta un cuatro por ciento. Una ensalada de pimiento rojo crudo junto a las lentejas o un kiwi de postre tras los garbanzos hace mucho más por tu hierro que cualquier suplemento de marketing. La cocina tradicional española combinaba estos alimentos por sabor y resulta que la fisiología lo agradece.",
-    "Suscríbete a VidaSana360 y dale a la campana. Lo que viene la próxima semana es un análisis sobre la creatina para mujeres mayores de 40, sus beneficios reales y dosis óptimas según la última investigación."
+  "tags": [
+    "antinutrientes",
+    "cocina",
+    "legumbres",
+    "salud",
+    "nutrición"
   ],
-  "duration_estimate_seconds": 1340
+  "segments": [
+    {
+      "voice": "Cuando comes legumbres, cereales integrales y frutos secos no estás absorbiendo el cien por cien de sus nutrientes. Hay unas moléculas llamadas antinutrientes que reducen la biodisponibilidad de minerales y proteínas. Y aunque suenan amenazadoras, no son veneno. Solo requieren saber cocinar bien para minimizar su efecto. Las abuelas españolas llevaban siglos haciéndolo sin saber el nombre. Hoy ponemos orden con datos reales.",
+      "visual": "healthy breakfast plate",
+      "duration": 25
+    },
+    {
+      "voice": "El primer antinutriente importante son los fitatos. Están en el salvado del cereal, en las legumbres, en frutos secos y semillas. Su función natural es proteger al grano y fijar minerales para la futura germinación. El problema es que en el intestino humano se unen al hierro, zinc, calcio y magnesio, reduciendo su absorción hasta en un 50 por ciento.",
+      "visual": "fresh vegetables wooden table",
+      "duration": 24
+    },
+    {
+      "voice": "Pero hay un detalle crucial. La presencia constante de fitatos en una dieta variada y bien preparada no causa déficits clínicamente relevantes en personas sanas. Los problemas aparecen cuando una dieta se basa exclusivamente en cereales sin procesar bien y sin diversidad. Las poblaciones rurales asiáticas con dietas casi exclusivamente de arroz integral mal preparado sí desarrollaban deficiencias.",
+      "visual": "person meditation morning",
+      "duration": 23
+    },
+    {
+      "voice": "El truco para reducir fitatos es el remojo prolongado. Las legumbres remojadas durante 12 a 24 horas pierden entre el 30 y el 50 por ciento del contenido de fitatos. Cambiar el agua una o dos veces durante el remojo aumenta la efectividad. Las abuelas españolas dejaban garbanzos en remojo desde la noche anterior. No era solo cuestión de ablandar.",
+      "visual": "wellness fitness routine",
+      "duration": 24
+    },
+    {
+      "voice": "La cocción en olla a presión también reduce fitatos. Trabajos del CSIC en Granada han mostrado reducciones del 40 al 50 por ciento tras cocción a presión durante 30 minutos. La olla rápida no solo ahorra energía. También mejora el perfil nutricional. Combina remojo más cocción a presión y dejas los fitatos en niveles muy bajos.",
+      "visual": "fresh fruit smoothie",
+      "duration": 22
+    },
+    {
+      "voice": "La fermentación es la técnica más potente. La masa madre fermentada de pan reduce fitatos hasta en un 90 por ciento gracias a la actividad de las fitasas, enzimas que producen las bacterias del fermento. El pan industrial con levadura rápida no logra esa reducción. Por eso un pan de masa madre real es nutricionalmente superior al pan blanco aunque ambos sean trigo.",
+      "visual": "person exercising home",
+      "duration": 25
+    },
+    {
+      "voice": "Las lectinas son el segundo grupo. Proteínas que se unen a carbohidratos en la pared intestinal. Algunas son inofensivas. Otras como la fitohemaglutinina del frijol crudo pueden ser tóxicas en cantidades elevadas. La buena noticia es que la cocción adecuada las destruye casi por completo. Diez minutos de hervor a más de 90 grados eliminan la actividad lectínica peligrosa.",
+      "visual": "doctor patient consultation",
+      "duration": 23
+    },
+    {
+      "voice": "El error histórico. Cocinar judías en olla de cocción lenta a baja temperatura sin hervor previo. Los slow cookers con temperatura inferior a 80 grados pueden no destruir las lectinas. La FDA documentó intoxicaciones en Estados Unidos por este uso. La regla es siempre hervir las legumbres durante al menos diez minutos antes de pasar a cocción lenta. Sentido común antiguo.",
+      "visual": "scientific lab research",
+      "duration": 24
+    },
+    {
+      "voice": "La harina de garbanzos cruda es un error parecido. Se ha popularizado en recetas crudiveganas la harina de garbanzo sin cocinar. Esto puede causar molestias digestivas importantes. Cuando elabores bizcochos o crepes con esta harina, asegúrate de que la cocción es suficientemente prolongada. Los falafel deben freírse o hornearse a temperatura adecuada. No improvises con cremas crudas.",
+      "visual": "natural food cooking",
+      "duration": 22
+    },
+    {
+      "voice": "Lo que probé yo durante un mes. Cambié las legumbres en lata por legumbres a granel con remojo de 24 horas y cocción en olla rápida. Las molestias digestivas que tenía después de cada plato de garbanzos desaparecieron. La explicación. Las legumbres en lata suelen estar poco remojadas y la conserva añade sodio. Las preparadas en casa permiten control total.",
+      "visual": "person sleeping peaceful",
+      "duration": 24
+    },
+    {
+      "voice": "Los oxalatos son otro grupo a conocer. Están en espinacas, acelgas, ruibarbo, almendras, té y chocolate. Se unen al calcio y reducen su absorción. En personas predispuestas pueden formar piedras renales de oxalato cálcico. Pero en personas sin predisposición y con buena hidratación, los oxalatos no son peligrosos a niveles dietéticos normales.",
+      "visual": "yoga stretching wellness",
+      "duration": 20
+    },
+    {
+      "voice": "El truco con los oxalatos es hervir las verduras y desechar el agua. Hasta un 50 por ciento se elimina así, según trabajos de Linda Massey en Washington State University. Las espinacas blanqueadas en agua hirviendo tienen menos oxalatos que las crudas. Y combinar verduras con oxalato con lácteos o pescado pequeño reduce absorción intestinal de los oxalatos.",
+      "visual": "fresh herbs spices",
+      "duration": 23
+    },
+    {
+      "voice": "Aquí está el truco mediterráneo. Comer espinacas con leche o con queso, o las acelgas con sardinas, no es solo gastronomía. Es absorción de calcio que neutraliza el oxalato. Las recetas tradicionales que combinan estos alimentos por sabor llevan siglos siendo nutricionalmente correctas sin saberlo formalmente.",
+      "visual": "healthy lifestyle outdoor",
+      "duration": 20
+    },
+    {
+      "voice": "Los inhibidores de la tripsina son el cuarto grupo. Están en soja cruda y otras legumbres. Bloquean enzimas digestivas y reducen absorción de proteínas. La cocción a temperatura adecuada los desactiva casi por completo. Por eso la soja se consume tradicionalmente fermentada como tofu, miso o tempeh. La cocina asiática lleva milenios procesando estos antinutrientes con sabiduría.",
+      "visual": "person hydration water",
+      "duration": 22
+    },
+    {
+      "voice": "Los taninos del té son un caso interesante. Reducen la absorción de hierro hasta en un 60 por ciento si tomas el té junto con la comida. Para personas con anemia ferropénica, este es un detalle importante. Separar el té al menos una hora de las comidas resuelve el problema. La infusión sigue siendo saludable, solo hay que organizar el momento.",
+      "visual": "balanced nutrition diet",
+      "duration": 24
+    },
+    {
+      "voice": "Los glucosinolatos en crucíferas como brócoli, coliflor y col son interesantes. En grandes cantidades pueden afectar la tiroides en personas con déficit de yodo. La cocción los reduce. Pero los compuestos de azufre que se forman al cocinar crucíferas son antiinflamatorios y antitumorales según trabajos de Jed Fahey en Johns Hopkins. La balanza global es muy positiva.",
+      "visual": "person stress relaxation",
+      "duration": 22
+    },
+    {
+      "voice": "Algo curioso. Las personas con tiroides normal y consumo adecuado de yodo pueden comer todo el brócoli que quieran sin riesgo. Solo en regiones con déficit endémico de yodo, como el Pirineo histórico o algunas zonas alpinas de hace décadas, podía haber problemas. La sal yodada moderna ha eliminado este riesgo para la población general española.",
+      "visual": "fitness workout home",
+      "duration": 22
+    },
+    {
+      "voice": "El gluten merece párrafo aparte. No es estrictamente antinutriente, pero genera problemas reales en celíacos, no celíacos con sensibilidad y personas con dermatitis herpetiforme. Para los demás, el gluten es proteína sin más. La fermentación larga del pan reduce la cantidad de gluten activo. Por eso muchas personas con sensibilidad leve toleran panes de masa madre real mejor que panes industriales.",
+      "visual": "healthy senior active",
+      "duration": 24
+    },
+    {
+      "voice": "Las saponinas en quinoa son el motivo por el que la quinoa amarga si no se enjuaga bien. Se eliminan con un lavado abundante antes de cocinar. La quinoa que viene ya prelavada en el supermercado normalmente no requiere mucho enjuague extra, pero un aclarado rápido bajo el grifo durante 30 segundos es buena práctica. El sabor mejora también.",
+      "visual": "nutritionist food healthy",
+      "duration": 23
+    },
+    {
+      "voice": "El procesamiento moderno de alimentos a veces ignora estos pasos. Los cereales integrales del supermercado suelen tener fitatos altos porque se han procesado sin remojo previo. Por eso los productos integrales no siempre son nutricionalmente superiores al refinado, especialmente si se consumen sin compañía de otros alimentos que aporten minerales suficientes.",
+      "visual": "wellness spa relaxation",
+      "duration": 20
+    },
+    {
+      "voice": "Cuidado con las dietas populares que prohíben todo lo que tenga antinutrientes. La dieta carnívora que elimina vegetales completamente o la dieta del doctor Steven Gundry contra las lectinas son extremas. Eliminan grupos de alimentos sin justificación científica para la mayoría. Y empobrecen la microbiota intestinal a largo plazo. La fibra vegetal es esencial para el microbioma.",
+      "visual": "scientific study brain",
+      "duration": 22
+    },
+    {
+      "voice": "Lo que sí merece atención es la individualización. Personas con síndrome de intestino irritable, con sensibilidad a FODMAPs o con autoinmunidad activa pueden notar mejorías reduciendo temporalmente ciertos antinutrientes. Pero esto debe ser supervisado por dietista especializado. No es protocolo general para todos. La personalización es la clave de la nutrición funcional moderna.",
+      "visual": "person walking nature",
+      "duration": 21
+    },
+    {
+      "voice": "Algo que aprendí cocinando con la abuela. Las legumbres con bicarbonato en el remojo aceleran la cocción y mejoran la digestibilidad. Una cucharadita de bicarbonato por cada kilo de legumbre. Reduce la formación de gases y disminuye fitatos un poco más. Pero ojo. Demasiado bicarbonato altera el sabor y reduce vitaminas del grupo B. La dosis correcta es pequeña.",
+      "visual": "vitamin supplements natural",
+      "duration": 23
+    },
+    {
+      "voice": "El germinado eleva las legumbres y los cereales a otra liga nutricional. Un brote de tres días aumenta la disponibilidad de proteína, reduce antinutrientes a la mitad y multiplica las vitaminas del grupo B. Los garbanzos germinados, las lentejas brotadas o los brotes de alfalfa son ejemplos prácticos. No requieren equipos caros, solo un tarro y agua.",
+      "visual": "anti aging skincare",
+      "duration": 22
+    },
+    {
+      "voice": "Para terminar. Los antinutrientes no son veneno. Son parte natural del alimento. La cocción tradicional con remojo, fermentación, cocción a presión y combinaciones inteligentes reduce su efecto a niveles inocuos en una dieta variada. La sabiduría culinaria heredada en España no es casualidad. Es siglos de prueba y error transformados en recetas funcionales.",
+      "visual": "healthy cooking kitchen",
+      "duration": 21
+    },
+    {
+      "voice": "Para personas vegetarianas o veganas, este conocimiento es especialmente útil. Una dieta de base vegetal cubre proteínas, hierro y zinc si se sabe procesar bien legumbres y cereales. Si se descuida, aparecen déficits silenciosos. Combinar legumbres con cereales en la misma comida, como arroz con lentejas, mejora el aprovechamiento de los aminoácidos y compensa parte del efecto de los fitatos sobre minerales.",
+      "visual": "healthy breakfast plate",
+      "duration": 24
+    },
+    {
+      "voice": "Algo extra. La vitamina C en la misma comida que el hierro vegetal aumenta la absorción hasta un cuatro por ciento. Una ensalada de pimiento rojo crudo junto a las lentejas o un kiwi de postre tras los garbanzos hace mucho más por tu hierro que cualquier suplemento de marketing. La cocina tradicional española combinaba estos alimentos por sabor y resulta que la fisiología lo agradece.",
+      "visual": "fresh vegetables wooden table",
+      "duration": 26
+    },
+    {
+      "voice": "Suscríbete a VidaSana360 y dale a la campana. Lo que viene la próxima semana es un análisis sobre la creatina para mujeres mayores de 40, sus beneficios reales y dosis óptimas según la última investigación.",
+      "visual": "person meditation morning",
+      "duration": 20
+    }
+  ],
+  "duration_estimate_seconds": 1340,
+  "thumbnail_text": "ANTINUTRIENTES Y CÓM"
 }

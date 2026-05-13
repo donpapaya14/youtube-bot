@@ -1,30 +1,131 @@
 {
   "title": "The Doodler: San Francisco's Unknown Killer 🔍",
   "segments": [
-    "Between January 1974 and September 1975, a serial killer murdered at least five gay men in San Francisco. He sketched his victims before killing them — sometimes in the bars where he met them. Police nicknamed him the Doodler. The case remains one of the longest open serial killer files in California history.",
-    "The first known victim was Gerald Cavanagh, 49, found stabbed in Ocean Beach on January 27, 1974. His body had been arranged in the sand. Investigators initially treated the killing as isolated.",
-    "On June 24, 1974, Joseph Stevens, a young man who had been visiting San Francisco, was found stabbed near Ocean Beach. The proximity of the second body to the first changed the investigation's tone.",
-    "On July 7, 1974, Klaus Christmann, a German national visiting the city, was killed and dumped at the same beach. Three victims in six months. Same general area. Same general method.",
-    "The killer's distinctive habit emerged through witness accounts. Survivors of attempted attacks reported that the man had sketched them in bars or restaurants before approaching them. The sketches were detailed, technically competent, and used as a conversational opener.",
-    "San Francisco Police Department detectives, led by Inspector Earl Sanders, identified at least three survivors who had been with the suspect and lived. Two of them were prominent figures whose names were never publicly released.",
-    "Here's where the case became deeply complicated. The survivors were unwilling to testify in open court. The reasons were specific to San Francisco in 1974 and 1975. Public testimony would have outed them as gay, costing some their jobs and others their families.",
-    "Inspector Sanders pursued the survivors gently. He explained that without their testimony, no prosecution could move forward. They declined. He could only build the case so far.",
-    "On May 12, 1975, the body of Frederick Capin was found at Lincoln Park. He had been stabbed. Witnesses had seen him with a slim, well-spoken Black man earlier that evening.",
-    "On June 4, 1975, Harald Gullberg, a Swedish national, was found at Lincoln Park near where Capin had been killed. The pattern continued. The killer was using public locations frequented by gay men.",
-    "By late 1975, the killings appeared to stop. Inspector Sanders maintained that the survivors he interviewed had described the same man. Their composite sketches matched. A police artist's rendering was published in The Sentinel and The Examiner.",
-    "The composite sketch — published widely in 1975 and again in subsequent decades — shows a slim man, approximately 19 to 25 at the time of the killings, with neat hair and a calm expression. The sketch is one of the most-circulated unsolved-case images in California.",
-    "In 2018, the San Francisco Police Department reopened the Doodler case publicly. They released an updated age-progression composite. They offered a 100,000 dollar reward — funded by the city and the FBI.",
-    "In 2019, retired investigator Sanders gave interviews about the case before his death in 2022. He told reporters he had identified a suspect by name in the 1970s. He said he had spent decades watching the man. He never named him in print.",
-    "Investigators in 2022 confirmed they were pursuing genetic genealogy on items preserved from the original crime scenes. DNA technology unavailable in 1975 has produced partial profiles from clothing fibers and other samples.",
-    "The case is also studied as part of broader analysis of the San Francisco LGBTQ community in the 1970s. The Sentinel newspaper covered the killings extensively. Activists urged caution. The community grappled with both fear and the difficulty of fully cooperating with police given the era's social conditions.",
-    "In 2022, San Francisco police announced that two additional possible victims had been linked to the Doodler — bringing the total to seven. Investigators had reviewed the cases of Warren Andrews, attacked in Lands End in 1975, and another unnamed survivor.",
-    "Andrews never recovered fully from his attack. He died in 1976 from his injuries. His case was reclassified as a homicide and connected to the Doodler series.",
-    "By 2024, the SFPD cold case unit had developed what they described as new investigative leads through forensic genetic genealogy. They have not announced an arrest.",
-    "The case sits at an intersection of forensic science, civil rights history, and patient investigative work. Many of the original survivors have died. Their identities, in most cases, remain protected.",
-    "What remains is the composite sketch. It hangs in the SFPD homicide unit. It has been on the wall for almost 50 years. Inspector Sanders used to point at it and say, 'He's still out there. We have to be patient.'",
-    "Sanders' death in 2022 ended the era of the original investigators. New detectives have taken over the case. They have committed publicly to following the genealogical work to whatever conclusion it produces.",
-    "If you remember anything about the Tenderloin, Castro, or Polk Gulch areas of San Francisco between 1974 and 1976 — particularly any man who routinely sketched patrons in bars and restaurants — the SFPD cold case tip line accepts anonymous information.",
-    "The reward of 100,000 dollars remains active in 2025. The genealogy work continues. Whoever the Doodler is, if he is still alive, he is now in his late 60s or 70s.",
-    "Subscribe to DarkFiles and hit the bell. Next week's case goes deeper into a young woman who vanished from a Vienna train station with her belongings still in the apartment she had just left."
-  ]
+    {
+      "voice": "Between January 1974 and September 1975, a serial killer murdered at least five gay men in San Francisco. He sketched his victims before killing them — sometimes in the bars where he met them. Police nicknamed him the Doodler. The case remains one of the longest open serial killer files in California history.",
+      "visual": "crime scene investigation",
+      "duration": 21
+    },
+    {
+      "voice": "The first known victim was Gerald Cavanagh, 49, found stabbed in Ocean Beach on January 27, 1974. His body had been arranged in the sand. Investigators initially treated the killing as isolated.",
+      "visual": "detective board evidence",
+      "duration": 20
+    },
+    {
+      "voice": "On June 24, 1974, Joseph Stevens, a young man who had been visiting San Francisco, was found stabbed near Ocean Beach. The proximity of the second body to the first changed the investigation's tone.",
+      "visual": "old newspaper article",
+      "duration": 20
+    },
+    {
+      "voice": "On July 7, 1974, Klaus Christmann, a German national visiting the city, was killed and dumped at the same beach. Three victims in six months. Same general area. Same general method.",
+      "visual": "missing person flyer",
+      "duration": 20
+    },
+    {
+      "voice": "The killer's distinctive habit emerged through witness accounts. Survivors of attempted attacks reported that the man had sketched them in bars or restaurants before approaching them. The sketches were detailed, technically competent, and used as a conversational opener.",
+      "visual": "police investigation files",
+      "duration": 20
+    },
+    {
+      "voice": "San Francisco Police Department detectives, led by Inspector Earl Sanders, identified at least three survivors who had been with the suspect and lived. Two of them were prominent figures whose names were never publicly released.",
+      "visual": "forensic lab analysis",
+      "duration": 20
+    },
+    {
+      "voice": "Here's where the case became deeply complicated. The survivors were unwilling to testify in open court. The reasons were specific to San Francisco in 1974 and 1975. Public testimony would have outed them as gay, costing some their jobs and others their families.",
+      "visual": "abandoned building night",
+      "duration": 20
+    },
+    {
+      "voice": "Inspector Sanders pursued the survivors gently. He explained that without their testimony, no prosecution could move forward. They declined. He could only build the case so far.",
+      "visual": "rural road night",
+      "duration": 20
+    },
+    {
+      "voice": "On May 12, 1975, the body of Frederick Capin was found at Lincoln Park. He had been stabbed. Witnesses had seen him with a slim, well-spoken Black man earlier that evening.",
+      "visual": "courthouse exterior",
+      "duration": 20
+    },
+    {
+      "voice": "On June 4, 1975, Harald Gullberg, a Swedish national, was found at Lincoln Park near where Capin had been killed. The pattern continued. The killer was using public locations frequented by gay men.",
+      "visual": "vintage photograph",
+      "duration": 20
+    },
+    {
+      "voice": "By late 1975, the killings appeared to stop. Inspector Sanders maintained that the survivors he interviewed had described the same man. Their composite sketches matched. A police artist's rendering was published in The Sentinel and The Examiner.",
+      "visual": "fbi case files",
+      "duration": 20
+    },
+    {
+      "voice": "The composite sketch — published widely in 1975 and again in subsequent decades — shows a slim man, approximately 19 to 25 at the time of the killings, with neat hair and a calm expression. The sketch is one of the most-circulated unsolved-case images in California.",
+      "visual": "evidence bag tape",
+      "duration": 20
+    },
+    {
+      "voice": "In 2018, the San Francisco Police Department reopened the Doodler case publicly. They released an updated age-progression composite. They offered a 100,000 dollar reward — funded by the city and the FBI.",
+      "visual": "interrogation room",
+      "duration": 20
+    },
+    {
+      "voice": "In 2019, retired investigator Sanders gave interviews about the case before his death in 2022. He told reporters he had identified a suspect by name in the 1970s. He said he had spent decades watching the man. He never named him in print.",
+      "visual": "darkroom flashlight investigation",
+      "duration": 20
+    },
+    {
+      "voice": "Investigators in 2022 confirmed they were pursuing genetic genealogy on items preserved from the original crime scenes. DNA technology unavailable in 1975 has produced partial profiles from clothing fibers and other samples.",
+      "visual": "vintage typewriter notes",
+      "duration": 20
+    },
+    {
+      "voice": "The case is also studied as part of broader analysis of the San Francisco LGBTQ community in the 1970s. The Sentinel newspaper covered the killings extensively. Activists urged caution. The community grappled with both fear and the difficulty of fully cooperating with police given the era's social conditions.",
+      "visual": "cold case archive",
+      "duration": 20
+    },
+    {
+      "voice": "In 2022, San Francisco police announced that two additional possible victims had been linked to the Doodler — bringing the total to seven. Investigators had reviewed the cases of Warren Andrews, attacked in Lands End in 1975, and another unnamed survivor.",
+      "visual": "missing person search",
+      "duration": 20
+    },
+    {
+      "voice": "Andrews never recovered fully from his attack. He died in 1976 from his injuries. His case was reclassified as a homicide and connected to the Doodler series.",
+      "visual": "police badge close up",
+      "duration": 20
+    },
+    {
+      "voice": "By 2024, the SFPD cold case unit had developed what they described as new investigative leads through forensic genetic genealogy. They have not announced an arrest.",
+      "visual": "crime scene tape yellow",
+      "duration": 20
+    },
+    {
+      "voice": "The case sits at an intersection of forensic science, civil rights history, and patient investigative work. Many of the original survivors have died. Their identities, in most cases, remain protected.",
+      "visual": "old phone receiver",
+      "duration": 20
+    },
+    {
+      "voice": "What remains is the composite sketch. It hangs in the SFPD homicide unit. It has been on the wall for almost 50 years. Inspector Sanders used to point at it and say, 'He's still out there. We have to be patient.'",
+      "visual": "investigator notebook",
+      "duration": 20
+    },
+    {
+      "voice": "Sanders' death in 2022 ended the era of the original investigators. New detectives have taken over the case. They have committed publicly to following the genealogical work to whatever conclusion it produces.",
+      "visual": "evidence photograph wall",
+      "duration": 20
+    },
+    {
+      "voice": "If you remember anything about the Tenderloin, Castro, or Polk Gulch areas of San Francisco between 1974 and 1976 — particularly any man who routinely sketched patrons in bars and restaurants — the SFPD cold case tip line accepts anonymous information.",
+      "visual": "darkened forest clue",
+      "duration": 20
+    },
+    {
+      "voice": "The reward of 100,000 dollars remains active in 2025. The genealogy work continues. Whoever the Doodler is, if he is still alive, he is now in his late 60s or 70s.",
+      "visual": "vintage clock tower",
+      "duration": 20
+    },
+    {
+      "voice": "Subscribe to DarkFiles and hit the bell. Next week's case goes deeper into a young woman who vanished from a Vienna train station with her belongings still in the apartment she had just left.",
+      "visual": "old map markings",
+      "duration": 20
+    }
+  ],
+  "thumbnail_text": "THE DOODLER SAN"
 }

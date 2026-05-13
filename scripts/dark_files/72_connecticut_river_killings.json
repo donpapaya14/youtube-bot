@@ -1,30 +1,136 @@
 {
   "title": "Connecticut River Valley Killer: Reopened 📁",
   "segments": [
-    "Between 1978 and 1988, at least seven women were stabbed to death along the Connecticut River Valley. The murders crossed the New Hampshire and Vermont state line. Some bodies were found within a few miles of one another. Most of the victims were nurses or had ties to local hospitals.",
-    "On October 24, 1978, Cathy Millican was found stabbed near a marsh in New London, New Hampshire. She had been birdwatching that morning. The wounds suggested overkill — far more than was needed to cause death.",
-    "Investigators noted the precision of the cuts. They suspected someone with anatomical knowledge — a hunter, a butcher, a medic, or someone with surgical training.",
-    "On May 30, 1981, Mary Elizabeth Critchley was hitchhiking from Massachusetts toward Vermont. Her body was discovered weeks later off Interstate 91 in Unity, New Hampshire. Her cause of death was ruled stabbing.",
-    "Then came a long pause. For seven years, no killings fit the same pattern. Investigators wondered whether the killer had moved, was incarcerated for another crime, or had stopped on his own.",
-    "On July 20, 1984, Bernice Courtemanche disappeared from Newport, New Hampshire after finishing her shift as a nurse's aide. She was 17. Her remains were not found until April 1986 — in Kelleyville, in a remote stretch of woods.",
-    "Investigators began to suspect a serial offender. The targeting of nurses, the stabbing pattern, and the use of secluded river valley sites pointed to someone with intimate local knowledge.",
-    "On July 10, 1985, Ellen Fried, a registered nurse at Claremont General, vanished after a late-night phone call. Her body was found in September 1985. The killer had hidden the remains carefully — much more carefully than in earlier cases.",
-    "January 1986 brought the killing of Eva Morse in Charlestown. Then April 1986: Lynda Moore was attacked inside her home in Saxtons River, Vermont, while her husband was at work. Her killer left fingerprints. None matched any known offender.",
-    "Police circulated the prints for decades through national databases. They are still on file.",
-    "Here's where the case takes a turn. On April 15, 1986, Barbara Agnew, a nurse from Norwich, vanished after leaving a ski weekend. Her remains were found weeks later in Hartland, Vermont, near Interstate 91.",
-    "Investigators noticed the killer's methodology had grown more sophisticated. He was choosing victims with healthcare backgrounds. He was using the highway corridor. He was hiding bodies in places only locals would know.",
-    "Then came the woman who survived. On August 6, 1988, Jane Boroski, 22, pregnant, stopped at a convenience store in West Swanzey, New Hampshire, just before midnight. A man approached her car, dragged her out, and stabbed her 27 times.",
-    "She fought him off. She got back in her car. She drove herself to a friend's house, lost a tremendous amount of blood, and survived. Her unborn daughter survived too.",
-    "Boroski gave investigators the only detailed description of the suspect ever recorded. A white man in his 30s, stocky, dark hair, driving a Jeep. She helped create a composite sketch.",
-    "Despite her account, no arrest came. The killings stopped after the Boroski attack. Many in law enforcement believe the killer was either incarcerated for an unrelated offense or died.",
-    "In 2018, the New Hampshire Cold Case Unit reopened the investigation. They used genetic genealogy on samples preserved from the Lynda Moore scene — the only crime scene with usable DNA.",
-    "By 2023, investigators had narrowed potential family trees. They publicly named one person of interest: Michael Nicholaou, who killed himself and his family in Florida in 2005. Critics noted that the Moore fingerprints did not match Nicholaou's.",
-    "In 2024, the New Hampshire Attorney General's office and Vermont State Police confirmed that genetic comparison work continues. The Boroski case file was reopened with fresh witnesses interviewed.",
-    "Locals still talk about the killings in hushed tones. A small region. Seven dead. One survivor. A killer who knew the back roads of two states.",
-    "Many of the victims were buried in the same area where they were attacked. Their families have lobbied for decades to keep the case alive. Several formed a victims' coalition that meets every spring near Newport.",
-    "Some retired investigators argue that two killers operated in the valley — one targeting nurses and one targeting random women. The DNA evidence has not yet ruled the dual-killer theory in or out.",
-    "Boroski, now in her late 50s, has spoken publicly about the night she survived. Her daughter is alive. Her testimony remains the single most important record from the case.",
-    "If you have information about anyone tied to the Connecticut River Valley between 1978 and 1988, contact the New Hampshire State Police Cold Case Unit. The DNA is still on file. The Moore fingerprints are still unmatched.",
-    "Subscribe to DarkFiles and hit the bell. Next week's case goes deeper into a young Englishwoman who vanished from a Portuguese resort in 2007."
-  ]
+    {
+      "voice": "Between 1978 and 1988, at least seven women were stabbed to death along the Connecticut River Valley. The murders crossed the New Hampshire and Vermont state line. Some bodies were found within a few miles of one another. Most of the victims were nurses or had ties to local hospitals. The case files at the New Hampshire Cold Case Unit and the Vermont State Police remain open more than 35 years later.",
+      "visual": "crime scene investigation",
+      "duration": 28
+    },
+    {
+      "voice": "On October 24, 1978, Cathy Millican was found stabbed near a marsh in New London, New Hampshire. She had been birdwatching that morning. Her notebook was still in her hand when investigators arrived at the scene. The wounds suggested overkill — far more than was needed to cause death. The pattern would later be recognized as a signature behavior tied to the same offender.",
+      "visual": "detective board evidence",
+      "duration": 25
+    },
+    {
+      "voice": "Investigators noted the precision of the cuts. They suspected someone with anatomical knowledge — a hunter, a butcher, a medic, or someone with surgical training. The killer had used a knife, possibly more than one. Cuts to specific anatomical regions suggested deliberate familiarity with the human body. State medical examiners in both Vermont and New Hampshire reviewed the findings independently and reached similar conclusions.",
+      "visual": "old newspaper article",
+      "duration": 25
+    },
+    {
+      "voice": "On May 30, 1981, Mary Elizabeth Critchley was hitchhiking from Massachusetts toward Vermont. Her body was discovered weeks later off Interstate 91 in Unity, New Hampshire. Her cause of death was ruled stabbing. The location of her body, hidden in scrub off the highway, indicated the killer was familiar with the area's back roads. Critchley had been heading north for a job interview. She never arrived.",
+      "visual": "missing person flyer",
+      "duration": 26
+    },
+    {
+      "voice": "Then came a long pause. For seven years, no killings fit the same pattern. Investigators wondered whether the killer had moved, was incarcerated for another crime, or had stopped on his own. Long gaps in serial killing are unusual but documented in cases where the offender either relocated or was held in custody for unrelated charges. The pause shaped one of the leading theories in the case.",
+      "visual": "police investigation files",
+      "duration": 26
+    },
+    {
+      "voice": "On July 20, 1984, Bernice Courtemanche disappeared from Newport, New Hampshire after finishing her shift as a nurse's aide. She was 17 years old. Her remains were not found until April 1986 — in Kelleyville, in a remote stretch of woods. The two-year gap between her disappearance and the recovery of her body limited what forensic analysis could determine. Her family had searched the region for months.",
+      "visual": "forensic lab analysis",
+      "duration": 26
+    },
+    {
+      "voice": "Investigators began to suspect a serial offender. The targeting of nurses, the stabbing pattern, and the use of secluded river valley sites pointed to someone with intimate local knowledge. Both the New Hampshire State Police and the Vermont State Police formed informal coordination groups. The work was hampered by the limited information-sharing protocols of the era.",
+      "visual": "abandoned building night",
+      "duration": 22
+    },
+    {
+      "voice": "On July 10, 1985, Ellen Fried, a registered nurse at Claremont General, vanished after a late-night phone call from a payphone outside her workplace. Her body was found in September 1985. The killer had hidden the remains carefully — much more carefully than in earlier cases. The increased concealment suggested either a learning offender or a different operational context. Both theories remain in the file.",
+      "visual": "rural road night",
+      "duration": 26
+    },
+    {
+      "voice": "January 1986 brought the killing of Eva Morse in Charlestown. Then April 1986: Lynda Moore was attacked inside her home in Saxtons River, Vermont, while her husband was at work. Her killer left fingerprints. None matched any known offender. Police circulated the prints for decades through national databases including IAFIS. They are still on file.",
+      "visual": "courthouse exterior",
+      "duration": 22
+    },
+    {
+      "voice": "Here's where the case takes a turn. On April 15, 1986, Barbara Agnew, a nurse from Norwich, Vermont, vanished after leaving a ski weekend. Her remains were found weeks later in Hartland, Vermont, near Interstate 91. The pattern of attacking healthcare workers was clear. Vermont State Police elevated the case to its highest priority.",
+      "visual": "vintage photograph",
+      "duration": 21
+    },
+    {
+      "voice": "Investigators noticed the killer's methodology had grown more sophisticated through the 1980s. He was choosing victims with healthcare backgrounds. He was using the highway corridor between Vermont and New Hampshire. He was hiding bodies in places only locals would know. Each detail pointed to a man with deep familiarity with the river valley region — possibly someone who had grown up there.",
+      "visual": "fbi case files",
+      "duration": 24
+    },
+    {
+      "voice": "Then came the woman who survived. On August 6, 1988, Jane Boroski, 22, pregnant, stopped at a convenience store in West Swanzey, New Hampshire, just before midnight. A man approached her car, dragged her out, and stabbed her 27 times. He used a hunting knife with a distinctive blade shape. Boroski's testimony about that knife became one of the most important pieces of evidence in the case file.",
+      "visual": "evidence bag tape",
+      "duration": 27
+    },
+    {
+      "voice": "She fought him off. She got back in her car. She drove herself to a friend's house, lost a tremendous amount of blood, and survived. Her unborn daughter survived too. Both made full recoveries. Boroski's account became the foundation of the post-1988 investigative theory. The fact that she lived through 27 stab wounds is itself a remarkable medical outcome documented in the New Hampshire State Police file.",
+      "visual": "interrogation room",
+      "duration": 26
+    },
+    {
+      "voice": "Boroski gave investigators the only detailed description of the suspect ever recorded. A white man in his 30s, stocky build, dark hair, driving a Jeep. She helped create a composite sketch with a New Hampshire State Police forensic artist. The sketch was distributed throughout the region. It has been re-aged and updated multiple times in the decades since.",
+      "visual": "darkroom flashlight investigation",
+      "duration": 23
+    },
+    {
+      "voice": "Despite her account, no arrest came. The killings stopped after the Boroski attack. Many in law enforcement believe the killer was either incarcerated for an unrelated offense or died in the years immediately following 1988. Several known offenders from the region were investigated and cleared through alibi or DNA exclusion in the years that followed.",
+      "visual": "vintage typewriter notes",
+      "duration": 22
+    },
+    {
+      "voice": "In 2018, the New Hampshire Cold Case Unit reopened the investigation. They used genetic genealogy on samples preserved from the Lynda Moore scene — the only crime scene with usable DNA. The work was conducted in partnership with private genealogy specialists and with the FBI's behavioral analysis support. Multiple family trees were developed.",
+      "visual": "cold case archive",
+      "duration": 21
+    },
+    {
+      "voice": "By 2023, investigators had narrowed potential family trees. They publicly named one person of interest: Michael Nicholaou, who killed himself and his family in Florida in 2005. Critics noted that the Moore fingerprints did not match Nicholaou's. The naming generated debate within both the investigative community and among victims' families.",
+      "visual": "missing person search",
+      "duration": 20
+    },
+    {
+      "voice": "In 2024, the New Hampshire Attorney General's office and Vermont State Police confirmed that genetic comparison work continues. The Boroski case file was reopened with fresh witnesses interviewed. Investigators returned to the West Swanzey convenience store and to Boroski's friend's house to recreate the timeline of that August 1988 night with current technology.",
+      "visual": "police badge close up",
+      "duration": 21
+    },
+    {
+      "voice": "Locals still talk about the killings in hushed tones. A small region. Seven dead. One survivor. A killer who knew the back roads of two states. The river valley itself is sparsely populated. Many residents in 1988 knew at least one victim or one investigator personally. The collective memory has remained sharp across generations.",
+      "visual": "crime scene tape yellow",
+      "duration": 21
+    },
+    {
+      "voice": "Many of the victims were buried in the same area where they were attacked. Their families have lobbied for decades to keep the case alive. Several formed a victims' coalition that meets every spring near Newport. Annual events feature presentations from cold case investigators and updates on forensic progress.",
+      "visual": "old phone receiver",
+      "duration": 20
+    },
+    {
+      "voice": "Some retired investigators argue that two killers operated in the valley — one targeting nurses and one targeting random women. The DNA evidence has not yet ruled the dual-killer theory in or out. The genetic profiles from each crime scene where DNA was recovered have been compared. Some scenes lack sufficient material for a definitive comparison.",
+      "visual": "investigator notebook",
+      "duration": 22
+    },
+    {
+      "voice": "Boroski, now in her late 50s, has spoken publicly about the night she survived. Her daughter is alive and now an adult. Her testimony remains the single most important record from the case. She has cooperated with multiple investigative teams over the decades and has reviewed each updated suspect description.",
+      "visual": "evidence photograph wall",
+      "duration": 20
+    },
+    {
+      "voice": "The New Hampshire State Police Cold Case Unit, the Vermont State Police, the Bureau of Criminal Investigation, and the FBI's New Haven and Boston field offices all maintain working files on the case. Cooperation between the agencies has been ongoing since the 1980s. Modern data-sharing protocols have improved the investigative coordination.",
+      "visual": "darkened forest clue",
+      "duration": 20
+    },
+    {
+      "voice": "If you have information about anyone tied to the Connecticut River Valley between 1978 and 1988, contact the New Hampshire State Police Cold Case Unit. The DNA is still on file. The Moore fingerprints are still unmatched. The Boroski composite sketch remains in active circulation. The reward funds offered by the state of New Hampshire have been preserved. Tips can be submitted by phone, by email, or anonymously through the unit's online portal. Even small details about activity in the valley during the late 1970s and 1980s can shape new investigative leads.",
+      "visual": "vintage clock tower",
+      "duration": 35
+    },
+    {
+      "voice": "The Connecticut River Valley case is also studied at the FBI National Academy and at law enforcement training institutes across New England. Its combination of multiple jurisdictions, signature behavior, and a single survivor makes it one of the most analyzed regional serial cases in modern American policing. Investigators regularly cite it as an example of how cold case work depends on patience, on the preservation of evidence, and on the persistence of victims' families.",
+      "visual": "old map markings",
+      "duration": 29
+    },
+    {
+      "voice": "Subscribe to DarkFiles and hit the bell. Next week's case goes deeper into a young Englishwoman who vanished from a Portuguese resort in 2007.",
+      "visual": "crime scene investigation",
+      "duration": 20
+    }
+  ],
+  "thumbnail_text": "CONNECTICUT RIVER VA"
 }

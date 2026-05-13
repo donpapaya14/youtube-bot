@@ -1,30 +1,136 @@
 {
   "title": "Asha Degree: The 9-Year-Old Who Vanished 📁",
   "segments": [
-    "On February 14, 2000, in Shelby, North Carolina, nine-year-old Asha Degree got out of her bed in the middle of the night, packed a small backpack, and walked alone down Highway 18 in the rain. She was last seen by truck drivers around 3:30 a.m. By morning she was gone.",
-    "Asha was the youngest of two children. She lived with her parents Harold and Iquilla Degree and her brother O'Bryant. She was a careful child — described by her teachers as polite, organized, and afraid of the dark. None of that fit what she did that night.",
-    "Two truck drivers reported seeing a young girl walking south on Highway 18. One of them, Roy Eskridge, slowed down and tried to ask her what she was doing. According to his account, Asha ran into the woods.",
-    "When Asha's parents discovered she was missing the next morning, they called police. The Cleveland County Sheriff's office and the FBI launched an immediate search. Snow had begun to fall. The woods were cold and wet.",
-    "A backpack with Asha's belongings was found roughly a mile and a half from her home, near the Turner Lumber Company. It contained schoolwork, a toothbrush, and some of her favorite items.",
-    "What she did not pack was telling. She left her glasses behind. Asha had to wear them to see clearly. The fact that she walked away without them suggested she didn't expect to be gone long — or didn't think clearly about it.",
-    "Investigators ran down theories from the start. A child running away. A child meeting someone she knew. A child being lured by a stranger. None of them produced a clear lead.",
-    "Here's where the case takes a turn. In 2001, a year after Asha vanished, road workers near Shelby found a green Eddie Bauer book bag. Inside were items belonging to Asha — including her clothing.",
-    "The bag had been sealed inside a black plastic trash bag and dumped along Highway 18, roughly 30 miles north of where Asha was last seen. The discovery confirmed two things. First, that Asha was almost certainly the victim of a crime. Second, that someone with a vehicle had been involved.",
-    "FBI investigators recovered DNA from items inside the bag. They preserved every fiber, every hair, every trace. Genetic analysis was limited by the technology of the time. The samples have been retested multiple times since.",
-    "The Cleveland County Sheriff's office made the case a priority for over two decades. Investigators interviewed thousands of locals. They followed up on tips in 36 states. They visited prisons to talk to inmates with knowledge of the area.",
-    "In 2016, the FBI publicly released information that Asha had been seen carrying a particular item not normally associated with her — a green book bag with white piping. They asked anyone who had seen the bag to come forward.",
-    "Tips poured in. None broke the case open.",
-    "In 2018, the Cleveland County Sheriff's Department reported they had developed new persons of interest based on DNA results. They did not name the individuals. They asked the public for patience.",
-    "By 2024, investigators had used genetic genealogy to identify two suspects. In December 2024, the FBI executed search warrants at properties in North Carolina connected to a married couple. The names that emerged in court records were Roy Lee Dedmon and Connie Dedmon.",
-    "The Dedmons had lived near Shelby in 2000. Their granddaughter Hannah Mecca-Dedmon had given birth to a stillborn child four days before Asha disappeared. The pregnancy and the timing have become central to investigators' working theory.",
-    "Federal investigators have not publicly stated what they believe happened. They have confirmed only that the search warrants were executed in connection with Asha Degree. The Dedmons have not been formally charged with her abduction or death.",
-    "What investigators have found, according to court filings, includes communication records, fiber evidence, and financial records relevant to the timeline.",
-    "Asha's parents Harold and Iquilla have continued to advocate publicly for the case. Iquilla has spoken in interviews about every February 14 since 2000. The family runs the Asha Degree Foundation, which supports missing-children causes.",
-    "The Asha Degree case is one of the longest active FBI child-abduction investigations in modern history. Her photo has been distributed on milk cartons, billboards, and digital missing-children networks worldwide.",
-    "Forensic teams continue to test items from the 2001 backpack discovery. Each round of testing produces more information. The sheriff's office has committed to seeing the case through.",
-    "If you remember anything about the Shelby area on February 14, 2000, or about activity along Highway 18 between Shelby and Morganton in the days after, the FBI's Charlotte field office maintains a tip line dedicated to the Asha Degree case.",
-    "A reward of 50,000 dollars remains active. The phone number is published on the FBI's missing persons page.",
-    "Asha would be 35 years old in 2025. Her family still leaves a chair for her on her birthday and at Christmas dinner. Their hope is documented. So is their patience.",
-    "Subscribe to DarkFiles and hit the bell. Next week's case goes deeper into a young man whose identity took 70 years to recover from a bench in an Australian seaside town."
-  ]
+    {
+      "voice": "On February 14, 2000, in Shelby, North Carolina, nine-year-old Asha Degree got out of her bed in the middle of the night, packed a small backpack, and walked alone down Highway 18 in the rain. She was last seen by truck drivers around 3:30 a.m. By morning she was gone. The case has remained one of the most-investigated unresolved child disappearances in American history.",
+      "visual": "crime scene investigation",
+      "duration": 25
+    },
+    {
+      "voice": "Asha was the youngest of two children. She lived with her parents Harold and Iquilla Degree and her brother O'Bryant. She was a careful child — described by her teachers as polite, organized, and afraid of the dark. None of that fit what she did that night. The contrast between her usual personality and her actions in the early hours of February 14 has shaped every theory developed since.",
+      "visual": "detective board evidence",
+      "duration": 27
+    },
+    {
+      "voice": "Two truck drivers reported seeing a young girl walking south on Highway 18. One of them, Roy Eskridge, slowed down and tried to ask her what she was doing. According to his account, Asha ran into the woods. The second driver gave a similar description. Both drivers were interviewed extensively. Their statements have been treated as credible by every investigator who has worked the case.",
+      "visual": "old newspaper article",
+      "duration": 26
+    },
+    {
+      "voice": "When Asha's parents discovered she was missing the next morning, they called police. The Cleveland County Sheriff's office and the FBI launched an immediate search. Snow had begun to fall. The woods were cold and wet. Search teams included K-9 units, helicopters, and volunteer ground crews from across western North Carolina. The terrain is mixed pine and hardwood with creeks and small ridges.",
+      "visual": "missing person flyer",
+      "duration": 25
+    },
+    {
+      "voice": "A backpack with Asha's belongings was found roughly a mile and a half from her home, near the Turner Lumber Company. It contained schoolwork, a toothbrush, and some of her favorite items. The items showed she had taken time to pack deliberately. The contents matched what a child might pack for an adventure rather than a runaway journey.",
+      "visual": "police investigation files",
+      "duration": 23
+    },
+    {
+      "voice": "What she did not pack was telling. She left her glasses behind. Asha had to wear them to see clearly. The fact that she walked away without them suggested she didn't expect to be gone long — or didn't think clearly about it. The glasses became one of the most-cited pieces of physical evidence in the case. They have been preserved in the original investigative file.",
+      "visual": "forensic lab analysis",
+      "duration": 26
+    },
+    {
+      "voice": "Investigators ran down theories from the start. A child running away. A child meeting someone she knew. A child being lured by a stranger. None of them produced a clear lead. The Degree family had no recent conflicts that would explain a runaway departure. Asha had no documented contacts with adults who would lure her out of her home in the middle of the night.",
+      "visual": "abandoned building night",
+      "duration": 26
+    },
+    {
+      "voice": "Here's where the case takes a turn. In 2001, a year after Asha vanished, road workers near Shelby found a green Eddie Bauer book bag. Inside were items belonging to Asha — including her clothing. The discovery confirmed that her departure from home had not been a simple runaway event. Someone had taken her items, packaged them, and disposed of them by the roadside.",
+      "visual": "rural road night",
+      "duration": 25
+    },
+    {
+      "voice": "The bag had been sealed inside a black plastic trash bag and dumped along Highway 18, roughly 30 miles north of where Asha was last seen. The discovery confirmed two things. First, that Asha was almost certainly the victim of a crime. Second, that someone with a vehicle had been involved. The 30-mile distance was significant — it suggested the offender had moved the items deliberately rather than discarding them locally.",
+      "visual": "courthouse exterior",
+      "duration": 28
+    },
+    {
+      "voice": "FBI investigators recovered DNA from items inside the bag. They preserved every fiber, every hair, every trace. Genetic analysis was limited by the technology of the time. The samples have been retested multiple times since. Each generation of forensic technology has produced incremental information. The full evidentiary potential of the items has not been exhausted.",
+      "visual": "vintage photograph",
+      "duration": 22
+    },
+    {
+      "voice": "The Cleveland County Sheriff's office made the case a priority for over two decades. Investigators interviewed thousands of locals. They followed up on tips in 36 states. They visited prisons to talk to inmates with knowledge of the area. The investigative footprint has been one of the largest in any North Carolina cold case. Multiple federal and state agencies have contributed resources.",
+      "visual": "fbi case files",
+      "duration": 24
+    },
+    {
+      "voice": "In 2016, the FBI publicly released information that Asha had been seen carrying a particular item not normally associated with her — a green book bag with white piping. They asked anyone who had seen the bag to come forward. The detail was unusual. Asha did not own such a bag. The implication was that she had received it from someone she met or knew before her disappearance.",
+      "visual": "evidence bag tape",
+      "duration": 27
+    },
+    {
+      "voice": "Tips poured in. None broke the case open. The 2016 appeal generated substantial public attention. Television coverage on national networks brought the case into homes across the country. Family members spoke at press conferences. The visibility helped maintain investigative funding but did not produce a decisive lead.",
+      "visual": "interrogation room",
+      "duration": 20
+    },
+    {
+      "voice": "In 2018, the Cleveland County Sheriff's Department reported they had developed new persons of interest based on DNA results. They did not name the individuals. They asked the public for patience. The careful disclosure was strategic. Investigators wanted to preserve the integrity of any future prosecution by avoiding premature naming of suspects.",
+      "visual": "darkroom flashlight investigation",
+      "duration": 20
+    },
+    {
+      "voice": "By 2024, investigators had used genetic genealogy to identify two suspects. In December 2024, the FBI executed search warrants at properties in North Carolina connected to a married couple. The names that emerged in court records were Roy Lee Dedmon and Connie Dedmon. The warrants represented the most significant procedural step in the case in over two decades.",
+      "visual": "vintage typewriter notes",
+      "duration": 23
+    },
+    {
+      "voice": "The Dedmons had lived near Shelby in 2000. Their granddaughter Hannah Mecca-Dedmon had given birth to a stillborn child four days before Asha disappeared. The pregnancy and the timing have become central to investigators' working theory. The exact connection has not been publicly stated. Court filings have referenced the timeline as relevant to the investigation.",
+      "visual": "cold case archive",
+      "duration": 22
+    },
+    {
+      "voice": "Federal investigators have not publicly stated what they believe happened. They have confirmed only that the search warrants were executed in connection with Asha Degree. The Dedmons have not been formally charged with her abduction or death. The investigation as of 2025 remained active and ongoing.",
+      "visual": "missing person search",
+      "duration": 20
+    },
+    {
+      "voice": "What investigators have found, according to court filings, includes communication records, fiber evidence, and financial records relevant to the timeline. The fiber evidence is particularly significant. It connects items recovered from the 2001 backpack discovery to materials associated with the Dedmon properties. The connection has been publicly acknowledged in legal filings.",
+      "visual": "police badge close up",
+      "duration": 20
+    },
+    {
+      "voice": "Asha's parents Harold and Iquilla have continued to advocate publicly for the case. Iquilla has spoken in interviews about every February 14 since 2000. The family runs the Asha Degree Foundation, which supports missing-children causes. The foundation has helped fund educational programs in schools across the Carolinas.",
+      "visual": "crime scene tape yellow",
+      "duration": 20
+    },
+    {
+      "voice": "The Asha Degree case is one of the longest active FBI child-abduction investigations in modern history. Her photo has been distributed on milk cartons, billboards, and digital missing-children networks worldwide. The case has appeared on national television programs including America's Most Wanted and Disappeared. The visibility has been sustained for 25 years.",
+      "visual": "old phone receiver",
+      "duration": 20
+    },
+    {
+      "voice": "Forensic teams continue to test items from the 2001 backpack discovery. Each round of testing produces more information. The sheriff's office has committed to seeing the case through. The continued forensic work has been funded jointly by Cleveland County, the state of North Carolina, and the FBI. The investment represents one of the largest cold-case forensic commitments in the region.",
+      "visual": "investigator notebook",
+      "duration": 24
+    },
+    {
+      "voice": "If you remember anything about the Shelby area on February 14, 2000, or about activity along Highway 18 between Shelby and Morganton in the days after, the FBI's Charlotte field office maintains a tip line dedicated to the Asha Degree case. A reward of 50,000 dollars remains active. The phone number is published on the FBI's missing persons page.",
+      "visual": "evidence photograph wall",
+      "duration": 23
+    },
+    {
+      "voice": "Asha would be 35 years old in 2025. Her family still leaves a chair for her on her birthday and at Christmas dinner. Their hope is documented. So is their patience. Iquilla Degree has spoken to multiple national television programs over the years. Each interview restates the same essential request — that anyone with relevant information come forward.",
+      "visual": "darkened forest clue",
+      "duration": 23
+    },
+    {
+      "voice": "The case has shaped North Carolina missing-children protocols. After 2000, Cleveland County and the surrounding region adopted faster mutual-aid procedures for child disappearances. The local emergency response framework now includes immediate FBI coordination on any case fitting the basic profile of a young child traveling alone in the early morning hours. The procedural changes have been credited in subsequent recovery cases.",
+      "visual": "vintage clock tower",
+      "duration": 24
+    },
+    {
+      "voice": "Asha's case is studied at the FBI National Academy as one of the longest active child-abduction investigations in modern American policing. Her file is also cited in International Centre for Missing and Exploited Children training materials. The combination of physical evidence, witness testimony, and forensic genealogy work has shaped best-practice frameworks adopted across the field.",
+      "visual": "old map markings",
+      "duration": 22
+    },
+    {
+      "voice": "Subscribe to DarkFiles and hit the bell. Next week's case goes deeper into a young man whose identity took 70 years to recover from a bench in an Australian seaside town.",
+      "visual": "crime scene investigation",
+      "duration": 20
+    }
+  ],
+  "thumbnail_text": "ASHA DEGREE THE"
 }

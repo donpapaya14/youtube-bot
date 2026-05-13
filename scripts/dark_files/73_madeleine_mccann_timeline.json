@@ -1,30 +1,146 @@
 {
   "title": "Madeleine McCann: Full Timeline of the Case 🔍",
   "segments": [
-    "On May 3, 2007, three-year-old Madeleine McCann disappeared from apartment 5A of the Ocean Club resort in Praia da Luz, Portugal. Her parents, Kate and Gerry McCann, were dining with friends roughly 50 meters away. The case became one of the most documented missing-child investigations in modern history.",
-    "The McCanns and their friends — a group later called the Tapas Seven — had been checking on the children every 20 to 30 minutes. Kate discovered Madeleine missing at around 10 p.m. The window in the children's bedroom was open. The shutters were lifted.",
-    "Polícia Judiciária officers arrived within an hour. Initial responders did not seal the apartment. Hundreds of guests, journalists, and well-wishers passed through the room over the next 48 hours, contaminating any potential evidence.",
-    "The early Portuguese investigation focused on Robert Murat, a British expat living roughly 100 meters from the Ocean Club. He was named an arguido — a formal suspect — but no charges were brought, and a 2014 libel case in his favor produced a settlement worth over half a million pounds.",
-    "British police were initially observers. The Portuguese investigation, led by Gonçalo Amaral, considered the parents themselves as suspects in 2007. Cadaver dogs from South Yorkshire reportedly alerted in the apartment and on a hire car the McCanns rented weeks later.",
-    "Forensic samples taken by the Forensic Science Service in Birmingham were inconclusive. The lab reported the DNA could not be confirmed as Madeleine's. Portuguese prosecutors closed the case as arguidos against the McCanns in July 2008.",
-    "The McCanns mounted a worldwide campaign. They released photos showing Madeleine's distinctive right eye coloboma — a streak of brown extending from her pupil into the green iris. The image was distributed in over 35 countries.",
-    "Tips poured in from across Europe, Morocco, and beyond. None produced Madeleine. Some sightings were investigated for months and ruled out.",
-    "Here's where the case takes a turn. In 2011, Scotland Yard launched Operation Grange, a parallel review funded by the British Home Office. Detective Chief Inspector Andy Redwood led a team of more than 30 officers.",
-    "Operation Grange identified 600 persons of interest across multiple countries. They digitized phone records from cellular towers near Praia da Luz on the night of May 3, 2007. Roughly 100 numbers became priority leads.",
-    "By 2013, Operation Grange had reduced the suspect pool dramatically. The team focused on burglars active on Portugal's Algarve coast and on a possible link to a string of break-ins targeting British vacationers.",
-    "In 2017, Operation Grange's funding was cut, but a small team continued. The German federal police — the Bundeskriminalamt — entered the case after a tip about an inmate at a Kiel prison.",
-    "On June 3, 2020, German prosecutors publicly named Christian Brückner, a German national with a long criminal record in both Germany and Portugal. Prosecutor Hans Christian Wolters told the BBC he believed Madeleine was dead and that Brückner was responsible.",
-    "Brückner had lived in the Algarve from 1995 to 2007. He had a phone signal in Praia da Luz on the night Madeleine vanished, according to German prosecutors. He had multiple convictions for burglary and child sex offenses.",
-    "In 2019, a German court convicted Brückner of raping a 72-year-old American tourist in Praia da Luz in 2005. He was already serving time for unrelated offenses.",
-    "In 2024, Brückner stood trial in Braunschweig, Germany on charges related to other sexual assaults in Portugal — not Madeleine's case. He was acquitted on those specific charges in October 2024.",
-    "German prosecutors continue to investigate him as the prime suspect in Madeleine's disappearance. Wolters has said publicly that they have evidence but not enough to bring charges yet.",
-    "The Portuguese investigation, technically reopened in 2013, remains active. So does Operation Grange in the UK. As of 2025, the British Metropolitan Police had spent more than 13 million pounds on the case.",
-    "In May 2023, German and Portuguese investigators searched the Arade Reservoir near Silves, an area Brückner is known to have visited. Items recovered were sent for forensic analysis. Public results have been limited.",
-    "Brückner's prison release date is currently set for September 2025. German prosecutors have warned that without new charges he could leave Germany and become much harder to track.",
-    "Kate and Gerry McCann have continued to advocate publicly. They founded the Madeleine Fund to support the search and to help other missing children. They have never been recharged in any jurisdiction.",
-    "Madeleine would have turned 22 in May 2025. The age-progression image released by Scotland Yard remains one of the most distributed in missing-child history.",
-    "Critics of the early Portuguese handling note that crucial hours and forensic chances were lost. Defenders point to Operation Grange's methodical work as proof the case can still be solved.",
-    "If you have information about Madeleine McCann, you can contact Operation Grange directly through the Metropolitan Police. The case is open. The reward originally posted by Madeleine's family stands.",
-    "Subscribe to DarkFiles and hit the bell. Next week's case goes deeper into seven brothers and sisters who vanished outside Adelaide on a calm summer day."
-  ]
+    {
+      "voice": "On May 3, 2007, three-year-old Madeleine McCann disappeared from apartment 5A of the Ocean Club resort in Praia da Luz, Portugal. Her parents, Kate and Gerry McCann, were dining with friends roughly 50 meters away at the resort's tapas restaurant. The case became one of the most documented missing-child investigations in modern history. It has been worked by Portuguese, British, and German investigators for almost two decades.",
+      "visual": "crime scene investigation",
+      "duration": 26
+    },
+    {
+      "voice": "The McCanns and their friends — a group later called the Tapas Seven — had been checking on the children every 20 to 30 minutes. Kate discovered Madeleine missing at around 10 p.m. The window in the children's bedroom was open. The shutters were lifted. The other two McCann children, twin siblings Sean and Amelie, were still asleep in the same room.",
+      "visual": "detective board evidence",
+      "duration": 24
+    },
+    {
+      "voice": "Polícia Judiciária officers arrived within an hour. Initial responders did not seal the apartment in the way modern protocols would require. Hundreds of guests, journalists, and well-wishers passed through the room over the next 48 hours, contaminating any potential evidence. The error has been cited repeatedly in subsequent reviews of the early Portuguese handling of the case.",
+      "visual": "old newspaper article",
+      "duration": 22
+    },
+    {
+      "voice": "The early Portuguese investigation focused on Robert Murat, a British expat living roughly 100 meters from the Ocean Club. He was named an arguido — a formal suspect — but no charges were brought. A 2014 libel case in his favor produced a settlement worth over half a million pounds. Murat's life in Praia da Luz was disrupted for years by the unfounded suspicion.",
+      "visual": "missing person flyer",
+      "duration": 25
+    },
+    {
+      "voice": "British police were initially observers. The Portuguese investigation, led by Gonçalo Amaral, considered the parents themselves as suspects in 2007. Cadaver dogs from South Yorkshire reportedly alerted in the apartment and on a hire car the McCanns rented weeks later. The dog handler, Martin Grime, gave detailed testimony to Portuguese investigators about the alerts and what they could and could not prove.",
+      "visual": "police investigation files",
+      "duration": 24
+    },
+    {
+      "voice": "Forensic samples taken by the Forensic Science Service in Birmingham were inconclusive. The lab reported the DNA could not be confirmed as Madeleine's. Portuguese prosecutors closed the case as arguidos against the McCanns in July 2008. The decision did not formally exonerate them but ended their status as named suspects under Portuguese law.",
+      "visual": "forensic lab analysis",
+      "duration": 21
+    },
+    {
+      "voice": "The McCanns mounted a worldwide campaign. They released photos showing Madeleine's distinctive right eye coloboma — a streak of brown extending from her pupil into the green iris. The image was distributed in over 35 countries. Their activism drew both intense support and intense criticism. Public attention to the case has rarely faded for long.",
+      "visual": "abandoned building night",
+      "duration": 22
+    },
+    {
+      "voice": "Tips poured in from across Europe, Morocco, and beyond. None produced Madeleine. Some sightings were investigated for months and ruled out. The Madeleine Fund employed private investigators at various points. Some of the firms were later criticized for charging high fees while producing limited results. The McCann family's published accounts detail the difficulties they encountered.",
+      "visual": "rural road night",
+      "duration": 22
+    },
+    {
+      "voice": "Here's where the case takes a turn. In 2011, Scotland Yard launched Operation Grange, a parallel review funded by the British Home Office. Detective Chief Inspector Andy Redwood led a team of more than 30 officers. The investigation was not a takeover of the Portuguese inquiry but a separate British operation focused on what UK police could establish independently.",
+      "visual": "courthouse exterior",
+      "duration": 23
+    },
+    {
+      "voice": "Operation Grange identified 600 persons of interest across multiple countries. They digitized phone records from cellular towers near Praia da Luz on the night of May 3, 2007. Roughly 100 numbers became priority leads. The work involved cooperation with Portuguese phone networks, with European telecommunications regulators, and with Interpol.",
+      "visual": "vintage photograph",
+      "duration": 20
+    },
+    {
+      "voice": "By 2013, Operation Grange had reduced the suspect pool dramatically. The team focused on burglars active on Portugal's Algarve coast and on a possible link to a string of break-ins targeting British vacationers in the spring of 2007. Some of the burglary cases involved adult women being threatened. The pattern suggested an offender willing to enter occupied apartments.",
+      "visual": "fbi case files",
+      "duration": 23
+    },
+    {
+      "voice": "In 2017, Operation Grange's funding was cut, but a small team continued. The German federal police — the Bundeskriminalamt — entered the case after a tip about an inmate at a Kiel prison. The German investigation had been active for over a year before it became publicly known. The Bundeskriminalamt brought additional forensic and digital resources.",
+      "visual": "evidence bag tape",
+      "duration": 22
+    },
+    {
+      "voice": "On June 3, 2020, German prosecutors publicly named Christian Brückner, a German national with a long criminal record in both Germany and Portugal. Prosecutor Hans Christian Wolters told the BBC he believed Madeleine was dead and that Brückner was responsible. The naming represented the first time any major investigative agency had publicly identified a specific suspect.",
+      "visual": "interrogation room",
+      "duration": 22
+    },
+    {
+      "voice": "Brückner had lived in the Algarve from 1995 to 2007. He had a phone signal in Praia da Luz on the night Madeleine vanished, according to German prosecutors. He had multiple convictions for burglary and child sex offenses. His criminal history in Portugal included a conviction for the rape of a 72-year-old American tourist in 2005.",
+      "visual": "darkroom flashlight investigation",
+      "duration": 22
+    },
+    {
+      "voice": "In 2019, a German court convicted Brückner of that 2005 Portuguese rape. He was already serving time for unrelated offenses. The Braunschweig Higher Regional Court handled the proceedings. The conviction was cited by German prosecutors as evidence of Brückner's pattern of operating in Praia da Luz during the relevant period.",
+      "visual": "vintage typewriter notes",
+      "duration": 20
+    },
+    {
+      "voice": "In 2024, Brückner stood trial in Braunschweig, Germany on charges related to other sexual assaults in Portugal — not Madeleine's case. He was acquitted on those specific charges in October 2024. The acquittal was based on evidentiary issues with the witnesses available to prosecutors. It did not affect his status as a person of interest in the McCann disappearance.",
+      "visual": "cold case archive",
+      "duration": 23
+    },
+    {
+      "voice": "German prosecutors continue to investigate him as the prime suspect in Madeleine's disappearance. Wolters has said publicly that they have evidence but not enough to bring charges yet. The investigative team has examined Brückner's vehicle records, his communications, his property holdings, and witness statements from people who knew him during his Algarve years.",
+      "visual": "missing person search",
+      "duration": 21
+    },
+    {
+      "voice": "The Portuguese investigation, technically reopened in 2013, remains active. So does Operation Grange in the UK. As of 2025, the British Metropolitan Police had spent more than 13 million pounds on the case. The investment has drawn both political and journalistic scrutiny. The McCann family and their supporters have argued the spending is justified given the scale of the unanswered questions.",
+      "visual": "police badge close up",
+      "duration": 24
+    },
+    {
+      "voice": "In May 2023, German and Portuguese investigators searched the Arade Reservoir near Silves, an area Brückner is known to have visited. Items recovered were sent for forensic analysis. Public results have been limited. The reservoir search was the largest physical operation conducted on the case in over a decade.",
+      "visual": "crime scene tape yellow",
+      "duration": 20
+    },
+    {
+      "voice": "Brückner's prison release date is currently set for September 2025. German prosecutors have warned that without new charges he could leave Germany and become much harder to track. Defense attorneys have argued he should be released on schedule given the absence of pending charges related to Madeleine's case. The legal questions remain unresolved.",
+      "visual": "old phone receiver",
+      "duration": 21
+    },
+    {
+      "voice": "Kate and Gerry McCann have continued to advocate publicly. They founded the Madeleine Fund to support the search and to help other missing children. They have never been recharged in any jurisdiction. Their public profile has been steady — both during periods of active investigation and during quieter years.",
+      "visual": "investigator notebook",
+      "duration": 20
+    },
+    {
+      "voice": "Madeleine would have turned 22 in May 2025. The age-progression image released by Scotland Yard remains one of the most distributed in missing-child history. The image has been updated periodically by forensic artists working with both British and Portuguese authorities. Each update is reviewed by the McCann family before public release.",
+      "visual": "evidence photograph wall",
+      "duration": 20
+    },
+    {
+      "voice": "Critics of the early Portuguese handling note that crucial hours and forensic chances were lost. Defenders point to Operation Grange's methodical work as proof the case can still be solved. The debate has shaped Portuguese, British, and European Union missing-child protocols since 2007. Modern responses to similar disappearances have changed considerably as a result.",
+      "visual": "darkened forest clue",
+      "duration": 21
+    },
+    {
+      "voice": "If you have information about Madeleine McCann, you can contact Operation Grange directly through the Metropolitan Police. The case is open. The reward originally posted by Madeleine's family stands. Tips are accepted in multiple languages and through anonymous channels. Even small recollections of activity in or near Praia da Luz in early May 2007 may matter.",
+      "visual": "vintage clock tower",
+      "duration": 22
+    },
+    {
+      "voice": "The case has reshaped European missing-child protocols. After 2007, Portuguese authorities adopted faster crime-scene preservation procedures. The European Union expanded the cross-border alert system that allows missing-child notifications to spread within hours. Several countries adopted new protocols specifically referencing the early procedural failures in Praia da Luz. The legal and operational changes have been documented in Council of Europe reports and in academic policing journals.",
+      "visual": "old map markings",
+      "duration": 26
+    },
+    {
+      "voice": "The McCann case has also driven public discussion about media coverage of missing children. The intensity of British, Portuguese, and German tabloid attention shaped public perception in ways that complicated investigative work. Ethics committees in journalism associations have used the McCann coverage as a teaching case. The lessons have influenced editorial guidelines at major European newspapers.",
+      "visual": "crime scene investigation",
+      "duration": 22
+    },
+    {
+      "voice": "Forensic genealogy of the kind that has resolved other cold cases has not yet been applied to the McCann investigation in any publicly disclosed way. The absence of identified remains limits the techniques available. If Brückner is the offender and Madeleine has not survived, recovery of remains would be the most likely path to scientific resolution. German prosecutors continue to pursue that possibility.",
+      "visual": "detective board evidence",
+      "duration": 25
+    },
+    {
+      "voice": "Subscribe to DarkFiles and hit the bell. Next week's case goes deeper into seven brothers and sisters who vanished outside Adelaide on a calm summer day.",
+      "visual": "old newspaper article",
+      "duration": 20
+    }
+  ],
+  "thumbnail_text": "MADELEINE MCCANN FUL"
 }

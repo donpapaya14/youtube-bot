@@ -1,30 +1,131 @@
 {
   "title": "The Jamison Family: Vanished in Oklahoma 🔍",
   "segments": [
-    "On October 8, 2009, Bobby Jamison, 44, his wife Sherilynn, 40, and their six-year-old daughter Madyson left their Eufaula home in eastern Oklahoma to look at a 40-acre piece of land for sale near the Latimer-Pittsburg County line. Their truck was found a week later. The family was nowhere on it.",
-    "Inside the abandoned vehicle, investigators found the family's wallets, identification, cell phones, the dog Maisy still alive in the back, and a folder containing 32,000 dollars in cash sitting on the front seat.",
-    "The cash sat in plain view in a remote turnout. Anyone who had broken in could have taken it. No one had.",
-    "Latimer County Sheriff Israel Beauchamp told reporters at the time that the scene made no sense. The family was simply gone. The dog had been left without food or water for days but was still alive when officers found it.",
-    "The Jamisons had a complicated life in the months before they vanished. Bobby and his father, Bob Sr., were embroiled in a property dispute. Bobby had filed restraining-order paperwork against his father. The conflict ran deep.",
-    "Sherilynn had told friends she believed their home in Eufaula was haunted. Surveillance recordings she gave a pastor included voices she could not explain. She was actively asking ministers for help.",
-    "Investigators recovered photographs from the family's camera that had been deleted but were partially recoverable. One showed Madyson smiling near the truck on the day they disappeared. Another showed a wider view of the property they had come to inspect.",
-    "Here's where the case takes a turn. A surveillance camera at the Jamison home captured something unusual the morning the family left. The footage showed Bobby and Sherilynn loading their truck, but they appeared mechanical, almost dazed, in their movements. Some viewers have described it as trance-like.",
-    "Investigators do not officially endorse the trance interpretation. They note that fatigue, illness, or emotional strain could explain what the footage shows.",
-    "For four years, every search of the area produced nothing. Latimer County officials used helicopters, ground teams, dogs, and ATV crews. The terrain is rough — sandstone outcrops, dense pine, and steep ravines.",
-    "Then on November 16, 2013, a hunter named John Brown discovered three skulls in a remote stretch of Latimer County, roughly 30 miles from where the truck had been parked. The skulls were partially buried.",
-    "DNA testing at the University of North Texas confirmed the remains belonged to Bobby, Sherilynn, and Madyson Jamison. The bodies had been there since 2009, exposed to the elements for four winters.",
-    "The Latimer County Sheriff's office and the Oklahoma State Bureau of Investigation could not determine cause of death. The skulls and remaining bones showed no obvious trauma. No bullet wounds. No fractures from blunt force.",
-    "Toxicology was impossible. Soft tissue had not survived. Investigators could not rule out poisoning, exposure, or any number of natural causes.",
-    "Sheriff Beauchamp at the time said the case was probably homicide based on the circumstances of the disappearance, but no charges were ever brought. There was no physical evidence pointing to a suspect.",
-    "Theories have ranged across every category. A double murder-suicide by the parents. A killing by Bobby's estranged father. A drug-related crime. A walk-off into the wilderness driven by mental illness.",
-    "Investigators specifically looked into Bobby Sr. They found no proof of involvement. He died in 2013, the same year the bodies were found, before the discovery was announced.",
-    "Some researchers have noted Sherilynn's documented spiritual struggles in the months before. The strange home recordings. The visits to ministers. None of it constitutes evidence, but it sits inside the case file.",
-    "The dog Maisy was rescued and lived for years afterward. Photos of her published in 2010 became one of the most haunting images in the case. She was the only living witness who survived the day.",
-    "The 32,000 dollars in the truck has never been fully explained. Family members have given differing accounts — investment funds, a planned land payment, savings the family had withdrawn out of distrust of banks. None of those reasons explain why it was left untouched.",
-    "Madyson Jamison would have been 22 years old in 2025. Family members continue to seek answers. A small memorial is maintained near the property line where the truck was found.",
-    "Latimer County investigators have said the case will remain open until physical evidence emerges or a credible witness comes forward. Neither has happened in 16 years.",
-    "Modern forensic anthropology cannot extract more from the remains than what was determined in 2013. The case sits at a permanent edge — a known outcome with an unknown cause.",
-    "If you have any information about the Jamison family or about activity in the Sans Bois Mountains in October 2009, the Latimer County Sheriff's Department continues to accept tips through its general investigations line.",
-    "Subscribe to DarkFiles and hit the bell. Next week's case goes deeper into a young girl from North Carolina who walked away from her bed at 3 a.m. and was never seen again."
-  ]
+    {
+      "voice": "On October 8, 2009, Bobby Jamison, 44, his wife Sherilynn, 40, and their six-year-old daughter Madyson left their Eufaula home in eastern Oklahoma to look at a 40-acre piece of land for sale near the Latimer-Pittsburg County line. Their truck was found a week later parked in a remote turnout on the side of a rural mountain road. The family was nowhere on it. The case has remained one of the strangest unresolved disappearances in modern Oklahoma history.",
+      "visual": "crime scene investigation",
+      "duration": 31
+    },
+    {
+      "voice": "Inside the abandoned vehicle, investigators found the family's wallets, identification, cell phones, and the dog Maisy still alive in the back. They also found a folder containing 32,000 dollars in cash sitting on the front seat. The cash sat in plain view in a remote turnout. Anyone who had broken in could have taken it. No one had. The discovery puzzled investigators from the start. Three people gone, all their belongings present, the money untouched.",
+      "visual": "detective board evidence",
+      "duration": 30
+    },
+    {
+      "voice": "Latimer County Sheriff Israel Beauchamp told reporters at the time that the scene made no sense. The family was simply gone. The dog had been left without food or water for days but was still alive when officers found it. Maisy was emaciated but alert. Veterinarians estimated she had been alone in the truck for between five and seven days. She was the only living witness who survived the day the family vanished.",
+      "visual": "old newspaper article",
+      "duration": 29
+    },
+    {
+      "voice": "The Jamisons had a complicated life in the months before they vanished. Bobby and his father, Bob Sr., were embroiled in a property dispute that had escalated over the previous year. Bobby had filed restraining-order paperwork against his father. The conflict ran deep — neighbors and friends described open hostility between the two men. Bobby had told family that he felt unsafe in his own community.",
+      "visual": "missing person flyer",
+      "duration": 26
+    },
+    {
+      "voice": "Sherilynn had told friends she believed their home in Eufaula was haunted. Surveillance recordings she gave a pastor included voices she could not explain. She was actively asking ministers for help. The pastor she consulted, Gary Brandon, later spoke publicly about her concerns. He described her as sincere and frightened. He had not been able to identify any source for the voices on the recordings she shared with him.",
+      "visual": "police investigation files",
+      "duration": 27
+    },
+    {
+      "voice": "Investigators recovered photographs from the family's camera that had been deleted but were partially recoverable. One showed Madyson smiling near the truck on the day they disappeared. Another showed a wider view of the property they had come to inspect. The recovered images established the timeline. They did not establish what happened after the camera was put away.",
+      "visual": "forensic lab analysis",
+      "duration": 23
+    },
+    {
+      "voice": "Here's where the case takes a turn. A surveillance camera at the Jamison home captured something unusual the morning the family left. The footage showed Bobby and Sherilynn loading their truck, but they appeared mechanical, almost dazed, in their movements. Some viewers have described it as trance-like. The footage was reviewed by behavioral analysts at the Oklahoma State Bureau of Investigation. Their conclusions were inconclusive.",
+      "visual": "abandoned building night",
+      "duration": 26
+    },
+    {
+      "voice": "Investigators do not officially endorse the trance interpretation. They note that fatigue, illness, or emotional strain could explain what the footage shows. Both Bobby and Sherilynn had been under medical care for various conditions. Their prescription records were reviewed during the investigation. Some medications they had been taking can produce sluggish movement and reduced affect.",
+      "visual": "rural road night",
+      "duration": 22
+    },
+    {
+      "voice": "For four years, every search of the area produced nothing. Latimer County officials used helicopters, ground teams, dogs, and ATV crews. The terrain is rough — sandstone outcrops, dense pine, and steep ravines. The Sans Bois Mountains, where the family had been searching for property, are difficult country. Visibility from the air is limited by the canopy. Ground searches require careful coordination.",
+      "visual": "courthouse exterior",
+      "duration": 24
+    },
+    {
+      "voice": "Then on November 16, 2013, a hunter named John Brown discovered three skulls in a remote stretch of Latimer County, roughly 30 miles from where the truck had been parked. The skulls were partially buried. Brown had been hunting deer and had stepped over a small rise. His discovery would close one chapter of the investigation and open new questions.",
+      "visual": "vintage photograph",
+      "duration": 24
+    },
+    {
+      "voice": "DNA testing at the University of North Texas confirmed the remains belonged to Bobby, Sherilynn, and Madyson Jamison. The bodies had been there since 2009, exposed to the elements for four winters. The four-year exposure had stripped away most of the soft tissue. Skeletal recovery was limited. The state medical examiner's office processed the remains carefully but could extract limited information.",
+      "visual": "fbi case files",
+      "duration": 24
+    },
+    {
+      "voice": "The Latimer County Sheriff's office and the Oklahoma State Bureau of Investigation could not determine cause of death. The skulls and remaining bones showed no obvious trauma. No bullet wounds. No fractures from blunt force. The absence of trauma indicators is itself unusual in a homicide case. Most foul-play deaths leave some skeletal record. The Jamison remains did not.",
+      "visual": "evidence bag tape",
+      "duration": 23
+    },
+    {
+      "voice": "Toxicology was impossible. Soft tissue had not survived. Investigators could not rule out poisoning, exposure, or any number of natural causes. Multiple potential explanations were consistent with the available evidence. None could be ruled out. Latimer County officials have stated the case is treated as homicide based on circumstances, not on physical evidence.",
+      "visual": "interrogation room",
+      "duration": 21
+    },
+    {
+      "voice": "Sheriff Beauchamp at the time said the case was probably homicide based on the circumstances of the disappearance, but no charges were ever brought. There was no physical evidence pointing to a suspect. Subsequent sheriffs have continued to maintain the case as open. Beauchamp himself left office in 2017. The case file has been transferred between investigators across multiple administrations.",
+      "visual": "darkroom flashlight investigation",
+      "duration": 24
+    },
+    {
+      "voice": "Theories have ranged across every category. A double murder-suicide by the parents. A killing by Bobby's estranged father. A drug-related crime. A walk-off into the wilderness driven by mental illness. Each theory has been examined by investigators. None has produced sufficient evidence for an arrest. The persistent uncertainty is part of what gives the case its enduring public attention.",
+      "visual": "vintage typewriter notes",
+      "duration": 23
+    },
+    {
+      "voice": "Investigators specifically looked into Bobby Sr. They found no proof of involvement. He died in 2013, the same year the bodies were found, before the discovery was announced. The timing of his death has been noted by some researchers but is not considered evidentially significant. He was not under indictment at the time of his death. He left no statement related to the case.",
+      "visual": "cold case archive",
+      "duration": 25
+    },
+    {
+      "voice": "Some researchers have noted Sherilynn's documented spiritual struggles in the months before. The strange home recordings. The visits to ministers. None of it constitutes evidence, but it sits inside the case file. Mental health professionals consulted by the family in 2009 had documented her concerns. The records, while not public, have been referenced in subsequent investigative summaries.",
+      "visual": "missing person search",
+      "duration": 22
+    },
+    {
+      "voice": "The dog Maisy was rescued and lived for years afterward. Photos of her published in 2010 became one of the most haunting images in the case. She was the only living witness who survived the day. Maisy was eventually adopted into a stable home and lived to old age. She passed away in 2018, almost a decade after the family disappeared. Her story has been part of multiple documentary projects.",
+      "visual": "police badge close up",
+      "duration": 28
+    },
+    {
+      "voice": "The 32,000 dollars in the truck has never been fully explained. Family members have given differing accounts — investment funds, a planned land payment, savings the family had withdrawn out of distrust of banks. None of those reasons explain why it was left untouched. The cash was eventually returned to the family estate. Its presence in the truck remains one of the most discussed elements of the case.",
+      "visual": "crime scene tape yellow",
+      "duration": 27
+    },
+    {
+      "voice": "Madyson Jamison would have been 22 years old in 2025. Family members continue to seek answers. A small memorial is maintained near the property line where the truck was found. Annual gatherings have been held in October by some relatives. The events are quiet and not heavily publicized. They serve as private acknowledgments rather than public advocacy.",
+      "visual": "old phone receiver",
+      "duration": 22
+    },
+    {
+      "voice": "Latimer County investigators have said the case will remain open until physical evidence emerges or a credible witness comes forward. Neither has happened in 16 years. The case file is reviewed periodically. Each review reaches similar conclusions about the limits of what can be determined from the available evidence. New investigators have brought fresh perspectives without producing decisive results.",
+      "visual": "investigator notebook",
+      "duration": 23
+    },
+    {
+      "voice": "Modern forensic anthropology cannot extract more from the remains than what was determined in 2013. The case sits at a permanent edge — a known outcome with an unknown cause. The University of North Texas Center for Human Identification has reviewed the evidence at the request of the family. Each review confirms the original identifications and the absence of trauma indicators.",
+      "visual": "evidence photograph wall",
+      "duration": 24
+    },
+    {
+      "voice": "Behavioral analysts who have studied the Jamison case note its peculiar mix of indicators. The deliberate loading of the truck, the surveillance footage's odd cadence, the destination chosen, the items carried — they suggest planning. The outcome — three deaths in a remote area without identifiable cause — suggests something far less intentional. The disconnect is what keeps the case unresolved.",
+      "visual": "darkened forest clue",
+      "duration": 24
+    },
+    {
+      "voice": "If you have any information about the Jamison family or about activity in the Sans Bois Mountains in October 2009, the Latimer County Sheriff's Department continues to accept tips through its general investigations line. Tips are accepted by phone, email, and through the Oklahoma State Bureau of Investigation portal. Even small recollections of unusual activity in eastern Oklahoma during early October 2009 can shape new leads.",
+      "visual": "vintage clock tower",
+      "duration": 26
+    },
+    {
+      "voice": "Subscribe to DarkFiles and hit the bell. Next week's case goes deeper into a young girl from North Carolina who walked away from her bed at 3 a.m. and was never seen again.",
+      "visual": "old map markings",
+      "duration": 20
+    }
+  ],
+  "thumbnail_text": "THE JAMISON FAMILY"
 }

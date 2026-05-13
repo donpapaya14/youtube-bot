@@ -1,30 +1,131 @@
 {
   "title": "The Cleveland Torso Killer: 1935-1938 📁",
   "segments": [
-    "Between 1935 and 1938, a killer dismembered at least 12 people in Cleveland, Ohio. Their torsos were dumped along the railroads, in the Cuyahoga River, and in a desolate area called Kingsbury Run. The killer was never caught — despite being investigated by Eliot Ness himself.",
-    "The first official victims were two unidentified men found in Kingsbury Run on September 23, 1935. Their bodies had been carefully dismembered. The cuts were precise. The killer had drained much of the blood before disposal.",
-    "Cleveland police investigated immediately. Detective Peter Merylo was assigned. He would spend the next three years working the case full-time. Merylo became the lead human investigator on what authorities began calling the Mad Butcher of Kingsbury Run.",
-    "The third victim was Florence Polillo, 41, found dismembered in pieces wrapped in burlap and newspaper on January 26, 1936. Sections of her body were identified by fingerprints. She had been a sex worker known to drink at certain bars on Cleveland's east side.",
-    "Polillo was the first victim identified by name. The killer had not concealed her body in the same way he concealed others. Some of the burlap had stenciled markings traceable to a Cleveland chicken company.",
-    "On June 5, 1936, an unidentified man's head was found near the East 55th Street rail tracks. His body was discovered later. He was later called the Tattooed Man because of six distinctive tattoos on his torso. Despite the tattoos and a death mask circulated nationally, he was never identified.",
-    "Eliot Ness, famous from the Untouchables case in Chicago, had become Cleveland's Safety Director in 1935. By 1936, he had taken personal interest in the Mad Butcher killings. He pulled together a special unit.",
-    "Here's where the case becomes a study in early profiling. Ness commissioned a behavioral analysis of the killer — decades before the term existed in formal policing. His investigators concluded the killer was a strong man, medically trained or surgically experienced, with a vehicle and access to a private space for the dismemberments.",
-    "Ness's unit identified several persons of interest. The two who became central were Frank Dolezal, a Cleveland bricklayer who knew Polillo, and Francis Sweeney, a doctor who had grown up in the same Kingsbury Run area where most bodies had been dumped.",
-    "Dolezal was arrested in 1939 by the Cuyahoga County Sheriff. He was held for questioning, where he reportedly confessed under disputed circumstances. Multiple investigators believed the confession had been beaten out of him. He died in jail in August 1939, officially by hanging in his cell.",
-    "Sweeney was the more credible suspect for many investigators. He was a Spanish-American War veteran, a surgeon, and a relative of Cleveland Congressman Martin Sweeney. Eliot Ness interrogated him personally over multiple days at the Cleveland Hotel in August 1938.",
-    "Ness used a polygraph operated by Leonarde Keeler — the inventor of the modern polygraph. Sweeney's results indicated extreme deception. Ness believed Sweeney was the killer.",
-    "Sweeney was never charged. The political weight of his cousin in Congress made formal prosecution impossible. Sweeney voluntarily committed himself to a series of veterans' hospitals starting weeks after the Ness interrogation. The Mad Butcher killings stopped at the same time.",
-    "Sweeney remained institutionalized for the rest of his life. He died in 1964 at a veterans' hospital in Dayton, Ohio. From inside the hospital he sent Ness a series of postcards over years — some taunting, some cryptic, some signed with phrases linking him to the Kingsbury Run case.",
-    "The postcards are held in the Eliot Ness Papers at the Cleveland Memorial Library. Researchers can review them under standard archival rules. They have never produced a definitive admission of guilt.",
-    "The known Cleveland Torso Killer victims are 12 confirmed. Some researchers argue for as many as 18 across multiple states, including unsolved torso cases in New Castle, Pennsylvania and youthful workers along the rail lines into Cleveland.",
-    "Many of the victims were drifters, sex workers, and rail-riders during the Great Depression. Identification was difficult. Some bodies have never been named. The case files include death masks of unidentified victims that are still on display at the Cuyahoga County medical examiner's office.",
-    "The Cleveland Police Department maintains the original Torso Killer case files. They are preserved at the Cleveland Police Museum, which is open to researchers and the public. Original photographs, fingerprint cards, and Merylo's case notes are housed there.",
-    "Detective Peter Merylo continued to work the case privately into the 1950s. He insisted the killer had moved on to other cities. He never publicly identified the suspect Ness had pursued.",
-    "The case has been the subject of multiple books, including James Jessen Badal's research drawing from the Cleveland Police archives and from the Eliot Ness Papers. Badal's work argues for the strongest case yet against Sweeney.",
-    "Modern investigators looking at the Torso Killer files cannot apply DNA analysis. Most of the physical evidence was buried with the bodies or destroyed during decades of file storage. What remains is the documentary record.",
-    "Kingsbury Run today is partly developed and partly abandoned. The rail lines still exist. Walking tours occasionally visit the area. Plaques mark where some of the victims were found.",
-    "The Torso Killer case sits in early American serial-killer history alongside H. H. Holmes and the Servant Girl Annihilator. It is also the case that ended Eliot Ness's reputation in Cleveland — he was widely seen as failing to make an arrest, even after his polygraph identification of Sweeney.",
-    "If you are researching pre-war American crime, the Cleveland Police Museum and the Cleveland Memorial Library both maintain extensive Torso Killer holdings. Public visits and research applications are accepted.",
-    "Subscribe to DarkFiles and hit the bell. Next week's case goes deeper into a series of dismemberments in Toledo that may have been connected to the same killer."
-  ]
+    {
+      "voice": "Between 1935 and 1938, a killer dismembered at least 12 people in Cleveland, Ohio. Their torsos were dumped along the railroads, in the Cuyahoga River, and in a desolate area called Kingsbury Run. The killer was never caught — despite being investigated by Eliot Ness himself.",
+      "visual": "crime scene investigation",
+      "duration": 20
+    },
+    {
+      "voice": "The first official victims were two unidentified men found in Kingsbury Run on September 23, 1935. Their bodies had been carefully dismembered. The cuts were precise. The killer had drained much of the blood before disposal.",
+      "visual": "detective board evidence",
+      "duration": 20
+    },
+    {
+      "voice": "Cleveland police investigated immediately. Detective Peter Merylo was assigned. He would spend the next three years working the case full-time. Merylo became the lead human investigator on what authorities began calling the Mad Butcher of Kingsbury Run.",
+      "visual": "old newspaper article",
+      "duration": 20
+    },
+    {
+      "voice": "The third victim was Florence Polillo, 41, found dismembered in pieces wrapped in burlap and newspaper on January 26, 1936. Sections of her body were identified by fingerprints. She had been a sex worker known to drink at certain bars on Cleveland's east side.",
+      "visual": "missing person flyer",
+      "duration": 20
+    },
+    {
+      "voice": "Polillo was the first victim identified by name. The killer had not concealed her body in the same way he concealed others. Some of the burlap had stenciled markings traceable to a Cleveland chicken company.",
+      "visual": "police investigation files",
+      "duration": 20
+    },
+    {
+      "voice": "On June 5, 1936, an unidentified man's head was found near the East 55th Street rail tracks. His body was discovered later. He was later called the Tattooed Man because of six distinctive tattoos on his torso. Despite the tattoos and a death mask circulated nationally, he was never identified.",
+      "visual": "forensic lab analysis",
+      "duration": 20
+    },
+    {
+      "voice": "Eliot Ness, famous from the Untouchables case in Chicago, had become Cleveland's Safety Director in 1935. By 1936, he had taken personal interest in the Mad Butcher killings. He pulled together a special unit.",
+      "visual": "abandoned building night",
+      "duration": 20
+    },
+    {
+      "voice": "Here's where the case becomes a study in early profiling. Ness commissioned a behavioral analysis of the killer — decades before the term existed in formal policing. His investigators concluded the killer was a strong man, medically trained or surgically experienced, with a vehicle and access to a private space for the dismemberments.",
+      "visual": "rural road night",
+      "duration": 21
+    },
+    {
+      "voice": "Ness's unit identified several persons of interest. The two who became central were Frank Dolezal, a Cleveland bricklayer who knew Polillo, and Francis Sweeney, a doctor who had grown up in the same Kingsbury Run area where most bodies had been dumped.",
+      "visual": "courthouse exterior",
+      "duration": 20
+    },
+    {
+      "voice": "Dolezal was arrested in 1939 by the Cuyahoga County Sheriff. He was held for questioning, where he reportedly confessed under disputed circumstances. Multiple investigators believed the confession had been beaten out of him. He died in jail in August 1939, officially by hanging in his cell.",
+      "visual": "vintage photograph",
+      "duration": 20
+    },
+    {
+      "voice": "Sweeney was the more credible suspect for many investigators. He was a Spanish-American War veteran, a surgeon, and a relative of Cleveland Congressman Martin Sweeney. Eliot Ness interrogated him personally over multiple days at the Cleveland Hotel in August 1938.",
+      "visual": "fbi case files",
+      "duration": 20
+    },
+    {
+      "voice": "Ness used a polygraph operated by Leonarde Keeler — the inventor of the modern polygraph. Sweeney's results indicated extreme deception. Ness believed Sweeney was the killer.",
+      "visual": "evidence bag tape",
+      "duration": 20
+    },
+    {
+      "voice": "Sweeney was never charged. The political weight of his cousin in Congress made formal prosecution impossible. Sweeney voluntarily committed himself to a series of veterans' hospitals starting weeks after the Ness interrogation. The Mad Butcher killings stopped at the same time.",
+      "visual": "interrogation room",
+      "duration": 20
+    },
+    {
+      "voice": "Sweeney remained institutionalized for the rest of his life. He died in 1964 at a veterans' hospital in Dayton, Ohio. From inside the hospital he sent Ness a series of postcards over years — some taunting, some cryptic, some signed with phrases linking him to the Kingsbury Run case.",
+      "visual": "darkroom flashlight investigation",
+      "duration": 20
+    },
+    {
+      "voice": "The postcards are held in the Eliot Ness Papers at the Cleveland Memorial Library. Researchers can review them under standard archival rules. They have never produced a definitive admission of guilt.",
+      "visual": "vintage typewriter notes",
+      "duration": 20
+    },
+    {
+      "voice": "The known Cleveland Torso Killer victims are 12 confirmed. Some researchers argue for as many as 18 across multiple states, including unsolved torso cases in New Castle, Pennsylvania and youthful workers along the rail lines into Cleveland.",
+      "visual": "cold case archive",
+      "duration": 20
+    },
+    {
+      "voice": "Many of the victims were drifters, sex workers, and rail-riders during the Great Depression. Identification was difficult. Some bodies have never been named. The case files include death masks of unidentified victims that are still on display at the Cuyahoga County medical examiner's office.",
+      "visual": "missing person search",
+      "duration": 20
+    },
+    {
+      "voice": "The Cleveland Police Department maintains the original Torso Killer case files. They are preserved at the Cleveland Police Museum, which is open to researchers and the public. Original photographs, fingerprint cards, and Merylo's case notes are housed there.",
+      "visual": "police badge close up",
+      "duration": 20
+    },
+    {
+      "voice": "Detective Peter Merylo continued to work the case privately into the 1950s. He insisted the killer had moved on to other cities. He never publicly identified the suspect Ness had pursued.",
+      "visual": "crime scene tape yellow",
+      "duration": 20
+    },
+    {
+      "voice": "The case has been the subject of multiple books, including James Jessen Badal's research drawing from the Cleveland Police archives and from the Eliot Ness Papers. Badal's work argues for the strongest case yet against Sweeney.",
+      "visual": "old phone receiver",
+      "duration": 20
+    },
+    {
+      "voice": "Modern investigators looking at the Torso Killer files cannot apply DNA analysis. Most of the physical evidence was buried with the bodies or destroyed during decades of file storage. What remains is the documentary record.",
+      "visual": "investigator notebook",
+      "duration": 20
+    },
+    {
+      "voice": "Kingsbury Run today is partly developed and partly abandoned. The rail lines still exist. Walking tours occasionally visit the area. Plaques mark where some of the victims were found.",
+      "visual": "evidence photograph wall",
+      "duration": 20
+    },
+    {
+      "voice": "The Torso Killer case sits in early American serial-killer history alongside H. H. Holmes and the Servant Girl Annihilator. It is also the case that ended Eliot Ness's reputation in Cleveland — he was widely seen as failing to make an arrest, even after his polygraph identification of Sweeney.",
+      "visual": "darkened forest clue",
+      "duration": 20
+    },
+    {
+      "voice": "If you are researching pre-war American crime, the Cleveland Police Museum and the Cleveland Memorial Library both maintain extensive Torso Killer holdings. Public visits and research applications are accepted.",
+      "visual": "vintage clock tower",
+      "duration": 20
+    },
+    {
+      "voice": "Subscribe to DarkFiles and hit the bell. Next week's case goes deeper into a series of dismemberments in Toledo that may have been connected to the same killer.",
+      "visual": "old map markings",
+      "duration": 20
+    }
+  ],
+  "thumbnail_text": "THE CLEVELAND TORSO"
 }

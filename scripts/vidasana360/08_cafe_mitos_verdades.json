@@ -1,34 +1,145 @@
 {
   "title": "🌿 Café — mitos y verdades de la ciencia 2026",
   "description": "Lo que la última década de investigación nos ha enseñado sobre el café. Sus efectos reales, falsos mitos y cómo tomarlo sin que te perjudique.",
-  "tags": ["café", "cafeína", "salud", "metabolismo", "nutrición"],
-  "segments": [
-    "El café es probablemente la bebida más estudiada del mundo después del agua. Cientos de meta-análisis, miles de ensayos clínicos. Y sin embargo, sigue rodeado de mitos contradictorios. Que es malo para el corazón. Que es bueno para el hígado. Que sube tensión. Que la baja. La verdad es matizada y depende de cómo lo tomes y de quién seas tú. Vamos a separar el grano de la paja.",
-    "El primer mito a desmontar. Que el café deshidrata. La idea viene de un estudio pequeño de 1928 que se citó durante décadas sin replicar. Trabajos modernos como el de Sophie Killer en Birmingham en 2014 con 50 hombres confirmaron que tres a cuatro tazas no causaban deshidratación. La cafeína es un diurético leve, sí, pero el agua del propio café compensa con creces.",
-    "El segundo mito común. Que el café te roba el calcio y descalcifica los huesos. Hay un grano de verdad muy pequeño. La cafeína aumenta excreción urinaria de calcio en una cantidad ridícula, dos a tres miligramos por taza. Si tomas un yogur al día, lo compensas mil veces. Solo tendría algún efecto si bebes seis cafés diarios y nunca consumes lácteos ni vegetales con calcio.",
-    "Una verdad importante. El café reduce el riesgo de diabetes tipo 2. El meta-análisis más amplio publicado por Diabetes Care en 2014, con más de un millón de participantes, mostró que cada taza diaria reducía riesgo en un 7 por ciento. El descafeinado tenía efecto similar, lo que sugiere que el beneficio no es solo cosa de la cafeína sino de los polifenoles del grano.",
-    "El café y el corazón. Aquí mucha gente se confunde. Los estudios actuales muestran asociación con menor riesgo cardiovascular hasta tres o cuatro tazas al día. Más de cinco empieza a aumentar arritmias en personas predispuestas. La doctora Elina Hyppönen en Australia publicó en 2022 que el rango óptimo está entre dos y tres tazas, con curva en U para morbimortalidad.",
-    "Aquí está el truco poco conocido. La metabolización de la cafeína depende del gen CYP1A2. Hay metabolizadores rápidos y lentos. Los lentos tienen más riesgo de hipertensión y arritmia con consumo alto. Los rápidos no muestran ese problema. Si tu padre tiene hipertensión y reaccionas mal al café, probablemente eres metabolizador lento. Test genéticos comerciales identifican esto por unos 50 euros.",
-    "El café antes del entrenamiento. Una verdad sólida. La cafeína aumenta rendimiento en pruebas de fuerza y resistencia entre un 3 y un 7 por ciento según meta-análisis de Nanci Guest en 2021 en International Society of Sports Nutrition. La dosis útil es de 3 a 6 miligramos por kilo de peso, tomada 45 minutos antes del esfuerzo. Para un adulto medio son dos cafés.",
-    "El café en ayunas. Aquí hay debate. La cafeína sin nada en el estómago dispara cortisol que ya está alto de manera fisiológica. Para personas sensibles, esto se traduce en ansiedad, palpitaciones y bajón energético dos horas después. Andrew Huberman ha popularizado esperar 90 a 120 minutos tras despertar para tomar el primer café, basado en cronobiología.",
-    "Lo que probé yo. Durante un mes adelanté el café a las nueve y media en lugar de tomarlo nada más despertar. Beber agua y salir al sol primero. La energía durante la mañana fue más estable y la siesta forzosa de las cinco de la tarde desapareció. No funciona para todo el mundo, pero para mí cambió la curva.",
-    "El café y el hígado. Una de las relaciones mejor estudiadas. Múltiples meta-análisis confirman que tres a cuatro tazas diarias reducen riesgo de enfermedad hepática crónica, cirrosis y hepatocarcinoma. La doctora Susanna Larsson del Karolinska sigue publicando trabajos sobre esto desde hace una década. El mecanismo parece estar en los polifenoles, especialmente el ácido clorogénico.",
-    "Una sorpresa para muchos. El café reduce el riesgo de Parkinson y Alzheimer en estudios observacionales. Un meta-análisis de 2022 con 13 estudios prospectivos mostró un 30 por ciento menos de riesgo de Parkinson en consumidores habituales. La asociación con Alzheimer es más débil pero apunta en la misma dirección. No es causal demostrado, pero la coherencia con estudios animales es notable.",
-    "Pero hay un detalle. El café con leche con cuatro azucares no tiene los mismos beneficios. La adición de azúcar libre cancela parte de los efectos metabólicos del café puro. Si lo tomas como vehículo de calorías vacías, deja de ser bebida saludable. La forma de consumo tradicional española de café solo o con un poco de leche entera funciona bien.",
-    "El embarazo. La sociedad europea de seguridad alimentaria recomienda no superar los 200 miligramos diarios durante el embarazo. Equivale a dos tazas de café normales. La cafeína cruza la placenta y el feto la metaboliza muy lentamente. Estudios observacionales han asociado consumo elevado a bajo peso al nacer. La precaución merece la pena durante esos meses.",
-    "El descafeinado merece atención. El proceso moderno con CO2 supercrítico es seguro y conserva polifenoles. El método antiguo con disolventes orgánicos como diclorometano sigue siendo legal en Europa, aunque a niveles residuales. Si vas a beber descafeinado, busca marcas que indiquen método de descafeinado al CO2 o swiss water. La diferencia de precio es pequeña.",
-    "El café espresso versus filtrado. El filtrado retiene los diterpenos como cafestol y kahweol, que pueden subir colesterol LDL si se consumen en exceso. El espresso, la cafetera italiana y el café turco no filtran estos compuestos. Para alguien con colesterol alto, conviene priorizar café americano de filtro o el método V60. Tres a cuatro tazas de espresso pueden subir el colesterol entre 5 y 10 puntos.",
-    "El café instantáneo. Tiene menos polifenoles que el de grano por el procesado térmico. Pero conserva la cafeína y parte de los beneficios. Como peor opción, no es despreciable. Si en tu trabajo solo hay instantáneo, sigue siendo mejor que un refresco azucarado. Pero en casa, una cafetera básica con café de grano es una de las mejores compras de salud por euro.",
-    "La adicción a la cafeína es real, aunque suave. La retirada brusca produce cefalea, irritabilidad y fatiga durante 2 a 4 días. Si quieres reducir consumo, hazlo de manera progresiva, restando un café cada cuatro días. Tras una semana de adaptación, la dependencia desaparece. La tolerancia metabólica también baja, así que cuando vuelvas, la dosis te hará más efecto.",
-    "Cuándo conviene parar. La señal más clara es que el café ya no te despierta. Si necesitas tres tazas para sentir lo que antes te daba una, has alcanzado tolerancia alta. Una semana de descanso reseta los receptores. Otro indicador es palpitaciones en reposo o ansiedad sin razón. Tu cuerpo te está diciendo que has pasado el límite.",
-    "El café y el ácido en el estómago. Aquí no es café fuerte versus suave, sino tolerancia individual. Hay personas con reflujo que toleran espresso pero no infusión filtrada. Otras al revés. Si tienes ardor, prueba cambiar el método de preparación antes de eliminar el café. La temperatura, la finura del molido y el tiempo de extracción cambian mucho la acidez percibida.",
-    "El truco poco conocido del café frío. La preparación cold brew con extracción de 12 a 18 horas en agua fría reduce la acidez en un 67 por ciento según trabajos del MIT. Conserva la cafeína y polifenoles. Para personas con problemas digestivos, es la forma más amable de tomar café. En verano además es delicioso.",
-    "El café antes de dormir. Solo a personas muy específicas las afecta poco la cafeína por la noche. La regla general es que no se debería tomar café después de las dos de la tarde si quieres dormir bien. La vida media es de 5 a 6 horas. Una taza a las cinco deja la mitad activa a las once de la noche.",
-    "Algo que comparte cualquier nutricionista clínico. El café no sustituye al sueño. Si llevas dos noches durmiendo cinco horas, no hay café que te repare. La privación de sueño tiene efectos cognitivos y metabólicos que la cafeína solo enmascara. La pregunta correcta no es cuánto café necesitas, es cuántas horas duermes.",
-    "Una verdad menos popular. El café aumenta la motilidad intestinal. Para muchas personas funciona como laxante natural matinal. Trabajos de la doctora Jasmina Brankovic en Estados Unidos lo confirmaron en estudios de manometría. No es solo psicológico, es un efecto fisiológico real sobre el músculo del colon. Para quienes sufren estreñimiento, el café matinal es un aliado.",
-    "El café y la presión arterial. Aumenta la sistólica entre 5 y 10 mmHg de manera transitoria durante 1 a 3 horas tras el consumo. Para personas con tensión normal, irrelevante. Para hipertensos descompensados, conviene moderar. Sin embargo, los consumidores crónicos desarrollan tolerancia y la presión se normaliza tras semanas de consumo regular.",
-    "Para terminar. El café con moderación es uno de los hábitos saludables mejor documentados. Tres tazas al día, sin azúcar añadida, evitando consumo después de las dos de la tarde, sale rentable casi siempre. Pero tampoco lo idolatres. Es café, no medicamento. Si tu vida está mal, el café no la arregla. Es solo una pieza más en una rutina coherente.",
-    "Suscríbete a VidaSana360 y dale a la campana. Lo que viene la próxima semana es un análisis del agua con limón en ayunas. Cuánto hay de pseudociencia y cuánto de realidad en este ritual matutino tan popular."
+  "tags": [
+    "café",
+    "cafeína",
+    "salud",
+    "metabolismo",
+    "nutrición"
   ],
-  "duration_estimate_seconds": 1380
+  "segments": [
+    {
+      "voice": "El café es probablemente la bebida más estudiada del mundo después del agua. Cientos de meta-análisis, miles de ensayos clínicos. Y sin embargo, sigue rodeado de mitos contradictorios. Que es malo para el corazón. Que es bueno para el hígado. Que sube tensión. Que la baja. La verdad es matizada y depende de cómo lo tomes y de quién seas tú. Vamos a separar el grano de la paja.",
+      "visual": "healthy breakfast plate",
+      "duration": 27
+    },
+    {
+      "voice": "El primer mito a desmontar. Que el café deshidrata. La idea viene de un estudio pequeño de 1928 que se citó durante décadas sin replicar. Trabajos modernos como el de Sophie Killer en Birmingham en 2014 con 50 hombres confirmaron que tres a cuatro tazas no causaban deshidratación. La cafeína es un diurético leve, sí, pero el agua del propio café compensa con creces.",
+      "visual": "fresh vegetables wooden table",
+      "duration": 25
+    },
+    {
+      "voice": "El segundo mito común. Que el café te roba el calcio y descalcifica los huesos. Hay un grano de verdad muy pequeño. La cafeína aumenta excreción urinaria de calcio en una cantidad ridícula, dos a tres miligramos por taza. Si tomas un yogur al día, lo compensas mil veces. Solo tendría algún efecto si bebes seis cafés diarios y nunca consumes lácteos ni vegetales con calcio.",
+      "visual": "person meditation morning",
+      "duration": 26
+    },
+    {
+      "voice": "Una verdad importante. El café reduce el riesgo de diabetes tipo 2. El meta-análisis más amplio publicado por Diabetes Care en 2014, con más de un millón de participantes, mostró que cada taza diaria reducía riesgo en un 7 por ciento. El descafeinado tenía efecto similar, lo que sugiere que el beneficio no es solo cosa de la cafeína sino de los polifenoles del grano.",
+      "visual": "wellness fitness routine",
+      "duration": 26
+    },
+    {
+      "voice": "El café y el corazón. Aquí mucha gente se confunde. Los estudios actuales muestran asociación con menor riesgo cardiovascular hasta tres o cuatro tazas al día. Más de cinco empieza a aumentar arritmias en personas predispuestas. La doctora Elina Hyppönen en Australia publicó en 2022 que el rango óptimo está entre dos y tres tazas, con curva en U para morbimortalidad.",
+      "visual": "fresh fruit smoothie",
+      "duration": 24
+    },
+    {
+      "voice": "Aquí está el truco poco conocido. La metabolización de la cafeína depende del gen CYP1A2. Hay metabolizadores rápidos y lentos. Los lentos tienen más riesgo de hipertensión y arritmia con consumo alto. Los rápidos no muestran ese problema. Si tu padre tiene hipertensión y reaccionas mal al café, probablemente eres metabolizador lento. Test genéticos comerciales identifican esto por unos 50 euros.",
+      "visual": "person exercising home",
+      "duration": 24
+    },
+    {
+      "voice": "El café antes del entrenamiento. Una verdad sólida. La cafeína aumenta rendimiento en pruebas de fuerza y resistencia entre un 3 y un 7 por ciento según meta-análisis de Nanci Guest en 2021 en International Society of Sports Nutrition. La dosis útil es de 3 a 6 miligramos por kilo de peso, tomada 45 minutos antes del esfuerzo. Para un adulto medio son dos cafés.",
+      "visual": "doctor patient consultation",
+      "duration": 26
+    },
+    {
+      "voice": "El café en ayunas. Aquí hay debate. La cafeína sin nada en el estómago dispara cortisol que ya está alto de manera fisiológica. Para personas sensibles, esto se traduce en ansiedad, palpitaciones y bajón energético dos horas después. Andrew Huberman ha popularizado esperar 90 a 120 minutos tras despertar para tomar el primer café, basado en cronobiología.",
+      "visual": "scientific lab research",
+      "duration": 22
+    },
+    {
+      "voice": "Lo que probé yo. Durante un mes adelanté el café a las nueve y media en lugar de tomarlo nada más despertar. Beber agua y salir al sol primero. La energía durante la mañana fue más estable y la siesta forzosa de las cinco de la tarde desapareció. No funciona para todo el mundo, pero para mí cambió la curva.",
+      "visual": "natural food cooking",
+      "duration": 24
+    },
+    {
+      "voice": "El café y el hígado. Una de las relaciones mejor estudiadas. Múltiples meta-análisis confirman que tres a cuatro tazas diarias reducen riesgo de enfermedad hepática crónica, cirrosis y hepatocarcinoma. La doctora Susanna Larsson del Karolinska sigue publicando trabajos sobre esto desde hace una década. El mecanismo parece estar en los polifenoles, especialmente el ácido clorogénico.",
+      "visual": "person sleeping peaceful",
+      "duration": 22
+    },
+    {
+      "voice": "Una sorpresa para muchos. El café reduce el riesgo de Parkinson y Alzheimer en estudios observacionales. Un meta-análisis de 2022 con 13 estudios prospectivos mostró un 30 por ciento menos de riesgo de Parkinson en consumidores habituales. La asociación con Alzheimer es más débil pero apunta en la misma dirección. No es causal demostrado, pero la coherencia con estudios animales es notable.",
+      "visual": "yoga stretching wellness",
+      "duration": 24
+    },
+    {
+      "voice": "Pero hay un detalle. El café con leche con cuatro azucares no tiene los mismos beneficios. La adición de azúcar libre cancela parte de los efectos metabólicos del café puro. Si lo tomas como vehículo de calorías vacías, deja de ser bebida saludable. La forma de consumo tradicional española de café solo o con un poco de leche entera funciona bien.",
+      "visual": "fresh herbs spices",
+      "duration": 24
+    },
+    {
+      "voice": "El embarazo. La sociedad europea de seguridad alimentaria recomienda no superar los 200 miligramos diarios durante el embarazo. Equivale a dos tazas de café normales. La cafeína cruza la placenta y el feto la metaboliza muy lentamente. Estudios observacionales han asociado consumo elevado a bajo peso al nacer. La precaución merece la pena durante esos meses.",
+      "visual": "healthy lifestyle outdoor",
+      "duration": 22
+    },
+    {
+      "voice": "El descafeinado merece atención. El proceso moderno con CO2 supercrítico es seguro y conserva polifenoles. El método antiguo con disolventes orgánicos como diclorometano sigue siendo legal en Europa, aunque a niveles residuales. Si vas a beber descafeinado, busca marcas que indiquen método de descafeinado al CO2 o swiss water. La diferencia de precio es pequeña.",
+      "visual": "person hydration water",
+      "duration": 22
+    },
+    {
+      "voice": "El café espresso versus filtrado. El filtrado retiene los diterpenos como cafestol y kahweol, que pueden subir colesterol LDL si se consumen en exceso. El espresso, la cafetera italiana y el café turco no filtran estos compuestos. Para alguien con colesterol alto, conviene priorizar café americano de filtro o el método V60. Tres a cuatro tazas de espresso pueden subir el colesterol entre 5 y 10 puntos.",
+      "visual": "balanced nutrition diet",
+      "duration": 26
+    },
+    {
+      "voice": "El café instantáneo. Tiene menos polifenoles que el de grano por el procesado térmico. Pero conserva la cafeína y parte de los beneficios. Como peor opción, no es despreciable. Si en tu trabajo solo hay instantáneo, sigue siendo mejor que un refresco azucarado. Pero en casa, una cafetera básica con café de grano es una de las mejores compras de salud por euro.",
+      "visual": "person stress relaxation",
+      "duration": 25
+    },
+    {
+      "voice": "La adicción a la cafeína es real, aunque suave. La retirada brusca produce cefalea, irritabilidad y fatiga durante 2 a 4 días. Si quieres reducir consumo, hazlo de manera progresiva, restando un café cada cuatro días. Tras una semana de adaptación, la dependencia desaparece. La tolerancia metabólica también baja, así que cuando vuelvas, la dosis te hará más efecto.",
+      "visual": "fitness workout home",
+      "duration": 23
+    },
+    {
+      "voice": "Cuándo conviene parar. La señal más clara es que el café ya no te despierta. Si necesitas tres tazas para sentir lo que antes te daba una, has alcanzado tolerancia alta. Una semana de descanso reseta los receptores. Otro indicador es palpitaciones en reposo o ansiedad sin razón. Tu cuerpo te está diciendo que has pasado el límite.",
+      "visual": "healthy senior active",
+      "duration": 23
+    },
+    {
+      "voice": "El café y el ácido en el estómago. Aquí no es café fuerte versus suave, sino tolerancia individual. Hay personas con reflujo que toleran espresso pero no infusión filtrada. Otras al revés. Si tienes ardor, prueba cambiar el método de preparación antes de eliminar el café. La temperatura, la finura del molido y el tiempo de extracción cambian mucho la acidez percibida.",
+      "visual": "nutritionist food healthy",
+      "duration": 24
+    },
+    {
+      "voice": "El truco poco conocido del café frío. La preparación cold brew con extracción de 12 a 18 horas en agua fría reduce la acidez en un 67 por ciento según trabajos del MIT. Conserva la cafeína y polifenoles. Para personas con problemas digestivos, es la forma más amable de tomar café. En verano además es delicioso.",
+      "visual": "wellness spa relaxation",
+      "duration": 22
+    },
+    {
+      "voice": "El café antes de dormir. Solo a personas muy específicas las afecta poco la cafeína por la noche. La regla general es que no se debería tomar café después de las dos de la tarde si quieres dormir bien. La vida media es de 5 a 6 horas. Una taza a las cinco deja la mitad activa a las once de la noche.",
+      "visual": "scientific study brain",
+      "duration": 25
+    },
+    {
+      "voice": "Algo que comparte cualquier nutricionista clínico. El café no sustituye al sueño. Si llevas dos noches durmiendo cinco horas, no hay café que te repare. La privación de sueño tiene efectos cognitivos y metabólicos que la cafeína solo enmascara. La pregunta correcta no es cuánto café necesitas, es cuántas horas duermes.",
+      "visual": "person walking nature",
+      "duration": 20
+    },
+    {
+      "voice": "Una verdad menos popular. El café aumenta la motilidad intestinal. Para muchas personas funciona como laxante natural matinal. Trabajos de la doctora Jasmina Brankovic en Estados Unidos lo confirmaron en estudios de manometría. No es solo psicológico, es un efecto fisiológico real sobre el músculo del colon. Para quienes sufren estreñimiento, el café matinal es un aliado.",
+      "visual": "vitamin supplements natural",
+      "duration": 22
+    },
+    {
+      "voice": "El café y la presión arterial. Aumenta la sistólica entre 5 y 10 mmHg de manera transitoria durante 1 a 3 horas tras el consumo. Para personas con tensión normal, irrelevante. Para hipertensos descompensados, conviene moderar. Sin embargo, los consumidores crónicos desarrollan tolerancia y la presión se normaliza tras semanas de consumo regular.",
+      "visual": "anti aging skincare",
+      "duration": 21
+    },
+    {
+      "voice": "Para terminar. El café con moderación es uno de los hábitos saludables mejor documentados. Tres tazas al día, sin azúcar añadida, evitando consumo después de las dos de la tarde, sale rentable casi siempre. Pero tampoco lo idolatres. Es café, no medicamento. Si tu vida está mal, el café no la arregla. Es solo una pieza más en una rutina coherente.",
+      "visual": "healthy cooking kitchen",
+      "duration": 24
+    },
+    {
+      "voice": "Suscríbete a VidaSana360 y dale a la campana. Lo que viene la próxima semana es un análisis del agua con limón en ayunas. Cuánto hay de pseudociencia y cuánto de realidad en este ritual matutino tan popular.",
+      "visual": "healthy breakfast plate",
+      "duration": 20
+    }
+  ],
+  "duration_estimate_seconds": 1380,
+  "thumbnail_text": "CAFÉ MITOS Y"
 }

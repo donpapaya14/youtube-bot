@@ -1,34 +1,149 @@
 {
   "title": "🧠 The Neuroscience of Falling in Love",
   "description": "What fMRI scans reveal about love. Helen Fisher, Lucy Brown, and the chemistry behind attraction, attachment, and obsession.",
-  "tags": ["neuroscience", "love", "psychology", "relationships", "mindwired"],
+  "tags": [
+    "neuroscience",
+    "love",
+    "psychology",
+    "relationships",
+    "mindwired"
+  ],
   "segments": [
-    "Seventeen people lay in an MRI scanner. Each looked at a photograph of someone they had recently fallen for. The scanner watched their brains in real time. What lit up looked like the neural pattern of cocaine intoxication, not the soft glow most people expected from love. The year was 2005. The lead author was anthropologist Helen Fisher. The paper changed how science talks about romance.",
-    "Fisher, working with Lucy Brown at Albert Einstein College of Medicine and Arthur Aron at Stony Brook, mapped the first neural signature of romantic love. The ventral tegmental area fired. The caudate nucleus engaged heavily. Both regions belong to the brain's reward circuitry. The same circuits drive food, sex, and addiction. The brain treats the beloved the way it treats other reward sources, with motivation rather than satisfaction.",
-    "Their paper landed in the Journal of Neurophysiology and rippled through psychology, anthropology, and clinical practice. The findings cracked something open. Love isn't an emotion in the simple sense most people use. It's a motivational state. The brain treats the beloved as a reward to obtain through sustained pursuit. Not happiness in the moment. Pursuit over time. The chemistry pushes the person forward toward the target of attention.",
-    "Dopamine drives the engine of early love. Levels surge in the early phase of infatuation. Eight to twelve weeks of intense focus on one person dominate consciousness. Sleep needs drop. Appetite wanes. Energy spikes despite the lack of rest. Donatella Marazziti at the University of Pisa found cortisol elevated in this period too. The body acts stressed. The hormonal profile resembles low-grade chronic stress with reward overlay.",
-    "Marazziti's 1999 paper in Psychological Medicine showed something stranger. Serotonin levels in newly in-love people resembled those of people with obsessive-compulsive disorder. Roughly 40 percent below normal across her sample. The intrusive thoughts about the beloved, the inability to stop checking for messages, the constant mental rehearsal of conversations, share neurochemistry with OCD. Love and obsession overlap at the molecular level more than language suggests.",
-    "Here's the catch. This phase doesn't last. Marazziti retested her couples after 12 to 24 months in a follow-up. Serotonin returned to baseline. The obsessive thoughts faded. The sleep returned. People often misread this transition as falling out of love. They aren't. They're moving into a different system entirely, one driven by different molecules and producing a different subjective experience of the relationship.",
-    "Fisher splits love into three systems based on her fMRI and cross-cultural data. Lust, driven by testosterone and estrogen across both sexes. Attraction, driven by dopamine and norepinephrine in the early infatuation phase. Attachment, driven by oxytocin and vasopressin in long-term bonds. They evolved separately and serve different evolutionary purposes. They sometimes target the same person. They sometimes don't, which explains affairs more clinically than morally.",
-    "The attachment system is what keeps people together for years and decades. Sue Carter at Indiana University has studied prairie voles since the 1990s. These rodents pair-bond for life, unusual among mammals. Block oxytocin in the female or vasopressin in the male, and the bond fails to form even after extended cohabitation. The molecules matter at a level that simple choice cannot override.",
-    "Carter's 2014 paper in Nature mapped the same receptor systems in humans. Polymorphisms in the AVPR1A gene predict male commitment behavior across studied populations. People with one variant report higher partnership satisfaction and lower divorce rates. People with another report more relationship crisis. The genes don't determine outcomes. They tilt them. The tilt is statistically real and clinically interesting without being deterministic.",
-    "Larry Young at Emory University took this further with manipulative experiments. He showed in 2008 that injecting vasopressin into a previously promiscuous vole species could induce monogamy-like behavior. The receptor placement in the ventral pallidum, not the hormone amount in circulation, drove the change. The brain has love circuitry, and it's editable in animals. In humans the system is more distributed but the principles seem to apply.",
-    "Eye contact triggers the cascade in measurable ways. Arthur Aron, the social psychologist, ran his famous 36 questions study in 1997. Strangers asked each other progressively intimate questions, then stared into each other's eyes for four uninterrupted minutes. Couples in the protocol reported significant attraction increases compared to control conditions. Some married. The experimental procedure became a viral New York Times article in 2015 and spawned countless first-date attempts.",
-    "I tried a modified version of the protocol with a partner I'd been with for five years. The four-minute stare felt impossibly long at first. Around the two-minute mark, something shifted in a way I couldn't name. The brain seems to interpret extended mutual gaze as an attachment signal even with someone you already know. Oxytocin rises measurably in saliva samples taken before and after. The conversation that followed had a different texture.",
-    "Bianca Acevedo, a research scientist at UC Santa Barbara, ran the rare study of long-term love. She scanned brains of people happily married for an average of 21 years while they viewed photos of their spouse. Reward regions still lit up at the same intensity as Fisher's newly-in-love subjects. But added regions activated too: the globus pallidus and substantia nigra, areas associated with attachment without obsessive components.",
-    "Acevedo's 2012 paper in Social Cognitive and Affective Neuroscience suggested those regions handle attachment without the obsessive component of early love. Long-term love looks like dopamine plus calm in the neural signature. Not dopamine plus stress as in early infatuation. The neurochemistry of the early phase didn't disappear after twenty years together. It mellowed and gained additional partners in the form of attachment-related regions firing alongside reward.",
-    "Heartbreak shows up on the same scan in unexpected ways. Edward Smith and Naomi Eisenberger at Columbia and UCLA respectively ran fMRI on 40 people who had recently been dumped. The brain regions that responded to physical pain, the secondary somatosensory cortex and dorsal posterior insula, activated when subjects looked at their ex's photograph. The pain metaphor isn't a metaphor. The brain processes social rejection with overlapping circuits.",
-    "Smith and Eisenberger's 2011 paper in PNAS argued that social and physical pain share neural circuits at a fundamental level. This explains why acetaminophen, the active ingredient in Tylenol, modestly reduces emotional pain in lab studies. Eisenberger replicated this with multiple populations. Take Tylenol, feel less rejected. Roughly. The effect size is small but reliably present across studies. Hurt feelings have aspirin-relievable components, oddly enough.",
-    "The withdrawal phase from heartbreak follows addiction logic in the literature. Helen Fisher described the protest, despair, and recovery sequence in clinical detail. Levels of dopamine and norepinephrine drop suddenly when the relationship ends. The brain seeks the missing reward intensely. Stalking behavior, called proximity-seeking in the academic literature, reflects this neurochemical state. The lover's brain is dopamine-starved and pursuing the source it knows.",
-    "Most heartbreak resolves in 11 to 18 weeks per Pessoa's 2015 longitudinal data tracking hundreds of recently broken-up adults. The variability is huge across individuals. Attachment style predicts duration measurably. Anxiously attached individuals take roughly 60 percent longer than securely attached ones. Avoidant attachment looks like fast recovery on the surface but predicts incomplete resolution that surfaces in subsequent relationships. The pain has to go somewhere if not processed.",
-    "Genes shape attachment style modestly but not entirely. Twin studies from Pasco Fearon at UCL suggest 30 to 40 percent heritability for adult attachment patterns. The rest is early caregiving experience. Mary Ainsworth's strange situation protocol, run in the 1970s, identified attachment patterns visible by age one. Those patterns echo into adult relationships, with significant individual variation and life event modification. Childhood doesn't determine destiny in love.",
-    "The caveats matter for clinical work. Roughly 30 percent of people change attachment style across the lifespan, per Chris Fraley at the University of Illinois. The brain isn't fixed at the developmental endpoint. Therapy works to shift attachment patterns over years. New relationships can shift patterns too, both directions. Trauma can shift attachment in negative directions. Attachment style is a slow variable, not a permanent trait. This is hopeful news.",
-    "What about love at first sight? Stephanie Cacioppo, formerly at the University of Chicago, scanned 12 brains during the moment of meeting potential romantic partners. The activation pattern resembled long-term love but compressed in time. The whole network fired in 200 milliseconds, before conscious awareness could register. The brain decided whether attraction was happening before consciousness caught up to the decision. The judgment came from below.",
-    "Cacioppo's 2010 paper called this rapid-onset attraction. The decision came from familiarity heuristics matched to past partners, symmetry detection in the face, and pheromonal signaling at the unconscious level. People rated as attractive in 200 milliseconds were rated similarly attractive after 30 minutes of conversation. First impressions in love aren't superficial in the dismissive sense. They're computed in deep regions using ancient pattern matching the conscious mind doesn't get to vet.",
-    "Smell matters more than people realize. Claus Wedekind at the University of Bern ran the famous T-shirt study in 1995. Women rated the body odor of men's worn shirts on attractiveness scales without seeing the men. They preferred the smell of men with different MHC genes, major histocompatibility complex, from their own. The immune system seems to vote on attraction below conscious awareness through some mechanism still being mapped.",
-    "But the brain has a workaround that's clinically interesting. Hormonal contraception flips the preference. Women on the pill prefer MHC-similar men in the same protocol. Wedekind's follow-up data and a larger 2008 Roberts replication at Liverpool showed this consistently. The implication is uncomfortable. Mate selection while on the pill, mate satisfaction off it, may not match. Going off contraception after partnering can shift attraction in unwelcome directions.",
-    "The takeaway from 25 years of love neuroscience is humbling. Love isn't one thing. It's overlapping circuits, time-varying chemistry, and probability-weighted attachment patterns shaped by genes and early experience. The poets had a point. The brain is doing something unusual when in love. But the unusual thing is now mappable in millimeter resolution and traceable across decades. Romance has joined the empirical sciences without losing what made it interesting.",
-    "Fisher's most recent work uses dating-app data alongside fMRI. The patterns hold across new contexts. The same neural circuits fire whether the love object is met in person or texted at 2 AM through a phone screen. The substrate is ancient and built for face-to-face primate social life. The interface keeps changing across centuries and decades. The brain doesn't notice the difference between mediums. Pursuit is pursuit.",
-    "Subscribe to MindWired and hit the bell. Next week's episode goes deeper into how trauma rewires the brain, with new ketamine, MDMA, and EMDR data showing what neuroscience finally says heals."
-  ]
+    {
+      "voice": "Seventeen people lay in an MRI scanner. Each looked at a photograph of someone they had recently fallen for. The scanner watched their brains in real time. What lit up looked like the neural pattern of cocaine intoxication, not the soft glow most people expected from love. The year was 2005. The lead author was anthropologist Helen Fisher. The paper changed how science talks about romance.",
+      "visual": "brain mri scan",
+      "duration": 26
+    },
+    {
+      "voice": "Fisher, working with Lucy Brown at Albert Einstein College of Medicine and Arthur Aron at Stony Brook, mapped the first neural signature of romantic love. The ventral tegmental area fired. The caudate nucleus engaged heavily. Both regions belong to the brain's reward circuitry. The same circuits drive food, sex, and addiction. The brain treats the beloved the way it treats other reward sources, with motivation rather than satisfaction.",
+      "visual": "neurons network firing",
+      "duration": 27
+    },
+    {
+      "voice": "Their paper landed in the Journal of Neurophysiology and rippled through psychology, anthropology, and clinical practice. The findings cracked something open. Love isn't an emotion in the simple sense most people use. It's a motivational state. The brain treats the beloved as a reward to obtain through sustained pursuit. Not happiness in the moment. Pursuit over time. The chemistry pushes the person forward toward the target of attention.",
+      "visual": "person meditating peaceful",
+      "duration": 27
+    },
+    {
+      "voice": "Dopamine drives the engine of early love. Levels surge in the early phase of infatuation. Eight to twelve weeks of intense focus on one person dominate consciousness. Sleep needs drop. Appetite wanes. Energy spikes despite the lack of rest. Donatella Marazziti at the University of Pisa found cortisol elevated in this period too. The body acts stressed. The hormonal profile resembles low-grade chronic stress with reward overlay.",
+      "visual": "scientist lab brain",
+      "duration": 26
+    },
+    {
+      "voice": "Marazziti's 1999 paper in Psychological Medicine showed something stranger. Serotonin levels in newly in-love people resembled those of people with obsessive-compulsive disorder. Roughly 40 percent below normal across her sample. The intrusive thoughts about the beloved, the inability to stop checking for messages, the constant mental rehearsal of conversations, share neurochemistry with OCD. Love and obsession overlap at the molecular level more than language suggests.",
+      "visual": "puzzle pieces concept",
+      "duration": 26
+    },
+    {
+      "voice": "Here's the catch. This phase doesn't last. Marazziti retested her couples after 12 to 24 months in a follow-up. Serotonin returned to baseline. The obsessive thoughts faded. The sleep returned. People often misread this transition as falling out of love. They aren't. They're moving into a different system entirely, one driven by different molecules and producing a different subjective experience of the relationship.",
+      "visual": "person thinking deep",
+      "duration": 25
+    },
+    {
+      "voice": "Fisher splits love into three systems based on her fMRI and cross-cultural data. Lust, driven by testosterone and estrogen across both sexes. Attraction, driven by dopamine and norepinephrine in the early infatuation phase. Attachment, driven by oxytocin and vasopressin in long-term bonds. They evolved separately and serve different evolutionary purposes. They sometimes target the same person. They sometimes don't, which explains affairs more clinically than morally.",
+      "visual": "psychology session",
+      "duration": 26
+    },
+    {
+      "voice": "The attachment system is what keeps people together for years and decades. Sue Carter at Indiana University has studied prairie voles since the 1990s. These rodents pair-bond for life, unusual among mammals. Block oxytocin in the female or vasopressin in the male, and the bond fails to form even after extended cohabitation. The molecules matter at a level that simple choice cannot override.",
+      "visual": "brain anatomy 3d",
+      "duration": 25
+    },
+    {
+      "voice": "Carter's 2014 paper in Nature mapped the same receptor systems in humans. Polymorphisms in the AVPR1A gene predict male commitment behavior across studied populations. People with one variant report higher partnership satisfaction and lower divorce rates. People with another report more relationship crisis. The genes don't determine outcomes. They tilt them. The tilt is statistically real and clinically interesting without being deterministic.",
+      "visual": "memory concept visual",
+      "duration": 24
+    },
+    {
+      "voice": "Larry Young at Emory University took this further with manipulative experiments. He showed in 2008 that injecting vasopressin into a previously promiscuous vole species could induce monogamy-like behavior. The receptor placement in the ventral pallidum, not the hormone amount in circulation, drove the change. The brain has love circuitry, and it's editable in animals. In humans the system is more distributed but the principles seem to apply.",
+      "visual": "person reading focused",
+      "duration": 26
+    },
+    {
+      "voice": "Eye contact triggers the cascade in measurable ways. Arthur Aron, the social psychologist, ran his famous 36 questions study in 1997. Strangers asked each other progressively intimate questions, then stared into each other's eyes for four uninterrupted minutes. Couples in the protocol reported significant attraction increases compared to control conditions. Some married. The experimental procedure became a viral New York Times article in 2015 and spawned countless first-date attempts.",
+      "visual": "synapse neuron connection",
+      "duration": 27
+    },
+    {
+      "voice": "I tried a modified version of the protocol with a partner I'd been with for five years. The four-minute stare felt impossibly long at first. Around the two-minute mark, something shifted in a way I couldn't name. The brain seems to interpret extended mutual gaze as an attachment signal even with someone you already know. Oxytocin rises measurably in saliva samples taken before and after. The conversation that followed had a different texture.",
+      "visual": "brain wave eeg",
+      "duration": 29
+    },
+    {
+      "voice": "Bianca Acevedo, a research scientist at UC Santa Barbara, ran the rare study of long-term love. She scanned brains of people happily married for an average of 21 years while they viewed photos of their spouse. Reward regions still lit up at the same intensity as Fisher's newly-in-love subjects. But added regions activated too: the globus pallidus and substantia nigra, areas associated with attachment without obsessive components.",
+      "visual": "person stress relief",
+      "duration": 26
+    },
+    {
+      "voice": "Acevedo's 2012 paper in Social Cognitive and Affective Neuroscience suggested those regions handle attachment without the obsessive component of early love. Long-term love looks like dopamine plus calm in the neural signature. Not dopamine plus stress as in early infatuation. The neurochemistry of the early phase didn't disappear after twenty years together. It mellowed and gained additional partners in the form of attachment-related regions firing alongside reward.",
+      "visual": "psychology book stack",
+      "duration": 26
+    },
+    {
+      "voice": "Heartbreak shows up on the same scan in unexpected ways. Edward Smith and Naomi Eisenberger at Columbia and UCLA respectively ran fMRI on 40 people who had recently been dumped. The brain regions that responded to physical pain, the secondary somatosensory cortex and dorsal posterior insula, activated when subjects looked at their ex's photograph. The pain metaphor isn't a metaphor. The brain processes social rejection with overlapping circuits.",
+      "visual": "brain illumination",
+      "duration": 27
+    },
+    {
+      "voice": "Smith and Eisenberger's 2011 paper in PNAS argued that social and physical pain share neural circuits at a fundamental level. This explains why acetaminophen, the active ingredient in Tylenol, modestly reduces emotional pain in lab studies. Eisenberger replicated this with multiple populations. Take Tylenol, feel less rejected. Roughly. The effect size is small but reliably present across studies. Hurt feelings have aspirin-relievable components, oddly enough.",
+      "visual": "person creative thought",
+      "duration": 26
+    },
+    {
+      "voice": "The withdrawal phase from heartbreak follows addiction logic in the literature. Helen Fisher described the protest, despair, and recovery sequence in clinical detail. Levels of dopamine and norepinephrine drop suddenly when the relationship ends. The brain seeks the missing reward intensely. Stalking behavior, called proximity-seeking in the academic literature, reflects this neurochemical state. The lover's brain is dopamine-starved and pursuing the source it knows.",
+      "visual": "neuroscience lab",
+      "duration": 25
+    },
+    {
+      "voice": "Most heartbreak resolves in 11 to 18 weeks per Pessoa's 2015 longitudinal data tracking hundreds of recently broken-up adults. The variability is huge across individuals. Attachment style predicts duration measurably. Anxiously attached individuals take roughly 60 percent longer than securely attached ones. Avoidant attachment looks like fast recovery on the surface but predicts incomplete resolution that surfaces in subsequent relationships. The pain has to go somewhere if not processed.",
+      "visual": "introspection silhouette",
+      "duration": 27
+    },
+    {
+      "voice": "Genes shape attachment style modestly but not entirely. Twin studies from Pasco Fearon at UCL suggest 30 to 40 percent heritability for adult attachment patterns. The rest is early caregiving experience. Mary Ainsworth's strange situation protocol, run in the 1970s, identified attachment patterns visible by age one. Those patterns echo into adult relationships, with significant individual variation and life event modification. Childhood doesn't determine destiny in love.",
+      "visual": "neural pathway visualization",
+      "duration": 26
+    },
+    {
+      "voice": "The caveats matter for clinical work. Roughly 30 percent of people change attachment style across the lifespan, per Chris Fraley at the University of Illinois. The brain isn't fixed at the developmental endpoint. Therapy works to shift attachment patterns over years. New relationships can shift patterns too, both directions. Trauma can shift attachment in negative directions. Attachment style is a slow variable, not a permanent trait. This is hopeful news.",
+      "visual": "person dreaming sleep",
+      "duration": 28
+    },
+    {
+      "voice": "What about love at first sight? Stephanie Cacioppo, formerly at the University of Chicago, scanned 12 brains during the moment of meeting potential romantic partners. The activation pattern resembled long-term love but compressed in time. The whole network fired in 200 milliseconds, before conscious awareness could register. The brain decided whether attraction was happening before consciousness caught up to the decision. The judgment came from below.",
+      "visual": "behavioral study",
+      "duration": 26
+    },
+    {
+      "voice": "Cacioppo's 2010 paper called this rapid-onset attraction. The decision came from familiarity heuristics matched to past partners, symmetry detection in the face, and pheromonal signaling at the unconscious level. People rated as attractive in 200 milliseconds were rated similarly attractive after 30 minutes of conversation. First impressions in love aren't superficial in the dismissive sense. They're computed in deep regions using ancient pattern matching the conscious mind doesn't get to vet.",
+      "visual": "cognitive science chart",
+      "duration": 28
+    },
+    {
+      "voice": "Smell matters more than people realize. Claus Wedekind at the University of Bern ran the famous T-shirt study in 1995. Women rated the body odor of men's worn shirts on attractiveness scales without seeing the men. They preferred the smell of men with different MHC genes, major histocompatibility complex, from their own. The immune system seems to vote on attraction below conscious awareness through some mechanism still being mapped.",
+      "visual": "psychotherapy office",
+      "duration": 27
+    },
+    {
+      "voice": "But the brain has a workaround that's clinically interesting. Hormonal contraception flips the preference. Women on the pill prefer MHC-similar men in the same protocol. Wedekind's follow-up data and a larger 2008 Roberts replication at Liverpool showed this consistently. The implication is uncomfortable. Mate selection while on the pill, mate satisfaction off it, may not match. Going off contraception after partnering can shift attraction in unwelcome directions.",
+      "visual": "brain plasticity concept",
+      "duration": 26
+    },
+    {
+      "voice": "The takeaway from 25 years of love neuroscience is humbling. Love isn't one thing. It's overlapping circuits, time-varying chemistry, and probability-weighted attachment patterns shaped by genes and early experience. The poets had a point. The brain is doing something unusual when in love. But the unusual thing is now mappable in millimeter resolution and traceable across decades. Romance has joined the empirical sciences without losing what made it interesting.",
+      "visual": "mental focus concentration",
+      "duration": 27
+    },
+    {
+      "voice": "Fisher's most recent work uses dating-app data alongside fMRI. The patterns hold across new contexts. The same neural circuits fire whether the love object is met in person or texted at 2 AM through a phone screen. The substrate is ancient and built for face-to-face primate social life. The interface keeps changing across centuries and decades. The brain doesn't notice the difference between mediums. Pursuit is pursuit.",
+      "visual": "brain mri scan",
+      "duration": 26
+    },
+    {
+      "voice": "Subscribe to MindWired and hit the bell. Next week's episode goes deeper into how trauma rewires the brain, with new ketamine, MDMA, and EMDR data showing what neuroscience finally says heals.",
+      "visual": "neurons network firing",
+      "duration": 20
+    }
+  ],
+  "thumbnail_text": "THE NEUROSCIENCE OF"
 }

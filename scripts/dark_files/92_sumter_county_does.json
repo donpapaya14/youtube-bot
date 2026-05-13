@@ -1,30 +1,131 @@
 {
   "title": "The Sumter County Does Identified at Last 📁",
   "segments": [
-    "On August 9, 1976, two bodies were found shot to death along Interstate 75 in Sumter County, Florida. The victims, a young man and a young woman, had no identification. They had no fingerprints on file. For 45 years they were known only as the Sumter County Does. In 2021, genetic genealogy gave them their names back.",
-    "A passing motorist had spotted the bodies in a wooded area off the I-75 northbound shoulder. The young couple had been shot multiple times. Their clothing suggested middle-class American backgrounds. Their personal effects had been removed.",
-    "The Florida Department of Law Enforcement and the Sumter County Sheriff's Office investigated. They estimated the man at 25 to 30 years old, the woman at 18 to 22. The autopsy at the Pasco County Medical Examiner's office ruled both deaths as homicide by gunshot.",
-    "The bodies had been there only a short time before discovery — possibly hours. The killer had likely used I-75 itself, dumped the bodies, and continued on. The remoteness of the dump site and the lack of identification suggested the victims had been targeted.",
-    "Through 1976 and 1977, Florida investigators canvassed missing-persons reports across the United States. They sent dental records to law enforcement networks. They distributed sketches based on facial reconstruction. None of it produced a name.",
-    "The Sumter County Does became one of the longest-running unidentified victim cases in Florida history. Their case file was maintained through the decades. Detectives retired. New ones took over. The case was reviewed periodically with each generation of forensic technology.",
-    "Here's where the case began to move. In 2013, the bodies were exhumed for DNA extraction. Samples were sent to the University of North Texas Center for Human Identification. A nuclear DNA profile was developed for both victims.",
-    "The profiles were uploaded to NamUs — the National Missing and Unidentified Persons System. They were compared against missing persons cases across the United States. No match emerged.",
-    "In 2020, Florida investigators partnered with the genetic genealogy nonprofit DNA Doe Project. The Project's work — using GEDmatch and other public genealogy databases — had been instrumental in identifying numerous Doe cases in previous years.",
-    "The DNA Doe Project assigned a team of volunteer genealogists to the Sumter County case. They built family trees from the partial DNA matches. They cross-referenced cemeteries, census records, and military service files.",
-    "By early 2021, the genealogists had developed a working hypothesis. The female victim's DNA aligned with the descendants of a family in Pennsylvania. The male victim's DNA aligned with a family in Massachusetts.",
-    "Investigators followed the genealogical leads to a couple last seen in early August 1976: Pamela Mae Buckley, 21, of Pennsylvania, and Jock Murray Garven Jr., 22, of Massachusetts. The pair had been dating. They had told family they planned to travel to Florida.",
-    "Buckley had been working in Pennsylvania. Garven had been a Vietnam War veteran living in New England. They had met through mutual friends. They had set off together in early August 1976. After a few brief calls home, neither had been heard from again.",
-    "Family members had reported them missing in the late summer and fall of 1976. Their reports had not been linked to the Sumter County Does because the geographic distance was too great and the investigations had been handled by separate departments.",
-    "On October 5, 2021, Florida investigators publicly identified the Sumter County Does as Pamela Buckley and Jock Garven. Both families were notified before the announcement.",
-    "Pamela's mother had spent her entire life wondering what had happened to her daughter. She had passed away in 2017, four years before the identification. Pamela's siblings learned the truth in late 2021.",
-    "Jock Garven's family had similar gaps. His sister had remained involved in cold-case advocacy in Massachusetts for decades. She lived to receive the confirmation.",
-    "The identification was the answer. It was not the resolution. The killings remain unsolved. Florida investigators believe Buckley and Garven were murdered by an unknown person they encountered on their journey south. The exact circumstances are unknown.",
-    "Some investigators have considered known I-75 corridor offenders from 1976. Among them is Eddie Williams, a serial killer active in the Southeast in the late 1970s, but no link has been confirmed.",
-    "The DNA Doe Project and Sumter County Sheriff's Office continue to investigate. They are seeking witnesses who may have encountered Buckley and Garven during their August 1976 travel.",
-    "The case is studied as a model for genetic genealogy in unidentified-remains work. The 45-year gap between discovery and identification is among the longest currently solved.",
-    "The remains of Pamela Buckley and Jock Garven have been returned to their families. Both have been buried in their hometowns. Both have proper graves with their names and dates.",
-    "If you remember anything about the I-75 corridor in early August 1976 — particularly any encounters at rest stops, gas stations, or motels with a young couple traveling south — the Sumter County Sheriff's Office continues to seek information.",
-    "The case is also a reminder that unidentified-remains investigation requires patience. Forty-five years of work, multiple forensic generations, and volunteer genealogists were needed to give two young people their names back.",
-    "Subscribe to DarkFiles and hit the bell. Next week's case goes deeper into a Vienna street corner where a young woman vanished after waiting for the wrong tram."
-  ]
+    {
+      "voice": "On August 9, 1976, two bodies were found shot to death along Interstate 75 in Sumter County, Florida. The victims, a young man and a young woman, had no identification. They had no fingerprints on file. For 45 years they were known only as the Sumter County Does. In 2021, genetic genealogy gave them their names back.",
+      "visual": "crime scene investigation",
+      "duration": 22
+    },
+    {
+      "voice": "A passing motorist had spotted the bodies in a wooded area off the I-75 northbound shoulder. The young couple had been shot multiple times. Their clothing suggested middle-class American backgrounds. Their personal effects had been removed.",
+      "visual": "detective board evidence",
+      "duration": 20
+    },
+    {
+      "voice": "The Florida Department of Law Enforcement and the Sumter County Sheriff's Office investigated. They estimated the man at 25 to 30 years old, the woman at 18 to 22. The autopsy at the Pasco County Medical Examiner's office ruled both deaths as homicide by gunshot.",
+      "visual": "old newspaper article",
+      "duration": 20
+    },
+    {
+      "voice": "The bodies had been there only a short time before discovery — possibly hours. The killer had likely used I-75 itself, dumped the bodies, and continued on. The remoteness of the dump site and the lack of identification suggested the victims had been targeted.",
+      "visual": "missing person flyer",
+      "duration": 20
+    },
+    {
+      "voice": "Through 1976 and 1977, Florida investigators canvassed missing-persons reports across the United States. They sent dental records to law enforcement networks. They distributed sketches based on facial reconstruction. None of it produced a name.",
+      "visual": "police investigation files",
+      "duration": 20
+    },
+    {
+      "voice": "The Sumter County Does became one of the longest-running unidentified victim cases in Florida history. Their case file was maintained through the decades. Detectives retired. New ones took over. The case was reviewed periodically with each generation of forensic technology.",
+      "visual": "forensic lab analysis",
+      "duration": 20
+    },
+    {
+      "voice": "Here's where the case began to move. In 2013, the bodies were exhumed for DNA extraction. Samples were sent to the University of North Texas Center for Human Identification. A nuclear DNA profile was developed for both victims.",
+      "visual": "abandoned building night",
+      "duration": 20
+    },
+    {
+      "voice": "The profiles were uploaded to NamUs — the National Missing and Unidentified Persons System. They were compared against missing persons cases across the United States. No match emerged.",
+      "visual": "rural road night",
+      "duration": 20
+    },
+    {
+      "voice": "In 2020, Florida investigators partnered with the genetic genealogy nonprofit DNA Doe Project. The Project's work — using GEDmatch and other public genealogy databases — had been instrumental in identifying numerous Doe cases in previous years.",
+      "visual": "courthouse exterior",
+      "duration": 20
+    },
+    {
+      "voice": "The DNA Doe Project assigned a team of volunteer genealogists to the Sumter County case. They built family trees from the partial DNA matches. They cross-referenced cemeteries, census records, and military service files.",
+      "visual": "vintage photograph",
+      "duration": 20
+    },
+    {
+      "voice": "By early 2021, the genealogists had developed a working hypothesis. The female victim's DNA aligned with the descendants of a family in Pennsylvania. The male victim's DNA aligned with a family in Massachusetts.",
+      "visual": "fbi case files",
+      "duration": 20
+    },
+    {
+      "voice": "Investigators followed the genealogical leads to a couple last seen in early August 1976: Pamela Mae Buckley, 21, of Pennsylvania, and Jock Murray Garven Jr., 22, of Massachusetts. The pair had been dating. They had told family they planned to travel to Florida.",
+      "visual": "evidence bag tape",
+      "duration": 20
+    },
+    {
+      "voice": "Buckley had been working in Pennsylvania. Garven had been a Vietnam War veteran living in New England. They had met through mutual friends. They had set off together in early August 1976. After a few brief calls home, neither had been heard from again.",
+      "visual": "interrogation room",
+      "duration": 20
+    },
+    {
+      "voice": "Family members had reported them missing in the late summer and fall of 1976. Their reports had not been linked to the Sumter County Does because the geographic distance was too great and the investigations had been handled by separate departments.",
+      "visual": "darkroom flashlight investigation",
+      "duration": 20
+    },
+    {
+      "voice": "On October 5, 2021, Florida investigators publicly identified the Sumter County Does as Pamela Buckley and Jock Garven. Both families were notified before the announcement.",
+      "visual": "vintage typewriter notes",
+      "duration": 20
+    },
+    {
+      "voice": "Pamela's mother had spent her entire life wondering what had happened to her daughter. She had passed away in 2017, four years before the identification. Pamela's siblings learned the truth in late 2021.",
+      "visual": "cold case archive",
+      "duration": 20
+    },
+    {
+      "voice": "Jock Garven's family had similar gaps. His sister had remained involved in cold-case advocacy in Massachusetts for decades. She lived to receive the confirmation.",
+      "visual": "missing person search",
+      "duration": 20
+    },
+    {
+      "voice": "The identification was the answer. It was not the resolution. The killings remain unsolved. Florida investigators believe Buckley and Garven were murdered by an unknown person they encountered on their journey south. The exact circumstances are unknown.",
+      "visual": "police badge close up",
+      "duration": 20
+    },
+    {
+      "voice": "Some investigators have considered known I-75 corridor offenders from 1976. Among them is Eddie Williams, a serial killer active in the Southeast in the late 1970s, but no link has been confirmed.",
+      "visual": "crime scene tape yellow",
+      "duration": 20
+    },
+    {
+      "voice": "The DNA Doe Project and Sumter County Sheriff's Office continue to investigate. They are seeking witnesses who may have encountered Buckley and Garven during their August 1976 travel.",
+      "visual": "old phone receiver",
+      "duration": 20
+    },
+    {
+      "voice": "The case is studied as a model for genetic genealogy in unidentified-remains work. The 45-year gap between discovery and identification is among the longest currently solved.",
+      "visual": "investigator notebook",
+      "duration": 20
+    },
+    {
+      "voice": "The remains of Pamela Buckley and Jock Garven have been returned to their families. Both have been buried in their hometowns. Both have proper graves with their names and dates.",
+      "visual": "evidence photograph wall",
+      "duration": 20
+    },
+    {
+      "voice": "If you remember anything about the I-75 corridor in early August 1976 — particularly any encounters at rest stops, gas stations, or motels with a young couple traveling south — the Sumter County Sheriff's Office continues to seek information.",
+      "visual": "darkened forest clue",
+      "duration": 20
+    },
+    {
+      "voice": "The case is also a reminder that unidentified-remains investigation requires patience. Forty-five years of work, multiple forensic generations, and volunteer genealogists were needed to give two young people their names back.",
+      "visual": "vintage clock tower",
+      "duration": 20
+    },
+    {
+      "voice": "Subscribe to DarkFiles and hit the bell. Next week's case goes deeper into a Vienna street corner where a young woman vanished after waiting for the wrong tram.",
+      "visual": "old map markings",
+      "duration": 20
+    }
+  ],
+  "thumbnail_text": "THE SUMTER COUNTY"
 }

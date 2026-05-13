@@ -644,8 +644,14 @@ def _load_prewritten_script(channel: dict) -> dict | None:
             log.info("Script %s ya subido ('%s'), saltando", script_file, script.get("title", "?"))
             continue
 
+        # Validar formato: segments deben ser dicts con voice
+        segs = script.get("segments", [])
+        if not segs or not all(isinstance(s, dict) and "voice" in s for s in segs[:3]):
+            log.warning("Script %s malformado (segments no dicts con voice), saltando", script_file)
+            continue
+
         # Filtro idioma: skip scripts en idioma incorrecto
-        first_voice = " ".join(s.get("voice","")[:300] for s in script.get("segments", [])[:2])
+        first_voice = " ".join(s.get("voice","")[:300] for s in segs[:2])
         actual_lang = _detect_lang(first_voice)
         if actual_lang != expected_lang:
             log.warning("Script %s en %s (esperado %s), saltando", script_file, actual_lang, expected_lang)

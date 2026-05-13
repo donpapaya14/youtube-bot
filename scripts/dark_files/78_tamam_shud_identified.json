@@ -1,31 +1,136 @@
 {
   "title": "Tamam Shud: Somerton Man Identified in 2022 🔍",
   "segments": [
-    "On December 1, 1948, on Somerton Beach near Adelaide, Australia, a man was found dead leaning against a seawall. He had no identification. The labels on his clothing had been cut out. The case would remain unsolved for the next 73 years.",
-    "Locals had seen him the previous evening — apparently asleep against the wall — and assumed he was a drunk dozing in the sea air. By morning he was cold. South Australia Police were called at sunrise.",
-    "The autopsy by Dr. John Dwyer at Royal Adelaide Hospital found unusual signs. The man's organs were congested. His spleen was enlarged. His liver showed evidence of acute toxicity. No conventional poison could be identified at the time, but Dwyer suspected one had been used.",
-    "The man was approximately 40 years old. He was 5 feet 11 inches tall, fit, well-dressed in a brown suit, and had calluses suggesting work as a manual laborer or possibly as a dancer. His teeth showed unusual wear patterns.",
-    "Police found a half-smoked cigarette resting on his collar. They found a comb, a matchbook, used train tickets to Henley Beach, an unused bus ticket, and chewing gum. They found no wallet, no ID, no money.",
-    "Here's where the case turned strange. In a hidden fob pocket of his trousers, investigators discovered a tiny scrap of paper. It had been carefully torn from a book. It contained two words in Persian script — 'Tamam Shud.'",
-    "'Tamam Shud' is the final phrase from the Rubaiyat of Omar Khayyam, the medieval Persian poet whose work had been popular in English translation for nearly a century. It means roughly 'finished' or 'ended.'",
-    "South Australia Police asked the public to help find the book the page was torn from. After a public appeal, a man came forward. He had found a copy of the Rubaiyat tossed into the back seat of his unlocked car parked near Somerton Beach.",
-    "Inside that book, investigators found two crucial things. First, the back page was missing — the page from which 'Tamam Shud' had been torn. Second, written in pencil on the inside back cover were five lines of letters that appeared to be a code.",
-    "The code became known as the Somerton code. It has resisted decryption for over 70 years. Cryptographers from the Australian military, GCHQ, the CIA, and university teams worldwide have tried.",
-    "Also written in the book was a phone number. It belonged to Jessica Thomson, a young nurse who lived a short walk from Somerton Beach. When police interviewed her, she insisted she did not know the dead man.",
-    "Thomson became one of the most studied figures in the case. Her demeanor when shown photographs of the body was described by detectives as visibly shaken. She asked never to be named publicly. Her name was suppressed in court records for decades.",
-    "The Somerton man was buried in Adelaide's West Terrace Cemetery in June 1949. The plaster bust of his face, made by sculptor Paul Lawson, was placed on his grave. The bust would prove crucial decades later.",
-    "For 73 years, the case sat unresolved. Theories ranged from Cold War espionage to an estranged lover to a deserter from a wartime army. None were ever proved.",
-    "In 2009, Adelaide University researcher Derek Abbott began an academic project on the case. He noticed that Jessica Thomson's son Robin had unusual ear and dental features that matched the Somerton man's photographs.",
-    "Abbott pursued the link for over a decade. He contacted descendants. He pushed for exhumation. South Australia Police and government refused multiple times.",
-    "In 2021, after years of advocacy, South Australia Attorney-General Vickie Chapman approved exhumation of the body. In May 2021, the remains were carefully removed from West Terrace Cemetery.",
-    "Forensic teams at Flinders University extracted DNA from teeth and bone. They sent samples to genealogy databases. In July 2022, Abbott and forensic scientist Colleen Fitzpatrick announced they had identified the Somerton man.",
-    "His name was Carl Charles Webb. He was born November 16, 1905, in Footscray, a suburb of Melbourne. He was an electrical engineer and instrument maker. He had been married to Dorothy Robertson but the marriage had collapsed in the late 1940s.",
-    "Webb had a history of writing poetry. He had recited the Rubaiyat in his youth. The book and the torn phrase 'Tamam Shud' — meaning 'ended' — fit a man who had walked deliberately to a beach, taken poison, and left the page as a final note.",
-    "South Australia Police accepted the identification but have not officially closed the inquest. They continue to investigate the cause of death. Modern toxicology cannot examine remains 73 years after death with full certainty.",
-    "The Somerton code remains unsolved. Some researchers now believe it may be personal — initials, dates, or fragments meaningful only to Webb. Others maintain it is a true cipher with espionage origins.",
-    "Jessica Thomson's link to Webb has not been definitively proven. Her son Robin has died. DNA from his descendants has been compared. Results have not been publicly confirmed.",
-    "Carl Webb's family in Melbourne accepted his identification quietly. After more than seven decades, his absence from the family record now has an explanation, even if the full circumstances of his death do not.",
-    "If you are researching the case, the Adelaide University Tamam Shud Project maintains a public archive of documents, photographs, and code analyses. The South Australia Police inquest file is partly open to researchers.",
-    "Subscribe to DarkFiles and hit the bell. Next week's case goes deeper into a string of women murdered in 1880s Austin, Texas — by a killer who pre-dated Jack the Ripper."
-  ]
+    {
+      "voice": "On December 1, 1948, on Somerton Beach near Adelaide, Australia, a man was found dead leaning against a seawall. He had no identification. The labels on his clothing had been cut out. The case would remain unsolved for the next 73 years. It became one of the most studied cold cases in Australian history and one of the longest-running unidentified-remains files in modern forensics.",
+      "visual": "crime scene investigation",
+      "duration": 25
+    },
+    {
+      "voice": "Locals had seen him the previous evening — apparently asleep against the wall — and assumed he was a drunk dozing in the sea air. By morning he was cold. South Australia Police were called at sunrise. The first responders did not initially treat the scene as suspicious. The cause of death was unclear. The man's clothing was neat. He looked like a traveler who had simply lay down to rest.",
+      "visual": "detective board evidence",
+      "duration": 28
+    },
+    {
+      "voice": "The autopsy by Dr. John Dwyer at Royal Adelaide Hospital found unusual signs. The man's organs were congested. His spleen was enlarged. His liver showed evidence of acute toxicity. No conventional poison could be identified at the time, but Dwyer suspected one had been used. The 1948 toxicology testing methods could not detect every possible compound. Some poisons leave little trace.",
+      "visual": "old newspaper article",
+      "duration": 24
+    },
+    {
+      "voice": "The man was approximately 40 years old. He was 5 feet 11 inches tall, fit, well-dressed in a brown suit, and had calluses suggesting work as a manual laborer or possibly as a dancer. His teeth showed unusual wear patterns. Forensic dentists at the time noted the wear was inconsistent with typical Australian or British dental records. The pattern suggested years of professional dancing or stage performance.",
+      "visual": "missing person flyer",
+      "duration": 26
+    },
+    {
+      "voice": "Police found a half-smoked cigarette resting on his collar. They found a comb, a matchbook, used train tickets to Henley Beach, an unused bus ticket, and chewing gum. They found no wallet, no ID, no money. The deliberate stripping of identifying information distinguished the case from typical accidental deaths. Investigators began treating it as a possible foul-play matter within days.",
+      "visual": "police investigation files",
+      "duration": 24
+    },
+    {
+      "voice": "Here's where the case turned strange. In a hidden fob pocket of his trousers, investigators discovered a tiny scrap of paper. It had been carefully torn from a book. It contained two words in Persian script — 'Tamam Shud.' The discovery shifted the entire trajectory of the investigation. The presence of a deliberately hidden paper fragment suggested intentional concealment.",
+      "visual": "forensic lab analysis",
+      "duration": 23
+    },
+    {
+      "voice": "'Tamam Shud' is the final phrase from the Rubaiyat of Omar Khayyam, the medieval Persian poet whose work had been popular in English translation for nearly a century. It means roughly 'finished' or 'ended.' The phrase is the closing line of the FitzGerald translation popular in the British Commonwealth at the time. The choice of that specific line suggested a deliberate message — possibly a final note.",
+      "visual": "abandoned building night",
+      "duration": 26
+    },
+    {
+      "voice": "South Australia Police asked the public to help find the book the page was torn from. After a public appeal, a man came forward. He had found a copy of the Rubaiyat tossed into the back seat of his car parked near Somerton Beach. The car had been left open. The book had appeared sometime in late November or early December 1948 — within the relevant window.",
+      "visual": "rural road night",
+      "duration": 26
+    },
+    {
+      "voice": "Inside that book, investigators found two crucial things. First, the back page was missing — the page from which 'Tamam Shud' had been torn. Second, written in pencil on the inside back cover were five lines of letters that appeared to be a code. The discovery transformed the investigation. The case now had a cipher and a connection to a specific physical object.",
+      "visual": "courthouse exterior",
+      "duration": 25
+    },
+    {
+      "voice": "The code became known as the Somerton code. It has resisted decryption for over 70 years. Cryptographers from the Australian military, GCHQ, the CIA, and university teams worldwide have tried. Each attempt has produced theories without confirmed solutions. The code consists of 50 letters in a non-obvious arrangement. The structure does not match standard cipher types.",
+      "visual": "vintage photograph",
+      "duration": 22
+    },
+    {
+      "voice": "Also written in the book was a phone number. It belonged to Jessica Thomson, a young nurse who lived a short walk from Somerton Beach. When police interviewed her, she insisted she did not know the dead man. Her response was guarded. Detectives observed her closely. Her demeanor when shown photographs of the body was described as visibly shaken.",
+      "visual": "fbi case files",
+      "duration": 23
+    },
+    {
+      "voice": "Thomson became one of the most studied figures in the case. Her demeanor when shown photographs of the body was described by detectives as visibly shaken. She asked never to be named publicly. Her name was suppressed in court records for decades. The protective treatment given to her in the 1948 investigation has been criticized by later researchers as having limited follow-up work.",
+      "visual": "evidence bag tape",
+      "duration": 25
+    },
+    {
+      "voice": "The Somerton man was buried in Adelaide's West Terrace Cemetery in June 1949. The plaster bust of his face, made by sculptor Paul Lawson, was placed on his grave. The bust would prove crucial decades later. Lawson preserved the original mold and shared it with researchers in subsequent generations. The physical record allowed work to continue even after the body was buried.",
+      "visual": "interrogation room",
+      "duration": 24
+    },
+    {
+      "voice": "For 73 years, the case sat unresolved. Theories ranged from Cold War espionage to an estranged lover to a deserter from a wartime army. None were ever proved. The Cold War espionage theory was particularly persistent given the geopolitical tensions of late 1948 and early 1949. South Australia hosted defense facilities that drew foreign intelligence interest.",
+      "visual": "darkroom flashlight investigation",
+      "duration": 22
+    },
+    {
+      "voice": "In 2009, Adelaide University researcher Derek Abbott began an academic project on the case. He noticed that Jessica Thomson's son Robin had unusual ear and dental features that matched the Somerton man's photographs. Abbott was a professor of electrical engineering with a personal interest in forensic genealogy. His project drew students and external researchers over more than a decade.",
+      "visual": "vintage typewriter notes",
+      "duration": 23
+    },
+    {
+      "voice": "Abbott pursued the link for over a decade. He contacted descendants. He pushed for exhumation. South Australia Police and government refused multiple times. The legal and ethical questions around exhuming an unidentified body raised significant procedural concerns. Multiple South Australian attorneys-general considered and rejected the requests through the 2010s.",
+      "visual": "cold case archive",
+      "duration": 20
+    },
+    {
+      "voice": "In 2021, after years of advocacy, South Australia Attorney-General Vickie Chapman approved exhumation of the body. In May 2021, the remains were carefully removed from West Terrace Cemetery. The exhumation was conducted under archaeological protocols. Forensic teams from Flinders University handled the recovery. The remains were transported under chain-of-custody supervision.",
+      "visual": "missing person search",
+      "duration": 20
+    },
+    {
+      "voice": "Forensic teams at Flinders University extracted DNA from teeth and bone. They sent samples to genealogy databases. In July 2022, Abbott and forensic scientist Colleen Fitzpatrick announced they had identified the Somerton man. The announcement was made through a joint statement coordinated with the South Australia Attorney-General's office. The identification represented one of the longest gaps in any cold-case forensic resolution.",
+      "visual": "police badge close up",
+      "duration": 24
+    },
+    {
+      "voice": "His name was Carl Charles Webb. He was born November 16, 1905, in Footscray, a suburb of Melbourne. He was an electrical engineer and instrument maker. He had been married to Dorothy Robertson but the marriage had collapsed in the late 1940s. Webb's biographical record came together piece by piece through the genealogical work. His employment history, his family connections, and his movements before late 1948 were reconstructed gradually.",
+      "visual": "crime scene tape yellow",
+      "duration": 27
+    },
+    {
+      "voice": "Webb had a history of writing poetry. He had recited the Rubaiyat in his youth. The book and the torn phrase 'Tamam Shud' — meaning 'ended' — fit a man who had walked deliberately to a beach, taken poison, and left the page as a final note. The interpretation of his death as a suicide is supported by his biographical context. His marriage had ended. His professional standing had declined. His mental health had reportedly suffered.",
+      "visual": "old phone receiver",
+      "duration": 30
+    },
+    {
+      "voice": "South Australia Police accepted the identification but have not officially closed the inquest. They continue to investigate the cause of death. Modern toxicology cannot examine remains 73 years after death with full certainty. The original autopsy notes by Dr. Dwyer have been re-examined alongside the new identification. The combination provides the strongest available record but cannot conclusively determine the cause.",
+      "visual": "investigator notebook",
+      "duration": 24
+    },
+    {
+      "voice": "The Somerton code remains unsolved. Some researchers now believe it may be personal — initials, dates, or fragments meaningful only to Webb. Others maintain it is a true cipher with espionage origins. Webb's known habits of writing poetry and using personal codes in his correspondence support the personal-code theory. His political affiliations, while limited, have also been examined.",
+      "visual": "evidence photograph wall",
+      "duration": 23
+    },
+    {
+      "voice": "Jessica Thomson's link to Webb has not been definitively proven. Her son Robin has died. DNA from his descendants has been compared. Results have not been publicly confirmed. Some researchers argue the comparisons support a familial connection. Others argue the data is inconclusive. The full disclosure has been limited by privacy considerations.",
+      "visual": "darkened forest clue",
+      "duration": 20
+    },
+    {
+      "voice": "Carl Webb's family in Melbourne accepted his identification quietly. After more than seven decades, his absence from the family record now has an explanation, even if the full circumstances of his death do not. Webb had been estranged from many of his relatives in his final years. The 2022 identification reconnected the family record without resolving every personal question.",
+      "visual": "vintage clock tower",
+      "duration": 23
+    },
+    {
+      "voice": "If you are researching the case, the Adelaide University Tamam Shud Project maintains a public archive of documents, photographs, and code analyses. The South Australia Police inquest file is partly open to researchers. The State Library of South Australia in Adelaide also holds extensive materials, including original newspaper coverage from 1948 and the early investigative period.",
+      "visual": "old map markings",
+      "duration": 22
+    },
+    {
+      "voice": "Subscribe to DarkFiles and hit the bell. Next week's case goes deeper into a string of women murdered in 1880s Austin, Texas — by a killer who pre-dated Jack the Ripper.",
+      "visual": "crime scene investigation",
+      "duration": 20
+    }
+  ],
+  "thumbnail_text": "TAMAM SHUD SOMERTON"
 }

@@ -1,30 +1,131 @@
 {
   "title": "Zodiac Killer: The Vallejo Letters Decoded 🔍",
   "segments": [
-    "Between December 1968 and October 1969, a killer attacked five people in Northern California. Two attacks happened in or near Vallejo. The killer wrote a series of letters to local newspapers, signed them with a crossed-circle symbol, and demanded they be published. The letters, more than the killings themselves, shaped the case. He was never identified.",
-    "The first confirmed Zodiac attack happened on December 20, 1968. David Faraday, 17, and Betty Lou Jensen, 16, were shot to death at a lovers' lane on Lake Herman Road outside Vallejo. They were on their first date. The killer used a .22 caliber pistol.",
-    "Vallejo Police Department detectives initially had no leads. The location was remote. There were no witnesses. There was no apparent motive.",
-    "On July 4, 1969, a second attack happened at Blue Rock Springs Park in Vallejo. Darlene Ferrin, 22, was killed. Her companion Mike Mageau survived multiple gunshot wounds. He gave a witness description of the attacker — a stocky white man with brown hair, approximately 26 to 30 years old.",
-    "Less than 40 minutes after the Blue Rock Springs attack, a man called the Vallejo Police switchboard from a payphone in downtown Vallejo. He calmly reported the attack. He claimed responsibility for the December 1968 attack. He hung up.",
-    "On August 1, 1969, three identical letters arrived at the Vallejo Times Herald, the San Francisco Chronicle, and the San Francisco Examiner. Each letter contained one third of a coded message. The killer demanded the letters be published on the front page or he would 'cruise around all weekend killing lone people in the night.'",
-    "The papers published the letters. The combined cipher consisted of 408 symbols using a substitution code with multiple symbols representing the same letter. The cipher became known as the Z408.",
-    "Here's where ordinary citizens broke the case wide open. Donald Harden, a high school history teacher in Salinas, and his wife Bettye Harden cracked the cipher in just over a week. They submitted their solution on August 8, 1969.",
-    "The Z408 cipher's solution read in part: 'I LIKE KILLING PEOPLE BECAUSE IT IS SO MUCH FUN.' The text continued with disturbing details about the killer's intentions and beliefs, but did not contain his name as he had falsely promised in his letter.",
-    "The Hardens' decryption was the only Zodiac cipher to be definitively solved during the active investigation. It established that the writer was indeed the killer, since it referenced specific details from the crime scenes.",
-    "On September 27, 1969, the killer attacked Cecelia Shepard and Bryan Hartnell at Lake Berryessa. He approached them at a picnic site wearing a black executioner-style hood with the Zodiac symbol on the chest. He stabbed both repeatedly. Shepard died of her wounds. Hartnell survived and gave detailed witness statements.",
-    "Hartnell's description of the hood, the symbol, and the killer's methods became central to the investigation. The killer had taken time to write the dates of his crimes on the door of Hartnell's car using a pen.",
-    "On October 11, 1969, the Zodiac killed San Francisco taxi driver Paul Stine in the Presidio Heights neighborhood. Witnesses across the street saw the killer leaving the cab. They called police immediately. SFPD responded within minutes — and a dispatch error sent officers looking for a Black suspect rather than the white man witnesses had described.",
-    "The dispatch error allowed the killer to escape on foot. Officers on the scene later spoke to a white man matching the description, but they were searching for a different suspect and let him pass.",
-    "After the Stine murder, the Zodiac sent a piece of Stine's bloody shirt to the San Francisco Chronicle to prove his identity. Through 1969 and 1970, he sent additional letters. He claimed responsibility for more killings — though only the original five attacks have been confirmed.",
-    "Subsequent ciphers — Z340, Z32, and Z13 — were sent in 1969 and 1970. The Z340 cipher resisted decryption for over 50 years. In December 2020, an international team led by Sam Blake, David Oranchak, and Jarl Van Eycke cracked it.",
-    "The solution to the Z340 confirmed it was authentic, written by the same person as the Z408. Its content was further taunting and discussion of his motives. It did not name the killer.",
-    "The leading Zodiac suspect for many investigators was Arthur Leigh Allen, a Vallejo resident with a criminal history. He was investigated repeatedly by Vallejo Police, San Francisco Police, and the FBI between 1971 and his death in 1992. He was never charged.",
-    "DNA evidence from envelopes the Zodiac sent in the late 1960s and 1970s has been examined repeatedly with modern technology. In 2002, the SFPD obtained a partial DNA profile from the Zodiac envelope flaps. It did not match Allen.",
-    "Some researchers have argued that the partial DNA profiles are degraded and may not be conclusive. Others have argued they exclude Allen but leave open numerous other suspects.",
-    "A separate 2021 announcement by an independent group called the Case Breakers claimed to have identified the Zodiac as Gary Francis Poste, a deceased Air Force veteran. The FBI did not confirm the identification. The SFPD did not confirm it. Poste died in 2018 and could not be questioned.",
-    "Vallejo Police, San Francisco Police, and the FBI continue to consider the Zodiac case open. The Sonoma County and Solano County sheriffs' offices also retain jurisdiction over portions of the original attacks.",
-    "The original letters and ciphers are preserved in the FBI's case file in San Francisco. Some have been displayed for limited periods at FBI headquarters in Washington.",
-    "If you are researching the Zodiac case, the Vallejo Police Department maintains an active tip line. The Z32 and Z13 ciphers, which the Zodiac claimed contained his real name, remain unsolved and continue to attract serious cryptographic effort.",
-    "Subscribe to DarkFiles and hit the bell. Next week's case goes deeper into a Vienna street where a young woman vanished after stepping off a streetcar in the early 1990s."
-  ]
+    {
+      "voice": "Between December 1968 and October 1969, a killer attacked five people in Northern California. Two attacks happened in or near Vallejo. The killer wrote a series of letters to local newspapers, signed them with a crossed-circle symbol, and demanded they be published. The letters, more than the killings themselves, shaped the case. He was never identified.",
+      "visual": "crime scene investigation",
+      "duration": 22
+    },
+    {
+      "voice": "The first confirmed Zodiac attack happened on December 20, 1968. David Faraday, 17, and Betty Lou Jensen, 16, were shot to death at a lovers' lane on Lake Herman Road outside Vallejo. They were on their first date. The killer used a .22 caliber pistol.",
+      "visual": "detective board evidence",
+      "duration": 20
+    },
+    {
+      "voice": "Vallejo Police Department detectives initially had no leads. The location was remote. There were no witnesses. There was no apparent motive.",
+      "visual": "old newspaper article",
+      "duration": 20
+    },
+    {
+      "voice": "On July 4, 1969, a second attack happened at Blue Rock Springs Park in Vallejo. Darlene Ferrin, 22, was killed. Her companion Mike Mageau survived multiple gunshot wounds. He gave a witness description of the attacker — a stocky white man with brown hair, approximately 26 to 30 years old.",
+      "visual": "missing person flyer",
+      "duration": 20
+    },
+    {
+      "voice": "Less than 40 minutes after the Blue Rock Springs attack, a man called the Vallejo Police switchboard from a payphone in downtown Vallejo. He calmly reported the attack. He claimed responsibility for the December 1968 attack. He hung up.",
+      "visual": "police investigation files",
+      "duration": 20
+    },
+    {
+      "voice": "On August 1, 1969, three identical letters arrived at the Vallejo Times Herald, the San Francisco Chronicle, and the San Francisco Examiner. Each letter contained one third of a coded message. The killer demanded the letters be published on the front page or he would 'cruise around all weekend killing lone people in the night.'",
+      "visual": "forensic lab analysis",
+      "duration": 22
+    },
+    {
+      "voice": "The papers published the letters. The combined cipher consisted of 408 symbols using a substitution code with multiple symbols representing the same letter. The cipher became known as the Z408.",
+      "visual": "abandoned building night",
+      "duration": 20
+    },
+    {
+      "voice": "Here's where ordinary citizens broke the case wide open. Donald Harden, a high school history teacher in Salinas, and his wife Bettye Harden cracked the cipher in just over a week. They submitted their solution on August 8, 1969.",
+      "visual": "rural road night",
+      "duration": 20
+    },
+    {
+      "voice": "The Z408 cipher's solution read in part: 'I LIKE KILLING PEOPLE BECAUSE IT IS SO MUCH FUN.' The text continued with disturbing details about the killer's intentions and beliefs, but did not contain his name as he had falsely promised in his letter.",
+      "visual": "courthouse exterior",
+      "duration": 20
+    },
+    {
+      "voice": "The Hardens' decryption was the only Zodiac cipher to be definitively solved during the active investigation. It established that the writer was indeed the killer, since it referenced specific details from the crime scenes.",
+      "visual": "vintage photograph",
+      "duration": 20
+    },
+    {
+      "voice": "On September 27, 1969, the killer attacked Cecelia Shepard and Bryan Hartnell at Lake Berryessa. He approached them at a picnic site wearing a black executioner-style hood with the Zodiac symbol on the chest. He stabbed both repeatedly. Shepard died of her wounds. Hartnell survived and gave detailed witness statements.",
+      "visual": "fbi case files",
+      "duration": 20
+    },
+    {
+      "voice": "Hartnell's description of the hood, the symbol, and the killer's methods became central to the investigation. The killer had taken time to write the dates of his crimes on the door of Hartnell's car using a pen.",
+      "visual": "evidence bag tape",
+      "duration": 20
+    },
+    {
+      "voice": "On October 11, 1969, the Zodiac killed San Francisco taxi driver Paul Stine in the Presidio Heights neighborhood. Witnesses across the street saw the killer leaving the cab. They called police immediately. SFPD responded within minutes — and a dispatch error sent officers looking for a Black suspect rather than the white man witnesses had described.",
+      "visual": "interrogation room",
+      "duration": 22
+    },
+    {
+      "voice": "The dispatch error allowed the killer to escape on foot. Officers on the scene later spoke to a white man matching the description, but they were searching for a different suspect and let him pass.",
+      "visual": "darkroom flashlight investigation",
+      "duration": 20
+    },
+    {
+      "voice": "After the Stine murder, the Zodiac sent a piece of Stine's bloody shirt to the San Francisco Chronicle to prove his identity. Through 1969 and 1970, he sent additional letters. He claimed responsibility for more killings — though only the original five attacks have been confirmed.",
+      "visual": "vintage typewriter notes",
+      "duration": 20
+    },
+    {
+      "voice": "Subsequent ciphers — Z340, Z32, and Z13 — were sent in 1969 and 1970. The Z340 cipher resisted decryption for over 50 years. In December 2020, an international team led by Sam Blake, David Oranchak, and Jarl Van Eycke cracked it.",
+      "visual": "cold case archive",
+      "duration": 20
+    },
+    {
+      "voice": "The solution to the Z340 confirmed it was authentic, written by the same person as the Z408. Its content was further taunting and discussion of his motives. It did not name the killer.",
+      "visual": "missing person search",
+      "duration": 20
+    },
+    {
+      "voice": "The leading Zodiac suspect for many investigators was Arthur Leigh Allen, a Vallejo resident with a criminal history. He was investigated repeatedly by Vallejo Police, San Francisco Police, and the FBI between 1971 and his death in 1992. He was never charged.",
+      "visual": "police badge close up",
+      "duration": 20
+    },
+    {
+      "voice": "DNA evidence from envelopes the Zodiac sent in the late 1960s and 1970s has been examined repeatedly with modern technology. In 2002, the SFPD obtained a partial DNA profile from the Zodiac envelope flaps. It did not match Allen.",
+      "visual": "crime scene tape yellow",
+      "duration": 20
+    },
+    {
+      "voice": "Some researchers have argued that the partial DNA profiles are degraded and may not be conclusive. Others have argued they exclude Allen but leave open numerous other suspects.",
+      "visual": "old phone receiver",
+      "duration": 20
+    },
+    {
+      "voice": "A separate 2021 announcement by an independent group called the Case Breakers claimed to have identified the Zodiac as Gary Francis Poste, a deceased Air Force veteran. The FBI did not confirm the identification. The SFPD did not confirm it. Poste died in 2018 and could not be questioned.",
+      "visual": "investigator notebook",
+      "duration": 20
+    },
+    {
+      "voice": "Vallejo Police, San Francisco Police, and the FBI continue to consider the Zodiac case open. The Sonoma County and Solano County sheriffs' offices also retain jurisdiction over portions of the original attacks.",
+      "visual": "evidence photograph wall",
+      "duration": 20
+    },
+    {
+      "voice": "The original letters and ciphers are preserved in the FBI's case file in San Francisco. Some have been displayed for limited periods at FBI headquarters in Washington.",
+      "visual": "darkened forest clue",
+      "duration": 20
+    },
+    {
+      "voice": "If you are researching the Zodiac case, the Vallejo Police Department maintains an active tip line. The Z32 and Z13 ciphers, which the Zodiac claimed contained his real name, remain unsolved and continue to attract serious cryptographic effort.",
+      "visual": "vintage clock tower",
+      "duration": 20
+    },
+    {
+      "voice": "Subscribe to DarkFiles and hit the bell. Next week's case goes deeper into a Vienna street where a young woman vanished after stepping off a streetcar in the early 1990s.",
+      "visual": "old map markings",
+      "duration": 20
+    }
+  ],
+  "thumbnail_text": "ZODIAC KILLER THE"
 }

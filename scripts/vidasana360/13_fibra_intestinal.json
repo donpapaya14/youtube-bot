@@ -1,36 +1,155 @@
 {
   "title": "🥗 El papel real de la fibra en salud intestinal",
   "description": "Las dos fibras que importan, sus efectos diferenciados y cómo elegir la correcta según tu objetivo digestivo o metabólico.",
-  "tags": ["fibra", "intestino", "microbioma", "salud digestiva", "nutrición"],
-  "segments": [
-    "La fibra es una de las palabras más usadas en nutrición y una de las peor entendidas. La gente cree que toda la fibra hace lo mismo. Y no es así. Fibra soluble e insoluble son moléculas distintas con funciones distintas. Hoy desglosamos cuáles importan, qué hacen exactamente y cómo elegir según tu objetivo digestivo, metabólico o de salud cardiovascular.",
-    "Empecemos por la diferencia básica. La fibra soluble se disuelve en agua formando un gel. La fibra insoluble no se disuelve y aporta volumen a las heces. Ambas son importantes pero hacen cosas distintas en el tránsito intestinal. La industria suele etiquetar simplemente como fibra sin distinguir y eso es información incompleta.",
-    "La fibra soluble está en avena, manzana, zanahoria, legumbres, semillas de chía y psyllium. Es la que tiene efectos metabólicos más estudiados. Reduce el colesterol LDL, modera el pico de glucosa post-comida y ralentiza el vaciado gástrico. El betaglucano de la avena tiene aprobación de la EFSA por su efecto sobre colesterol con dosis de 3 gramos al día.",
-    "La fibra insoluble está en trigo integral, salvado, frutos secos, piel de fruta y verduras de hoja. Su función principal es aumentar el volumen del bolo intestinal y acelerar el tránsito. Es la fibra que combate estreñimiento mecánico. Pero ojo, en personas con colon irritable la fibra insoluble en exceso puede empeorar síntomas. La individualización es clave.",
-    "Aquí está el truco. La cantidad recomendada es 25 a 30 gramos diarios, según la Sociedad Española de Nutrición Comunitaria. La realidad es que el español medio toma entre 12 y 15. Estamos a la mitad de la recomendación. Por eso problemas digestivos crónicos, alteraciones del microbioma y enfermedades cardiovasculares son tan comunes.",
-    "El error común. Aumentar fibra de golpe genera gases intensos y molestias. Tu microbiota necesita adaptación. Si pasas de 12 a 30 gramos en una semana, el resultado es desastroso. La regla práctica es subir 5 gramos cada semana. En cuatro semanas llegas al objetivo sin sufrir efectos secundarios molestos.",
-    "Lo que probé yo durante seis meses. Subí progresivamente la fibra siguiendo el método anterior. Empecé añadiendo dos cucharadas de copos de avena al desayuno. La segunda semana sumé legumbres tres veces. La tercera, fruta entera tras cada comida. La cuarta, frutos secos. Las molestias digestivas que tuve los primeros días desaparecieron en una semana. Después solo notaba mejoría.",
-    "El microbioma es el gran beneficiado. Las bacterias intestinales fermentan ciertas fibras solubles llamadas fibras prebióticas. De esa fermentación se producen ácidos grasos de cadena corta como butirato, acetato y propionato. El butirato es el principal alimento de las células del colon. Sin fibra, esas células se atrofian.",
-    "El doctor Justin Sonnenburg en Stanford lleva una década publicando sobre la conexión fibra microbioma. Sus trabajos muestran que dietas bajas en fibra a largo plazo reducen la diversidad bacteriana. Y la baja diversidad se asocia con mayor riesgo de enfermedades autoinmunes, alergias y problemas metabólicos. La fibra alimenta más de lo que parece.",
-    "Las legumbres son probablemente la mejor fuente de fibra disponible. Una taza de lentejas cocinadas tiene 16 gramos de fibra. Más que diez tostadas integrales. Y aporta proteína, hierro, ácido fólico y polifenoles. La dieta mediterránea tradicional con legumbres tres veces a la semana cubría buena parte del requerimiento sin esfuerzo.",
-    "El kiwi es un alimento estrella infrautilizado. Dos kiwis al día han mostrado efectos sobre estreñimiento crónico equivalentes a la fibra de psyllium pero con mejor tolerancia, según trabajos de Richard Gearry en Nueva Zelanda. Aporta enzimas como la actinidina que ayudan a la digestión proteica. Y vitamina C en cantidad útil.",
-    "El psyllium o cáscara de zaragatona es la fibra soluble más estudiada en cápsulas. Cinco gramos al día con un vaso grande de agua reduce colesterol LDL un 7 por ciento aproximadamente, mejora el tránsito y modula respuesta glucémica. Es barato y muy útil para personas con limitación a comer fibra desde alimentos enteros. La marca Plantago ovata es la genérica.",
-    "Algo curioso. La fibra resistente del almidón, presente en el plátano verde, en la patata cocida y enfriada y en las legumbres recalentadas, alimenta especialmente bien a Bifidobacterium. Trabajos de Peter Gibson en Australia muestran que añadir 20 gramos de almidón resistente diarios mejora marcadores de inflamación intestinal en personas con problemas crónicos.",
-    "El truco del arroz cocinado y enfriado. Cuando cocinas arroz blanco y lo enfrías 24 horas en la nevera, parte del almidón retrograda y se vuelve resistente. La carga glucémica del arroz baja al recalentarlo al día siguiente. Esto se ha estudiado en sujetos diabéticos con resultados positivos. Sushi o ensaladas frías de arroz tienen ese efecto.",
-    "Para personas con SII, síndrome de intestino irritable, la cosa es distinta. La dieta baja en FODMAPs desarrollada por Peter Gibson y Sue Shepherd en Monash es el estándar de tratamiento. Algunas fibras fermentables como la inulina, los fructooligosacáridos o el sorbitol pueden empeorar síntomas. Aquí no es cuestión de comer más fibra sino mejor seleccionada.",
-    "El trigo integral merece una matización. Aunque tiene fibra insoluble útil, en personas con sensibilidad al gluten no celíaca puede generar molestias. Para esas personas, la avena, el centeno fermentado o el alforfón son alternativas. La sensibilidad al gluten no celíaca es controvertida pero clínicamente real para muchas personas.",
-    "El error de las galletas integrales del supermercado. Suelen tener salvado añadido y mucho azúcar libre. La cantidad neta de fibra útil es menor de lo que parece. Y el azúcar cancela buena parte de los beneficios metabólicos de la fibra. Lee etiquetas. Si lleva azúcar entre los tres primeros ingredientes, no es producto saludable aunque ponga integral en el envase.",
-    "Las gomas como goma guar, goma xantana o goma garrofín son fibras solubles que se añaden a alimentos procesados. Tienen efectos prebióticos. Pero en personas sensibles pueden generar gases. La cantidad en yogures comerciales es baja y suele tolerarse bien. En suplementos de fibra concentrada vigila la dosis y la tolerancia individual.",
-    "El agua es esencial al aumentar fibra. Sin hidratación adecuada, la fibra puede empeorar el estreñimiento en lugar de ayudarlo. Por cada gramo extra de fibra que sumas a la dieta, tu requerimiento de agua sube un poco. La regla práctica de dos litros al día es el mínimo. Si tomas 30 gramos de fibra, mejor dos litros y medio.",
-    "La fibra fermentable y las flatulencias. Es el efecto secundario más conocido. Cierto nivel de gas es normal y no preocupante. Si pasa de razonable, suele ser cuestión de adaptación incompleta. Reducir la cantidad un 30 por ciento y subir más despacio resuelve la mayoría de los casos. La microbiota se adapta con el tiempo.",
-    "Algo importante para deportistas. Antes de competiciones largas no conviene cambiar la rutina de fibra. La carga de fibra alta el día antes de un maratón puede provocar problemas digestivos durante la carrera. Mantén tu cantidad habitual y no experimentes con alimentos nuevos en momentos de competición. Sentido común que muchos olvidan.",
-    "El consejo mediterráneo más infravalorado. Cinco raciones de fruta y verdura al día. Suena tópico pero cumplirlo de verdad cubre 18 a 20 gramos de fibra sin más esfuerzo. Si añades una ración de legumbres y un puñado de frutos secos, llegas a los 30 gramos sin productos especiales ni suplementos.",
-    "El error de tomar suplementos de fibra antes de mejorar la dieta. La fibra de un alimento entero viene acompañada de polifenoles, vitaminas, minerales y agua. La fibra aislada en cápsulas funciona pero pierde la sinergia. Primero comida real, luego suplementación si hace falta. No al revés.",
-    "Algo aprendido leyendo a la doctora Sonia Lupien y otros divulgadores. La fibra mejora la salud mental indirectamente vía eje intestino cerebro. Una microbiota sana produce neurotransmisores como serotonina. La depresión y la ansiedad tienen correlación con baja diversidad microbiana. La fibra alimenta esa diversidad. Salud digestiva igual a salud emocional.",
-    "Para terminar. La fibra no es solo para no estreñirse. Es uno de los componentes más infravalorados de la dieta moderna. Subir gradualmente hasta 30 gramos al día desde alimentos enteros, con buena hidratación y variedad, es una de las mejores inversiones en salud que puedes hacer. Sin productos caros y con efectos demostrados.",
-    "Algo extra para diabéticos tipo 2 e insulinorresistentes. La fibra soluble como la avena, las legumbres y el psyllium baja la curva glucémica de las comidas. Un trabajo del doctor Vladimir Vuksan en Toronto mostró reducciones de hemoglobina glicosilada del 0.4 por ciento al añadir psyllium tres veces al día durante ocho semanas. Es comparable a algunos antidiabéticos orales suaves. Un complemento dietético potente.",
-    "El timing también importa. La fibra antes de la comida tiene más efecto sobre saciedad y respuesta glucémica que la fibra al final. Una ensalada de hojas verdes antes del plato principal o tres almendras como aperitivo cumplen ese papel. La doctora Louis Aronne en Weill Cornell ha publicado sobre esto. Un detalle de orden que cambia respuesta metabólica completa.",
-    "Suscríbete a VidaSana360 y dale a la campana. Lo que viene la próxima semana son los estiramientos antes de dormir para mejorar postura, basados en estudios de fisioterapia y biomecánica."
+  "tags": [
+    "fibra",
+    "intestino",
+    "microbioma",
+    "salud digestiva",
+    "nutrición"
   ],
-  "duration_estimate_seconds": 1340
+  "segments": [
+    {
+      "voice": "La fibra es una de las palabras más usadas en nutrición y una de las peor entendidas. La gente cree que toda la fibra hace lo mismo. Y no es así. Fibra soluble e insoluble son moléculas distintas con funciones distintas. Hoy desglosamos cuáles importan, qué hacen exactamente y cómo elegir según tu objetivo digestivo, metabólico o de salud cardiovascular.",
+      "visual": "healthy breakfast plate",
+      "duration": 24
+    },
+    {
+      "voice": "Empecemos por la diferencia básica. La fibra soluble se disuelve en agua formando un gel. La fibra insoluble no se disuelve y aporta volumen a las heces. Ambas son importantes pero hacen cosas distintas en el tránsito intestinal. La industria suele etiquetar simplemente como fibra sin distinguir y eso es información incompleta.",
+      "visual": "fresh vegetables wooden table",
+      "duration": 20
+    },
+    {
+      "voice": "La fibra soluble está en avena, manzana, zanahoria, legumbres, semillas de chía y psyllium. Es la que tiene efectos metabólicos más estudiados. Reduce el colesterol LDL, modera el pico de glucosa post-comida y ralentiza el vaciado gástrico. El betaglucano de la avena tiene aprobación de la EFSA por su efecto sobre colesterol con dosis de 3 gramos al día.",
+      "visual": "person meditation morning",
+      "duration": 23
+    },
+    {
+      "voice": "La fibra insoluble está en trigo integral, salvado, frutos secos, piel de fruta y verduras de hoja. Su función principal es aumentar el volumen del bolo intestinal y acelerar el tránsito. Es la fibra que combate estreñimiento mecánico. Pero ojo, en personas con colon irritable la fibra insoluble en exceso puede empeorar síntomas. La individualización es clave.",
+      "visual": "wellness fitness routine",
+      "duration": 22
+    },
+    {
+      "voice": "Aquí está el truco. La cantidad recomendada es 25 a 30 gramos diarios, según la Sociedad Española de Nutrición Comunitaria. La realidad es que el español medio toma entre 12 y 15. Estamos a la mitad de la recomendación. Por eso problemas digestivos crónicos, alteraciones del microbioma y enfermedades cardiovasculares son tan comunes.",
+      "visual": "fresh fruit smoothie",
+      "duration": 21
+    },
+    {
+      "voice": "El error común. Aumentar fibra de golpe genera gases intensos y molestias. Tu microbiota necesita adaptación. Si pasas de 12 a 30 gramos en una semana, el resultado es desastroso. La regla práctica es subir 5 gramos cada semana. En cuatro semanas llegas al objetivo sin sufrir efectos secundarios molestos.",
+      "visual": "person exercising home",
+      "duration": 20
+    },
+    {
+      "voice": "Lo que probé yo durante seis meses. Subí progresivamente la fibra siguiendo el método anterior. Empecé añadiendo dos cucharadas de copos de avena al desayuno. La segunda semana sumé legumbres tres veces. La tercera, fruta entera tras cada comida. La cuarta, frutos secos. Las molestias digestivas que tuve los primeros días desaparecieron en una semana. Después solo notaba mejoría.",
+      "visual": "doctor patient consultation",
+      "duration": 23
+    },
+    {
+      "voice": "El microbioma es el gran beneficiado. Las bacterias intestinales fermentan ciertas fibras solubles llamadas fibras prebióticas. De esa fermentación se producen ácidos grasos de cadena corta como butirato, acetato y propionato. El butirato es el principal alimento de las células del colon. Sin fibra, esas células se atrofian.",
+      "visual": "scientific lab research",
+      "duration": 20
+    },
+    {
+      "voice": "El doctor Justin Sonnenburg en Stanford lleva una década publicando sobre la conexión fibra microbioma. Sus trabajos muestran que dietas bajas en fibra a largo plazo reducen la diversidad bacteriana. Y la baja diversidad se asocia con mayor riesgo de enfermedades autoinmunes, alergias y problemas metabólicos. La fibra alimenta más de lo que parece.",
+      "visual": "natural food cooking",
+      "duration": 21
+    },
+    {
+      "voice": "Las legumbres son probablemente la mejor fuente de fibra disponible. Una taza de lentejas cocinadas tiene 16 gramos de fibra. Más que diez tostadas integrales. Y aporta proteína, hierro, ácido fólico y polifenoles. La dieta mediterránea tradicional con legumbres tres veces a la semana cubría buena parte del requerimiento sin esfuerzo.",
+      "visual": "person sleeping peaceful",
+      "duration": 20
+    },
+    {
+      "voice": "El kiwi es un alimento estrella infrautilizado. Dos kiwis al día han mostrado efectos sobre estreñimiento crónico equivalentes a la fibra de psyllium pero con mejor tolerancia, según trabajos de Richard Gearry en Nueva Zelanda. Aporta enzimas como la actinidina que ayudan a la digestión proteica. Y vitamina C en cantidad útil.",
+      "visual": "yoga stretching wellness",
+      "duration": 20
+    },
+    {
+      "voice": "El psyllium o cáscara de zaragatona es la fibra soluble más estudiada en cápsulas. Cinco gramos al día con un vaso grande de agua reduce colesterol LDL un 7 por ciento aproximadamente, mejora el tránsito y modula respuesta glucémica. Es barato y muy útil para personas con limitación a comer fibra desde alimentos enteros. La marca Plantago ovata es la genérica.",
+      "visual": "fresh herbs spices",
+      "duration": 24
+    },
+    {
+      "voice": "Algo curioso. La fibra resistente del almidón, presente en el plátano verde, en la patata cocida y enfriada y en las legumbres recalentadas, alimenta especialmente bien a Bifidobacterium. Trabajos de Peter Gibson en Australia muestran que añadir 20 gramos de almidón resistente diarios mejora marcadores de inflamación intestinal en personas con problemas crónicos.",
+      "visual": "healthy lifestyle outdoor",
+      "duration": 21
+    },
+    {
+      "voice": "El truco del arroz cocinado y enfriado. Cuando cocinas arroz blanco y lo enfrías 24 horas en la nevera, parte del almidón retrograda y se vuelve resistente. La carga glucémica del arroz baja al recalentarlo al día siguiente. Esto se ha estudiado en sujetos diabéticos con resultados positivos. Sushi o ensaladas frías de arroz tienen ese efecto.",
+      "visual": "person hydration water",
+      "duration": 22
+    },
+    {
+      "voice": "Para personas con SII, síndrome de intestino irritable, la cosa es distinta. La dieta baja en FODMAPs desarrollada por Peter Gibson y Sue Shepherd en Monash es el estándar de tratamiento. Algunas fibras fermentables como la inulina, los fructooligosacáridos o el sorbitol pueden empeorar síntomas. Aquí no es cuestión de comer más fibra sino mejor seleccionada.",
+      "visual": "balanced nutrition diet",
+      "duration": 22
+    },
+    {
+      "voice": "El trigo integral merece una matización. Aunque tiene fibra insoluble útil, en personas con sensibilidad al gluten no celíaca puede generar molestias. Para esas personas, la avena, el centeno fermentado o el alforfón son alternativas. La sensibilidad al gluten no celíaca es controvertida pero clínicamente real para muchas personas.",
+      "visual": "person stress relaxation",
+      "duration": 20
+    },
+    {
+      "voice": "El error de las galletas integrales del supermercado. Suelen tener salvado añadido y mucho azúcar libre. La cantidad neta de fibra útil es menor de lo que parece. Y el azúcar cancela buena parte de los beneficios metabólicos de la fibra. Lee etiquetas. Si lleva azúcar entre los tres primeros ingredientes, no es producto saludable aunque ponga integral en el envase.",
+      "visual": "fitness workout home",
+      "duration": 24
+    },
+    {
+      "voice": "Las gomas como goma guar, goma xantana o goma garrofín son fibras solubles que se añaden a alimentos procesados. Tienen efectos prebióticos. Pero en personas sensibles pueden generar gases. La cantidad en yogures comerciales es baja y suele tolerarse bien. En suplementos de fibra concentrada vigila la dosis y la tolerancia individual.",
+      "visual": "healthy senior active",
+      "duration": 20
+    },
+    {
+      "voice": "El agua es esencial al aumentar fibra. Sin hidratación adecuada, la fibra puede empeorar el estreñimiento en lugar de ayudarlo. Por cada gramo extra de fibra que sumas a la dieta, tu requerimiento de agua sube un poco. La regla práctica de dos litros al día es el mínimo. Si tomas 30 gramos de fibra, mejor dos litros y medio.",
+      "visual": "nutritionist food healthy",
+      "duration": 24
+    },
+    {
+      "voice": "La fibra fermentable y las flatulencias. Es el efecto secundario más conocido. Cierto nivel de gas es normal y no preocupante. Si pasa de razonable, suele ser cuestión de adaptación incompleta. Reducir la cantidad un 30 por ciento y subir más despacio resuelve la mayoría de los casos. La microbiota se adapta con el tiempo.",
+      "visual": "wellness spa relaxation",
+      "duration": 22
+    },
+    {
+      "voice": "Algo importante para deportistas. Antes de competiciones largas no conviene cambiar la rutina de fibra. La carga de fibra alta el día antes de un maratón puede provocar problemas digestivos durante la carrera. Mantén tu cantidad habitual y no experimentes con alimentos nuevos en momentos de competición. Sentido común que muchos olvidan.",
+      "visual": "scientific study brain",
+      "duration": 20
+    },
+    {
+      "voice": "El consejo mediterráneo más infravalorado. Cinco raciones de fruta y verdura al día. Suena tópico pero cumplirlo de verdad cubre 18 a 20 gramos de fibra sin más esfuerzo. Si añades una ración de legumbres y un puñado de frutos secos, llegas a los 30 gramos sin productos especiales ni suplementos.",
+      "visual": "person walking nature",
+      "duration": 20
+    },
+    {
+      "voice": "El error de tomar suplementos de fibra antes de mejorar la dieta. La fibra de un alimento entero viene acompañada de polifenoles, vitaminas, minerales y agua. La fibra aislada en cápsulas funciona pero pierde la sinergia. Primero comida real, luego suplementación si hace falta. No al revés.",
+      "visual": "vitamin supplements natural",
+      "duration": 20
+    },
+    {
+      "voice": "Algo aprendido leyendo a la doctora Sonia Lupien y otros divulgadores. La fibra mejora la salud mental indirectamente vía eje intestino cerebro. Una microbiota sana produce neurotransmisores como serotonina. La depresión y la ansiedad tienen correlación con baja diversidad microbiana. La fibra alimenta esa diversidad. Salud digestiva igual a salud emocional.",
+      "visual": "anti aging skincare",
+      "duration": 20
+    },
+    {
+      "voice": "Para terminar. La fibra no es solo para no estreñirse. Es uno de los componentes más infravalorados de la dieta moderna. Subir gradualmente hasta 30 gramos al día desde alimentos enteros, con buena hidratación y variedad, es una de las mejores inversiones en salud que puedes hacer. Sin productos caros y con efectos demostrados.",
+      "visual": "healthy cooking kitchen",
+      "duration": 21
+    },
+    {
+      "voice": "Algo extra para diabéticos tipo 2 e insulinorresistentes. La fibra soluble como la avena, las legumbres y el psyllium baja la curva glucémica de las comidas. Un trabajo del doctor Vladimir Vuksan en Toronto mostró reducciones de hemoglobina glicosilada del 0.4 por ciento al añadir psyllium tres veces al día durante ocho semanas. Es comparable a algunos antidiabéticos orales suaves. Un complemento dietético potente.",
+      "visual": "healthy breakfast plate",
+      "duration": 25
+    },
+    {
+      "voice": "El timing también importa. La fibra antes de la comida tiene más efecto sobre saciedad y respuesta glucémica que la fibra al final. Una ensalada de hojas verdes antes del plato principal o tres almendras como aperitivo cumplen ese papel. La doctora Louis Aronne en Weill Cornell ha publicado sobre esto. Un detalle de orden que cambia respuesta metabólica completa.",
+      "visual": "fresh vegetables wooden table",
+      "duration": 24
+    },
+    {
+      "voice": "Suscríbete a VidaSana360 y dale a la campana. Lo que viene la próxima semana son los estiramientos antes de dormir para mejorar postura, basados en estudios de fisioterapia y biomecánica.",
+      "visual": "person meditation morning",
+      "duration": 20
+    }
+  ],
+  "duration_estimate_seconds": 1340,
+  "thumbnail_text": "EL PAPEL REAL"
 }
