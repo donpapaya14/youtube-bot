@@ -27,7 +27,17 @@
   },
   "refresh_token_env": "YT_TOKEN_HOGARINTELIGENTE",
   "category_id": "26",
-  "default_tags": ["home hacks", "cleaning tips", "organization", "home improvement", "life hacks", "cleaning science", "smart home"],
+  "default_tags": [
+    "home hacks",
+    "cleaning tips",
+    "organization",
+    "home improvement",
+    "life hacks",
+    "cleaning science",
+    "smart home"
+  ],
   "thumbnail_style": "clean organized home, before/after split, bright lighting, satisfying transformation",
-  "voice": "en-US-GuyNeural"
+  "voice": "en-US-GuyNeural",
+  "amazon_tag": "vds96-20",
+  "amazon_search": "books+nonfiction"
 }

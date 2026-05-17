@@ -28,6 +28,16 @@
   "voice": "en-US-GuyNeural",
   "refresh_token_env": "YT_TOKEN_CHILLORBIT",
   "category_id": "24",
-  "default_tags": ["true crime", "unsolved mysteries", "cold cases", "crime documentary", "mystery", "dark files", "criminal investigation"],
-  "thumbnail_style": "dark moody atmosphere, crime scene, noir detective, red accent lighting"
+  "default_tags": [
+    "true crime",
+    "unsolved mysteries",
+    "cold cases",
+    "crime documentary",
+    "mystery",
+    "dark files",
+    "criminal investigation"
+  ],
+  "thumbnail_style": "dark moody atmosphere, crime scene, noir detective, red accent lighting",
+  "amazon_tag": "vds96-20",
+  "amazon_search": "books+nonfiction"
 }

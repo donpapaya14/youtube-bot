@@ -27,7 +27,18 @@
   },
   "refresh_token_env": "YT_TOKEN_CALMEARTH",
   "category_id": "27",
-  "default_tags": ["disaster", "engineering failure", "investigation", "documentary", "what went wrong", "accident analysis", "structural failure", "disaster documentary"],
+  "default_tags": [
+    "disaster",
+    "engineering failure",
+    "investigation",
+    "documentary",
+    "what went wrong",
+    "accident analysis",
+    "structural failure",
+    "disaster documentary"
+  ],
   "thumbnail_style": "dramatic destruction scene, red warning colors, bold text overlay, documentary style",
-  "voice": "en-US-GuyNeural"
+  "voice": "en-US-GuyNeural",
+  "amazon_tag": "vds96-20",
+  "amazon_search": "books+nonfiction"
 }
