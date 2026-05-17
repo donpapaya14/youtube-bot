@@ -12,6 +12,11 @@ from dotenv import load_dotenv
 load_dotenv()
 
 from google_auth_oauthlib.flow import InstalledAppFlow
+import socketserver
+import wsgiref.simple_server
+# Permite reusar puerto 8080 entre runs consecutivos (evita "Address already in use")
+socketserver.TCPServer.allow_reuse_address = True
+wsgiref.simple_server.WSGIServer.allow_reuse_address = True
 
 CLIENT_ID = os.getenv("YOUTUBE_CLIENT_ID")
 CLIENT_SECRET = os.getenv("YOUTUBE_CLIENT_SECRET")
@@ -49,7 +54,30 @@ creds = flow.run_local_server(port=8080, prompt="consent", access_type="offline"
 print("\n=== REFRESH TOKEN ===")
 print(creds.refresh_token)
 print("====================")
-print(f"\nGuarda como secret en GitHub:")
-print(f"  gh secret set YT_TOKEN_{channel_name.upper()} --repo donpapaya14/youtube-bot")
-print(f"\nY en .env local:")
-print(f"  YT_TOKEN_{channel_name.upper()}={creds.refresh_token}")
+
+# Auto-update .env file
+env_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), ".env")
+key = f"YT_TOKEN_{channel_name.upper()}"
+new_line = f"{key}={creds.refresh_token}\n"
+
+if os.path.exists(env_path):
+    with open(env_path) as f:
+        lines = f.readlines()
+    found = False
+    for i, line in enumerate(lines):
+        if line.startswith(f"{key}="):
+            lines[i] = new_line
+            found = True
+            break
+    if not found:
+        lines.append(new_line)
+    with open(env_path, "w") as f:
+        f.writelines(lines)
+    print(f"\n.env actualizado: {key}")
+else:
+    with open(env_path, "w") as f:
+        f.write(new_line)
+    print(f"\n.env creado: {key}")
+
+print(f"\nAhora actualiza GitHub Secret:")
+print(f"  gh secret set {key} --repo donpapaya14/youtube-bot --body '{creds.refresh_token}'")
