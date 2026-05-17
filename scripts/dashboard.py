@@ -405,37 +405,99 @@ new Chart(document.getElementById('cWebs'), {{ type: 'bar', data: {{ labels: web
 </html>'''
 
 
+def render_multi_html(datasets, articles, weekly_commits, generated_at):
+    """Render HTML with tab filter para 7d/28d/90d."""
+    # Renderiza cada dataset por separado, envuelve en divs con id
+    sections = {}
+    for days, (yt_data, gsc_data) in datasets.items():
+        sections[days] = render_html(yt_data, gsc_data, articles, weekly_commits, generated_at, days)
+
+    # Extraer body de cada uno (entre <body> y </body>)
+    panels = {}
+    for d, html in sections.items():
+        body = html.split("<body>", 1)[1].split("</body>", 1)[0]
+        # quitar h1 + meta duplicados
+        body_parts = body.split("</p>", 1)
+        panels[d] = body_parts[1] if len(body_parts) > 1 else body
+
+    head_template = sections[list(sections.keys())[0]].split("<body>")[0] + "<body>"
+    h1_part = sections[list(sections.keys())[0]].split("<body>", 1)[1].split("</p>", 1)[0] + "</p>"
+
+    tabs_html = '''<div class="tabs" style="margin:16px 0;">
+<button class="tab active" data-period="7" onclick="switchTab(7)">📅 Última semana (7d)</button>
+<button class="tab" data-period="28" onclick="switchTab(28)">📊 Mensual (28d)</button>
+<button class="tab" data-period="90" onclick="switchTab(90)">📈 Trimestral (90d)</button>
+</div>'''
+
+    import re as _re
+    panels_html = ""
+    for d, p in panels.items():
+        display = "block" if d == 7 else "none"
+        # Suffix unique IDs per panel para no colisionar Chart.js
+        p_suffixed = _re.sub(r"id=['\"]([a-zA-Z][a-zA-Z0-9]*)['\"]", lambda m: f'id="{m.group(1)}_{d}"', p)
+        p_suffixed = _re.sub(r"getElementById\(['\"]([a-zA-Z][a-zA-Z0-9]*)['\"]\)", lambda m: f"getElementById('{m.group(1)}_{d}')", p_suffixed)
+        panels_html += f'<div id="panel-{d}" class="panel" style="display:{display}">{p_suffixed}</div>'
+
+    switch_js = '''
+<script>
+function switchTab(period) {
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  document.querySelector(`[data-period="${period}"]`).classList.add('active');
+  document.querySelectorAll('.panel').forEach(p => p.style.display = 'none');
+  document.getElementById(`panel-${period}`).style.display = 'block';
+  // Re-init charts inside panel
+  setTimeout(() => initChartsInPanel(period), 50);
+}
+function initChartsInPanel(period) {
+  // Trigger window resize so Chart.js re-renders
+  window.dispatchEvent(new Event('resize'));
+}
+</script>'''
+
+    return head_template + h1_part + tabs_html + panels_html + switch_js + "</body></html>"
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--open", action="store_true")
-    ap.add_argument("--days", type=int, default=28)
+    ap.add_argument("--days", type=int, default=None, help="Single period mode (default: multi 7/28/90)")
     ap.add_argument("--out", default="dashboard.html")
     args = ap.parse_args()
 
-    print(f"Pulling YT Analytics ({args.days}d)...")
-    yt_data = []
-    for env, name in YT_CHANNELS.items():
-        d = pull_yt(env, name, args.days)
-        if d: yt_data.append(d)
-        print(f"  {name}: {'OK' if d and 'error' not in d else 'ERR'}")
-
-    print("Pulling GSC...")
-    gsc_data = {}
-    for site_key, site_url in SITES.items():
-        gsc_data[site_key] = pull_gsc(site_url, args.days)
-        print(f"  {site_key}: {'OK' if 'error' not in gsc_data[site_key] else 'ERR'}")
-
     articles = count_articles()
     print(f"Articles: {articles}")
-
-    # Commits last 7 days
     bot_commits = get_recent_commits("/Users/vladys/Proyectos/youtube-bot", 7)
     web_commits = sum(get_recent_commits(f"/Users/vladys/Proyectos/{r}", 7) for r in ["vidasana360-web","saludlongevidad-web","finanzasclara-web","catbrothers-web","hogarinteligente-web"])
     weekly_commits = {"bot": bot_commits, "webs": web_commits, "total": bot_commits + web_commits}
 
+    if args.days:
+        # Single mode legacy
+        periods = [args.days]
+    else:
+        periods = [7, 28, 90]
+
+    datasets = {}
+    for days in periods:
+        print(f"\n=== Pulling {days}d ===")
+        yt_data = []
+        for env, name in YT_CHANNELS.items():
+            d = pull_yt(env, name, days)
+            if d: yt_data.append(d)
+            print(f"  YT {name}: {'OK' if d and 'error' not in d else 'ERR'}")
+        gsc_data = {}
+        for site_key, site_url in SITES.items():
+            gsc_data[site_key] = pull_gsc(site_url, days)
+            print(f"  GSC {site_key}: {'OK' if 'error' not in gsc_data[site_key] else 'ERR'}")
+        datasets[days] = (yt_data, gsc_data)
+
     out = Path(__file__).parent.parent / args.out
-    html = render_html(yt_data, gsc_data, articles, weekly_commits,
-                       datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC'), args.days)
+    generated_at = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
+    if len(datasets) == 1:
+        days = list(datasets.keys())[0]
+        yt_data, gsc_data = datasets[days]
+        html = render_html(yt_data, gsc_data, articles, weekly_commits, generated_at, days)
+    else:
+        html = render_multi_html(datasets, articles, weekly_commits, generated_at)
     out.write_text(html, encoding="utf-8")
 
     history = Path(__file__).parent.parent / "dashboard_history"
