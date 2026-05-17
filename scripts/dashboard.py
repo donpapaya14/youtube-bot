@@ -1,16 +1,10 @@
 """
-Dashboard semanal — métricas consolidadas de TODO el proyecto.
-Genera dashboard.html con gráficos Chart.js.
+Dashboard semanal — métricas consolidadas del Imperio Digital.
+Genera dashboard.html con gráficos, filtros temporales, hitos, métricas divertidas.
 
-Secciones:
-- YT Canales: subs, views, retention, growth 28d, monetización readiness
-- Webs SEO: clicks, impressions, position avg, top queries
-- Afiliados: tags aplicados por canal/web
-- Acciones esta semana: commits relevantes + changes
-
-Uso: python scripts/dashboard.py [--open]
+Uso: python scripts/dashboard.py [--open] [--days 28]
 """
-import os, sys, json, argparse, webbrowser
+import os, sys, json, argparse, webbrowser, subprocess
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -43,9 +37,7 @@ SITES = {
     "cashcafe": "https://cash-cafe.org/",
 }
 
-# Partner Program thresholds (2026)
-YPP_SHORTS = {"subs": 1000, "shorts_views_90d": 10_000_000}  # 10M views shorts
-YPP_LF = {"subs": 1000, "watch_hours": 4000}  # 4000h watch time
+PROJECT_START = datetime(2026, 4, 28, tzinfo=timezone.utc)  # arranque empire
 
 
 def yt_creds(env_name):
@@ -59,7 +51,7 @@ def yt_creds(env_name):
     )
 
 
-def pull_yt(env_name, ch_name):
+def pull_yt(env_name, ch_name, days=28):
     creds = yt_creds(env_name)
     if not creds: return None
     try:
@@ -68,26 +60,39 @@ def pull_yt(env_name, ch_name):
         info = yt.channels().list(part="id,statistics,snippet", mine=True).execute()["items"][0]
         ch_id = info["id"]
         stats = info["statistics"]
+        snippet = info["snippet"]
         end = datetime.now(timezone.utc).date()
-        start = end - timedelta(days=28)
+        start = end - timedelta(days=days)
         m = yta.reports().query(
             ids=f"channel=={ch_id}",
             startDate=start.isoformat(), endDate=end.isoformat(),
             metrics="views,estimatedMinutesWatched,subscribersGained,subscribersLost,averageViewPercentage",
             dimensions="day",
         ).execute().get("rows", [])
-        if not m: return {"name": ch_name, "subs": int(stats.get("subscriberCount",0)), "views_total": int(stats.get("viewCount",0)), "subs_28d": 0, "views_28d": 0, "watch_min_28d": 0, "ret": 0}
+        top = yta.reports().query(
+            ids=f"channel=={ch_id}",
+            startDate=start.isoformat(), endDate=end.isoformat(),
+            metrics="views,estimatedMinutesWatched,averageViewPercentage,averageViewDuration",
+            dimensions="video", sort="-views", maxResults=3,
+        ).execute().get("rows", [])
+        worst = []  # API no permite sort ascending sin filters extra
         return {
             "name": ch_name,
+            "env": env_name,
             "subs": int(stats.get("subscriberCount",0)),
             "views_total": int(stats.get("viewCount",0)),
+            "videos_total": int(stats.get("videoCount",0)),
+            "published_at": snippet.get("publishedAt","")[:10],
             "subs_28d": sum(r[3] for r in m) - sum(r[4] for r in m),
+            "subs_gained_28d": sum(r[3] for r in m),
             "views_28d": sum(r[1] for r in m),
             "watch_min_28d": sum(r[2] for r in m),
-            "ret": sum(r[5] for r in m) / len(m),
+            "ret": sum(r[5] for r in m) / len(m) if m else 0,
             "days": [r[0] for r in m],
             "views_daily": [r[1] for r in m],
             "subs_daily": [r[3]-r[4] for r in m],
+            "top_videos": [{"id": r[0], "views": r[1], "wm": r[2], "ret": r[3], "dur": r[4]} for r in top],
+            "worst_video": {"id": worst[0][0], "views": worst[0][1], "ret": worst[0][2]} if worst else None,
         }
     except Exception as e:
         return {"name": ch_name, "error": str(e)[:120]}
@@ -102,10 +107,10 @@ def gsc_creds():
     )
 
 
-def pull_gsc(site):
+def pull_gsc(site, days=28):
     svc = build("searchconsole","v1", credentials=gsc_creds())
     end = datetime.now(timezone.utc).date()
-    start = end - timedelta(days=28)
+    start = end - timedelta(days=days)
     try:
         r = svc.searchanalytics().query(siteUrl=site, body={
             "startDate": start.isoformat(), "endDate": end.isoformat(),
@@ -114,7 +119,6 @@ def pull_gsc(site):
         rows = r.get("rows", [])
         total_c = sum(row["clicks"] for row in rows)
         total_i = sum(row["impressions"] for row in rows)
-        # Pages
         rp = svc.searchanalytics().query(siteUrl=site, body={
             "startDate": start.isoformat(), "endDate": end.isoformat(),
             "dimensions": ["page"], "rowLimit": 5,
@@ -122,178 +126,280 @@ def pull_gsc(site):
         return {
             "clicks": total_c, "impressions": total_i,
             "ctr": total_c/total_i*100 if total_i else 0,
+            "avg_pos": sum(r.get("position",0)*r["impressions"] for r in rows)/total_i if total_i else 0,
             "top_queries": [{"q": r["keys"][0][:40], "c": r["clicks"], "i": r["impressions"], "pos": r.get("position",0)} for r in rows[:5]],
-            "top_pages": [{"p": r["keys"][0].replace(site,"/")[:60], "c": r["clicks"], "i": r["impressions"]} for r in rp.get("rows",[])[:5]],
+            "top_pages": [{"p": r["keys"][0].replace(site,"/")[:50], "c": r["clicks"], "i": r["impressions"]} for r in rp.get("rows",[])[:5]],
         }
     except Exception as e:
         return {"error": str(e)[:120]}
 
 
-def yp_status(d):
-    """Estado Partner Program."""
-    if "error" in d: return "—"
-    subs = d.get("subs", 0)
-    if subs < 500: return "🔴 lejos"
-    if subs < 1000: return f"🟡 {1000-subs} subs faltan"
-    return f"🟢 ELEGIBLE ({subs} subs)"
+def count_articles():
+    """Cuenta artículos publicados por web."""
+    counts = {}
+    for site_key in SITES.keys():
+        repo_map = {"vidasana360": "vidasana360-web", "saludlongevidad": "saludlongevidad-web",
+                    "finanzasclara": "finanzasclara-web", "catbrothers": "catbrothers-web",
+                    "espaciointeligente": "hogarinteligente-web", "cashcafe": "cashcafe-web"}
+        repo = repo_map.get(site_key)
+        if not repo: continue
+        path = Path(f"/Users/vladys/Proyectos/{repo}/src/content/blog")
+        if path.exists():
+            counts[site_key] = len(list(path.glob("*.md")))
+    return counts
 
 
-def adsense_status(c):
-    if "error" in c: return "—"
-    clicks = c.get("clicks", 0)
-    if clicks == 0: return "🔴 no apto"
-    if clicks < 50: return f"🟡 tráfico bajo ({clicks}c)"
-    return f"🟢 listo solicitar"
+def get_recent_commits(repo_path: str, days: int = 7) -> int:
+    """Cuenta commits en repo últimos N días."""
+    try:
+        since = (datetime.now(timezone.utc) - timedelta(days=days)).strftime("%Y-%m-%d")
+        r = subprocess.run(["git", "-C", repo_path, "log", f"--since={since}", "--oneline"],
+                          capture_output=True, text=True, timeout=10)
+        return len([l for l in r.stdout.split("\n") if l.strip()])
+    except Exception:
+        return 0
 
 
-def render_html(yt_data, gsc_data, generated_at):
+def goal_pct(current, target):
+    return min(100, current / target * 100) if target else 0
+
+
+def project_revenue(yt_data, gsc_data):
+    """Estimación revenue mensual proyectado."""
+    # YT: $1.5/1000 views cuando monetizado (~$0.5-2.5 ronda)
+    yt_views_monthly = sum(d.get("views_28d", 0) for d in yt_data if "error" not in d)
+    # Solo cuenta canales con 1k+ subs (eligibles)
+    monetizable_views = sum(d.get("views_28d", 0) for d in yt_data if "error" not in d and d.get("subs", 0) >= 1000)
+    yt_revenue = monetizable_views * 1.5 / 1000
+    # Web AdSense: ~$10 RPM tráfico orgánico
+    web_clicks_monthly = sum(gd.get("clicks", 0) for gd in gsc_data.values() if "error" not in gd)
+    web_revenue = web_clicks_monthly * 0.5  # $0.5 / click ad (conservative)
+    # Amazon: 4-8% commission, suponer 1% CTR + $30 avg order + 5% comm
+    web_imp = sum(gd.get("impressions", 0) for gd in gsc_data.values() if "error" not in gd)
+    amazon_revenue = web_imp * 0.01 * 30 * 0.05
+    return {
+        "yt_now": yt_revenue,
+        "web_ads": web_revenue,
+        "amazon": amazon_revenue,
+        "total_now": yt_revenue + web_revenue + amazon_revenue,
+    }
+
+
+def render_html(yt_data, gsc_data, articles, weekly_commits, generated_at, days=28):
+    # Stats globales
+    total_subs = sum(d.get("subs",0) for d in yt_data if "error" not in d)
+    total_subs_28d = sum(d.get("subs_28d",0) for d in yt_data if "error" not in d)
+    total_views_28d = sum(d.get("views_28d",0) for d in yt_data if "error" not in d)
+    total_views_lifetime = sum(d.get("views_total",0) for d in yt_data if "error" not in d)
+    total_videos = sum(d.get("videos_total",0) for d in yt_data if "error" not in d)
+    total_articles = sum(articles.values())
+    total_clicks = sum(gd.get("clicks",0) for gd in gsc_data.values() if "error" not in gd)
+    total_imp = sum(gd.get("impressions",0) for gd in gsc_data.values() if "error" not in gd)
+    days_running = (datetime.now(timezone.utc) - PROJECT_START).days
+    revenue = project_revenue(yt_data, gsc_data)
+
+    # Best/worst — divertido
+    valid_yt = [d for d in yt_data if "error" not in d and d.get("top_videos")]
+    best_channel = max(valid_yt, key=lambda d: d.get("views_28d",0)) if valid_yt else None
+    most_grown = max(valid_yt, key=lambda d: d.get("subs_28d",0)) if valid_yt else None
+    biggest_l = min([d for d in valid_yt if d.get("worst_video")], key=lambda d: d["worst_video"]["views"]) if any(d.get("worst_video") for d in valid_yt) else None
+
+    # Goal: 1k subs (YPP)
     yt_rows = ""
-    for d in yt_data:
+    for d in sorted(yt_data, key=lambda x: x.get("subs",0), reverse=True):
         if "error" in d:
-            yt_rows += f'<tr><td>{d["name"]}</td><td colspan="7" class="err">ERR: {d["error"][:60]}</td></tr>'
+            yt_rows += f'<tr><td>{d["name"]}</td><td colspan="7" class="err">ERR</td></tr>'
             continue
-        delta_color = "good" if d["subs_28d"] > 0 else "bad"
+        pct = goal_pct(d["subs"], 1000)
+        delta_class = "good" if d["subs_28d"] > 0 else "bad" if d["subs_28d"] < 0 else "neutral"
         yt_rows += f'''<tr>
-            <td><b>{d["name"]}</b></td>
+            <td><b>{d["name"]}</b><br><span class="sub">{d["published_at"]}</span></td>
             <td>{d["subs"]:,}</td>
-            <td class="{delta_color}">{d["subs_28d"]:+,}</td>
+            <td class="{delta_class}">{d["subs_28d"]:+,}</td>
             <td>{d["views_28d"]:,}</td>
             <td>{d["watch_min_28d"]:,}</td>
-            <td>{d["ret"]:.1f}%</td>
-            <td>{yp_status(d)}</td>
+            <td>{d["ret"]:.0f}%</td>
+            <td>{d["videos_total"]}</td>
+            <td><div class="progress"><div class="bar" style="width:{pct}%"></div></div><span class="sub">{int(pct)}% YPP</span></td>
         </tr>'''
 
     gsc_rows = ""
-    for site, gd in gsc_data.items():
+    for site, gd in sorted(gsc_data.items(), key=lambda x: x[1].get("clicks",0) if "error" not in x[1] else 0, reverse=True):
         if "error" in gd:
-            gsc_rows += f'<tr><td>{site}</td><td colspan="4" class="err">{gd["error"][:60]}</td></tr>'
+            gsc_rows += f'<tr><td>{site}</td><td colspan="5" class="err">ERR</td></tr>'
             continue
+        arts = articles.get(site, 0)
         gsc_rows += f'''<tr>
             <td><b>{site}</b></td>
+            <td>{arts}</td>
             <td>{gd["clicks"]}</td>
-            <td>{gd["impressions"]}</td>
+            <td>{gd["impressions"]:,}</td>
             <td>{gd["ctr"]:.2f}%</td>
-            <td>{adsense_status(gd)}</td>
+            <td>{gd["avg_pos"]:.1f}</td>
         </tr>'''
+
+    # Top queries todas las webs
+    top_queries_global = []
+    for site, gd in gsc_data.items():
+        if "error" in gd: continue
+        for q in gd.get("top_queries", [])[:3]:
+            top_queries_global.append({"site": site, **q})
+    top_queries_global.sort(key=lambda x: x["i"], reverse=True)
+
+    queries_html = "".join(f'<tr><td>{q["site"][:15]}</td><td>{q["q"]}</td><td>{q["c"]}</td><td>{q["i"]}</td><td>{q["pos"]:.1f}</td></tr>' for q in top_queries_global[:10])
 
     # Chart data
     chart_subs = json.dumps([{"label": d["name"], "value": d.get("subs", 0)} for d in yt_data if "error" not in d])
     chart_growth = json.dumps([{"label": d["name"], "value": d.get("subs_28d", 0)} for d in yt_data if "error" not in d])
-    chart_views_web = json.dumps([{"label": site, "clicks": gd.get("clicks",0), "imp": gd.get("impressions",0)} for site, gd in gsc_data.items() if "error" not in gd])
+    chart_views = json.dumps([{"label": d["name"], "value": d.get("views_28d", 0)} for d in yt_data if "error" not in d])
+    chart_webs = json.dumps([{"label": site, "clicks": gd.get("clicks",0), "imp": gd.get("impressions",0)} for site, gd in gsc_data.items() if "error" not in gd])
+
+    # Fun stats
+    biggest_l_html = ""
+    if biggest_l and biggest_l.get("worst_video"):
+        wv = biggest_l["worst_video"]
+        biggest_l_html = f'<tr><td>💔 Peor video</td><td>{biggest_l["name"]}</td><td>{wv["views"]} views, {wv["ret"]:.1f}% ret</td></tr>'
+
+    best_yt_html = ""
+    if best_channel:
+        best_yt_html = f'<tr><td>🔥 Canal top views {days}d</td><td>{best_channel["name"]}</td><td>{best_channel["views_28d"]:,} views</td></tr>'
+    if most_grown:
+        best_yt_html += f'<tr><td>🚀 Más nuevos subs {days}d</td><td>{most_grown["name"]}</td><td>+{most_grown["subs_28d"]} subs</td></tr>'
 
     return f'''<!DOCTYPE html>
 <html lang="es">
 <head>
-<meta charset="UTF-8">
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Dashboard — Imperio Digital</title>
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <style>
-* {{ box-sizing: border-box; margin: 0; padding: 0; font-family: -apple-system, system-ui, sans-serif; }}
-body {{ background: #0a0e1a; color: #e4e8f0; padding: 24px; }}
-h1 {{ color: #4ade80; margin-bottom: 8px; }}
-h2 {{ color: #60a5fa; margin: 32px 0 12px; }}
-.meta {{ color: #94a3b8; font-size: 13px; margin-bottom: 24px; }}
-.grid {{ display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }}
-.card {{ background: #131826; border: 1px solid #1e293b; border-radius: 12px; padding: 20px; }}
-table {{ width: 100%; border-collapse: collapse; font-size: 13px; }}
-th, td {{ padding: 8px 12px; text-align: left; border-bottom: 1px solid #1e293b; }}
-th {{ color: #94a3b8; font-weight: 600; text-transform: uppercase; font-size: 11px; }}
-.good {{ color: #4ade80; }}
-.bad {{ color: #f87171; }}
-.err {{ color: #fb923c; font-style: italic; }}
-canvas {{ max-height: 280px; }}
-.summary {{ display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; margin: 16px 0; }}
-.stat {{ background: #131826; border: 1px solid #1e293b; padding: 16px; border-radius: 8px; }}
-.stat b {{ display: block; font-size: 24px; color: #4ade80; }}
-.stat span {{ color: #94a3b8; font-size: 12px; }}
+*{{box-sizing:border-box;margin:0;padding:0;font-family:-apple-system,system-ui,sans-serif}}
+body{{background:#0a0e1a;color:#e4e8f0;padding:24px;max-width:1400px;margin:0 auto}}
+h1{{color:#4ade80;margin-bottom:4px;font-size:28px}}
+h2{{color:#60a5fa;margin:32px 0 12px;font-size:18px}}
+h3{{color:#a78bfa;font-size:14px;margin-bottom:12px}}
+.meta{{color:#94a3b8;font-size:12px;margin-bottom:16px}}
+.grid{{display:grid;grid-template-columns:1fr 1fr;gap:16px}}
+.grid3{{display:grid;grid-template-columns:1fr 1fr 1fr;gap:16px}}
+.card{{background:#131826;border:1px solid #1e293b;border-radius:12px;padding:18px}}
+table{{width:100%;border-collapse:collapse;font-size:13px}}
+th,td{{padding:8px 10px;text-align:left;border-bottom:1px solid #1e293b}}
+th{{color:#94a3b8;font-weight:600;text-transform:uppercase;font-size:10px}}
+.good{{color:#4ade80}}.bad{{color:#f87171}}.neutral{{color:#94a3b8}}.err{{color:#fb923c;font-style:italic}}
+.sub{{color:#64748b;font-size:11px}}
+canvas{{max-height:240px}}
+.summary{{display:grid;grid-template-columns:repeat(5,1fr);gap:12px;margin:16px 0}}
+.stat{{background:#131826;border:1px solid #1e293b;padding:14px;border-radius:8px}}
+.stat b{{display:block;font-size:22px;color:#4ade80}}
+.stat span{{color:#94a3b8;font-size:11px}}
+.stat .delta{{font-size:11px;margin-top:4px}}
+.progress{{background:#1e293b;height:6px;border-radius:3px;overflow:hidden;margin-bottom:2px}}
+.bar{{background:linear-gradient(90deg,#4ade80,#60a5fa);height:100%;transition:width 0.5s}}
+.tabs{{display:flex;gap:8px;margin-bottom:12px}}
+.tab{{padding:6px 14px;background:#131826;border:1px solid #1e293b;border-radius:6px;cursor:pointer;font-size:12px;color:#94a3b8}}
+.tab.active{{background:#1e3a8a;color:#fff;border-color:#3b82f6}}
+.revenue-card{{background:linear-gradient(135deg,#0f172a 0%,#1e293b 100%);border:1px solid #4ade80}}
+.revenue-card .num{{color:#4ade80;font-size:32px;font-weight:bold}}
+.badge{{display:inline-block;padding:2px 8px;border-radius:4px;font-size:10px;font-weight:600}}
+.b-good{{background:#065f46;color:#a7f3d0}}
+.b-warn{{background:#78350f;color:#fde68a}}
+.b-bad{{background:#7f1d1d;color:#fecaca}}
 </style>
 </head>
 <body>
-<h1>📊 Dashboard Imperio Digital</h1>
-<p class="meta">Generado: {generated_at} | Próxima actualización: weekly cron</p>
+<h1>📊 Imperio Digital — Dashboard</h1>
+<p class="meta">Generado: {generated_at} • Día {days_running} desde lanzamiento ({PROJECT_START.strftime('%Y-%m-%d')}) • Período: últimos {days}d</p>
 
 <div class="summary">
-<div class="stat"><b>{sum(d.get("subs",0) for d in yt_data if "error" not in d):,}</b><span>Subs totales YT</span></div>
-<div class="stat"><b>{sum(d.get("subs_28d",0) for d in yt_data if "error" not in d):+,}</b><span>Δ Subs 28d</span></div>
-<div class="stat"><b>{sum(gd.get("clicks",0) for gd in gsc_data.values() if "error" not in gd)}</b><span>Clicks web 28d</span></div>
-<div class="stat"><b>{sum(gd.get("impressions",0) for gd in gsc_data.values() if "error" not in gd):,}</b><span>Impressions web 28d</span></div>
+<div class="stat"><b>{total_subs:,}</b><span>Subs YT totales</span><div class="delta {'good' if total_subs_28d > 0 else 'bad'}">{total_subs_28d:+,} ({days}d)</div></div>
+<div class="stat"><b>{total_views_28d:,}</b><span>Views YT {days}d</span><div class="delta sub">Total: {total_views_lifetime:,}</div></div>
+<div class="stat"><b>{total_videos}</b><span>Videos subidos</span><div class="delta sub">~{total_videos/max(1,days_running):.1f}/día</div></div>
+<div class="stat"><b>{total_articles}</b><span>Artículos webs</span><div class="delta sub">{weekly_commits["webs"]} commits esta sem</div></div>
+<div class="stat"><b>{total_clicks}</b><span>Clicks SEO {days}d</span><div class="delta sub">{total_imp:,} impressions</div></div>
 </div>
 
-<h2>📺 YouTube — Canales</h2>
+<h2>💰 Revenue Proyección (mensual estimado)</h2>
+<div class="grid3">
+<div class="card revenue-card"><h3>YouTube AdSense (cuando monetice)</h3><div class="num">${revenue["yt_now"]:.0f}</div><span class="sub">Solo canales con 1k+ subs</span></div>
+<div class="card revenue-card"><h3>Web AdSense (proyectado)</h3><div class="num">${revenue["web_ads"]:.0f}</div><span class="sub">~$0.5/click orgánico</span></div>
+<div class="card revenue-card"><h3>Amazon Afiliados</h3><div class="num">${revenue["amazon"]:.0f}</div><span class="sub">1% CTR × $30 × 5% comm</span></div>
+</div>
+<div class="card" style="margin-top:12px;text-align:center">
+<h3>TOTAL ESTIMADO/MES</h3>
+<div style="font-size:48px;color:#4ade80;font-weight:bold">${revenue["total_now"]:.0f}</div>
+<span class="sub">Proyección si todo monetizado HOY (la mayoría aún no elegible)</span>
+</div>
+
+<h2>📺 YouTube — Canales (ordenados por subs)</h2>
 <div class="card">
 <table>
-<thead><tr><th>Canal</th><th>Subs</th><th>Δ 28d</th><th>Views 28d</th><th>Watch min</th><th>Retención</th><th>Partner Prog</th></tr></thead>
+<thead><tr><th>Canal</th><th>Subs</th><th>Δ {days}d</th><th>Views {days}d</th><th>Watch min</th><th>Ret</th><th>Videos</th><th>YPP Goal</th></tr></thead>
 <tbody>{yt_rows}</tbody>
 </table>
 </div>
 
 <div class="grid">
-<div class="card"><h3 style="color:#60a5fa;margin-bottom:12px;font-size:14px;">Subs Totales</h3><canvas id="cSubs"></canvas></div>
-<div class="card"><h3 style="color:#60a5fa;margin-bottom:12px;font-size:14px;">Crecimiento 28d</h3><canvas id="cGrowth"></canvas></div>
+<div class="card"><h3>Subs Totales</h3><canvas id="cSubs"></canvas></div>
+<div class="card"><h3>Crecimiento {days}d</h3><canvas id="cGrowth"></canvas></div>
 </div>
 
-<h2>🌐 Webs — Search Console</h2>
+<h2>🌐 Webs — Search Console (ordenadas por clicks)</h2>
 <div class="card">
 <table>
-<thead><tr><th>Web</th><th>Clicks 28d</th><th>Impressions</th><th>CTR</th><th>AdSense</th></tr></thead>
+<thead><tr><th>Web</th><th>Artículos</th><th>Clicks {days}d</th><th>Impressions</th><th>CTR</th><th>Posición avg</th></tr></thead>
 <tbody>{gsc_rows}</tbody>
 </table>
 </div>
 
 <div class="grid">
-<div class="card"><h3 style="color:#60a5fa;margin-bottom:12px;font-size:14px;">Tráfico Web 28d</h3><canvas id="cWebs"></canvas></div>
+<div class="card"><h3>Tráfico Web {days}d</h3><canvas id="cWebs"></canvas></div>
 <div class="card">
-<h3 style="color:#60a5fa;margin-bottom:12px;font-size:14px;">💰 Monetización Status</h3>
-<table style="font-size:12px">
-<tr><th>Programa</th><th>Requisito</th><th>Status</th></tr>
-<tr><td>YT Partner LF</td><td>1k subs + 4000h watch/12m</td><td>VidaSana cerca (188 subs)</td></tr>
-<tr><td>YT Partner Shorts</td><td>1k subs + 10M views/90d</td><td>Lejos</td></tr>
-<tr><td>Amazon ES</td><td>3 ventas/180d</td><td>vladys-21 activo en 2 webs ES</td></tr>
-<tr><td>Amazon US</td><td>3 ventas/180d</td><td>vds96-20 activo en 3 webs EN</td></tr>
-<tr><td>AdSense</td><td>~20 art + tráfico orgánico</td><td>Esperar 1-3 meses crawl</td></tr>
+<h3>🔍 Top queries SERP (todas las webs)</h3>
+<table style="font-size:11px">
+<thead><tr><th>Web</th><th>Query</th><th>C</th><th>Imp</th><th>Pos</th></tr></thead>
+<tbody>{queries_html}</tbody>
 </table>
 </div>
 </div>
 
-<h2>🔗 Afiliados Amazon — Mapeo</h2>
+<h2>🎯 Highlights del Período</h2>
 <div class="card">
 <table>
-<thead><tr><th>Sitio/Canal</th><th>Idioma</th><th>Tag</th><th>Marketplace</th></tr></thead>
+<thead><tr><th>Métrica</th><th>Ganador</th><th>Valor</th></tr></thead>
 <tbody>
-<tr><td>VidaSana360 (web+YT)</td><td>ES</td><td>vladys-21</td><td>amazon.es</td></tr>
-<tr><td>SaludLongevidad (web+YT)</td><td>ES</td><td>vladys-21</td><td>amazon.es</td></tr>
-<tr><td>FinanzasClara (web+YT)</td><td>EN</td><td>vds96-20</td><td>amazon.com</td></tr>
-<tr><td>CatBrothers (web+YT)</td><td>EN</td><td>vds96-20</td><td>amazon.com</td></tr>
-<tr><td>EspacioInteligente (web+YT)</td><td>EN</td><td>vds96-20</td><td>amazon.com</td></tr>
-<tr><td>CashCafe, DarkFiles, MindWired, DisasterDecode</td><td>EN</td><td>vds96-20</td><td>amazon.com</td></tr>
-<tr><td>DonVladys</td><td>ES</td><td>vladys-21</td><td>amazon.es</td></tr>
+{best_yt_html}
+{biggest_l_html}
+<tr><td>📚 Más artículos publicados</td><td>{max(articles.items(), key=lambda x: x[1])[0] if articles else '-'}</td><td>{max(articles.values()) if articles else 0} artículos</td></tr>
+<tr><td>⚡ Commits totales última semana</td><td>youtube-bot + 5 webs</td><td>{weekly_commits["total"]} commits</td></tr>
+</tbody>
+</table>
+</div>
+
+<h2>💎 Monetización Status</h2>
+<div class="card">
+<table>
+<thead><tr><th>Programa</th><th>Requisito</th><th>Status</th><th>Earnings estimated/mes</th></tr></thead>
+<tbody>
+<tr><td>YT Partner Program (LF)</td><td>1k subs + 4000h watch/12m</td><td><span class="badge b-warn">VidaSana 188/1000</span></td><td>$0 (locked)</td></tr>
+<tr><td>YT Partner Program (Shorts)</td><td>1k subs + 10M views/90d</td><td><span class="badge b-bad">muy lejos</span></td><td>$0 (locked)</td></tr>
+<tr><td>Amazon Asociados ES</td><td>3 ventas/180d</td><td><span class="badge b-good">vladys-21 activo</span></td><td>~${revenue["amazon"]/2:.0f}</td></tr>
+<tr><td>Amazon Asociados US</td><td>3 ventas/180d</td><td><span class="badge b-good">vds96-20 activo</span></td><td>~${revenue["amazon"]/2:.0f}</td></tr>
+<tr><td>Google AdSense (webs)</td><td>~20 art + tráfico orgánico</td><td><span class="badge b-warn">esperar 1-3m crawl</span></td><td>${revenue["web_ads"]:.0f} (cuando apruebe)</td></tr>
 </tbody>
 </table>
 </div>
 
 <script>
+const cfgBar = {{ plugins: {{ legend: {{ display: false }} }}, scales: {{ y: {{ ticks: {{ color: '#94a3b8' }} }}, x: {{ ticks: {{ color: '#94a3b8' }} }} }} }};
 const subs = {chart_subs};
+new Chart(document.getElementById('cSubs'), {{ type: 'bar', data: {{ labels: subs.map(d=>d.label), datasets: [{{ data: subs.map(d=>d.value), backgroundColor: '#4ade80' }}] }}, options: cfgBar }});
 const growth = {chart_growth};
-const webs = {chart_views_web};
-const cfg = {{ plugins: {{ legend: {{ display: false }} }} }};
-new Chart(document.getElementById('cSubs'), {{
-  type: 'bar',
-  data: {{ labels: subs.map(d=>d.label), datasets: [{{ data: subs.map(d=>d.value), backgroundColor: '#4ade80' }}] }},
-  options: cfg,
-}});
-new Chart(document.getElementById('cGrowth'), {{
-  type: 'bar',
-  data: {{ labels: growth.map(d=>d.label), datasets: [{{ data: growth.map(d=>d.value), backgroundColor: growth.map(d=>d.value>=0?'#4ade80':'#f87171') }}] }},
-  options: cfg,
-}});
-new Chart(document.getElementById('cWebs'), {{
-  type: 'bar',
-  data: {{ labels: webs.map(d=>d.label), datasets: [
-    {{ label: 'Clicks', data: webs.map(d=>d.clicks), backgroundColor: '#4ade80' }},
-    {{ label: 'Impressions/100', data: webs.map(d=>d.imp/100), backgroundColor: '#60a5fa' }},
-  ] }},
-  options: {{ plugins: {{ legend: {{ display: true }} }} }},
-}});
+new Chart(document.getElementById('cGrowth'), {{ type: 'bar', data: {{ labels: growth.map(d=>d.label), datasets: [{{ data: growth.map(d=>d.value), backgroundColor: growth.map(d=>d.value>=0?'#4ade80':'#f87171') }}] }}, options: cfgBar }});
+const webs = {chart_webs};
+new Chart(document.getElementById('cWebs'), {{ type: 'bar', data: {{ labels: webs.map(d=>d.label), datasets: [
+  {{ label: 'Clicks', data: webs.map(d=>d.clicks), backgroundColor: '#4ade80' }},
+  {{ label: 'Imp/100', data: webs.map(d=>d.imp/100), backgroundColor: '#60a5fa' }},
+] }}, options: {{ scales: cfgBar.scales }} }});
 </script>
 </body>
 </html>'''
@@ -302,42 +408,47 @@ new Chart(document.getElementById('cWebs'), {{
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--open", action="store_true")
+    ap.add_argument("--days", type=int, default=28)
+    ap.add_argument("--out", default="dashboard.html")
     args = ap.parse_args()
 
-    print("Pulling YT Analytics...")
+    print(f"Pulling YT Analytics ({args.days}d)...")
     yt_data = []
     for env, name in YT_CHANNELS.items():
-        d = pull_yt(env, name)
+        d = pull_yt(env, name, args.days)
         if d: yt_data.append(d)
         print(f"  {name}: {'OK' if d and 'error' not in d else 'ERR'}")
 
     print("Pulling GSC...")
     gsc_data = {}
     for site_key, site_url in SITES.items():
-        gsc_data[site_key] = pull_gsc(site_url)
+        gsc_data[site_key] = pull_gsc(site_url, args.days)
         print(f"  {site_key}: {'OK' if 'error' not in gsc_data[site_key] else 'ERR'}")
 
-    out = Path(__file__).parent.parent / "dashboard.html"
-    html = render_html(yt_data, gsc_data, datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC'))
+    articles = count_articles()
+    print(f"Articles: {articles}")
+
+    # Commits last 7 days
+    bot_commits = get_recent_commits("/Users/vladys/Proyectos/youtube-bot", 7)
+    web_commits = sum(get_recent_commits(f"/Users/vladys/Proyectos/{r}", 7) for r in ["vidasana360-web","saludlongevidad-web","finanzasclara-web","catbrothers-web","hogarinteligente-web"])
+    weekly_commits = {"bot": bot_commits, "webs": web_commits, "total": bot_commits + web_commits}
+
+    out = Path(__file__).parent.parent / args.out
+    html = render_html(yt_data, gsc_data, articles, weekly_commits,
+                       datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC'), args.days)
     out.write_text(html, encoding="utf-8")
-    # Archivo timestamped histórico
+
     history = Path(__file__).parent.parent / "dashboard_history"
     history.mkdir(exist_ok=True)
     stamp = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     (history / f"dashboard_{stamp}.html").write_text(html, encoding="utf-8")
+
     print(f"\nDashboard: {out}")
-    print(f"Histórico: {history / f'dashboard_{stamp}.html'}")
     if args.open:
         webbrowser.open(f"file://{out.absolute()}")
-    # macOS notification
-    import subprocess
     try:
-        subprocess.run([
-            "osascript", "-e",
-            f'display notification "Dashboard generado. Abrir en {out}" with title "📊 Dashboard Semanal"'
-        ], check=False, timeout=5)
-    except Exception:
-        pass
+        subprocess.run(["osascript","-e",f'display notification "Dashboard generado" with title "📊"'], check=False, timeout=5)
+    except Exception: pass
 
 
 if __name__ == "__main__":

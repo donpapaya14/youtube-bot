@@ -1,0 +1,49 @@
+name: "Dashboard: publish weekly"
+on:
+  schedule:
+    - cron: '0 8 * * 0'   # domingos 10:00 ES
+  workflow_dispatch:
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Generate dashboard
+        env:
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+          YT_TOKEN_PRINCIPAL: ${{ secrets.YT_TOKEN_PRINCIPAL }}
+          YT_TOKEN_SALUD: ${{ secrets.YT_TOKEN_SALUD }}
+          YT_TOKEN_FINANZAS: ${{ secrets.YT_TOKEN_FINANZAS }}
+          YT_TOKEN_CATBROTHERS: ${{ secrets.YT_TOKEN_CATBROTHERS }}
+          YT_TOKEN_HOGARINTELIGENTE: ${{ secrets.YT_TOKEN_HOGARINTELIGENTE }}
+          YT_TOKEN_CHILLORBIT: ${{ secrets.YT_TOKEN_CHILLORBIT }}
+          YT_TOKEN_DARKFILES: ${{ secrets.YT_TOKEN_DARKFILES }}
+          YT_TOKEN_CALMEARTH: ${{ secrets.YT_TOKEN_CALMEARTH }}
+          YT_TOKEN_CASHCAFE: ${{ secrets.YT_TOKEN_CASHCAFE }}
+          YT_TOKEN_DONVLADYS: ${{ secrets.YT_TOKEN_DONVLADYS }}
+          GSC_REFRESH_TOKEN: ${{ secrets.GSC_REFRESH_TOKEN }}
+        run: python scripts/dashboard.py --days 28 --out index.html
+
+      - name: Push to dashboard repo
+        env:
+          GH_TOKEN: ${{ secrets.DASHBOARD_PUSH_TOKEN }}
+        run: |
+          mkdir dash-deploy
+          mv index.html dash-deploy/
+          cd dash-deploy
+          git init -q
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions"
+          git add -A
+          git commit -q -m "auto: dashboard $(date +%Y-%m-%d)"
+          git push -f https://x-access-token:${GH_TOKEN}@github.com/donpapaya14/imperio-dashboard.git HEAD:master
