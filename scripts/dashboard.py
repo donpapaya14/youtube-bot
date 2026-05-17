@@ -318,10 +318,26 @@ def main():
         print(f"  {site_key}: {'OK' if 'error' not in gsc_data[site_key] else 'ERR'}")
 
     out = Path(__file__).parent.parent / "dashboard.html"
-    out.write_text(render_html(yt_data, gsc_data, datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')), encoding="utf-8")
+    html = render_html(yt_data, gsc_data, datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC'))
+    out.write_text(html, encoding="utf-8")
+    # Archivo timestamped histórico
+    history = Path(__file__).parent.parent / "dashboard_history"
+    history.mkdir(exist_ok=True)
+    stamp = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    (history / f"dashboard_{stamp}.html").write_text(html, encoding="utf-8")
     print(f"\nDashboard: {out}")
+    print(f"Histórico: {history / f'dashboard_{stamp}.html'}")
     if args.open:
         webbrowser.open(f"file://{out.absolute()}")
+    # macOS notification
+    import subprocess
+    try:
+        subprocess.run([
+            "osascript", "-e",
+            f'display notification "Dashboard generado. Abrir en {out}" with title "📊 Dashboard Semanal"'
+        ], check=False, timeout=5)
+    except Exception:
+        pass
 
 
 if __name__ == "__main__":
