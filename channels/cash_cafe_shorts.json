@@ -1,0 +1,33 @@
+{
+  "name": "CashCafe",
+  "handle": "@cashcafe4636",
+  "niche": "Personal money — habits, side hustles, mindset psychology",
+  "tone": "Conversational, motivating but realistic. Coffee chat style.",
+  "topics": [
+    "money psychology hacks",
+    "side hustle ideas 2026",
+    "compound interest reality",
+    "millionaire morning habits",
+    "credit score quick wins",
+    "negotiate any bill in 5 minutes",
+    "envelope budgeting tricks",
+    "dollar cost averaging simple",
+    "save money on groceries",
+    "no spend challenge 30 days"
+  ],
+  "style": {
+    "primary_color": "#FF6B35",
+    "text_color": "#FFFFFF",
+    "box_opacity": 0.85,
+    "font_size": 58
+  },
+  "cta": "💰 Stop sabotaging your money. Tap subscribe.\n\n☕ Daily money tips: @cashcafe4636",
+  "refresh_token_env": "YT_TOKEN_CASHCAFE",
+  "web_url": "https://cash-cafe.org",
+  "amazon_tag": "vladys-21",
+  "amazon_search": "money+habits+book",
+  "no_voice": true,
+  "language": "en",
+  "category_id": "22",
+  "pinned_comment": "☕ Drop a coffee emoji if you're working on your money habits this year 💪\n\n📖 More money tips: https://cash-cafe.org"
+}

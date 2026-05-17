@@ -1,0 +1,14 @@
+name: "Video: MindWired (Shorts)"
+on:
+  schedule:
+    - cron: '0 14 * * *'   # 10:00 EDT (morning brain)
+    - cron: '0 20 * * *'   # 16:00 EDT (afternoon)
+  workflow_dispatch:
+jobs:
+  video:
+    permissions:
+      contents: write
+    uses: ./.github/workflows/video_engine.yml
+    with:
+      channel: chill_orbit_shorts
+    secrets: inherit

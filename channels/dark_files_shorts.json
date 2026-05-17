@@ -1,0 +1,30 @@
+{
+  "name": "DarkFiles",
+  "handle": "@Darkfiles-v5q",
+  "niche": "True crime, unsolved mysteries, cold cases. 60-sec breakdowns of real cases.",
+  "tone": "Serious, investigative, respectful. Documentary voice but cut to the punch.",
+  "topics": [
+    "unsolved disappearance cold case",
+    "cold case identified DNA",
+    "true crime mystery one minute",
+    "cryptic last words case",
+    "vanished without trace mystery",
+    "FBI most wanted case",
+    "killer caught decades later",
+    "case solved by accident",
+    "missing person found alive",
+    "true crime forensic breakthrough"
+  ],
+  "style": {
+    "primary_color": "#8B0000",
+    "text_color": "#FFFFFF",
+    "box_opacity": 0.92,
+    "font_size": 60
+  },
+  "cta": "🔍 New case every day. Subscribe.\n\n📁 Full investigations: @Darkfiles-v5q",
+  "refresh_token_env": "YT_TOKEN_CHILLORBIT",
+  "no_voice": true,
+  "language": "en",
+  "category_id": "27",
+  "pinned_comment": "🔍 Which unsolved case haunts you the most? Tell us in the comments.\n\n📁 Subscribe for daily case files."
+}

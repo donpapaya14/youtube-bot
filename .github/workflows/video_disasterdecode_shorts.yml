@@ -1,0 +1,14 @@
+name: "Video: DisasterDecode (Shorts)"
+on:
+  schedule:
+    - cron: '0 15 * * *'   # 11:00 EDT
+    - cron: '0 21 * * *'   # 17:00 EDT
+  workflow_dispatch:
+jobs:
+  video:
+    permissions:
+      contents: write
+    uses: ./.github/workflows/video_engine.yml
+    with:
+      channel: calm_earth_shorts
+    secrets: inherit

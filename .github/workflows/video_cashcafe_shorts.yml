@@ -1,0 +1,14 @@
+name: "Video: CashCafe (Shorts)"
+on:
+  schedule:
+    - cron: '0 13 * * *'   # 09:00 EDT (morning US coffee)
+    - cron: '0 18 * * *'   # 14:00 EDT (lunch break)
+  workflow_dispatch:
+jobs:
+  video:
+    permissions:
+      contents: write
+    uses: ./.github/workflows/video_engine.yml
+    with:
+      channel: cash_cafe_shorts
+    secrets: inherit

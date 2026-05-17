@@ -1,0 +1,30 @@
+{
+  "name": "DisasterDecode",
+  "handle": "@DisasterDecore",
+  "niche": "Natural disasters, history, geological events, survival. 60-sec breakdowns.",
+  "tone": "Educational, dramatic but accurate. National Geographic Disasters mini.",
+  "topics": [
+    "natural disaster fact minute",
+    "biggest earthquake ever",
+    "volcano eruption history",
+    "tsunami warning science",
+    "hurricane category explained",
+    "survival fact wild",
+    "ancient disaster discovery",
+    "extreme weather explained",
+    "geological event modern",
+    "disaster preparedness tip"
+  ],
+  "style": {
+    "primary_color": "#E63946",
+    "text_color": "#FFFFFF",
+    "box_opacity": 0.88,
+    "font_size": 58
+  },
+  "cta": "⚡ Daily disaster decoded. Subscribe.\n\n🌋 Full breakdowns: @DisasterDecore",
+  "refresh_token_env": "YT_TOKEN_CALMEARTH",
+  "no_voice": true,
+  "language": "en",
+  "category_id": "27",
+  "pinned_comment": "⚡ Which disaster would you survive? Comment below.\n\n🌋 More science breakdowns: subscribe."
+}

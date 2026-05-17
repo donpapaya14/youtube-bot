@@ -1,0 +1,14 @@
+name: "Video: DarkFiles (Shorts)"
+on:
+  schedule:
+    - cron: '0 23 * * *'   # 19:00 EDT (true crime evening)
+    - cron: '0 2 * * *'    # 22:00 EDT (late night creep)
+  workflow_dispatch:
+jobs:
+  video:
+    permissions:
+      contents: write
+    uses: ./.github/workflows/video_engine.yml
+    with:
+      channel: dark_files_shorts
+    secrets: inherit
