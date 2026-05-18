@@ -32,3 +32,4 @@
 1779028085.299884|Roommate cost split utilities apps
 1779041584.4598083|Cell phone plan MVNO carrier savings
 1779079289.4467049|Costco Kirkland brand profit margin
+1779123110.268248|Dollar cost averaging vs lump sum data
