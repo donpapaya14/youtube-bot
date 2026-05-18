@@ -33,3 +33,4 @@
 1779041584.4598083|Cell phone plan MVNO carrier savings
 1779079289.4467049|Costco Kirkland brand profit margin
 1779123110.268248|Dollar cost averaging vs lump sum data
+1779129655.2822566|Restaurant menu engineering psychology
