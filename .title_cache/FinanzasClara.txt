@@ -34,3 +34,4 @@
 1779079289.4467049|Costco Kirkland brand profit margin
 1779123110.268248|Dollar cost averaging vs lump sum data
 1779129655.2822566|Restaurant menu engineering psychology
+1779165104.6227548|Roth conversion ladder early retirement
