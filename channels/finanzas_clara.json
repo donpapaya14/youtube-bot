@@ -33,7 +33,7 @@
   "voice": "en-US-GuyNeural",
   "voice_pool": [
     "en-US-AndrewNeural",
-    "en-US-DavisNeural",
+    "en-US-BrianNeural",
     "en-US-GuyNeural"
   ],
   "cloud_project": "default"

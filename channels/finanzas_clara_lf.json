@@ -45,7 +45,7 @@
   "amazon_search": "books+nonfiction",
   "voice_pool": [
     "en-US-AndrewNeural",
-    "en-US-DavisNeural",
+    "en-US-BrianNeural",
     "en-US-GuyNeural"
   ],
   "cloud_project": "default"
