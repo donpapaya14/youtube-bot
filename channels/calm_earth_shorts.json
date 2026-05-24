@@ -29,5 +29,10 @@
   "pinned_comment": "⚡ Which disaster would you survive? Comment below.\n\n🌋 More science breakdowns: subscribe.",
   "amazon_tag": "vds96-20",
   "amazon_search": "books+nonfiction",
-  "voice": "en-US-GuyNeural"
+  "voice": "en-US-GuyNeural",
+  "voice_pool": [
+    "en-US-DavisNeural",
+    "en-US-AndrewNeural",
+    "en-GB-RyanNeural"
+  ]
 }

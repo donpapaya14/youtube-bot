@@ -30,5 +30,10 @@
   "language": "es",
   "pinned_comment": "🔥 ¿Cuál es tu mayor reto para perder grasa? ¡Cuéntame abajo! 👇\n\n📖 Artículo completo: https://vida-sana-360.com",
   "category_id": "26",
-  "voice": "es-ES-AlvaroNeural"
+  "voice": "es-ES-AlvaroNeural",
+  "voice_pool": [
+    "es-ES-XimenaNeural",
+    "es-ES-AbrilNeural",
+    "es-ES-LiaNeural"
+  ]
 }

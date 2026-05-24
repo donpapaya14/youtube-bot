@@ -27,11 +27,25 @@
   },
   "refresh_token_env": "YT_TOKEN_PRINCIPAL",
   "category_id": "26",
-  "default_tags": ["salud", "fitness", "perder peso", "bienestar", "ciencia", "perdida grasa", "vida sana", "nutricion"],
+  "default_tags": [
+    "salud",
+    "fitness",
+    "perder peso",
+    "bienestar",
+    "ciencia",
+    "perdida grasa",
+    "vida sana",
+    "nutricion"
+  ],
   "thumbnail_style": "estética fitness limpia, tonos verdes, datos en negrita, estilo antes/después",
   "voice": "es-ES-AlvaroNeural",
   "web_url": "https://vida-sana-360.com",
   "amazon_tag": "vladys-21",
   "amazon_search": "suplementos+naturales+salud",
-  "cta_description": "\n\n📖 Artículo completo: https://vida-sana-360.com\n🛒 Recomendados: https://www.amazon.es/s?k=suplementos+naturales&tag=vladys-21\n📩 Newsletter gratis: https://eepurl.com/c_iwJy-3pL\n👍 Suscríbete y dale a la 🔔\n\n— Vladys Z."
+  "cta_description": "\n\n📖 Artículo completo: https://vida-sana-360.com\n🛒 Recomendados: https://www.amazon.es/s?k=suplementos+naturales&tag=vladys-21\n📩 Newsletter gratis: https://eepurl.com/c_iwJy-3pL\n👍 Suscríbete y dale a la 🔔\n\n— Vladys Z.",
+  "voice_pool": [
+    "es-ES-XimenaNeural",
+    "es-ES-AbrilNeural",
+    "es-ES-LiaNeural"
+  ]
 }

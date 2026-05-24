@@ -29,5 +29,10 @@
   "pinned_comment": "🔍 Which unsolved case haunts you the most? Tell us in the comments.\n\n📁 Subscribe for daily case files.",
   "amazon_tag": "vds96-20",
   "amazon_search": "books+nonfiction",
-  "voice": "en-US-GuyNeural"
+  "voice": "en-US-GuyNeural",
+  "voice_pool": [
+    "en-US-DavisNeural",
+    "en-GB-RyanNeural",
+    "en-US-GuyNeural"
+  ]
 }

@@ -90,7 +90,11 @@ def run(channel_name: str):
         ]
         log.info("Modo sin voz: %d segmentos × 4s = %.0fs", len(voiced_segments), len(voiced_segments) * 4)
     else:
-        voiced_segments = generate_voice_segments(segments, work_dir, voice="male")
+        import random
+        voice_pool = channel.get("voice_pool")
+        voice_pick = random.choice(voice_pool) if voice_pool else channel.get("voice", "male")
+        log.info(f"Voz seleccionada: {voice_pick}")
+        voiced_segments = generate_voice_segments(segments, work_dir, voice=voice_pick)
         log.info("Voz generada: %d segmentos", len(voiced_segments))
 
     # 5. Obtener clips de video (solo Pexels — gratis)

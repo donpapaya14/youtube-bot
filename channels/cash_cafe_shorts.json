@@ -30,5 +30,10 @@
   "language": "en",
   "category_id": "22",
   "pinned_comment": "☕ Drop a coffee emoji if you're working on your money habits this year 💪\n\n📖 More money tips: https://cash-cafe.org",
-  "voice": "en-US-GuyNeural"
+  "voice": "en-US-GuyNeural",
+  "voice_pool": [
+    "en-US-AndrewNeural",
+    "en-US-EmmaNeural",
+    "en-US-DavisNeural"
+  ]
 }

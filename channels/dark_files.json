@@ -39,5 +39,10 @@
   ],
   "thumbnail_style": "dark moody atmosphere, crime scene, noir detective, red accent lighting",
   "amazon_tag": "vds96-20",
-  "amazon_search": "books+nonfiction"
+  "amazon_search": "books+nonfiction",
+  "voice_pool": [
+    "en-US-DavisNeural",
+    "en-GB-RyanNeural",
+    "en-US-GuyNeural"
+  ]
 }

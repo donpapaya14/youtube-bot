@@ -41,5 +41,10 @@
   "voice": "en-US-GuyNeural",
   "content_forbidden": "NEVER write true crime narratives, missing person cases, criminal investigations, murder cases, or crime scene stories. This is a psychology/neuroscience channel ONLY.",
   "amazon_tag": "vds96-20",
-  "amazon_search": "books+nonfiction"
+  "amazon_search": "books+nonfiction",
+  "voice_pool": [
+    "en-US-AndrewNeural",
+    "en-US-EmmaNeural",
+    "en-US-JennyNeural"
+  ]
 }

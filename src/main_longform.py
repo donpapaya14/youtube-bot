@@ -365,9 +365,11 @@ Respond JSON:
     else:
         script["description"] += "\n\nDisclaimer: Based on publicly available information from court records, police reports, and news coverage."
 
-    # 3. Generar voz en inglés con Edge TTS
+    # 3. Generar voz en inglés con Edge TTS — rotación voice_pool si existe
     log.info("Generando voz inglés...")
-    voice_id = channel.get("voice", "en-US-GuyNeural")
+    voice_pool = channel.get("voice_pool")
+    voice_id = random.choice(voice_pool) if voice_pool else channel.get("voice", "en-US-GuyNeural")
+    log.info(f"Voz seleccionada: {voice_id}")
     voiced = _generate_english_voice(script["segments"], work_dir, voice_id)
 
     # 4. Descargar B-roll de Pexels (filtrar contenido sensible)
@@ -548,9 +550,11 @@ Respond JSON:
     cta = channel.get("cta_description", "")
     script["description"] = script.get("description", "") + cta
 
-    # 3. Generar voz en español con Edge TTS
+    # 3. Generar voz en español con Edge TTS — rotación voice_pool
     log.info("Generando voz...")
-    voice_id = channel.get("voice", "es-ES-AlvaroNeural")
+    voice_pool = channel.get("voice_pool")
+    voice_id = random.choice(voice_pool) if voice_pool else channel.get("voice", "es-ES-AlvaroNeural")
+    log.info(f"Voz seleccionada: {voice_id}")
     voiced = _generate_english_voice(script["segments"], work_dir, voice_id)
 
     # 4. Descargar B-roll de Pexels

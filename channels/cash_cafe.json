@@ -42,5 +42,10 @@
   "web_url": "https://cashcafe.es",
   "cta_description": "\n\n☕ Full guide: https://cashcafe.es\n📩 Weekly newsletter: one café every Saturday\n👍 Subscribe & hit 🔔",
   "amazon_tag": "vds96-20",
-  "amazon_search": "books+nonfiction"
+  "amazon_search": "books+nonfiction",
+  "voice_pool": [
+    "en-US-AndrewNeural",
+    "en-US-EmmaNeural",
+    "en-US-DavisNeural"
+  ]
 }

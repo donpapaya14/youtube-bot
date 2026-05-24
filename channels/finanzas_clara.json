@@ -30,5 +30,10 @@
   "language": "en",
   "category_id": "26",
   "pinned_comment": "💚 What's your biggest money challenge right now? Drop it below! 👇\n\n📖 Full guide + more tips: https://finanzasclara.uk\n💬 If this helped, comment 'YES' so YouTube shows it to more people.",
-  "voice": "en-US-GuyNeural"
+  "voice": "en-US-GuyNeural",
+  "voice_pool": [
+    "en-US-AndrewNeural",
+    "en-US-DavisNeural",
+    "en-US-GuyNeural"
+  ]
 }

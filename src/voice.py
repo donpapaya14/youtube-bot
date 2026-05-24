@@ -21,8 +21,10 @@ VOICES = {
 
 
 def generate_voice_segments(segments: list[dict], output_dir: str, voice: str = "male") -> list[dict]:
-    """Genera audio para cada segmento. Devuelve segments con path y duración real."""
-    voice_id = VOICES.get(voice, VOICES["male"])
+    """Genera audio para cada segmento. Devuelve segments con path y duración real.
+    voice puede ser: alias (male/female/...) O voice_id completo Edge TTS (es-ES-X / en-US-X)"""
+    # Si voice contiene guion (es-ES-X), usar directamente. Si no, alias del map.
+    voice_id = voice if "-" in voice else VOICES.get(voice, VOICES["male"])
     results = []
 
     for i, seg in enumerate(segments):

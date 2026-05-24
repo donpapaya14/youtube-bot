@@ -30,5 +30,10 @@
   "language": "en",
   "category_id": "15",
   "pinned_comment": "🐱 Does your cat do this? Tell us in the comments! 👇\n\n📖 More cat science: https://catbrothers.uk\n❤️ Drop a heart if your cat is sleeping right now.",
-  "voice": "en-US-GuyNeural"
+  "voice": "en-US-GuyNeural",
+  "voice_pool": [
+    "en-US-EmmaNeural",
+    "en-US-AriaNeural",
+    "en-US-JennyNeural"
+  ]
 }

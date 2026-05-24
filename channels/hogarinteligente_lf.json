@@ -39,5 +39,10 @@
   "thumbnail_style": "clean organized home, before/after split, bright lighting, satisfying transformation",
   "voice": "en-US-GuyNeural",
   "amazon_tag": "vds96-20",
-  "amazon_search": "books+nonfiction"
+  "amazon_search": "books+nonfiction",
+  "voice_pool": [
+    "en-US-AndrewNeural",
+    "en-US-EmmaNeural",
+    "en-GB-RyanNeural"
+  ]
 }

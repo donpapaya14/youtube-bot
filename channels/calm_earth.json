@@ -40,5 +40,10 @@
   "thumbnail_style": "dramatic destruction scene, red warning colors, bold text overlay, documentary style",
   "voice": "en-US-GuyNeural",
   "amazon_tag": "vds96-20",
-  "amazon_search": "books+nonfiction"
+  "amazon_search": "books+nonfiction",
+  "voice_pool": [
+    "en-US-DavisNeural",
+    "en-US-AndrewNeural",
+    "en-GB-RyanNeural"
+  ]
 }

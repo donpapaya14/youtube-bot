@@ -29,5 +29,10 @@
   "pinned_comment": "🧠 Did this change how you think about it? Comment below.\n\n📚 More brain hacks: subscribe.",
   "amazon_tag": "vds96-20",
   "amazon_search": "books+nonfiction",
-  "voice": "en-US-GuyNeural"
+  "voice": "en-US-GuyNeural",
+  "voice_pool": [
+    "en-US-AndrewNeural",
+    "en-US-EmmaNeural",
+    "en-US-JennyNeural"
+  ]
 }

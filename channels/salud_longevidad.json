@@ -30,5 +30,10 @@
   "language": "es",
   "category_id": "26",
   "pinned_comment": "🌿 ¿Qué hábito de longevidad vas a empezar esta semana? ¡Cuéntame abajo! 👇\n\n📖 Artículo completo: https://saludlongevidad.org\n❤️ Si te ayudó, comenta 'SI' para que YouTube lo muestre a más gente.",
-  "voice": "es-ES-AlvaroNeural"
+  "voice": "es-ES-AlvaroNeural",
+  "voice_pool": [
+    "es-ES-XimenaNeural",
+    "es-ES-ElviraNeural",
+    "es-ES-AlvaroNeural"
+  ]
 }
