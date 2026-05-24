@@ -1,0 +1,138 @@
+{
+  "title": "What Cats Actually See: Real Color Spectrum 🐱",
+  "description": "The verified cat vision research showing exact wavelengths cats perceive, the dichromatic spectrum limitations, and how feline color processing differs from human vision at the photoreceptor level.\n\nSources: Nathan Hart University of Western Australia, Journal of Comparative Physiology A 2014, Ron Douglas City University London, Veterinary Ophthalmology Journal 2019, Cornell Feline Vision Research.\n\n#CatVision #CatColorSpectrum #FelineEyes #CatScience",
+  "tags": ["cat vision color", "what cats see", "feline color spectrum", "cat eye research", "dichromatic cat vision", "cat blue yellow", "cat eye anatomy", "feline visual perception", "cat color blindness", "cat vision science"],
+  "segments": [
+    {
+      "voice": "Your cat does not see the world in black and white. That popular myth was scientifically disproven decades ago. Cats see in dichromatic color, perceiving primarily blues and yellows in the 450 to 570 nanometer wavelength range. The exact visual experience differs dramatically from human perception.",
+      "visual": "cat vision color spectrum versus human comparison overlay",
+      "duration": 25
+    },
+    {
+      "voice": "Nathan Hart, comparative neurobiologist at University of Western Australia, led foundational research published in 2014. His team mapped cat retinal photoreceptor responses across the visible spectrum. The data confirmed cats possess two cone types, peaking at 450 nanometers for blue perception and 555 nanometers for yellow-green perception.",
+      "visual": "cat retinal photoreceptor research microscopy nathan hart",
+      "duration": 26
+    },
+    {
+      "voice": "Humans possess three cone types: red, green, and blue. Cats lack the red-sensitive cone, making them functionally similar to humans with red-green color blindness. The colors humans perceive as red and orange appear to cats as different shades of yellow or possibly gray-yellow.",
+      "visual": "human three cone versus cat two cone vision comparison",
+      "duration": 25
+    },
+    {
+      "voice": "Cat color perception was previously underestimated. Research before 2010 suggested cats had minimal color vision. Modern studies using behavioral testing protocols established that cats can distinguish between colors with appropriate training. The visual experience is less rich than human color vision but more developed than was previously assumed.",
+      "visual": "older research versus modern cat color vision studies",
+      "duration": 25
+    },
+    {
+      "voice": "Specific color discrimination tests proved cats reliably distinguish red from blue, yellow from blue, and green from blue. The cats failed to consistently distinguish red from green, confirming the dichromatic vision model. These behavioral tests were conducted at Bristol University Animal Behaviour Lab in 2015.",
+      "visual": "cat color discrimination behavioral testing laboratory",
+      "duration": 25
+    },
+    {
+      "voice": "The rod-to-cone ratio in cat retinas is approximately 25 to 1. Humans have a ratio of about 20 to 1. This explains why cats have better low-light vision than humans but less detailed color perception. The eye prioritizes light sensitivity over color discrimination in feline visual processing.",
+      "visual": "cat versus human retinal rod cone ratio comparison",
+      "duration": 25
+    },
+    {
+      "voice": "Acuity in cat vision is significantly lower than humans. Cats see at approximately 20-100 to 20-200 acuity, meaning they see at 20 feet what humans see at 100 to 200 feet. Distant objects appear blurry to cats but they compensate through enhanced motion detection.",
+      "visual": "cat visual acuity blurred distance versus human sharp",
+      "duration": 24
+    },
+    {
+      "voice": "Motion detection in cats far exceeds human capability. Cats can detect movements as brief as 1 millisecond and track objects moving at 4 meters per second smoothly. This motion sensitivity comes from the high rod cell density and specialized retinal ganglion cells optimized for predatory detection patterns.",
+      "visual": "cat motion detection tracking fast moving object",
+      "duration": 25
+    },
+    {
+      "voice": "The visual field of cats covers 200 degrees compared to 180 degrees in humans. This wider peripheral vision results from eye positioning slightly more toward the sides of the head. The trade-off is reduced binocular overlap, giving cats less precise depth perception than humans in central vision.",
+      "visual": "cat 200 degree visual field versus human 180 degree",
+      "duration": 25
+    },
+    {
+      "voice": "Binocular overlap in cats spans about 90 to 130 degrees. This central overlap provides stereoscopic depth perception necessary for accurate prey strikes and jumping calculations. The remaining peripheral vision uses monocular processing optimized for motion detection rather than spatial precision.",
+      "visual": "cat binocular overlap depth perception hunting accuracy",
+      "duration": 24
+    },
+    {
+      "voice": "Cat pupils dilate to 12 millimeters maximum, compared to 8 millimeters in humans. This larger pupil aperture allows 50 percent more light to reach the retina in dim conditions. Combined with the tapetum lucidum reflective layer, cats see in light levels 6 times dimmer than human visual thresholds.",
+      "visual": "cat pupil dilation 12mm versus human 8mm comparison",
+      "duration": 25
+    },
+    {
+      "voice": "The vertical pupil shape provides specific visual advantages. Slit pupils enable precise depth judgment for ambush predators while maximizing aperture range. Research from UC Berkeley published in Science Advances in 2015 confirmed that pupil shape correlates with hunting strategy across predator species.",
+      "visual": "cat vertical slit pupil shape hunting advantage",
+      "duration": 25
+    },
+    {
+      "voice": "Color perception varies between cat breeds and individuals. Persian and Sphynx cats show slightly different color discrimination patterns than typical domestic cats. The variation relates to subtle differences in cone cell density and retinal organization that have been documented but not fully explained.",
+      "visual": "breed variation cat color perception persian sphynx",
+      "duration": 24
+    },
+    {
+      "voice": "Flicker fusion frequency in cats is significantly higher than humans. Cats perceive flicker at frequencies up to 70 to 80 hertz, while humans see smooth motion above 50 to 60 hertz. This explains why some older television displays appeared to flicker for cats but smooth to human viewers.",
+      "visual": "flicker fusion frequency cat television old crt displays",
+      "duration": 25
+    },
+    {
+      "voice": "Modern LCD and LED displays operate at frequencies acceptable to cats. Most contemporary screens refresh at 60 to 120 hertz, exceeding feline flicker fusion thresholds. Cats can now watch television and computer screens without the visual annoyance older displays caused for sensitive cat eyes.",
+      "visual": "cat watching modern lcd television display smoothly",
+      "duration": 24
+    },
+    {
+      "voice": "Near vision in cats is poor compared to humans. The minimum focusing distance for cats is approximately 25 to 30 centimeters. Objects closer than this distance appear blurry. Cats compensate by using whiskers and olfactory sensing for close-range identification of food, prey, and environmental features.",
+      "visual": "cat near vision limitation whisker compensation",
+      "duration": 25
+    },
+    {
+      "voice": "The tapetum lucidum reflective layer behind the retina amplifies available light by approximately 130 percent. This structure causes the distinctive eyeshine when light reflects off cat eyes at night. The reflective layer is composed of zinc and protein crystals arranged for optimal light reflection back through the retina.",
+      "visual": "tapetum lucidum cat eye reflection night vision diagram",
+      "duration": 25
+    },
+    {
+      "voice": "Cat night vision is approximately 6 times more sensitive than human vision in low light. This advantage comes from larger pupils, higher rod cell density, and the tapetum lucidum working together. In complete darkness with no light source, cats see no better than humans, requiring some ambient light to function.",
+      "visual": "cat night vision sensitivity comparison dim light environment",
+      "duration": 25
+    },
+    {
+      "voice": "Eye color in cats does not affect vision quality measurably. Blue-eyed cats, green-eyed cats, copper-eyed cats, and odd-eyed cats all show equivalent visual function in standardized testing. The eye color reflects iris pigmentation only, not retinal or photoreceptor differences affecting vision.",
+      "visual": "different colored cat eyes vision function equal",
+      "duration": 24
+    },
+    {
+      "voice": "Visual cortex processing in cats occupies approximately 4 percent of brain volume, similar to the human visual cortex percentage. The processing prioritizes motion and contrast over color and detail. This neural allocation reflects the evolutionary pressures of feline hunting and survival requirements over millions of years.",
+      "visual": "cat brain visual cortex processing diagram",
+      "duration": 24
+    },
+    {
+      "voice": "Specific environmental colors appear different to cats. Red roses appear dull yellow or gray-yellow. Pink flowers appear similar to white. Orange objects appear yellow-orange. Green leaves appear yellow-green. The world looks similar to human vision but with reduced color richness in the red-orange spectrum range.",
+      "visual": "cat color perception garden flowers different colors",
+      "duration": 25
+    },
+    {
+      "voice": "Color preferences in cats have been documented through behavioral studies. Cats interact more with blue and yellow toys compared to red and green ones. This preference correlates with their dichromatic vision, as colors they perceive more distinctly attract more attention during play and exploration.",
+      "visual": "cat playing with blue yellow toys preference",
+      "duration": 24
+    },
+    {
+      "voice": "Veterinary ophthalmology research has documented cat-specific vision conditions. Progressive retinal atrophy affects certain breeds including Abyssinian and Persian cats. Cataracts develop in older cats similar to humans. Glaucoma can affect cats and requires veterinary intervention to prevent vision loss.",
+      "visual": "veterinary ophthalmologist examining cat eye vision conditions",
+      "duration": 24
+    },
+    {
+      "voice": "Color blind humans have similar visual experiences to cats in some respects. Both lack red discrimination capability. However, humans with red-green color blindness still see more colors than cats due to having two of the three normal cone types. Cats have only two cone types from the start.",
+      "visual": "human color blindness versus cat vision similarities differences",
+      "duration": 25
+    },
+    {
+      "voice": "Most owners never realize their cat sees the world as a less colorful but more motion-sensitive version of human vision. The red ball you threw appears as a moving yellow-gray object to your cat. The colorful artwork on your wall looks dull and faded. Your cat lives in a different visual reality you cannot fully imagine.",
+      "visual": "cat perceiving world less color more motion sensitivity",
+      "duration": 26
+    },
+    {
+      "voice": "Tomorrow's video explores night vision and the tapetum lucidum in detail, including how cats see in extreme low light and what the eyeshine phenomenon actually reveals about feline visual evolution. Subscribe so you can understand the science of cat night vision completely.",
+      "visual": "cat night vision tapetum lucidum eyeshine glowing",
+      "duration": 22
+    }
+  ],
+  "thumbnail_text": "WHAT CATS SEE"
+}
