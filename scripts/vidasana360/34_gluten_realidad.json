@@ -1,0 +1,150 @@
+{
+  "title": "🌿 Gluten — la verdad sobre sensibilidad no celíaca",
+  "description": "Análisis riguroso sobre el gluten. Diferencias entre celiaquía, sensibilidad no celíaca y alergia. Quién debe evitarlo realmente y por qué muchos eliminan gluten sin necesidad.",
+  "tags": [
+    "gluten",
+    "celiaquia",
+    "sensibilidad no celiaca",
+    "trigo",
+    "fodmaps",
+    "salud digestiva",
+    "intolerancia alimentaria",
+    "nutricion",
+    "dieta",
+    "ciencia"
+  ],
+  "segments": [
+    {
+      "voice": "Todo lo que te han contado sobre el gluten está dividido en dos extremos. Por un lado quienes dicen que es veneno para todos. Por otro quienes lo descartan como moda inofensiva. La realidad clínica está en el medio y nadie te la explica bien. El 1 por ciento de la población tiene celiaquía real. Otro 6 por ciento podría tener sensibilidad no celíaca al gluten o al trigo. Y la mayoría que evita gluten sin diagnóstico está perdiendo nutrientes innecesariamente.",
+      "visual": "bread wheat grain field",
+      "duration": 28
+    },
+    {
+      "voice": "Empezamos por las definiciones. El gluten es un conjunto de proteínas presentes en trigo, cebada, centeno y triticale. Sus componentes principales son la gliadina y la glutenina. Cuando se mezclan con agua y se trabajan, forman la red elástica que da estructura al pan, pasta y bollería. No es un alimento moderno. Llevamos comiéndolo unos 10.000 años.",
+      "visual": "gluten dough kneading",
+      "duration": 24
+    },
+    {
+      "voice": "Tres condiciones clínicas distintas relacionadas con trigo. Celiaquía, alergia al trigo y sensibilidad no celíaca. Cada una con mecanismos, síntomas y tratamiento diferentes. Confundirlas o autodiagnosticarse lleva a aplicar restricciones innecesarias o no aplicar las necesarias.",
+      "visual": "medical diagnosis chart",
+      "duration": 22
+    },
+    {
+      "voice": "Celiaquía. Enfermedad autoinmune con respuesta del sistema inmune contra el gluten que daña vellosidades intestinales. Prevalencia del 1 por ciento en población general, mucho mayor en familiares de primer grado de celiacos. Diagnóstico mediante anticuerpos antitransglutaminasa, antiendomisio y biopsia intestinal. Tratamiento de por vida, eliminación estricta de gluten.",
+      "visual": "celiac disease intestine",
+      "duration": 23
+    },
+    {
+      "voice": "Síntomas de celiaquía. Pueden ser muy variados. Diarrea crónica. Pérdida de peso. Anemia ferropénica que no responde a suplementación. Cansancio persistente. En niños, retraso en crecimiento. En adultos, osteoporosis temprana. Dermatitis herpetiforme en piel. Algunos casos son asintomáticos digestivamente, lo que se llama celiaquía silente.",
+      "visual": "celiac symptoms variety",
+      "duration": 23
+    },
+    {
+      "voice": "Si tienes sospecha clínica, importante. No quites el gluten antes de hacerte las pruebas. Sin gluten en la dieta los anticuerpos bajan y la biopsia puede dar falso negativo. Mantén consumo habitual durante las 6 semanas previas al análisis. Muchos diagnósticos perdidos vienen de eliminar gluten y luego pedir análisis que ya no detectan nada.",
+      "visual": "celiac diagnostic test",
+      "duration": 24
+    },
+    {
+      "voice": "Alergia al trigo. Reacción del sistema inmune mediada por IgE. Síntomas pueden ser urticaria, dificultad respiratoria, edema labial, anafilaxia en casos graves. Diagnóstico mediante prick test y IgE específica. Distinta de celiaquía. La persona alérgica al trigo puede tolerar otros cereales con gluten como centeno o cebada en algunos casos.",
+      "visual": "allergic reaction skin",
+      "duration": 24
+    },
+    {
+      "voice": "Sensibilidad no celíaca al gluten o al trigo. Es la categoría más controvertida y la que más se autodiagnostica. Personas que mejoran síntomas al quitar trigo pero no son celíacos ni alérgicos. Diagnóstico de exclusión. Síntomas incluyen hinchazón abdominal, dolor, fatiga, niebla mental, dolores articulares. Mecanismo no del todo claro.",
+      "visual": "abdominal bloating discomfort",
+      "duration": 23
+    },
+    {
+      "voice": "Lo que la ciencia ha aclarado en últimos años. Muchos casos de sensibilidad atribuidos al gluten en realidad son por FODMAPs, fructanos del trigo, que fermentan en intestino produciendo gas. Trabajos del grupo de Peter Gibson en Monash University publicaron datos que sugieren que para muchos pacientes el culpable son los fructanos, no el gluten.",
+      "visual": "fodmaps fructans research",
+      "duration": 24
+    },
+    {
+      "voice": "Esto cambia el enfoque clínico. Antes de eliminar gluten para siempre, valorar dieta baja en FODMAPs supervisada. Muchos comprueban que toleran productos sin trigo aunque contengan gluten, o productos sin FODMAPs aunque tengan gluten. La sensibilidad real al gluten existe pero parece ser menos prevalente de lo asumido.",
+      "visual": "fodmap diet plan",
+      "duration": 22
+    },
+    {
+      "voice": "Trigo moderno versus antiguo. Hay teoría popular de que el trigo moderno es muy distinto al de hace décadas y por eso causa más problemas. La realidad es mixta. El trigo se ha seleccionado por rendimiento y manejabilidad. Pero el contenido proteico de gluten es similar. Trigos antiguos como espelta, kamut o trigo emmer no son más bajos en gluten necesariamente. Algunos los toleran mejor por otras razones.",
+      "visual": "ancient wheat varieties",
+      "duration": 24
+    },
+    {
+      "voice": "Pan industrial versus pan tradicional. Quienes no toleran pan industrial a veces toleran perfectamente pan de masa madre con fermentación prolongada. La fermentación lenta degrada parcialmente proteínas y FODMAPs. Trabajos de Di Cagno y otros mostraron mejor tolerancia a masa madre en sensibles. No cura celiaquía pero puede ayudar en sensibilidad no celíaca.",
+      "visual": "sourdough bread fermentation",
+      "duration": 24
+    },
+    {
+      "voice": "El problema de la dieta sin gluten sin necesidad. Los productos sin gluten industriales suelen tener más azúcar añadido, más grasa de mala calidad y menos fibra que los originales. Trabajos de Missbach analizaron productos comerciales sin gluten y mostraron peor perfil nutricional general. Quien evita gluten sin necesidad puede empeorar su dieta.",
+      "visual": "gluten free products comparison",
+      "duration": 24
+    },
+    {
+      "voice": "Riesgos de eliminar gluten sin razón. Reducción de ingesta de fibra de cereales integrales. Menor consumo de vitaminas del grupo B. Posible empobrecimiento de microbiota por menor diversidad de cereales. Mayor coste alimentario. Pérdida de la posibilidad de hacer diagnóstico correcto si aparecen síntomas serios después.",
+      "visual": "nutrient deficiency risks",
+      "duration": 23
+    },
+    {
+      "voice": "Cómo probar si te conviene a ti. Si tienes síntomas digestivos persistentes, lo correcto es. Primero consultar médico y descartar celiaquía con análisis manteniendo gluten. Si negativo, probar dieta de eliminación supervisada durante 4 a 6 semanas y reintroducir gradualmente. Anotar síntomas. Mucho más útil que autodiagnóstico basado en sensación.",
+      "visual": "elimination diet test",
+      "duration": 24
+    },
+    {
+      "voice": "Sensibilidad y efecto placebo. Trabajos controlados doble ciego en personas con sensibilidad autoreportada al gluten han mostrado que en condiciones cegadas, muchos no diferencian entre dosis de gluten y placebo. Esto no invalida los casos reales pero apunta a alto componente sugestivo en una parte de los autodiagnósticos.",
+      "visual": "placebo blind study",
+      "duration": 23
+    },
+    {
+      "voice": "Síntomas más allá del intestino. Algunas personas con sensibilidad no celíaca reportan síntomas neurológicos como niebla mental, dolor de cabeza, fatiga, dolores articulares. La ciencia aún no tiene claro el mecanismo. Algunos casos pueden estar relacionados con inflamación sistémica de bajo grado, otros con FODMAPs y posiblemente alguna variante autoinmune no clasificada.",
+      "visual": "brain fog fatigue",
+      "duration": 24
+    },
+    {
+      "voice": "Para celíacos diagnosticados. Eliminación estricta de por vida. Atención a contaminación cruzada en cocinas mixtas, restaurantes, productos procesados. Etiquetado europeo permite el sello sin gluten para productos con menos de 20 partes por millón. Asociaciones de celiacos como FACE en España ofrecen apoyo, listas y formación.",
+      "visual": "celiac strict diet",
+      "duration": 23
+    },
+    {
+      "voice": "Errores comunes en celíacos diagnosticados. No leer etiquetas en productos aparentemente seguros. Contaminación cruzada en tostadora o tabla de cocina. Consumir avena sin certificación, algunas marcas contienen contaminación cruzada con trigo. Tomar antibióticos o suplementos sin verificar excipientes. Comer en restaurantes sin preguntar técnicas culinarias.",
+      "visual": "cross contamination kitchen",
+      "duration": 23
+    },
+    {
+      "voice": "Niños y celiaquía. La introducción del gluten en la alimentación complementaria suele ser entre los 4 y los 12 meses. Hay debate sobre si la introducción temprana protege o no. Los estudios PreventCD y CELIPREV no fueron concluyentes en su día. La recomendación actual es introducir entre 4 y 12 meses sin necesidad de retrasarlo en familias con historial.",
+      "visual": "baby weaning food",
+      "duration": 24
+    },
+    {
+      "voice": "Diagnóstico tardío en adultos. Muchos celíacos se diagnostican tarde, en edad media o avanzada. Suelen presentarse con anemia ferropénica refractaria, osteoporosis prematura, infertilidad, cuadros depresivos atípicos. Si tienes cualquiera de estos sin causa clara, pide que te valoren celiaquía aunque digestivamente parezcas asintomático.",
+      "visual": "adult celiac diagnosis",
+      "duration": 24
+    },
+    {
+      "voice": "Caso real. Una mujer de 34 años convencida de tener sensibilidad al gluten porque mejoraba al eliminar pan. Análisis previos descartaron celiaquía. Reintrodujo pan con prueba de FODMAPs ajustada. Resultó que el problema no era el gluten sino los fructanos. Ahora come pan de masa madre con fermentación larga sin síntomas y mantiene la fibra y nutrientes en su dieta.",
+      "visual": "successful diagnostic case",
+      "duration": 25
+    },
+    {
+      "voice": "Otro caso real. Hombre de 45 años con anemia crónica, fatiga, sin síntomas digestivos claros. Análisis incluyó anticuerpos celiacos. Positivo. Biopsia confirmó celiaquía silente. Tras 6 meses sin gluten estricto, anemia y energía mejoraron drásticamente. Si hubiera eliminado gluten por moda años antes nunca habría tenido el diagnóstico.",
+      "visual": "anemia fatigue diagnosis",
+      "duration": 24
+    },
+    {
+      "voice": "Mitos comunes. No es verdad que el pan engorde más por tener gluten. No es verdad que eliminar gluten sea automáticamente más saludable. No es verdad que todos tengamos algo de intolerancia. No es verdad que el gluten cause autismo, esa hipótesis fue desacreditada por estudios robustos. La narrativa antigluten universal no tiene base sólida.",
+      "visual": "gluten myths busting",
+      "duration": 23
+    },
+    {
+      "voice": "Pero hay algo que casi nadie sabe sobre el gluten. Existen condiciones de cocción y fermentación que reducen el contenido de gluten activo hasta un 95 por ciento, manteniendo el sabor y textura del pan. Te enseño exactamente cuáles en el próximo vídeo.",
+      "visual": "fermentation bread science",
+      "duration": 20
+    },
+    {
+      "voice": "Suscríbete a VidaSana360 y dale a la campana. La próxima semana publico el análisis definitivo sobre lácteos pros y contras, quién puede tomarlos, quién no debería y la verdad sobre la intolerancia a lactosa.",
+      "visual": "dairy products variety",
+      "duration": 18
+    }
+  ],
+  "duration_estimate_seconds": 1290,
+  "thumbnail_text": "GLUTEN VERDAD"
+}

@@ -1,0 +1,155 @@
+{
+  "title": "🌿 Tu intestino controla tu ánimo más de lo que crees",
+  "description": "La conexión intestino cerebro explicada con la ciencia más reciente. Cómo las bacterias intestinales influyen en ansiedad, depresión y energía mental, y qué hacer para mejorarla.",
+  "tags": [
+    "intestino y animo",
+    "eje intestino cerebro",
+    "microbiota",
+    "salud mental",
+    "ansiedad",
+    "depresion",
+    "probioticos",
+    "psicobioticos",
+    "neurociencia",
+    "nutricion"
+  ],
+  "segments": [
+    {
+      "voice": "El 95 por ciento de la serotonina de tu cuerpo se produce en el intestino, no en el cerebro. Repito. El 95 por ciento. Tus 100 trillones de bacterias intestinales producen neurotransmisores, modulan inflamación cerebral y se comunican con tu cerebro a través del nervio vago en tiempo real. La idea de que tu ánimo solo depende de tu cabeza es una visión muy desactualizada. Y hoy te muestro por qué.",
+      "visual": "gut brain axis connection",
+      "duration": 27
+    },
+    {
+      "voice": "El concepto eje intestino cerebro lleva décadas en la literatura científica pero ha explotado en los últimos 10 años. John Cryan en University College Cork lidera buena parte de la investigación. Sus trabajos con ratones libres de gérmenes muestran que sin microbiota se desarrollan conductas similares a ansiedad. Y al colonizarlos con bacterias específicas, las conductas cambian.",
+      "visual": "scientific lab microbiome research",
+      "duration": 24
+    },
+    {
+      "voice": "Mecanismos de comunicación. El nervio vago es la autopista principal. Conecta intestino con tronco encefálico y transmite información en ambas direcciones. La microbiota produce ácidos grasos de cadena corta como butirato que cruzan la barrera hematoencefálica. Producen neurotransmisores directamente. Y modulan inflamación sistémica que afecta función cerebral.",
+      "visual": "vagus nerve brain anatomy",
+      "duration": 24
+    },
+    {
+      "voice": "Bacterias específicas y comportamiento. Especies de Lactobacillus y Bifidobacterium están asociadas con menor ansiedad en modelos animales. El Lactobacillus rhamnosus modula receptores GABA cerebrales según trabajos de Bravo en 2011. Algunas cepas de Bifidobacterium longum reducen marcadores de estrés en humanos en ensayos clínicos.",
+      "visual": "bacteria microscope view",
+      "duration": 23
+    },
+    {
+      "voice": "Por qué el estrés también daña tu intestino. Cuando estás estresado, el cortisol alto modifica composición bacteriana. Reduce diversidad y favorece bacterias proinflamatorias. Mary Bailey en Ohio publicó datos sobre cómo estrés crónico altera microbiota intestinal. Es bidireccional. El intestino afecta cerebro y el cerebro afecta intestino.",
+      "visual": "stress cortisol cycle",
+      "duration": 23
+    },
+    {
+      "voice": "Síntomas de disbiosis intestinal con impacto mental. Hinchazón frecuente después de comer. Gases excesivos. Estreñimiento o diarrea recurrente. Antojos de azúcar muy marcados. Mal aliento sin causa dental. Y a nivel mental, nervios sin motivo aparente, dificultad para concentrarse, sueño no reparador, irritabilidad.",
+      "visual": "digestive symptoms abdominal",
+      "duration": 23
+    },
+    {
+      "voice": "Síndrome de intestino permeable. Cuando la barrera intestinal pierde integridad, sustancias que deberían quedar en el lumen pasan a sangre. Esto activa inflamación crónica de bajo grado. Trabajos de Alessio Fasano sobre zonulina y permeabilidad intestinal abrieron este campo. La inflamación sistémica se asocia con mayor riesgo de depresión y ansiedad.",
+      "visual": "intestinal barrier permeability",
+      "duration": 23
+    },
+    {
+      "voice": "Inflamación y depresión. La hipótesis inflamatoria de la depresión ya no es marginal. Andrew Miller en Emory University y otros han publicado extensamente. Pacientes con depresión tienen marcadores inflamatorios elevados como interleucina 6 y proteína C reactiva. Y reducir inflamación mejora síntomas depresivos en algunos perfiles. La microbiota es clave en este proceso inflamatorio.",
+      "visual": "inflammation depression research",
+      "duration": 24
+    },
+    {
+      "voice": "Cómo mejorar microbiota. Primero, diversidad alimentaria. Cuantas más plantas distintas comas, mayor diversidad bacteriana. Trabajos del American Gut Project de Rob Knight mostraron que comer más de 30 plantas distintas a la semana correlaciona con mejor diversidad microbiana. La mayoría de occidentales no llegan a 15.",
+      "visual": "diverse plant foods variety",
+      "duration": 23
+    },
+    {
+      "voice": "Segundo, fibras prebióticas. Son alimento de las bacterias buenas. Achicoria, alcachofa, cebolla, ajo, puerro, espárragos, plátano poco maduro, avena. Estas fuentes contienen inulina, fructooligosacáridos y betaglucanos que fermentan en colon y producen ácidos grasos beneficiosos. Aumentar consumo gradualmente para evitar gases iniciales.",
+      "visual": "prebiotic foods plate",
+      "duration": 24
+    },
+    {
+      "voice": "Tercero, alimentos fermentados. Yogur natural sin azúcar, kéfir, chucrut, kimchi, kombucha sin pasteurizar. Aportan bacterias vivas y compuestos generados durante fermentación. Un trabajo de Stanford liderado por Justin Sonnenburg publicado en 2021 mostró que 6 semanas comiendo fermentados aumentaba diversidad microbiana y reducía marcadores inflamatorios.",
+      "visual": "fermented foods variety",
+      "duration": 24
+    },
+    {
+      "voice": "Cuarto, reducir ultraprocesados. Los aditivos como emulsionantes y edulcorantes artificiales alteran microbiota. Trabajos de Suez en 2014 publicados en Nature mostraron que sucralosa y sacarina disrupten microbiota e intolerancia a glucosa. Los emulsionantes como carboximetilcelulosa y polisorbato 80 se asocian con inflamación intestinal en modelos animales.",
+      "visual": "ultra processed packaged foods",
+      "duration": 23
+    },
+    {
+      "voice": "Quinto, dormir bien. La microbiota tiene ritmo circadiano. Trabajos del grupo de Eran Elinav mostraron que jet lag o turnos rotatorios desincronizan microbiota intestinal. Esto contribuye a inflamación y obesidad asociada al trabajo por turnos. Dormir 7 a 8 horas con horario regular sincroniza también las bacterias.",
+      "visual": "circadian sleep rhythm",
+      "duration": 23
+    },
+    {
+      "voice": "Sobre probióticos en cápsulas. La evidencia es mixta. Algunas cepas específicas para condiciones específicas tienen apoyo decente. Lactobacillus rhamnosus GG para diarrea por antibióticos. Saccharomyces boulardii para Clostridium difficile. Cepas específicas para síndrome de intestino irritable. Pero no todos los probióticos sirven para todo, hay que mirar la cepa.",
+      "visual": "probiotic capsules bottle",
+      "duration": 24
+    },
+    {
+      "voice": "Psicobióticos es el nombre dado a probióticos con efecto sobre estado mental. Una revisión sistemática de Liu en 2019 sobre 21 ensayos clínicos encontró reducciones modestas pero significativas en síntomas de ansiedad y depresión con cepas concretas como Bifidobacterium longum y Lactobacillus helveticus. Coadyuvante razonable, no tratamiento principal.",
+      "visual": "mental wellness probiotics",
+      "duration": 24
+    },
+    {
+      "voice": "Cuándo considerar análisis de microbiota. Si tienes problemas digestivos persistentes que no remiten con dieta. Si tu salud mental va asociada a sintomatología intestinal clara. Si has tomado antibióticos múltiples veces. Si estás en una situación de inflamación crónica de bajo grado sin causa clara. Coste 200 a 400 euros por análisis privado.",
+      "visual": "microbiome test sample",
+      "duration": 23
+    },
+    {
+      "voice": "Errores comunes. Tomar probióticos baratos sin saber qué cepas tienen. Pensar que un yogur al día arregla años de mala alimentación. Eliminar fibra cuando hay molestias en lugar de aumentarla progresivamente. Hacer dietas restrictivas durante meses, lo cual reduce diversidad bacteriana. Tomar antibióticos sin necesidad real.",
+      "visual": "common gut mistakes",
+      "duration": 23
+    },
+    {
+      "voice": "Antibióticos y daño microbiano. Un curso de antibiótico de amplio espectro puede tardar 6 a 12 meses en recuperarse plenamente la diversidad bacteriana según trabajos de Dethlefsen en Stanford. Y algunas cepas no vuelven. Toma antibióticos solo cuando son realmente necesarios y prescribidos. Y considera apoyar con fermentados durante y después del tratamiento.",
+      "visual": "antibiotic pills warning",
+      "duration": 24
+    },
+    {
+      "voice": "Sobre el azúcar y la microbiota. Dietas altas en azúcar refinado favorecen bacterias proinflamatorias como ciertas especies de Candida o Proteobacterias. Reducir azúcar añadido es una de las intervenciones con mayor impacto bidireccional, mejora microbiota y mejora ánimo de forma directa por estabilización de glucosa.",
+      "visual": "sugar gut bacteria",
+      "duration": 22
+    },
+    {
+      "voice": "Conexión con sistema inmune. El 70 por ciento del sistema inmune está en el intestino. Microbiota saludable educa al sistema inmune para diferenciar amigos de enemigos. Disbiosis se asocia con enfermedades autoinmunes en aumento. Trabajos de Yasmine Belkaid en NIH sobre interacciones microbiota inmunidad son referencia.",
+      "visual": "immune system intestine",
+      "duration": 23
+    },
+    {
+      "voice": "Lactancia materna y microbiota. Los bebés alimentados al pecho desarrollan microbiota distinta a los de fórmula. Los oligosacáridos de la leche materna alimentan específicamente Bifidobacterias beneficiosas. Esto tiene impacto durante toda la vida en riesgo de enfermedades autoinmunes, alergias y posiblemente salud mental futura.",
+      "visual": "breastfeeding baby health",
+      "duration": 23
+    },
+    {
+      "voice": "Estrés crónico y microbiota. El estrés activa eje hipotálamo hipófisis suprarrenal, eleva cortisol y modifica composición bacteriana en horas. Trabajos de Premysl Bercik en McMaster mostraron cambios microbianos tras estresores agudos. El círculo vicioso intestino estrés requiere intervenir en ambos lados.",
+      "visual": "stress gut connection",
+      "duration": 23
+    },
+    {
+      "voice": "Ejercicio y microbiota. El ejercicio moderado regular aumenta diversidad bacteriana independientemente de la dieta. Trabajos de Orla O'Sullivan con rugbyers profesionales mostraron mayor diversidad que controles sedentarios. El ejercicio en exceso puede tener efecto opuesto, alterando barrera intestinal por isquemia transitoria.",
+      "visual": "exercise health gut",
+      "duration": 22
+    },
+    {
+      "voice": "Caso real. Una paciente de 36 años con ansiedad generalizada, hinchazón post-comida y antojos de azúcar marcados. Implementó dieta con 30 plantas semanales distintas, kéfir natural diario, alcachofas dos veces por semana, reducción de ultraprocesados. En 12 semanas su ansiedad bajó notablemente y sus síntomas digestivos mejoraron. Sin medicación.",
+      "visual": "wellness transformation woman",
+      "duration": 24
+    },
+    {
+      "voice": "Pero antes de cualquier intervención. Si tienes síntomas graves persistentes, descarta primero problemas médicos serios. Enfermedad celíaca, enfermedad inflamatoria intestinal, parásitos, intolerancias específicas requieren diagnóstico médico. La microbiota es importante pero no es la respuesta única a todos los síntomas digestivos.",
+      "visual": "medical consultation gut",
+      "duration": 23
+    },
+    {
+      "voice": "Pero hay algo que casi nadie sabe sobre el intestino y el ánimo. Una clase específica de fibra fermentable activa producción cerebral de BDNF, factor neurotrófico clave para neuroplasticidad. Te enseño cuál y cómo en el próximo vídeo con los estudios del último año.",
+      "visual": "fiber brain bdnf",
+      "duration": 20
+    },
+    {
+      "voice": "Suscríbete a VidaSana360 y dale a la campana. En el próximo análisis te explico la conexión entre microbiota e inmunidad, y cómo proteger tus defensas naturalmente sin suplementos caros.",
+      "visual": "immune system natural",
+      "duration": 18
+    }
+  ],
+  "duration_estimate_seconds": 1290,
+  "thumbnail_text": "INTESTINO Y MENTE"
+}

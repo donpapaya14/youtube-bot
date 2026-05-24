@@ -1,0 +1,150 @@
+{
+  "title": "🥗 Fibra y mortalidad — el dato que va a cambiar tu plato",
+  "description": "La evidencia que conecta consumo de fibra con menor mortalidad y enfermedades crónicas. Tipos de fibra, dosis óptima, fuentes reales y cómo aumentarla sin molestias digestivas.",
+  "tags": [
+    "fibra alimentaria",
+    "mortalidad",
+    "salud cardiovascular",
+    "diabetes",
+    "cancer colorrectal",
+    "fibra soluble",
+    "fibra insoluble",
+    "nutricion",
+    "longevidad",
+    "intestino"
+  ],
+  "segments": [
+    {
+      "voice": "El 97 por ciento de los españoles no consume la fibra mínima recomendada al día. Y los datos de mortalidad asociados a déficit de fibra son demoledores. Un meta-análisis publicado en The Lancet en 2019 sobre 185 estudios y casi 135 millones de personas año mostró reducciones del 15 al 30 por ciento en mortalidad por todas las causas, enfermedad cardiovascular y cáncer colorrectal en los que comían más fibra. La pieza nutricional más infravalorada del plato moderno.",
+      "visual": "fiber rich foods variety",
+      "duration": 28
+    },
+    {
+      "voice": "Empezamos por definir fibra. Es la fracción de carbohidratos que no es digerida por enzimas del intestino delgado humano. Llega al colon y allí, las bacterias intestinales la fermentan parcialmente. Hay dos grandes categorías. Fibra soluble, que forma gel en presencia de agua, y fibra insoluble, que aumenta volumen del bolo intestinal.",
+      "visual": "fiber molecular structure",
+      "duration": 24
+    },
+    {
+      "voice": "Fibra soluble incluye betaglucanos de avena y cebada, pectinas de frutas, inulina de achicoria y alcachofa, mucílagos de semillas como chía y lino. Sus efectos incluyen mejor control glucémico, reducción de colesterol LDL, aumento de saciedad, alimentación de microbiota beneficiosa y producción de ácidos grasos de cadena corta.",
+      "visual": "oats fiber soluble",
+      "duration": 23
+    },
+    {
+      "voice": "Fibra insoluble incluye celulosa y lignina de cereales integrales, hortalizas, frutas con piel y frutos secos. Sus efectos principales son aumento del volumen fecal, reducción del tiempo de tránsito intestinal, alivio de estreñimiento y posiblemente reducción de cáncer colorrectal por menor tiempo de contacto con potenciales carcinógenos.",
+      "visual": "whole grains seeds",
+      "duration": 23
+    },
+    {
+      "voice": "Recomendaciones oficiales. La EFSA recomienda al menos 25 gramos de fibra al día para adultos. Otras autoridades suben a 30 gramos. La media española anda en 15 a 17 gramos al día. La estadounidense en 15. Para muchos hablamos de duplicar el consumo actual. No es trivial pero es alcanzable con cambios sencillos.",
+      "visual": "fiber recommendations chart",
+      "duration": 23
+    },
+    {
+      "voice": "Datos de mortalidad cardiovascular. Una revisión de Reynolds publicada en The Lancet en 2019 analizó la relación dosis respuesta entre fibra y mortalidad. Por cada 7 gramos extra al día, la mortalidad cardiovascular bajaba un 9 por ciento. Esto es relativamente fácil de conseguir. Un buen plato de avena por la mañana o una porción extra de legumbres ya aporta esa cantidad.",
+      "visual": "cardiovascular health research",
+      "duration": 24
+    },
+    {
+      "voice": "Datos sobre diabetes tipo 2. Mismo meta-análisis mostró reducción del 16 por ciento en incidencia de diabetes tipo 2 por cada 8 gramos diarios extra de fibra. La fibra ralentiza absorción de glucosa, mejora sensibilidad a la insulina y modula microbiota productora de ácidos grasos beneficiosos. Es de las intervenciones más eficientes y baratas para prevenir diabetes.",
+      "visual": "diabetes prevention foods",
+      "duration": 24
+    },
+    {
+      "voice": "Datos sobre cáncer colorrectal. La fibra parece tener efecto protector, especialmente fibra de cereales integrales. Mecanismos propuestos incluyen reducción del tiempo de exposición intestinal a potenciales carcinógenos, producción de butirato que tiene propiedades anti tumorales y modulación de microbiota. La asociación es consistente en grandes cohortes.",
+      "visual": "colorectal cancer prevention",
+      "duration": 23
+    },
+    {
+      "voice": "Fuentes prácticas y cantidades reales. Una taza de avena cruda aporta unos 8 gramos. Una taza de lentejas cocidas, 15 gramos. Una manzana mediana con piel, 4. Un aguacate mediano, 10. Una pera mediana con piel, 5. Una taza de frambuesas, 8. Una taza de brócoli cocido, 5. Las semillas de chía dan 10 gramos en dos cucharadas. Llegar a 30 gramos es alcanzable con planificación básica.",
+      "visual": "fiber portions visual chart",
+      "duration": 25
+    },
+    {
+      "voice": "Cómo aumentar fibra sin molestias. La transición debe ser gradual. Si pasas de 15 a 30 gramos de golpe, tu microbiota no está preparada y aparecen gases, hinchazón, malestar. Aumenta de 5 en 5 gramos cada semana. Bebe agua suficiente, la fibra necesita agua para funcionar adecuadamente. Y mantén consistencia diaria, no aumentos esporádicos.",
+      "visual": "gradual fiber increase",
+      "duration": 23
+    },
+    {
+      "voice": "Síntomas iniciales esperables. Gases, hinchazón leve, cambios en consistencia de las deposiciones. Estos son habituales durante las primeras 2 a 4 semanas. Suelen disminuir cuando la microbiota se adapta. Si persisten muchos meses o son graves, puede haber sensibilidad a tipos específicos de fibra como FODMAPs y conviene valorar con profesional.",
+      "visual": "digestive adaptation symptoms",
+      "duration": 23
+    },
+    {
+      "voice": "Fibra suplementada en cápsulas. Existen suplementos de fibra como psyllium, glucomanano, inulina añadida. Pueden tener sentido en personas con dificultad para llegar al objetivo con alimentos. Psyllium tiene buena evidencia para colesterol y estreñimiento. Pero la fuente alimentaria sigue siendo preferible porque viene con vitaminas, minerales y compuestos bioactivos.",
+      "visual": "psyllium supplement powder",
+      "duration": 23
+    },
+    {
+      "voice": "Tendencias erróneas. Las dietas keto extremas suelen ser muy bajas en fibra porque restringen cereales integrales, legumbres y mucha fruta. Esto puede comprometer microbiota a largo plazo. Si haces keto, prioriza verduras de hoja, frutos secos, semillas, aguacate y verduras crucíferas para no quedar muy por debajo de necesidades.",
+      "visual": "keto diet fiber sources",
+      "duration": 23
+    },
+    {
+      "voice": "Antinutrientes y fibra integral. Los granos integrales contienen fitatos que pueden reducir absorción de minerales como hierro, zinc, calcio. Para población general con dieta variada no es problema clínico. Pero remojo, fermentación o cocción reducen significativamente fitatos. El pan de masa madre fermentado tiene mucho mejor perfil que el pan industrial.",
+      "visual": "sourdough bread fermentation",
+      "duration": 24
+    },
+    {
+      "voice": "Mitos comunes. No es verdad que toda la fibra sea igual. La calidad y origen importan. No es verdad que verduras procesadas en zumo aporten la misma fibra que enteras, los zumos pierden gran parte. No es verdad que arroz integral siempre sea mejor que blanco, depende del contexto. La fibra es importante pero no es la única dimensión del alimento.",
+      "visual": "myth busting nutrition",
+      "duration": 23
+    },
+    {
+      "voice": "Fibra y saciedad. Trabajos de Barbara Rolls mostraron que dietas altas en fibra aumentan saciedad sin aumentar calorías totales. Esto facilita controlar peso sin pasar hambre. La fibra ralentiza vaciado gástrico, distiende intestino y modula hormonas de saciedad como CCK y PYY. Es uno de los mecanismos por los que la dieta mediterránea funciona para peso a largo plazo.",
+      "visual": "fiber satiety meal",
+      "duration": 24
+    },
+    {
+      "voice": "Variabilidad individual. No todos respondemos igual a los mismos alimentos. Trabajos de Eran Segal en Weizmann mostraron variaciones marcadas en respuesta glucémica a la misma comida entre personas distintas. La microbiota personal explica parte de esta variabilidad. Lo que funciona para tu vecino puede no ser óptimo para ti.",
+      "visual": "individual nutrition response",
+      "duration": 23
+    },
+    {
+      "voice": "Para personas con SII o intestino sensible. Algunas fibras pueden empeorar síntomas. Especialmente FODMAPs como cebolla, ajo, alcachofa, manzana, en personas susceptibles. La dieta baja en FODMAPs desarrollada por Monash University funciona para muchos. Pero debe hacerse con asesoramiento porque mal aplicada empobrece microbiota.",
+      "visual": "ibs sensitive intestine",
+      "duration": 23
+    },
+    {
+      "voice": "Caso real. Un paciente de 58 años con colesterol elevado, glucosa en límite alto, estreñimiento crónico. Aumentó fibra de 12 gramos diarios a 30, con avena, legumbres, frutas con piel y vegetales en cada comida. En 3 meses, colesterol LDL bajó de 165 a 130, glucosa de 108 a 92, y el estreñimiento desapareció. Sin medicación. La fibra fue la palanca.",
+      "visual": "patient improvement results",
+      "duration": 24
+    },
+    {
+      "voice": "Cómo distribuir la fibra durante el día. Mejor repartirla entre todas las comidas. Avena en desayuno. Manzana de media mañana. Ensalada en comida. Frutos secos en merienda. Verduras y legumbres en cena. Esto evita picos digestivos y mantiene aporte estable de combustible para microbiota. La distribución importa tanto como la cantidad total.",
+      "visual": "daily fiber distribution",
+      "duration": 23
+    },
+    {
+      "voice": "Diferencias entre tipos de fruta. La fruta entera tiene fibra. El zumo no. La piel tiene mucha más fibra que la pulpa. La fruta seca concentra fibra pero también azúcares. Variar entre frutas distintas durante la semana aporta diversidad de polifenoles y diferentes perfiles de fibra. Manzana, pera, frambuesas, arándanos, kiwi son particularmente buenas opciones.",
+      "visual": "fresh fruits whole variety",
+      "duration": 24
+    },
+    {
+      "voice": "Errores típicos. Comprar pan integral comercial que tiene poca fibra real y mucho azúcar añadido. Beber zumo industrial pensando que aporta los beneficios de la fruta. Eliminar legumbres por miedo a antinutrientes infundado. Consumir cereales infantiles industriales que tienen poca fibra real pese al marketing.",
+      "visual": "label reading mistakes",
+      "duration": 22
+    },
+    {
+      "voice": "Cómo leer etiquetas. Mirar gramos de fibra por cada 100 gramos de producto. Por encima de 6 es alto. Entre 3 y 6 es fuente. Por debajo de 3 es bajo. Mirar también ingredientes, si harina refinada aparece como primer ingrediente y solo añaden salvado, el alimento es esencialmente refinado con un poco de fibra añadida. No es lo mismo.",
+      "visual": "food label fiber reading",
+      "duration": 23
+    },
+    {
+      "voice": "Para deportistas. Aumentar fibra puede causar molestias antes de competición. Reducir fibra 24 a 48 horas antes de carrera de fondo. Pero mantener buena ingesta el resto del tiempo es importante para microbiota y recuperación. La planificación contextual marca la diferencia entre buen rendimiento y problemas digestivos.",
+      "visual": "athlete nutrition fiber",
+      "duration": 22
+    },
+    {
+      "voice": "Pero hay algo que casi nadie sabe sobre la fibra. Existe un tipo específico llamado almidón resistente que se forma cuando ciertos alimentos se cocinan y enfrían. Actúa como fibra fermentable potente. Te enseño qué alimentos prepararlos y cómo en el próximo vídeo.",
+      "visual": "resistant starch potato",
+      "duration": 20
+    },
+    {
+      "voice": "Suscríbete a VidaSana360 y dale a la campana. En el próximo vídeo te explico la verdad sobre el gluten y la sensibilidad no celíaca, qué es real, qué es mito y a quién afecta realmente.",
+      "visual": "gluten bread reality",
+      "duration": 18
+    }
+  ],
+  "duration_estimate_seconds": 1300,
+  "thumbnail_text": "FIBRA SALVA VIDAS"
+}

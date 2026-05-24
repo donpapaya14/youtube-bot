@@ -1,0 +1,155 @@
+{
+  "title": "🥗 Lácteos — quién debería tomarlos y quién no",
+  "description": "Análisis honesto sobre lácteos. Intolerancia a lactosa real versus moda, beneficios y riesgos según evidencia, mejores tipos según objetivo y los mitos más extendidos.",
+  "tags": [
+    "lacteos",
+    "lactosa",
+    "intolerancia",
+    "yogur",
+    "queso",
+    "leche",
+    "calcio",
+    "salud osea",
+    "nutricion",
+    "ciencia"
+  ],
+  "segments": [
+    {
+      "voice": "El 35 por ciento de los adultos españoles tiene cierto grado de intolerancia a la lactosa, según trabajos del Hospital Universitario de Bellvitge. Pero la mayoría de quienes evita lácteos no son intolerantes reales, lo hacen por moda. Y muchos que sí lo son están eliminando alimentos sin necesidad porque algunos lácteos los toleran perfectamente. Hoy ponemos orden en esta confusión con datos reales.",
+      "visual": "dairy products variety milk",
+      "duration": 27
+    },
+    {
+      "voice": "Empezamos por la lactosa. Es el azúcar principal de la leche de mamíferos. Para digerirla necesitas la enzima lactasa en el intestino delgado. Los bebés mamíferos producen lactasa en abundancia, pero la mayoría de adultos pierden esta capacidad. Es lo normal evolutivamente. La persistencia de lactasa en adultos es una mutación reciente que apareció en poblaciones ganaderas hace unos 7.500 años.",
+      "visual": "lactose enzyme digestion",
+      "duration": 25
+    },
+    {
+      "voice": "Distribución mundial de tolerancia. En el norte de Europa, alrededor del 90 por ciento de adultos mantiene la lactasa. En sur de Europa, alrededor del 50 por ciento. En Asia oriental, menos del 10 por ciento. En España la cifra está alrededor del 65 por ciento, con variaciones regionales. La intolerancia es lo común, no la excepción a escala global.",
+      "visual": "world map lactose intolerance",
+      "duration": 23
+    },
+    {
+      "voice": "Síntomas de intolerancia. Hinchazón abdominal tras tomar leche o derivados con lactosa. Gases, diarrea, dolor abdominal cólico. Aparecen entre 30 minutos y 2 horas después de la ingesta. La intensidad depende de la cantidad de lactosa consumida y del grado de déficit enzimático individual. No todo el mundo presenta los mismos síntomas con la misma dosis.",
+      "visual": "lactose intolerance symptoms",
+      "duration": 23
+    },
+    {
+      "voice": "Cómo se diagnostica. Test de hidrógeno espirado tras carga de lactosa es la prueba estándar. Mide gases producidos por fermentación bacteriana de lactosa no absorbida. Disponible en muchos hospitales y centros privados. Test genético detecta la variante polimórfica asociada a persistencia de lactasa, útil como complemento. La autoeliminación sin diagnóstico puede ser imprecisa.",
+      "visual": "lactose hydrogen test",
+      "duration": 23
+    },
+    {
+      "voice": "Para intolerantes diagnosticados. La mayoría tolera entre 12 y 18 gramos de lactosa al día sin síntomas. Un yogur entero tiene 4 a 5 gramos. Un vaso de leche, 12 gramos. 30 gramos de queso curado, menos de 1 gramo. Eliminar todos los lácteos no es necesario para la mayoría. Hacer selección inteligente sí.",
+      "visual": "dairy lactose content chart",
+      "duration": 24
+    },
+    {
+      "voice": "Quesos curados y semicurados tienen muy poca lactosa porque durante la maduración las bacterias la degradan. Manchego curado, parmigiano, gruyère, emmental, queso azul, son seguros para casi todos los intolerantes. Lo mismo con yogur natural rico en bacterias vivas que ayudan a digerir la lactosa residual.",
+      "visual": "aged cheese variety",
+      "duration": 23
+    },
+    {
+      "voice": "Quesos frescos y leche tienen toda la lactosa intacta. Cuajada, queso fresco, requesón, ricotta. La leche entera o desnatada igual. Estos son los que generan síntomas en intolerantes. Existen versiones sin lactosa donde se añade lactasa para hidrolizarla, es lactosa partida en sus componentes y se tolera bien. Sigue siendo lácteo entero con mismos nutrientes.",
+      "visual": "fresh cheese cottage",
+      "duration": 23
+    },
+    {
+      "voice": "Sobre el calcio. Los lácteos son fuente de calcio biodisponible. Pero no son la única ni imprescindible. Sardinas con espina, tofu con sulfato cálcico, almendras, brócoli, kale, sésamo, aguas minerales ricas en calcio. Una dieta sin lácteos puede cubrir necesidades de calcio si está bien planificada. Para osteoporosis lo más importante es el ejercicio de fuerza, vitamina D adecuada y proteína suficiente.",
+      "visual": "calcium sources alternatives",
+      "duration": 25
+    },
+    {
+      "voice": "Proteína láctea. El suero de leche o whey es de las proteínas con mejor perfil de aminoácidos. Alto contenido de leucina, clave para síntesis muscular. Trabajos de Stuart Phillips muestran consistentemente que la proteína de suero es altamente efectiva post entrenamiento para hipertrofia. La caseína es de absorción más lenta, útil antes de dormir.",
+      "visual": "whey protein supplement",
+      "duration": 24
+    },
+    {
+      "voice": "Lácteos y enfermedad cardiovascular. La narrativa de hace 30 años era que las grasas saturadas de lácteos eran perjudiciales para corazón. Los datos recientes son más matizados. Meta-análisis de Astrup en 2020 y de la Plataforma Europea de Política Alimentaria mostraron que el consumo moderado de lácteos no aumenta riesgo cardiovascular, especialmente lácteos fermentados.",
+      "visual": "cardiovascular dairy research",
+      "duration": 24
+    },
+    {
+      "voice": "Lácteos enteros versus desnatados. La idea de que desnatados son siempre mejores no se sostiene tan claramente como se pensaba. Trabajos del grupo Mozaffarian muestran que lácteos enteros completos pueden tener perfil cardiovascular neutro o incluso protector. Las grasas lácteas vienen acompañadas de vitamina K2, ácido linoleico conjugado y matriz nutricional compleja.",
+      "visual": "whole milk fat",
+      "duration": 24
+    },
+    {
+      "voice": "Yogur y kéfir, los más beneficiosos. La fermentación predigiere parte de la lactosa, aporta bacterias vivas beneficiosas y produce compuestos bioactivos. Mejoran tolerancia, modulan microbiota intestinal y se asocian con menor riesgo de diabetes tipo 2 y enfermedad cardiovascular en estudios observacionales. Una porción al día es saludable para la mayoría.",
+      "visual": "yogurt kefir fermented",
+      "duration": 24
+    },
+    {
+      "voice": "Leche y acné. La asociación entre leche y acné, especialmente leche desnatada, existe en estudios observacionales. Mecanismo propuesto es por aumento de IGF-1 y estimulación androgénica de glándulas sebáceas. La leche desnatada parece tener efecto más marcado que la entera según trabajos de Adebamowo. En adolescentes con acné severo, reducir leche puede ser razonable.",
+      "visual": "skin acne dairy",
+      "duration": 23
+    },
+    {
+      "voice": "Lácteos y cáncer. Resultados mixtos según el cáncer y el tipo de lácteo. Para cáncer colorrectal, lácteos parecen tener efecto protector según meta-análisis. Para cáncer de próstata, algunos estudios sugieren posible asociación con consumo muy alto. La evidencia no es concluyente para extrapolar recomendaciones individuales fuera de grupos de riesgo específico.",
+      "visual": "cancer research dairy",
+      "duration": 23
+    },
+    {
+      "voice": "Bebidas vegetales como alternativa. Leche de almendras, avena, soja, arroz, coco. Cada una con perfil distinto. La de soja es la que más se acerca nutricionalmente a la leche de vaca en proteína. La de almendra es muy pobre nutricionalmente, casi agua con sabor. La de avena tiene más carbohidratos. Importante mirar si están fortificadas con calcio y vitamina D.",
+      "visual": "plant milk alternatives",
+      "duration": 24
+    },
+    {
+      "voice": "Errores comunes. Comprar leche vegetal sin fortificar pensando que aporta calcio. Eliminar todos los lácteos por sospecha sin prueba diagnóstica. Sustituir yogur por postres vegetales con muchos azúcares añadidos. Pensar que sin lácteos automáticamente es más saludable. Tomar mucha leche entera pensando que aporta más músculo, sin considerar contexto calórico total.",
+      "visual": "dairy mistakes common",
+      "duration": 24
+    },
+    {
+      "voice": "Bebés y leche de vaca. La recomendación pediátrica es no introducir leche de vaca como bebida principal antes de los 12 meses. Antes la leche materna o fórmula adaptada son lo apropiado. Yogur o queso pueden introducirse antes en pequeñas cantidades. La leche entera de vaca es pobre en hierro y puede irritar mucosa intestinal en bebés muy pequeños.",
+      "visual": "baby feeding milk",
+      "duration": 24
+    },
+    {
+      "voice": "Adolescentes y consumo lácteo. La adolescencia es periodo de máxima formación de masa ósea. El calcio y proteína adecuada son importantes. Si hay buena ingesta de pescado azul, frutos secos, legumbres, vegetales verdes, los lácteos no son imprescindibles. Pero son una forma cómoda y efectiva de aportar ambos en una sola comida.",
+      "visual": "teenager bone health",
+      "duration": 23
+    },
+    {
+      "voice": "Mayores y lácteos. La sarcopenia y osteoporosis se previenen con proteína suficiente, ejercicio de fuerza y calcio adecuado. Los lácteos pueden cumplir doble función. Yogur con frutos secos como merienda, queso curado con tomate, leche con avena. Pequeñas porciones varias veces al día funcionan mejor que grandes cantidades concentradas.",
+      "visual": "elderly health nutrition",
+      "duration": 24
+    },
+    {
+      "voice": "Hormonas en la leche industrial. Hay controversia sobre estrógenos y otras hormonas presentes en leche de vacas gestantes. Las cantidades son muy pequeñas pero existen. Algunos prefieren leche ecológica de vacas en pastoreo y producción más sostenible. La diferencia nutricional con leche convencional es pequeña pero el perfil de grasas y vitaminas suele ser mejor.",
+      "visual": "organic dairy farming",
+      "duration": 24
+    },
+    {
+      "voice": "Lácteos y digestión. Para quienes los toleran mal, probar lácteos de cabra u oveja. Tienen perfil de proteínas algo distinto y suelen tolerarse mejor que los de vaca por algunos sensibles. No es solucion para intolerantes a lactosa pero sí para sensibles a proteína bovina específica. Yogures y quesos artesanos de oveja son opciones a explorar.",
+      "visual": "sheep goat dairy products",
+      "duration": 24
+    },
+    {
+      "voice": "Caso real. Una mujer de 38 años eliminó todos los lácteos pensando que tenía intolerancia. Tras 6 meses notó debilidad ósea en analítica y bajada de calcio. Hicimos test diagnóstico, resultó intolerante leve. Reintrodujo yogur natural y quesos curados sin problemas. Recuperó calcio en analítica sin necesidad de comprar leches vegetales caras.",
+      "visual": "successful dairy reintroduction",
+      "duration": 24
+    },
+    {
+      "voice": "Otro caso real. Hombre de 52 años con cólicos y hinchazón persistente. Test diagnóstico mostró intolerancia primaria. Eliminó leche y quesos frescos. Mantuvo yogur natural y quesos curados. Síntomas resueltos. Mantiene aporte de calcio y proteína sin afectar dieta global. Enfoque selectivo en lugar de eliminación total.",
+      "visual": "elimination intolerance management",
+      "duration": 23
+    },
+    {
+      "voice": "Mitos comunes. No es verdad que los humanos no estemos hechos para tomar leche. Las poblaciones ganaderas evolucionaron para tolerarla. No es verdad que la leche produzca mucosidad ni cause asma. No es verdad que los lácteos descalcifiquen huesos, idea sin base científica. La evidencia disponible no respalda estas afirmaciones populares.",
+      "visual": "dairy myth busting",
+      "duration": 23
+    },
+    {
+      "voice": "Pero hay algo que casi nadie sabe sobre los lácteos. Un tipo específico de leche A2 producida por algunas razas bovinas se tolera mejor que la habitual A1 según estudios recientes. Quién se beneficia y cómo identificarla te lo cuento en el próximo vídeo.",
+      "visual": "a2 milk production",
+      "duration": 20
+    },
+    {
+      "voice": "Suscríbete a VidaSana360 y dale a la campana. En el próximo vídeo te explico todo sobre el café y el cortisol, cuándo tomarlo, cuánto y por qué hay personas que les sienta mal aunque lo amen.",
+      "visual": "coffee morning cortisol",
+      "duration": 18
+    }
+  ],
+  "duration_estimate_seconds": 1295,
+  "thumbnail_text": "LÁCTEOS VERDAD"
+}
