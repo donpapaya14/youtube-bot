@@ -1,7 +1,7 @@
 name: "Video: FinanzasClara"
 on:
   schedule:
-    - cron: '0 13 * * *'   # 09:00 EDT (mañana US — commute)
+    - cron: '0 13 * * *'
   workflow_dispatch:
 jobs:
   video:

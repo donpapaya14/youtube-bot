@@ -1,7 +1,7 @@
 name: "Video: FinanzasClara (Long-Form)"
 on:
   schedule:
-    - cron: '30 22 * * *'  # 18:30 EDT (early evening US)
+    - cron: '30 13 * * *'
   workflow_dispatch:
 jobs:
   video:

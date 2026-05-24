@@ -39,7 +39,7 @@
   ],
   "thumbnail_style": "warm coffee tones, close-up espresso, steam, cozy lighting, editorial feel",
   "voice": "en-US-GuyNeural",
-  "web_url": "https://cashcafe.es",
+  "web_url": "https://cash-cafe.org",
   "cta_description": "\n\n☕ Full guide: https://cashcafe.es\n📩 Weekly newsletter: one café every Saturday\n👍 Subscribe & hit 🔔",
   "amazon_tag": "vds96-20",
   "amazon_search": "books+nonfiction",
@@ -48,5 +48,6 @@
     "en-US-EmmaNeural",
     "en-US-DavisNeural"
   ],
-  "cloud_project": "cashcafe"
+  "cloud_project": "cashcafe",
+  "cta": "☕ More money tips at https://cash-cafe.org\n\n💰 Subscribe for daily wealth habits\n\n#cashcafe #moneytips #personalfinance"
 }
