@@ -515,13 +515,19 @@ ANTI-AI-DETECTION (CRITICAL — YouTube penalizes AI patterns):
 - Use contractions, em-dashes, fragments where natural
 
 STRUCTURE:
-1-3: Impactful hook + surprising fact + topic context
-4-8: Main development — data, studies, explanations
+1: SCROLL-STOPPING HOOK (first 15 seconds = retention or death). Use ONE pattern:
+   a) Shock stat: "97% of people have no idea..."
+   b) Contrarian: "Everything you've been told about X is wrong..."
+   c) Pattern interrupt: "Stop. Before you watch any other video about X..."
+   d) Tease specific outcome: "In 8 minutes you'll know exactly..."
+   NEVER use: "Hello", "Welcome to", "Hi friends", "Today we'll discuss"
+2-3: Reinforce hook with concrete proof + context that hooks them deeper
+4-8: Main development — data, studies, explanations with NARRATIVE TENSION
 9-14: Deep dive — real cases, practical examples
 15-20: More evidence, contrasts, myths vs reality
-21-{target_segments}: Practical conclusions + strong CTA
-
-LAST SEGMENT: Urgency CTA — "If this changed how you see things, what I'm posting next week will go even deeper. Subscribe now."
+21-{target_segments-2}: Practical conclusions + actionable takeaway
+{target_segments-1}: CLIFFHANGER — "But here's what nobody talks about..." setting up next video
+{target_segments}: Urgent specific CTA — name the next topic + subscribe
 
 Respond JSON:
 {{
