@@ -1,0 +1,145 @@
+{
+  "id": 61,
+  "title": "🧠 7 Mitos del Colesterol que Aún Sobreviven en 2026",
+  "description": "Que si los huevos son malos, que si el LDL es el demonio, que si las estatinas son veneno. Los 7 mitos del colesterol que la ciencia más reciente ha desmontado.\n\n#colesterol #salud #cardio #longevidad",
+  "tags": [
+    "colesterol",
+    "LDL",
+    "HDL",
+    "estatinas",
+    "salud",
+    "longevidad",
+    "huevos",
+    "ApoB",
+    "Lp a",
+    "cardiovascular"
+  ],
+  "thumbnail_text": "MITOS DEL COLESTEROL",
+  "segments": [
+    {
+      "voice": "El colesterol es probablemente el tema más malentendido de la medicina moderna. Hay tantas opiniones contradictorias en redes sociales que es difícil saber a quién creer. Hoy te traigo los 7 mitos sobre el colesterol que la ciencia más reciente ha desmontado, con datos publicados en los journals médicos más sólidos. Empezamos con el más famoso de todos.",
+      "visual": "cholesterol blood test confusion myths science research",
+      "duration": 25
+    },
+    {
+      "voice": "Mito 1: los huevos suben el colesterol. Falso para la mayoría de personas. Un metaanálisis de 2020 en BMJ con 1,7 millones de participantes encontró que comer 1 huevo al día no aumenta el riesgo cardiovascular en personas sanas. Solo el 30 por ciento de la población son hiperabsorbedores genéticos donde sí impacta. El resto puede comer huevos sin problema.",
+      "visual": "eggs breakfast cholesterol dietary BMJ meta analysis",
+      "duration": 25
+    },
+    {
+      "voice": "Aquí está el truco: el colesterol que comes apenas afecta al colesterol en sangre. Tu hígado produce el 80 por ciento del colesterol. Lo que comes solo aporta el 20 por ciento, y tu cuerpo compensa: si comes más, fabrica menos. La American Heart Association eliminó los límites de colesterol dietético en sus guías de 2015. La ciencia avanzó.",
+      "visual": "liver cholesterol production dietary intake compensation",
+      "duration": 25
+    },
+    {
+      "voice": "Mito 2: el LDL es el colesterol malo y hay que tenerlo bajo siempre. Matiz importante: el LDL no es uno solo. Hay subtipos. Las partículas pequeñas y densas del LDL sí son aterogénicas. Las grandes y esponjosas son menos peligrosas. Un estudio del Journal of American College of Cardiology de 2018 demostró que el número de partículas, no la concentración, predice mejor el riesgo.",
+      "visual": "LDL particles small dense large fluffy types differences",
+      "duration": 25
+    },
+    {
+      "voice": "Por eso medir solo LDL-C es insuficiente. La medición moderna es ApoB, apolipoproteína B. Cada partícula aterogénica lleva una sola ApoB. Por tanto, ApoB cuenta partículas. Un metaanálisis de 2019 en JAMA Cardiology con 200.000 personas demostró que ApoB es mejor predictor de eventos cardiovasculares que LDL-C. Pídelo en tu próximo análisis.",
+      "visual": "ApoB apolipoprotein B test particle count cardiovascular",
+      "duration": 25
+    },
+    {
+      "voice": "Mito 3: cuanto más bajo el LDL, mejor. La realidad es más compleja. Un estudio del REGARDS publicado en 2021 con 16.000 participantes encontró una curva en J: el riesgo aumenta cuando el LDL está muy alto, pero también muy bajo, por debajo de 70. El extremo bajo se asocia con mayor mortalidad por causa no cardiovascular. La regla en J vence al cuanto más bajo mejor.",
+      "visual": "LDL J curve mortality optimal range too low risk",
+      "duration": 25
+    },
+    {
+      "voice": "Mito 4: las estatinas son veneno. Falso. Las estatinas son uno de los fármacos con más datos de eficacia y seguridad de la medicina moderna. Un metaanálisis de 2019 en Lancet con 174.000 personas demostró que reducen los eventos cardiovasculares un 25 por ciento por cada 1 mmol/L de bajada de LDL. Los efectos secundarios reales son menos comunes de lo que se dice.",
+      "visual": "statins safety efficacy Lancet meta analysis cardiovascular",
+      "duration": 25
+    },
+    {
+      "voice": "Pero las estatinas no son para todo el mundo. Tienen sentido en prevención secundaria, después de un evento cardiovascular. En prevención primaria, depende del riesgo absoluto. Un cardiólogo competente calcula el SCORE2 y decide. Tomar estatinas porque el LDL está en 130 sin más factores de riesgo no siempre es necesario. Personalización gana.",
+      "visual": "statin prescription primary prevention risk stratification",
+      "duration": 25
+    },
+    {
+      "voice": "Mito 5: el HDL alto siempre es bueno. La ciencia ha matizado mucho. Un estudio de la Universidad de Pensilvania en 2018 con 5.965 personas encontró que niveles muy altos de HDL, por encima de 80, se asociaban con mayor mortalidad. La función del HDL importa más que la concentración. Hay HDL disfuncional que no protege a pesar de niveles aparentemente buenos.",
+      "visual": "HDL high levels mortality dysfunction Pennsylvania study",
+      "duration": 25
+    },
+    {
+      "voice": "Mito 6: la grasa saturada causa enfermedad cardiovascular. Demolido en parte. Un metaanálisis de 2020 en Journal of the American College of Cardiology con 21 estudios y 339.000 participantes encontró que la grasa saturada aislada no se asocia con mayor mortalidad. Lo que importa es qué la sustituye. Si la sustituyes por azúcar refinado, peor. Si por grasas insaturadas, mejor.",
+      "visual": "saturated fat replacement carbohydrates unsaturated fats outcomes",
+      "duration": 25
+    },
+    {
+      "voice": "Aquí está el matiz importante: la matriz alimentaria importa. La grasa saturada del queso, el yogur o el huevo tiene efectos distintos a la del embutido o la mantequilla. Un estudio del European Heart Journal de 2021 demostró que los lácteos enteros se asocian con menor riesgo cardiovascular, mientras que la grasa saturada del bacon o el salami sí lo aumenta.",
+      "visual": "saturated fat matrix dairy yogurt processed meat differences",
+      "duration": 25
+    },
+    {
+      "voice": "Mito 7: si tu colesterol total está en 200, estás bien. Insuficiente. El colesterol total mezcla LDL, HDL y triglicéridos. Es el indicador más obsoleto. Tu colesterol total puede ser 200 con HDL bajo y LDL alto, o 200 con HDL alto y LDL bajo. Sin desglose, no significa nada. Tu análisis debe llevar siempre LDL, HDL, triglicéridos y, idealmente, ApoB y Lp(a).",
+      "visual": "total cholesterol misleading breakdown LDL HDL triglycerides",
+      "duration": 25
+    },
+    {
+      "voice": "El marcador más infravalorado es la lipoproteína (a), Lp(a). Es genético, se mide una sola vez en la vida. Niveles altos, por encima de 50 mg/dL, multiplican el riesgo cardiovascular. Hasta el 20 por ciento de la población tiene Lp(a) alta y no lo sabe. La American Heart Association recomienda medirla en todos los adultos. Casi nunca se incluye en chequeos rutinarios en España.",
+      "visual": "Lp a lipoprotein genetic test cardiovascular risk one time",
+      "duration": 25
+    },
+    {
+      "voice": "Sobre los triglicéridos, un dato relevante. Niveles por encima de 150 son señal de exceso de azúcares y carbohidratos refinados, no de grasa. Un metaanálisis de 2017 en Journal of Lipid Research demostró que reducir azúcar añadido y harinas refinadas baja triglicéridos un 20 por ciento en 12 semanas, mucho más que reducir grasa.",
+      "visual": "triglycerides sugar refined carbohydrates lipid research",
+      "duration": 25
+    },
+    {
+      "voice": "El ratio triglicéridos sobre HDL es uno de los predictores más potentes de resistencia a la insulina y riesgo cardiovascular. Si ese ratio es menor de 2, estás bien. Entre 2 y 3, atención. Por encima de 3, hay resistencia a la insulina probable. Es gratis, sale del análisis básico, y es de los marcadores más útiles que existen.",
+      "visual": "triglycerides HDL ratio insulin resistance metabolic predictor",
+      "duration": 25
+    },
+    {
+      "voice": "Para mejorar el colesterol naturalmente, los datos convergen. Reducir azúcar y harinas refinadas. Aumentar fibra soluble: avena, legumbres, manzanas, frutos rojos. Aceite de oliva virgen extra a diario. Pescado azul dos veces por semana. Frutos secos. Y entre 3 y 5 sesiones semanales de ejercicio aeróbico. Estos hábitos pueden bajar LDL un 20 por ciento sin medicación.",
+      "visual": "natural cholesterol improvement diet fiber omega 3 exercise",
+      "duration": 25
+    },
+    {
+      "voice": "Sobre los suplementos, los datos son mixtos. Las levaduras rojas de arroz contienen monacolina K, una estatina natural. Funciona, pero las dosis efectivas tienen los mismos efectos secundarios que las estatinas farmacéuticas. La berberina baja LDL un 10 por ciento en 12 semanas según ensayos. La psyllium reduce LDL un 7 por ciento. Útiles como complemento, no sustituto.",
+      "visual": "supplements red yeast rice berberine psyllium cholesterol",
+      "duration": 25
+    },
+    {
+      "voice": "Para inflamación y aterosclerosis, los marcadores clave son PCR ultrasensible y homocisteína. Un PCR mayor de 2 mg/L predice eventos cardiovasculares incluso con LDL normal. La homocisteína alta se asocia con mayor riesgo de ictus. El JUPITER trial publicado en NEJM demostró que tratar PCR alta con estatinas reducía eventos en personas con LDL normal.",
+      "visual": "PCR homocysteine inflammation atherosclerosis cardiovascular markers",
+      "duration": 25
+    },
+    {
+      "voice": "El concepto moderno es la edad arterial. Tu calcio coronario es lo más predictivo de tu riesgo a 10 años. Una TAC coronaria con score de calcio cuesta entre 200 y 300 euros, no implica radiación significativa, y te dice exactamente cuán envejecidas están tus arterias. Si tienes más de 45 años con factores de riesgo, hablar con tu cardiólogo de hacer este test es razonable.",
+      "visual": "coronary calcium score CT scan arterial age cardiovascular",
+      "duration": 25
+    },
+    {
+      "voice": "Lo que yo hago: análisis cada 6 meses con perfil lipídico avanzado, ApoB, Lp(a), PCR ultrasensible, homocisteína. Mantengo LDL entre 80 y 100, HDL alto, triglicéridos bajos, ratio TG/HDL en 1,2. Mi LP(a) es baja por suerte. Hice un calcio coronario a los 45 con resultado 0. Esto me da una hoja de ruta personalizada.",
+      "visual": "personal cholesterol monitoring biannual advanced lipid panel",
+      "duration": 25
+    },
+    {
+      "voice": "Los grupos de mayor riesgo: hombres mayores de 45, mujeres postmenopáusicas, personas con antecedentes familiares de infarto temprano, diabéticos, hipertensos, fumadores. Para estos grupos, los criterios cuantitativos deben ser más estrictos. La estratificación individualizada es crucial. No hay un mismo objetivo para todos.",
+      "visual": "cardiovascular risk groups stratification personalized targets",
+      "duration": 25
+    },
+    {
+      "voice": "Sobre las dietas extremas. La keto sube LDL en muchos hipersensibles. La vegana muy estricta puede reducir vitamina B12 y omega-3 marinos. La carnívora ignora décadas de evidencia. La dieta mediterránea sigue siendo la más estudiada y la mejor avalada para reducir riesgo cardiovascular. Lo que funciona en un diabético no funciona en un atleta.",
+      "visual": "extreme diets keto vegan carnivore Mediterranean comparison",
+      "duration": 25
+    },
+    {
+      "voice": "El error más común que veo: gente con LDL en 130, sin otros factores de riesgo, asustada por colegas y noticias, que toma estatinas innecesariamente. O al revés: gente con LDL en 200, hipertensión, antecedentes familiares, que rechaza tratamiento por ideología. La medicina basada en evidencia es individualizada, no extremista.",
+      "visual": "personalized cardiovascular treatment evidence based decision",
+      "duration": 25
+    },
+    {
+      "voice": "Para autoevaluación: si tu análisis muestra LDL menor de 100, HDL mayor de 50, triglicéridos menores de 100, ratio TG/HDL menor de 2, PCR menor de 1, homocisteína normal, sin antecedentes familiares de infarto temprano, vas razonablemente bien. Si tienes alguno mal, conviene consultar a un profesional.",
+      "visual": "self assessment cholesterol numbers targets healthy ranges",
+      "duration": 25
+    },
+    {
+      "voice": "Suscríbete a SaludLongevidad y dale a la campana. Lo que viene la próxima semana es la dosificación correcta de exposición al sol, esa que nos cuesta tanto entender entre paranoia del cáncer y déficit de vitamina D. Cuéntame en los comentarios qué mito sobre colesterol te ha sorprendido más en este episodio.",
+      "visual": "subscribe channel sun exposure dosing next week cholesterol",
+      "duration": 25
+    }
+  ]
+}

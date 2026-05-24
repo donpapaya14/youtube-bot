@@ -1,0 +1,736 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Dashboard — Imperio Digital</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<style>
+*{box-sizing:border-box;margin:0;padding:0;font-family:-apple-system,system-ui,sans-serif}
+body{background:#0a0e1a;color:#e4e8f0;padding:24px;max-width:1400px;margin:0 auto}
+h1{color:#4ade80;margin-bottom:4px;font-size:28px}
+h2{color:#60a5fa;margin:32px 0 12px;font-size:18px}
+h3{color:#a78bfa;font-size:14px;margin-bottom:12px}
+.meta{color:#94a3b8;font-size:12px;margin-bottom:16px}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.grid3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:16px}
+.card{background:#131826;border:1px solid #1e293b;border-radius:12px;padding:18px}
+table{width:100%;border-collapse:collapse;font-size:13px}
+th,td{padding:8px 10px;text-align:left;border-bottom:1px solid #1e293b}
+th{color:#94a3b8;font-weight:600;text-transform:uppercase;font-size:10px}
+.good{color:#4ade80}.bad{color:#f87171}.neutral{color:#94a3b8}.err{color:#fb923c;font-style:italic}
+.sub{color:#64748b;font-size:11px}
+canvas{max-height:240px}
+.summary{display:grid;grid-template-columns:repeat(5,1fr);gap:12px;margin:16px 0}
+.stat{background:#131826;border:1px solid #1e293b;padding:14px;border-radius:8px}
+.stat b{display:block;font-size:22px;color:#4ade80}
+.stat span{color:#94a3b8;font-size:11px}
+.stat .delta{font-size:11px;margin-top:4px}
+.progress{background:#1e293b;height:6px;border-radius:3px;overflow:hidden;margin-bottom:2px}
+.bar{background:linear-gradient(90deg,#4ade80,#60a5fa);height:100%;transition:width 0.5s}
+.tabs{display:flex;gap:8px;margin-bottom:12px}
+.tab{padding:6px 14px;background:#131826;border:1px solid #1e293b;border-radius:6px;cursor:pointer;font-size:12px;color:#94a3b8}
+.tab.active{background:#1e3a8a;color:#fff;border-color:#3b82f6}
+.revenue-card{background:linear-gradient(135deg,#0f172a 0%,#1e293b 100%);border:1px solid #4ade80}
+.revenue-card .num{color:#4ade80;font-size:32px;font-weight:bold}
+.badge{display:inline-block;padding:2px 8px;border-radius:4px;font-size:10px;font-weight:600}
+.b-good{background:#065f46;color:#a7f3d0}
+.b-warn{background:#78350f;color:#fde68a}
+.b-bad{background:#7f1d1d;color:#fecaca}
+</style>
+</head>
+<body>
+<h1>📊 Imperio Digital — Dashboard</h1>
+<p class="meta">Generado: 2026-05-24 11:40 UTC • Día 26 desde lanzamiento (2026-04-28) • Período: últimos 7d</p><div class="tabs" style="margin:16px 0;">
+<button class="tab active" data-period="7" onclick="switchTab(7)">📅 Última semana (7d)</button>
+<button class="tab" data-period="28" onclick="switchTab(28)">📊 Mensual (28d)</button>
+<button class="tab" data-period="90" onclick="switchTab(90)">📈 Trimestral (90d)</button>
+</div><div id="panel-7" class="panel" style="display:block">
+
+<div class="summary">
+<div class="stat"><b>400</b><span>Subs YT totales</span><div class="delta good">+2 (7d)</div></div>
+<div class="stat"><b>8,911</b><span>Views YT 7d</span><div class="delta sub">Total: 154,820</div></div>
+<div class="stat"><b>693</b><span>Videos subidos</span><div class="delta sub">~26.7/día</div></div>
+<div class="stat"><b>613</b><span>Artículos webs</span><div class="delta sub">52 commits esta sem</div></div>
+<div class="stat"><b>0</b><span>Clicks SEO 7d</span><div class="delta sub">73 impressions</div></div>
+</div>
+
+<h2>💰 Revenue Proyección (mensual estimado)</h2>
+<div class="grid3">
+<div class="card revenue-card"><h3>YouTube AdSense (cuando monetice)</h3><div class="num">$0</div><span class="sub">Solo canales con 1k+ subs</span></div>
+<div class="card revenue-card"><h3>Web AdSense (proyectado)</h3><div class="num">$0</div><span class="sub">~$0.5/click orgánico</span></div>
+<div class="card revenue-card"><h3>Amazon Afiliados</h3><div class="num">$1</div><span class="sub">1% CTR × $30 × 5% comm</span></div>
+</div>
+<div class="card" style="margin-top:12px;text-align:center">
+<h3>TOTAL ESTIMADO/MES</h3>
+<div style="font-size:48px;color:#4ade80;font-weight:bold">$1</div>
+<span class="sub">Proyección si todo monetizado HOY (la mayoría aún no elegible)</span>
+</div>
+
+<h2>📺 YouTube — Canales (ordenados por subs)</h2>
+<div class="card">
+<table>
+<thead><tr><th>Canal</th><th>Subs</th><th>Δ 7d</th><th>Views 7d</th><th>Watch min</th><th>Ret</th><th>Videos</th><th>YPP Goal</th></tr></thead>
+<tbody><tr>
+            <td><b>VidaSana360</b><br><span class="sub">2013-12-20</span></td>
+            <td>188</td>
+            <td class="good">+1</td>
+            <td>3,890</td>
+            <td>407</td>
+            <td>61%</td>
+            <td>96</td>
+            <td><div class="progress"><div class="bar" style="width:18.8%"></div></div><span class="sub">18% YPP</span></td>
+        </tr><tr>
+            <td><b>CatBrothers</b><br><span class="sub">2022-12-11</span></td>
+            <td>102</td>
+            <td class="neutral">+0</td>
+            <td>173</td>
+            <td>220</td>
+            <td>27%</td>
+            <td>232</td>
+            <td><div class="progress"><div class="bar" style="width:10.2%"></div></div><span class="sub">10% YPP</span></td>
+        </tr><tr>
+            <td><b>SaludLongevidad</b><br><span class="sub">2026-04-23</span></td>
+            <td>62</td>
+            <td class="neutral">+0</td>
+            <td>51</td>
+            <td>6</td>
+            <td>76%</td>
+            <td>85</td>
+            <td><div class="progress"><div class="bar" style="width:6.2%"></div></div><span class="sub">6% YPP</span></td>
+        </tr><tr>
+            <td><b>EspacioInteligente</b><br><span class="sub">2026-04-27</span></td>
+            <td>28</td>
+            <td class="neutral">+0</td>
+            <td>4,521</td>
+            <td>376</td>
+            <td>22%</td>
+            <td>105</td>
+            <td><div class="progress"><div class="bar" style="width:2.8000000000000003%"></div></div><span class="sub">2% YPP</span></td>
+        </tr><tr>
+            <td><b>FinanzasClara</b><br><span class="sub">2026-04-23</span></td>
+            <td>6</td>
+            <td class="neutral">+0</td>
+            <td>24</td>
+            <td>2</td>
+            <td>41%</td>
+            <td>97</td>
+            <td><div class="progress"><div class="bar" style="width:0.6%"></div></div><span class="sub">0% YPP</span></td>
+        </tr><tr>
+            <td><b>DisasterDecode</b><br><span class="sub">2026-04-23</span></td>
+            <td>5</td>
+            <td class="good">+1</td>
+            <td>217</td>
+            <td>465</td>
+            <td>15%</td>
+            <td>18</td>
+            <td><div class="progress"><div class="bar" style="width:0.5%"></div></div><span class="sub">0% YPP</span></td>
+        </tr><tr>
+            <td><b>CashCafe</b><br><span class="sub">2022-11-23</span></td>
+            <td>4</td>
+            <td class="neutral">+0</td>
+            <td>27</td>
+            <td>41</td>
+            <td>13%</td>
+            <td>22</td>
+            <td><div class="progress"><div class="bar" style="width:0.4%"></div></div><span class="sub">0% YPP</span></td>
+        </tr><tr>
+            <td><b>DarkFiles</b><br><span class="sub">2026-04-23</span></td>
+            <td>3</td>
+            <td class="neutral">+0</td>
+            <td>2</td>
+            <td>0</td>
+            <td>0%</td>
+            <td>17</td>
+            <td><div class="progress"><div class="bar" style="width:0.3%"></div></div><span class="sub">0% YPP</span></td>
+        </tr><tr>
+            <td><b>MindWired</b><br><span class="sub">2026-04-23</span></td>
+            <td>2</td>
+            <td class="neutral">+0</td>
+            <td>0</td>
+            <td>0</td>
+            <td>0%</td>
+            <td>15</td>
+            <td><div class="progress"><div class="bar" style="width:0.2%"></div></div><span class="sub">0% YPP</span></td>
+        </tr><tr>
+            <td><b>DonVladys</b><br><span class="sub">2026-05-07</span></td>
+            <td>0</td>
+            <td class="neutral">+0</td>
+            <td>6</td>
+            <td>8</td>
+            <td>9%</td>
+            <td>6</td>
+            <td><div class="progress"><div class="bar" style="width:0.0%"></div></div><span class="sub">0% YPP</span></td>
+        </tr></tbody>
+</table>
+</div>
+
+<div class="grid">
+<div class="card"><h3>Subs Totales</h3><canvas id="cSubs_7"></canvas></div>
+<div class="card"><h3>Crecimiento 7d</h3><canvas id="cGrowth_7"></canvas></div>
+</div>
+
+<h2>🌐 Webs — Search Console (ordenadas por clicks)</h2>
+<div class="card">
+<table>
+<thead><tr><th>Web</th><th>Artículos</th><th>Clicks 7d</th><th>Impressions</th><th>CTR</th><th>Posición avg</th></tr></thead>
+<tbody><tr>
+            <td><b>vidasana360</b></td>
+            <td>109</td>
+            <td>0</td>
+            <td>3</td>
+            <td>0.00%</td>
+            <td>11.0</td>
+        </tr><tr>
+            <td><b>saludlongevidad</b></td>
+            <td>109</td>
+            <td>0</td>
+            <td>2</td>
+            <td>0.00%</td>
+            <td>23.0</td>
+        </tr><tr>
+            <td><b>finanzasclara</b></td>
+            <td>109</td>
+            <td>0</td>
+            <td>11</td>
+            <td>0.00%</td>
+            <td>66.5</td>
+        </tr><tr>
+            <td><b>catbrothers</b></td>
+            <td>103</td>
+            <td>0</td>
+            <td>29</td>
+            <td>0.00%</td>
+            <td>67.8</td>
+        </tr><tr>
+            <td><b>espaciointeligente</b></td>
+            <td>104</td>
+            <td>0</td>
+            <td>13</td>
+            <td>0.00%</td>
+            <td>60.0</td>
+        </tr><tr>
+            <td><b>cashcafe</b></td>
+            <td>79</td>
+            <td>0</td>
+            <td>15</td>
+            <td>0.00%</td>
+            <td>7.7</td>
+        </tr></tbody>
+</table>
+</div>
+
+<div class="grid">
+<div class="card"><h3>Tráfico Web 7d</h3><canvas id="cWebs_7"></canvas></div>
+<div class="card">
+<h3>🔍 Top queries SERP (todas las webs)</h3>
+<table style="font-size:11px">
+<thead><tr><th>Web</th><th>Query</th><th>C</th><th>Imp</th><th>Pos</th></tr></thead>
+<tbody><tr><td>catbrothers</td><td>best cat toys for bored cats</td><td>0</td><td>6</td><td>85.0</td></tr><tr><td>vidasana360</td><td>caminar 8000 pasos al dia</td><td>0</td><td>2</td><td>11.0</td></tr><tr><td>saludlongevidad</td><td>optimizacion del ciclo circadiano</td><td>0</td><td>2</td><td>23.0</td></tr><tr><td>finanzasclara</td><td>cost averaging calculator</td><td>0</td><td>2</td><td>60.5</td></tr><tr><td>vidasana360</td><td>caminar 8000 pasos diarios</td><td>0</td><td>1</td><td>11.0</td></tr><tr><td>finanzasclara</td><td>detailed explanations about dca strategy</td><td>0</td><td>1</td><td>52.0</td></tr><tr><td>finanzasclara</td><td>dollar cost average example</td><td>0</td><td>1</td><td>49.0</td></tr><tr><td>catbrothers</td><td>best cat toys for bored indoor cats</td><td>0</td><td>1</td><td>86.0</td></tr><tr><td>catbrothers</td><td>best cat toys to prevent boredom</td><td>0</td><td>1</td><td>72.0</td></tr><tr><td>espaciointelige</td><td>energy efficient humidity management</td><td>0</td><td>1</td><td>34.0</td></tr></tbody>
+</table>
+</div>
+</div>
+
+<h2>🎯 Highlights del Período</h2>
+<div class="card">
+<table>
+<thead><tr><th>Métrica</th><th>Ganador</th><th>Valor</th></tr></thead>
+<tbody>
+<tr><td>🔥 Canal top views 7d</td><td>EspacioInteligente</td><td>4,521 views</td></tr><tr><td>🚀 Más nuevos subs 7d</td><td>VidaSana360</td><td>+1 subs</td></tr>
+
+<tr><td>📚 Más artículos publicados</td><td>vidasana360</td><td>109 artículos</td></tr>
+<tr><td>⚡ Commits totales última semana</td><td>youtube-bot + 5 webs</td><td>223 commits</td></tr>
+</tbody>
+</table>
+</div>
+
+<h2>💎 Monetización Status</h2>
+<div class="card">
+<table>
+<thead><tr><th>Programa</th><th>Requisito</th><th>Status</th><th>Earnings estimated/mes</th></tr></thead>
+<tbody>
+<tr><td>YT Partner Program (LF)</td><td>1k subs + 4000h watch/12m</td><td><span class="badge b-warn">VidaSana 188/1000</span></td><td>$0 (locked)</td></tr>
+<tr><td>YT Partner Program (Shorts)</td><td>1k subs + 10M views/90d</td><td><span class="badge b-bad">muy lejos</span></td><td>$0 (locked)</td></tr>
+<tr><td>Amazon Asociados ES</td><td>3 ventas/180d</td><td><span class="badge b-good">vladys-21 activo</span></td><td>~$1</td></tr>
+<tr><td>Amazon Asociados US</td><td>3 ventas/180d</td><td><span class="badge b-good">vds96-20 activo</span></td><td>~$1</td></tr>
+<tr><td>Google AdSense (webs)</td><td>~20 art + tráfico orgánico</td><td><span class="badge b-warn">esperar 1-3m crawl</span></td><td>$0 (cuando apruebe)</td></tr>
+</tbody>
+</table>
+</div>
+
+<script>
+const cfgBar = { plugins: { legend: { display: false } }, scales: { y: { ticks: { color: '#94a3b8' } }, x: { ticks: { color: '#94a3b8' } } } };
+const subs = [{"label": "VidaSana360", "value": 188}, {"label": "SaludLongevidad", "value": 62}, {"label": "FinanzasClara", "value": 6}, {"label": "CatBrothers", "value": 102}, {"label": "EspacioInteligente", "value": 28}, {"label": "MindWired", "value": 2}, {"label": "DarkFiles", "value": 3}, {"label": "DisasterDecode", "value": 5}, {"label": "CashCafe", "value": 4}, {"label": "DonVladys", "value": 0}];
+new Chart(document.getElementById('cSubs_7'), { type: 'bar', data: { labels: subs.map(d=>d.label), datasets: [{ data: subs.map(d=>d.value), backgroundColor: '#4ade80' }] }, options: cfgBar });
+const growth = [{"label": "VidaSana360", "value": 1}, {"label": "SaludLongevidad", "value": 0}, {"label": "FinanzasClara", "value": 0}, {"label": "CatBrothers", "value": 0}, {"label": "EspacioInteligente", "value": 0}, {"label": "MindWired", "value": 0}, {"label": "DarkFiles", "value": 0}, {"label": "DisasterDecode", "value": 1}, {"label": "CashCafe", "value": 0}, {"label": "DonVladys", "value": 0}];
+new Chart(document.getElementById('cGrowth_7'), { type: 'bar', data: { labels: growth.map(d=>d.label), datasets: [{ data: growth.map(d=>d.value), backgroundColor: growth.map(d=>d.value>=0?'#4ade80':'#f87171') }] }, options: cfgBar });
+const webs = [{"label": "vidasana360", "clicks": 0, "imp": 3}, {"label": "saludlongevidad", "clicks": 0, "imp": 2}, {"label": "finanzasclara", "clicks": 0, "imp": 11}, {"label": "catbrothers", "clicks": 0, "imp": 29}, {"label": "espaciointeligente", "clicks": 0, "imp": 13}, {"label": "cashcafe", "clicks": 0, "imp": 15}];
+new Chart(document.getElementById('cWebs_7'), { type: 'bar', data: { labels: webs.map(d=>d.label), datasets: [
+  { label: 'Clicks', data: webs.map(d=>d.clicks), backgroundColor: '#4ade80' },
+  { label: 'Imp/100', data: webs.map(d=>d.imp/100), backgroundColor: '#60a5fa' },
+] }, options: { scales: cfgBar.scales } });
+</script>
+</div><div id="panel-28" class="panel" style="display:none">
+
+<div class="summary">
+<div class="stat"><b>400</b><span>Subs YT totales</span><div class="delta good">+208 (28d)</div></div>
+<div class="stat"><b>139,781</b><span>Views YT 28d</span><div class="delta sub">Total: 154,820</div></div>
+<div class="stat"><b>693</b><span>Videos subidos</span><div class="delta sub">~26.7/día</div></div>
+<div class="stat"><b>613</b><span>Artículos webs</span><div class="delta sub">52 commits esta sem</div></div>
+<div class="stat"><b>2</b><span>Clicks SEO 28d</span><div class="delta sub">114 impressions</div></div>
+</div>
+
+<h2>💰 Revenue Proyección (mensual estimado)</h2>
+<div class="grid3">
+<div class="card revenue-card"><h3>YouTube AdSense (cuando monetice)</h3><div class="num">$0</div><span class="sub">Solo canales con 1k+ subs</span></div>
+<div class="card revenue-card"><h3>Web AdSense (proyectado)</h3><div class="num">$1</div><span class="sub">~$0.5/click orgánico</span></div>
+<div class="card revenue-card"><h3>Amazon Afiliados</h3><div class="num">$2</div><span class="sub">1% CTR × $30 × 5% comm</span></div>
+</div>
+<div class="card" style="margin-top:12px;text-align:center">
+<h3>TOTAL ESTIMADO/MES</h3>
+<div style="font-size:48px;color:#4ade80;font-weight:bold">$3</div>
+<span class="sub">Proyección si todo monetizado HOY (la mayoría aún no elegible)</span>
+</div>
+
+<h2>📺 YouTube — Canales (ordenados por subs)</h2>
+<div class="card">
+<table>
+<thead><tr><th>Canal</th><th>Subs</th><th>Δ 28d</th><th>Views 28d</th><th>Watch min</th><th>Ret</th><th>Videos</th><th>YPP Goal</th></tr></thead>
+<tbody><tr>
+            <td><b>VidaSana360</b><br><span class="sub">2013-12-20</span></td>
+            <td>188</td>
+            <td class="good">+70</td>
+            <td>44,848</td>
+            <td>6,019</td>
+            <td>67%</td>
+            <td>96</td>
+            <td><div class="progress"><div class="bar" style="width:18.8%"></div></div><span class="sub">18% YPP</span></td>
+        </tr><tr>
+            <td><b>CatBrothers</b><br><span class="sub">2022-12-11</span></td>
+            <td>102</td>
+            <td class="good">+32</td>
+            <td>12,586</td>
+            <td>2,869</td>
+            <td>38%</td>
+            <td>232</td>
+            <td><div class="progress"><div class="bar" style="width:10.2%"></div></div><span class="sub">10% YPP</span></td>
+        </tr><tr>
+            <td><b>SaludLongevidad</b><br><span class="sub">2026-04-23</span></td>
+            <td>62</td>
+            <td class="good">+62</td>
+            <td>30,983</td>
+            <td>3,504</td>
+            <td>62%</td>
+            <td>85</td>
+            <td><div class="progress"><div class="bar" style="width:6.2%"></div></div><span class="sub">6% YPP</span></td>
+        </tr><tr>
+            <td><b>EspacioInteligente</b><br><span class="sub">2026-04-27</span></td>
+            <td>28</td>
+            <td class="good">+28</td>
+            <td>36,790</td>
+            <td>3,544</td>
+            <td>49%</td>
+            <td>105</td>
+            <td><div class="progress"><div class="bar" style="width:2.8000000000000003%"></div></div><span class="sub">2% YPP</span></td>
+        </tr><tr>
+            <td><b>FinanzasClara</b><br><span class="sub">2026-04-23</span></td>
+            <td>6</td>
+            <td class="good">+6</td>
+            <td>6,908</td>
+            <td>361</td>
+            <td>34%</td>
+            <td>97</td>
+            <td><div class="progress"><div class="bar" style="width:0.6%"></div></div><span class="sub">0% YPP</span></td>
+        </tr><tr>
+            <td><b>DisasterDecode</b><br><span class="sub">2026-04-23</span></td>
+            <td>5</td>
+            <td class="good">+4</td>
+            <td>3,417</td>
+            <td>1,256</td>
+            <td>22%</td>
+            <td>18</td>
+            <td><div class="progress"><div class="bar" style="width:0.5%"></div></div><span class="sub">0% YPP</span></td>
+        </tr><tr>
+            <td><b>CashCafe</b><br><span class="sub">2022-11-23</span></td>
+            <td>4</td>
+            <td class="good">+1</td>
+            <td>61</td>
+            <td>104</td>
+            <td>16%</td>
+            <td>22</td>
+            <td><div class="progress"><div class="bar" style="width:0.4%"></div></div><span class="sub">0% YPP</span></td>
+        </tr><tr>
+            <td><b>DarkFiles</b><br><span class="sub">2026-04-23</span></td>
+            <td>3</td>
+            <td class="good">+3</td>
+            <td>3,249</td>
+            <td>287</td>
+            <td>24%</td>
+            <td>17</td>
+            <td><div class="progress"><div class="bar" style="width:0.3%"></div></div><span class="sub">0% YPP</span></td>
+        </tr><tr>
+            <td><b>MindWired</b><br><span class="sub">2026-04-23</span></td>
+            <td>2</td>
+            <td class="good">+2</td>
+            <td>494</td>
+            <td>211</td>
+            <td>18%</td>
+            <td>15</td>
+            <td><div class="progress"><div class="bar" style="width:0.2%"></div></div><span class="sub">0% YPP</span></td>
+        </tr><tr>
+            <td><b>DonVladys</b><br><span class="sub">2026-05-07</span></td>
+            <td>0</td>
+            <td class="neutral">+0</td>
+            <td>445</td>
+            <td>75</td>
+            <td>16%</td>
+            <td>6</td>
+            <td><div class="progress"><div class="bar" style="width:0.0%"></div></div><span class="sub">0% YPP</span></td>
+        </tr></tbody>
+</table>
+</div>
+
+<div class="grid">
+<div class="card"><h3>Subs Totales</h3><canvas id="cSubs_28"></canvas></div>
+<div class="card"><h3>Crecimiento 28d</h3><canvas id="cGrowth_28"></canvas></div>
+</div>
+
+<h2>🌐 Webs — Search Console (ordenadas por clicks)</h2>
+<div class="card">
+<table>
+<thead><tr><th>Web</th><th>Artículos</th><th>Clicks 28d</th><th>Impressions</th><th>CTR</th><th>Posición avg</th></tr></thead>
+<tbody><tr>
+            <td><b>cashcafe</b></td>
+            <td>79</td>
+            <td>2</td>
+            <td>45</td>
+            <td>4.44%</td>
+            <td>5.2</td>
+        </tr><tr>
+            <td><b>vidasana360</b></td>
+            <td>109</td>
+            <td>0</td>
+            <td>4</td>
+            <td>0.00%</td>
+            <td>17.2</td>
+        </tr><tr>
+            <td><b>saludlongevidad</b></td>
+            <td>109</td>
+            <td>0</td>
+            <td>2</td>
+            <td>0.00%</td>
+            <td>23.0</td>
+        </tr><tr>
+            <td><b>finanzasclara</b></td>
+            <td>109</td>
+            <td>0</td>
+            <td>19</td>
+            <td>0.00%</td>
+            <td>71.0</td>
+        </tr><tr>
+            <td><b>catbrothers</b></td>
+            <td>103</td>
+            <td>0</td>
+            <td>31</td>
+            <td>0.00%</td>
+            <td>75.1</td>
+        </tr><tr>
+            <td><b>espaciointeligente</b></td>
+            <td>104</td>
+            <td>0</td>
+            <td>13</td>
+            <td>0.00%</td>
+            <td>60.0</td>
+        </tr></tbody>
+</table>
+</div>
+
+<div class="grid">
+<div class="card"><h3>Tráfico Web 28d</h3><canvas id="cWebs_28"></canvas></div>
+<div class="card">
+<h3>🔍 Top queries SERP (todas las webs)</h3>
+<table style="font-size:11px">
+<thead><tr><th>Web</th><th>Query</th><th>C</th><th>Imp</th><th>Pos</th></tr></thead>
+<tbody><tr><td>catbrothers</td><td>best cat toys for bored cats</td><td>0</td><td>6</td><td>85.0</td></tr><tr><td>vidasana360</td><td>caminar 8000 pasos al dia</td><td>0</td><td>2</td><td>11.0</td></tr><tr><td>saludlongevidad</td><td>optimizacion del ciclo circadiano</td><td>0</td><td>2</td><td>23.0</td></tr><tr><td>finanzasclara</td><td>cost averaging calculator</td><td>0</td><td>2</td><td>60.5</td></tr><tr><td>finanzasclara</td><td>dca investing</td><td>0</td><td>2</td><td>71.0</td></tr><tr><td>catbrothers</td><td>best cat toys for bored indoor cats</td><td>0</td><td>2</td><td>85.5</td></tr><tr><td>cashcafe</td><td>cash cafe</td><td>1</td><td>2</td><td>2.5</td></tr><tr><td>cashcafe</td><td>cash café</td><td>1</td><td>2</td><td>1.5</td></tr><tr><td>vidasana360</td><td>caminar 8000 pasos diarios</td><td>0</td><td>1</td><td>11.0</td></tr><tr><td>vidasana360</td><td>sopa antiinflamatoria</td><td>0</td><td>1</td><td>36.0</td></tr></tbody>
+</table>
+</div>
+</div>
+
+<h2>🎯 Highlights del Período</h2>
+<div class="card">
+<table>
+<thead><tr><th>Métrica</th><th>Ganador</th><th>Valor</th></tr></thead>
+<tbody>
+<tr><td>🔥 Canal top views 28d</td><td>VidaSana360</td><td>44,848 views</td></tr><tr><td>🚀 Más nuevos subs 28d</td><td>VidaSana360</td><td>+70 subs</td></tr>
+
+<tr><td>📚 Más artículos publicados</td><td>vidasana360</td><td>109 artículos</td></tr>
+<tr><td>⚡ Commits totales última semana</td><td>youtube-bot + 5 webs</td><td>223 commits</td></tr>
+</tbody>
+</table>
+</div>
+
+<h2>💎 Monetización Status</h2>
+<div class="card">
+<table>
+<thead><tr><th>Programa</th><th>Requisito</th><th>Status</th><th>Earnings estimated/mes</th></tr></thead>
+<tbody>
+<tr><td>YT Partner Program (LF)</td><td>1k subs + 4000h watch/12m</td><td><span class="badge b-warn">VidaSana 188/1000</span></td><td>$0 (locked)</td></tr>
+<tr><td>YT Partner Program (Shorts)</td><td>1k subs + 10M views/90d</td><td><span class="badge b-bad">muy lejos</span></td><td>$0 (locked)</td></tr>
+<tr><td>Amazon Asociados ES</td><td>3 ventas/180d</td><td><span class="badge b-good">vladys-21 activo</span></td><td>~$1</td></tr>
+<tr><td>Amazon Asociados US</td><td>3 ventas/180d</td><td><span class="badge b-good">vds96-20 activo</span></td><td>~$1</td></tr>
+<tr><td>Google AdSense (webs)</td><td>~20 art + tráfico orgánico</td><td><span class="badge b-warn">esperar 1-3m crawl</span></td><td>$1 (cuando apruebe)</td></tr>
+</tbody>
+</table>
+</div>
+
+<script>
+const cfgBar = { plugins: { legend: { display: false } }, scales: { y: { ticks: { color: '#94a3b8' } }, x: { ticks: { color: '#94a3b8' } } } };
+const subs = [{"label": "VidaSana360", "value": 188}, {"label": "SaludLongevidad", "value": 62}, {"label": "FinanzasClara", "value": 6}, {"label": "CatBrothers", "value": 102}, {"label": "EspacioInteligente", "value": 28}, {"label": "MindWired", "value": 2}, {"label": "DarkFiles", "value": 3}, {"label": "DisasterDecode", "value": 5}, {"label": "CashCafe", "value": 4}, {"label": "DonVladys", "value": 0}];
+new Chart(document.getElementById('cSubs_28'), { type: 'bar', data: { labels: subs.map(d=>d.label), datasets: [{ data: subs.map(d=>d.value), backgroundColor: '#4ade80' }] }, options: cfgBar });
+const growth = [{"label": "VidaSana360", "value": 70}, {"label": "SaludLongevidad", "value": 62}, {"label": "FinanzasClara", "value": 6}, {"label": "CatBrothers", "value": 32}, {"label": "EspacioInteligente", "value": 28}, {"label": "MindWired", "value": 2}, {"label": "DarkFiles", "value": 3}, {"label": "DisasterDecode", "value": 4}, {"label": "CashCafe", "value": 1}, {"label": "DonVladys", "value": 0}];
+new Chart(document.getElementById('cGrowth_28'), { type: 'bar', data: { labels: growth.map(d=>d.label), datasets: [{ data: growth.map(d=>d.value), backgroundColor: growth.map(d=>d.value>=0?'#4ade80':'#f87171') }] }, options: cfgBar });
+const webs = [{"label": "vidasana360", "clicks": 0, "imp": 4}, {"label": "saludlongevidad", "clicks": 0, "imp": 2}, {"label": "finanzasclara", "clicks": 0, "imp": 19}, {"label": "catbrothers", "clicks": 0, "imp": 31}, {"label": "espaciointeligente", "clicks": 0, "imp": 13}, {"label": "cashcafe", "clicks": 2, "imp": 45}];
+new Chart(document.getElementById('cWebs_28'), { type: 'bar', data: { labels: webs.map(d=>d.label), datasets: [
+  { label: 'Clicks', data: webs.map(d=>d.clicks), backgroundColor: '#4ade80' },
+  { label: 'Imp/100', data: webs.map(d=>d.imp/100), backgroundColor: '#60a5fa' },
+] }, options: { scales: cfgBar.scales } });
+</script>
+</div><div id="panel-90" class="panel" style="display:none">
+
+<div class="summary">
+<div class="stat"><b>400</b><span>Subs YT totales</span><div class="delta good">+208 (90d)</div></div>
+<div class="stat"><b>142,746</b><span>Views YT 90d</span><div class="delta sub">Total: 154,820</div></div>
+<div class="stat"><b>693</b><span>Videos subidos</span><div class="delta sub">~26.7/día</div></div>
+<div class="stat"><b>613</b><span>Artículos webs</span><div class="delta sub">52 commits esta sem</div></div>
+<div class="stat"><b>2</b><span>Clicks SEO 90d</span><div class="delta sub">114 impressions</div></div>
+</div>
+
+<h2>💰 Revenue Proyección (mensual estimado)</h2>
+<div class="grid3">
+<div class="card revenue-card"><h3>YouTube AdSense (cuando monetice)</h3><div class="num">$0</div><span class="sub">Solo canales con 1k+ subs</span></div>
+<div class="card revenue-card"><h3>Web AdSense (proyectado)</h3><div class="num">$1</div><span class="sub">~$0.5/click orgánico</span></div>
+<div class="card revenue-card"><h3>Amazon Afiliados</h3><div class="num">$2</div><span class="sub">1% CTR × $30 × 5% comm</span></div>
+</div>
+<div class="card" style="margin-top:12px;text-align:center">
+<h3>TOTAL ESTIMADO/MES</h3>
+<div style="font-size:48px;color:#4ade80;font-weight:bold">$3</div>
+<span class="sub">Proyección si todo monetizado HOY (la mayoría aún no elegible)</span>
+</div>
+
+<h2>📺 YouTube — Canales (ordenados por subs)</h2>
+<div class="card">
+<table>
+<thead><tr><th>Canal</th><th>Subs</th><th>Δ 90d</th><th>Views 90d</th><th>Watch min</th><th>Ret</th><th>Videos</th><th>YPP Goal</th></tr></thead>
+<tbody><tr>
+            <td><b>VidaSana360</b><br><span class="sub">2013-12-20</span></td>
+            <td>188</td>
+            <td class="good">+70</td>
+            <td>47,129</td>
+            <td>6,209</td>
+            <td>67%</td>
+            <td>96</td>
+            <td><div class="progress"><div class="bar" style="width:18.8%"></div></div><span class="sub">18% YPP</span></td>
+        </tr><tr>
+            <td><b>CatBrothers</b><br><span class="sub">2022-12-11</span></td>
+            <td>102</td>
+            <td class="good">+32</td>
+            <td>12,635</td>
+            <td>2,873</td>
+            <td>35%</td>
+            <td>232</td>
+            <td><div class="progress"><div class="bar" style="width:10.2%"></div></div><span class="sub">10% YPP</span></td>
+        </tr><tr>
+            <td><b>SaludLongevidad</b><br><span class="sub">2026-04-23</span></td>
+            <td>62</td>
+            <td class="good">+62</td>
+            <td>30,986</td>
+            <td>3,504</td>
+            <td>65%</td>
+            <td>85</td>
+            <td><div class="progress"><div class="bar" style="width:6.2%"></div></div><span class="sub">6% YPP</span></td>
+        </tr><tr>
+            <td><b>EspacioInteligente</b><br><span class="sub">2026-04-27</span></td>
+            <td>28</td>
+            <td class="good">+28</td>
+            <td>36,790</td>
+            <td>3,544</td>
+            <td>49%</td>
+            <td>105</td>
+            <td><div class="progress"><div class="bar" style="width:2.8000000000000003%"></div></div><span class="sub">2% YPP</span></td>
+        </tr><tr>
+            <td><b>FinanzasClara</b><br><span class="sub">2026-04-23</span></td>
+            <td>6</td>
+            <td class="good">+6</td>
+            <td>7,105</td>
+            <td>367</td>
+            <td>34%</td>
+            <td>97</td>
+            <td><div class="progress"><div class="bar" style="width:0.6%"></div></div><span class="sub">0% YPP</span></td>
+        </tr><tr>
+            <td><b>DisasterDecode</b><br><span class="sub">2026-04-23</span></td>
+            <td>5</td>
+            <td class="good">+4</td>
+            <td>3,627</td>
+            <td>1,262</td>
+            <td>22%</td>
+            <td>18</td>
+            <td><div class="progress"><div class="bar" style="width:0.5%"></div></div><span class="sub">0% YPP</span></td>
+        </tr><tr>
+            <td><b>CashCafe</b><br><span class="sub">2022-11-23</span></td>
+            <td>4</td>
+            <td class="good">+1</td>
+            <td>61</td>
+            <td>104</td>
+            <td>16%</td>
+            <td>22</td>
+            <td><div class="progress"><div class="bar" style="width:0.4%"></div></div><span class="sub">0% YPP</span></td>
+        </tr><tr>
+            <td><b>DarkFiles</b><br><span class="sub">2026-04-23</span></td>
+            <td>3</td>
+            <td class="good">+3</td>
+            <td>3,473</td>
+            <td>294</td>
+            <td>23%</td>
+            <td>17</td>
+            <td><div class="progress"><div class="bar" style="width:0.3%"></div></div><span class="sub">0% YPP</span></td>
+        </tr><tr>
+            <td><b>MindWired</b><br><span class="sub">2026-04-23</span></td>
+            <td>2</td>
+            <td class="good">+2</td>
+            <td>495</td>
+            <td>211</td>
+            <td>18%</td>
+            <td>15</td>
+            <td><div class="progress"><div class="bar" style="width:0.2%"></div></div><span class="sub">0% YPP</span></td>
+        </tr><tr>
+            <td><b>DonVladys</b><br><span class="sub">2026-05-07</span></td>
+            <td>0</td>
+            <td class="neutral">+0</td>
+            <td>445</td>
+            <td>75</td>
+            <td>16%</td>
+            <td>6</td>
+            <td><div class="progress"><div class="bar" style="width:0.0%"></div></div><span class="sub">0% YPP</span></td>
+        </tr></tbody>
+</table>
+</div>
+
+<div class="grid">
+<div class="card"><h3>Subs Totales</h3><canvas id="cSubs_90"></canvas></div>
+<div class="card"><h3>Crecimiento 90d</h3><canvas id="cGrowth_90"></canvas></div>
+</div>
+
+<h2>🌐 Webs — Search Console (ordenadas por clicks)</h2>
+<div class="card">
+<table>
+<thead><tr><th>Web</th><th>Artículos</th><th>Clicks 90d</th><th>Impressions</th><th>CTR</th><th>Posición avg</th></tr></thead>
+<tbody><tr>
+            <td><b>cashcafe</b></td>
+            <td>79</td>
+            <td>2</td>
+            <td>45</td>
+            <td>4.44%</td>
+            <td>5.2</td>
+        </tr><tr>
+            <td><b>vidasana360</b></td>
+            <td>109</td>
+            <td>0</td>
+            <td>4</td>
+            <td>0.00%</td>
+            <td>17.2</td>
+        </tr><tr>
+            <td><b>saludlongevidad</b></td>
+            <td>109</td>
+            <td>0</td>
+            <td>2</td>
+            <td>0.00%</td>
+            <td>23.0</td>
+        </tr><tr>
+            <td><b>finanzasclara</b></td>
+            <td>109</td>
+            <td>0</td>
+            <td>19</td>
+            <td>0.00%</td>
+            <td>71.0</td>
+        </tr><tr>
+            <td><b>catbrothers</b></td>
+            <td>103</td>
+            <td>0</td>
+            <td>31</td>
+            <td>0.00%</td>
+            <td>75.1</td>
+        </tr><tr>
+            <td><b>espaciointeligente</b></td>
+            <td>104</td>
+            <td>0</td>
+            <td>13</td>
+            <td>0.00%</td>
+            <td>60.0</td>
+        </tr></tbody>
+</table>
+</div>
+
+<div class="grid">
+<div class="card"><h3>Tráfico Web 90d</h3><canvas id="cWebs_90"></canvas></div>
+<div class="card">
+<h3>🔍 Top queries SERP (todas las webs)</h3>
+<table style="font-size:11px">
+<thead><tr><th>Web</th><th>Query</th><th>C</th><th>Imp</th><th>Pos</th></tr></thead>
+<tbody><tr><td>catbrothers</td><td>best cat toys for bored cats</td><td>0</td><td>6</td><td>85.0</td></tr><tr><td>vidasana360</td><td>caminar 8000 pasos al dia</td><td>0</td><td>2</td><td>11.0</td></tr><tr><td>saludlongevidad</td><td>optimizacion del ciclo circadiano</td><td>0</td><td>2</td><td>23.0</td></tr><tr><td>finanzasclara</td><td>cost averaging calculator</td><td>0</td><td>2</td><td>60.5</td></tr><tr><td>finanzasclara</td><td>dca investing</td><td>0</td><td>2</td><td>71.0</td></tr><tr><td>catbrothers</td><td>best cat toys for bored indoor cats</td><td>0</td><td>2</td><td>85.5</td></tr><tr><td>cashcafe</td><td>cash cafe</td><td>1</td><td>2</td><td>2.5</td></tr><tr><td>cashcafe</td><td>cash café</td><td>1</td><td>2</td><td>1.5</td></tr><tr><td>vidasana360</td><td>caminar 8000 pasos diarios</td><td>0</td><td>1</td><td>11.0</td></tr><tr><td>vidasana360</td><td>sopa antiinflamatoria</td><td>0</td><td>1</td><td>36.0</td></tr></tbody>
+</table>
+</div>
+</div>
+
+<h2>🎯 Highlights del Período</h2>
+<div class="card">
+<table>
+<thead><tr><th>Métrica</th><th>Ganador</th><th>Valor</th></tr></thead>
+<tbody>
+<tr><td>🔥 Canal top views 90d</td><td>VidaSana360</td><td>47,129 views</td></tr><tr><td>🚀 Más nuevos subs 90d</td><td>VidaSana360</td><td>+70 subs</td></tr>
+
+<tr><td>📚 Más artículos publicados</td><td>vidasana360</td><td>109 artículos</td></tr>
+<tr><td>⚡ Commits totales última semana</td><td>youtube-bot + 5 webs</td><td>223 commits</td></tr>
+</tbody>
+</table>
+</div>
+
+<h2>💎 Monetización Status</h2>
+<div class="card">
+<table>
+<thead><tr><th>Programa</th><th>Requisito</th><th>Status</th><th>Earnings estimated/mes</th></tr></thead>
+<tbody>
+<tr><td>YT Partner Program (LF)</td><td>1k subs + 4000h watch/12m</td><td><span class="badge b-warn">VidaSana 188/1000</span></td><td>$0 (locked)</td></tr>
+<tr><td>YT Partner Program (Shorts)</td><td>1k subs + 10M views/90d</td><td><span class="badge b-bad">muy lejos</span></td><td>$0 (locked)</td></tr>
+<tr><td>Amazon Asociados ES</td><td>3 ventas/180d</td><td><span class="badge b-good">vladys-21 activo</span></td><td>~$1</td></tr>
+<tr><td>Amazon Asociados US</td><td>3 ventas/180d</td><td><span class="badge b-good">vds96-20 activo</span></td><td>~$1</td></tr>
+<tr><td>Google AdSense (webs)</td><td>~20 art + tráfico orgánico</td><td><span class="badge b-warn">esperar 1-3m crawl</span></td><td>$1 (cuando apruebe)</td></tr>
+</tbody>
+</table>
+</div>
+
+<script>
+const cfgBar = { plugins: { legend: { display: false } }, scales: { y: { ticks: { color: '#94a3b8' } }, x: { ticks: { color: '#94a3b8' } } } };
+const subs = [{"label": "VidaSana360", "value": 188}, {"label": "SaludLongevidad", "value": 62}, {"label": "FinanzasClara", "value": 6}, {"label": "CatBrothers", "value": 102}, {"label": "EspacioInteligente", "value": 28}, {"label": "MindWired", "value": 2}, {"label": "DarkFiles", "value": 3}, {"label": "DisasterDecode", "value": 5}, {"label": "CashCafe", "value": 4}, {"label": "DonVladys", "value": 0}];
+new Chart(document.getElementById('cSubs_90'), { type: 'bar', data: { labels: subs.map(d=>d.label), datasets: [{ data: subs.map(d=>d.value), backgroundColor: '#4ade80' }] }, options: cfgBar });
+const growth = [{"label": "VidaSana360", "value": 70}, {"label": "SaludLongevidad", "value": 62}, {"label": "FinanzasClara", "value": 6}, {"label": "CatBrothers", "value": 32}, {"label": "EspacioInteligente", "value": 28}, {"label": "MindWired", "value": 2}, {"label": "DarkFiles", "value": 3}, {"label": "DisasterDecode", "value": 4}, {"label": "CashCafe", "value": 1}, {"label": "DonVladys", "value": 0}];
+new Chart(document.getElementById('cGrowth_90'), { type: 'bar', data: { labels: growth.map(d=>d.label), datasets: [{ data: growth.map(d=>d.value), backgroundColor: growth.map(d=>d.value>=0?'#4ade80':'#f87171') }] }, options: cfgBar });
+const webs = [{"label": "vidasana360", "clicks": 0, "imp": 4}, {"label": "saludlongevidad", "clicks": 0, "imp": 2}, {"label": "finanzasclara", "clicks": 0, "imp": 19}, {"label": "catbrothers", "clicks": 0, "imp": 31}, {"label": "espaciointeligente", "clicks": 0, "imp": 13}, {"label": "cashcafe", "clicks": 2, "imp": 45}];
+new Chart(document.getElementById('cWebs_90'), { type: 'bar', data: { labels: webs.map(d=>d.label), datasets: [
+  { label: 'Clicks', data: webs.map(d=>d.clicks), backgroundColor: '#4ade80' },
+  { label: 'Imp/100', data: webs.map(d=>d.imp/100), backgroundColor: '#60a5fa' },
+] }, options: { scales: cfgBar.scales } });
+</script>
+</div>
+<script>
+function switchTab(period) {
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  document.querySelector(`[data-period="${period}"]`).classList.add('active');
+  document.querySelectorAll('.panel').forEach(p => p.style.display = 'none');
+  document.getElementById(`panel-${period}`).style.display = 'block';
+  // Re-init charts inside panel
+  setTimeout(() => initChartsInPanel(period), 50);
+}
+function initChartsInPanel(period) {
+  // Trigger window resize so Chart.js re-renders
+  window.dispatchEvent(new Event('resize'));
+}
+</script></body></html>

@@ -1,0 +1,320 @@
+{
+  "vidasana360": {
+    "OK": [
+      {
+        "url": "https://vida-sana-360.com",
+        "verdict": "PASS",
+        "coverage": "Submitted and indexed",
+        "google_canonical": "https://vida-sana-360.com",
+        "user_canonical": "https://vida-sana-360.com/",
+        "last_crawl": "2026-05-15",
+        "indexing": "INDEXING_ALLOWED"
+      },
+      {
+        "url": "https://vida-sana-360.com/blog/alimentos-que-afectan-el-estado-de-animo",
+        "verdict": "PASS",
+        "coverage": "Submitted and indexed",
+        "google_canonical": "https://vida-sana-360.com/blog/alimentos-que-afectan-el-estado-de-animo",
+        "user_canonical": "https://vida-sana-360.com/blog/alimentos-que-afectan-el-estado-de-animo",
+        "last_crawl": "2026-05-15",
+        "indexing": "INDEXING_ALLOWED"
+      }
+    ],
+    "UNKNOWN_OTHER": [
+      {
+        "url": "https://vida-sana-360.com/blog",
+        "verdict": "NEUTRAL",
+        "coverage": "Discovered - currently not indexed",
+        "google_canonical": "",
+        "user_canonical": "",
+        "last_crawl": "",
+        "indexing": "INDEXING_STATE_UNSPECIFIED"
+      },
+      {
+        "url": "https://vida-sana-360.com/blog/avena-vs-arroz-integral",
+        "verdict": "NEUTRAL",
+        "coverage": "Discovered - currently not indexed",
+        "google_canonical": "",
+        "user_canonical": "",
+        "last_crawl": "",
+        "indexing": "INDEXING_STATE_UNSPECIFIED"
+      }
+    ],
+    "UNKNOWN_REQUEST_INDEX": [
+      {
+        "url": "https://vida-sana-360.com/blog/almendras-vs-nueces-de-macadamia",
+        "verdict": "NEUTRAL",
+        "coverage": "URL is unknown to Google",
+        "google_canonical": "",
+        "user_canonical": "",
+        "last_crawl": "",
+        "indexing": "INDEXING_STATE_UNSPECIFIED"
+      }
+    ]
+  },
+  "saludlongevidad": {
+    "OK": [
+      {
+        "url": "https://saludlongevidad.org",
+        "verdict": "PASS",
+        "coverage": "Submitted and indexed",
+        "google_canonical": "https://saludlongevidad.org",
+        "user_canonical": "https://saludlongevidad.org/",
+        "last_crawl": "2026-05-12",
+        "indexing": "INDEXING_ALLOWED"
+      }
+    ],
+    "UNKNOWN_OTHER": [
+      {
+        "url": "https://saludlongevidad.org/blog",
+        "verdict": "NEUTRAL",
+        "coverage": "Discovered - currently not indexed",
+        "google_canonical": "",
+        "user_canonical": "",
+        "last_crawl": "",
+        "indexing": "INDEXING_STATE_UNSPECIFIED"
+      },
+      {
+        "url": "https://saludlongevidad.org/blog/alimentacion-antiinflamatoria-2026-05-11",
+        "verdict": "NEUTRAL",
+        "coverage": "Discovered - currently not indexed",
+        "google_canonical": "",
+        "user_canonical": "",
+        "last_crawl": "",
+        "indexing": "INDEXING_STATE_UNSPECIFIED"
+      }
+    ],
+    "UNKNOWN_REQUEST_INDEX": [
+      {
+        "url": "https://saludlongevidad.org/blog/activacion-de-sirtuinas-para-longevidad",
+        "verdict": "NEUTRAL",
+        "coverage": "URL is unknown to Google",
+        "google_canonical": "",
+        "user_canonical": "",
+        "last_crawl": "",
+        "indexing": "INDEXING_STATE_UNSPECIFIED"
+      },
+      {
+        "url": "https://saludlongevidad.org/blog/alimentacion-antiinflamatoria",
+        "verdict": "NEUTRAL",
+        "coverage": "URL is unknown to Google",
+        "google_canonical": "",
+        "user_canonical": "",
+        "last_crawl": "",
+        "indexing": "INDEXING_STATE_UNSPECIFIED"
+      }
+    ]
+  },
+  "finanzasclara": {
+    "OK": [
+      {
+        "url": "https://finanzasclara.uk",
+        "verdict": "PASS",
+        "coverage": "Submitted and indexed",
+        "google_canonical": "https://finanzasclara.uk",
+        "user_canonical": "https://finanzasclara.uk/",
+        "last_crawl": "2026-04-27",
+        "indexing": "INDEXING_ALLOWED"
+      }
+    ],
+    "UNKNOWN_OTHER": [
+      {
+        "url": "https://finanzasclara.uk/about",
+        "verdict": "NEUTRAL",
+        "coverage": "Discovered - currently not indexed",
+        "google_canonical": "",
+        "user_canonical": "",
+        "last_crawl": "",
+        "indexing": "INDEXING_STATE_UNSPECIFIED"
+      },
+      {
+        "url": "https://finanzasclara.uk/blog/5-money-habits-that-keep-you-broke",
+        "verdict": "NEUTRAL",
+        "coverage": "Discovered - currently not indexed",
+        "google_canonical": "",
+        "user_canonical": "",
+        "last_crawl": "",
+        "indexing": "INDEXING_STATE_UNSPECIFIED"
+      }
+    ],
+    "UNKNOWN_REQUEST_INDEX": [
+      {
+        "url": "https://finanzasclara.uk/blog",
+        "verdict": "NEUTRAL",
+        "coverage": "URL is unknown to Google",
+        "google_canonical": "",
+        "user_canonical": "",
+        "last_crawl": "",
+        "indexing": "INDEXING_STATE_UNSPECIFIED"
+      },
+      {
+        "url": "https://finanzasclara.uk/blog/30-day-savings-challenge-for-beginners",
+        "verdict": "NEUTRAL",
+        "coverage": "URL is unknown to Google",
+        "google_canonical": "",
+        "user_canonical": "",
+        "last_crawl": "",
+        "indexing": "INDEXING_STATE_UNSPECIFIED"
+      }
+    ]
+  },
+  "catbrothers": {
+    "VERCEL_HIJACK": [
+      {
+        "url": "https://catbrothers.uk",
+        "verdict": "NEUTRAL",
+        "coverage": "Duplicate, Google chose different canonical than user",
+        "google_canonical": "https://catbrothers-web.vercel.app/",
+        "user_canonical": "https://catbrothers.uk/",
+        "last_crawl": "2026-05-06",
+        "indexing": "INDEXING_ALLOWED"
+      }
+    ],
+    "UNKNOWN_OTHER": [
+      {
+        "url": "https://catbrothers.uk/about",
+        "verdict": "NEUTRAL",
+        "coverage": "Discovered - currently not indexed",
+        "google_canonical": "",
+        "user_canonical": "",
+        "last_crawl": "",
+        "indexing": "INDEXING_STATE_UNSPECIFIED"
+      },
+      {
+        "url": "https://catbrothers.uk/blog/best-cat-carriers-for-air-travel",
+        "verdict": "NEUTRAL",
+        "coverage": "Discovered - currently not indexed",
+        "google_canonical": "",
+        "user_canonical": "",
+        "last_crawl": "",
+        "indexing": "INDEXING_STATE_UNSPECIFIED"
+      }
+    ],
+    "UNKNOWN_REQUEST_INDEX": [
+      {
+        "url": "https://catbrothers.uk/blog",
+        "verdict": "NEUTRAL",
+        "coverage": "URL is unknown to Google",
+        "google_canonical": "",
+        "user_canonical": "",
+        "last_crawl": "",
+        "indexing": "INDEXING_STATE_UNSPECIFIED"
+      },
+      {
+        "url": "https://catbrothers.uk/blog/armarkat-cat-tree-review",
+        "verdict": "NEUTRAL",
+        "coverage": "URL is unknown to Google",
+        "google_canonical": "",
+        "user_canonical": "",
+        "last_crawl": "",
+        "indexing": "INDEXING_STATE_UNSPECIFIED"
+      }
+    ]
+  },
+  "espaciointeligente": {
+    "OK": [
+      {
+        "url": "https://espaciointeligente.org",
+        "verdict": "PASS",
+        "coverage": "Submitted and indexed",
+        "google_canonical": "https://espaciointeligente.org",
+        "user_canonical": "https://espaciointeligente.org/",
+        "last_crawl": "2026-05-16",
+        "indexing": "INDEXING_ALLOWED"
+      }
+    ],
+    "UNKNOWN_REQUEST_INDEX": [
+      {
+        "url": "https://espaciointeligente.org/about",
+        "verdict": "NEUTRAL",
+        "coverage": "URL is unknown to Google",
+        "google_canonical": "",
+        "user_canonical": "",
+        "last_crawl": "",
+        "indexing": "INDEXING_STATE_UNSPECIFIED"
+      },
+      {
+        "url": "https://espaciointeligente.org/blog/alexa-vs-google-home-automation-comparison",
+        "verdict": "NEUTRAL",
+        "coverage": "URL is unknown to Google",
+        "google_canonical": "",
+        "user_canonical": "",
+        "last_crawl": "",
+        "indexing": "INDEXING_STATE_UNSPECIFIED"
+      }
+    ],
+    "UNKNOWN_OTHER": [
+      {
+        "url": "https://espaciointeligente.org/blog",
+        "verdict": "NEUTRAL",
+        "coverage": "Discovered - currently not indexed",
+        "google_canonical": "",
+        "user_canonical": "",
+        "last_crawl": "",
+        "indexing": "INDEXING_STATE_UNSPECIFIED"
+      },
+      {
+        "url": "https://espaciointeligente.org/blog/alexa-vs-google-home",
+        "verdict": "NEUTRAL",
+        "coverage": "Discovered - currently not indexed",
+        "google_canonical": "",
+        "user_canonical": "",
+        "last_crawl": "",
+        "indexing": "INDEXING_STATE_UNSPECIFIED"
+      }
+    ]
+  },
+  "cashcafe": {
+    "OK": [
+      {
+        "url": "https://cash-cafe.org",
+        "verdict": "PASS",
+        "coverage": "Submitted and indexed",
+        "google_canonical": "https://cash-cafe.org",
+        "user_canonical": "https://cash-cafe.org/",
+        "last_crawl": "2026-05-12",
+        "indexing": "INDEXING_ALLOWED"
+      }
+    ],
+    "UNKNOWN_REQUEST_INDEX": [
+      {
+        "url": "https://cash-cafe.org/about",
+        "verdict": "NEUTRAL",
+        "coverage": "URL is unknown to Google",
+        "google_canonical": "",
+        "user_canonical": "",
+        "last_crawl": "",
+        "indexing": "INDEXING_STATE_UNSPECIFIED"
+      },
+      {
+        "url": "https://cash-cafe.org/blog/accesorios-barista-esenciales",
+        "verdict": "NEUTRAL",
+        "coverage": "URL is unknown to Google",
+        "google_canonical": "",
+        "user_canonical": "",
+        "last_crawl": "",
+        "indexing": "INDEXING_STATE_UNSPECIFIED"
+      },
+      {
+        "url": "https://cash-cafe.org/blog/agua-para-cafe",
+        "verdict": "NEUTRAL",
+        "coverage": "URL is unknown to Google",
+        "google_canonical": "",
+        "user_canonical": "",
+        "last_crawl": "",
+        "indexing": "INDEXING_STATE_UNSPECIFIED"
+      }
+    ],
+    "UNKNOWN_OTHER": [
+      {
+        "url": "https://cash-cafe.org/blog",
+        "verdict": "NEUTRAL",
+        "coverage": "Discovered - currently not indexed",
+        "google_canonical": "",
+        "user_canonical": "",
+        "last_crawl": "",
+        "indexing": "INDEXING_STATE_UNSPECIFIED"
+      }
+    ]
+  }
+}

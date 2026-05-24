@@ -1,0 +1,32 @@
+{
+  "VidaSana360": {
+    "error": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DUC1A1eWE_SF41PoxP-QN14-g&startDate=2026-04-19&endDate=2026-05-17&metrics=views%2Cimpressions%2Cimpres"
+  },
+  "SaludLongevidad": {
+    "error": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DUC1mBckuujxxNmN5_Y470u7g&startDate=2026-04-19&endDate=2026-05-17&metrics=views%2Cimpressions%2Cimpres"
+  },
+  "FinanzasClara": {
+    "error": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DUCYpoCsH0PfmemRH8rkPgs3A&startDate=2026-04-19&endDate=2026-05-17&metrics=views%2Cimpressions%2Cimpres"
+  },
+  "CatBrothers": {
+    "error": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DUCes4Ocf7Sgd_uilXZ9FF9PQ&startDate=2026-04-19&endDate=2026-05-17&metrics=views%2Cimpressions%2Cimpres"
+  },
+  "EspacioInteligente": {
+    "error": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DUCzIZsTmq35IRXpBnHN7kRyA&startDate=2026-04-19&endDate=2026-05-17&metrics=views%2Cimpressions%2Cimpres"
+  },
+  "MindWired": {
+    "error": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DUC1qdFV_hbA32ctkVAGYbL-A&startDate=2026-04-19&endDate=2026-05-17&metrics=views%2Cimpressions%2Cimpres"
+  },
+  "DarkFiles": {
+    "error": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DUC7DVyHImdtXQXwBLc92oIZw&startDate=2026-04-19&endDate=2026-05-17&metrics=views%2Cimpressions%2Cimpres"
+  },
+  "DisasterDecode": {
+    "error": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DUCnb87dCI-yZgw-f481tK3ZA&startDate=2026-04-19&endDate=2026-05-17&metrics=views%2Cimpressions%2Cimpres"
+  },
+  "CashCafe": {
+    "error": "<HttpError 400 when requesting https://youtubeanalytics.googleapis.com/v2/reports?ids=channel%3D%3DUCerSZWHS28l0ZAgf-_dbByg&startDate=2026-04-19&endDate=2026-05-17&metrics=views%2Cimpressions%2Cimpres"
+  },
+  "DonVladys": {
+    "error": "('invalid_scope: Bad Request', {'error': 'invalid_scope', 'error_description': 'Bad Request'})"
+  }
+}

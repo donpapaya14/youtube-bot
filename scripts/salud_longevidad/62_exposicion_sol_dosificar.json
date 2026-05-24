@@ -1,0 +1,150 @@
+{
+  "id": 62,
+  "title": "💪 Exposición al Sol: Cómo Dosificar Sin Cáncer ni Déficit",
+  "description": "Sol y cáncer de piel, sol y vitamina D, sol y melanoma. La ciencia equilibra: 15 minutos al día protegen, una hora al mediodía dañan. Tipo de piel, latitud y temporada.\n\n#sol #vitaminaD #salud #cancer",
+  "tags": [
+    "sol",
+    "exposición solar",
+    "vitamina D",
+    "cancer piel",
+    "melanoma",
+    "salud",
+    "longevidad",
+    "fotoprotector",
+    "luz",
+    "dosis"
+  ],
+  "thumbnail_text": "SOL: DOSIS PERFECTA",
+  "segments": [
+    {
+      "voice": "El sol mata más personas por exceso que por defecto. Pero también mata por defecto, sobre todo en países nórdicos donde los déficits de vitamina D son endémicos. La dosis correcta de sol es probablemente uno de los temas peor explicados en consultas dermatológicas. Hoy te traigo la ciencia equilibrada: cuánto sol necesitas, cuánto es peligroso, y cómo distinguirlos.",
+      "visual": "sun exposure balance vitamin D skin cancer dosing science",
+      "duration": 25
+    },
+    {
+      "voice": "Empecemos con datos reales. Un estudio del Karolinska Institute publicado en el Journal of Internal Medicine en 2014 con 29.518 mujeres seguidas 20 años encontró que las mujeres que evitaban el sol tenían el doble de mortalidad por cualquier causa que las que se exponían moderadamente. Evitar el sol totalmente es perjudicial. La dosis cero no es la respuesta correcta.",
+      "visual": "Karolinska sun avoidance mortality women 20 years study",
+      "duration": 25
+    },
+    {
+      "voice": "Aquí está el truco: el sol tiene dos tipos de radiación ultravioleta. UVB y UVA. La UVB sintetiza la vitamina D y produce las quemaduras. La UVA penetra más profundo, envejece la piel y aumenta el riesgo de melanoma. Los fotoprotectores filtran principalmente UVB, lo que reduce la quemadura pero no la dosis de UVA, salvo los protectores de amplio espectro.",
+      "visual": "UVA UVB radiation difference penetration skin cancer aging",
+      "duration": 25
+    },
+    {
+      "voice": "El consenso actual de la Organización Mundial de la Salud: 5 a 30 minutos al día con cara, brazos y piernas descubiertos, dos a tres veces por semana, sin protector solar, son suficientes para sintetizar vitamina D adecuada. Después de ese tiempo, hay que aplicar protector. La regla simple: cuando empiece a notarse calor de quemadura, parar.",
+      "visual": "WHO sun exposure recommendations limits skin types vitamin D",
+      "duration": 25
+    },
+    {
+      "voice": "El tipo de piel determina mucho. La escala de Fitzpatrick clasifica de 1 a 6: el 1 es el más claro, sensible, que siempre se quema y nunca broncea. El 6 es el más oscuro. Las pieles tipo 1-2 sintetizan vitamina D más rápido pero también se queman antes. Las pieles 5-6 necesitan 3 a 6 veces más tiempo de exposición para sintetizar la misma vitamina D.",
+      "visual": "Fitzpatrick scale skin types phototype melanin sensitivity",
+      "duration": 25
+    },
+    {
+      "voice": "La latitud importa más de lo que la gente cree. Madrid está a 40 grados norte. Entre noviembre y febrero, el ángulo solar no permite síntesis de vitamina D, sin importar cuántas horas estés al sol. Por encima del paralelo 35, la radiación UVB en invierno es insuficiente. Más al sur, en Andalucía, hay síntesis casi todo el año.",
+      "visual": "Spain latitude winter UVB synthesis vitamin D geography",
+      "duration": 25
+    },
+    {
+      "voice": "El horario es crucial. La síntesis máxima de vitamina D ocurre entre las 11 de la mañana y las 3 de la tarde, cuando el sol está alto. Pero también es el horario de mayor riesgo de quemadura. La regla práctica: si tu sombra es más corta que tu altura, hay UVB suficiente para sintetizar. Si la sombra es más larga, los rayos están demasiado oblicuos.",
+      "visual": "shadow rule UVB sun angle synthesis time of day",
+      "duration": 25
+    },
+    {
+      "voice": "Para evitar quemaduras, la regla de los 4 minutos: el primer día que vas a la piscina, playa o monte tras el invierno, máximo 4 minutos de sol directo en partes no acostumbradas. Después aplicas protector. Cada día puedes ir aumentando 2 minutos. La piel se adapta produciendo melanina protectora. Sin esa adaptación gradual, la quemadura es probable.",
+      "visual": "sun progressive exposure adaptation melanin gradual increase",
+      "duration": 25
+    },
+    {
+      "voice": "Los fotoprotectores tienen sentido. Un metaanálisis de 2019 en JAMA Dermatology con 13 estudios y 200.000 personas confirmó que reducen el riesgo de melanoma un 18 por ciento y de carcinoma escamoso un 35 por ciento. Pero deben ser de amplio espectro, factor 30 mínimo, y aplicarse cada 2 horas si te bañas o sudas. Los que filtran solo UVB no protegen lo suficiente.",
+      "visual": "sunscreen broad spectrum SPF 30 reapplication melanoma",
+      "duration": 25
+    },
+    {
+      "voice": "Hay debate sobre filtros químicos versus minerales. Los filtros químicos como el oxibenzona y la octinoxato pueden ser disruptores endocrinos en estudios in vitro y se acumulan en sangre. Los filtros minerales como el óxido de zinc y dióxido de titanio son más seguros pero pueden dejar la piel blanca. La elección depende de prioridades personales.",
+      "visual": "sunscreen chemical mineral zinc oxide titanium endocrine",
+      "duration": 25
+    },
+    {
+      "voice": "El SPF se refiere solo a UVB. Un SPF 30 bloquea el 97 por ciento de UVB. Un SPF 50 bloquea el 98 por ciento. La diferencia entre SPF 30 y 50 es marginal: 1 por ciento. Pero el SPF 100 no es el doble de protector que el 50. Los SPF muy altos pueden dar falsa sensación de seguridad y prolongar la exposición.",
+      "visual": "SPF 30 50 100 UVB protection percentages diminishing returns",
+      "duration": 25
+    },
+    {
+      "voice": "Para melanoma, los datos epidemiológicos son claros. La incidencia ha aumentado un 200 por ciento desde 1980 según la Sociedad Española de Oncología Médica. Los factores de riesgo: pieles claras, antecedentes familiares, exposición intermitente intensa con quemaduras solares. Los crónicos al sol como agricultores y marineros tienen más carcinoma que los esporádicos, pero menos melanoma.",
+      "visual": "melanoma incidence increase risk factors family history",
+      "duration": 25
+    },
+    {
+      "voice": "Aquí está el truco con los lunares: la regla ABCDE para autoexamen. A de asimetría, B de bordes irregulares, C de color heterogéneo, D de diámetro mayor de 6 mm, E de evolución, lunares que cambian. Si un lunar cumple varios criterios, consulta al dermatólogo. La detección precoz tiene supervivencia del 99 por ciento a 5 años.",
+      "visual": "ABCDE moles melanoma detection self examination dermatologist",
+      "duration": 25
+    },
+    {
+      "voice": "Sobre las cabinas de bronceado, son una mala idea. La WHO clasifica los aparatos UV como cancerígenos del grupo 1, igual que el tabaco. Un metaanálisis de 2012 en BMJ encontró que el uso antes de los 35 años aumenta el riesgo de melanoma un 75 por ciento. España tiene regulación pero el uso doméstico sigue siendo legal en algunos casos. Evitar siempre.",
+      "visual": "tanning beds WHO carcinogen melanoma risk young",
+      "duration": 25
+    },
+    {
+      "voice": "Para la luz infrarroja del sol, hay un nuevo capítulo. Estudios de la Universidad de Pittsburgh sugieren que los rayos infrarrojos lejanos del sol estimulan la producción mitocondrial de energía y reducen el estrés oxidativo. La exposición temprana al sol de la mañana, sin protección, durante 5 a 10 minutos, parece tener beneficios circadianos profundos.",
+      "visual": "infrared light morning sun mitochondria circadian benefits",
+      "duration": 25
+    },
+    {
+      "voice": "El sol matutino es importante para el ritmo circadiano. Andrew Huberman, neurocientífico de Stanford, recomienda 10 a 30 minutos de sol matinal sin gafas de sol en los primeros 60 minutos tras despertar. Esto activa los receptores melanopsínicos retinianos y configura el reloj biológico. Mejora sueño nocturno, energía diurna y producción de cortisol matutino.",
+      "visual": "Huberman morning sun circadian rhythm cortisol melanopsin",
+      "duration": 25
+    },
+    {
+      "voice": "Para mantener la piel joven sin renunciar al sol: ácido hialurónico, retinol nocturno, vitamina C tópica matinal y antioxidantes orales. Un estudio del Instituto Pasteur en 2018 demostró que los antioxidantes orales como la astaxantina, la luteína y los polifenoles del té verde reducen el daño solar en un 17 por ciento. Pero no sustituyen al fotoprotector.",
+      "visual": "skin antioxidants vitamin C retinol astaxanthin oral protection",
+      "duration": 25
+    },
+    {
+      "voice": "Sobre las gafas de sol, hay matices. Para luz directa intensa, sí. Pero llevarlas todo el día reduce la exposición ocular a la luz natural, que regula melatonina y dopamina. Un estudio de la Universidad Nacional de Singapur en 2020 demostró que la luz natural en los ojos durante el día previene la miopía en niños y mejora ánimo en adultos.",
+      "visual": "sunglasses light eyes melatonin dopamine balance natural",
+      "duration": 25
+    },
+    {
+      "voice": "La vitamina D oral es razonable cuando el sol no basta. En invierno español, suplementar entre 1.500 y 4.000 UI de D3 al día con cofactores K2 y magnesio compensa la falta de sol. En verano, si te expones diario 15 minutos sin protector entre las 11 y las 14, las dosis pueden bajar. La medición trimestral guía las dosis.",
+      "visual": "vitamin D3 supplement winter alternative sunlight Spain",
+      "duration": 25
+    },
+    {
+      "voice": "Para niños, hay protocolos específicos. La Asociación Española de Pediatría recomienda 400 UI diarias de vitamina D el primer año, después según exposición solar. Los niños con piel oscura o que pasan poco tiempo al aire libre necesitan más. La radiación UV es más dañina en niños, por la piel más fina. Protector solar siempre desde los 6 meses.",
+      "visual": "children pediatric vitamin D sun protection guidelines",
+      "duration": 25
+    },
+    {
+      "voice": "Lo que yo hago: 15 minutos de sol matinal en cara y brazos al despertar, sin protector. Caminata de 20 minutos al mediodía con cara expuesta, brazos cubiertos por camisa larga. En verano, baño en playa con protector amplio espectro 50, reaplicado cada 2 horas. Mido vitamina D cada 6 meses y suplemento entre noviembre y abril.",
+      "visual": "personal sun routine morning lunch swimming protection seasonal",
+      "duration": 25
+    },
+    {
+      "voice": "Sobre las cremas solares minerales, recomendaciones prácticas. Marcas con óxido de zinc puro al 20-25 por ciento. Sin oxibenzona, sin octinoxato, sin parabenos. Algunas opciones europeas como Caudalie, Sesderma, Heliocare. Las marcas americanas como ThinkSport y Badger son referencia minimalista. El precio es justo: entre 15 y 30 euros para 50 ml.",
+      "visual": "mineral sunscreens brands zinc oxide clean ingredients",
+      "duration": 25
+    },
+    {
+      "voice": "Los suplementos antisolares orales como el Polypodium leucotomos, marcado como Heliocare oral, tienen alguna evidencia. Un estudio del Hospital Clínico San Carlos de Madrid en 2019 demostró que reducían el daño solar agudo en pieles claras. Pero la dosis y la consistencia son claves. No sustituyen al fotoprotector tópico.",
+      "visual": "Heliocare oral Polypodium supplement sun protection capsules",
+      "duration": 25
+    },
+    {
+      "voice": "Para latitudes altas en invierno, lámparas UVB caseras pueden ser útiles. Hay productos como Sperti Vitamin D Lamp con UVB calibrada que sintetizan vitamina D. Sesiones de 1 minuto, 3 veces por semana. Cuestan unos 400 euros. Útil para personas que no pueden suplementar oralmente o tienen malabsorción intestinal. Solo bajo guía médica.",
+      "visual": "UVB lamp home Sperti vitamin D synthesis winter alternative",
+      "duration": 25
+    },
+    {
+      "voice": "El error más común: o sol cero por miedo al cáncer, o sol todo el día sin protección por bronceado. Ambas son extremos malos. El equilibrio: sol moderado y consistente, protección en exposiciones largas, suplementación cuando el sol no basta, autoexamen mensual de lunares, dermatólogo una vez al año si tienes factores de riesgo.",
+      "visual": "balanced sun exposure moderation protection self examination",
+      "duration": 25
+    },
+    {
+      "voice": "Suscríbete a SaludLongevidad y dale a la campana. Lo que viene la próxima semana es un análisis profundo de la dieta mediterránea desmenuzada, qué la hace especial y qué ingrediente es el más importante. Cuéntame en los comentarios cuánto tiempo de sol al día tomas y si sueles olvidar la vitamina D en invierno.",
+      "visual": "subscribe channel Mediterranean diet next week sun routine",
+      "duration": 25
+    }
+  ]
+}
