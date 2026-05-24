@@ -47,5 +47,6 @@
     "es-ES-XimenaNeural",
     "es-ES-ElviraNeural",
     "es-ES-AlvaroNeural"
-  ]
+  ],
+  "cloud_project": "default"
 }

@@ -1,8 +1,8 @@
 name: "Video: CashCafe (Shorts)"
 on:
   schedule:
-    - cron: '0 13 * * *'   # 09:00 EDT (morning US coffee)
-    - cron: '0 18 * * *'   # 14:00 EDT (lunch break)
+    - cron: '30 13 * * *'
+    - cron: '30 18 * * *'
   workflow_dispatch:
 jobs:
   video:

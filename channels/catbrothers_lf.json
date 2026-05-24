@@ -46,5 +46,6 @@
     "en-US-EmmaNeural",
     "en-US-AriaNeural",
     "en-US-JennyNeural"
-  ]
+  ],
+  "cloud_project": "papi"
 }

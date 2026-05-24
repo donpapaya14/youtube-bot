@@ -18,14 +18,21 @@ import wsgiref.simple_server
 socketserver.TCPServer.allow_reuse_address = True
 wsgiref.simple_server.WSGIServer.allow_reuse_address = True
 
-CLIENT_ID = os.getenv("YOUTUBE_CLIENT_ID")
-CLIENT_SECRET = os.getenv("YOUTUBE_CLIENT_SECRET")
+channel_name = sys.argv[1] if len(sys.argv) > 1 else "CHANNEL"
+# Multi-project: 2do arg = project (default, papi, cashcafe)
+project = sys.argv[2] if len(sys.argv) > 2 else "default"
+
+if project == "default":
+    CLIENT_ID = os.getenv("YOUTUBE_CLIENT_ID")
+    CLIENT_SECRET = os.getenv("YOUTUBE_CLIENT_SECRET")
+else:
+    CLIENT_ID = os.getenv(f"YOUTUBE_{project.upper()}_CLIENT_ID")
+    CLIENT_SECRET = os.getenv(f"YOUTUBE_{project.upper()}_CLIENT_SECRET")
 
 if not CLIENT_ID or not CLIENT_SECRET:
-    print("ERROR: Falta YOUTUBE_CLIENT_ID o YOUTUBE_CLIENT_SECRET en .env")
+    print(f"ERROR: Falta CLIENT_ID/SECRET para project={project}")
     sys.exit(1)
-
-channel_name = sys.argv[1] if len(sys.argv) > 1 else "CHANNEL"
+print(f"Usando project: {project} | client: {CLIENT_ID[:30]}...")
 
 client_config = {
     "installed": {

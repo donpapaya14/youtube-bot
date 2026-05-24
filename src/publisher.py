@@ -24,12 +24,19 @@ def upload_to_youtube(
     token_env = channel_config.get("refresh_token_env", "YOUTUBE_REFRESH_TOKEN")
     refresh_token = os.getenv(token_env)
 
+    # Multi-project: cada canal usa el client_id de su cloud_project
+    project = channel_config.get("cloud_project", "default")
+    if project == "default":
+        cid_env, csec_env = "YOUTUBE_CLIENT_ID", "YOUTUBE_CLIENT_SECRET"
+    else:
+        cid_env = f"YOUTUBE_{project.upper()}_CLIENT_ID"
+        csec_env = f"YOUTUBE_{project.upper()}_CLIENT_SECRET"
     creds = Credentials(
         token=None,
         refresh_token=refresh_token,
         token_uri="https://oauth2.googleapis.com/token",
-        client_id=os.getenv("YOUTUBE_CLIENT_ID"),
-        client_secret=os.getenv("YOUTUBE_CLIENT_SECRET"),
+        client_id=os.getenv(cid_env),
+        client_secret=os.getenv(csec_env),
         scopes=["https://www.googleapis.com/auth/youtube"],
     )
 
@@ -136,12 +143,19 @@ def upload_to_youtube_longform(
     token_env = channel_config.get("refresh_token_env", "YOUTUBE_REFRESH_TOKEN")
     refresh_token = os.getenv(token_env)
 
+    # Multi-project: cada canal usa el client_id de su cloud_project
+    project = channel_config.get("cloud_project", "default")
+    if project == "default":
+        cid_env, csec_env = "YOUTUBE_CLIENT_ID", "YOUTUBE_CLIENT_SECRET"
+    else:
+        cid_env = f"YOUTUBE_{project.upper()}_CLIENT_ID"
+        csec_env = f"YOUTUBE_{project.upper()}_CLIENT_SECRET"
     creds = Credentials(
         token=None,
         refresh_token=refresh_token,
         token_uri="https://oauth2.googleapis.com/token",
-        client_id=os.getenv("YOUTUBE_CLIENT_ID"),
-        client_secret=os.getenv("YOUTUBE_CLIENT_SECRET"),
+        client_id=os.getenv(cid_env),
+        client_secret=os.getenv(csec_env),
         scopes=["https://www.googleapis.com/auth/youtube"],
     )
 

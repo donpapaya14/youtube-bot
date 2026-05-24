@@ -45,5 +45,6 @@
     "en-US-DavisNeural",
     "en-US-AndrewNeural",
     "en-GB-RyanNeural"
-  ]
+  ],
+  "cloud_project": "default"
 }

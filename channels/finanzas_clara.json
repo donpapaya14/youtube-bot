@@ -35,5 +35,6 @@
     "en-US-AndrewNeural",
     "en-US-DavisNeural",
     "en-US-GuyNeural"
-  ]
+  ],
+  "cloud_project": "default"
 }
