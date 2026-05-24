@@ -1,0 +1,145 @@
+{
+  "id": 68,
+  "title": "🧠 NAD+ vs NMN: la Diferencia que David Sinclair No Cuenta",
+  "description": "El suplemento anti-aging que cuesta 100 euros al mes. Qué dice la ciencia real, absorción real, marcas que funcionan y por qué muchos están tirando el dinero.\n\n#NAD #NMN #Sinclair #longevidad",
+  "tags": [
+    "NAD",
+    "NMN",
+    "longevidad",
+    "Sinclair",
+    "sirtuinas",
+    "anti aging",
+    "suplementos",
+    "biohacking",
+    "absorción",
+    "salud"
+  ],
+  "thumbnail_text": "NAD+ VS NMN REAL",
+  "segments": [
+    {
+      "voice": "Para. Tu rutina anti-aging tiene un fallo crítico si pagas 100 euros mensuales por NMN sin saber esto. David Sinclair vende el sueño, pero el estudio de Charles Brenner publicado en Cell Metabolism en 2023 demostró que la mayor parte del NMN que tragas no llega a tus células como NMN. Hoy te explico la verdad de NAD plus, NMN, NR y cuáles realmente valen el dinero.",
+      "visual": "NAD NMN supplements anti aging vials pills expensive",
+      "duration": 25
+    },
+    {
+      "voice": "Empecemos por la biología. NAD plus, nicotinamida adenina dinucleótido, es una coenzima crítica para mil reacciones celulares. Es esencial para producción de energía mitocondrial y para activar las sirtuinas, los famosos enzimas de longevidad. El problema: el NAD plus cae con la edad. A los 60 años tienes la mitad de NAD plus que a los 20. Por eso hay tanto interés en restaurarlo.",
+      "visual": "NAD coenzyme energy mitochondria sirtuins age decline",
+      "duration": 25
+    },
+    {
+      "voice": "Tomar NAD plus directamente no funciona. La molécula es demasiado grande para cruzar las membranas celulares. Por eso los suplementos usan precursores: nicotinamida ribósido, NR, y nicotinamida mononucleótido, NMN. Ambos son moléculas más pequeñas que el cuerpo convierte en NAD plus dentro de las células. La pregunta es: ¿cuál llega mejor?",
+      "visual": "NAD precursors NR NMN molecular size cellular membrane",
+      "duration": 25
+    },
+    {
+      "voice": "Charles Brenner descubrió NR como precursor de NAD plus en 2004 en Cell. Sinclair en 2013 descubrió que NMN aumentaba NAD plus en ratones viejos y revertía marcadores de envejecimiento. Ambos publicaciones impactantes. Pero la guerra científica entre Brenner y Sinclair viene de aquí: cada uno defiende su molécula.",
+      "visual": "Brenner NR Sinclair NMN scientific rivalry discoveries",
+      "duration": 25
+    },
+    {
+      "voice": "El estudio bomba de Brenner en 2023 en Cell Metabolism: cuando tragas NMN, la mayor parte se convierte en NR en el intestino antes de absorberse. Las células finalmente reciben NR, no NMN. Esto sugiere que pagar más por NMN no tiene sentido bioquímico. Comprar NR sería igual de efectivo y mucho más barato.",
+      "visual": "Brenner 2023 study NMN converts NR intestine absorption",
+      "duration": 25
+    },
+    {
+      "voice": "Pero Sinclair contraataca con su grupo en Harvard. Argumenta que algunas tejidos absorben NMN directamente vía un transportador específico llamado Slc12a8, identificado en 2019 en Nature Metabolism. Si esto es cierto, NMN podría tener ventaja para órganos específicos. La controversia sigue abierta, con cada lado replicando los estudios del otro y obteniendo resultados distintos.",
+      "visual": "Sinclair Slc12a8 transporter NMN Nature direct absorption",
+      "duration": 25
+    },
+    {
+      "voice": "Los datos clínicos en humanos. El estudio MIB-626 con NMN del Brigham and Women's Hospital en 2022 con 30 adultos sanos demostró que 1.000 mg diarios durante 28 días aumentaron NAD plus en sangre un 38 por ciento. Pero el aumento fue principalmente en glóbulos rojos. La traducción a beneficios funcionales sigue siendo discutida.",
+      "visual": "MIB-626 NMN clinical trial Brigham 1000 mg 28 days",
+      "duration": 25
+    },
+    {
+      "voice": "El estudio de NR de la University of Colorado en 2018 con 24 adultos mayores de 55 demostró que 1.000 mg diarios durante 6 semanas aumentaron NAD plus un 60 por ciento. También mejoraron la presión sistólica y la rigidez arterial en hipertensos. Es el estudio humano más sólido en NR hasta la fecha.",
+      "visual": "NR Colorado study 24 adults 1000 mg 60 percent blood pressure",
+      "duration": 25
+    },
+    {
+      "voice": "Para músculo y ejercicio, datos mixtos. Un estudio de la Universidad de Lausana en 2022 con 12 ciclistas demostró que NR mejoraba la recuperación post-ejercicio pero no el rendimiento. Otro estudio demostró que NMN durante 12 semanas mejoraba la capacidad aeróbica en corredores amateur. Los efectos parecen ser de recuperación y mantenimiento, no de mejora aguda del rendimiento.",
+      "visual": "NR NMN exercise recovery cyclists Lausanne aerobic capacity",
+      "duration": 25
+    },
+    {
+      "voice": "Para piel y antienvejecimiento dermatológico. Un estudio de la Universidad de Newcastle en 2020 demostró que NR oral mejoraba marcadores de envejecimiento celular en queratinocitos. Otro estudio japonés con NMN tópico demostró reducción de arrugas en 12 semanas. Para piel, la combinación oral más tópica parece tener efectos sinérgicos.",
+      "visual": "NR NMN skin keratinocytes wrinkles topical oral Japanese",
+      "duration": 25
+    },
+    {
+      "voice": "Para sueño, datos interesantes. Un estudio del Washington University de Sinclair en 2021 demostró que NMN tomado en la mañana mejoraba la calidad de sueño en mayores de 60. Mecanismo: regulación de los ritmos circadianos vía NAD plus. La toma debe ser en la mañana, no en la noche, donde puede ser estimulante.",
+      "visual": "NMN sleep quality morning Sinclair Washington University",
+      "duration": 25
+    },
+    {
+      "voice": "Para enfermedad cardiovascular, el estudio más prometedor. Un ensayo en Frontiers in Cardiovascular Medicine en 2023 con 80 adultos con prediabetes y hipertensión demostró que 250 mg de NMN diarios durante 12 semanas mejoraron la función endotelial medida por dilatación mediada por flujo. Es la primera evidencia clínica de beneficio cardiovascular real.",
+      "visual": "NMN cardiovascular endothelial function 250 mg trial",
+      "duration": 25
+    },
+    {
+      "voice": "Para mujeres post-menopáusicas, atención. Un estudio japonés de 2022 demostró que NMN durante 12 semanas mejoraba el VO2 max y la velocidad de marcha en mujeres mayores de 65. Las mujeres post-menopáusicas pierden NAD plus más rápido por la caída de estrógenos. Podrían ser un grupo donde los suplementos tienen impacto desproporcionado.",
+      "visual": "NMN postmenopausal women VO2 max walking Japan study",
+      "duration": 25
+    },
+    {
+      "voice": "La dosis efectiva. Para NR: 500 a 1.000 mg al día, dividido en dos tomas con comidas. Para NMN: 500 a 1.000 mg al día. Por debajo de 250 mg, los estudios no encuentran efectos. Por encima de 2.000 mg, no hay beneficios adicionales pero los costes se disparan. La toma ideal: matutina con desayuno alto en grasa para mejorar absorción.",
+      "visual": "NAD precursor dose 500 1000 mg morning fat absorption",
+      "duration": 25
+    },
+    {
+      "voice": "Las marcas y costes reales. NR de calidad: Tru Niagen es la marca con más estudios. Coste: 50 a 80 euros mensuales en Amazon España. NMN de calidad: ProHealth, Renue by Science, o Wonderfeel. Coste: 70 a 120 euros mensuales. Las marcas baratas de Amazon a 20 euros suelen tener pureza dudosa y no funcionan.",
+      "visual": "NAD brands quality Tru Niagen ProHealth costs Amazon",
+      "duration": 25
+    },
+    {
+      "voice": "Para verificar pureza, los tests de certificación independientes. Pide certificado de análisis al fabricante. Las marcas serias publican análisis HPLC en su web. NMN debe ser estable hasta 25 grados centígrados. Si el producto no necesita refrigeración o vende en envase plástico transparente, sospecha de degradación.",
+      "visual": "NAD purity certification HPLC analysis stability storage",
+      "duration": 25
+    },
+    {
+      "voice": "Las alternativas naturales para subir NAD plus. Triptófano de alta calidad en pavo, huevos, semillas de calabaza. Niacinamida en hígado, pescado, cereales integrales. Pero los aumentos son modestos: 10 a 20 por ciento, no comparables a suplementación. Para acelerar autofagia y reciclaje de NAD plus, el ayuno intermitente es la herramienta más potente.",
+      "visual": "NAD natural food turkey eggs liver tryptophan niacinamide",
+      "duration": 25
+    },
+    {
+      "voice": "Para combinaciones con potencial. NAD plus precursor más resveratrol: Sinclair argumenta que activan sirtuinas conjuntamente, pero la evidencia humana es limitada. NAD plus más metformina: ambas activan AMPK por vías distintas, posible sinergia. NAD plus más pterostilbeno: la marca Basis combina ambos. NAD plus más coenzima Q10: complementarios para mitocondrias.",
+      "visual": "NAD combinations resveratrol metformin pterostilbene CoQ10",
+      "duration": 25
+    },
+    {
+      "voice": "Para inyecciones de NAD plus, controversia. Las clínicas de medicina alternativa ofrecen infusiones intravenosas de NAD plus a 500 a 1.000 euros la sesión. La evidencia de beneficio sistémico es nula. La mayor parte del NAD plus inyectado se degrada en plasma antes de llegar a las células. Es marketing caro. Si tienes presupuesto, NR oral es más costo-efectivo.",
+      "visual": "NAD IV injection clinics expensive marketing degradation",
+      "duration": 25
+    },
+    {
+      "voice": "Para gente sana menor de 40, ¿necesitas NAD plus? Probablemente no. Tus niveles son cercanos al máximo. El beneficio en estudios es para mayores de 50 con caída natural. Si tienes menos de 40, prioriza ejercicio, sueño y alimentación. Suplementar es opción si tienes condiciones específicas como fatiga crónica o enfermedades mitocondriales.",
+      "visual": "NAD young people 40 not needed exercise sleep priority",
+      "duration": 25
+    },
+    {
+      "voice": "Los efectos secundarios son raros pero reales. NR a dosis altas: rubor facial, prurito leve. NMN: rara vez náuseas. A más de 2.000 mg al día, posibles desbalances de metilación, ya que la conversión a NAD plus consume grupos metilo. Suplementar con TMG, trimetilglicina, a 500 mg al día puede prevenir este efecto.",
+      "visual": "NAD side effects flushing methylation TMG trimethylglycine",
+      "duration": 25
+    },
+    {
+      "voice": "El marcador para verificar efectividad. Análisis de NAD plus en sangre seca, ofrecido por compañías como Jinfiniti. Coste: 200 euros. Mides niveles basales, suplementas 12 semanas, mides de nuevo. Si tu NAD plus no sube al menos un 30 por ciento, la marca o la dosis no funcionan. Es la prueba empírica que evita gastar miles en algo inefectivo.",
+      "visual": "NAD blood test Jinfiniti dried blood spot effectiveness",
+      "duration": 25
+    },
+    {
+      "voice": "Para conclusión personal. Si tienes menos de 40 años, gasta el dinero en ejercicio, comida real y sauna. Si tienes 50-70 y presupuesto, el NR de Tru Niagen es la opción con más evidencia y mejor precio. NMN solo si te puedes permitir gastar el doble por una evidencia parecida. Si te puedes permitir gastar el triple, considera ProHealth NMN de alta pureza.",
+      "visual": "NAD personal recommendation NR over NMN budget evidence",
+      "duration": 25
+    },
+    {
+      "voice": "Pero hay algo que ni Sinclair menciona en su libro. La industria de NAD plus mueve 600 millones de dólares al año. Sinclair tiene participación en Wonderfeel, MetroBiotech y otras empresas de NMN. No es un crítico imparcial. Brenner, su rival, tiene participación en ChromaDex, fabricante de Tru Niagen. La ciencia es real pero los intereses comerciales sesgan el discurso. Lee los estudios, no a los gurús.",
+      "visual": "NAD industry billions Sinclair Brenner commercial interests",
+      "duration": 25
+    },
+    {
+      "voice": "Suscríbete a SaludLongevidad y activa la campana. La próxima semana hablamos de senolíticos, los compuestos que matan células viejas dañadas. Comparamos fisetina, quercetina, dasatinib y el protocolo de Mayo Clinic que está cambiando el paradigma. Cuéntame en comentarios si tomas NAD plus, qué marca y si has notado diferencias subjetivas.",
+      "visual": "subscribe SaludLongevidad senolytics fisetin Mayo Clinic next",
+      "duration": 25
+    }
+  ]
+}

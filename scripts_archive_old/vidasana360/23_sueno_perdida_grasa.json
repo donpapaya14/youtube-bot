@@ -1,0 +1,155 @@
+{
+  "title": "🌿 Dormir mal te impide perder grasa aunque hagas todo bien",
+  "description": "Los datos científicos que muestran cómo el sueño regula la pérdida de grasa. Por qué dormir menos de 7 horas sabotea tu déficit calórico y qué hacer concretamente para revertirlo.",
+  "tags": [
+    "sueño y peso",
+    "perder grasa",
+    "insomnio",
+    "metabolismo",
+    "descanso reparador",
+    "cortisol",
+    "hormonas del hambre",
+    "salud nocturna",
+    "habitos saludables",
+    "calidad de sueño"
+  ],
+  "segments": [
+    {
+      "voice": "Si duermes 6 horas o menos durante dos semanas, tu pérdida de grasa cae un 55 por ciento aunque comas exactamente las mismas calorías. No es una opinión. Es un dato publicado por Arlet Nedeltcheva en 2010 en Annals of Internal Medicine. Y muestra algo brutal. Puedes hacerlo todo bien en la dieta y los entrenamientos, pero si duermes mal estás trabajando para nada.",
+      "visual": "person sleeping bedroom dark",
+      "duration": 26
+    },
+    {
+      "voice": "El estudio que cito tiene 10 participantes con sobrepeso. Misma dieta. Mismo déficit calórico. Solo cambió las horas de sueño. Con 8.5 horas perdieron 1.4 kilos de grasa. Con 5.5 horas, solo 0.6 kilos. Y aún peor. En el grupo con poco sueño la pérdida fue mayoritariamente de masa muscular, no de grasa. Eso es lo opuesto a lo que cualquiera quiere.",
+      "visual": "scientific data sleep study",
+      "duration": 24
+    },
+    {
+      "voice": "El mecanismo es hormonal. Eve Van Cauter en la Universidad de Chicago lleva 30 años estudiándolo. Cuando duermes menos de 6 horas, la leptina cae un 18 por ciento, la grelina sube un 28 por ciento. Leptina te dice que estás lleno. Grelina te dice que tienes hambre. Tu cuerpo siente más hambre al día siguiente sin explicación aparente.",
+      "visual": "hormone leptin ghrelin",
+      "duration": 23
+    },
+    {
+      "voice": "Pero hay más. Cortisol elevado por mala noche aumenta la insulina, dificulta el acceso a las reservas de grasa y promueve almacenamiento abdominal. La testosterona en hombres cae entre un 10 y un 15 por ciento tras una semana durmiendo 5 horas, según trabajos de Rachel Leproult. Menos testosterona significa menos masa magra y menos motivación.",
+      "visual": "cortisol stress diagram",
+      "duration": 23
+    },
+    {
+      "voice": "Y luego está el comportamiento. Cuando duermes mal, tu córtex prefrontal funciona peor. Las decisiones racionales se complican. Stephanie Greer publicó imágenes cerebrales que muestran cómo tras una noche corta el cerebro se vuelve más sensible a estímulos calóricos densos. Por eso los donuts y la bollería ganan más fácil tras una mala noche.",
+      "visual": "brain scan decision making",
+      "duration": 23
+    },
+    {
+      "voice": "Cuánto tienes que dormir. La National Sleep Foundation recomienda 7 a 9 horas para adultos sanos. Menos de 7 está asociado a peor composición corporal, mayor riesgo cardiovascular y mayor incidencia de diabetes tipo 2. Más de 9 también correlaciona con peor salud, aunque la dirección causal es menos clara.",
+      "visual": "sleep duration recommendations",
+      "duration": 21
+    },
+    {
+      "voice": "El problema en España es serio. Datos de la Sociedad Española de Sueño en 2022 indican que el 48 por ciento de adultos duerme menos de 7 horas habitualmente. El uso del móvil, las cenas tardías, el alcohol y la luz artificial son los principales culpables. La media española se acuesta a las 23:30 y se levanta a las 7:00. Justo en el límite.",
+      "visual": "spanish sleep statistics",
+      "duration": 23
+    },
+    {
+      "voice": "La cena influye más de lo que crees. Cenas pesadas o muy tardías retrasan la digestión y dificultan entrar en sueño profundo. Trabajos de Frank Scheer en Harvard mostraron que cenar después de las 21:00 reduce calidad del sueño y aumenta resistencia a la insulina al día siguiente comparado con cenar a las 18:00.",
+      "visual": "late dinner family table",
+      "duration": 22
+    },
+    {
+      "voice": "La temperatura de la habitación marca diferencia. Para entrar en sueño profundo el cuerpo necesita bajar su temperatura central unos 0.5 grados. La habitación ideal está entre 16 y 19 grados según la mayoría de estudios. Habitaciones a 23 o 24 grados, comunes en España con calefacción, interrumpen ese descenso natural.",
+      "visual": "thermometer bedroom temperature",
+      "duration": 22
+    },
+    {
+      "voice": "La luz azul de pantallas suprime melatonina. Una sesión de móvil de una hora antes de dormir retrasa la secreción de melatonina entre 90 y 180 minutos según Anne-Marie Chang en 2014. La consecuencia es que tu cuerpo se cree que aún es de día y no entra en modo descanso. Filtros nocturnos ayudan pero no son la solución completa.",
+      "visual": "blue light phone screen",
+      "duration": 22
+    },
+    {
+      "voice": "Alcohol y sueño es una relación compleja. Una o dos cervezas pueden parecer que ayudan a dormir, pero suprimen la fase REM y aumentan despertares en la segunda mitad de la noche. Trabajos de Irshaad Ebrahim mostraron que incluso dosis moderadas afectan a la arquitectura del sueño con cambios visibles en electroencefalograma.",
+      "visual": "alcohol sleep effects bottle",
+      "duration": 22
+    },
+    {
+      "voice": "La cafeína vive 6 a 8 horas en el organismo. Si te tomas un café a las 17:00, a las 23:00 todavía tienes la mitad activa. Para personas sensibles, esto significa peor sueño aunque consigan dormirse. La cuarteta clásica es cortar cafeína después de las 14:00 si tienes problemas de sueño.",
+      "visual": "coffee clock afternoon",
+      "duration": 21
+    },
+    {
+      "voice": "El ejercicio influye muchísimo. Personas que entrenan fuerza con regularidad tienen sueño profundo más largo y mejor consolidación de memoria. Pero entrenar a las 21:00 con alta intensidad puede ser contraproducente porque eleva temperatura corporal y cortisol justo cuando tendrían que bajar. Mejor por la mañana o tarde temprana.",
+      "visual": "person exercising evening home",
+      "duration": 22
+    },
+    {
+      "voice": "El ritmo circadiano se calibra con la luz solar matutina. Andy Huberman en Stanford insiste mucho en esto. Diez minutos de luz natural en los primeros 90 minutos tras despertar adelantan la liberación de melatonina por la noche entre 1 y 2 horas. Es gratis y funciona. Salir al balcón con el café antes de mirar el móvil.",
+      "visual": "morning sunlight outdoor walk",
+      "duration": 22
+    },
+    {
+      "voice": "Las siestas. Bien hechas funcionan. La siesta ideal es de 20 a 25 minutos, no más, entre las 13:00 y las 15:00. Mejora rendimiento cognitivo y reduce somnolencia diurna. Pasadas las 25 minutos entras en sueño profundo y si te despiertas en esa fase, la inercia del sueño te deja peor que antes durante una hora.",
+      "visual": "person taking short nap",
+      "duration": 22
+    },
+    {
+      "voice": "Magnesio glicinato 200 a 400 miligramos antes de dormir tiene cierta evidencia para mejorar la latencia del sueño. No es magia, pero el estudio de Nielsen y colaboradores en 2010 mostró efectos modestos. Mejor el glicinato que el citrato para esto, porque la glicina misma tiene efecto sedante leve.",
+      "visual": "magnesium supplement pills",
+      "duration": 20
+    },
+    {
+      "voice": "La melatonina exógena se usa mal en España. Dosis altas de 3 a 5 miligramos no sirven para insomnio común. Funcionan para jet lag o para personas con ciclos completamente alterados. Para uso diario, dosis micro de 0.3 miligramos serían suficientes según trabajos de Richard Wurtman en MIT. Más no es mejor.",
+      "visual": "melatonin supplement bottle",
+      "duration": 21
+    },
+    {
+      "voice": "Apnea del sueño no diagnosticada es muy común y devastadora para el peso. Roncar fuerte, despertarte cansado pese a 8 horas en la cama y tener cuello grueso son señales. La apnea fragmenta el sueño profundo, mantiene cortisol alto y bloquea pérdida de grasa. Una polisomnografía aclara el diagnóstico. Tratada con CPAP cambia vidas.",
+      "visual": "sleep apnea cpap mask",
+      "duration": 22
+    },
+    {
+      "voice": "El estrés crónico altera el sueño en cascada. Cortisol elevado por la noche no permite entrar en sueño profundo. Sin sueño profundo no se recupera hormona del crecimiento, que es clave para reparar tejido muscular. Sin reparación, peor rendimiento al día siguiente y más estrés. Romper este ciclo es prioridad.",
+      "visual": "stress night anxiety",
+      "duration": 21
+    },
+    {
+      "voice": "Técnicas que funcionan. Apagar pantallas 60 minutos antes de dormir. Lectura física. Respiración 4-7-8 que activa el parasimpático. Habitación oscura totalmente. Sin reloj a la vista para no ansiar. Ducha caliente 90 minutos antes facilita la caída de temperatura corporal al salir. Cada técnica suma pocos minutos pero acumulan.",
+      "visual": "evening routine relaxation",
+      "duration": 22
+    },
+    {
+      "voice": "Sobre la consistencia. Acostarte y levantarte a la misma hora cada día, incluidos fines de semana, alinea tu reloj biológico. Estudios sobre social jet lag muestran que personas que trasnochan los fines de semana y madrugan entre semana tienen peor composición corporal y mayor riesgo metabólico que quienes mantienen horario estable.",
+      "visual": "weekly sleep schedule",
+      "duration": 22
+    },
+    {
+      "voice": "Lo que comer también importa. Triptófano y carbohidratos lentos por la noche favorecen la síntesis de serotonina, que se convierte en melatonina. Un puñado de avena con leche caliente o una banana con yogur 2 horas antes de dormir tiene base. No es lo mismo que un atracón. Estamos hablando de 200 a 300 kilocalorías estratégicas.",
+      "visual": "evening healthy snack",
+      "duration": 22
+    },
+    {
+      "voice": "El error de quedarse en la cama si no duermes. Pasados 20 minutos sin conciliar, mejor levantarse, hacer algo aburrido con luz tenue y volver cuando aparezca el sueño. Quedarte dando vueltas activa frustración y asocia la cama con vigilia. Es una de las técnicas básicas de terapia cognitivo conductual para insomnio que tiene evidencia robusta.",
+      "visual": "person reading dim light",
+      "duration": 23
+    },
+    {
+      "voice": "Sobre apps de seguimiento. Pueden ser útiles para tomar conciencia pero también pueden causar lo que se llama ortosomnia, la obsesión por dormir bien que paradójicamente empeora el sueño. Si usar la app te genera ansiedad por las métricas, desínstalala. Tu sensación al despertar y tu energía diurna son mejores indicadores.",
+      "visual": "sleep tracking app screen",
+      "duration": 22
+    },
+    {
+      "voice": "Caso real. Una paciente de 42 años con 6 kilos de sobrepeso no perdía nada pese a dieta y ejercicio. Cambió la cena de las 22:00 a las 20:00, dejó móvil 1 hora antes y subió temperatura inferior de habitación. En 8 semanas durmió 45 minutos más al día. Sin tocar la dieta, perdió 4 kilos. El sueño era la pieza faltante todo este tiempo.",
+      "visual": "successful sleep change",
+      "duration": 24
+    },
+    {
+      "voice": "Pero hay algo que casi nadie sabe sobre el sueño y el peso. Existe una ventana específica del ciclo nocturno donde se libera la mayor cantidad de hormona del crecimiento, y si pasas por alto esa franja por costumbre, pierdes hasta el 70 por ciento de la quema lipídica nocturna. Te lo cuento en el próximo vídeo.",
+      "visual": "hormone growth night",
+      "duration": 22
+    },
+    {
+      "voice": "Suscríbete a VidaSana360 y dale a la campana. En el próximo análisis te explico cómo el cortisol crónico está saboteando tu vida, con tests caseros para detectarlo y rutinas concretas para bajarlo sin medicación.",
+      "visual": "wellness lifestyle holistic",
+      "duration": 18
+    }
+  ],
+  "duration_estimate_seconds": 1300,
+  "thumbnail_text": "DORMIR Y PERDER"
+}

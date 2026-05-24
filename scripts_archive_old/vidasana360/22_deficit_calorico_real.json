@@ -1,0 +1,155 @@
+{
+  "title": "🥗 Déficit calórico — por qué cuentas mal las calorías",
+  "description": "La verdad sobre el déficit calórico que casi ningún dietista explica bien. Por qué las apps de contar calorías fallan, qué dice la termodinámica real y cómo aplicar el déficit sin pesar comida.",
+  "tags": [
+    "deficit calorico",
+    "perdida de peso",
+    "calorias",
+    "nutricion",
+    "dieta",
+    "salud",
+    "metabolismo",
+    "adelgazar",
+    "ciencia nutricional",
+    "consejos saludables"
+  ],
+  "segments": [
+    {
+      "voice": "Para. Antes de descargar otra app para contar calorías, esto te interesa. Las etiquetas nutricionales tienen un margen de error legal del 20 por ciento. Tu metabolismo basal calculado con fórmulas tiene otro 15 por ciento de error. Y la absorción real de los alimentos varía por persona y por procesado. Cuando crees que comes 1.500 kilocalorías, podrías estar comiendo 1.800. O 1.200. Y eso lo cambia todo.",
+      "visual": "person counting calories app",
+      "duration": 28
+    },
+    {
+      "voice": "Vamos a lo serio. El déficit calórico funciona. Esa parte no se discute. La primera ley de la termodinámica se cumple en humanos como en el resto del universo. Si gastas más energía de la que ingieres, pierdes masa. Lo que se discute es cómo medir energía ingerida y energía gastada con precisión. Y ahí casi nadie es honesto.",
+      "visual": "scientific lab nutrition",
+      "duration": 22
+    },
+    {
+      "voice": "El sistema Atwater, que es el que usan todas las etiquetas, calcula calorías a partir del peso de cada macronutriente. Asume que un gramo de carbohidrato da 4 kilocalorías, uno de proteína 4 y uno de grasa 9. Pero el sistema se ideó en 1916 y no contempla diferencias por procesado, fibra, microbiota o termogénesis específica de cada nutriente.",
+      "visual": "old nutrition science book",
+      "duration": 23
+    },
+    {
+      "voice": "Ejemplo real. Sadie Barr en USDA estudió en 2012 las almendras. La etiqueta marcaba 170 kilocalorías por porción. Tras medir digestión real con calorímetro y heces, la cifra era 129. Un error del 24 por ciento. La estructura celular de las almendras impide que digieras toda su grasa. Pasa con muchos frutos secos y semillas.",
+      "visual": "almonds nuts bowl",
+      "duration": 22
+    },
+    {
+      "voice": "Otro ejemplo. Kevin Hall en los Institutos Nacionales de Salud comparó hamburguesa procesada versus comida casera con las mismas calorías. Los participantes comieron 500 kilocalorías más al día cuando estaban en dieta ultraprocesada y ganaron peso. Mismas calorías declaradas, distintas calorías absorbidas y distinta respuesta hormonal.",
+      "visual": "ultra processed food comparison",
+      "duration": 23
+    },
+    {
+      "voice": "El metabolismo basal calculado por fórmulas también engaña. La fórmula Mifflin-St Jeor tiene un error promedio del 15 por ciento. Para una mujer de 65 kilos puede dar 1.380 kilocalorías cuando la real está en 1.150. Si haces déficit del 20 por ciento sobre la calculada, en realidad estás en mantenimiento. Y no entiendes por qué no bajas.",
+      "visual": "calculator math formula",
+      "duration": 23
+    },
+    {
+      "voice": "Cuál es la solución entonces. Olvídate del número exacto de calorías diarias durante las primeras 2 semanas. Mide. Pesa al día siguiente y al cabo de 14. Si bajas entre 0.5 y 1 kilo en ese tiempo, tu déficit está en buen rango. Si no bajas nada, reduce un puñado de algo concreto y vuelve a medir. La iteración funciona mejor que la calculadora.",
+      "visual": "weight scale measurement",
+      "duration": 24
+    },
+    {
+      "voice": "Las apps de contar calorías como MyFitnessPal tienen sesgo sistemático a la baja. Trabajos de Christopher Yi mostraron que la mayoría de usuarios infraestiman su ingesta entre un 20 y un 50 por ciento. Olvidamos el chorrito de aceite, el cuarto plato del niño, las dos almendras antes de cocinar. Lo invisible suma. Y mucho.",
+      "visual": "person eating snack hidden",
+      "duration": 23
+    },
+    {
+      "voice": "El truco contraintuitivo es enfocar la proteína primero. Pon el objetivo en 1.6 gramos por kilo de peso diario. Para una persona de 70 kilos son 112 gramos. Esto hace dos cosas. Aumenta la saciedad sin tener que pensar mucho y preserva masa muscular durante la pérdida de peso. Trabajos de Stuart Phillips lo confirman desde hace décadas.",
+      "visual": "fresh chicken meat protein",
+      "duration": 23
+    },
+    {
+      "voice": "Segundo truco, fibra como segunda prioridad. Apunta a 30 gramos al día. La fibra aporta volumen sin calorías, fermenta produciendo ácidos grasos beneficiosos y regula glucosa. Un puñado de avena, una manzana entera, una taza de lentejas, 4 cucharadas de brócoli. Llegas. Sin obsesionarte con calorías.",
+      "visual": "high fiber foods bowl",
+      "duration": 22
+    },
+    {
+      "voice": "El concepto clave es densidad calórica. Barbara Rolls en Penn State lleva 30 años publicando sobre esto. La densidad calórica es las calorías por gramo de alimento. Verduras crudas están en 0.3 kilocalorías por gramo. Fruta fresca en 0.5. Carnes magras en 1.2. Patatas fritas en 5.5. Aceites en 9. Comer mucho volumen de baja densidad llena sin pasarse.",
+      "visual": "food portion sizes comparison",
+      "duration": 25
+    },
+    {
+      "voice": "Aplicado a la práctica. Llena la mitad del plato con verduras o ensalada. Un cuarto con proteína magra. Un cuarto con cereal integral o tubérculo. Añade una cucharada de aceite. Sin pesar nada acabas en un rango de 500 a 700 kilocalorías por plato, que es lo que necesita la mayoría de personas en mantenimiento sin necesitar matemáticas.",
+      "visual": "plate portions visual guide",
+      "duration": 24
+    },
+    {
+      "voice": "El error del déficit agresivo. Si comes 800 kilocalorías al día porque crees que más rápido es mejor, dos cosas pasan. Una, pierdes músculo además de grasa. Dos, tu cuerpo activa adaptación metabólica. Estudios del experimento de Minnesota durante la Segunda Guerra Mundial dirigido por Ancel Keys ya documentaron caídas del 40 por ciento en el gasto metabólico tras restricciones severas.",
+      "visual": "extreme diet warning",
+      "duration": 24
+    },
+    {
+      "voice": "El rango sostenible está entre 300 y 500 kilocalorías de déficit diario para una persona con sobrepeso moderado. Eso son 0.4 a 0.7 kilos de pérdida semanal. Más rápido que eso casi siempre incluye pérdida de músculo y agua. Y mucha gente abandona en la semana 4 por hambre o energía baja.",
+      "visual": "moderate deficit calculation",
+      "duration": 21
+    },
+    {
+      "voice": "El componente líquido se subestima. Una cerveza grande tiene 250 kilocalorías. Un refresco grande 200. Un café con leche grande 150. Un zumo natural 120. Tres bebidas al día sin pensarlo son 600 kilocalorías líquidas sin saciar nada. Eliminar esto solo, sin cambiar nada más, suele bastar para perder peso en personas con sobrepeso leve.",
+      "visual": "sugary drinks lineup",
+      "duration": 23
+    },
+    {
+      "voice": "Adaptación metabólica es real pero exagerada. Trabajos de Eric Trexler mostraron que durante un déficit prolongado el gasto basal puede caer entre un 5 y un 15 por ciento. Eso son 100 a 250 kilocalorías menos por día en personas medias. Se compensa moviendose más o aumentando proteína. No es razón para abandonar.",
+      "visual": "scientific metabolism research",
+      "duration": 22
+    },
+    {
+      "voice": "El concepto de descansos refeed o pausas dietéticas. Cada 6 a 8 semanas en déficit, dos semanas en mantenimiento. Esto recupera leptina, mejora rendimiento y reduce el riesgo de abandonar. Datos del estudio MATADOR de Byrne y colaboradores en 2018 mostraron mejor adherencia y resultados con esta estrategia que con déficit continuo.",
+      "visual": "diet break refeed plan",
+      "duration": 23
+    },
+    {
+      "voice": "El sueño altera tu déficit. Dormir menos de 6 horas durante dos semanas reduce la pérdida de grasa en un 55 por ciento aunque comas las mismas calorías. Arlet Nedeltcheva publicó esto en 2010 en Annals of Internal Medicine. Si no duermes, las calorías te las cobra el cortisol y la insulina. No el matemático.",
+      "visual": "person sleeping bedroom dark",
+      "duration": 22
+    },
+    {
+      "voice": "Mitos que entierro hoy. No es verdad que comer hidratos por la noche engorde más. No es verdad que las grasas saturadas hagan que no bajes. No es verdad que tengas que evitar fruta porque tiene azúcar. La fructosa de la fruta entera viene con fibra, agua y micronutrientes que cambian completamente su respuesta metabólica.",
+      "visual": "diet myth busting",
+      "duration": 22
+    },
+    {
+      "voice": "Estrategia práctica para una semana real. Lunes a viernes alimentación limpia con plato saludable y proteína alta. Sábado o domingo una comida flexible que disfrutes sin culpa. Esto da un déficit semanal de unas 3.000 kilocalorías sin sentirte privado. Y la adherencia a largo plazo es lo que decide quién logra cambios duraderos.",
+      "visual": "weekly meal plan visual",
+      "duration": 23
+    },
+    {
+      "voice": "Sobre los días libres. Trabajos de Tomiyama mostraron que la restricción rígida correlaciona con atracones futuros. La restricción flexible no. Permitir comida no óptima ocasional reduce el efecto del control mental y mejora resultados a 12 meses. La obsesión es peor amiga que el equilibrio.",
+      "visual": "flexible meal weekend",
+      "duration": 21
+    },
+    {
+      "voice": "Sobre el efecto rebote. El 80 por ciento de las personas que pierden peso lo recuperan en 5 años según trabajos clásicos de Wing y Phelan. La razón no es metabólica, es conductual. Vuelven a los hábitos anteriores. La diferencia entre quien mantiene y quien no es haber convertido la rutina en algo sostenible, no haber hecho una dieta dura corta.",
+      "visual": "long term healthy habits",
+      "duration": 24
+    },
+    {
+      "voice": "Pesarse bien. Hazlo a primera hora, en ayunas, después del baño, mismo día de la semana, mismo escenario. Y no mires el número diario. Mira la media móvil de 7 días. Las fluctuaciones diarias por agua, sodio y heces pueden ser de 1 a 2 kilos. Te vuelven loco si miras cada mañana.",
+      "visual": "weight scale routine measurement",
+      "duration": 21
+    },
+    {
+      "voice": "El factor estrés. Cortisol alto promueve antojos de azúcar y grasa, retiene líquidos y dificulta perder grasa visceral. Si tu vida es un caos, una dieta perfecta no compensa. A veces lo que falta es dormir mejor, decir no a cosas y bajar el ritmo. La salud mental decide muchos casos clínicos.",
+      "visual": "stressed person eating snacks",
+      "duration": 21
+    },
+    {
+      "voice": "Caso real. Un paciente de 38 años intentaba perder 7 kilos con cardio diario y dieta de 1.400 kilocalorías sin resultados. Cambió a dieta con 1.700 kilocalorías más altas en proteína, dejó cerveza diaria y añadió fuerza dos veces por semana. Perdió 6 kilos en 14 semanas. La clave fue dejar de pelearse con su metabolismo y trabajar con él.",
+      "visual": "successful weight loss case",
+      "duration": 23
+    },
+    {
+      "voice": "Pero hay algo que casi nadie sabe sobre el déficit calórico. Existe un tipo de comida que con el mismo número de calorías frena por completo la pérdida de peso por su efecto en la microbiota. Lo cuento entero en el próximo vídeo con los estudios concretos.",
+      "visual": "microbiome gut bacteria",
+      "duration": 20
+    },
+    {
+      "voice": "Suscríbete a VidaSana360 y dale a la campana. En el próximo vídeo te enseño cómo el sueño regula la pérdida de grasa y por qué dormir 7 horas vale más que cualquier suplemento quemagrasas del mercado.",
+      "visual": "healthy lifestyle wellness",
+      "duration": 18
+    }
+  ],
+  "duration_estimate_seconds": 1295,
+  "thumbnail_text": "DÉFICIT CALÓRICO REAL"
+}

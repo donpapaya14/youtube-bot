@@ -1,0 +1,150 @@
+{
+  "title": "💪 Cortisol crónico — la hormona que arruina todo",
+  "description": "Cómo identificar el cortisol crónicamente elevado, sus efectos en peso, sueño y energía, y los protocolos para bajarlo sin medicación basados en evidencia reciente.",
+  "tags": [
+    "cortisol",
+    "estres cronico",
+    "hormonas",
+    "salud hormonal",
+    "ansiedad",
+    "sueño",
+    "ejercicio",
+    "bienestar",
+    "nutricion antiestres",
+    "vida saludable"
+  ],
+  "segments": [
+    {
+      "voice": "Todo lo que te han contado sobre el cortisol está mal. No es una hormona mala. Es una de las más importantes que tienes. Sin cortisol no te levantarías de la cama, no responderías al peligro, no metabolizarías comida. El problema no es tener cortisol. Es tenerlo elevado de forma crónica durante meses o años. Y eso le pasa al 67 por ciento de los españoles según datos del CIS de 2023 sobre estrés laboral.",
+      "visual": "stressed person holding head",
+      "duration": 28
+    },
+    {
+      "voice": "El cortisol se produce en las glándulas suprarrenales, encima de los riñones. Sigue un ritmo circadiano. Por la mañana al despertar tiene pico, lo llaman cortisol awakening response. Va bajando durante el día y por la noche está al mínimo para permitir dormir. Cuando ese ritmo se rompe, todo se desordena. Insomnio, ansiedad, peso visceral, fatiga matutina paradójica.",
+      "visual": "circadian rhythm diagram",
+      "duration": 24
+    },
+    {
+      "voice": "El estrés crónico no es solo psicológico. Tu cerebro no distingue bien entre un león en el bosque y un mail de tu jefe. Activa el mismo eje hipotálamo-hipófisis-suprarrenal. Bruce McEwen en Rockefeller University acuñó el concepto de carga alostática para describir el desgaste acumulado de la activación crónica. Y publicó datos sobre cómo afecta hipocampo, sistema inmune y metabolismo.",
+      "visual": "brain stress response",
+      "duration": 24
+    },
+    {
+      "voice": "Síntomas reales de cortisol crónico elevado. Despertarse cansado pese a haber dormido 8 horas. Energía mañana, bajón a las 15:00. Antojos de azúcar y sal. Acumulación de grasa abdominal aunque comas poco. Insomnio de madrugada, despertar a las 3 a 4 sin razón. Manchas en la piel, ciclos menstruales irregulares en mujeres, libido baja.",
+      "visual": "tired person morning",
+      "duration": 24
+    },
+    {
+      "voice": "Test casero para sospechar. Si te levantas con la sensación de que un camión te pasó por encima y solo te activas con dos cafés, hay un problema. Si tu energía pico llega entre las 17:00 y las 22:00, justo cuando deberías estar bajando, también. Si dormir 9 horas no te recupera, tu sistema hormonal está roto. La analítica de cortisol salival es la forma objetiva.",
+      "visual": "saliva cortisol test",
+      "duration": 23
+    },
+    {
+      "voice": "La medición seria se hace con perfil de cortisol salival en 4 puntos del día. Despertar, mediodía, tarde y noche. Esto da un perfil de curva. Una sola medida en sangre es inútil porque el cortisol fluctúa cada minuto. Los laboratorios privados lo ofrecen entre 80 y 120 euros. Mucho más útil que un análisis básico.",
+      "visual": "lab test results paper",
+      "duration": 22
+    },
+    {
+      "voice": "Causas comunes en la vida moderna. Sueño insuficiente o fragmentado. Estrés laboral sin desconexión. Hijos pequeños que no duermen. Ejercicio en exceso sin recuperación. Café en exceso especialmente sin comer. Restricciones calóricas agresivas. Conflictos personales sin resolver. Cualquier inflamación crónica de bajo grado por dieta o intestino permeable.",
+      "visual": "modern life stressors",
+      "duration": 23
+    },
+    {
+      "voice": "Cómo el cortisol arruina la pérdida de peso. Mantiene la insulina alta dificultando la lipólisis. Promueve almacenamiento de grasa abdominal por densidad de receptores. Reduce hormona del crecimiento por la noche. Aumenta antojos de comida hipercalórica. Eleva tensión arterial y inflamación. Mary Dallman en UCSF publicó trabajos clásicos sobre el patrón de comfort eating asociado a estrés crónico.",
+      "visual": "abdominal fat measurement",
+      "duration": 24
+    },
+    {
+      "voice": "Primera intervención, sueño no negociable. Antes que dieta, antes que ejercicio, antes que suplementos. 7 a 8 horas con horario consistente. Sin esto, ninguna intervención hormonal funciona. Trabajos del grupo de Eve Van Cauter mostraron que recuperar sueño normaliza cortisol matinal en 2 semanas en sujetos previamente deficientes.",
+      "visual": "person sleeping deep restful",
+      "duration": 23
+    },
+    {
+      "voice": "Segunda intervención, exposición a luz solar matinal. 10 a 15 minutos en los primeros 60 a 90 minutos tras despertar. Sin gafas de sol. Esto consolida el ritmo circadiano, normaliza la subida matinal de cortisol y mejora la caída nocturna. Andy Huberman en Stanford defiende esto con mucha evidencia. Es gratis y funciona.",
+      "visual": "morning sunlight balcony",
+      "duration": 22
+    },
+    {
+      "voice": "Tercera intervención, respiración para activar el nervio vago. Cinco minutos al día de respiración 4-7-8 o respiración nasal profunda con exhalaciones largas. Esto reduce cortisol agudo y mejora la variabilidad cardíaca, marcador de buen funcionamiento del sistema nervioso autónomo. Trabajos publicados en Frontiers in Psychology lo confirman.",
+      "visual": "breathing exercise calm",
+      "duration": 23
+    },
+    {
+      "voice": "Cuarta intervención, ejercicio adecuado, no excesivo. Cardio moderado tipo caminata, ciclismo suave, natación entre 30 y 60 minutos varias veces por semana baja cortisol crónico. Pero entrenamiento de alta intensidad diario sin descanso puede aumentarlo. Stuart Phillips defiende la importancia de los días de recuperación que la gente subestima.",
+      "visual": "moderate walking exercise nature",
+      "duration": 23
+    },
+    {
+      "voice": "Quinta intervención, ashwagandha. Es uno de los pocos suplementos con evidencia decente para reducir cortisol. Una revisión sistemática publicada en 2019 en Medicine encontró reducciones del 14 al 27 por ciento de cortisol con dosis de 300 a 600 miligramos al día durante 8 semanas. No es magia pero ayuda en algunos casos.",
+      "visual": "ashwagandha herbal supplement",
+      "duration": 22
+    },
+    {
+      "voice": "Sexta intervención, dieta antinflamatoria. Reducir azúcar refinada y ultraprocesados. Aumentar omega 3 de pescado azul. Incluir cúrcuma con pimienta. Verduras coloridas a diario. Fibra suficiente para microbiota sana. La inflamación crónica de bajo grado activa el eje del estrés sin que lo percibas conscientemente.",
+      "visual": "anti inflammatory foods bowl",
+      "duration": 22
+    },
+    {
+      "voice": "Séptima intervención, cafeína controlada. Si tomas más de 3 cafés al día y especialmente después de las 14:00, tu cortisol no descansa. Bajar a 1 o 2 cafés por la mañana con comida tiene efecto medible. Lloyd Allen en 1985 ya documentó cómo cafeína eleva cortisol especialmente en personas con estrés crónico.",
+      "visual": "coffee morning routine",
+      "duration": 22
+    },
+    {
+      "voice": "Octava intervención, conexión social real. La oxitocina es la hormona opuesta funcional al cortisol. Conversaciones profundas, contacto físico afectuoso, comidas con amigos sin móviles. Sue Carter llevaba 40 años publicando sobre cómo el vínculo humano modula el eje del estrés. La soledad crónica es factor de riesgo cardiovascular comparable al tabaco.",
+      "visual": "friends gathering meal",
+      "duration": 23
+    },
+    {
+      "voice": "Novena intervención, contacto con naturaleza. Estudios en Japón sobre el shinrin-yoku o baño de bosque, liderados por Qing Li, muestran reducciones medibles de cortisol salival tras 20 a 40 minutos en zonas arboladas. No hace falta ir a un parque nacional. Un parque urbano grande funciona si vas regularmente.",
+      "visual": "forest walking meditation",
+      "duration": 22
+    },
+    {
+      "voice": "Décima intervención, decir no. Una de las causas más subestimadas de estrés crónico es la incapacidad de poner límites. Aceptar compromisos que no quieres, complacer a familia, jefe, amigos hasta agotar tu energía. Aprender a decir no con asertividad reduce carga alostática mejor que muchos suplementos. Pero requiere trabajo psicológico real.",
+      "visual": "person setting boundaries",
+      "duration": 23
+    },
+    {
+      "voice": "Lo que no funciona. Beber muchas bebidas energéticas para mantenerte despierto, eso aumenta el cortisol. Atracones de ejercicio el fin de semana sin movimiento entre semana, descoordina el ritmo. Hacer ayunos prolongados de 36 a 48 horas si ya tienes cortisol crónico alto, te empeora. Suplementos quemagrasas con estimulantes, los peores aliados.",
+      "visual": "energy drinks unhealthy",
+      "duration": 22
+    },
+    {
+      "voice": "Trampas mentales habituales. Pensar que descansar es perezoso. Sentirse culpable por dormir 8 horas. Creer que multitarea es eficiente cuando aumenta cortisol y baja productividad. Estar siempre con el móvil revisando notificaciones. La cultura de la hiperproductividad es un caldo de cultivo para enfermedad metabólica.",
+      "visual": "person checking phone obsessively",
+      "duration": 22
+    },
+    {
+      "voice": "Sobre el ejercicio adaptógeno. Yoga, tai chi y qigong son las prácticas con más evidencia para reducir cortisol crónico de forma sostenida. No es la moda. Es que combinan movimiento controlado, respiración consciente y atención plena. Revisiones sistemáticas en JAMA Internal Medicine han confirmado efectos en marcadores objetivos de estrés.",
+      "visual": "yoga practice peaceful",
+      "duration": 23
+    },
+    {
+      "voice": "Pequeños hábitos diarios que suman. Beber agua templada por la mañana antes que café. Caminar 10 minutos después de comer. Cerrar pantallas 1 hora antes de dormir. Cenar 2.5 horas antes de acostarte. Bañarte con agua caliente por la noche. Apuntar 3 cosas buenas del día antes de dormir. Cada una es pequeña, la suma es brutal.",
+      "visual": "healthy daily habits routine",
+      "duration": 24
+    },
+    {
+      "voice": "Sobre la psicoterapia. La terapia cognitivo conductual y la terapia EMDR para traumas tienen evidencia robusta en reducción de cortisol crónico. Cuando hay traumas no resueltos o estrés postraumático, ningún suplemento ni cambio nutricional resuelve el problema. La salud hormonal a veces empieza en consulta de psicología.",
+      "visual": "therapy session counseling",
+      "duration": 22
+    },
+    {
+      "voice": "Caso real. Una paciente de 39 años, abogada, con insomnio, 7 kilos de grasa abdominal nueva, ciclos menstruales irregulares. Cortisol salival con curva plana, sin pico matinal ni caída nocturna. Cambió rutina con luz solar matinal, salió antes del despacho, empezó yoga tres veces por semana y dejó cafeína a partir de mediodía. En 12 semanas su cortisol normalizó y perdió 5 kilos sin cambiar dieta.",
+      "visual": "successful lifestyle change",
+      "duration": 25
+    },
+    {
+      "voice": "Pero hay algo que casi nadie sabe sobre el cortisol y el ayuno intermitente. Si tienes cortisol crónico alto, el ayuno 16:8 puede empeorar tu situación en lugar de mejorarla. Hay un protocolo de ayuno específico que funciona en estos casos y nadie lo está enseñando. Te lo cuento en el próximo vídeo con la ciencia detrás.",
+      "visual": "intermittent fasting clock",
+      "duration": 22
+    },
+    {
+      "voice": "Suscríbete a VidaSana360 y dale a la campana. En el próximo vídeo te explico la verdad sobre ayuno 16:8 versus 20:4, cuál es mejor para cada persona y por qué la mayoría de gente lo aplica mal.",
+      "visual": "wellness mindful living",
+      "duration": 18
+    }
+  ],
+  "duration_estimate_seconds": 1290,
+  "thumbnail_text": "CORTISOL CRÓNICO"
+}
