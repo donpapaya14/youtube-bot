@@ -1,0 +1,155 @@
+{
+  "title": "🌿 Ayuno 16:8 vs 20:4 — cuál funciona mejor según tu perfil",
+  "description": "Diferencias reales entre ayuno 16:8 y 20:4 según estudios recientes. Para quién es cada protocolo, efectos hormonales, errores comunes y cómo elegir el tuyo sin pasarte.",
+  "tags": [
+    "ayuno intermitente",
+    "16:8",
+    "20:4",
+    "OMAD",
+    "perdida de grasa",
+    "autofagia",
+    "salud hormonal",
+    "metabolismo",
+    "dieta",
+    "longevidad"
+  ],
+  "segments": [
+    {
+      "voice": "En 8 minutos sabrás exactamente qué protocolo de ayuno intermitente es el tuyo y por qué la mayoría aplica el ayuno mal. El 16:8 es popular porque es fácil. El 20:4 es popular porque es agresivo. Pero ninguno funciona si lo haces sin entender qué hace en tu cuerpo. Y hay perfiles para los que cualquier ayuno largo es contraproducente. Hoy lo aclaramos con los estudios concretos de los últimos 3 años.",
+      "visual": "intermittent fasting clock plate",
+      "duration": 28
+    },
+    {
+      "voice": "Empezamos por las definiciones porque hay confusión. El 16:8 significa 16 horas sin comer y una ventana de 8 horas para comer. La forma habitual es saltarse el desayuno y comer de 13:00 a 21:00. El 20:4 reduce la ventana a 4 horas, normalmente comiendo entre 16:00 y 20:00. Y luego está el OMAD, una sola comida al día, que es ayuno 23:1.",
+      "visual": "fasting window diagram",
+      "duration": 23
+    },
+    {
+      "voice": "La autofagia es el argumento estrella del ayuno. Yoshinori Ohsumi ganó el Nobel en 2016 por descubrir sus mecanismos. La autofagia es el proceso de reciclaje celular. Tus células degradan proteínas defectuosas y orgánulos dañados para reutilizarlos. Esto rejuvenece tejido. Pero la cuestión es cuántas horas necesitas ayunar para activarla de forma significativa.",
+      "visual": "cell autophagy microscope",
+      "duration": 24
+    },
+    {
+      "voice": "Aquí viene el dato incómodo. La mayoría de estudios sobre autofagia en humanos muestran activación significativa a partir de 18 a 24 horas de ayuno. El 16:8 induce autofagia leve. El 20:4 ya estimula más. Pero los datos exactos en humanos son escasos porque medir autofagia requiere biopsias musculares. La mayor parte se extrapola de modelos animales.",
+      "visual": "scientific research lab cells",
+      "duration": 24
+    },
+    {
+      "voice": "Para pérdida de grasa, los datos son más sólidos. Un meta-análisis de 2021 en JAMA Internal Medicine analizó 25 estudios y concluyó que el ayuno intermitente produce pérdidas similares al déficit calórico continuo. La ventaja no es metabólica, es de adherencia. A algunas personas les resulta más fácil comer menos veces que contar calorías.",
+      "visual": "weight loss research data",
+      "duration": 23
+    },
+    {
+      "voice": "Beneficios documentados del ayuno bien hecho. Mejor sensibilidad a la insulina, menor inflamación de bajo grado, mejor perfil lipídico, posible regulación hormonal. Mark Mattson en Johns Hopkins lleva décadas publicando sobre neuroprotección y ayuno. La cetosis suave que aparece a partir de 14 a 16 horas tiene efectos cognitivos medibles.",
+      "visual": "brain neurons cognition",
+      "duration": 23
+    },
+    {
+      "voice": "Para quién funciona el 16:8. Adultos sanos sin antecedentes de trastornos alimentarios, con estrés moderado, sueño aceptable, sin déficits nutricionales. Hombres con sobrepeso ligero. Mujeres pre-menopáusicas con cuidado durante la fase lútea. Personas con resistencia a la insulina leve. Personas que naturalmente no tienen hambre por la mañana.",
+      "visual": "healthy adult eating meal",
+      "duration": 23
+    },
+    {
+      "voice": "Para quién NO funciona el 16:8. Personas con historial de anorexia o bulimia. Atletas en alto volumen de entrenamiento. Embarazadas o lactantes. Diabéticos tipo 1 sin supervisión médica. Personas con cortisol crónico alto. Mujeres con amenorrea o ciclos irregulares. Personas muy delgadas que necesitan ganar peso.",
+      "visual": "warning sign person",
+      "duration": 22
+    },
+    {
+      "voice": "El error más común en el 16:8. Hacerlo y luego compensar con un atracón en la ventana de comida. Si haces 16 horas de ayuno y luego comes 3.000 kilocalorías en 8 horas, has hecho ayuno para nada. La calidad nutricional debe mantenerse o mejorar en las comidas. Si no, todo el esfuerzo metabólico se pierde.",
+      "visual": "binge eating warning",
+      "duration": 22
+    },
+    {
+      "voice": "El 20:4 sube la apuesta. Krista Varady en la Universidad de Illinois publicó en 2020 un estudio comparando 16:8 con 20:4. Ambos grupos perdieron peso similar en 8 semanas, alrededor de un 3 por ciento del peso corporal. Pero el 20:4 fue más difícil de mantener y tuvo mayor tasa de abandono.",
+      "visual": "comparison study chart",
+      "duration": 22
+    },
+    {
+      "voice": "Ventajas del 20:4 sobre el 16:8. Mayor activación de autofagia. Mayor reducción de insulina basal. Mayor producción de cetonas. Más simple de planificar, solo una o dos comidas al día. Pero también mayor riesgo de déficit nutricional si no se planifica bien y mayor riesgo de pérdida muscular si la proteína es insuficiente.",
+      "visual": "minimal meals plan",
+      "duration": 22
+    },
+    {
+      "voice": "Diferencias hombres versus mujeres. Los datos sugieren que mujeres son más sensibles a ayunos prolongados por temas hormonales. Stacy Sims, doctora en fisiología del ejercicio, publica extensamente sobre por qué los ayunos largos pueden alterar el eje reproductivo femenino. Los ayunos más cortos de 12 a 14 horas son mejor punto de partida para muchas mujeres.",
+      "visual": "women health hormones",
+      "duration": 24
+    },
+    {
+      "voice": "Estrategia smart para mujeres. Empezar con 12:12, ir subiendo a 14:10 si te sientes bien y solo llegar a 16:8 después de varias semanas. Evitar ayunos largos en fase lútea, las dos semanas después de ovulación, donde el cuerpo demanda más nutrientes. Estos matices se ignoran cuando se aplica el mismo protocolo para todos.",
+      "visual": "menstrual cycle calendar",
+      "duration": 23
+    },
+    {
+      "voice": "Sobre el café en el ayuno. El café negro sin azúcar y sin leche técnicamente no rompe el ayuno desde el punto de vista calórico significativo. Pero la cafeína sin comer aumenta cortisol y puede generar ansiedad. Si tu meta es bienestar, café con un poquito de comida funciona mejor que café solo en ayunas para personas sensibles.",
+      "visual": "black coffee morning",
+      "duration": 22
+    },
+    {
+      "voice": "Sobre los aminoácidos esenciales o BCAAs durante el ayuno. Si los tomas, rompes el ayuno desde el punto de vista de autofagia porque activan mTOR. Si tu objetivo es autofagia, no los uses. Si tu objetivo es solo déficit calórico para perder grasa, son irrelevantes salvo para preservar masa muscular en entrenamientos en ayunas.",
+      "visual": "supplements bcaa container",
+      "duration": 22
+    },
+    {
+      "voice": "Cómo romper el ayuno bien. La primera comida debe tener proteína de calidad, grasa saludable y carbohidratos no refinados. No empieces con un croissant. Mejor huevos con aguacate y tostada integral. O yogur con frutos secos y fruta. Romper con dulces produce subida brusca de glucosa y se pierde gran parte del beneficio metabólico ganado.",
+      "visual": "balanced breaking fast meal",
+      "duration": 23
+    },
+    {
+      "voice": "Errores típicos del que empieza. No comer suficiente proteína en la ventana de comida. No hidratarse adecuadamente durante el ayuno. Aumentar cafeína para compensar el hambre. Hacer cardio intenso en ayunas largos sin entrenar previamente. Compensar privación con comida ultraprocesada cuando llega la ventana. Cualquiera arruina los beneficios.",
+      "visual": "common fasting mistakes",
+      "duration": 22
+    },
+    {
+      "voice": "El ayuno y los entrenamientos de fuerza no son incompatibles. Pero requiere organización. Si entrenas a las 10:00 y comes a las 13:00, tu ventana anabólica de proteína es tardía. Esto puede ralentizar recuperación. Brad Schoenfeld defiende que para ganancia muscular es mejor distribuir proteína cada 3 a 4 horas, lo cual choca con ayunos muy largos.",
+      "visual": "weight training muscle",
+      "duration": 23
+    },
+    {
+      "voice": "Para longevidad las evidencias son interesantes. Estudios en monos por Roy Walford y luego por Rafael de Cabo muestran que restricción calórica del 25 por ciento prolonga vida y reduce enfermedades de la edad. El ayuno intermitente parece producir efectos similares en ratones. En humanos los datos son indirectos pero prometedores.",
+      "visual": "longevity research animals",
+      "duration": 23
+    },
+    {
+      "voice": "El ayuno prolongado de 24 a 72 horas tiene efectos distintos. Valter Longo en USC ha publicado sobre dietas mimético del ayuno. Cinco días al mes de muy baja ingesta producen regeneración del sistema inmune según sus trabajos. Pero esto requiere supervisión y no es algo para hacer sin preparación o consejo médico.",
+      "visual": "prolonged fasting supervised",
+      "duration": 23
+    },
+    {
+      "voice": "Mitos que enterrar. El ayuno no te da más energía mágica, simplemente te adaptas. No quema más grasa per se, lo importante es el déficit total. No es lo mismo que dieta cetogénica aunque comparte mecanismos. No te hace más inteligente aunque algunos perciben claridad mental. No es para toda la vida obligatoriamente.",
+      "visual": "myth busting concepts",
+      "duration": 22
+    },
+    {
+      "voice": "Cuando dejar de hacer ayuno. Si llegas crónicamente irritable. Si pierdes el periodo menstrual. Si tu libido cae notablemente. Si tu sueño empeora consistentemente. Si pierdes masa muscular medida con báscula de bioimpedancia. Si tu rendimiento físico cae. El cuerpo da señales antes de que la analítica las muestre.",
+      "visual": "warning signals body health",
+      "duration": 22
+    },
+    {
+      "voice": "Sobre la flexibilidad. No es obligatorio hacer ayuno todos los días. Aplica 5 días por semana y come normal los fines de semana familiares. La rigidez crea estrés psicológico que activa cortisol y bloquea los beneficios. La flexibilidad sostenida en el tiempo siempre vence a la perfección de corta duración.",
+      "visual": "flexible diet plan calendar",
+      "duration": 22
+    },
+    {
+      "voice": "Caso real. Un paciente de 45 años con resistencia a la insulina, glucosa en ayunas en 108, sobrepeso moderado. Empezó con 14:10 dos semanas, pasó a 16:8 ocho semanas, mantuvo proteína alta y dejó de picar entre comidas. En tres meses perdió 7 kilos, su glucosa bajó a 92 y mejoró HbA1c de 5.9 a 5.5. El ayuno funcionó porque encajó con su contexto.",
+      "visual": "medical lab results improvement",
+      "duration": 24
+    },
+    {
+      "voice": "Conclusión práctica. El 16:8 es buen punto de partida para la mayoría. El 20:4 solo si ya estabas adaptado y buscas más autofagia. OMAD es para perfiles específicos con supervisión. Y el mejor ayuno es el que puedes mantener sin convertirte en una persona obsesiva con la hora del reloj.",
+      "visual": "fasting protocols comparison",
+      "duration": 22
+    },
+    {
+      "voice": "Pero hay algo que casi nadie sabe sobre el ayuno y el magnesio. Cuando ayunas más de 16 horas, las pérdidas de magnesio se aceleran y un déficit silencioso de este mineral puede sabotear todo el beneficio. Te explico exactamente qué tipo de magnesio tomar en el próximo vídeo.",
+      "visual": "magnesium mineral supplement",
+      "duration": 22
+    },
+    {
+      "voice": "Suscríbete a VidaSana360 y dale a la campana. La próxima semana publico una comparativa profunda entre magnesio glicinato y citrato, cuál tomar según tu problema y dosis exactas según los últimos estudios.",
+      "visual": "wellness supplements lifestyle",
+      "duration": 18
+    }
+  ],
+  "duration_estimate_seconds": 1300,
+  "thumbnail_text": "16:8 VS 20:4"
+}
