@@ -1,0 +1,109 @@
+{
+  "id": 42,
+  "title": "📊 The Traditional 401k Tax Bomb That Destroys Retirement",
+  "description": "Pre-tax 401k looks like a tax win until age 73 RMDs hit and 1.2 million dollar balances trigger Medicare IRMAA surcharges and 24 percent brackets. Real numbers, real strategies to defuse the bomb.\n\nSources: IRS Publication 590-B RMD tables, CMS Medicare IRMAA 2026, Vanguard How America Saves 2025.",
+  "tags": ["traditional 401k tax bomb", "RMD age 73", "required minimum distributions 2026", "401k tax problem retirement", "IRMAA Medicare surcharge", "roth conversion ladder strategy", "401k vs roth", "retirement tax planning", "IRS publication 590-B", "vanguard 401k report"],
+  "thumbnail_text": "401k Tax TRAP",
+  "segments": [
+    {
+      "voice": "Everything Dave Ramsey told you about the traditional 401k is wrong for high earners. Yes, you get a tax deduction today. Yes, the money grows tax deferred. But at age 73, the IRS forces you to start required minimum distributions that can push you into the 32 percent federal bracket, trigger Medicare IRMAA surcharges that add 5,200 dollars per year per couple, and create a tax burden your kids inherit at their highest earning years. Today we defuse the 401k tax bomb.",
+      "visual": "Pre tax 401k contribution today versus tax bomb age 73 RMD forced distribution"
+    },
+    {
+      "voice": "The 401k contribution limit for 2026 is 24,500 dollars under age 50, with a 7,500 catch up for ages 50 and over, total 32,000. SECURE Act 2.0 added a super catch up for ages 60 to 63 of 11,250 dollars in 2026. The overall plan limit including employer match is 70,000 dollars. The traditional pre tax 401k reduces your taxable income today. The Roth 401k uses after tax money but grows tax free. Most plans offer both options now.",
+      "visual": "401k contribution limits 2026 24500 32000 70000 dollars employer match"
+    },
+    {
+      "voice": "The pre tax 401k looks great in your 30s and 40s. You earn 150,000 dollars, contribute 24,500 to a traditional 401k, your taxable income drops to 125,500. At a 24 percent federal marginal rate plus 7 percent state, you save 7,595 dollars in taxes this year. The full 24,500 grows in the market for 30 years. At 8 percent returns, that single year contribution becomes 246,000 dollars. The traditional sales pitch is compelling.",
+      "visual": "Pre tax 401k contribution today tax savings 7595 grow 246000 30 years"
+    },
+    {
+      "voice": "Now run the math at retirement. You worked 30 years contributing the max every year. Your 401k balance hits 2.4 million dollars at age 65, assuming 8 percent returns. Suze Orman would call this a great outcome. Dave Ramsey would say you are a baby steps millionaire. The IRS sees a tax deferred timebomb. Every dollar that comes out is taxed at your ordinary income rate. There is no capital gains treatment. There is no step up basis. The IRS has been waiting 30 years to collect.",
+      "visual": "401k balance 2.4 million dollars retirement age 65 IRS tax bill waiting"
+    },
+    {
+      "voice": "The required minimum distribution starts at age 73 under SECURE Act 2.0. The IRS publishes RMD tables in Publication 590-B. At age 73 with a 2.4 million dollar 401k balance, your first RMD is approximately 90,500 dollars. That is forced taxable income whether you need it or not. Add Social Security of approximately 45,000, any pension income, and dividends from your taxable account. Your total taxable income easily hits 180,000 dollars. You are now in a 24 percent federal bracket, often higher than your working years.",
+      "visual": "RMD calculation age 73 publication 590-B tables forced distribution 90500"
+    },
+    {
+      "voice": "The Medicare IRMAA surcharge is the cruelest part of the trap. IRMAA stands for Income Related Monthly Adjustment Amount. CMS uses your tax return from 2 years prior to determine Medicare Part B and Part D premiums. The 2026 IRMAA brackets for a married couple start adding surcharges at 212,000 dollars MAGI. If your retirement income from RMDs pushes you to 250,000 MAGI, you pay an extra 5,200 dollars per year in Medicare premiums for the rest of your life.",
+      "visual": "IRMAA Medicare surcharge brackets 2026 married couple premium increase"
+    },
+    {
+      "voice": "The Social Security taxation trap stacks on top. Once your provisional income exceeds 44,000 for married couples, up to 85 percent of your Social Security benefits become taxable. RMDs from a large 401k will push you well past that threshold permanently. You worked your whole life paying into Social Security and now you pay tax on the benefits you receive. The system was originally designed so that no Social Security would be taxed, but those thresholds have not been indexed for inflation since 1983.",
+      "visual": "Social Security taxation provisional income 44000 threshold 85 percent taxable"
+    },
+    {
+      "voice": "The widow penalty multiplies the problem. When one spouse dies, the surviving spouse files as single. The standard deduction is cut roughly in half. The tax brackets are tighter for single filers at every income level. RMDs from the inherited 401k continue. A widow with the same income suddenly pays significantly more in taxes and IRMAA. According to the Society of Actuaries 2024 retirement risk study, the widow penalty causes 41 percent of widowed retirees to drop tax brackets they could not predict.",
+      "visual": "Widow penalty single filer brackets tighter higher taxes retirement"
+    },
+    {
+      "voice": "The inheritance disaster under SECURE Act. Before 2020, your kids could stretch inherited IRA distributions over their lifetime. The SECURE Act killed that. Now non spouse heirs must drain inherited traditional IRAs and 401ks within 10 years. If your 40 year old daughter inherits 1.2 million dollars from your 401k, she must take it all within 10 years on top of her peak earning years salary. She lands in the 37 percent federal bracket plus state taxes. Half the inheritance disappears to taxes.",
+      "visual": "Inherited 401k 10 year rule SECURE Act non spouse beneficiary tax disaster"
+    },
+    {
+      "voice": "Dave Ramsey gets this completely wrong. He still recommends traditional 401k for the deduction. He ignores the RMD problem, the IRMAA problem, and the inheritance problem. His advice works for low earners who really will be in lower brackets in retirement. For high earners maxing the 401k for 30 years, the Roth 401k option saves enormous amounts in lifetime taxes. Mr Money Mustache and Mike Piper of Oblivious Investor have both written extensively on this counter narrative.",
+      "visual": "Dave Ramsey traditional 401k recommendation vs Roth alternative comparison"
+    },
+    {
+      "voice": "When traditional 401k actually wins. If your current marginal tax rate is 32 percent or higher and you reasonably expect to retire in a lower bracket state like Florida or Texas, traditional 401k still wins on tax bracket arbitrage. The math depends on three variables. Your current marginal rate. Your expected retirement marginal rate. Your expected retirement state tax. Run these numbers in a spreadsheet before choosing. The default everyone picks is rarely the right answer.",
+      "visual": "Tax bracket arbitrage 32 percent current rate retirement Florida Texas no tax"
+    },
+    {
+      "voice": "When Roth 401k actually wins. If your current marginal tax rate is 22 or 24 percent and you plan to accumulate more than 1 million dollars in retirement accounts, the Roth 401k usually wins. The reason is that high balance RMDs push you into the same or higher bracket in retirement. The Roth 401k contribution limit is the same as traditional, 24,500 dollars in 2026. But you pay tax now and get fully tax free withdrawals plus no RMDs after rolling to a Roth IRA at retirement.",
+      "visual": "Roth 401k advantage high balance million dollars RMD free retirement"
+    },
+    {
+      "voice": "The hybrid 50 50 strategy. Many high earning households split contributions between traditional and Roth 401k. This creates tax diversification. In retirement, you draw from the Roth to keep your taxable income below the IRMAA brackets and the Social Security tax thresholds, then take RMDs from traditional. This optimization can save 100,000 plus dollars in lifetime taxes for retirees with multi million dollar balances. Vanguard reports about 38 percent of plan participants used a split allocation in 2024.",
+      "visual": "Hybrid 50 50 traditional Roth 401k tax diversification retirement strategy"
+    },
+    {
+      "voice": "The Roth conversion ladder strategy defuses the bomb in early retirement. If you retire at 55 or 60 with a large traditional 401k, you have a window of low taxable income between retirement and age 73 RMD age. Use this window to convert chunks of traditional IRA to Roth IRA every year. Convert just enough to fill the 22 or 24 percent federal bracket. Pay the tax now at known rates. Reduce future RMDs. By age 73 your remaining traditional balance is manageable.",
+      "visual": "Roth conversion ladder early retirement low income window strategy diagram"
+    },
+    {
+      "voice": "The conversion math example. You retire at 60 with 1.5 million in a traditional 401k. You have living expenses of 60,000 per year covered by a taxable brokerage account. From age 60 to 73, you convert 100,000 per year from traditional to Roth. You pay approximately 17,000 per year in federal taxes during the conversion years. Over 13 years you convert 1.3 million dollars and pay about 220,000 in taxes. By age 73, your remaining traditional balance is much smaller and your RMDs are much lower.",
+      "visual": "Roth conversion example 100000 yearly conversions 13 years 220000 taxes"
+    },
+    {
+      "voice": "Why most people fail at Roth conversions. Three psychological mistakes. First, they cannot bring themselves to write a check for 17,000 in taxes that they are not required to pay. Second, they wait for the perfect year to convert and never find one. Third, they fail to plan for state taxes during conversion years if they move to a no tax state. Move first, then convert. Florida and Texas have no income tax, and conversions executed after the move avoid state tax on the converted amount.",
+      "visual": "Psychological barriers Roth conversion paying taxes voluntarily move first plan"
+    },
+    {
+      "voice": "Qualified charitable distributions are an underused weapon. Starting at age 70 and a half, you can direct up to 108,000 dollars per year in 2026 from your traditional IRA directly to a 501c3 charity. The QCD counts toward your RMD but does not show up on your tax return as income. This bypasses the IRMAA and Social Security taxation thresholds entirely. For charitably inclined retirees with large traditional IRA balances, the QCD is the single best tax planning move available.",
+      "visual": "Qualified charitable distribution QCD 108000 IRA to charity direct transfer"
+    },
+    {
+      "voice": "The employer match question. Traditional or Roth, always contribute enough to get the full employer match. According to Vanguard How America Saves 2025, the average employer match is 4.5 percent of salary. Failing to capture the match is leaving free money on the table. The match itself goes into a pre tax account regardless of whether your contribution is traditional or Roth, which is a SECURE Act 2.0 change finalized in 2025. Companies can now match into Roth, but most still match into pre tax.",
+      "visual": "Employer match 401k 4.5 percent free money capture priority retirement"
+    },
+    {
+      "voice": "The order of operations for retirement contributions. First, contribute to 401k up to the full employer match. Second, max your HSA if you have a high deductible health plan. Third, max your Roth IRA via direct contribution or backdoor strategy. Fourth, return to 401k and max the remaining contribution limit. Fifth, taxable brokerage account for additional savings. This priority order optimizes tax efficiency for most American households.",
+      "visual": "Order of operations retirement contributions 401k match HSA Roth IRA brokerage"
+    },
+    {
+      "voice": "Common mistake number one. Picking traditional 401k because it gives a tax deduction without modeling retirement tax exposure. Run the numbers in a retirement calculator like Boldin or NewRetirement. Look at projected RMDs at age 73. Look at projected Medicare IRMAA exposure. The deduction today is meaningless if it creates a 3 times larger tax bill in retirement.",
+      "visual": "Retirement calculator Boldin NewRetirement projecting future taxes RMD impact"
+    },
+    {
+      "voice": "Common mistake number two. Not rolling your old 401k to a self directed IRA at retirement. Once you retire, roll the 401k to an IRA at Vanguard, Fidelity, or Schwab. The IRA gives you better investment options, lower expense ratios, easier Roth conversion mechanics, and the ability to do qualified charitable distributions. Some 401k plans force the rollover at age 73 anyway, but voluntary early rollovers give you control.",
+      "visual": "401k to IRA rollover retirement Vanguard Fidelity Schwab self directed"
+    },
+    {
+      "voice": "Common mistake number three. Ignoring the impact of state taxes in retirement planning. California, Oregon, and New York tax 401k withdrawals at full state income tax rates. Florida, Texas, Tennessee, Nevada, and Washington have no state income tax. Moving in retirement can save tens of thousands per year on RMDs. Establish residency in the no tax state before starting Roth conversions for maximum benefit.",
+      "visual": "State income tax map California New York high Florida Texas no tax"
+    },
+    {
+      "voice": "Common mistake number four. Treating the 401k as untouchable until 59 and a half. The Rule of 55 allows penalty free withdrawals from your current employer 401k if you separate from service in the year you turn 55 or later. For FIRE retirees who leave work at 55, this means immediate access to 401k funds without the 10 percent early withdrawal penalty. Federal income tax still applies but the penalty is waived. JL Collins covers this in The Simple Path to Wealth.",
+      "visual": "Rule of 55 401k early withdrawal penalty free FIRE retirement separation"
+    },
+    {
+      "voice": "But here is what nobody talks about. The 401k tax bomb is not just about taxes. It is about lost flexibility. A million dollars in a Roth account gives you complete control over when and how much to spend. A million dollars in a traditional 401k gives the IRS partial ownership and a vote on every withdrawal decision. The hidden cost of pre tax retirement savings is decades of lost optionality. That cost shows up only when you face the consequences and cannot reverse course.",
+      "visual": "Roth flexibility versus traditional 401k IRS control retirement decisions"
+    },
+    {
+      "voice": "Your action plan. Step one, log into your 401k and check whether your plan offers a Roth 401k option. Step two, calculate your current marginal tax rate accurately. Step three, model your projected retirement income with a calculator like Boldin. Step four, allocate your future contributions between traditional and Roth based on the model output. Step five, if already retired or near retirement with a large traditional balance, begin Roth conversions during low income years. Next video, the mega backdoor Roth strategy that lets high earners contribute up to 47,000 dollars per year to Roth accounts.",
+      "visual": "Action plan checklist Roth 401k allocation conversion strategy retirement"
+    }
+  ]
+}
