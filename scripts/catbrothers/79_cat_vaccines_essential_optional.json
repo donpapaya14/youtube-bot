@@ -1,0 +1,138 @@
+{
+  "title": "Cat Vaccines: What's Essential vs Optional 🐱",
+  "description": "The verified AAFP vaccination guidelines distinguishing core from non-core cat vaccines. Evidence-based recommendations for protection against panleukopenia, calicivirus, herpesvirus, rabies, and lifestyle-specific vaccinations.\n\nSources: American Association of Feline Practitioners AAFP 2020 Vaccination Guidelines, Cornell Feline Health Center, Journal of Feline Medicine and Surgery 2021, AVMA vaccination protocols, Worldsmall Animal Veterinary Association WSAVA recommendations.\n\n#CatVaccines #FelineHealth #CatCare #VeterinaryScience",
+  "tags": ["cat vaccines", "essential cat vaccines", "aafp vaccination guidelines", "core vaccines cats", "non core vaccines", "indoor cat vaccines", "cat rabies vaccine", "feline vaccination schedule", "cat health care", "veterinary protocols"],
+  "segments": [
+    {
+      "voice": "Your cat may be receiving unnecessary vaccines while missing essential ones. The American Association of Feline Practitioners established clear distinctions between core and non-core vaccines in updated 2020 guidelines. Understanding the difference protects your cat from disease while avoiding over-vaccination risks documented across multiple veterinary studies.",
+      "visual": "cat receiving vaccination essential versus optional analysis",
+      "duration": 25
+    },
+    {
+      "voice": "The AAFP designates four core vaccines essential for all cats regardless of lifestyle. These protect against feline panleukopenia virus, feline herpesvirus type 1, feline calicivirus, and rabies. The three viral diseases are combined in the FVRCP vaccine commonly administered as a single injection.",
+      "visual": "aafp core cat vaccines fvrcp rabies essential",
+      "duration": 26
+    },
+    {
+      "voice": "Feline panleukopenia virus causes severe immune system destruction with mortality rates exceeding 90 percent in unvaccinated kittens. The virus is environmentally persistent, surviving on surfaces for over a year. Even strictly indoor cats can be exposed through contaminated shoes or clothing carrying virus particles into the home.",
+      "visual": "feline panleukopenia virus mortality unvaccinated kittens",
+      "duration": 25
+    },
+    {
+      "voice": "Feline herpesvirus type 1 causes upper respiratory infections affecting up to 90 percent of cats during their lifetimes. The virus establishes lifelong latent infection with recurrent outbreaks during stress. Vaccination significantly reduces symptom severity but cannot prevent infection completely due to widespread environmental presence.",
+      "visual": "feline herpesvirus upper respiratory infection vaccination",
+      "duration": 25
+    },
+    {
+      "voice": "Feline calicivirus produces oral ulcers, respiratory disease, and limping syndrome in cats. Multiple viral strains complicate immunization, requiring vaccines to provide broad protection across calicivirus variants. The infection causes significant morbidity even in vaccinated cats but with reduced severity compared to unvaccinated populations.",
+      "visual": "feline calicivirus oral ulcers respiratory limping syndrome",
+      "duration": 25
+    },
+    {
+      "voice": "Rabies vaccination is legally required for cats in most US states regardless of indoor or outdoor lifestyle. The disease has 100 percent mortality once symptoms appear. Even indoor cats face exposure risk through bats entering homes or escapes leading to wildlife contact. Legal requirements exist for both pet and public health protection.",
+      "visual": "rabies vaccination cat legal requirement indoor outdoor",
+      "duration": 26
+    },
+    {
+      "voice": "The kitten vaccination series begins at 6 to 8 weeks of age. Three FVRCP doses administered at 3 to 4 week intervals establish initial immunity. Rabies vaccination typically begins at 12 to 16 weeks depending on local regulations. The series provides foundation immunity for lifetime protection.",
+      "visual": "kitten vaccination series age schedule fvrcp rabies",
+      "duration": 25
+    },
+    {
+      "voice": "Adult vaccination schedules vary by lifestyle and vaccine type. The AAFP recommends FVRCP boosters every 3 years rather than annually based on duration of immunity studies. Rabies vaccination intervals depend on the specific vaccine product, ranging from annual to 3-year protection.",
+      "visual": "adult cat vaccination schedule boosters 3 year intervals",
+      "duration": 25
+    },
+    {
+      "voice": "Non-core vaccines include protection against feline leukemia virus, feline immunodeficiency virus, chlamydia, and Bordetella. These vaccines are recommended only for cats with specific exposure risks. Strictly indoor cats living alone typically do not require these additional vaccinations under current guidelines.",
+      "visual": "non core cat vaccines feline leukemia immunodeficiency",
+      "duration": 25
+    },
+    {
+      "voice": "Feline leukemia virus vaccination is recommended for outdoor cats, multi-cat households where status is uncertain, and kittens before lifestyle is determined. Initial vaccination involves two doses followed by annual boosters in high-risk cats. The vaccine prevents persistent infection in most exposed cats but is not 100 percent effective.",
+      "visual": "feline leukemia virus vaccination outdoor multi cat households",
+      "duration": 25
+    },
+    {
+      "voice": "Feline immunodeficiency virus vaccination remains controversial due to limited efficacy and testing complications. The vaccine causes positive results on standard FIV tests, complicating diagnosis. Many veterinarians no longer recommend FIV vaccination except in high-risk outdoor cat populations with documented exposure histories.",
+      "visual": "feline immunodeficiency virus vaccination testing controversy",
+      "duration": 25
+    },
+    {
+      "voice": "Chlamydia vaccination is reserved for cats in multi-cat facilities including breeding catteries, shelters, and boarding establishments. The bacterial infection causes conjunctivitis and respiratory disease primarily affecting young cats in crowded environments. Single-cat household pets rarely require this vaccination.",
+      "visual": "chlamydia cat vaccination multi cat facility breeding cattery",
+      "duration": 25
+    },
+    {
+      "voice": "Bordetella vaccination protects against kennel cough in cats. The vaccine is recommended for cats with regular exposure to other cats including shelter cats, show cats, and cats from multi-cat households. Routine household pets typically do not require Bordetella vaccination under current AAFP guidelines.",
+      "visual": "bordetella cat vaccination kennel cough show cats",
+      "duration": 24
+    },
+    {
+      "voice": "Vaccine adverse reactions affect approximately 0.5 percent of vaccinated cats. Most reactions are minor including injection site soreness, mild lethargy, and brief appetite reduction. Severe reactions including allergic responses and injection site sarcomas occur rarely but require veterinary monitoring after vaccination.",
+      "visual": "cat vaccine reactions monitoring injection site",
+      "duration": 24
+    },
+    {
+      "voice": "Vaccine-associated sarcomas develop at injection sites in approximately 1 in 10,000 to 1 in 30,000 vaccinated cats. The malignant tumors require aggressive treatment including surgery and radiation. Modern vaccines have reduced sarcoma incidence through formulation improvements and recommended injection site rotation protocols.",
+      "visual": "vaccine associated sarcoma cat injection site rare complication",
+      "duration": 25
+    },
+    {
+      "voice": "AAFP recommends specific injection site protocols to enable sarcoma identification and treatment. FVRCP goes in right front leg. Rabies goes in right hind leg. Feline leukemia goes in left hind leg. The site standardization helps identify which vaccine caused any tumor that develops.",
+      "visual": "aafp injection site protocol vaccine identification",
+      "duration": 25
+    },
+    {
+      "voice": "Titer testing measures immune protection without revaccination. Blood tests verify adequate antibody levels indicating sustained immunity from previous vaccinations. Cats with protective titers may not need scheduled boosters. The testing approach reduces vaccination frequency while ensuring continued disease protection.",
+      "visual": "cat titer testing blood antibody levels immunity verification",
+      "duration": 25
+    },
+    {
+      "voice": "Senior cats over 12 years may need modified vaccination schedules. Reduced immune system function may decrease vaccine effectiveness. Veterinarians may extend booster intervals or use titer testing to verify continued protection. Individual assessment determines optimal vaccination strategy for elderly cats.",
+      "visual": "senior cat modified vaccination schedule reduced immune function",
+      "duration": 25
+    },
+    {
+      "voice": "Pregnant or immunocompromised cats require special vaccination considerations. Modified live vaccines may not be appropriate during pregnancy. Cats receiving immunosuppressive medications may have reduced vaccine response. Veterinary consultation determines appropriate vaccination approach for these special population cats.",
+      "visual": "pregnant immunocompromised cat vaccination special considerations",
+      "duration": 24
+    },
+    {
+      "voice": "Maternal antibody interference affects kitten vaccination timing. Antibodies from the mother's milk provide initial protection but interfere with vaccine response. The series of three kitten vaccinations ensures the cat receives at least one effective dose as maternal antibodies decline at varying rates between individuals.",
+      "visual": "kitten maternal antibody interference vaccination series",
+      "duration": 25
+    },
+    {
+      "voice": "Rabies vaccine timing follows specific protocols. The first rabies vaccine typically provides one year of protection. Subsequent rabies vaccines may provide 3 years depending on the specific product. Local regulations determine minimum vaccination frequency regardless of vaccine duration claims.",
+      "visual": "rabies vaccine timing protocols annual three year",
+      "duration": 24
+    },
+    {
+      "voice": "Vaccination during illness should typically be postponed. Cats fighting active infections may have reduced vaccine response. Mild conditions may not require postponement, but significant illness warrants delay until recovery. Veterinary assessment determines appropriate vaccination timing during health concerns.",
+      "visual": "cat vaccination postponed during active illness",
+      "duration": 24
+    },
+    {
+      "voice": "Documentation of vaccination history is essential for travel, boarding, and emergency veterinary care. Veterinary records, rabies certificates, and microchip information should be maintained accessibly. International travel often requires specific vaccination documentation meeting destination country requirements.",
+      "visual": "cat vaccination documentation records travel boarding",
+      "duration": 24
+    },
+    {
+      "voice": "Cost considerations should not compromise core vaccinations. Low-cost vaccine clinics, veterinary school programs, and shelter vaccine services make essential vaccinations accessible. Skipping core vaccinations due to cost endangers cat life and may violate legal requirements for rabies protection.",
+      "visual": "low cost vaccine clinics accessible essential vaccination",
+      "duration": 24
+    },
+    {
+      "voice": "Most owners never realize the modern AAFP guidelines differ significantly from older vaccination practices. Annual vaccination for all diseases is outdated and potentially harmful. Working with veterinarians who follow current guidelines ensures appropriate protection without unnecessary vaccinations causing avoidable adverse effects in your cat.",
+      "visual": "modern aafp guidelines updated vaccination protocols",
+      "duration": 25
+    },
+    {
+      "voice": "Tomorrow's video covers the recent FIP cure breakthrough that transformed treatment of this previously fatal feline disease. Subscribe to learn about the GS-441524 antiviral therapy that revolutionized feline infectious peritonitis treatment.",
+      "visual": "fip cure breakthrough antiviral treatment cats",
+      "duration": 22
+    }
+  ],
+  "thumbnail_text": "VACCINES YOU NEED"
+}
