@@ -23,7 +23,7 @@ from research import research_topic, generate_content
 from voice import generate_voice_segments
 from pexels_fallback import download_clips
 from assembler import assemble_video, generate_shorts_thumbnail
-from publisher import upload_to_youtube, notify_telegram
+from publisher import upload_to_youtube, notify_telegram, promote_to_telegram
 
 logging.basicConfig(
     level=logging.INFO,
@@ -158,7 +158,7 @@ def run(channel_name: str):
         thumbnail_path=thumbnail_path,
     )
 
-    # 8. Telegram
+    # 8. Telegram (admin notif + auto-promo público)
     msg = (
         f"✅ <b>{channel['name']}</b>\n\n"
         f"📹 {content['title']}\n"
@@ -167,6 +167,15 @@ def run(channel_name: str):
         f"📦 {size_mb:.1f} MB | {len(voiced_segments)} segmentos con voz"
     )
     notify_telegram(msg)
+
+    # Auto-promo: si TELEGRAM_PROMO_CHAT_ID está set, post atractivo
+    promote_to_telegram(
+        channel_name=channel.get("name", args.channel),
+        video_title=content.get("title", ""),
+        video_url=video_url,
+        description=content.get("description", ""),
+        tags=content.get("tags", []),
+    )
 
     log.info("Completado: %s", video_url)
     return video_url

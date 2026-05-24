@@ -204,7 +204,7 @@ def upload_to_youtube_longform(
 
 
 def notify_telegram(message: str) -> bool:
-    """Envía notificación por Telegram."""
+    """Envía notificación por Telegram (admin chat)."""
     token = os.getenv("TELEGRAM_BOT_TOKEN")
     chat_id = os.getenv("TELEGRAM_CHAT_ID")
 
@@ -230,4 +230,41 @@ def notify_telegram(message: str) -> bool:
         return True
     except Exception as e:
         log.error("Error enviando Telegram: %s", e)
+        return False
+
+
+def promote_to_telegram(channel_name: str, video_title: str, video_url: str,
+                        description: str = "", tags: list = None) -> bool:
+    """Auto-promo a canal Telegram público (separado del admin notif).
+    Genera post atractivo con hooks + hashtags + CTA.
+    Set TELEGRAM_PROMO_CHAT_ID al @canal_publico o ID numérico."""
+    token = os.getenv("TELEGRAM_BOT_TOKEN")
+    promo_chat = os.getenv("TELEGRAM_PROMO_CHAT_ID")
+
+    if not token or not promo_chat:
+        return False
+
+    # Formato post promo atractivo
+    hashtags = " ".join(f"#{t.replace(' ','')}" for t in (tags or [])[:5])
+    post = (
+        f"🔥 <b>{video_title}</b>\n\n"
+        f"{description[:200]}{'...' if len(description) > 200 else ''}\n\n"
+        f"▶️ Ver ahora: {video_url}\n\n"
+        f"📺 Canal: {channel_name}\n"
+        f"{hashtags}"
+    )
+
+    try:
+        url = f"https://api.telegram.org/bot{token}/sendMessage"
+        resp = requests.post(url, json={
+            "chat_id": promo_chat,
+            "text": post,
+            "parse_mode": "HTML",
+            "disable_web_page_preview": False,
+        }, timeout=30)
+        resp.raise_for_status()
+        log.info("Promo Telegram enviada al canal público")
+        return True
+    except Exception as e:
+        log.error("Error promo Telegram: %s", e)
         return False
