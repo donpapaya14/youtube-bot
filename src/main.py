@@ -170,7 +170,7 @@ def run(channel_name: str):
 
     # Auto-promo: si TELEGRAM_PROMO_CHAT_ID está set, post atractivo
     promote_to_telegram(
-        channel_name=channel.get("name", args.channel),
+        channel_name=channel.get("name", channel_name),
         video_title=content.get("title", ""),
         video_url=video_url,
         description=content.get("description", ""),
