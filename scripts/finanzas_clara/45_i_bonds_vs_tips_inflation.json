@@ -1,0 +1,113 @@
+{
+  "id": 45,
+  "title": "💵 I-Bonds vs TIPS: Real Inflation Protection in 2026",
+  "description": "Treasury I-Bonds and TIPS both claim inflation protection but they work completely differently. Current 2026 rates, tax treatment, liquidity rules, and which one belongs in your portfolio.\n\nSources: TreasuryDirect I-Bond fixed rate announcements, Federal Reserve TIPS yield data, BLS CPI-U index 2026.",
+  "tags": ["i bonds 2026 rate", "TIPS vs I bonds", "inflation protected securities", "treasury bonds inflation hedge", "I bond fixed rate", "real yield TIPS", "CPI-U inflation adjustment", "treasury direct purchase", "bond ladder inflation", "JL Collins bonds"],
+  "thumbnail_text": "Inflation Hedge",
+  "segments": [
+    {
+      "voice": "Stop. Before you buy another bond in 2026, you need to understand the difference between I bonds and TIPS. Both protect against inflation. Both are issued by the US Treasury. But they work in completely different ways with completely different tax treatment, liquidity rules, and ideal portfolio roles. Picking the wrong one for your situation can cost you thousands in taxes and missed returns. Today we break down both with current 2026 rates.",
+      "visual": "Inflation hedge Treasury bonds I bonds TIPS comparison shield protection chart"
+    },
+    {
+      "voice": "Series I savings bonds are issued by the US Treasury through TreasuryDirect. They have two interest components combined. A fixed rate that stays the same for the entire 30 year life of the bond, set when you purchase. A variable inflation rate that adjusts every 6 months based on the BLS CPI-U index. The combined composite rate is what you actually earn. The May 2026 composite rate is 4.28 percent comprising a 1.30 percent fixed rate and a 2.96 percent annualized inflation component.",
+      "visual": "I bond two components fixed rate inflation variable composite rate 4.28 percent"
+    },
+    {
+      "voice": "Treasury Inflation Protected Securities work very differently. TIPS are marketable bonds that trade on the open market. The principal value adjusts twice yearly based on CPI-U. The coupon rate is fixed at issuance but applies to the inflation adjusted principal, so the interest payments grow with inflation. TIPS have maturities of 5, 10, and 30 years. The current 5 year TIPS real yield is approximately 1.85 percent and the 10 year is approximately 2.05 percent as of February 2026.",
+      "visual": "TIPS principal adjustment CPI semi annual coupon real yield 1.85 percent"
+    },
+    {
+      "voice": "The fundamental difference. I bonds protect your purchasing power by adjusting the interest rate. TIPS protect your purchasing power by adjusting the principal value. This sounds similar but the practical implications are completely different. I bonds have a fixed face value that never decreases. TIPS principal can technically decrease if deflation occurs, although the principal at maturity is floored at the original face value.",
+      "visual": "I bonds rate adjustment vs TIPS principal adjustment mechanism comparison"
+    },
+    {
+      "voice": "The purchase limits. I bonds have an annual purchase limit of 10,000 dollars per Social Security number through TreasuryDirect, plus an additional 5,000 dollars per tax return that can be purchased as paper bonds with your federal tax refund. A married couple can purchase 20,000 dollars per year. A trust can purchase another 10,000 dollars per year. TIPS have no purchase limit because they are marketable securities you can buy in any quantity through any brokerage.",
+      "visual": "I bonds 10000 dollar annual limit TIPS unlimited brokerage purchase comparison"
+    },
+    {
+      "voice": "The liquidity rules. I bonds cannot be redeemed within the first 12 months under any circumstances. From month 13 to month 60, redemption is allowed but forfeits the last 3 months of interest as a penalty. After 5 years, full liquidity with no penalty. TIPS can be sold on the open market any business day at the current price, which fluctuates with interest rates. TIPS principal value can drop temporarily if real interest rates rise, which happened dramatically in 2022 when many TIPS investors lost 15 to 20 percent.",
+      "visual": "I bonds 12 month lockup 5 year penalty TIPS daily liquidity market fluctuation"
+    },
+    {
+      "voice": "The tax treatment differences. I bond interest is exempt from state and local income tax. Federal tax is owed on accrued interest but can be deferred until you redeem the bond, up to 30 years later. This makes I bonds particularly attractive in high tax states like California and New York. TIPS interest is also exempt from state tax. But TIPS have a problem called phantom income. The annual inflation adjustment to principal is taxable at federal level each year even though you do not receive the cash until maturity.",
+      "visual": "Tax treatment I bond deferred federal state exempt TIPS phantom income annual"
+    },
+    {
+      "voice": "The phantom income problem in TIPS. If you hold TIPS in a taxable brokerage account and CPI runs at 3 percent annual inflation, you owe federal income tax on the 3 percent principal adjustment each year despite receiving no cash. This creates an out of pocket tax liability without corresponding cash flow. For this reason, TIPS in a taxable account can create poor after tax returns. The solution is to hold TIPS only in tax advantaged accounts like IRAs and 401ks.",
+      "visual": "TIPS phantom income tax liability no cash flow taxable account problem"
+    },
+    {
+      "voice": "I bond education exclusion is an overlooked benefit. If you redeem I bonds in a year when you pay qualified higher education expenses for yourself, spouse, or dependents, the interest may be partially or fully tax free at federal level. Income phase out applies. For 2026, the modified adjusted gross income phase out starts at 99,200 for single filers and 158,650 for married filing jointly. This makes I bonds an attractive complement to 529 plans for college savings.",
+      "visual": "I bond education exclusion qualified higher education tax free interest college"
+    },
+    {
+      "voice": "The historical I bond returns context. From 1998 to 2022, the I bond composite rate averaged about 4.1 percent annually, beating most other risk free investments. In 2022, the May rate hit 9.62 percent driven by inflation spike, which was the highest in I bond history. The fixed rate component has fluctuated between 0 and 3.6 percent. The 1.30 percent fixed rate available in May 2026 is among the higher fixed rates of the last decade and worth locking in.",
+      "visual": "I bond historical returns chart 1998 to 2026 fixed rate fluctuation peak 2022"
+    },
+    {
+      "voice": "The TIPS yield curve as of February 2026. Real yields, which is the yield above expected inflation, are positive across the full TIPS curve. 5 year TIPS yield 1.85 percent. 10 year TIPS yield 2.05 percent. 30 year TIPS yield 2.15 percent. Compare to nominal Treasury yields. 10 year nominal Treasury yields about 4.4 percent. The difference of 2.35 percent is the market implied inflation expectation, called the breakeven inflation rate.",
+      "visual": "TIPS yield curve 5 10 30 year real yields nominal Treasury breakeven inflation"
+    },
+    {
+      "voice": "How to interpret the breakeven inflation rate. If you expect actual inflation over the next 10 years to exceed 2.35 percent annually, TIPS outperform nominal Treasuries. If you expect inflation below 2.35 percent, nominal Treasuries outperform. The Federal Reserve targets 2 percent inflation. The market is pricing slightly above the Fed target, suggesting investors expect the Fed to fall short of its inflation goal. This is a useful indicator for portfolio decisions.",
+      "visual": "Breakeven inflation rate 2.35 percent Fed target 2 percent market expectation"
+    },
+    {
+      "voice": "Where to buy I bonds. The only way to purchase electronic I bonds is through TreasuryDirect.gov. The site is functional but dated. You create an account, link a checking account, and place purchase orders. Funds are debited within 1 business day and the bond appears in your account. You can set up a custodial sub account for minor children to give them I bonds as gifts up to the 10,000 dollar limit per child per year.",
+      "visual": "TreasuryDirect.gov website I bond purchase electronic account custodial setup"
+    },
+    {
+      "voice": "Where to buy TIPS. TIPS are available through any brokerage. Fidelity, Schwab, and Vanguard all offer TIPS trading with no commissions for new issues at Treasury auctions. You can also buy TIPS mutual funds and ETFs for instant diversification. The Vanguard Inflation Protected Securities Fund VIPSX is a popular option with a 0.20 percent expense ratio. The Schwab US TIPS ETF SCHP has a lower 0.03 percent expense ratio and full daily liquidity.",
+      "visual": "TIPS brokerage Vanguard VIPSX Schwab SCHP ETF mutual fund expense ratio"
+    },
+    {
+      "voice": "The portfolio role for I bonds. I bonds work best as a tax efficient cash alternative for amounts you do not need within 12 months. They function as a long term emergency fund extension, ahead of the standard HYSA. The annual purchase limit makes I bonds a slow build, but disciplined annual purchases over a decade create a meaningful inflation protected reserve. Many financial planners recommend building to 50,000 to 100,000 dollars in I bonds across a household before moving to other inflation hedges.",
+      "visual": "I bond portfolio role tax efficient cash alternative long term emergency reserve"
+    },
+    {
+      "voice": "The portfolio role for TIPS. TIPS work best as the bond allocation inside tax advantaged accounts for retirees concerned about inflation risk. The Federal Reserve research consistently shows that traditional nominal bonds underperform during inflationary periods, exactly when retirees need predictable purchasing power. Replacing 30 to 50 percent of the bond allocation with TIPS provides explicit inflation protection. Inside a Roth IRA or traditional 401k, the phantom income problem disappears.",
+      "visual": "TIPS portfolio role retirement bond allocation IRA 401k inflation protection"
+    },
+    {
+      "voice": "Common mistake number one. Buying I bonds with money you might need in the next 12 months. The 12 month lockup is absolute with no exceptions for emergencies. If you front load your HYSA below the emergency fund target then buy I bonds, you may be forced to take expensive credit card debt during the lockup period. Always keep the full emergency fund liquid before buying I bonds.",
+      "visual": "I bond 12 month lockup emergency fund credit card debt mistake liquidity"
+    },
+    {
+      "voice": "Common mistake number two. Holding TIPS in a taxable account. The phantom income problem destroys after tax returns. The 1099 OID form arrives every year showing the inflation adjustment as taxable interest. You pay federal tax on income you have not yet received. Move TIPS to your IRA or 401k for full benefit. Use I bonds in taxable accounts instead because the federal tax is deferred until redemption.",
+      "visual": "TIPS taxable account 1099 OID phantom income tax mistake account location"
+    },
+    {
+      "voice": "Common mistake number three. Confusing I bond rates with TIPS yields. The I bond composite rate of 4.28 percent looks better than the 5 year TIPS real yield of 1.85 percent. But these are not comparable numbers. The I bond rate includes the inflation component already. The TIPS real yield is the return above inflation. To compare apples to apples, add expected inflation of about 2.5 percent to the TIPS real yield to get an approximate nominal expectation around 4.35 percent.",
+      "visual": "I bond TIPS comparison apples to apples nominal versus real yield inflation"
+    },
+    {
+      "voice": "Common mistake number four. Forgetting to redeem mature I bonds at year 30. I bonds stop earning interest at year 30. If you do not redeem, the bond continues to exist but earns nothing. The Treasury holds approximately 28 billion dollars in matured savings bonds that have not been redeemed. Set a calendar reminder for year 25 to plan an orderly redemption strategy that manages the federal tax impact across multiple years.",
+      "visual": "I bond 30 year maturity stop earning interest unclaimed billions reminder"
+    },
+    {
+      "voice": "Common mistake number five. TreasuryDirect username and password loss. TreasuryDirect has notoriously rigid account recovery procedures. Losing access can take months of paperwork and notarized affidavits to recover. Use a password manager. Save your account number and security questions separately. Print and store the bond confirmation receipts. Tell your spouse and beneficiaries about the account. This is one of the highest friction account types in personal finance.",
+      "visual": "TreasuryDirect account recovery friction password manager notarized affidavit"
+    },
+    {
+      "voice": "The tax election strategy for I bonds. By default, I bond interest is taxed on redemption. You can elect to accrue interest annually and pay tax each year. This sounds like a worse option but has a use case. If you have a low income year, paying the accumulated tax in that year at a lower bracket can save money. Most savers should stick with the default deferral and pay all tax at redemption in retirement when income is typically lower.",
+      "visual": "I bond tax election annual accrual versus deferred low income year strategy"
+    },
+    {
+      "voice": "The estate planning benefit of I bonds. I bonds receive a step up in basis at death. If you hold I bonds with 50,000 dollars of accrued but unreported interest at death, your heirs receive the bonds at full market value and the deferred interest is eliminated. This is a substantial tax advantage. Compare to TIPS where the principal adjustments have been reported as taxable income each year and there is no comparable step up benefit.",
+      "visual": "I bond step up basis estate planning death heirs accrued interest eliminated"
+    },
+    {
+      "voice": "The combined I bond and TIPS strategy for retirees. A retiree with 200,000 dollars allocated to bonds might split 50,000 into I bonds purchased over 5 years and 150,000 into TIPS held in the IRA. The I bonds provide tax efficient inflation protected reserves for emergencies and irregular expenses. The TIPS provide the core inflation protected portfolio income inside the tax shelter. This combination addresses both liquidity and tax efficiency simultaneously.",
+      "visual": "Retiree combined I bond TIPS 50000 150000 IRA portfolio allocation"
+    },
+    {
+      "voice": "But here is what nobody talks about. The biggest inflation risk for retirees is not the official CPI used to adjust I bonds and TIPS. It is medical inflation. Healthcare costs for retirees have risen at 5 to 7 percent annually, significantly above CPI. According to the Fidelity Retiree Health Care Cost Estimate 2025, a 65 year old couple retiring today will spend approximately 330,000 dollars on healthcare alone. Neither I bonds nor TIPS fully hedge this specific risk. The HSA strategy from our previous video is a better hedge.",
+      "visual": "Medical inflation retiree healthcare costs 330000 dollars HSA hedge CPI gap"
+    },
+    {
+      "voice": "Your action plan. Step one, open a TreasuryDirect account if you do not have one. Step two, purchase up to 10,000 dollars in I bonds before December 31 of each year to lock in the current fixed rate. Step three, evaluate your bond portfolio in tax advantaged accounts and consider replacing 30 to 50 percent of nominal bonds with TIPS or TIPS ETFs. Step four, hold I bonds at least 5 years before redemption to avoid the 3 month interest penalty. Next video, REITs versus physical real estate for 2026 income.",
+      "visual": "Action plan checklist I bonds TIPS purchase TreasuryDirect retirement bond allocation"
+    }
+  ]
+}

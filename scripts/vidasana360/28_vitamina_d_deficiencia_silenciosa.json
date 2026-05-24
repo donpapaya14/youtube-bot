@@ -1,0 +1,155 @@
+{
+  "title": "🌿 Vitamina D — la deficiencia silenciosa del 80% de españoles",
+  "description": "Por qué tantos españoles tienen deficiencia de vitamina D pese al sol. Síntomas, niveles óptimos, dosis de suplementación según analítica y los mitos más comunes.",
+  "tags": [
+    "vitamina D",
+    "deficiencia",
+    "suplementacion",
+    "salud osea",
+    "inmunidad",
+    "sol",
+    "depresion",
+    "analitica",
+    "calcifediol",
+    "longevidad"
+  ],
+  "segments": [
+    {
+      "voice": "El 80 por ciento de los españoles tiene niveles subóptimos de vitamina D. Sí, en el país del sol. Y muchos sin saberlo durante años, porque los síntomas son inespecíficos. Cansancio. Dolor muscular leve. Bajadas de ánimo en invierno. Infecciones respiratorias frecuentes. La gente lo achaca a la edad, al estrés, a la mala suerte. Pero la analítica habla. Y en una mayoría aplastante la respuesta está en una vitamina que nunca medimos.",
+      "visual": "vitamin d sunlight skin",
+      "duration": 28
+    },
+    {
+      "voice": "Los datos vienen del estudio de la Sociedad Española de Endocrinología y Nutrición. En análisis de cohortes representativas, el 70 por ciento de adultos tiene 25 hidroxivitamina D por debajo de 30 nanogramos por mililitro. En personas mayores de 65 años el porcentaje sube al 87 por ciento. Y en residencias geriátricas supera el 95 por ciento.",
+      "visual": "spanish health statistics",
+      "duration": 23
+    },
+    {
+      "voice": "Por qué pasa esto en un país soleado. Vivimos dentro. Trabajamos en oficinas. Vamos en coche. Nos protegemos con cremas solares con factor alto y manga larga buena parte del año. Y a partir de los 40 años, la piel produce menos vitamina D por el mismo tiempo de exposición. Holick en 2007 documentó descensos del 50 por ciento en eficiencia tras los 70.",
+      "visual": "indoor office worker",
+      "duration": 23
+    },
+    {
+      "voice": "La vitamina D no es realmente una vitamina. Es una prohormona. Se sintetiza en la piel cuando los rayos UVB inciden sobre el 7-deshidrocolesterol. Luego pasa al hígado donde se convierte en 25 hidroxivitamina D, la forma que medimos. Después al riñón donde se convierte en 1.25 dihidroxivitamina D, la forma activa.",
+      "visual": "vitamin d synthesis diagram",
+      "duration": 22
+    },
+    {
+      "voice": "Qué hace exactamente. Regula absorción de calcio y fósforo. Mantiene salud ósea. Modula el sistema inmune. Influye en función muscular. Tiene receptores en casi todos los tejidos del cuerpo, lo cual explica por qué su deficiencia tiene síntomas tan variados. Los descubrimientos de los últimos 20 años cambiaron la visión simplista de hueso solamente.",
+      "visual": "vitamin receptors body",
+      "duration": 23
+    },
+    {
+      "voice": "Niveles de referencia. La medición se hace en sangre como 25 hidroxivitamina D. Por debajo de 20 nanogramos por mililitro se considera deficiencia. Entre 20 y 30 insuficiencia. Entre 30 y 50 nivel suficiente para la mayoría. Algunos expertos como Vieth o Holick recomiendan apuntar a 40 a 60 nanogramos por mililitro para óptimo.",
+      "visual": "blood test levels chart",
+      "duration": 23
+    },
+    {
+      "voice": "Síntomas reales de deficiencia. Cansancio persistente sin causa clara. Dolor muscular difuso. Debilidad en piernas al subir escaleras. Caída de cabello mayor de lo normal. Mayor frecuencia de catarros e infecciones respiratorias. Bajadas de ánimo, especialmente en invierno. Dolor óseo difuso. Calambres musculares. Pueden aparecer todos o solo algunos.",
+      "visual": "tired person symptoms",
+      "duration": 23
+    },
+    {
+      "voice": "Cuanto sol necesitas para producir vitamina D suficiente. Depende de muchas variables. Latitud, época del año, hora del día, tipo de piel, edad, superficie expuesta. En España en verano, 15 a 20 minutos de sol en cara y brazos sin protección al mediodía pueden ser suficientes para muchos. En invierno, en latitudes por encima de Madrid, la radiación UVB es insuficiente para sintetizar.",
+      "visual": "sun exposure time chart",
+      "duration": 24
+    },
+    {
+      "voice": "Por qué la suplementación es práctica. En España, en invierno, el ángulo de incidencia solar no es suficiente para producir vitamina D útil entre noviembre y marzo en buena parte del país. Y muchas personas no se exponen al sol ni en verano. La suplementación con dosis razonables es segura, barata y efectiva cuando los niveles están bajos.",
+      "visual": "winter sun low angle",
+      "duration": 22
+    },
+    {
+      "voice": "Dosis de mantenimiento. La recomendación general para adultos sanos es de 1.000 a 2.000 unidades internacionales al día. La Endocrine Society sugiere 1.500 a 2.000 en personas con riesgo de deficiencia. Niños menores de 1 año, 400 a 1.000 UI. Mayores de 1 año hasta los 70, 600 a 1.000 UI. Mayores de 70, 800 a 2.000.",
+      "visual": "vitamin d dosage chart",
+      "duration": 23
+    },
+    {
+      "voice": "Dosis de carga para deficiencia clínica. Si la analítica muestra menos de 20 nanogramos por mililitro, las pautas pueden incluir dosis altas semanales durante 8 a 12 semanas. 25.000 a 50.000 UI semanales bajo supervisión médica. Y luego mantenimiento con dosis diaria. No se debe automedicar dosis altas sin analítica previa.",
+      "visual": "medical supervision treatment",
+      "duration": 22
+    },
+    {
+      "voice": "Calcifediol versus colecalciferol. El colecalciferol o vitamina D3 es la forma habitual de suplementación. El calcifediol es 25 hidroxivitamina D, la forma intermedia, que algunos prescriben porque sube más rápido los niveles. Pero su uso requiere monitorización porque puede provocar hipervitaminosis con mayor facilidad. Para autocuidado, D3 es lo recomendable.",
+      "visual": "vitamin d3 supplement",
+      "duration": 23
+    },
+    {
+      "voice": "La importancia de tomar D3 con grasa. La vitamina D es liposoluble. Tomarla con una comida que contenga grasa aumenta absorción significativamente. Trabajos de Mulligan y Licata en 2010 mostraron diferencias de hasta el 50 por ciento de absorción cuando se toma con comida grasa versus con el estómago vacío.",
+      "visual": "vitamin pills meal",
+      "duration": 22
+    },
+    {
+      "voice": "Vitamina D y vitamina K2. Algunos suplementos combinan ambas. La idea es que la K2 dirige el calcio absorbido por la D hacia los huesos y dientes en lugar de hacia arterias y tejidos blandos. La evidencia es razonable pero no concluyente. Si vas a tomar dosis altas de D durante meses, considera añadir K2 menaquinona 7 a dosis de 90 a 180 microgramos.",
+      "visual": "vitamin k2 calcium bones",
+      "duration": 24
+    },
+    {
+      "voice": "Vitamina D y magnesio. El magnesio es cofactor en múltiples pasos de activación de vitamina D. Si tienes magnesio bajo, suplementar vitamina D puede dar resultados subóptimos. Trabajos de Dai en 2018 mostraron interacción entre ambos en la conversión de vitamina D inactiva a activa. Asegurar magnesio adecuado primero.",
+      "visual": "magnesium supplement combination",
+      "duration": 23
+    },
+    {
+      "voice": "Alimentos con vitamina D. Pescados grasos como salmón, sardinas, caballa son las mejores fuentes. Yema de huevo aporta algo. Hígado y aceite de hígado de bacalao son densos. Setas expuestas al sol producen vitamina D2, menos efectiva que D3 pero útil para veganos. La realidad es que llegar a niveles suficientes solo con dieta es difícil para la mayoría.",
+      "visual": "vitamin d food sources",
+      "duration": 24
+    },
+    {
+      "voice": "Toxicidad y dosis máximas. La hipervitaminosis D es rara pero posible. Se manifiesta como hipercalcemia, náuseas, vómitos, debilidad, problemas renales. Suele requerir dosis superiores a 10.000 UI diarias durante meses sostenidos. El Tolerable Upper Intake Level del Institute of Medicine es 4.000 UI diarias para adultos como límite de seguridad.",
+      "visual": "vitamin overdose warning",
+      "duration": 23
+    },
+    {
+      "voice": "Vitamina D e inmunidad. Trabajos de Adrian Martineau publicaron meta-análisis sobre infecciones respiratorias. Suplementación regular reduce el riesgo de infecciones respiratorias agudas un 12 por ciento de media. En personas con deficiencia previa, el efecto es mucho mayor, hasta un 70 por ciento. Esto se hizo evidente durante la pandemia.",
+      "visual": "immune system white cells",
+      "duration": 24
+    },
+    {
+      "voice": "Vitamina D y depresión. Meta-análisis recientes muestran efecto antidepresivo moderado en personas con depresión y deficiencia simultánea de vitamina D. No es tratamiento de primera línea para depresión, pero corregir el déficit puede formar parte de un abordaje integral, especialmente para depresión estacional o por baja exposición solar.",
+      "visual": "mental health winter mood",
+      "duration": 23
+    },
+    {
+      "voice": "Quién debe analizarse. Personas mayores de 60 años. Personas con piel oscura viviendo en latitudes nórdicas. Quienes pasan poca vida al aire libre. Personas con sobrepeso u obesidad porque la vitamina D queda secuestrada en tejido graso. Embarazadas. Pacientes con enfermedad inflamatoria intestinal o malabsorción. Niños con poco sol.",
+      "visual": "doctor consultation testing",
+      "duration": 23
+    },
+    {
+      "voice": "Errores comunes. Suplementarse sin analítica previa. Pensar que más es mejor y tomar dosis altas continuas sin control. Pensar que con tomar el sol en la cara 10 minutos por día se cubre el requerimiento todo el año. No volver a analizar tras 3 a 6 meses de suplementación para ajustar la dosis. La medición periódica es la única forma de saber.",
+      "visual": "supplement mistakes common",
+      "duration": 23
+    },
+    {
+      "voice": "Mitos que enterrar. No es verdad que el sol siempre baste. No es verdad que la analítica básica incluya vitamina D, hay que pedirla específicamente. No es verdad que solo importe en huesos. No es verdad que tomar el sol con crema solar permita producir vitamina D adecuadamente, el factor solar 30 bloquea más del 95 por ciento de la síntesis.",
+      "visual": "vitamin d myth busting",
+      "duration": 23
+    },
+    {
+      "voice": "Caso real. Una paciente de 47 años con fatiga persistente, dolores musculares difusos, infecciones respiratorias frecuentes. Analítica con 25 hidroxivitamina D en 12 nanogramos por mililitro. Pauta de 25.000 UI semanales 8 semanas y luego 2.000 UI diarias. A los 6 meses, niveles en 45 y mejoría sintomática notable. El cuadro era textbook.",
+      "visual": "patient recovery treatment",
+      "duration": 23
+    },
+    {
+      "voice": "Niños y vitamina D. Pediatras recomiendan suplementación profiláctica durante el primer año de vida con 400 UI diarias. En niños mayores, especialmente si tienen poco sol, baja ingesta de pescado, o piel más oscura, considerar suplementación en invierno. La dosis se ajusta por edad y siempre bajo supervisión pediátrica.",
+      "visual": "child vitamin pediatric",
+      "duration": 22
+    },
+    {
+      "voice": "Embarazo y lactancia. Los requerimientos aumentan. La vitamina D atraviesa placenta y se vehiculiza por leche materna. Una madre deficiente tendrá un bebé deficiente. La suplementación durante el embarazo con 1.500 a 2.000 UI diarias es segura y recomendada por sociedades obstétricas. Siempre validar con tu matrona.",
+      "visual": "pregnancy supplements care",
+      "duration": 22
+    },
+    {
+      "voice": "Pero hay algo que casi nadie sabe sobre la vitamina D. Existe una variante genética del receptor de vitamina D que hace que algunas personas necesiten el doble de dosis para alcanzar los mismos niveles sanguíneos. Cómo detectarlo y qué hacer te lo cuento en el próximo vídeo.",
+      "visual": "genetic testing dna",
+      "duration": 21
+    },
+    {
+      "voice": "Suscríbete a VidaSana360 y dale a la campana. La próxima semana publico el análisis definitivo sobre ejercicio de fuerza después de los 40, qué ganancias son realistas y los protocolos basados en evidencia.",
+      "visual": "fitness over 40 strength",
+      "duration": 18
+    }
+  ],
+  "duration_estimate_seconds": 1290,
+  "thumbnail_text": "VITAMINA D BAJA"
+}
