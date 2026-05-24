@@ -1,0 +1,150 @@
+{
+  "id": 69,
+  "title": "⚡ Senolíticos: Matar Células Zombie con Fisetina y Quercetina",
+  "description": "El protocolo de Mayo Clinic para eliminar células senescentes. Fisetina vs quercetina + dasatinib, dosis humanas y por qué cambia el paradigma anti-aging.\n\n#senoliticos #fisetina #longevidad #MayoClinic",
+  "tags": [
+    "senolíticos",
+    "fisetina",
+    "quercetina",
+    "longevidad",
+    "Mayo Clinic",
+    "senescencia",
+    "células zombie",
+    "anti aging",
+    "Kirkland",
+    "salud"
+  ],
+  "thumbnail_text": "MATAR CÉLULAS ZOMBIE",
+  "segments": [
+    {
+      "voice": "Tu cuerpo está lleno de células zombie. No funcionan, no mueren, pero envenenan a las sanas. La fisetina y la quercetina pueden eliminarlas selectivamente. Mayo Clinic lleva 5 años probando esto en humanos. Hoy te traigo el protocolo exacto que están usando, la dosis y por qué los senolíticos son el frente más prometedor en medicina anti-edad.",
+      "visual": "senescent cells zombie microscope inflammation aging tissue",
+      "duration": 25
+    },
+    {
+      "voice": "Las células senescentes son células viejas dañadas que pierden la capacidad de dividirse pero se resisten a morir. Producen el llamado SASP, fenotipo secretor asociado a senescencia: citoquinas inflamatorias, factores de crecimiento aberrantes, proteasas que destruyen tejido. Una célula senescente envenena a docenas de células sanas a su alrededor.",
+      "visual": "senescent cells SASP cytokines inflammation tissue damage",
+      "duration": 25
+    },
+    {
+      "voice": "El concepto de senolítico nació con James Kirkland en Mayo Clinic. En 2015 publicó en Aging Cell el primer estudio demostrando que eliminar selectivamente células senescentes con dasatinib más quercetina extendía la vida saludable en ratones viejos en un 36 por ciento. El paradigma cambió: no rejuvenecer células, eliminar las dañadas para que las sanas se expandan.",
+      "visual": "Kirkland Mayo Clinic dasatinib quercetin senolytic ratones",
+      "duration": 25
+    },
+    {
+      "voice": "El protocolo dasatinib más quercetina, llamado D plus Q, es el más estudiado. Dasatinib es un fármaco oncológico aprobado para leucemia mieloide. Quercetina es un flavonoide natural en cebolla, manzana y vino tinto. Juntos eliminan diferentes tipos de células senescentes: dasatinib actúa sobre fibroblastos viejos, quercetina sobre células endoteliales viejas.",
+      "visual": "D plus Q protocol dasatinib quercetin different cell types",
+      "duration": 25
+    },
+    {
+      "voice": "El primer ensayo humano fue de 2019, publicado en EBioMedicine. Pacientes con fibrosis pulmonar idiopática, una enfermedad asociada a senescencia masiva, recibieron 3 dosis intermitentes de D plus Q. Mejoró la distancia recorrida en 6 minutos en un 21 por ciento. Mejoraron biomarcadores de senescencia en sangre. La prueba de concepto en humanos funcionó.",
+      "visual": "first human trial pulmonary fibrosis D plus Q EBioMedicine",
+      "duration": 25
+    },
+    {
+      "voice": "La fisetina es la estrella natural. Es un flavonoide en fresa, manzana, mango y caqui. En 2018, el grupo de Paul Robbins en Scripps Research publicó en EBioMedicine que la fisetina era el flavonoide más potente para eliminar células senescentes. Más que quercetina, más que rutina, más que luteolina. Y se vende libremente como suplemento.",
+      "visual": "fisetin natural flavonoid strawberry apple Robbins Scripps",
+      "duration": 25
+    },
+    {
+      "voice": "La dosis humana de fisetina, según el protocolo de Mayo Clinic. Hay ensayos en marcha con 20 mg por kilo de peso al día durante 2 días consecutivos, cada mes. Para una persona de 70 kg, son 1.400 mg al día durante 2 días. Es una dosis pulsada, no continua. La idea: pegar fuerte y rápido para matar las células viejas, pausa para no afectar las sanas.",
+      "visual": "fisetin dose 20 mg kg pulsed monthly Mayo Clinic protocol",
+      "duration": 25
+    },
+    {
+      "voice": "La biodisponibilidad oral es el cuello de botella. Fisetina cristalina pura se absorbe mal. Las formulaciones con liposomas o ciclodextrinas mejoran absorción 5 a 10 veces. Marcas como Doctor's Best Fisetin con Novusetin, o Pure Encapsulations, son las que más se usan en clínica. Las formulaciones baratas de Amazon con cristalina simple no funcionan.",
+      "visual": "fisetin bioavailability liposomes formulations brands clinical",
+      "duration": 25
+    },
+    {
+      "voice": "Para el ensayo Targeting Aging with Senolytics, el TAGS, comenzó en 2022 en Mayo Clinic. Trata adultos mayores de 65 con marcadores elevados de senescencia. Doce meses de seguimiento. Mide función física, marcadores inflamatorios, fragilidad. Los resultados se esperan para 2026. Si son positivos, los senolíticos entrarán al mainstream médico.",
+      "visual": "TAGS trial Mayo Clinic 2022 senolytics elderly markers",
+      "duration": 25
+    },
+    {
+      "voice": "Para Alzheimer, el ensayo SToMP-AD en University of Texas. Pacientes con deterioro cognitivo leve reciben dasatinib más quercetina por 12 semanas. La hipótesis: las microglías senescentes en el cerebro envenenan neuronas. Eliminarlas podría detener o revertir cambios cognitivos tempranos. Los primeros resultados de seguridad fueron publicados en Nature Medicine en 2023.",
+      "visual": "SToMP-AD Alzheimer dasatinib quercetin Texas microglia",
+      "duration": 25
+    },
+    {
+      "voice": "Para osteoartrosis, prometedor. Un ensayo de Unity Biotechnology con UBX0101, un senolítico específico para articulaciones, demostró mejora en pacientes con artrosis de rodilla. Aunque el ensayo de fase 2 no alcanzó endpoints primarios, los pacientes con peor enfermedad sí mejoraron. Sugiere que el approach funciona, pero hay que seleccionar pacientes correctos.",
+      "visual": "Unity Biotech UBX0101 osteoarthritis knee senolytic trial",
+      "duration": 25
+    },
+    {
+      "voice": "Para diabetes tipo 2, datos esperanzadores. Un estudio piloto de 2019 publicado en EBioMedicine demostró que D plus Q reducía marcadores de senescencia en tejido adiposo de pacientes diabéticos en 11 días. La grasa visceral diabética está cargada de células senescentes que perpetúan la inflamación y resistencia a insulina.",
+      "visual": "diabetes type 2 D plus Q adipose tissue senescence reduction",
+      "duration": 25
+    },
+    {
+      "voice": "Para enfermedad cardiovascular. Un estudio de 2020 en aorta de ratones viejos demostró que dasatinib más quercetina reducía calcificación arterial y mejoraba función endotelial. Las células musculares lisas vasculares senescentes son protagonistas de la aterosclerosis. Eliminar estas células podría detener progresión sin estatinas.",
+      "visual": "cardiovascular calcification dasatinib quercetin smooth muscle",
+      "duration": 25
+    },
+    {
+      "voice": "Para piel y arrugas. La piel vieja acumula fibroblastos senescentes que producen menos colágeno y más enzimas que destruyen matriz extracelular. Cremas tópicas con fisetina al 1 por ciento, en desarrollo, podrían rejuvenecer piel sin cirugía. Algunas marcas de cosmética avanzada como OneSkin ya incluyen péptidos senolíticos en sus productos.",
+      "visual": "skin fibroblasts senescent topical fisetin collagen OneSkin",
+      "duration": 25
+    },
+    {
+      "voice": "Las contraindicaciones del dasatinib. Es quimioterapia. Causa efectos secundarios reales: retención de líquidos, plaquetopenia, intolerancia gastrointestinal. Solo se administra bajo supervisión oncológica, en dosis bajas, intermitentes. Para uso pro-longevidad, hay que encontrar oncólogos que lo receten fuera de etiqueta. No es opción casera.",
+      "visual": "dasatinib chemotherapy side effects oncology supervision",
+      "duration": 25
+    },
+    {
+      "voice": "Para protocolo casero accesible, la fisetina sola es la opción. Comprar Doctor's Best Fisetin con Novusetin a 50 euros por 60 cápsulas. Una persona de 70 kg necesita 1.400 mg al día por 2 días al mes. Eso son aproximadamente 8 cápsulas diarias por 2 días. Costo mensual: aproximadamente 25 a 40 euros. Una intervención farmacológica de las más asequibles.",
+      "visual": "fisetin home protocol Doctor's Best Novusetin monthly cost",
+      "duration": 25
+    },
+    {
+      "voice": "La quercetina sola, datos limitados. Sin dasatinib, la quercetina no elimina células senescentes en humanos según los estudios. Pero tiene efectos antiinflamatorios y antioxidantes. La dosis típica: 500 a 1.000 mg al día con bromelina para mejorar absorción. No esperes efectos senolíticos solo con quercetina.",
+      "visual": "quercetin alone limited antiinflammatory bromelain absorption",
+      "duration": 25
+    },
+    {
+      "voice": "Para combinar con otros senolíticos naturales. Curcumina con piperina, que tiene efectos parcialmente senolíticos. Sulforafano del brócoli, que activa el factor de transcripción Nrf2 y elimina células dañadas. Espermidina del germen de trigo, que activa autofagia. Resveratrol que activa sirtuinas. La combinación con fisetina pulsada y dieta rica en estos compuestos podría amplificar efectos.",
+      "visual": "natural senolytics curcumin sulforaphane spermidine combination",
+      "duration": 25
+    },
+    {
+      "voice": "Para alimentación pro-senolítica. Fresas, manzanas con piel, caqui, mango y cebolla morada son las fuentes más altas de fisetina y quercetina. Pero las dosis nutricionales son 100 a 1.000 veces menores que las dosis terapéuticas. La comida es buena para mantenimiento. Para efecto senolítico real, suplementación es necesaria.",
+      "visual": "senolytic food strawberry apple persimmon mango onion fisetin",
+      "duration": 25
+    },
+    {
+      "voice": "Para marcadores de éxito. Reducción de PCR ultrasensible un 20 a 40 por ciento a los 3 meses. Reducción de SASP, medible con paneles especializados pero no estándar. Mejora subjetiva de energía, rigidez articular, recuperación post-ejercicio en 4 a 8 semanas. No esperes cambios dramáticos. Los efectos son acumulativos a largo plazo.",
+      "visual": "senolytic markers PCR SASP energy recovery 3 months cumulative",
+      "duration": 25
+    },
+    {
+      "voice": "Sobre la seguridad de la fisetina. Estudios toxicológicos demuestran que es segura hasta dosis de 500 mg por kilo en animales. La dosis humana de 20 mg por kilo está muy por debajo del techo de seguridad. No se han reportado efectos secundarios graves en los ensayos clínicos hasta la fecha. Posibles efectos leves: diarrea ocasional, molestia digestiva el día 2 del pulso.",
+      "visual": "fisetin safety toxicology 500 mg kg animals no serious effects",
+      "duration": 25
+    },
+    {
+      "voice": "Para quienes no deben tomar fisetina. Personas en quimioterapia activa, donde podría interferir con tratamiento. Mujeres embarazadas, por falta de datos. Personas con cálculos renales activos, porque la fisetina aumenta excreción de oxalatos. Personas con enfermedad autoinmune grave en brote. En estos casos, esperar evidencia más robusta.",
+      "visual": "fisetin contraindications pregnancy chemotherapy autoimmune kidney",
+      "duration": 25
+    },
+    {
+      "voice": "Para combinar con ejercicio, sinergia probada. Un estudio de 2022 demostró que el ejercicio de alta intensidad también elimina células senescentes, especialmente en músculo. Combinar ejercicio intenso 3 veces por semana con fisetina pulsada mensual podría amplificar el efecto senolítico total. Es la base del programa Mayo Clinic experimental.",
+      "visual": "fisetin exercise high intensity senescent cells muscle synergy",
+      "duration": 25
+    },
+    {
+      "voice": "Para el futuro de la senolítica. Compañías como Unity Biotechnology, Senolytx, Recursion Pharmaceuticals están desarrollando senolíticos selectivos para tejidos específicos. Inhibidores de BCL-2, navitoclax, son más potentes pero con más toxicidad. La próxima generación tendrá mejor perfil de seguridad y efectos más específicos.",
+      "visual": "senolytics future Unity Senolytx BCL-2 navitoclax companies",
+      "duration": 25
+    },
+    {
+      "voice": "Pero hay algo que ni Kirkland menciona. Eliminar todas las células senescentes podría ser contraproducente. Algunas células senescentes en heridas son esenciales para cicatrización. La regla emergente: senolíticos pulsados, no continuos. Eliminar el exceso, no todas. La medicina del futuro será de precisión: medir qué tejidos y cuánto.",
+      "visual": "senolytics caution healing wound cells pulsed not continuous",
+      "duration": 25
+    },
+    {
+      "voice": "Suscríbete a SaludLongevidad y dale a la campana. La próxima semana analizamos autofagia: cómo activarla con ayuno, ejercicio, sauna y sin gastar dinero. Es la pareja perfecta de los senolíticos, complementaria y gratuita. Cuéntame en comentarios si has probado fisetina o si quieres que cubra un senolítico específico en detalle.",
+      "visual": "subscribe SaludLongevidad autophagy fasting sauna free next",
+      "duration": 25
+    }
+  ]
+}
