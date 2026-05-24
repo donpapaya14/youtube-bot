@@ -26,8 +26,9 @@
   "web_url": "https://espaciointeligente.org",
   "amazon_tag": "vds96-20",
   "amazon_search": "home+organization+gadgets",
-  "no_voice": true,
+  "no_voice": false,
   "language": "en",
   "category_id": "26",
-  "pinned_comment": "🏠 Which hack are you trying first? Let us know! 👇\n\n📖 More home tips: https://espaciointeligente.org\n💡 Comment your trick — best one gets pinned tomorrow."
+  "pinned_comment": "🏠 Which hack are you trying first? Let us know! 👇\n\n📖 More home tips: https://espaciointeligente.org\n💡 Comment your trick — best one gets pinned tomorrow.",
+  "voice": "en-US-GuyNeural"
 }

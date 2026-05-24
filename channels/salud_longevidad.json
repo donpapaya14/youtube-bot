@@ -26,8 +26,9 @@
   "web_url": "https://saludlongevidad.org",
   "amazon_tag": "vladys-21",
   "amazon_search": "suplementos+longevidad+antiedad",
-  "no_voice": true,
+  "no_voice": false,
   "language": "es",
   "category_id": "26",
-  "pinned_comment": "🌿 ¿Qué hábito de longevidad vas a empezar esta semana? ¡Cuéntame abajo! 👇\n\n📖 Artículo completo: https://saludlongevidad.org\n❤️ Si te ayudó, comenta 'SI' para que YouTube lo muestre a más gente."
+  "pinned_comment": "🌿 ¿Qué hábito de longevidad vas a empezar esta semana? ¡Cuéntame abajo! 👇\n\n📖 Artículo completo: https://saludlongevidad.org\n❤️ Si te ayudó, comenta 'SI' para que YouTube lo muestre a más gente.",
+  "voice": "es-ES-AlvaroNeural"
 }

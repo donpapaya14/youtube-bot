@@ -26,8 +26,9 @@
   "web_url": "https://cash-cafe.org",
   "amazon_tag": "vds96-20",
   "amazon_search": "money+habits+book",
-  "no_voice": true,
+  "no_voice": false,
   "language": "en",
   "category_id": "22",
-  "pinned_comment": "☕ Drop a coffee emoji if you're working on your money habits this year 💪\n\n📖 More money tips: https://cash-cafe.org"
+  "pinned_comment": "☕ Drop a coffee emoji if you're working on your money habits this year 💪\n\n📖 More money tips: https://cash-cafe.org",
+  "voice": "en-US-GuyNeural"
 }

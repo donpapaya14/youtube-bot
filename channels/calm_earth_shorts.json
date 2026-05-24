@@ -23,10 +23,11 @@
   },
   "cta": "⚡ Daily disaster decoded. Subscribe.\n\n🌋 Full breakdowns: @DisasterDecore",
   "refresh_token_env": "YT_TOKEN_CALMEARTH",
-  "no_voice": true,
+  "no_voice": false,
   "language": "en",
   "category_id": "27",
   "pinned_comment": "⚡ Which disaster would you survive? Comment below.\n\n🌋 More science breakdowns: subscribe.",
   "amazon_tag": "vds96-20",
-  "amazon_search": "books+nonfiction"
+  "amazon_search": "books+nonfiction",
+  "voice": "en-US-GuyNeural"
 }

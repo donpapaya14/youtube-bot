@@ -26,8 +26,9 @@
   "web_url": "https://vida-sana-360.com",
   "amazon_tag": "vladys-21",
   "amazon_search": "suplementos+naturales+salud",
-  "no_voice": true,
+  "no_voice": false,
   "language": "es",
   "pinned_comment": "🔥 ¿Cuál es tu mayor reto para perder grasa? ¡Cuéntame abajo! 👇\n\n📖 Artículo completo: https://vida-sana-360.com",
-  "category_id": "26"
+  "category_id": "26",
+  "voice": "es-ES-AlvaroNeural"
 }

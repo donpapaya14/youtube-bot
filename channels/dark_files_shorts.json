@@ -23,10 +23,11 @@
   },
   "cta": "🔍 New case every day. Subscribe.\n\n📁 Full investigations: @Darkfiles-v5q",
   "refresh_token_env": "YT_TOKEN_CHILLORBIT",
-  "no_voice": true,
+  "no_voice": false,
   "language": "en",
   "category_id": "27",
   "pinned_comment": "🔍 Which unsolved case haunts you the most? Tell us in the comments.\n\n📁 Subscribe for daily case files.",
   "amazon_tag": "vds96-20",
-  "amazon_search": "books+nonfiction"
+  "amazon_search": "books+nonfiction",
+  "voice": "en-US-GuyNeural"
 }

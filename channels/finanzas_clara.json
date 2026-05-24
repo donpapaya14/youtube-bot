@@ -26,8 +26,9 @@
   "web_url": "https://finanzasclara.uk",
   "amazon_tag": "vds96-20",
   "amazon_search": "personal+finance+books",
-  "no_voice": true,
+  "no_voice": false,
   "language": "en",
   "category_id": "26",
-  "pinned_comment": "💚 What's your biggest money challenge right now? Drop it below! 👇\n\n📖 Full guide + more tips: https://finanzasclara.uk\n💬 If this helped, comment 'YES' so YouTube shows it to more people."
+  "pinned_comment": "💚 What's your biggest money challenge right now? Drop it below! 👇\n\n📖 Full guide + more tips: https://finanzasclara.uk\n💬 If this helped, comment 'YES' so YouTube shows it to more people.",
+  "voice": "en-US-GuyNeural"
 }
