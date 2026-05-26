@@ -53,3 +53,4 @@
 1779633303.6829207|Wedding budget national average shock
 1779656021.695628|Big tech stock concentration retirement risk
 1779725232.424457|ATM surcharge fee out of network
+1779813809.9448588|Treasury I bonds inflation protected
