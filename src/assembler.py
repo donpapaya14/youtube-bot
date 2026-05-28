@@ -23,12 +23,15 @@ HEIGHT = 1920
 
 # Mascota: import defensivo (aditivo, nunca rompe el ensamblaje)
 try:
-    from mascot import get_mascot, from_channel
+    from mascot import get_mascot, from_channel, get_exact
 except Exception:  # pragma: no cover
     def get_mascot(*a, **k):
         return None
 
     def from_channel(*a, **k):
+        return None
+
+    def get_exact(*a, **k):
         return None
 
 
@@ -320,20 +323,35 @@ def _mascot_overlays(mascot, base_label, total_duration, work_dir, base_idx):
     final_dur = min(total_duration, 58)
     out_start = max(final_dur - 1.6, 0.0)
 
-    # 1. Marca de agua (se oculta durante el outro para no duplicar la cara)
-    wm_pose = mascot.get("watermark_pose", "point")
-    wm_path = get_mascot(mascot, wm_pose)
-    if wm_path:
-        wm_w = max(80, int(WIDTH * scale))
-        extra_inputs += ["-i", wm_path]
-        wm_in = idx
-        idx += 1
-        wm_enable = f":enable='between(t,0,{out_start:.1f})'" if do_outro else ""
-        extra_filters.append(f"[{wm_in}:v]scale={wm_w}:-1[mw]")
+    # 1. Marca de agua en esquina inf-dcha (se oculta durante el outro)
+    wm_w = max(80, int(WIDTH * scale))
+    pos = "main_w-overlay_w-30:main_h-overlay_h-180"
+    wm_win = f"between(t,0,{out_start:.1f})" if do_outro else f"between(t,0,{final_dur:.1f})"
+    talk_closed = get_exact(mascot, "talk_closed")
+    talk_open = get_exact(mascot, "talk_open")
+
+    if mascot.get("talk", True) and talk_closed and talk_open:
+        # Mascota que "habla": boca cerrada persistente + boca abierta parpadeando
+        # (~3.8 flaps/s) dentro de la ventana de voz. Sin ML, solo overlay FFmpeg.
+        extra_inputs += ["-i", talk_closed]; ci = idx; idx += 1
+        extra_inputs += ["-i", talk_open]; oi = idx; idx += 1
+        extra_filters.append(f"[{ci}:v]scale={wm_w}:-1[mc]")
+        extra_filters.append(f"[{oi}:v]scale={wm_w}:-1[mo]")
+        extra_filters.append(f"{cur_label}[mc]overlay={pos}:enable='{wm_win}'[vmc]")
         extra_filters.append(
-            f"{cur_label}[mw]overlay=main_w-overlay_w-30:main_h-overlay_h-180{wm_enable}[vwm]"
+            f"[vmc][mo]overlay={pos}:enable='{wm_win}*lt(mod(t,0.26),0.13)'[vwm]"
         )
         cur_label = "[vwm]"
+    else:
+        # Marca de agua estática
+        wm_path = get_mascot(mascot, mascot.get("watermark_pose", "point"))
+        if wm_path:
+            extra_inputs += ["-i", wm_path]
+            wm_in = idx
+            idx += 1
+            extra_filters.append(f"[{wm_in}:v]scale={wm_w}:-1[mw]")
+            extra_filters.append(f"{cur_label}[mw]overlay={pos}:enable='{wm_win}'[vwm]")
+            cur_label = "[vwm]"
 
     # 2. Tarjeta outro con CTA (últimos ~1.6s)
     if do_outro:

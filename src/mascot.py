@@ -60,3 +60,19 @@ def get_mascot(cfg: dict | None, pose: str = "thumb") -> str | None:
 def from_channel(channel: dict | None, pose: str = "thumb") -> str | None:
     """Helper: extrae el bloque 'mascot' del canal y resuelve la pose."""
     return get_mascot((channel or {}).get("mascot"), pose)
+
+
+def get_exact(cfg: dict | None, pose: str) -> str | None:
+    """Como get_mascot pero SIN fallback: devuelve el path solo si pose_<pose>.png existe.
+
+    Usado para las poses de boca (talk_closed/talk_open): si no están ambas,
+    no se activa la animación (cae a marca de agua estática).
+    """
+    try:
+        d = _resolve_dir(cfg)
+        if not d:
+            return None
+        p = os.path.join(d, f"pose_{pose}.png")
+        return p if os.path.exists(p) else None
+    except Exception:
+        return None
