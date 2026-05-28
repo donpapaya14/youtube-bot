@@ -500,6 +500,44 @@ def _is_duplicate(new_title: str, existing_titles: list[str], threshold: float =
     return False
 
 
+def _score_hook(hook: str, lang: str = "es") -> float:
+    """Calidad de hook (mayor=mejor): número, brevedad, sin palabras-IA, curiosidad."""
+    if not hook or not isinstance(hook, str):
+        return -99.0
+    h = hook.strip()
+    hl = h.lower()
+    n = len(h.split())
+    score = 0.0
+    if n <= 8:
+        score += 2.0
+    elif n <= 10:
+        score += 0.5
+    else:
+        score -= 1.5 * (n - 10)
+    if _re.search(r"\d", h):
+        score += 2.5
+    banned = _AI_BANNED_EN if lang == "en" else _AI_BANNED_ES
+    if any(b in hl for b in banned):
+        score -= 4.0
+    if h.endswith("?") or hl.startswith(("why", "how", "what", "por qué", "cómo", "qué", "cuánto", "cuántos")):
+        score += 1.5
+    if any(w in hl for w in ["you", "your", "you're", "tu ", "tus ", "te "]):
+        score += 1.0
+    if any(w in hl for w in ["but", "pero", "wrong", "mal ", "myth", "mito", "stole", "roba", "miente", "lies"]):
+        score += 1.0
+    if hl.startswith(("discover", "learn", "descubre", "aprende")):
+        score -= 1.5
+    return score
+
+
+def _pick_best_hook(candidates, lang: str = "es"):
+    """Devuelve el hook con mejor score de una lista, o None si no hay válidos."""
+    cands = [c.strip() for c in (candidates or []) if isinstance(c, str) and c.strip()]
+    if not cands:
+        return None
+    return max(cands, key=lambda c: _score_hook(c, lang))
+
+
 CHANNEL_TOPICS_MAP = {
     "VidaSana360": "vidasana360.json",
     "SaludLongevidad": "saludlongevidad.json",
@@ -689,7 +727,7 @@ RULES:
 Respond JSON:
 {{
   "topic": "specific topic in English",
-  "hook": "MAX 8 words that STOPS THE SCROLL. Use surprise, specific stat or contradiction. Start with number, action verb or direct question. NEVER start with 'Discover' or 'Learn'. Ex: '90% of people make this money mistake', 'This habit adds 7 years to your life'",
+  "hook_candidates": ["5 DISTINCT hooks, each MAX 8 words that STOPS THE SCROLL with a number/stat, contradiction or direct question. NEVER start with 'Discover'/'Learn'. e.g. '90% make this money mistake'", "second hook, different angle", "third", "fourth", "fifth"],
   "key_points": ["real fact 1", "real fact 2", "real fact 3", "real fact 4"],
   "search_terms": ["very specific English visual search term for background footage 1", "term 2", "term 3"]
 }}"""
@@ -714,12 +752,16 @@ REGLAS:
 Responde JSON:
 {{
   "topic": "tema concreto",
-  "hook": "frase de MÁXIMO 8 palabras que PARA EL SCROLL. Usa sorpresa, dato concreto o contradicción. Empieza con número, verbo de acción o pregunta directa. NUNCA empieces con 'Descubre' o 'Aprende'. Ej: 'El 80% de españoles comete este error', 'Esto te cuesta 300€ al año sin saberlo'",
+  "hook_candidates": ["5 ganchos DISTINTOS, cada uno MÁX 8 palabras que PARA EL SCROLL con número/dato, contradicción o pregunta directa. NUNCA empieces con 'Descubre'/'Aprende'. Ej: 'El 80% comete este error'", "segundo gancho, otro ángulo", "tercero", "cuarto", "quinto"],
   "key_points": ["dato real 1", "dato real 2", "dato real 3", "dato real 4"],
   "search_terms": ["búsqueda visual en inglés muy específica del tema para encontrar video de fondo 1", "término visual 2", "término visual 3"]
 }}"""
 
         data = _call_with_fallback(prompt, primary="groq", temperature=min(0.9 + attempt * 0.1, 1.2))
+
+        # Elegir el mejor hook de los candidatos (validación + score; sin coste extra de LLM)
+        _cands = data.get("hook_candidates") or ([data["hook"]] if data.get("hook") else [])
+        data["hook"] = _pick_best_hook(_cands, lang) or (_cands[0] if _cands else data.get("topic", ""))
 
         # HARD CHECK: verificar que no sea duplicado
         if not _is_duplicate(data["topic"], all_titles):
@@ -765,6 +807,27 @@ _AI_BANNED_ES = ["fascinante", "intrigante", "revolucionario", "imprescindible",
 _AI_BANNED_EN = ["fascinating", "intriguing", "revolutionary", "delve", "embark", "explore", "dive into", "unleash", "amazing", "incredible journey", "discover the secret"]
 
 
+def _ensure_hook_opener(segments, hook):
+    """Garantiza que la voz del primer segmento arranca con el gancho.
+
+    Los primeros 3 segundos deciden la retención; el hook (validado) debe sonar
+    ahí, no solo en el thumbnail. Si el segmento ya lo usa, no toca nada.
+    """
+    if not segments or not hook:
+        return segments
+    hook = hook.strip()
+    first = dict(segments[0])
+    voice = (first.get("voice") or "").strip()
+    hk = _significant_words(hook)
+    vh = _significant_words(" ".join(voice.split()[:8]))
+    if hk and len(hk & vh) >= max(1, len(hk) // 2):
+        return segments  # el segmento ya abre con el gancho
+    sep = "" if hook.endswith((".", "!", "?")) else "."
+    first["voice"] = f"{hook}{sep} {voice}".strip()
+    segments[0] = first
+    return segments
+
+
 def generate_content(channel: dict, topic_data: dict) -> dict:
     """Genera guión con texto en pantalla, con anti-detección IA por rotación de estilo."""
     lang = channel.get("language", "es")
@@ -801,7 +864,7 @@ HARD RULES:
 1. {seg_count} segments (vary durations: some 2s, some 4-5s, NEVER all the same)
 2. voice line: 8-18 words MAX, short and natural
 3. on-screen text: max 20 chars per slide
-4. FIRST segment = scroll-stopping hook (use the style opener above)
+4. FIRST segment voice MUST OPEN with this exact hook, then continue naturally: "{topic_data['hook']}"
 5. LAST segment = curiosity-driven CTA. Examples:
    - "Tomorrow I'm posting the one mistake that ruins all this. Subscribe"
    - "Wait until you see what works even better — coming tomorrow. Follow"
@@ -848,7 +911,7 @@ REGLAS DURAS:
 1. {seg_count} segmentos (variar duraciones: algunos 2s, otros 4-5s, NUNCA todos iguales)
 2. Voz: 8-18 palabras MÁX por segmento, frases cortas y naturales
 3. Texto pantalla: máx 20 chars
-4. PRIMER segmento = gancho que para scroll (usa apertura del estilo)
+4. PRIMER segmento: la voz DEBE EMPEZAR con este gancho exacto y seguir natural: "{topic_data['hook']}"
 5. ÚLTIMO segmento = CTA con curiosidad, NO "sígueme para más"
 6. Sin emojis en el texto pantalla
 7. Cada segmento aporta info NUEVA — sin redundancia
@@ -868,5 +931,7 @@ Responde SOLO JSON:
 }}"""
 
     data = _call_with_fallback(prompt, primary="github", temperature=0.85)
+    # Consistencia gancho→primer segmento (los primeros 3s deciden la retención)
+    data["segments"] = _ensure_hook_opener(data.get("segments", []), topic_data.get("hook"))
     log.info("Título: %s", data["title"])
     return data

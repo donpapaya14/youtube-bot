@@ -47,6 +47,37 @@ def find_music(project_root: str) -> str | None:
     return random.choice(files) if files else None
 
 
+def _extract_video_id(url: str) -> str:
+    if not url:
+        return ""
+    if "v=" in url:
+        return url.split("v=")[-1].split("&")[0]
+    return url.rstrip("/").split("/")[-1].split("?")[0]
+
+
+def log_provenance(channel_name: str, channel: dict, topic_data: dict, content: dict, video_url: str):
+    """Liga video_id -> tema/hook/título generado. Desbloquea el bucle de feedback:
+    luego se cruza con métricas (pull_metrics) para saber QUÉ funcionó.
+    Persiste en .title_cache/provenance.jsonl (CI ya commitea ese dir)."""
+    from datetime import datetime, timezone
+    project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    cache_dir = os.path.join(project_root, ".title_cache")
+    os.makedirs(cache_dir, exist_ok=True)
+    rec = {
+        "ts": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "video_id": _extract_video_id(video_url),
+        "channel": channel.get("name", channel_name),
+        "config": channel_name,
+        "topic": topic_data.get("topic", ""),
+        "hook": topic_data.get("hook", ""),
+        "title": content.get("title", ""),
+        "niche": channel.get("niche", ""),
+    }
+    with open(os.path.join(cache_dir, "provenance.jsonl"), "a") as f:
+        f.write(json.dumps(rec, ensure_ascii=False) + "\n")
+    log.info("Provenance: %s -> %s", rec["video_id"], rec["topic"][:50])
+
+
 def run(channel_name: str, dry_run: bool = False):
     project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     work_dir = tempfile.mkdtemp(prefix=f"ytbot_{channel_name}_")
@@ -174,6 +205,12 @@ def run(channel_name: str, dry_run: bool = False):
         channel_config=channel,
         thumbnail_path=thumbnail_path,
     )
+
+    # Provenance: registrar qué tema/hook generó este video_id (bucle de feedback)
+    try:
+        log_provenance(channel_name, channel, topic_data, content, video_url)
+    except Exception as e:
+        log.warning("Provenance log falló: %s", str(e)[:80])
 
     # 8. Telegram (admin notif + auto-promo público)
     msg = (
