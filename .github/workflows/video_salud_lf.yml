@@ -1,7 +1,8 @@
 name: "Video: SaludLongevidad (Long-Form)"
 on:
-  schedule:
-    - cron: '30 18 * * *'
+  # PAUSADO 2026-05-28: canal enterrado (~0 views LF). Lanzable a mano (workflow_dispatch).
+  # schedule:
+  #   - cron: '30 18 * * *'
   workflow_dispatch:
 jobs:
   video:

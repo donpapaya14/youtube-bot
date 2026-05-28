@@ -1,8 +1,9 @@
 name: "Video: CashCafe (Long-Form)"
 on:
-  schedule:
-    - cron: '0 4 * * *'    # 06:00 ES (LF amanecer)
-    - cron: '0 17 * * *'   # 19:00 ES (LF prime time)
+  # DESACTIVADO 2026-05-28: LF sin tracción (~1 view vs 31 en shorts). Lanzable a mano (workflow_dispatch).
+  # schedule:
+  #   - cron: '0 4 * * *'    # 06:00 ES (LF amanecer)
+  #   - cron: '0 17 * * *'   # 19:00 ES (LF prime time)
   workflow_dispatch:
 jobs:
   video:

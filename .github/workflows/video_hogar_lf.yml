@@ -1,7 +1,8 @@
 name: "Video: EspacioInteligente (Long-Form)"
 on:
-  schedule:
-    - cron: '0 23 * * *'   # 19:00 EDT (prime US LF)
+  # DESACTIVADO 2026-05-28: LF sin tracción (~1 view vs 104 en shorts). Lanzable a mano (workflow_dispatch).
+  # schedule:
+  #   - cron: '0 23 * * *'   # 19:00 EDT (prime US LF)
   workflow_dispatch:
 jobs:
   video:

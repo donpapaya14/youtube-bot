@@ -1,7 +1,8 @@
 name: "Video: FinanzasClara (Long-Form)"
 on:
-  schedule:
-    - cron: '30 13 * * *'
+  # PAUSADO 2026-05-28: canal muerto (~3 views LF). Lanzable a mano (workflow_dispatch).
+  # schedule:
+  #   - cron: '30 13 * * *'
   workflow_dispatch:
 jobs:
   video:
