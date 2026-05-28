@@ -47,7 +47,7 @@ def find_music(project_root: str) -> str | None:
     return random.choice(files) if files else None
 
 
-def run(channel_name: str):
+def run(channel_name: str, dry_run: bool = False):
     project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     work_dir = tempfile.mkdtemp(prefix=f"ytbot_{channel_name}_")
 
@@ -132,10 +132,27 @@ def run(channel_name: str):
         output_path=output_path,
         music_path=music,
         no_voice=no_voice,
+        mascot=channel.get("mascot"),
     )
 
     size_mb = os.path.getsize(output_path) / (1024 * 1024)
     log.info("Video final: %.1f MB", size_mb)
+
+    if dry_run:
+        import shutil
+        dry_dir = os.path.join(tempfile.gettempdir(), f"dryrun_{channel_name}")
+        os.makedirs(dry_dir, exist_ok=True)
+        final_video = os.path.join(dry_dir, "final_short.mp4")
+        shutil.copy(output_path, final_video)
+        final_thumb = None
+        if thumbnail_path and os.path.exists(thumbnail_path):
+            final_thumb = os.path.join(dry_dir, "thumbnail.png")
+            shutil.copy(thumbnail_path, final_thumb)
+        log.info("DRY-RUN: NO subido a YouTube ni Telegram.")
+        log.info("DRY-RUN título: %s", content["title"])
+        log.info("DRY-RUN vídeo: %s", final_video)
+        log.info("DRY-RUN thumbnail: %s", final_thumb)
+        return final_video
 
     # 8. Subir a YouTube
     log.info("Subiendo a YouTube...")
@@ -184,10 +201,12 @@ def run(channel_name: str):
 def main():
     parser = argparse.ArgumentParser(description="YouTube Shorts Bot")
     parser.add_argument("--channel", required=True)
+    parser.add_argument("--no-upload", action="store_true",
+                        help="Genera el vídeo pero NO sube a YouTube ni notifica (test local)")
     args = parser.parse_args()
 
     try:
-        url = run(args.channel)
+        url = run(args.channel, dry_run=args.no_upload)
         print(f"\nVideo: {url}")
     except Exception as e:
         log.error("Error: %s", e, exc_info=True)

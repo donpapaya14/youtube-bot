@@ -458,7 +458,7 @@ def _significant_words(title: str) -> set[str]:
     return {w for w in words if len(w) >= 4 and w not in _STOPWORDS and not w.isdigit()}
 
 
-def _is_duplicate(new_title: str, existing_titles: list[str], threshold: float = 0.35) -> bool:
+def _is_duplicate(new_title: str, existing_titles: list[str], threshold: float = 0.45) -> bool:
     """Detecta duplicados con 3 capas: substring exacto, sustantivos compartidos, word overlap."""
     new_norm = _re.sub(r"\s+", " ", _re.sub(r"[^\w\s]", " ", new_title.lower())).strip()
     new_sig = _significant_words(new_title)
@@ -479,11 +479,11 @@ def _is_duplicate(new_title: str, existing_titles: list[str], threshold: float =
                     log.warning("DUP substring: '%s' ⊂ '%s'", chunk, existing[:50])
                     return True
 
-        # Capa 2: 3+ sustantivos significativos compartidos = duplicado
-        # (era 2, demasiado estricto en canales mismo nicho)
+        # Capa 2: 4+ sustantivos significativos compartidos = duplicado
+        # (era 3; demasiado estricto en nicho estrecho con muchos títulos → falsos positivos)
         existing_sig = _significant_words(existing)
         shared_sig = new_sig & existing_sig
-        if len(shared_sig) >= 3:
+        if len(shared_sig) >= 4:
             log.warning("DUP sustantivos (%d compartidos: %s): '%s' ≈ '%s'",
                         len(shared_sig), shared_sig, new_title[:50], existing[:50])
             return True
@@ -513,9 +513,13 @@ CHANNEL_TOPICS_MAP = {
 }
 
 # Canales que comparten nicho — cross-channel dedup
+# DESACTIVADO 2026-05-28: SaludLongevidad pausado/sin tracción. El cross-dedup
+# con un canal muerto duplicaba la lista de títulos a evitar (~100) y agotaba el
+# espacio de temas de VidaSana360 (~50% de runs abortaban por DEDUP).
+# Reactivar (descomentar) solo si AMBOS canales vuelven a producir activamente.
 SIBLING_CHANNELS = {
-    "VidaSana360": {"name": "SaludLongevidad", "refresh_token_env": "YT_TOKEN_SALUD"},
-    "SaludLongevidad": {"name": "VidaSana360", "refresh_token_env": "YT_TOKEN_PRINCIPAL"},
+    # "VidaSana360": {"name": "SaludLongevidad", "refresh_token_env": "YT_TOKEN_SALUD"},
+    # "SaludLongevidad": {"name": "VidaSana360", "refresh_token_env": "YT_TOKEN_PRINCIPAL"},
 }
 
 
@@ -653,7 +657,7 @@ def research_topic(channel: dict) -> dict:
     shuffled = formulas[:]
     random.shuffle(shuffled)
 
-    for attempt in range(6):
+    for attempt in range(10):
         formula = shuffled[attempt % len(shuffled)]
 
         # Enriquecer con tendencias actuales
@@ -726,9 +730,17 @@ Responde JSON:
         log.warning("Intento %d: tema duplicado '%s', reintentando con otra fórmula", attempt + 1, data["topic"][:40])
         all_titles.append(data["topic"])  # Evitar regenerar el mismo
 
-    # Si 6 intentos fallan, ABORTAR — NO subir duplicado
-    log.error("DEDUP: 6 intentos fallaron. Último topic: %s. Abortando para no duplicar.", data["topic"][:50])
-    raise RuntimeError(f"DEDUP failed after 6 attempts. Last topic: {data['topic'][:80]}")
+    # Si todos los intentos fallan: NO abortar (mataría el vídeo del día en silencio).
+    # Fallback: tema del banco pre-escrito (curado, id único) o el mejor intento generado.
+    log.warning("DEDUP: 10 intentos con duplicado. Fallback al banco / último intento.")
+    fallback = _load_prewritten_topic(channel)
+    if fallback:
+        _save_local_title(channel["name"], fallback["topic"])
+        log.info("Fallback banco pre-escrito: %s", fallback["topic"])
+        return fallback
+    log.warning("Sin banco disponible; uso último tema generado (mejor publicar que abortar): %s", data["topic"][:60])
+    _save_local_title(channel["name"], data["topic"])
+    return data
 
 
 # ── Estilos rotativos para evitar detección de patrón IA ──

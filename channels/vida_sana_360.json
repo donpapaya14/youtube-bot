@@ -36,5 +36,14 @@
     "es-MX-DaliaNeural",
     "es-MX-JorgeNeural"
   ],
-  "cloud_project": "default"
+  "cloud_project": "default",
+  "mascot": {
+    "enabled": true,
+    "dir": "assets/mascots/vidasana360",
+    "scale": 0.22,
+    "watermark_pos": "bottom-right",
+    "watermark_pose": "point",
+    "outro": true,
+    "outro_text": "Suscríbete 👇"
+  }
 }

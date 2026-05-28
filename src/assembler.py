@@ -21,6 +21,16 @@ log = logging.getLogger(__name__)
 WIDTH = 1080
 HEIGHT = 1920
 
+# Mascota: import defensivo (aditivo, nunca rompe el ensamblaje)
+try:
+    from mascot import get_mascot, from_channel
+except Exception:  # pragma: no cover
+    def get_mascot(*a, **k):
+        return None
+
+    def from_channel(*a, **k):
+        return None
+
 
 def assemble_video(
     clips: list[str],
@@ -29,8 +39,15 @@ def assemble_video(
     output_path: str,
     music_path: str | None = None,
     no_voice: bool = False,
+    mascot: dict | None = None,
 ) -> str:
     work_dir = tempfile.mkdtemp(prefix="ytbot_")
+
+    # Mascota: enriquecer con color de marca para la tarjeta outro
+    if mascot and mascot.get("enabled"):
+        mascot = {**mascot, "primary_color": style.get("primary_color", "#C62828")}
+    else:
+        mascot = None
 
     # 1. Procesar clips
     processed = _process_clips(clips, work_dir)
@@ -53,9 +70,10 @@ def assemble_video(
     # 4. Generar PNGs de texto
     slide_pngs = _generate_slide_pngs(voiced_segments, style, work_dir)
 
-    # 5. Componer todo: video + texto overlay + música (± voz)
+    # 5. Componer todo: video + texto overlay + música (± voz) + mascota
     _compose_final(concat_path, voice_path, slide_pngs, voiced_segments,
-                   total_duration, output_path, music_path, no_voice=no_voice)
+                   total_duration, output_path, music_path, no_voice=no_voice,
+                   mascot=mascot)
 
     log.info("Video ensamblado: %s", output_path)
     return output_path
@@ -200,8 +218,8 @@ def _render_slide(text, font, font_size, bg_rgb, bg_opacity, txt_rgb, output, id
     img.save(output, "PNG")
 
 
-def _compose_final(bg_video, voice_path, slide_pngs, segments, total_duration, output, music_path, no_voice=False):
-    """Compone: video looped + overlay texto + música (± voz TTS)."""
+def _compose_final(bg_video, voice_path, slide_pngs, segments, total_duration, output, music_path, no_voice=False, mascot=None):
+    """Compone: video looped + overlay texto + música (± voz TTS) + mascota opcional."""
     inputs = ["-stream_loop", "-1", "-i", bg_video]  # 0: video
 
     # 1: voz (solo si hay voz)
@@ -249,13 +267,28 @@ def _compose_final(bg_video, voice_path, slide_pngs, segments, total_duration, o
         # Sin voz, sin música: silencio
         filters.append(f"anullsrc=r=44100:cl=mono[aout]")
 
+    # Mascota: marca de agua + tarjeta outro (aditivo, fallback-safe)
+    final_video = last_video
+    if mascot and mascot.get("enabled"):
+        try:
+            base_idx = inputs.count("-i")
+            extra_inputs, extra_filters, final_video = _mascot_overlays(
+                mascot, last_video, total_duration, os.path.dirname(output) or ".", base_idx
+            )
+            inputs += extra_inputs
+            filters += extra_filters
+            log.info("Mascota: overlay aplicado -> %s", final_video)
+        except Exception as e:
+            log.warning("Mascota omitida (overlay): %s", str(e)[:120])
+            final_video = last_video
+
     filter_str = ";".join(filters)
 
     cmd = [
         "ffmpeg", "-y",
         *inputs,
         "-filter_complex", filter_str,
-        "-map", last_video,
+        "-map", final_video,
         "-map", "[aout]",
         "-c:v", "libx264", "-preset", "fast", "-crf", "20",
         "-c:a", "aac", "-b:a", "192k",
@@ -270,6 +303,105 @@ def _compose_final(bg_video, voice_path, slide_pngs, segments, total_duration, o
     if result.returncode != 0:
         log.error("FFmpeg: %s", result.stderr[-800:])
         raise RuntimeError(f"Error composición: {result.stderr[-500:]}")
+
+
+def _mascot_overlays(mascot, base_label, total_duration, work_dir, base_idx):
+    """Construye inputs + filtros para marca de agua y tarjeta outro.
+
+    Devuelve (extra_inputs, extra_filters, final_label). Lanza si no hay assets,
+    para que el llamador caiga al render sin mascota.
+    """
+    extra_inputs = []
+    extra_filters = []
+    cur_label = base_label
+    idx = base_idx
+    scale = float(mascot.get("scale", 0.22))
+    do_outro = bool(mascot.get("outro", True))
+    final_dur = min(total_duration, 58)
+    out_start = max(final_dur - 1.6, 0.0)
+
+    # 1. Marca de agua (se oculta durante el outro para no duplicar la cara)
+    wm_pose = mascot.get("watermark_pose", "point")
+    wm_path = get_mascot(mascot, wm_pose)
+    if wm_path:
+        wm_w = max(80, int(WIDTH * scale))
+        extra_inputs += ["-i", wm_path]
+        wm_in = idx
+        idx += 1
+        wm_enable = f":enable='between(t,0,{out_start:.1f})'" if do_outro else ""
+        extra_filters.append(f"[{wm_in}:v]scale={wm_w}:-1[mw]")
+        extra_filters.append(
+            f"{cur_label}[mw]overlay=main_w-overlay_w-30:main_h-overlay_h-180{wm_enable}[vwm]"
+        )
+        cur_label = "[vwm]"
+
+    # 2. Tarjeta outro con CTA (últimos ~1.6s)
+    if do_outro:
+        outro_png = os.path.join(work_dir, "mascot_outro.png")
+        if _build_outro_card(mascot, outro_png):
+            extra_inputs += ["-i", outro_png]
+            o_in = idx
+            idx += 1
+            extra_filters.append(
+                f"{cur_label}[{o_in}:v]"
+                f"overlay=0:0:enable='between(t,{out_start:.1f},{final_dur:.1f})'[vout]"
+            )
+            cur_label = "[vout]"
+
+    if cur_label == base_label:
+        raise RuntimeError("sin assets de mascota")
+    return extra_inputs, extra_filters, cur_label
+
+
+def _build_outro_card(mascot, out_path) -> bool:
+    """Genera tarjeta outro 1080×1920: fondo color de marca + mascota + CTA."""
+    pose_path = get_mascot(mascot, "wave") or get_mascot(mascot, "thumb")
+    if not pose_path:
+        return False
+    try:
+        primary = _hex_to_rgb(mascot.get("primary_color", "#C62828"))
+        dark = tuple(max(0, c - 90) for c in primary)
+
+        img = Image.new("RGBA", (WIDTH, HEIGHT), (0, 0, 0, 0))
+        bg = Image.new("RGBA", (WIDTH, HEIGHT))
+        bd = ImageDraw.Draw(bg)
+        for y in range(HEIGHT):
+            t = y / HEIGHT
+            c = tuple(int(primary[i] * (1 - t) + dark[i] * t) for i in range(3))
+            bd.line([(0, y), (WIDTH, y)], fill=(*c, 235))
+        img = Image.alpha_composite(img, bg)
+
+        mid = Image.open(pose_path).convert("RGBA")
+        mw = int(WIDTH * 0.5)
+        mh = int(mid.height * mw / mid.width)
+        mid = mid.resize((mw, mh), Image.LANCZOS)
+        img.paste(mid, ((WIDTH - mw) // 2, int(HEIGHT * 0.20)), mid)
+
+        draw = ImageDraw.Draw(img)
+        font_path = _find_font()
+        try:
+            big = ImageFont.truetype(font_path, 120) if font_path else ImageFont.load_default()
+            med = ImageFont.truetype(font_path, 80) if font_path else ImageFont.load_default()
+        except Exception:
+            big = med = ImageFont.load_default()
+
+        cta = _strip_emojis(mascot.get("outro_text", "Suscríbete")).upper().strip() or "SUSCRIBETE"
+        bw = draw.textbbox((0, 0), cta, font=big)[2]
+        tx = (WIDTH - bw) // 2
+        ty = int(HEIGHT * 0.62)
+        for ox, oy in [(-5, -5), (5, -5), (-5, 5), (5, 5), (0, -5), (0, 5), (-5, 0), (5, 0)]:
+            draw.text((tx + ox, ty + oy), cta, font=big, fill=(0, 0, 0))
+        draw.text((tx, ty), cta, font=big, fill=(255, 255, 255))
+
+        arrow = "▼ ▼ ▼"
+        aw = draw.textbbox((0, 0), arrow, font=med)[2]
+        draw.text(((WIDTH - aw) // 2, ty + 170), arrow, font=med, fill=(255, 255, 255))
+
+        img.save(out_path, "PNG")
+        return True
+    except Exception as e:
+        log.warning("Outro card: %s", str(e)[:100])
+        return False
 
 
 def _fetch_pexels_background(query: str, w: int, h: int):
@@ -395,6 +527,18 @@ def generate_shorts_thumbnail(hook: str, channel: dict, output_path: str, search
     for ox, oy in [(-2,-2),(2,-2),(-2,2),(2,2)]:
         draw.text((cx+ox, H-68+oy), ch_name, font=small, fill=(0, 0, 0))
     draw.text((cx, H-68), ch_name, font=small, fill=accent)
+
+    # Mascota en thumbnail (esquina inferior derecha) — aditivo, fallback-safe
+    try:
+        mp = from_channel(channel, "thumb")
+        if mp:
+            m = Image.open(mp).convert("RGBA")
+            mw = int(W * 0.30)
+            mh = int(m.height * mw / m.width)
+            m = m.resize((mw, mh), Image.LANCZOS)
+            img.paste(m, (W - mw - 30, H - mh - 110), m)
+    except Exception as e:
+        log.warning("Mascota thumbnail omitida: %s", str(e)[:100])
 
     img.save(output_path, "PNG")
     return output_path
