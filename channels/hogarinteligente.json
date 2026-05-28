@@ -36,5 +36,14 @@
     "en-US-EmmaNeural",
     "en-GB-RyanNeural"
   ],
-  "cloud_project": "papi"
+  "cloud_project": "papi",
+  "mascot": {
+    "enabled": true,
+    "dir": "assets/mascots/espaciointeligente",
+    "scale": 0.22,
+    "watermark_pos": "bottom-right",
+    "watermark_pose": "point",
+    "outro": true,
+    "outro_text": "Subscribe 👇"
+  }
 }

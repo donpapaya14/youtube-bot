@@ -56,5 +56,14 @@
     "en-US-EmmaNeural",
     "en-US-BrianNeural"
   ],
-  "cloud_project": "cashcafe"
+  "cloud_project": "cashcafe",
+  "mascot": {
+    "enabled": true,
+    "dir": "assets/mascots/cashcafe",
+    "scale": 0.22,
+    "watermark_pos": "bottom-right",
+    "watermark_pose": "point",
+    "outro": true,
+    "outro_text": "Subscribe 👇"
+  }
 }
