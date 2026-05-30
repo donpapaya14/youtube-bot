@@ -193,7 +193,9 @@ NICHE_MAP = {
     # los 40" = los que mueren. Verificado con analytics 30-may.
     "VidaSana360": "salud_bienestar",
     "CatBrothers": "cats_en",
-    "EspacioInteligente": "home_en",
+    # EspacioInteligente flipeado a ES (30-may): sus tops son ES (vinagre, ahorro
+    # 180€); inglés muere. home_en (inglés abstracto) -> hogar (ES concreto).
+    "EspacioInteligente": "hogar",
 }
 
 CONTENT_FORMULAS["finance_en"] = [

@@ -1,0 +1,2342 @@
+[
+  {
+    "id": 2000,
+    "topic": "Why $1 white vinegar beats every limescale spray on the market",
+    "hook": "$1 vinegar destroys limescale better than sprays",
+    "key_points": [
+      "White vinegar contains 5% acetic acid (pH ~2.4) which dissolves calcium carbonate scale on contact",
+      "EPA recognizes acetic acid solutions as effective against many bacteria on hard surfaces",
+      "A gallon of distilled white vinegar costs around $4 vs $8-12 for a single bottle of CLR",
+      "Never mix vinegar with bleach — produces toxic chlorine gas"
+    ],
+    "search_terms": ["white vinegar bottle kitchen", "limescale faucet", "cleaning sink"],
+    "category": "cleaning"
+  },
+  {
+    "id": 2001,
+    "topic": "The dishwasher loading mistake that wastes 30% of your detergent",
+    "hook": "You're loading your dishwasher all wrong",
+    "key_points": [
+      "Dishes should face the sprayer arms, not each other — water can't reach blocked surfaces",
+      "Bowls go on top rack angled inward; plates on bottom rack facing center",
+      "Pre-rinsing actually reduces detergent effectiveness because enzymes need food residue to activate",
+      "Energy Star dishwashers use ~3 gallons per cycle — handwashing uses up to 27"
+    ],
+    "search_terms": ["dishwasher loading dishes", "kitchen dishwasher open", "water spray dishes"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 2002,
+    "topic": "Setting your fridge to 37F saves $80 a year on electricity",
+    "hook": "Wrong fridge temp costs you $80 yearly",
+    "key_points": [
+      "USDA recommends fridge at 40F or below; sweet spot is 37F (3C) for safety and energy",
+      "Each degree colder than necessary increases energy consumption by ~5%",
+      "DOE estimates fridges use 8% of household electricity — biggest single appliance load after HVAC",
+      "Freezer should be 0F (-18C) — colder doesn't preserve food better"
+    ],
+    "search_terms": ["refrigerator temperature dial", "fridge interior food", "thermostat fridge"],
+    "category": "energy-saving"
+  },
+  {
+    "id": 2003,
+    "topic": "Why dryer sheets ruin towels — and what to use instead",
+    "hook": "Stop using dryer sheets on towels right now",
+    "key_points": [
+      "Dryer sheets coat fibers with waxy softeners that block towel absorbency",
+      "After 20 washes with dryer sheets, towels lose up to 40% of moisture-wicking ability",
+      "Use 1/2 cup white vinegar in rinse cycle instead — softens without coating",
+      "Wool dryer balls cut drying time by ~25% per Energy Star testing"
+    ],
+    "search_terms": ["folded towels stack", "dryer sheets box", "laundry dryer balls"],
+    "category": "laundry"
+  },
+  {
+    "id": 2004,
+    "topic": "The $0.05 baking soda trick that deodorizes a fridge in 24 hours",
+    "hook": "5 cents kills any fridge smell overnight",
+    "key_points": [
+      "Baking soda (sodium bicarbonate) neutralizes both acidic and basic odor molecules via pH buffering",
+      "Open box exposes ~90 sq inches of absorbent surface — keeps working ~30 days",
+      "Place on top shelf where cold air falls and circulates downward most efficiently",
+      "Replace every 30 days; old box is great for sink drain cleaning"
+    ],
+    "search_terms": ["baking soda box fridge", "open refrigerator inside", "kitchen fridge clean"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 2005,
+    "topic": "Smart plugs cut phantom power and save $100 a year — here's the math",
+    "hook": "Phantom power costs you $100 every year",
+    "key_points": [
+      "DOE estimates standby power accounts for 5-10% of residential electricity use",
+      "Average US home has 65 always-on devices wasting ~$165/year",
+      "Smart plugs ($8-15 each) on TV/console/coffee maker pay back in under 6 months",
+      "Schedule devices to fully off overnight — saves more than 'sleep' modes"
+    ],
+    "search_terms": ["smart plug outlet", "phone app smart home", "tv power outlet"],
+    "category": "smart-home"
+  },
+  {
+    "id": 2006,
+    "topic": "Why you should never store potatoes near onions",
+    "hook": "Storing potatoes wrong wastes $50 a year",
+    "key_points": [
+      "Onions release ethylene gas which accelerates potato sprouting and softening",
+      "Potatoes release moisture that causes onions to rot faster",
+      "Optimal potato storage: 45-55F, dark, ventilated paper bag — lasts 2-3 months",
+      "Onions need cool dry air, separate basket, away from light"
+    ],
+    "search_terms": ["potatoes onions kitchen", "pantry vegetables storage", "potato bag dark"],
+    "category": "storage"
+  },
+  {
+    "id": 2007,
+    "topic": "The dish soap and water trick that kills aphids without chemicals",
+    "hook": "Dish soap ends aphid problem in 2 days",
+    "key_points": [
+      "1 tsp mild dish soap + 1 quart water disrupts aphid exoskeleton lipid layer",
+      "Spray undersides of leaves where aphids cluster — kills on contact, harmless to plants",
+      "Avoid antibacterial soaps and detergents with degreasers — damage plant cuticle",
+      "Reapply every 2-3 days for full lifecycle elimination"
+    ],
+    "search_terms": ["spray bottle plants", "houseplants leaves", "aphids plant green"],
+    "category": "pest"
+  },
+  {
+    "id": 2008,
+    "topic": "How a $4 squeegee in your shower prevents $400 in mold damage",
+    "hook": "$4 squeegee saves $400 in mold repairs",
+    "key_points": [
+      "A 30-second daily squeegee removes 90% of moisture mold needs to grow",
+      "Mold remediation averages $400-1500 per bathroom per CDC contractor data",
+      "Bathroom humidity should drop below 50% within 1 hour after showering",
+      "Run exhaust fan minimum 20 minutes after shower per ASHRAE 62.2 standard"
+    ],
+    "search_terms": ["shower squeegee glass", "bathroom shower clean", "tile shower water"],
+    "category": "bathroom"
+  },
+  {
+    "id": 2009,
+    "topic": "Why your washer smells like mildew (and the 90F fix)",
+    "hook": "Your washer stinks because of one habit",
+    "key_points": [
+      "Front-loaders trap moisture in door gasket — perfect mold breeding zone",
+      "Run a monthly empty cycle on hottest setting (140F+) with 2 cups white vinegar",
+      "Always leave door cracked open between loads — drops humidity 60%",
+      "Wipe rubber gasket weekly — black slime is biofilm, not mold (yet)"
+    ],
+    "search_terms": ["washing machine front load", "laundry machine open", "washer detergent"],
+    "category": "laundry"
+  },
+  {
+    "id": 2010,
+    "topic": "The $2 magic eraser swap that's gentler on paint",
+    "hook": "Magic erasers ruin paint — try this instead",
+    "key_points": [
+      "Magic erasers are melamine foam acting like ultra-fine sandpaper (3000 grit)",
+      "On flat/eggshell paint they leave dull spots within 2-3 uses",
+      "Try a paste of baking soda + water on a microfiber cloth instead",
+      "Save magic erasers for tile grout, sneaker soles, and shower doors only"
+    ],
+    "search_terms": ["wall scrub cleaning", "white wall paint", "magic eraser foam"],
+    "category": "cleaning"
+  },
+  {
+    "id": 2011,
+    "topic": "1 LED bulb swap saves the average US home $225 over 10 years",
+    "hook": "One bulb swap saves $225 over a decade",
+    "key_points": [
+      "LED uses ~75% less energy than incandescent and lasts ~25x longer per DOE",
+      "Average household has 40+ bulbs; switching saves $225 per LED over its life",
+      "ENERGY STAR LEDs last 15,000-25,000 hours — about 13 years at 3hrs/day",
+      "Color temp 2700K-3000K for living areas; 4000K+ for kitchens/bathrooms"
+    ],
+    "search_terms": ["led bulb hand", "lamp light bulb", "warm light room"],
+    "category": "energy-saving"
+  },
+  {
+    "id": 2012,
+    "topic": "Why you should rinse rice exactly 3 times (and never more)",
+    "hook": "Rinsing rice 3 times is a hard limit",
+    "key_points": [
+      "First rinse removes surface dust and packaging residue",
+      "Second/third rinse removes excess starch for fluffier texture",
+      "Beyond 3 rinses you lose water-soluble vitamins (thiamine, niacin) added to enriched rice",
+      "Stop rinsing when water runs ~80% clear — never needs to be crystal clear"
+    ],
+    "search_terms": ["rinsing rice bowl", "rice grains water", "white rice cooking"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 2013,
+    "topic": "The 60-second freezer reset that doubles your ice maker speed",
+    "hook": "Reset your ice maker in 60 seconds flat",
+    "key_points": [
+      "Mineral buildup on inlet valve cuts water flow ~40% within 6 months on hard water",
+      "Most ice makers have a reset button on the underside — hold 10 seconds",
+      "Replace water filter every 6 months per manufacturer spec",
+      "Vacuum condenser coils twice yearly for 15% efficiency boost"
+    ],
+    "search_terms": ["ice maker freezer", "ice cubes glass", "refrigerator water dispenser"],
+    "category": "maintenance"
+  },
+  {
+    "id": 2014,
+    "topic": "Stop wasting paper towels: the 1-towel kitchen system",
+    "hook": "1 cloth replaces 200 paper towels a month",
+    "key_points": [
+      "Average US household uses 2 rolls/week — that's $90+ a year on paper",
+      "Microfiber towels capture 99% of bacteria with water alone (UC Davis studies)",
+      "Color-code: blue for counters, yellow for floors, red for bathroom",
+      "Wash hot weekly with no fabric softener — softener clogs fibers"
+    ],
+    "search_terms": ["microfiber cloth kitchen", "paper towel roll", "wiping countertop"],
+    "category": "cleaning"
+  },
+  {
+    "id": 2015,
+    "topic": "Why your knife dulls in a month (and how to make it last 5 years)",
+    "hook": "1 cutting board choice triples knife life",
+    "key_points": [
+      "Glass and ceramic boards roll knife edges within weeks",
+      "End-grain wood (maple, walnut) compresses then springs back — preserves edge",
+      "Hone weekly with a steel rod; sharpen 2-3 times yearly with whetstone",
+      "Hand wash only — dishwashers ruin handles and edges in months"
+    ],
+    "search_terms": ["chef knife cutting board", "wood cutting board", "kitchen knife sharp"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 2016,
+    "topic": "Setting AC to 78F isn't lazy — it saves $300 per summer",
+    "hook": "78F isn't lazy — it saves $300 yearly",
+    "key_points": [
+      "DOE recommends 78F when home, 85F away — each degree below adds 6-8% to bill",
+      "Ceiling fan + 78F feels like 73F because moving air evaporates skin moisture",
+      "Close blinds south/west-facing windows during peak sun — cuts cooling load 30%",
+      "Change AC filter every 60-90 days — clogged filter wastes 15% energy"
+    ],
+    "search_terms": ["thermostat ac home", "ceiling fan room", "air conditioning vent"],
+    "category": "energy-saving"
+  },
+  {
+    "id": 2017,
+    "topic": "The drawer divider hack that gives you 50% more space instantly",
+    "hook": "Drawer divider trick adds 50% more space",
+    "key_points": [
+      "Vertical filing (folded shirts standing up) lets you see every item at once",
+      "Marie Kondo's KonMari method tested at 47% more visible inventory vs stacking",
+      "$2 cardboard dividers from any shoebox work as well as $20 acrylic ones",
+      "Saves 5-10 minutes per morning hunting for clothes"
+    ],
+    "search_terms": ["organized drawer clothes", "folded shirts vertical", "closet organization"],
+    "category": "organization"
+  },
+  {
+    "id": 2018,
+    "topic": "How to clean your microwave with steam in 2 minutes",
+    "hook": "Steam clean any microwave in 2 minutes",
+    "key_points": [
+      "1 cup water + 2 tbsp lemon juice in a bowl, microwave on high 3 minutes",
+      "Steam softens stuck food via hydrolysis — wipes off with one swipe",
+      "Citric acid in lemon kills 99% of bacteria on interior surfaces",
+      "Works on any built-up grease without chemical sprays"
+    ],
+    "search_terms": ["microwave bowl water", "lemon kitchen", "clean microwave inside"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 2019,
+    "topic": "Why peppermint oil keeps mice away (real science)",
+    "hook": "Mice flee from one drugstore oil",
+    "key_points": [
+      "Peppermint contains menthol and pulegone — mice's smell receptors find these overwhelming",
+      "Cotton balls with 5-10 drops placed at entry points; refresh every 7-10 days",
+      "Doesn't kill mice — repels them to seek easier nesting sites",
+      "Combine with sealing 1/4 inch gaps (mice fit through dime-sized holes)"
+    ],
+    "search_terms": ["peppermint essential oil", "cotton balls", "kitchen pantry corner"],
+    "category": "pest"
+  },
+  {
+    "id": 2020,
+    "topic": "The soap dispenser hack that ends sticky countertops forever",
+    "hook": "Sticky countertops end with 1 simple swap",
+    "key_points": [
+      "Soap dispensers leak ~2 ml per pump from base seal over time",
+      "Place dispenser on a small ceramic dish — catches drips, easy to wash",
+      "Refill with 1:3 dish soap to water for foaming — uses 75% less soap",
+      "Clean pump weekly to prevent crystallized soap clogging mechanism"
+    ],
+    "search_terms": ["soap dispenser kitchen", "kitchen counter clean", "hand soap pump"],
+    "category": "cleaning"
+  },
+  {
+    "id": 2021,
+    "topic": "Why washing jeans every wear destroys them in 1 year",
+    "hook": "Washing jeans weekly kills them in months",
+    "key_points": [
+      "Levi's CEO publicly recommends washing jeans every 10 wears max",
+      "Cotton fibers break down ~5% per hot wash cycle",
+      "Spot clean stains; freeze overnight to kill odor-causing bacteria",
+      "Hang in steamy bathroom 30 min to refresh between wears"
+    ],
+    "search_terms": ["jeans folded denim", "laundry jeans hanging", "washing machine clothes"],
+    "category": "laundry"
+  },
+  {
+    "id": 2022,
+    "topic": "Smart bulbs vs smart plugs: which actually saves money?",
+    "hook": "1 smart device saves more than the other",
+    "key_points": [
+      "Smart plugs cost $8-15, last 5+ years, work with any lamp or appliance",
+      "Smart bulbs cost $10-25 each, last 25,000 hours, only work for lighting",
+      "For lamps: smart plug + LED bulb beats smart bulb at half the cost",
+      "Smart bulbs win when you need color/temp changes (kid rooms, accent lighting)"
+    ],
+    "search_terms": ["smart bulb led", "smart plug app", "phone smart home control"],
+    "category": "smart-home"
+  },
+  {
+    "id": 2023,
+    "topic": "The 3-bin organization system that ends junk drawer chaos",
+    "hook": "End junk drawer chaos with 3 bins",
+    "key_points": [
+      "Bin 1: Daily use (pens, scissors, tape) — front of drawer",
+      "Bin 2: Tools (screwdriver, batteries, flashlight) — back of drawer",
+      "Bin 3: Random/temporary (mail, small parts) — review weekly",
+      "Anything not used in 90 days exits the system — donate or trash"
+    ],
+    "search_terms": ["junk drawer organized", "organizers kitchen", "drawer items bins"],
+    "category": "organization"
+  },
+  {
+    "id": 2024,
+    "topic": "Why hot water actually sets stains (use cold instead)",
+    "hook": "Hot water makes stains permanent",
+    "key_points": [
+      "Heat denatures protein-based stains (blood, sweat, egg) — bonds them to fabric",
+      "Cold water keeps stain molecules suspended for easier release",
+      "Tannin stains (coffee, wine) need cool water + dish soap pretreat",
+      "Only oil-based stains benefit from warm (not hot) water"
+    ],
+    "search_terms": ["stain shirt clothes", "laundry water sink", "white shirt stain"],
+    "category": "laundry"
+  },
+  {
+    "id": 2025,
+    "topic": "The bathroom fan that's costing you $50 a month in heating",
+    "hook": "Your bathroom fan steals $50 a month",
+    "key_points": [
+      "Bathroom fans pull 50-100 CFM of conditioned air outside",
+      "Running 24/7 replaces ~720 cubic feet of heated/cooled air per hour",
+      "Use a timer switch ($15) — 20-30 min after shower per ASHRAE recommendation",
+      "Smart humidity sensor switches turn off automatically when air dries"
+    ],
+    "search_terms": ["bathroom exhaust fan", "ceiling fan vent", "bathroom ventilation"],
+    "category": "energy-saving"
+  },
+  {
+    "id": 2026,
+    "topic": "Why you should never use Pine-Sol on hardwood floors",
+    "hook": "Pine-Sol destroys hardwood floors silently",
+    "key_points": [
+      "Pine-Sol is alkaline (pH 10-11) — strips polyurethane finish over time",
+      "Water alone with microfiber removes 98% of dirt without damage",
+      "For deep clean: 1/4 cup distilled white vinegar in 1 gallon water (matte finish only)",
+      "Use Bona or manufacturer-recommended cleaner for satin/glossy finishes"
+    ],
+    "search_terms": ["hardwood floor mop", "wood floor clean", "mopping kitchen floor"],
+    "category": "cleaning"
+  },
+  {
+    "id": 2027,
+    "topic": "How to remove stickers from glass with peanut butter",
+    "hook": "Peanut butter removes any sticker in 5 min",
+    "key_points": [
+      "Oils in peanut butter dissolve adhesive polymers within 3-5 minutes",
+      "Apply thick layer, let sit 5 min, scrape with credit card edge",
+      "Works on glass, plastic, ceramic — not on porous surfaces like wood",
+      "Cooking oil or coconut oil work identically — peanut butter just stays put"
+    ],
+    "search_terms": ["sticker glass jar", "peanut butter spoon", "removing label bottle"],
+    "category": "cleaning"
+  },
+  {
+    "id": 2028,
+    "topic": "The freezer organization hack restaurants use",
+    "hook": "Restaurants freeze food this way for a reason",
+    "key_points": [
+      "FIFO labeling: First In, First Out — date everything before freezing",
+      "Flat-pack proteins in zip bags — freeze faster, stack like books, thaw quicker",
+      "Group by use: breakfast, dinner proteins, vegetables, leftovers",
+      "USDA: most frozen food safe indefinitely below 0F but quality drops after 3-12 months"
+    ],
+    "search_terms": ["freezer organized food", "frozen meat bags", "freezer labels"],
+    "category": "organization"
+  },
+  {
+    "id": 2029,
+    "topic": "Why your shower head pressure dropped — fix in 10 min",
+    "hook": "Fix weak shower pressure in 10 minutes",
+    "key_points": [
+      "Mineral buildup on shower head can reduce flow ~50% in 6 months on hard water",
+      "Soak head in white vinegar 1 hour — dissolves calcium and magnesium deposits",
+      "Use rubber band to tie filled vinegar bag around head if it doesn't unscrew",
+      "Replace flow restrictor disc only if local code allows (1.8-2.5 GPM standard)"
+    ],
+    "search_terms": ["shower head water", "vinegar bottle", "bathroom shower spray"],
+    "category": "maintenance"
+  },
+  {
+    "id": 2030,
+    "topic": "1 paint trick that hides dings on white walls",
+    "hook": "Hide wall dings with 1 weird trick",
+    "key_points": [
+      "Toothpaste (white, non-gel) fills small nail holes in 60 seconds",
+      "For larger dings: white school glue mixed with baking soda forms a flexible paste",
+      "Touch-up paint should be feathered with a damp sponge — not a brush",
+      "Save your paint codes in your phone for exact matches later"
+    ],
+    "search_terms": ["white wall paint", "wall hole repair", "paint touch up"],
+    "category": "maintenance"
+  },
+  {
+    "id": 2031,
+    "topic": "The garbage disposal trick that ends sink stink forever",
+    "hook": "End garbage disposal stink in 30 seconds",
+    "key_points": [
+      "Freeze ice cubes with vinegar inside — grinds while sharpening blades",
+      "Follow with citrus peels (lemon, orange) for fresh scent and natural cleaning oil",
+      "Avoid eggshells, coffee grounds, fibrous veg (celery, onion skins) — clog disposal",
+      "Always run cold water 15+ seconds after grinding"
+    ],
+    "search_terms": ["garbage disposal sink", "ice cubes lemon", "kitchen sink drain"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 2032,
+    "topic": "Why cast iron pans get sticky (and the fix)",
+    "hook": "Sticky cast iron has 1 simple fix",
+    "key_points": [
+      "Sticky residue is polymerized oil that didn't bond properly",
+      "Scrub with coarse salt + water (no soap), dry on stove low heat 5 min",
+      "Re-season: thin layer flaxseed or avocado oil, oven 450F upside down 1 hour",
+      "Repeat seasoning 3-4x for restaurant-grade non-stick surface"
+    ],
+    "search_terms": ["cast iron skillet", "kitchen pan cooking", "seasoning cast iron"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 2033,
+    "topic": "Smart lock vs deadbolt: real security ranking",
+    "hook": "Smart locks aren't always more secure",
+    "key_points": [
+      "ANSI Grade 1 mechanical deadbolts beat most consumer smart locks in physical attack tests",
+      "Smart locks add convenience (codes, logs, remote) — not necessarily security",
+      "Best setup: ANSI Grade 1 deadbolt + smart deadbolt cover (Level Bolt, August Wi-Fi)",
+      "Always pair with strike plate using 3-inch screws into stud, not just door frame"
+    ],
+    "search_terms": ["smart lock door", "deadbolt key", "front door entry"],
+    "category": "smart-home"
+  },
+  {
+    "id": 2034,
+    "topic": "The pantry rotation rule that ends expired food waste",
+    "hook": "Stop throwing $200 a year of pantry food",
+    "key_points": [
+      "Average US household wastes $1500/year in food (USDA estimate)",
+      "Move new items to back, old items to front (FIFO method)",
+      "Decant pasta, rice, flour into clear containers — see when running low",
+      "Check pantry every Sunday — meal plan around items closest to expiry"
+    ],
+    "search_terms": ["pantry organized food", "pantry shelves clear", "food storage containers"],
+    "category": "organization"
+  },
+  {
+    "id": 2035,
+    "topic": "Why your thermostat reading is wrong (and how to test)",
+    "hook": "Your thermostat lies — here's the proof",
+    "key_points": [
+      "Sun, drafts, lamps near thermostat skew readings by 5-10F",
+      "Place a separate digital thermometer 6 feet from thermostat to compare",
+      "Recalibrate or replace if off by more than 2F",
+      "Never put thermostat on outside wall or above heat-producing electronics"
+    ],
+    "search_terms": ["thermostat wall home", "smart thermostat display", "home temperature"],
+    "category": "smart-home"
+  },
+  {
+    "id": 2036,
+    "topic": "1 dryer vent check that prevents 15,000 yearly fires",
+    "hook": "1 dryer check prevents 15,000 fires yearly",
+    "key_points": [
+      "FEMA reports ~15,600 dryer fires annually — 34% from lint buildup",
+      "Clean lint trap before every load (catches only 75% of lint)",
+      "Vacuum entire vent line annually with dryer vent brush kit ($15)",
+      "Replace plastic/foil flex ducts with rigid metal — code requires it"
+    ],
+    "search_terms": ["dryer lint filter", "laundry room dryer", "dryer vent outside"],
+    "category": "maintenance"
+  },
+  {
+    "id": 2037,
+    "topic": "The toilet flush that wastes 5 gallons per use",
+    "hook": "Old toilet wastes $200 a year in water",
+    "key_points": [
+      "Pre-1992 toilets use 3.5-7 gallons/flush; modern WaterSense use 1.28",
+      "EPA WaterSense toilets save average household ~13,000 gallons yearly",
+      "Toilet leaks waste up to 200 gallons/day — drop food coloring in tank, wait 15 min",
+      "Replacing one toilet pays back via water bill savings in 2-3 years"
+    ],
+    "search_terms": ["toilet flush bathroom", "water faucet sink", "bathroom modern toilet"],
+    "category": "energy-saving"
+  },
+  {
+    "id": 2038,
+    "topic": "How to fold a fitted sheet (without getting frustrated)",
+    "hook": "Fitted sheets fold in 30 seconds with 1 trick",
+    "key_points": [
+      "Tuck both right corners into each other, then both left corners",
+      "Lay flat, fold the curved edge inward to make a rectangle",
+      "Fold in thirds — fits perfectly on linen closet shelf",
+      "Store sheet sets inside one matching pillowcase to keep together"
+    ],
+    "search_terms": ["folded sheets bedroom", "linen closet organized", "white bed sheets"],
+    "category": "organization"
+  },
+  {
+    "id": 2039,
+    "topic": "Why dryer balls beat liquid softener (and dryer sheets)",
+    "hook": "Wool dryer balls beat softener every time",
+    "key_points": [
+      "Wool balls separate clothes — drying time drops 25% per Energy Star",
+      "No chemical residue — better for sensitive skin and towel absorbency",
+      "$15 set lasts 1000+ loads vs $40/year on dryer sheets",
+      "Add 3-5 drops essential oil per ball for scent without chemicals"
+    ],
+    "search_terms": ["wool dryer balls", "laundry dryer", "natural laundry product"],
+    "category": "laundry"
+  },
+  {
+    "id": 2040,
+    "topic": "The 5-minute fridge audit that saves $40 weekly",
+    "hook": "5-minute fridge audit saves $40 weekly",
+    "key_points": [
+      "Each Sunday, group items: use this week vs needs freezing vs toss",
+      "Move soon-to-expire items to clear front bin labeled 'eat first'",
+      "Track waste 1 month — average household tosses 30% of groceries",
+      "Plan 2-3 meals around what's already there before grocery run"
+    ],
+    "search_terms": ["organized refrigerator", "fridge food shelves", "fresh vegetables fridge"],
+    "category": "organization"
+  },
+  {
+    "id": 2041,
+    "topic": "Why oven self-clean mode can break your oven",
+    "hook": "Self-clean mode kills ovens — don't use it",
+    "key_points": [
+      "Self-clean reaches 900F+ — fries control panels, fan motors, door seals",
+      "Most appliance repair shops report self-clean as #1 cause of oven failure",
+      "Use baking soda paste overnight + steam cleaning instead",
+      "If you must self-clean: only when you have $300 spare for repairs"
+    ],
+    "search_terms": ["oven kitchen interior", "clean oven racks", "kitchen oven door"],
+    "category": "maintenance"
+  },
+  {
+    "id": 2042,
+    "topic": "The bedroom temp that gives you 20% better sleep",
+    "hook": "65F is the magic sleep temperature",
+    "key_points": [
+      "Sleep Foundation research: 65-68F is optimal for falling and staying asleep",
+      "Body core temp drops at night — cool room mimics natural rhythm",
+      "Saves $50-100/month vs running AC at 72F overnight",
+      "Use mattress topper or extra blanket for warmth without warming the room"
+    ],
+    "search_terms": ["bedroom bed cozy", "thermostat night", "sleeping bedroom dark"],
+    "category": "smart-home"
+  },
+  {
+    "id": 2043,
+    "topic": "How to silence a squeaky floor without ripping it up",
+    "hook": "End squeaky floors without ripping anything",
+    "key_points": [
+      "Squeak comes from wood rubbing on nail or against subfloor",
+      "Sprinkle baby powder or graphite in the gap, sweep into seams — lubricates wood-on-wood",
+      "For carpet over squeaky subfloor: Squeeeeek No More kit ($25) — special breakaway screws",
+      "Permanent fix: drive trim screws from below into joist (basement access needed)"
+    ],
+    "search_terms": ["wood floor home", "hardwood floor close", "house floor wood"],
+    "category": "maintenance"
+  },
+  {
+    "id": 2044,
+    "topic": "Why olive oil polishes wood better than store furniture polish",
+    "hook": "Olive oil beats $20 wood polish every time",
+    "key_points": [
+      "Mix 1/4 cup olive oil + 1/4 cup white vinegar in spray bottle",
+      "Vinegar lifts dirt, oil restores moisture and shine",
+      "Pledge and similar polishes contain silicone — builds up, attracts dust",
+      "Test on hidden spot first — works on sealed wood, not raw"
+    ],
+    "search_terms": ["wood furniture polish", "olive oil bottle", "wood table clean"],
+    "category": "cleaning"
+  },
+  {
+    "id": 2045,
+    "topic": "The window cleaning trick pros use (it's not Windex)",
+    "hook": "Pros never use Windex — here's why",
+    "key_points": [
+      "Mix 1 cup water + 1 cup vinegar + 1 tbsp cornstarch in spray bottle",
+      "Cornstarch acts as gentle abrasive without scratching glass",
+      "Squeegee in S-pattern from top down, wipe blade between strokes",
+      "Clean windows on cloudy day — sun causes streaks before you can wipe"
+    ],
+    "search_terms": ["cleaning window glass", "squeegee window", "spray bottle cleaning"],
+    "category": "cleaning"
+  },
+  {
+    "id": 2046,
+    "topic": "1 phone setting that detects water leaks early",
+    "hook": "Your phone catches water leaks before damage",
+    "key_points": [
+      "$15-25 smart water sensors (Govee, Wyze) text you when wet",
+      "Place under sinks, behind toilets, near washer, water heater base",
+      "Average water damage claim is $11,000 per Insurance Information Institute",
+      "Some homeowner policies offer discounts (5-10%) for installed sensors"
+    ],
+    "search_terms": ["water leak sensor", "smart home device", "phone notification app"],
+    "category": "smart-home"
+  },
+  {
+    "id": 2047,
+    "topic": "Why you should never overfill your washing machine",
+    "hook": "Overfilling washer ruins clothes faster",
+    "key_points": [
+      "Clothes need 25% empty space to tumble — overfilled = no real cleaning",
+      "Excessive load weight strains drum bearings — repair averages $200-400",
+      "Detergent can't fully rinse from packed loads — causes skin irritation",
+      "Hand check: when machine is loaded, you should fit a hand in to the wrist"
+    ],
+    "search_terms": ["washing machine clothes", "laundry full", "washer interior"],
+    "category": "laundry"
+  },
+  {
+    "id": 2048,
+    "topic": "The bedside organizer hack that ends nightstand clutter",
+    "hook": "End nightstand clutter with 1 hidden tray",
+    "key_points": [
+      "Use a tray as 'landing zone' — phone, glasses, watch, water glass",
+      "Adds visual order even when stuff is on top — bedroom looks 50% cleaner",
+      "Tray under the lamp keeps base steady, wires hidden behind",
+      "Empty and reset weekly — anything not used 7 days exits the room"
+    ],
+    "search_terms": ["nightstand bedside table", "bedroom decor", "bedroom lamp"],
+    "category": "organization"
+  },
+  {
+    "id": 2049,
+    "topic": "How a $5 weather strip fixes drafty doors fast",
+    "hook": "$5 strip fixes drafts in 5 minutes",
+    "key_points": [
+      "Air leaks around doors waste 10-20% of heating/cooling per DOE",
+      "Foam weather strip sticks on with adhesive backing — no tools needed",
+      "Door sweep at base blocks bottom draft — biggest single leak point",
+      "Test with a candle — flame flickers near a leak"
+    ],
+    "search_terms": ["door weather strip", "front door home", "drafty door"],
+    "category": "energy-saving"
+  },
+  {
+    "id": 2050,
+    "topic": "The dishcloth is the dirtiest thing in your kitchen",
+    "hook": "Your dishcloth is dirtier than your toilet",
+    "key_points": [
+      "Used dishcloths can hold 10 million bacteria per square inch (NSF International)",
+      "Microwave damp cloth 1 minute on high — kills 99% of pathogens",
+      "Replace every 1-2 weeks; rotate 5-7 cloths so each dries fully between uses",
+      "Always hang dry — bacteria triple in folded wet cloth within 24 hours"
+    ],
+    "search_terms": ["dishcloth kitchen sink", "kitchen towel dirty", "wiping counter"],
+    "category": "cleaning"
+  },
+  {
+    "id": 2051,
+    "topic": "Why you should put a tennis ball in your dryer",
+    "hook": "Tennis ball in dryer fluffs everything",
+    "key_points": [
+      "Tennis ball wrapped in clean sock fluffs comforters and pillows",
+      "Bounces inside drum — separates wet fibers from clumping",
+      "Cuts drying time on bulky items by 20-30%",
+      "Replace yearly — rubber breaks down with heat"
+    ],
+    "search_terms": ["tennis ball dryer", "fluffy comforter bed", "laundry dryer drum"],
+    "category": "laundry"
+  },
+  {
+    "id": 2052,
+    "topic": "The 1-2-3 method for organizing any closet",
+    "hook": "1-2-3 method organizes any closet fast",
+    "key_points": [
+      "Step 1: Empty everything — sort into keep, donate, trash piles",
+      "Step 2: Group by category (shirts, pants, dresses) then color",
+      "Step 3: Hang what wrinkles, fold what doesn't, store seasonal up high",
+      "Use matching hangers (slim velvet) — adds 30% capacity, looks pro"
+    ],
+    "search_terms": ["organized closet clothes", "wardrobe color sorted", "closet hangers"],
+    "category": "organization"
+  },
+  {
+    "id": 2053,
+    "topic": "Why running ceiling fans counterclockwise saves money in winter",
+    "hook": "Reversing ceiling fan saves heating bills",
+    "key_points": [
+      "Summer: counterclockwise pushes air down — wind chill effect cools skin",
+      "Winter: clockwise on low pulls warm air up, then pushes it down walls",
+      "Saves up to 15% on heating bills per ENERGY STAR",
+      "Switch is on the fan motor housing — flip when seasons change"
+    ],
+    "search_terms": ["ceiling fan room", "ceiling fan blades", "living room fan"],
+    "category": "energy-saving"
+  },
+  {
+    "id": 2054,
+    "topic": "How rubber bands stop pictures from going crooked",
+    "hook": "1 rubber band keeps pictures perfectly straight",
+    "key_points": [
+      "Wrap rubber band around middle of frame, behind the wire/hanger",
+      "Friction grips the nail — prevents shifting from vibration or air",
+      "Works on every frame style: wire, sawtooth, D-ring",
+      "Costs zero — undoes silently if frame removed"
+    ],
+    "search_terms": ["picture frame wall", "hanging picture", "wall art home"],
+    "category": "organization"
+  },
+  {
+    "id": 2055,
+    "topic": "The bug-killing power of dish soap and water",
+    "hook": "Dish soap kills 90% of household bugs",
+    "key_points": [
+      "Soap penetrates exoskeletons, blocks insect breathing pores (spiracles)",
+      "1 tsp dish soap + 1 cup water in spray bottle — works on ants, roaches, spiders",
+      "Most effective on soft-bodied pests; armored beetles need higher concentration",
+      "Spray entry points (windows, doors) as preventive barrier"
+    ],
+    "search_terms": ["spray bottle home", "dish soap kitchen", "pest insect"],
+    "category": "pest"
+  },
+  {
+    "id": 2056,
+    "topic": "Why your hand soap dispenser is breeding bacteria",
+    "hook": "Your soap pump grows bacteria — fix it",
+    "key_points": [
+      "Refilling without washing the dispenser builds biofilm in the pump",
+      "Studies show ~25% of community soap dispensers harbor coliform bacteria",
+      "Run dispenser empty, soak in 1:9 bleach water 10 min, rinse thoroughly",
+      "Switch to foaming dispenser — uses 75% less soap, less buildup"
+    ],
+    "search_terms": ["hand soap dispenser", "bathroom sink soap", "foaming soap pump"],
+    "category": "bathroom"
+  },
+  {
+    "id": 2057,
+    "topic": "1 tablespoon of borax keeps mosquitoes out of standing water",
+    "hook": "1 spoon of borax stops mosquito breeding",
+    "key_points": [
+      "Mosquitoes lay eggs in standing water as small as a bottle cap",
+      "1 tbsp borax per gallon of standing water (decorative pots, birdbaths) prevents larvae",
+      "EPA-registered larvicides work too but cost 10x more",
+      "Empty/refill any standing water weekly — interrupts 7-10 day breeding cycle"
+    ],
+    "search_terms": ["mosquito water plant", "borax box", "outdoor garden plants"],
+    "category": "pest"
+  },
+  {
+    "id": 2058,
+    "topic": "How to get water rings off wood with a hairdryer",
+    "hook": "Hairdryer removes water rings in 60 seconds",
+    "key_points": [
+      "Set hairdryer to medium heat, hold 6 inches from white ring",
+      "Heat evaporates trapped moisture between wood and finish",
+      "Move continuously — never stop on one spot to avoid scorching",
+      "Follow with mineral oil rub to restore finish luster"
+    ],
+    "search_terms": ["wood table water ring", "hairdryer wood", "wood furniture stain"],
+    "category": "cleaning"
+  },
+  {
+    "id": 2059,
+    "topic": "Why grocery bags belong in this 1 place — never on countertops",
+    "hook": "Grocery bags on counter spread bacteria",
+    "key_points": [
+      "Reusable totes test positive for E. coli/salmonella ~30% of the time (UA study)",
+      "Wash totes weekly in hot water — sturdy ones last years",
+      "Designate separate bags for raw meat, produce, ready-to-eat",
+      "Never put them on counters where you prep food"
+    ],
+    "search_terms": ["grocery bag kitchen", "reusable shopping bag", "groceries counter"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 2060,
+    "topic": "The bedroom rug rule that saves cleaning time",
+    "hook": "1 rug rule cuts bedroom cleaning in half",
+    "key_points": [
+      "Place rug to extend 18-24 inches beyond bed sides — captures floor dust",
+      "Vacuum twice weekly along edge where dust collects most",
+      "Low-pile rugs trap less dander — better for allergies",
+      "Rotate 180 every 6 months for even wear"
+    ],
+    "search_terms": ["bedroom rug bed", "vacuum carpet", "rug bedroom interior"],
+    "category": "cleaning"
+  },
+  {
+    "id": 2061,
+    "topic": "Why salt + ice cleans inside narrow bottles",
+    "hook": "Salt + ice cleans any narrow bottle",
+    "key_points": [
+      "Coarse salt acts as scrub; ice provides scrub-shape that fits inside",
+      "Add 1 tbsp salt + 1 cup ice + small amount of dish soap",
+      "Shake vigorously 30 seconds — abrasion removes residue dishwasher misses",
+      "Works on water bottles, vases, decanters, baby bottles"
+    ],
+    "search_terms": ["water bottle clean", "glass bottle kitchen", "salt cleaning"],
+    "category": "cleaning"
+  },
+  {
+    "id": 2062,
+    "topic": "How to stop static cling without chemicals",
+    "hook": "End static cling with this $0 trick",
+    "key_points": [
+      "Aluminum foil ball (size of fist) in dryer reduces static",
+      "Foil acts as conductor — discharges static electricity from clothes",
+      "Lasts 6 months of regular drying loads",
+      "Synthetic fabrics generate most static — separate from cotton when possible"
+    ],
+    "search_terms": ["aluminum foil ball", "static cling clothes", "dryer laundry"],
+    "category": "laundry"
+  },
+  {
+    "id": 2063,
+    "topic": "The $1 shower curtain liner that lasts 5 years",
+    "hook": "$1 liner lasts 5 years with 1 trick",
+    "key_points": [
+      "Throw plastic liner in washing machine with 2 towels (for friction)",
+      "Use 1/2 cup vinegar + regular detergent on cold cycle",
+      "Hang to dry — never put plastic liner in dryer (melts)",
+      "Replace every 1-2 years vs the typical 2-3 months for replacements"
+    ],
+    "search_terms": ["shower curtain liner", "bathroom shower clean", "shower curtain"],
+    "category": "bathroom"
+  },
+  {
+    "id": 2064,
+    "topic": "Smart smoke detector saves lives — and reduces false alarms",
+    "hook": "Old smoke alarms are deadlier than no alarm",
+    "key_points": [
+      "NFPA: smoke alarms over 10 years old are responsible for nearly half of deaths in fires with non-functional alarms",
+      "Smart smoke alarms (Nest, First Alert) text you, work with phones",
+      "Test all alarms monthly — replace batteries yearly (or use 10-year sealed)",
+      "Place inside every bedroom, hallway outside sleeping areas, every floor"
+    ],
+    "search_terms": ["smoke detector ceiling", "fire alarm home", "smart smoke alarm"],
+    "category": "smart-home"
+  },
+  {
+    "id": 2065,
+    "topic": "Why you should never use pots inside a pot to organize",
+    "hook": "Stacking pots wrong damages all of them",
+    "key_points": [
+      "Stacking pans scratches non-stick coating — releases particles into food",
+      "Put paper towels or felt pads between stacked cookware",
+      "Vertical lid organizers ($10) save 40% cabinet space",
+      "Hanging pot rack frees entire cabinet for other storage"
+    ],
+    "search_terms": ["pots pans kitchen", "kitchen cabinet pots", "pot rack hanging"],
+    "category": "organization"
+  },
+  {
+    "id": 2066,
+    "topic": "The bath mat trick that prevents mold growth",
+    "hook": "Bath mat hack stops mold growing under it",
+    "key_points": [
+      "Hang bath mat over towel bar after each use — air dries both sides",
+      "Wash weekly in hot water with vinegar in rinse cycle",
+      "Avoid memory foam mats in damp bathrooms — they absorb and trap moisture",
+      "Run bathroom fan 20 min after showering per ASHRAE 62.2"
+    ],
+    "search_terms": ["bath mat bathroom", "bathroom mat floor", "shower bath mat"],
+    "category": "bathroom"
+  },
+  {
+    "id": 2067,
+    "topic": "1 fridge mistake that doubles your bill",
+    "hook": "1 fridge mistake doubles your power bill",
+    "key_points": [
+      "Fridge needs 1-2 inches clearance on all sides for heat dissipation",
+      "Coils packed against wall force compressor to run continuously",
+      "Vacuum coils twice yearly — caked dust = 35% efficiency loss",
+      "Test door seal: close on dollar bill — should resist a strong tug"
+    ],
+    "search_terms": ["refrigerator wall", "fridge back coils", "kitchen appliance"],
+    "category": "energy-saving"
+  },
+  {
+    "id": 2068,
+    "topic": "Why hydrogen peroxide is the laundry MVP",
+    "hook": "Hydrogen peroxide beats bleach for whites",
+    "key_points": [
+      "3% hydrogen peroxide whitens like bleach without yellowing fibers",
+      "Add 1 cup to wash with whites — safe for colors at low dilution",
+      "Removes blood, sweat, deodorant, wine, coffee stains",
+      "Costs $1 a bottle — gentler than chlorine bleach on skin and fabric"
+    ],
+    "search_terms": ["hydrogen peroxide bottle", "white clothes laundry", "stain removal"],
+    "category": "laundry"
+  },
+  {
+    "id": 2069,
+    "topic": "The 30-day rule for decluttering anything",
+    "hook": "30-day rule clears any messy room",
+    "key_points": [
+      "If you haven't used or worn it in 30 days (90 for seasonal), donate",
+      "Box up 'maybes' for 6 months — if not opened, donate without looking",
+      "One-in-one-out rule prevents future clutter rebuild",
+      "Donate to thrift stores within 24 hours — never let bags linger"
+    ],
+    "search_terms": ["decluttering closet", "donation box clothes", "organizing home"],
+    "category": "organization"
+  },
+  {
+    "id": 2070,
+    "topic": "How a $3 silicone mat saves your stove burners",
+    "hook": "$3 mat saves stove burners forever",
+    "key_points": [
+      "Silicone burner covers catch spills before they bake on",
+      "Heat-resistant to 450F — only remove when actively cooking",
+      "Saves hours of scrubbing baked-on grease per year",
+      "Wipes clean with damp cloth — dishwasher safe weekly"
+    ],
+    "search_terms": ["stove top cooking", "kitchen stove burner", "silicone kitchen mat"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 2071,
+    "topic": "Why you're scrubbing baseboards wrong (and the dryer sheet trick)",
+    "hook": "Dryer sheets clean baseboards with 1 swipe",
+    "key_points": [
+      "Used dryer sheets attract dust via static — wipe baseboards clean",
+      "Anti-static coating prevents new dust for ~2 weeks",
+      "Faster than a damp cloth and no drying needed",
+      "Works on TV screens, lampshades, light fixtures too"
+    ],
+    "search_terms": ["baseboards floor clean", "dryer sheet cleaning", "wood floor edge"],
+    "category": "cleaning"
+  },
+  {
+    "id": 2072,
+    "topic": "The right way to clean your phone screen",
+    "hook": "You're cleaning your phone screen wrong",
+    "key_points": [
+      "Cell phones average 10x more bacteria than a toilet seat (research from UA)",
+      "Apple-approved: 70% isopropyl alcohol wipes on glass; avoid getting in ports",
+      "Microfiber cloth removes oil; alcohol kills germs — do both",
+      "Clean phone after every grocery trip, gym visit, or sick contact"
+    ],
+    "search_terms": ["phone screen wipe", "smartphone cleaning", "microfiber cloth"],
+    "category": "cleaning"
+  },
+  {
+    "id": 2073,
+    "topic": "1 spice that keeps ants out of your kitchen",
+    "hook": "1 pantry spice ends ant invasions",
+    "key_points": [
+      "Cinnamon contains compounds (cinnamaldehyde) that repel ants",
+      "Sprinkle along entry points, windowsills, baseboards",
+      "Disrupts pheromone trails ants use to communicate",
+      "Reapply weekly or after vacuuming"
+    ],
+    "search_terms": ["cinnamon spice kitchen", "ant kitchen counter", "spices pantry"],
+    "category": "pest"
+  },
+  {
+    "id": 2074,
+    "topic": "Why charging your phone all night damages the battery",
+    "hook": "Overnight charging kills your phone battery",
+    "key_points": [
+      "Lithium-ion batteries degrade fastest at 100% and 0% — sweet spot is 20-80%",
+      "iPhones, Androids have 'optimized charging' modes — enable in settings",
+      "Heat from charging while in use accelerates degradation",
+      "Smart plugs can cut power at scheduled charge level — extends battery 2x"
+    ],
+    "search_terms": ["phone charging cable", "smartphone charger", "phone battery"],
+    "category": "smart-home"
+  },
+  {
+    "id": 2075,
+    "topic": "The vegetable storage trick that triples shelf life",
+    "hook": "1 trick triples vegetable shelf life",
+    "key_points": [
+      "Wrap leafy greens (lettuce, herbs) loosely in dry paper towel + airtight container",
+      "Paper absorbs ethylene gas and excess moisture — main causes of wilting",
+      "Store celery wrapped in foil — lasts 3-4 weeks vs 5 days in plastic",
+      "Onions/garlic in mesh bags in dark pantry — never in fridge"
+    ],
+    "search_terms": ["fresh vegetables fridge", "lettuce paper towel", "produce storage"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 2076,
+    "topic": "How a smart bulb cuts your nightlight to $1 a year",
+    "hook": "Replace nightlights — save $50 a year",
+    "key_points": [
+      "Old plug-in nightlights (4-7W) cost $5-10/year each running 24/7",
+      "Smart LED bulb in any lamp on dim red mode: <1W, ~$1/year",
+      "Red light preserves melatonin — better sleep transitions",
+      "Schedule auto on at sunset, off at sunrise via app"
+    ],
+    "search_terms": ["nightlight bedroom", "smart bulb dim", "led lamp warm"],
+    "category": "smart-home"
+  },
+  {
+    "id": 2077,
+    "topic": "Why coffee grounds belong in the garden, not the trash",
+    "hook": "Coffee grounds boost garden — don't throw them",
+    "key_points": [
+      "Spent grounds add nitrogen, attract earthworms, repel slugs",
+      "Mix into compost or sprinkle directly around acid-loving plants (roses, blueberries)",
+      "Average drinker tosses 5 lbs/year that could feed soil",
+      "Avoid using on alkaline-loving plants (lavender, succulents)"
+    ],
+    "search_terms": ["coffee grounds garden", "compost bin", "potted plant soil"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 2078,
+    "topic": "The kitchen layout rule restaurants follow",
+    "hook": "Kitchen layout rule from pro chefs",
+    "key_points": [
+      "Zone your kitchen: prep, cook, plate, clean — minimize cross-traffic",
+      "Knives, cutting board near prep sink; spatulas near stove; plates near dining",
+      "Reduces cooking time 30% by eliminating wasted steps",
+      "The 'kitchen triangle' (sink-stove-fridge) should total 12-26 ft sides"
+    ],
+    "search_terms": ["modern kitchen layout", "kitchen zones organized", "chef cooking kitchen"],
+    "category": "organization"
+  },
+  {
+    "id": 2079,
+    "topic": "Why you should clean reusable straws weekly (and how)",
+    "hook": "Your reusable straw is grosser than you think",
+    "key_points": [
+      "Drinks leave biofilm inside straws within 3-5 uses",
+      "Run brush through with vinegar weekly; soak monthly in 1:1 vinegar:water",
+      "Stainless steel: dishwasher top rack; silicone: hand wash only",
+      "Replace bamboo straws every 6 months — wood absorbs flavors"
+    ],
+    "search_terms": ["reusable straw glass", "stainless steel straw", "metal straw drink"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 2080,
+    "topic": "1 ceiling vent setting that ends room hot/cold spots",
+    "hook": "Fix uneven room temps in 1 minute",
+    "key_points": [
+      "Fully open vents in problem rooms; close 50% in over-conditioned rooms",
+      "Never close more than 60% of vents — strains HVAC system",
+      "Furniture blocking vents reduces room comfort and wastes energy",
+      "Smart vents (Flair, Keen) auto-balance based on room sensors"
+    ],
+    "search_terms": ["air vent ceiling", "hvac vent home", "ceiling air register"],
+    "category": "smart-home"
+  },
+  {
+    "id": 2081,
+    "topic": "The bathroom outlet that's quietly costing you $20 a year",
+    "hook": "1 bathroom outlet wastes $20 a year",
+    "key_points": [
+      "Hairdryer plugged in but off still draws ~3W standby (vampire load)",
+      "Curling irons, electric razors, wax warmers all add up to ~$25/year",
+      "Power strip with single switch turns all off when leaving bathroom",
+      "GFCI outlets are required by code in bathrooms — check yours work monthly"
+    ],
+    "search_terms": ["bathroom outlet plug", "hairdryer bathroom", "power strip"],
+    "category": "energy-saving"
+  },
+  {
+    "id": 2082,
+    "topic": "Why you shouldn't keep tomatoes in the fridge",
+    "hook": "Cold kills tomato flavor — store this way",
+    "key_points": [
+      "Below 55F, tomato cell walls rupture — turns mealy, loses sweetness",
+      "Store stem-side down on countertop — extends shelf life 5-7 days",
+      "Same rule for stone fruits (peaches, plums, nectarines)",
+      "Only refrigerate fully ripe tomatoes if you'll eat within 2 days"
+    ],
+    "search_terms": ["tomatoes counter kitchen", "fresh tomatoes red", "tomato storage"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 2083,
+    "topic": "How a $10 carbon monoxide detector saves your life",
+    "hook": "1 detector saves you from invisible killer",
+    "key_points": [
+      "CDC: ~430 Americans die yearly from accidental CO poisoning",
+      "Place CO detectors near sleeping areas and on every floor",
+      "Detectors expire after 5-7 years — check 'replace by' on back",
+      "Symptoms (headache, dizziness, nausea) are easily mistaken for flu"
+    ],
+    "search_terms": ["carbon monoxide detector", "smoke alarm ceiling", "home safety alarm"],
+    "category": "smart-home"
+  },
+  {
+    "id": 2084,
+    "topic": "The lazy susan that triples cabinet capacity",
+    "hook": "Lazy susan triples corner cabinet space",
+    "key_points": [
+      "Corner cabinets typically waste 40-60% of usable space",
+      "$15 lazy susan turns a black hole into a usable 360-degree pantry",
+      "Use 2-tier for max efficiency — group by category (oils, sauces, vinegars)",
+      "Best for spices, condiments, baking supplies"
+    ],
+    "search_terms": ["lazy susan kitchen cabinet", "corner cabinet organized", "pantry shelf"],
+    "category": "organization"
+  },
+  {
+    "id": 2085,
+    "topic": "Why you should never use bleach on stainless steel",
+    "hook": "Bleach destroys stainless steel surfaces",
+    "key_points": [
+      "Chlorine pits stainless steel surface — creates permanent rust spots",
+      "Use vinegar + water (1:1) followed by olive oil drop on microfiber",
+      "Olive oil restores shine and creates fingerprint-resistant barrier",
+      "Always wipe with grain — circular motions leave swirl marks"
+    ],
+    "search_terms": ["stainless steel fridge", "stainless steel kitchen", "polishing stainless"],
+    "category": "cleaning"
+  },
+  {
+    "id": 2086,
+    "topic": "The pillow swap that ends back pain in 30 days",
+    "hook": "1 pillow swap ends back pain in 30 days",
+    "key_points": [
+      "Pillows lose support after 1-2 years — fold test: pillow should bounce back",
+      "Side sleepers need firm/thick (4-6 inch); back sleepers medium; stomach thin/soft",
+      "Memory foam holds shape but traps heat; latex bounces back, sleeps cool",
+      "Replace every 18-24 months — accumulates dust mites, sweat, dead skin"
+    ],
+    "search_terms": ["bed pillow white", "bedroom pillows bed", "sleeping pillow"],
+    "category": "maintenance"
+  },
+  {
+    "id": 2087,
+    "topic": "Why your dishwasher needs salt (most people skip this)",
+    "hook": "Your dishwasher is missing 1 ingredient",
+    "key_points": [
+      "Hard water leaves calcium spots — dishwasher salt regenerates internal water softener",
+      "Refill salt reservoir every 2-3 months on hard water areas",
+      "Skip if your home has a whole-house water softener installed",
+      "Soft water = clearer glasses, less detergent needed, longer machine life"
+    ],
+    "search_terms": ["dishwasher detergent", "dishwasher interior dishes", "water softener salt"],
+    "category": "maintenance"
+  },
+  {
+    "id": 2088,
+    "topic": "The trash can hack that ends bag-falling-in",
+    "hook": "End bag-falling-in trash forever",
+    "key_points": [
+      "Drill 2 small holes near top edge of trash can",
+      "Releases air pocket suction when removing full bag",
+      "No more fighting the bag or tearing on edges",
+      "Works on any plastic or metal trash can"
+    ],
+    "search_terms": ["kitchen trash can", "garbage bag trash", "trash bin black"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 2089,
+    "topic": "Why white toothpaste removes scuffs from sneakers",
+    "hook": "Toothpaste cleans sneakers like new",
+    "key_points": [
+      "Mild abrasives (silica, baking soda) in toothpaste lift surface scuffs",
+      "Use white non-gel only — colored versions stain shoes",
+      "Apply with old toothbrush, scrub circular, wipe clean with damp cloth",
+      "Works on rubber soles, leather toes, white midsoles"
+    ],
+    "search_terms": ["white sneakers clean", "toothbrush cleaning shoe", "white shoes"],
+    "category": "cleaning"
+  },
+  {
+    "id": 2090,
+    "topic": "How to clean grout without scrubbing",
+    "hook": "No-scrub grout cleaning trick",
+    "key_points": [
+      "Mix baking soda + hydrogen peroxide into a paste",
+      "Apply to grout lines, let sit 15-30 minutes",
+      "Wipe away with damp cloth — no scrubbing needed",
+      "Restores grout to near-original color in one application"
+    ],
+    "search_terms": ["bathroom tile grout", "dirty grout floor", "tile cleaning"],
+    "category": "bathroom"
+  },
+  {
+    "id": 2091,
+    "topic": "The 1 thing every smart home needs (it's not what you think)",
+    "hook": "Skip smart speakers — get this first",
+    "key_points": [
+      "Whole-home Wi-Fi mesh system is the foundation everything else depends on",
+      "Single router covers 1500 sq ft; 2-3 node mesh covers 4500-6000 sq ft",
+      "Mesh systems handle 50-100+ devices simultaneously without lag",
+      "TP-Link Deco, Eero, Nest WiFi all support 100+ devices for $200-400"
+    ],
+    "search_terms": ["wifi router home", "mesh wifi system", "home network"],
+    "category": "smart-home"
+  },
+  {
+    "id": 2092,
+    "topic": "Why wood spoons need to be oiled monthly",
+    "hook": "Oil your wood spoons monthly or break them",
+    "key_points": [
+      "Wood absorbs water — leads to splitting, cracks, bacteria harboring",
+      "Rub with food-safe mineral oil monthly; reseal annually with beeswax",
+      "Never soak in water or run through dishwasher",
+      "Properly maintained wood utensils last 10+ years"
+    ],
+    "search_terms": ["wooden spoons kitchen", "wooden utensils cooking", "wood spoon"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 2093,
+    "topic": "The unexpected place dust mites live in your bed",
+    "hook": "Dust mites love this 1 part of your bed",
+    "key_points": [
+      "Mattress traps 100,000-10 million dust mites — feed on dead skin",
+      "Wash sheets weekly in 130F+ water — kills mites and eggs",
+      "Allergen-proof mattress encasement blocks mite proliferation",
+      "Vacuum mattress with HEPA monthly; box spring quarterly"
+    ],
+    "search_terms": ["bed mattress white", "bedroom bed sheets", "vacuum mattress"],
+    "category": "cleaning"
+  },
+  {
+    "id": 2094,
+    "topic": "1 dryer setting that destroys your favorite clothes",
+    "hook": "1 dryer setting murders your wardrobe",
+    "key_points": [
+      "High heat shrinks cotton 5-7%; warps elastic in waistbands and bra wires",
+      "Use 'low heat' or 'permanent press' for everything but towels and sheets",
+      "Athletic wear (spandex, polyester) should air dry — heat damages elasticity",
+      "Investing 30 extra min per load = clothes last 50% longer"
+    ],
+    "search_terms": ["dryer settings dial", "dryer interior clothes", "laundry settings"],
+    "category": "laundry"
+  },
+  {
+    "id": 2095,
+    "topic": "How to organize a chest freezer so nothing gets lost",
+    "hook": "Stop losing food in your chest freezer",
+    "key_points": [
+      "Use reusable mesh bags labeled by category — meat, vegetables, baked goods",
+      "Keep an inventory list on the lid (whiteboard or magnetic notepad)",
+      "FIFO: oldest items always on top, new items go to bottom",
+      "Defrost annually — frost over 1/4 inch cuts efficiency by 25%"
+    ],
+    "search_terms": ["chest freezer open", "frozen food organized", "freezer storage"],
+    "category": "organization"
+  },
+  {
+    "id": 2096,
+    "topic": "Why white sneakers stay white with this 1 spray",
+    "hook": "Keep white sneakers white forever",
+    "key_points": [
+      "Apply waterproofing spray (silicone or fluoropolymer) on new shoes",
+      "Reapply every 4-6 weeks to maintain stain repellence",
+      "Spray outdoors only — fumes irritate respiratory system",
+      "Works on canvas, leather, suede — not on mesh athletic shoes"
+    ],
+    "search_terms": ["white sneakers shoes", "waterproof spray shoes", "shoe protector"],
+    "category": "cleaning"
+  },
+  {
+    "id": 2097,
+    "topic": "The kitchen sponge mistake everyone makes",
+    "hook": "Your kitchen sponge needs to die today",
+    "key_points": [
+      "USDA: kitchen sponges hold more bacteria than any other home surface",
+      "Microwave wet sponge 1 minute daily — kills 99.9% of pathogens",
+      "Replace every 1-2 weeks regardless of microwaving",
+      "Dishcloth alternatives need same hot wash + air dry routine"
+    ],
+    "search_terms": ["kitchen sponge dish", "yellow sponge cleaning", "sponge sink"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 2098,
+    "topic": "Why your home Wi-Fi is slow (5 fixes in 10 minutes)",
+    "hook": "Slow Wi-Fi has 5 fast fixes",
+    "key_points": [
+      "Move router to central location, off the floor, away from walls/metal",
+      "Restart router monthly — clears memory leaks, refreshes connections",
+      "Update firmware annually — adds security and speed improvements",
+      "Switch to 5GHz band for nearby devices (faster but shorter range)"
+    ],
+    "search_terms": ["wifi router antenna", "internet router blinking", "home wifi speed"],
+    "category": "smart-home"
+  },
+  {
+    "id": 2099,
+    "topic": "1 baking sheet hack that prevents burnt cookies",
+    "hook": "Stop burning cookies with 1 sheet swap",
+    "key_points": [
+      "Dark/non-stick sheets absorb more heat — cookies bake too fast on bottom",
+      "Use light-colored aluminum sheets — reflect heat for even baking",
+      "Always line with parchment paper — even browning, easy cleanup",
+      "Rotate sheet halfway through baking for uniform results"
+    ],
+    "search_terms": ["baking sheet cookies", "parchment paper baking", "oven baking tray"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 2100,
+    "topic": "How to make a no-cost air freshener that lasts 2 weeks",
+    "hook": "Free air freshener lasts 2 weeks straight",
+    "key_points": [
+      "Boil cinnamon stick + orange peel + cloves in water on stove low",
+      "Releases natural fragrance throughout home for 1-2 hours",
+      "Refrigerate mix between uses — reuse 7-10 times",
+      "Avoids synthetic fragrances linked to indoor air pollution"
+    ],
+    "search_terms": ["citrus orange kitchen", "spices cinnamon", "stovetop simmer pot"],
+    "category": "cleaning"
+  },
+  {
+    "id": 2101,
+    "topic": "The smart shower head that pays for itself in 6 months",
+    "hook": "Smart shower head pays back in 6 months",
+    "key_points": [
+      "Low-flow heads (1.5 GPM) cut water use 40% with no comfort loss",
+      "Average 4-person household saves 7,000+ gallons yearly",
+      "Combined water + heating savings of $80-150 per year",
+      "Installs in 5 minutes with no plumber needed"
+    ],
+    "search_terms": ["modern shower head", "shower spray water", "bathroom shower fixture"],
+    "category": "energy-saving"
+  },
+  {
+    "id": 2102,
+    "topic": "Why your spice rack is killing your food's flavor",
+    "hook": "Old spices ruin every dish you make",
+    "key_points": [
+      "Ground spices lose 50% potency within 6 months; whole spices lose 50% in 1-2 years",
+      "Store away from heat (no spice rack above stove), light, moisture",
+      "Toast spices in dry pan 30 sec before adding to dishes — restores aroma",
+      "Buy small quantities — turnover beats bulk for flavor"
+    ],
+    "search_terms": ["spice rack jars", "kitchen spices organized", "spice cabinet"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 2103,
+    "topic": "1 candle wick trick that doubles burn time",
+    "hook": "1 trick doubles candle burn time",
+    "key_points": [
+      "Trim wick to 1/4 inch before every burn — prevents flame too large",
+      "First burn: let wax pool reach edges (1 hour per inch diameter)",
+      "Prevents 'tunneling' which wastes 30-50% of candle wax",
+      "Long-burning candles save $50+ per year for regular candle users"
+    ],
+    "search_terms": ["candle burning home", "wax candle flame", "candle wick"],
+    "category": "maintenance"
+  },
+  {
+    "id": 2104,
+    "topic": "Why you should leave a quarter on a frozen cup of water",
+    "hook": "1 quarter saves your fridge food during outages",
+    "key_points": [
+      "Freeze cup of water solid, place quarter on top",
+      "If quarter sinks, freezer thawed and refroze — food may be unsafe",
+      "Quick visual check after travel or power outage",
+      "USDA recommends discarding food if freezer was above 40F for 2+ hours"
+    ],
+    "search_terms": ["coin quarter cup", "frozen ice cup", "freezer ice"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 2105,
+    "topic": "The bathroom organization system that fits in a shoebox",
+    "hook": "Organize any bathroom with 1 shoebox",
+    "key_points": [
+      "Use small acrylic dividers in drawers — categories: dental, hair, makeup, skincare",
+      "Vertical file folders on shelves hold flat items (combs, brushes)",
+      "Tension rod inside cabinet doors hangs spray bottles",
+      "1 dedicated 'visit' bin for guest essentials (towels, toothbrush, soap)"
+    ],
+    "search_terms": ["bathroom drawer organized", "bathroom counter organized", "bathroom cabinet"],
+    "category": "organization"
+  },
+  {
+    "id": 2106,
+    "topic": "Why salt water kills weeds without herbicides",
+    "hook": "Salt water kills weeds — chemicals not needed",
+    "key_points": [
+      "1 cup table salt + 1 gallon water + 1 tbsp dish soap (helps cling)",
+      "Salt dehydrates plant cells; dish soap breaks waxy leaf coating",
+      "Use only on driveways/paths — sterilizes soil for years",
+      "Boiling water alone kills small weeds in cracks instantly"
+    ],
+    "search_terms": ["weeds garden path", "spray bottle outdoor", "driveway weeds"],
+    "category": "pest"
+  },
+  {
+    "id": 2107,
+    "topic": "How to deep clean a coffee maker (with vinegar)",
+    "hook": "Coffee maker grows mold in 30 days",
+    "key_points": [
+      "Mineral buildup + biofilm cuts brew temp and adds bitter taste",
+      "Run 1:1 vinegar:water through brew cycle, let sit 1 hour, run plain water 2x",
+      "Disassemble drip basket and reservoir lid — wash separately",
+      "Monthly maintenance — coffee maker lasts 5+ years vs 2-3 neglected"
+    ],
+    "search_terms": ["coffee maker cleaning", "coffee machine kitchen", "vinegar bottle"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 2108,
+    "topic": "1 reason to never store batteries in the freezer",
+    "hook": "Stop freezing batteries — it doesn't help",
+    "key_points": [
+      "Modern alkaline batteries don't benefit from freezing — manufacturer guidance",
+      "Cold causes condensation when removing — corrodes contacts",
+      "Store at room temp in original packaging or sealed container",
+      "Lithium batteries do benefit from cool storage but never frozen"
+    ],
+    "search_terms": ["batteries aa", "battery storage", "freezer organized"],
+    "category": "storage"
+  },
+  {
+    "id": 2109,
+    "topic": "The 5-minute energy audit that saves $200 a year",
+    "hook": "5-minute walk-through saves $200 yearly",
+    "key_points": [
+      "Touch all exterior doors/windows for drafts — seal with weather strip",
+      "Check water heater temp — 120F is safe and efficient (not 140F)",
+      "Look for chargers/devices on standby — unplug or use smart plugs",
+      "DOE estimates these 3 fixes save typical home $180-220 per year"
+    ],
+    "search_terms": ["home energy audit", "thermostat home", "electric meter"],
+    "category": "energy-saving"
+  },
+  {
+    "id": 2110,
+    "topic": "Why your toilet flapper is your secret water bandit",
+    "hook": "Old toilet flapper steals 200 gallons daily",
+    "key_points": [
+      "Worn flappers leak silently — hardest leak to detect",
+      "Drop food coloring in tank; if color appears in bowl in 15 min, flapper leaks",
+      "$5 part, 5-minute install — saves up to 200 gallons/day",
+      "EPA estimates a single leaking flapper wastes $200/year"
+    ],
+    "search_terms": ["toilet tank flapper", "toilet bathroom inside", "toilet repair"],
+    "category": "maintenance"
+  },
+  {
+    "id": 2111,
+    "topic": "How to remove rust from anything with a potato",
+    "hook": "1 potato removes rust from any metal",
+    "key_points": [
+      "Cut potato in half, dip in dish soap or baking soda",
+      "Rub on rust spots — oxalic acid in potato dissolves iron oxide",
+      "Works on knives, tools, pans, garden tools",
+      "Rinse and dry thoroughly to prevent re-rusting"
+    ],
+    "search_terms": ["potato kitchen vegetable", "rusty knife metal", "rust remover"],
+    "category": "maintenance"
+  },
+  {
+    "id": 2112,
+    "topic": "The fridge zone that's actually warmer than you think",
+    "hook": "Fridge door is the warmest zone — store right",
+    "key_points": [
+      "Door temperature fluctuates 5-10F when opened — shortens shelf life",
+      "Eggs and milk last longer in main compartment, not door",
+      "Reserve door for condiments, butter, drinks (less spoilage risk)",
+      "Coldest zone: bottom back shelf — store raw meats and most-perishable items"
+    ],
+    "search_terms": ["refrigerator open inside", "fridge organized food", "milk fridge"],
+    "category": "storage"
+  },
+  {
+    "id": 2113,
+    "topic": "Why microfiber towels are the only towels you need",
+    "hook": "1 towel type replaces all the rest",
+    "key_points": [
+      "Microfiber holds 7x its weight in liquid — outperforms cotton",
+      "Captures 99% of bacteria with water alone (UC Davis study)",
+      "Lasts 500+ washes vs 50 for cotton dishcloths",
+      "Color-code by zone to prevent cross-contamination"
+    ],
+    "search_terms": ["microfiber cloth stack", "cleaning cloth", "kitchen towel set"],
+    "category": "cleaning"
+  },
+  {
+    "id": 2114,
+    "topic": "The dishwasher cycle that saves $40 a year",
+    "hook": "Eco cycle saves $40 — works just as well",
+    "key_points": [
+      "Eco cycle uses 30% less water and energy by extending wash time",
+      "Lower water temp (110F vs 140F) — works fine with modern enzyme detergents",
+      "Skips heated dry — just open door to air dry instead",
+      "Saves $30-50/year for typical 4-person household"
+    ],
+    "search_terms": ["dishwasher controls panel", "energy efficient appliance", "modern dishwasher"],
+    "category": "energy-saving"
+  },
+  {
+    "id": 2115,
+    "topic": "1 weird item that absorbs closet humidity",
+    "hook": "1 item kills closet humidity for $1",
+    "key_points": [
+      "Chalk sticks (a 12-pack at any dollar store) absorb humidity naturally",
+      "Hang 5-10 sticks tied with twine in damp closets",
+      "Replace every 6 months when chalk feels saturated",
+      "Beats $20 dehumidifier packets which need constant refilling"
+    ],
+    "search_terms": ["closet organized clothes", "white chalk", "dehumidifier closet"],
+    "category": "storage"
+  },
+  {
+    "id": 2116,
+    "topic": "Why you should never microwave food in plastic",
+    "hook": "Microwaving plastic releases hidden chemicals",
+    "key_points": [
+      "Heat releases BPA, phthalates from many plastics into food",
+      "Even 'microwave safe' plastic can leach with prolonged heating",
+      "Use glass or ceramic containers — heat-stable, chemical-free",
+      "Cover with damp paper towel instead of plastic wrap"
+    ],
+    "search_terms": ["microwave food container", "glass food container", "kitchen microwave"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 2117,
+    "topic": "The bedroom hack that improves sleep in 7 days",
+    "hook": "Block 1 thing for better sleep tonight",
+    "key_points": [
+      "Blackout curtains or sleep mask block ambient light disrupting melatonin",
+      "Light from streetlamps, alarms, electronics fragments deep sleep",
+      "Even closed eyelids let through ~10% of bedroom light",
+      "Sleep Foundation: 0.1 lux is ideal — about as dark as a moonless rural night"
+    ],
+    "search_terms": ["bedroom dark curtain", "sleeping bedroom", "blackout curtain"],
+    "category": "smart-home"
+  },
+  {
+    "id": 2118,
+    "topic": "Why hard water shortens your appliance life",
+    "hook": "Hard water cuts appliance life in half",
+    "key_points": [
+      "Calcium scale builds up in dishwasher, washer, water heater",
+      "Water heater scale: 1/4 inch reduces efficiency 25% (DOE)",
+      "Whole-house water softener costs $500-1500 — extends appliance life 2-3x",
+      "Test kit ($10) tells you grain hardness; over 7 grains/gallon = consider softener"
+    ],
+    "search_terms": ["water faucet kitchen", "limescale faucet", "water filter home"],
+    "category": "maintenance"
+  },
+  {
+    "id": 2119,
+    "topic": "The folded shirt method that saves drawer space",
+    "hook": "1 fold saves 50% drawer space",
+    "key_points": [
+      "Fold shirts in thirds vertically, then in thirds horizontally — small flat package",
+      "Stand vertically in drawer (file-folder method) — see every shirt at once",
+      "Fits twice as many shirts as stacking flat",
+      "Marie Kondo's method tested at 47% more visible inventory"
+    ],
+    "search_terms": ["folded shirts drawer", "tshirt folding", "drawer organized clothes"],
+    "category": "organization"
+  },
+  {
+    "id": 2120,
+    "topic": "Why ground cinnamon repels ants and roaches",
+    "hook": "Cinnamon stops both ants and roaches",
+    "key_points": [
+      "Cinnamaldehyde in cinnamon disrupts insect respiratory system",
+      "Sprinkle along baseboards, under sinks, around pet food bowls",
+      "Pet-safe alternative to chemical pesticides",
+      "Lasts about a week — refresh after vacuuming"
+    ],
+    "search_terms": ["cinnamon spice spoon", "kitchen pantry corner", "spice powder"],
+    "category": "pest"
+  },
+  {
+    "id": 2121,
+    "topic": "The shower cleaner that costs $0.50 to make",
+    "hook": "$0.50 spray beats $10 shower cleaners",
+    "key_points": [
+      "1 part dish soap + 1 part white vinegar — heat vinegar 30 sec for max power",
+      "Spray on tile, glass, fixtures — let sit 10 min, rinse",
+      "Dish soap dissolves soap scum oils; vinegar kills mold + dissolves minerals",
+      "Use weekly to prevent grout discoloration and pink mold"
+    ],
+    "search_terms": ["shower cleaning spray", "bathroom shower glass", "spray bottle bathroom"],
+    "category": "bathroom"
+  },
+  {
+    "id": 2122,
+    "topic": "Why you should rinse dishwasher pods (no, really)",
+    "hook": "Dishwasher pods need 1 weird step",
+    "key_points": [
+      "Pod film should not be torn before placing — moisture activates enzymes early",
+      "Place in main dispenser, not bottom of dishwasher",
+      "Don't pre-rinse heavily — enzymes need food residue to activate properly",
+      "Store pods in cool dry place — moisture clumps them"
+    ],
+    "search_terms": ["dishwasher pod tablet", "dishwasher detergent", "kitchen dishwasher"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 2123,
+    "topic": "1 item every renter should own",
+    "hook": "Renters: this $20 item changes everything",
+    "key_points": [
+      "Cordless handheld vacuum picks up between full cleanings",
+      "No installation, no commitment — perfect for rentals",
+      "Charges in 4 hours, runs 20 min — enough for daily quick cleanups",
+      "Saves carpet wear, prevents tracked-in dirt buildup"
+    ],
+    "search_terms": ["handheld vacuum", "small vacuum cleaner", "cleaning vacuum home"],
+    "category": "cleaning"
+  },
+  {
+    "id": 2124,
+    "topic": "The food storage trick that doubles bread shelf life",
+    "hook": "Bread lasts 2x longer with this 1 trick",
+    "key_points": [
+      "Wrap bread in beeswax wrap or paper, then plastic — controls moisture",
+      "Store at room temp 2-4 days; freeze for longer (slice first)",
+      "Never refrigerate — accelerates staling 6x faster",
+      "Freezer bread reheats in toaster from frozen — tastes like fresh-baked"
+    ],
+    "search_terms": ["bread loaf kitchen", "bread storage", "fresh bread"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 2125,
+    "topic": "Why you should clean your baseboards with a sock",
+    "hook": "Old sock cleans baseboards perfectly",
+    "key_points": [
+      "Slip sock over your hand — fits all baseboard angles and corners",
+      "Spray with multipurpose cleaner; one swipe per section",
+      "Replace with second sock for rinsing pass",
+      "Faster and more thorough than rags or paper towels"
+    ],
+    "search_terms": ["white baseboards trim", "baseboard floor", "wall trim home"],
+    "category": "cleaning"
+  },
+  {
+    "id": 2126,
+    "topic": "The nightly routine that ends morning chaos",
+    "hook": "5-min night routine ends morning chaos",
+    "key_points": [
+      "Set out tomorrow's clothes — saves 10-15 min decisions in morning",
+      "Pack bag, fill water bottle, set coffee maker timer night before",
+      "Wash dishes; counter clear at night = calm wake-up",
+      "Saves 30+ min of morning prep, lower cortisol mornings"
+    ],
+    "search_terms": ["morning routine bedroom", "clothes laid out bed", "evening home"],
+    "category": "organization"
+  },
+  {
+    "id": 2127,
+    "topic": "1 outlet upgrade that saves $50 a year",
+    "hook": "1 outlet swap saves $50 yearly",
+    "key_points": [
+      "USB-C wall outlets eliminate need for charger bricks (save $20+ per port)",
+      "Smart outlets cut standby load — average $30-50/year per outlet bank",
+      "Surge protection built-in — saves on appliance repair",
+      "DIY install in 10 min — flip breaker, swap, done"
+    ],
+    "search_terms": ["wall outlet usb", "smart outlet plug", "electrical outlet"],
+    "category": "smart-home"
+  },
+  {
+    "id": 2128,
+    "topic": "Why you should clean your washing machine monthly",
+    "hook": "Monthly washer cleaning prevents stinky clothes",
+    "key_points": [
+      "Run empty hot cycle with 2 cups vinegar — kills mold/mildew biofilm",
+      "Then run hot with 1 cup baking soda — neutralizes odors",
+      "Wipe gasket and detergent drawer weekly",
+      "Most washer odor issues = biofilm in pump or drum"
+    ],
+    "search_terms": ["washing machine clean", "front load washer", "laundry machine"],
+    "category": "laundry"
+  },
+  {
+    "id": 2129,
+    "topic": "The grocery storage method that wastes less food",
+    "hook": "1 grocery method cuts food waste 50%",
+    "key_points": [
+      "When unloading, put new items in BACK; older items move to FRONT",
+      "Designate 'eat first' shelf at eye level — stops forgotten items",
+      "Photograph fridge before grocery trip — avoid duplicate buying",
+      "USDA: average household wastes 30% of groceries — saves $1500/year"
+    ],
+    "search_terms": ["organized fridge food", "grocery bags", "unloading groceries"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 2130,
+    "topic": "How to test your home for radon (the silent killer)",
+    "hook": "Radon kills 21,000 yearly — test for $15",
+    "key_points": [
+      "EPA: radon causes 21,000 lung cancer deaths yearly — 2nd leading cause",
+      "DIY test kits at hardware stores ($15-30) — set 90 days, mail to lab",
+      "EPA recommends action above 4 pCi/L; consider mitigation at 2-4",
+      "Mitigation systems run $800-2500 — covered by some insurance"
+    ],
+    "search_terms": ["home basement", "house foundation", "radon test"],
+    "category": "smart-home"
+  },
+  {
+    "id": 2131,
+    "topic": "Why baking soda + vinegar is mostly useless together",
+    "hook": "Baking soda + vinegar barely cleans anything",
+    "key_points": [
+      "Mixing them produces water + sodium acetate — neutralizes both",
+      "Fizz looks impressive but cleaning power dies in seconds",
+      "Use them separately: baking soda for scrubbing, vinegar for dissolving",
+      "Only useful combo: drain unclogging (bubbles physically push gunk)"
+    ],
+    "search_terms": ["baking soda box", "vinegar bottle", "kitchen cleaning"],
+    "category": "cleaning"
+  },
+  {
+    "id": 2132,
+    "topic": "The 1 gadget that ends remote control wars",
+    "hook": "End remote wars with 1 universal app",
+    "key_points": [
+      "Smart hubs (Logitech Harmony, SwitchBot) consolidate all remotes into phone",
+      "One scene activates TV + soundbar + lights + AC at once",
+      "Family member access via app — no lost remotes",
+      "Most hubs $50-150 — works with thousands of devices"
+    ],
+    "search_terms": ["remote control tv", "smart home hub", "phone smart home"],
+    "category": "smart-home"
+  },
+  {
+    "id": 2133,
+    "topic": "How to get crayon off any wall in 60 seconds",
+    "hook": "Crayon on walls disappears in 60 seconds",
+    "key_points": [
+      "WD-40 dissolves wax in crayon — spray, wait 30 sec, wipe with cloth",
+      "Follow with mild dish soap to remove WD-40 oil residue",
+      "Test on small spot first on flat paint finishes",
+      "Works on walls, hardwood, vinyl flooring, fabric upholstery"
+    ],
+    "search_terms": ["crayon wall kid", "wd40 spray", "wall mark cleaning"],
+    "category": "cleaning"
+  },
+  {
+    "id": 2134,
+    "topic": "Why your smoke detector chirps at 3am (and how to stop)",
+    "hook": "3am smoke detector chirp has 1 cause",
+    "key_points": [
+      "Battery voltage drops at coldest part of night — triggers low-battery chirp",
+      "Replace ALL detector batteries simultaneously — annual fire department recommendation",
+      "Switch to 10-year sealed lithium models — eliminates yearly chirps",
+      "Detectors over 10 years old also chirp at end of life — replace whole unit"
+    ],
+    "search_terms": ["smoke detector ceiling", "battery alarm", "fire alarm home"],
+    "category": "smart-home"
+  },
+  {
+    "id": 2135,
+    "topic": "The bathroom gadget pros recommend over a plunger",
+    "hook": "Skip the plunger — pros use this $25 tool",
+    "key_points": [
+      "Drain auger (snake) clears clogs plungers can't — hair, wipes, deeper blockages",
+      "Manual hand crank reaches 25 feet vs plunger's 1-2 feet",
+      "Reusable forever vs chemical drain cleaners (which damage pipes)",
+      "Works on tubs, sinks, showers, toilets"
+    ],
+    "search_terms": ["drain snake plumbing", "bathroom drain tool", "clogged drain"],
+    "category": "bathroom"
+  },
+  {
+    "id": 2136,
+    "topic": "1 closet trick that saves you from forgetting things",
+    "hook": "Hang 1 item to never forget your essentials",
+    "key_points": [
+      "Hang next-to-door hook with: keys, mask, sunglasses, gym bag",
+      "Visual cue when leaving = no return trips for forgotten items",
+      "Saves average 8 minutes per week on door-back-and-forth",
+      "Acts as 'launch pad' — coats, bags, returnable items"
+    ],
+    "search_terms": ["entryway hooks", "front door home", "key hooks wall"],
+    "category": "organization"
+  },
+  {
+    "id": 2137,
+    "topic": "Why you should run hot water for 30 sec before drinking",
+    "hook": "Tap water has 1 hidden danger (and fix)",
+    "key_points": [
+      "Standing pipe water absorbs lead and other metals — first morning draw is worst",
+      "Run cold water 30-60 seconds before drinking/cooking — flushes pipes",
+      "Never use hot tap water for cooking — heat dissolves more contaminants",
+      "Lead pipes pre-1986 most affected — get water tested ($25-50)"
+    ],
+    "search_terms": ["faucet water glass", "tap water kitchen", "drinking water home"],
+    "category": "smart-home"
+  },
+  {
+    "id": 2138,
+    "topic": "The dishwasher hack restaurant chefs swear by",
+    "hook": "Chefs use dishwasher for 1 weird thing",
+    "key_points": [
+      "Dishwasher steams vegetables, fish, sweet potatoes during cycle",
+      "Wrap food in foil tightly — high heat + steam cooks gently",
+      "30-min cycle = perfectly tender fish, poached pears, hard-boiled eggs",
+      "Bonus: dishes get washed simultaneously"
+    ],
+    "search_terms": ["dishwasher open dishes", "kitchen dishwasher", "modern dishwasher"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 2139,
+    "topic": "Why your AC leaks water (and the easy fix)",
+    "hook": "AC water leak fixed in 5 minutes",
+    "key_points": [
+      "Condensate drain line clogs with algae/mold — water backs up into pan",
+      "Pour 1 cup vinegar into drain access port monthly",
+      "Wet/dry vacuum can suction out blockage from outside drain",
+      "Severely clogged systems can flood ceilings/walls — repair $500-2000"
+    ],
+    "search_terms": ["air conditioner leak", "ac unit home", "hvac drain"],
+    "category": "maintenance"
+  },
+  {
+    "id": 2140,
+    "topic": "How to remove pet hair from couches with 1 wet glove",
+    "hook": "Wet rubber glove removes all pet hair",
+    "key_points": [
+      "Damp rubber dishwashing glove + circular motion — hair clumps together",
+      "Friction + moisture grips hair better than vacuum or lint roller",
+      "Rinse glove between sections — works on furniture, curtains, car seats",
+      "Free alternative to expensive pet hair removers ($20-30)"
+    ],
+    "search_terms": ["pet hair couch", "dog cat fur", "rubber glove cleaning"],
+    "category": "cleaning"
+  },
+  {
+    "id": 2141,
+    "topic": "1 setting on your phone that ends late-night doom scroll",
+    "hook": "1 phone setting ends late-night scroll",
+    "key_points": [
+      "Schedule 'Do Not Disturb' from 10pm-7am — silences notifications",
+      "Set screen time limit on apps — 5 min/day Instagram blocks compulsive use",
+      "Charge phone outside bedroom — 90% reduction in nighttime checks",
+      "Better sleep adds 1-2 productive hours daily"
+    ],
+    "search_terms": ["phone bed nightstand", "smartphone night", "bedroom phone"],
+    "category": "smart-home"
+  },
+  {
+    "id": 2142,
+    "topic": "Why your shower head is harboring black mold",
+    "hook": "Black mold lives in your shower head",
+    "key_points": [
+      "Warm + wet shower heads = perfect mold environment",
+      "Soak detached head in 1 part bleach: 1 part water for 30 min monthly",
+      "Run hot water 1 min before showering after to flush",
+      "Black biofilm is harmless to most but triggers asthma/allergies"
+    ],
+    "search_terms": ["shower head mold", "bathroom shower", "shower fixtures"],
+    "category": "bathroom"
+  },
+  {
+    "id": 2143,
+    "topic": "The closet smell hack that uses 1 bar of soap",
+    "hook": "1 unwrapped soap bar deodorizes any closet",
+    "key_points": [
+      "Place wrapped soap bar (any kind) in drawer/closet — natural fragrance",
+      "Lasts 6-12 months; replace when scent fades",
+      "Heavy bars (Dove, Ivory) work best for sustained release",
+      "Free alternative to sachets and air fresheners"
+    ],
+    "search_terms": ["closet soap bar", "drawer organized clothes", "soap bar"],
+    "category": "organization"
+  },
+  {
+    "id": 2144,
+    "topic": "Why concrete needs sealing (and most homeowners skip it)",
+    "hook": "Skipping this 1 step destroys concrete",
+    "key_points": [
+      "Concrete absorbs water, salt, oil — leads to spalling and cracks",
+      "Seal driveways/garage floors every 3-5 years ($30 sealer covers 200 sq ft)",
+      "Stops oil stains from penetrating; stops freeze-thaw damage",
+      "Adds 10+ years to concrete surfaces"
+    ],
+    "search_terms": ["concrete driveway", "garage floor sealer", "concrete surface"],
+    "category": "maintenance"
+  },
+  {
+    "id": 2145,
+    "topic": "The vacuum mistake that ruins your floors",
+    "hook": "1 vacuum mistake ruins hardwood floors",
+    "key_points": [
+      "Beater bar/brush roll on hardwood scratches finish over time",
+      "Use 'bare floor' setting or vacuum with hard floor mode",
+      "Robot vacuums (Roomba, Roborock) auto-detect surface — safer",
+      "Vacuum hardwood weekly; deep clean monthly with damp microfiber mop"
+    ],
+    "search_terms": ["vacuum hardwood floor", "wood floor vacuum", "floor cleaning"],
+    "category": "cleaning"
+  },
+  {
+    "id": 2146,
+    "topic": "1 plant that purifies indoor air faster than air purifiers",
+    "hook": "1 plant filters air better than purifiers",
+    "key_points": [
+      "Snake plant (Sansevieria) removes formaldehyde, benzene, xylene per NASA Clean Air Study",
+      "Releases oxygen at night (unlike most plants) — improves bedroom air",
+      "Needs water once every 2-3 weeks — nearly impossible to kill",
+      "1 plant per 100 sq ft for measurable impact"
+    ],
+    "search_terms": ["snake plant indoor", "indoor plant green", "houseplant"],
+    "category": "smart-home"
+  },
+  {
+    "id": 2147,
+    "topic": "Why dollar tree spray bottles last 10 years",
+    "hook": "$1 spray bottles outlast $20 ones",
+    "key_points": [
+      "Cheap spray bottles use simple plastic mechanisms — fewer parts to fail",
+      "Refill with vinegar/water/dish soap solutions for nearly free cleaners",
+      "Label clearly with permanent marker — avoid mixing chemicals",
+      "Replace nozzle if clogged ($1) instead of whole bottle"
+    ],
+    "search_terms": ["spray bottle cleaning", "plastic spray bottle", "homemade cleaner"],
+    "category": "cleaning"
+  },
+  {
+    "id": 2148,
+    "topic": "The bedroom rule that makes any room look 30% cleaner",
+    "hook": "1 rule makes bedrooms look 30% cleaner",
+    "key_points": [
+      "Make the bed every morning — biggest visual impact",
+      "60 seconds of effort = brain perceives entire room as tidy",
+      "Linked to better sleep quality and morning productivity (Sleep Foundation)",
+      "Forces accountability — easier to keep room clean overall"
+    ],
+    "search_terms": ["made bed bedroom", "bedroom clean", "white bedding"],
+    "category": "organization"
+  },
+  {
+    "id": 2149,
+    "topic": "Why you should never put silverware down in the dishwasher",
+    "hook": "Silverware loading mistake costs you tarnish",
+    "key_points": [
+      "Handles down: water spray cleans business end better",
+      "Mix forks/spoons/knives in same slot — prevents nesting (which traps food)",
+      "Sterling silver dulls in dishwasher — hand wash separately",
+      "Stainless silverware: handles down for cleanest results"
+    ],
+    "search_terms": ["dishwasher silverware basket", "fork spoon knife", "kitchen utensils"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 2150,
+    "topic": "1 rug that reduces vacuuming by half",
+    "hook": "1 doormat cuts vacuuming in half",
+    "key_points": [
+      "Studies show doormats trap up to 80% of incoming dirt",
+      "Use 2 mats: outdoor scraper + indoor absorbent",
+      "Each indoor mat at major entries reduces total floor cleaning needs",
+      "Wash indoor mats monthly; outdoor mats quarterly"
+    ],
+    "search_terms": ["doormat entry home", "front door mat", "entry rug"],
+    "category": "cleaning"
+  },
+  {
+    "id": 2151,
+    "topic": "How to clean blinds in 5 minutes",
+    "hook": "Clean any blinds in 5 minutes flat",
+    "key_points": [
+      "Slip old sock over hand, dip in 1:1 vinegar:water",
+      "Pinch each slat between fingers, slide entire length",
+      "Cleans both sides of each slat in single motion",
+      "Beats individual slat wiping by 10x"
+    ],
+    "search_terms": ["blinds window clean", "horizontal blinds", "window blinds"],
+    "category": "cleaning"
+  },
+  {
+    "id": 2152,
+    "topic": "Why your kitchen towels need to be cotton (not microfiber)",
+    "hook": "Microfiber is wrong for 1 kitchen task",
+    "key_points": [
+      "Drying glassware: cotton flour-sack towels prevent streaks better",
+      "Microfiber sheds tiny fibers onto wet glass surfaces",
+      "Cotton handles heat better — pulling hot pans from oven",
+      "Use microfiber for surface cleaning; cotton for drying dishes"
+    ],
+    "search_terms": ["kitchen towel cotton", "drying dishes towel", "white towel kitchen"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 2153,
+    "topic": "The smart switch that's better than smart bulbs",
+    "hook": "Smart switches beat smart bulbs every time",
+    "key_points": [
+      "Smart switch ($25) controls every bulb in fixture — replaces multiple smart bulbs",
+      "Wall switch still works manually — guests don't need to know your app",
+      "Compatible with all dumb bulbs you already own",
+      "Saves $50-150 per fixture vs all smart bulbs"
+    ],
+    "search_terms": ["smart switch wall", "light switch home", "wall switch"],
+    "category": "smart-home"
+  },
+  {
+    "id": 2154,
+    "topic": "Why you should always save jar lids",
+    "hook": "Save jar lids for this 1 brilliant hack",
+    "key_points": [
+      "Mason jar lids fit standard mouth — make spice/condiment shakers",
+      "Drill holes in metal lid for shaker; punch big hole for pouring spout",
+      "Saves $10-20 vs buying spice jars or salad dressing shakers",
+      "Wash and reuse forever — better than single-use plastic containers"
+    ],
+    "search_terms": ["mason jar kitchen", "glass jar lid", "kitchen storage jars"],
+    "category": "storage"
+  },
+  {
+    "id": 2155,
+    "topic": "1 reason to never store knives in a drawer",
+    "hook": "Stop storing knives in drawers — 1 risk",
+    "key_points": [
+      "Loose knives dull from edges hitting other utensils",
+      "Magnetic strip ($15) on wall: keeps edges sharp, easy to grab",
+      "Drawer block ($20) protects edges and saves counter space",
+      "Properly stored knives need sharpening 50% less often"
+    ],
+    "search_terms": ["knife magnetic strip", "kitchen knife wall", "knives display"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 2156,
+    "topic": "How to make any room smell luxurious for $5",
+    "hook": "1 ingredient = $5 luxury room scent",
+    "key_points": [
+      "Add 10 drops essential oil to 1/2 cup baking soda in mason jar",
+      "Punch holes in lid — slow-release fragrance for 60+ days",
+      "Lavender for bedrooms, peppermint for kitchen, eucalyptus for bathrooms",
+      "Cheaper and chemical-free vs $30 boutique candles"
+    ],
+    "search_terms": ["essential oil bottle", "mason jar diffuser", "home fragrance"],
+    "category": "cleaning"
+  },
+  {
+    "id": 2157,
+    "topic": "The freezer trick that revives stale chips",
+    "hook": "Freezer revives stale chips in 1 hour",
+    "key_points": [
+      "Place stale chips in freezer 1 hour — moisture redistributes",
+      "Then microwave 30 seconds on paper towel — re-crisps",
+      "Works on crackers, cereal, pretzels — any starchy snack",
+      "Saves food vs throwing out half-eaten bags"
+    ],
+    "search_terms": ["chips potato bag", "snack food", "freezer food"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 2158,
+    "topic": "Why renters should buy 1 cordless drill",
+    "hook": "Renters: 1 drill saves you $500 yearly",
+    "key_points": [
+      "Hanging shelves, curtains, art, mounts — handyman calls average $75-150 each",
+      "Basic cordless drill: $50-80 (DeWalt, Ryobi)",
+      "Pays for itself after 1-2 projects you'd hire out",
+      "Includes drill bits + screw bits — 90% of home tasks covered"
+    ],
+    "search_terms": ["cordless drill", "tools workshop", "home repair drill"],
+    "category": "maintenance"
+  },
+  {
+    "id": 2159,
+    "topic": "1 sponge type that's banned in restaurants",
+    "hook": "Restaurants don't use 1 common sponge",
+    "key_points": [
+      "Cellulose sponges harbor bacteria in pores — banned in many commercial kitchens",
+      "Use silicone or stainless steel scrubbers — wash easily, last years",
+      "Or use disposable wipes (washable) and rotate weekly",
+      "Saves $30/year on sponges + reduces bacterial cross-contamination"
+    ],
+    "search_terms": ["kitchen sponge yellow", "scrub brush kitchen", "silicone sponge"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 2160,
+    "topic": "The thermostat schedule that saves $200 a year",
+    "hook": "1 schedule cuts thermostat bill 25%",
+    "key_points": [
+      "DOE: 7-10F setback for 8 hrs/day saves up to 10% on heating/cooling",
+      "Smart thermostats (Nest, Ecobee) auto-learn schedule",
+      "Setback when sleeping (3 hours of saving) and away (8+ hours)",
+      "Average savings: $180-250/year per ENERGY STAR data"
+    ],
+    "search_terms": ["smart thermostat home", "thermostat schedule", "nest thermostat"],
+    "category": "smart-home"
+  },
+  {
+    "id": 2161,
+    "topic": "Why you should never close doors of empty rooms",
+    "hook": "Closing empty room doors raises your bill",
+    "key_points": [
+      "Closed rooms force HVAC to work harder against pressure imbalance",
+      "Air pushes through ducts looking for return paths — wastes energy",
+      "Modern HVAC sized for whole-house airflow — closed rooms reduce efficiency 5-15%",
+      "Crack doors 2 inches if you must — keeps return air flowing"
+    ],
+    "search_terms": ["bedroom door closed", "interior door home", "house hallway"],
+    "category": "energy-saving"
+  },
+  {
+    "id": 2162,
+    "topic": "How to clean a keurig in 5 minutes",
+    "hook": "Keurig descales in 5 minutes flat",
+    "key_points": [
+      "Empty water reservoir, fill with white vinegar to max line",
+      "Run brew cycle (no pod) repeatedly until reservoir empty",
+      "Run 4-5 fresh water cycles to rinse",
+      "Do monthly to prevent mineral buildup and bitter coffee"
+    ],
+    "search_terms": ["keurig coffee maker", "single serve coffee", "kitchen coffee"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 2163,
+    "topic": "1 garage tip that doubles workshop space",
+    "hook": "1 garage trick doubles your space",
+    "key_points": [
+      "Use ceiling-mounted overhead storage racks ($100-250) — tools, holiday decor, luggage",
+      "Pegboard wall organizers ($30) hold 50+ items vertically",
+      "Wall hooks for bikes (vertical mounting saves 4+ sq ft per bike)",
+      "Average garage holds $30,000+ in storage tools and gear when organized"
+    ],
+    "search_terms": ["garage organized tools", "pegboard wall garage", "garage storage"],
+    "category": "organization"
+  },
+  {
+    "id": 2164,
+    "topic": "Why you should keep a Kleenex box in the freezer",
+    "hook": "Tissues in freezer have a hidden use",
+    "key_points": [
+      "Cold tissues stay rigid — perfect for delicate cleanup of liquid spills in fridge",
+      "Single-use eco friendlier than paper towel rolls in many cases",
+      "Frozen tissue applied to bee sting reduces pain instantly",
+      "Beauty hack: chilled tissue calms puffy eyes in 60 seconds"
+    ],
+    "search_terms": ["tissue box kleenex", "freezer items", "cold compress"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 2165,
+    "topic": "The 90/10 rule for laundry savings",
+    "hook": "90/10 rule cuts laundry costs in half",
+    "key_points": [
+      "90% of clothes wash perfectly fine in cold water + detergent designed for cold",
+      "Hot water heating accounts for 90% of washer's energy use",
+      "Save remaining 10% (sheets, towels, undergarments) for hot wash batch",
+      "Switch saves $50-100/year on energy bill"
+    ],
+    "search_terms": ["laundry detergent", "washing machine cold", "laundry cost"],
+    "category": "laundry"
+  },
+  {
+    "id": 2166,
+    "topic": "Why mason jars are the best storage container",
+    "hook": "Mason jars beat plastic for 1 reason",
+    "key_points": [
+      "Glass doesn't absorb food smells, oils, stains — looks new for years",
+      "BPA-free, microwave/dishwasher safe, freezer safe",
+      "Stack with same-size jars — wasted space drops 60%",
+      "$1-3 per jar at hardware stores; lasts decades vs 1-2 yr plastic"
+    ],
+    "search_terms": ["mason jars pantry", "glass food storage", "kitchen organized jars"],
+    "category": "storage"
+  },
+  {
+    "id": 2167,
+    "topic": "1 setting on the dishwasher most people forget",
+    "hook": "Dishwasher has 1 missing setting most ignore",
+    "key_points": [
+      "'Sanitize' cycle uses 150F+ — kills 99.999% of bacteria (NSF certified)",
+      "Use weekly for cutting boards, kid sippy cups, anything raw meat touched",
+      "Adds 30 min and ~$0.05 in energy — worth it for food safety",
+      "Most modern dishwashers have this — check the panel"
+    ],
+    "search_terms": ["dishwasher controls", "dishwasher cycle settings", "modern dishwasher"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 2168,
+    "topic": "How to remove permanent marker from anything",
+    "hook": "Remove permanent marker from anything fast",
+    "key_points": [
+      "Hard surfaces: dry-erase marker over the permanent, then wipe — solvent dissolves both",
+      "Skin: hand sanitizer breaks down ink within seconds",
+      "Fabric: rubbing alcohol on cloth, dab from outer edge inward",
+      "Wood: toothpaste with non-gel formula, scrub gently"
+    ],
+    "search_terms": ["permanent marker", "stain wall white", "marker fabric"],
+    "category": "cleaning"
+  },
+  {
+    "id": 2169,
+    "topic": "Why your floors stay dirty after mopping",
+    "hook": "Mopping leaves floors dirtier — fix it",
+    "key_points": [
+      "Same dirty water gets pushed around — change water every 1-2 rooms",
+      "Use 2-bucket method: 1 for clean solution, 1 for rinse",
+      "Microfiber spray mop with refillable head solves both issues",
+      "Wash mop head after EVERY use — never reuse dirty mop heads"
+    ],
+    "search_terms": ["mopping floor home", "spray mop floor", "floor cleaning bucket"],
+    "category": "cleaning"
+  },
+  {
+    "id": 2170,
+    "topic": "The 1 outlet upgrade that adds resale value",
+    "hook": "1 outlet swap adds $500 to home value",
+    "key_points": [
+      "USB-C outlets in kitchen + bedrooms appeal to buyers",
+      "Smart outlets with energy monitoring (~$30 each) demonstrate efficiency",
+      "GFCI outlets in older homes — required by code, easy DIY",
+      "Quality outlets last 30+ years vs 10 for cheap builder-grade"
+    ],
+    "search_terms": ["wall outlet usb", "electrical outlet home", "modern outlet"],
+    "category": "smart-home"
+  },
+  {
+    "id": 2171,
+    "topic": "Why you should soak burnt pans in dryer sheets",
+    "hook": "Dryer sheets clean burnt pans overnight",
+    "key_points": [
+      "Fill burnt pan with water + 1 dryer sheet, soak 1 hour",
+      "Anti-static + softener loosens burnt-on residue",
+      "Wipes clean with sponge — no scrubbing needed",
+      "Works on cookware that survives long soaking (not cast iron)"
+    ],
+    "search_terms": ["burnt pan kitchen", "dryer sheet box", "cooking pan dirty"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 2172,
+    "topic": "The 3-step toilet cleaning that takes 90 seconds",
+    "hook": "Clean any toilet in 90 seconds flat",
+    "key_points": [
+      "Step 1: Squirt 1 cup vinegar in bowl, scrub with toilet brush",
+      "Step 2: Spray exterior + seat with 1:1 vinegar:water, wipe with paper towels",
+      "Step 3: Toss paper towels in trash — don't flush wipes (clogs sewers)",
+      "Total cost per cleaning: $0.10"
+    ],
+    "search_terms": ["toilet bathroom clean", "toilet bowl brush", "bathroom cleaning"],
+    "category": "bathroom"
+  },
+  {
+    "id": 2173,
+    "topic": "1 fridge organization rule that saves 10 minutes daily",
+    "hook": "1 organization rule saves 10 min daily",
+    "key_points": [
+      "Use clear bins by category (snacks, breakfast, lunch prep, leftovers)",
+      "Each family member knows where everything is — no hunting",
+      "Pull bins entirely out for cleaning — saves wipe-down time",
+      "Average household saves 60+ hours per year of fridge searching"
+    ],
+    "search_terms": ["fridge bins organized", "refrigerator clear bins", "fridge organization"],
+    "category": "organization"
+  },
+  {
+    "id": 2174,
+    "topic": "Why ice cube trays belong in the freezer year-round",
+    "hook": "Ice cube trays = 5 hidden uses",
+    "key_points": [
+      "Freeze leftover wine, broth, herbs in oil for cooking portions",
+      "Freeze coffee cubes — perfect iced coffee without dilution",
+      "Freeze baby food into single portions",
+      "Freeze pesto, tomato paste, lemon juice — never waste partial cans/jars"
+    ],
+    "search_terms": ["ice cube tray", "freezer food cubes", "frozen herbs oil"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 2175,
+    "topic": "How to keep shoes from smelling without spray",
+    "hook": "Shoe smell ends with 1 free trick",
+    "key_points": [
+      "Stuff shoes with newspaper or unused coffee filters overnight",
+      "Absorbs moisture (main cause of shoe odor) and neutralizes smell",
+      "Baking soda in old socks: tie off, leave in shoes — works for weeks",
+      "Sun expose canvas/leather shoes monthly — UV kills odor bacteria"
+    ],
+    "search_terms": ["shoes closet organized", "shoes smell", "sneakers home"],
+    "category": "cleaning"
+  },
+  {
+    "id": 2176,
+    "topic": "The sock drawer mistake costing you 30 minutes a week",
+    "hook": "1 sock organization trick saves 30 min/week",
+    "key_points": [
+      "Stop balling socks — destroys elastic, takes 3x more space",
+      "Lay flat in pairs (or use small clip), file vertically",
+      "Average person spends 30 min/week looking for matching socks",
+      "Organized sock drawer: pick pair in 5 seconds vs 60+"
+    ],
+    "search_terms": ["sock drawer organized", "drawer organizer socks", "folded socks"],
+    "category": "organization"
+  },
+  {
+    "id": 2177,
+    "topic": "Why you should never reuse plastic water bottles",
+    "hook": "Reusing water bottles has 1 health risk",
+    "key_points": [
+      "Single-use bottles' plastic degrades — leaches BPA/phthalates with reuse",
+      "Bottle rim and threads harbor bacteria (washing rarely thorough)",
+      "Use stainless steel or glass reusable bottles instead — safer + eco-friendly",
+      "Quality bottle ($20) replaces 1500+ disposables yearly"
+    ],
+    "search_terms": ["water bottle plastic", "reusable water bottle", "stainless water bottle"],
+    "category": "kitchen-hacks"
+  },
+  {
+    "id": 2178,
+    "topic": "1 trick to get fingerprints off stainless steel",
+    "hook": "1 oil drop ends fingerprints on stainless",
+    "key_points": [
+      "Drop of olive oil on microfiber, wipe with grain of steel",
+      "Oil fills micro-grooves — repels water and oils for weeks",
+      "Wipes clean of past prints + prevents new ones",
+      "Saves $10-15/month on stainless steel cleaning sprays"
+    ],
+    "search_terms": ["stainless steel fridge", "stainless appliance", "polishing fridge"],
+    "category": "cleaning"
+  },
+  {
+    "id": 2179,
+    "topic": "Why Tide Pods work better than liquid detergent",
+    "hook": "1 detergent type beats all the rest",
+    "key_points": [
+      "Pre-measured concentration prevents under/overdosing",
+      "Multi-chamber pods activate in stages — pretreat, wash, brightener",
+      "Less water added = stronger cleaning enzymes",
+      "Costs slightly more but eliminates wasted detergent"
+    ],
+    "search_terms": ["laundry detergent pod", "washing detergent", "laundry pods"],
+    "category": "laundry"
+  }
+]

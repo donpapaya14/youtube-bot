@@ -1,19 +1,19 @@
 {
   "name": "EspacioInteligente",
   "handle": "@EspacioInteligente",
-  "niche": "Home hacks, cleaning tricks and smart living tips backed by science",
-  "tone": "Practical, direct. Like a friend who knows useful home tricks.",
+  "niche": "Trucos de hogar, limpieza y ahorro respaldados por la ciencia",
+  "tone": "Práctico y directo. Como un amigo que sabe trucos útiles de casa.",
   "topics": [
-    "cleaning hacks",
-    "energy saving tips",
-    "smart home organization",
-    "home curiosities",
-    "common home mistakes",
-    "basic smart home",
-    "cooking tricks",
-    "home maintenance",
-    "recycling hacks",
-    "small space hacks"
+    "trucos de limpieza caseros",
+    "ahorro de energía en casa",
+    "organización inteligente del hogar",
+    "curiosidades del hogar",
+    "errores comunes en casa",
+    "domótica básica",
+    "trucos de cocina",
+    "mantenimiento del hogar",
+    "trucos de reciclaje",
+    "aprovechar espacios pequeños"
   ],
   "style": {
     "primary_color": "#1976D2",
@@ -21,20 +21,20 @@
     "box_opacity": 0.85,
     "font_size": 58
   },
-  "cta": "📖 More tips ↓\nhttps://espaciointeligente.org\n\n🏠 Home picks ↓\nhttps://www.amazon.com/s?k=home+organization+gadgets&tag=vds96-20\n\n🔔 Subscribe for daily home hacks\n\n— Vladys Z. | Developer & Professional Chef",
+  "cta": "📖 Más trucos ↓\nhttps://espaciointeligente.org\n\n🏠 Recomendados ↓\nhttps://www.amazon.es/s?k=organizadores+hogar&tag=vladys-21\n\n🔔 Suscríbete para trucos de hogar a diario\n\n— Vladys Z.",
   "refresh_token_env": "YT_TOKEN_HOGARINTELIGENTE",
   "web_url": "https://espaciointeligente.org",
-  "amazon_tag": "vds96-20",
-  "amazon_search": "home+organization+gadgets",
+  "amazon_tag": "vladys-21",
+  "amazon_search": "organizadores+hogar",
   "no_voice": false,
-  "language": "en",
+  "language": "es",
   "category_id": "26",
-  "pinned_comment": "🏠 Which hack are you trying first? Let us know! 👇\n\n📖 More home tips: https://espaciointeligente.org\n💡 Comment your trick — best one gets pinned tomorrow.",
-  "voice": "en-US-GuyNeural",
+  "pinned_comment": "🏠 ¿Qué truco vas a probar primero? ¡Cuéntame! 👇\n\n📖 Más trucos: https://espaciointeligente.org",
+  "voice": "es-MX-JorgeNeural",
   "voice_pool": [
-    "en-US-AndrewNeural",
-    "en-US-EmmaNeural",
-    "en-GB-RyanNeural"
+    "es-ES-AlvaroNeural",
+    "es-ES-XimenaNeural",
+    "es-MX-DaliaNeural"
   ],
   "cloud_project": "papi",
   "mascot": {
@@ -44,6 +44,6 @@
     "watermark_pos": "bottom-right",
     "watermark_pose": "point",
     "outro": true,
-    "outro_text": "Subscribe 👇"
+    "outro_text": "Suscríbete 👇"
   }
 }
