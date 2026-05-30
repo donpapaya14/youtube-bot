@@ -1,8 +1,8 @@
 name: "Video: SaludLongevidad"
 on:
-  # PAUSADO 2026-05-28: canal enterrado (~1 view recientes, 62 subs). Lanzable a mano (workflow_dispatch).
-  # schedule:
-  #   - cron: '30 6 * * *'
+  # REACTIVADO 2026-05-30: vertical salud ES funciona (62 subs en ~5 semanas, mejor velocidad). Concentrar aqui.
+  schedule:
+    - cron: '30 6 * * *'  # 06:30 UTC diario (shorts = motor de discovery)
   workflow_dispatch:
 jobs:
   video:
