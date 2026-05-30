@@ -21,31 +21,43 @@ from googleapiclient.discovery import build
 CID = os.environ["YOUTUBE_CLIENT_ID"]
 CSEC = os.environ["YOUTUBE_CLIENT_SECRET"]
 
+# Multi-project OAuth: cada canal tiene su cloud_project
 CHANNELS = {
-    "PRINCIPAL": "VidaSana360",
-    "SALUD": "SaludLongevidad",
-    "FINANZAS": "FinanzasClara",
-    "CATBROTHERS": "CatBrothers",
-    "HOGARINTELIGENTE": "EspacioInteligente",
-    "CHILLORBIT": "MindWired",
-    "DARKFILES": "DarkFiles",
-    "CALMEARTH": "DisasterDecode",
-    "CASHCAFE": "CashCafe",
-    "DONVLADYS": "DonVladys",
+    "PRINCIPAL": ("VidaSana360", "default"),
+    "SALUD": ("SaludLongevidad", "default"),
+    "FINANZAS": ("FinanzasClara", "default"),
+    "CATBROTHERS": ("CatBrothers", "papi"),
+    "HOGARINTELIGENTE": ("EspacioInteligente", "papi"),
+    "CHILLORBIT": ("MindWired", "default"),
+    "DARKFILES": ("DarkFiles", "default"),
+    "CALMEARTH": ("DisasterDecode", "default"),
+    "CASHCAFE": ("CashCafe", "cashcafe"),
+    "DONVLADYS": ("DonVladys", "default"),
 }
 
 
-def yt_clients(refresh_token: str):
+def _creds_for(project: str):
+    if project == "default":
+        return CID, CSEC
+    cid = os.environ.get(f"YOUTUBE_{project.upper()}_CLIENT_ID")
+    csec = os.environ.get(f"YOUTUBE_{project.upper()}_CLIENT_SECRET")
+    return cid, csec
+
+
+def yt_clients(refresh_token: str, project: str = "default"):
+    cid, csec = _creds_for(project)
     creds = Credentials(
         token=None,
         refresh_token=refresh_token,
         token_uri="https://oauth2.googleapis.com/token",
-        client_id=CID,
-        client_secret=CSEC,
+        client_id=cid,
+        client_secret=csec,
         scopes=[
             "https://www.googleapis.com/auth/youtube",
             "https://www.googleapis.com/auth/yt-analytics.readonly",
-            "https://www.googleapis.com/auth/yt-analytics-monetary.readonly",
+            # yt-analytics-monetary.readonly REQUIERE re-consentir el token y daba
+            # invalid_scope. Se añade cuando un canal esté monetizado (YPP) para
+            # leer ingresos; la retención/watch-time funcionan sin él.
         ],
     )
     yt = build("youtube", "v3", credentials=creds)
@@ -123,13 +135,17 @@ def main():
     report = {}
     targets = {args.channel: CHANNELS[args.channel]} if args.channel else CHANNELS
 
-    for env_name, ch_name in targets.items():
+    for env_name, ch_data in targets.items():
+        if isinstance(ch_data, tuple):
+            ch_name, project = ch_data
+        else:
+            ch_name, project = ch_data, "default"
         token = os.getenv(f"YT_TOKEN_{env_name}")
         if not token:
             print(f"[SKIP] {ch_name}: sin YT_TOKEN_{env_name}")
             continue
         try:
-            yt, yta = yt_clients(token)
+            yt, yta = yt_clients(token, project)
             info = get_channel_id(yt)
             ch_id = info["id"]
             stats = info.get("statistics", {})
