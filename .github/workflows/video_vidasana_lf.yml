@@ -1,8 +1,8 @@
 name: "Video: VidaSana360 (Long-Form)"
 on:
-  # DESACTIVADO 2026-05-28: LF sin tracción (~11 views vs 224 en shorts). Lanzable a mano (workflow_dispatch).
-  # schedule:
-  #   - cron: '0 18 * * *'
+  # REACTIVADO 2026-05-30: largos VidaSana de vuelta a diario por decisión del usuario.
+  schedule:
+    - cron: '0 18 * * *'  # 18:00 UTC (20:00 ES) diario
   workflow_dispatch:
 jobs:
   video:
