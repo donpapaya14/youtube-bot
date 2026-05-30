@@ -188,7 +188,10 @@ CONTENT_FORMULAS = {
 NICHE_MAP = {
     "FinanzasClara": "finance_en",
     "SaludLongevidad": "salud_longevidad",
-    "VidaSana360": "health_en",
+    # VidaSana360 es ES: usar fórmulas ES concretas (salud_bienestar), no las
+    # inglesas abstractas (health_en) que generaban temas tipo "metabolismo a
+    # los 40" = los que mueren. Verificado con analytics 30-may.
+    "VidaSana360": "salud_bienestar",
     "CatBrothers": "cats_en",
     "EspacioInteligente": "home_en",
 }
@@ -876,7 +879,7 @@ HARD RULES:
 
 Respond ONLY JSON:
 {{
-  "title": "Search-optimized title (60 chars max). Include exact keyword users type. 1 emoji at start. Vary format across videos: question, stat-statement, list, contrast, contradiction. NO generic clickbait.",
+  "title": "SHORT punchy title (ideal <50 chars). WINNING FORMULA proven on this channel: [concrete subject: food/exercise/object/behavior] + [concrete outcome or number] + 1 emoji. Real titles that hit: 'Why Cats Knock Things Off Tables 🐱', 'Why Cats Ignore You (They Hear You!) 🐱', 'Garlic cuts heart attacks 🧄', 'Save $180/year with this ⚡'. BANNED (these got 0 views): long abstract titles, Every Word Capitalized, 'The Silent Epidemic That...', vague ('Home Hacks'). Use a real keyword people search.",
   "description": "3 lines, natural keywords, conversational tone. Mention what viewer learns. End with subtle channel CTA.",
   "tags": ["tag1", "tag2", "tag3", "tag4", "tag5", "tag6", "tag7", "tag8"],
   "segments": [
@@ -920,7 +923,7 @@ REGLAS DURAS:
 
 Responde SOLO JSON:
 {{
-  "title": "Título búsqueda YouTube (60 chars máx). Incluye keyword exacta que alguien escribiría. 1 emoji al inicio. Variar formato entre videos: pregunta, dato-afirmación, lista, contraste, contradicción.",
+  "title": "Título CORTO y directo (ideal <50 chars). FÓRMULA QUE FUNCIONA en este canal: [sujeto concreto: alimento/ejercicio/objeto] + [resultado o cifra concretos] + 1 emoji. Ejemplos REALES que petaron: 'El ajo reduce infartos 🧄', 'Ahorra 180€ al año con esto ⚡', 'Burpees queman más que correr 🔥', 'Curry saludable 🥘'. PROHIBIDO (esos sacaron 0 views): títulos largos/abstractos, Con Cada Palabra En Mayúscula, tipo 'La Epidemia Silenciosa Que Afecta al 80%'. Keyword real que alguien buscaría.",
   "description": "3 líneas, keywords naturales, tono conversacional. Qué aprende el espectador. CTA sutil al canal.",
   "tags": ["tag1", "tag2", "tag3", "tag4", "tag5", "tag6", "tag7", "tag8"],
   "segments": [
