@@ -367,12 +367,23 @@ def _get_recent_titles(channel: dict) -> list[str]:
             log.warning("Sin refresh token para dedup, continuando sin historial")
             return []
 
+        # Multi-project: resolver client_id segun cloud_project del canal.
+        # BUG previo: se hardcodeaba YOUTUBE_CLIENT_ID (default) -> en canales
+        # papi/cashcafe el token no casaba con el client -> OAuth fallaba ->
+        # devolvia [] -> dedup roto -> se re-subia el mismo video.
+        project = channel.get("cloud_project", "default")
+        if project == "default":
+            cid_env, csec_env = "YOUTUBE_CLIENT_ID", "YOUTUBE_CLIENT_SECRET"
+        else:
+            cid_env = f"YOUTUBE_{project.upper()}_CLIENT_ID"
+            csec_env = f"YOUTUBE_{project.upper()}_CLIENT_SECRET"
+
         creds = Credentials(
             token=None,
             refresh_token=refresh_token,
             token_uri="https://oauth2.googleapis.com/token",
-            client_id=os.getenv("YOUTUBE_CLIENT_ID"),
-            client_secret=os.getenv("YOUTUBE_CLIENT_SECRET"),
+            client_id=os.getenv(cid_env),
+            client_secret=os.getenv(csec_env),
             scopes=["https://www.googleapis.com/auth/youtube"],
         )
 

@@ -31,8 +31,12 @@ logging.basicConfig(
 )
 log = logging.getLogger("longform")
 
-# --- AI providers (reutiliza research.py) ---
-from research import _call_with_fallback, _AI_BANNED_ES, _AI_BANNED_EN
+# --- AI providers + dedup persistente (reutiliza research.py) ---
+import hashlib
+from research import (
+    _call_with_fallback, _AI_BANNED_ES, _AI_BANNED_EN,
+    _save_local_title, _load_local_titles,
+)
 
 
 def load_channel(name: str) -> dict:
@@ -40,6 +44,73 @@ def load_channel(name: str) -> dict:
     path = os.path.join(project_root, "channels", f"{name}.json")
     with open(path) as f:
         return json.load(f)
+
+
+# ============================================================
+# DEDUP LONG-FORM — nunca subir el mismo título ni el mismo contenido
+# (persistido en .title_cache/, que el workflow commitea entre runs)
+# ============================================================
+
+def _norm_title(t: str) -> str:
+    return " ".join((t or "").lower().split())
+
+
+def _content_hash(segments) -> str:
+    """Huella del contenido (primeros ~1200 chars de la voz concatenada)."""
+    text = " ".join(
+        (s.get("voice", "") if isinstance(s, dict) else str(s))
+        for s in (segments or [])
+    )
+    text = " ".join(text.lower().split())[:1200]
+    return hashlib.sha1(text.encode("utf-8")).hexdigest()[:16] if text else ""
+
+
+def _lf_hash_path(channel_name: str) -> str:
+    project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    cache_dir = os.path.join(project_root, ".title_cache")
+    os.makedirs(cache_dir, exist_ok=True)
+    return os.path.join(cache_dir, f"{channel_name}.lfhash")
+
+
+def _load_content_hashes(channel_name: str) -> set:
+    path = _lf_hash_path(channel_name)
+    if not os.path.exists(path):
+        return set()
+    with open(path) as f:
+        return {ln.strip() for ln in f if ln.strip()}
+
+
+def _seen_titles(channel: dict) -> set:
+    """Títulos ya publicados: YouTube reciente (API) + cache local persistido."""
+    seen = set()
+    try:
+        from research import _get_recent_titles
+        seen |= {_norm_title(t) for t in _get_recent_titles(channel)}
+    except Exception as e:
+        log.warning("dedup: títulos YouTube no disponibles: %s", str(e)[:80])
+    seen |= {_norm_title(t) for t in _load_local_titles(channel["name"])}
+    return seen
+
+
+def _already_published(channel: dict, title: str, segments) -> bool:
+    """True si este título O este contenido ya se subió antes."""
+    if _norm_title(title) in _seen_titles(channel):
+        log.warning("DEDUP: título ya publicado: '%s'", title)
+        return True
+    h = _content_hash(segments)
+    if h and h in _load_content_hashes(channel["name"]):
+        log.warning("DEDUP: contenido ya publicado (hash %s): '%s'", h, title)
+        return True
+    return False
+
+
+def _mark_published(channel: dict, title: str, segments) -> None:
+    """Registra título + hash de contenido para no repetirlos nunca."""
+    _save_local_title(channel["name"], title)
+    h = _content_hash(segments)
+    if h:
+        with open(_lf_hash_path(channel["name"]), "a") as f:
+            f.write(h + "\n")
 
 
 # ============================================================
@@ -407,6 +478,7 @@ Respond JSON:
         "tags": channel.get("default_tags", []) + script.get("tags", []),
         "topic": script.get("title", ""),
         "thumbnail": thumbnail,
+        "segments": script.get("segments", []),
     }
 
 
@@ -598,6 +670,7 @@ Respond JSON:
         "tags": channel.get("default_tags", []) + script.get("tags", []),
         "topic": script.get("title", ""),
         "thumbnail": thumbnail,
+        "segments": script.get("segments", []),
     }
 
 
@@ -623,14 +696,10 @@ def _load_prewritten_script(channel: dict) -> dict | None:
     if not os.path.isdir(scripts_dir):
         return None
 
-    # Obtener títulos recientes de YouTube para evitar duplicados
-    recent_titles = []
-    try:
-        from research import _get_recent_titles
-        recent_titles = _get_recent_titles(channel)
-    except Exception as e:
-        log.warning("No se pudieron obtener títulos recientes: %s", str(e)[:100])
-    recent_lower = {t.lower().strip() for t in recent_titles}
+    # Dedup persistente: títulos ya publicados (YouTube API + cache local que
+    # sobrevive entre runs de CI) + hashes de contenido ya subido.
+    seen = _seen_titles(channel)
+    used_hashes = _load_content_hashes(channel["name"])
 
     # Recorrer scripts disponibles, saltar los que ya están en YouTube
     all_scripts = sorted(f for f in os.listdir(scripts_dir) if f.endswith(".json"))
@@ -649,9 +718,11 @@ def _load_prewritten_script(channel: dict) -> dict | None:
         with open(path) as f:
             script = json.load(f)
 
-        title = script.get("title", "").lower().strip()
-        if title in recent_lower:
+        if _norm_title(script.get("title", "")) in seen:
             log.info("Script %s ya subido ('%s'), saltando", script_file, script.get("title", "?"))
+            continue
+        if _content_hash(script.get("segments", [])) in used_hashes:
+            log.info("Script %s con contenido ya publicado, saltando", script_file)
             continue
 
         # Validar formato: segments deben ser dicts con voice
@@ -715,6 +786,13 @@ def run(channel_name: str):
     # Generar video
     result = runner(channel, work_dir)
 
+    # GUARDA anti-duplicado (última línea de defensa): nunca subir el mismo
+    # título ni el mismo contenido, venga de script pre-escrito o de la IA.
+    segments = result.get("segments", [])
+    if _already_published(channel, result["title"], segments):
+        _mark_published(channel, result["title"], segments)
+        raise RuntimeError(f"Duplicado evitado, no se sube: {result['title']}")
+
     video_path = result["video_path"]
     size_mb = os.path.getsize(video_path) / (1024 * 1024)
     log.info("Video final: %.1f MB", size_mb)
@@ -729,6 +807,9 @@ def run(channel_name: str):
         channel_config=channel,
         thumbnail_path=result.get("thumbnail"),
     )
+
+    # Registrar como publicado (título + hash) para no repetirlo nunca
+    _mark_published(channel, result["title"], segments)
 
     # Telegram
     msg = (
