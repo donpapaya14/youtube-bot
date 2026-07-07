@@ -1,6 +1,3 @@
-1778167213.5863678|Respiración consciente y envejecimiento
-1778187602.2029154|Autofagia: cómo tu cuerpo se recicla a sí mismo para rejuvenecer
-1778229013.4621704|La proteína mTOR: el interruptor maestro del envejecimiento
 1778252242.903778|Células senescentes: las células zombi que te envejecen
 1778273471.2100837|El reloj epigenético de Horvath: tu edad biológica real
 1778315850.9664166|Mitocondrias: las baterías celulares que determinan tu energía vital
@@ -82,3 +79,4 @@
 1783156437.2359314|Adenosina y presión del sueño: por qué el café es solo una máscara
 1783244527.5119104|Rapamicina: el fármaco de trasplantes que podría ser el elixir de la juventud
 1783337589.1541302|N-Glucanos como biomarcador de envejecimiento
+1783419535.6387463|Protección solar y longevidad: el hábito que más frena el envejecimiento de la piel
