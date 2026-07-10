@@ -1,6 +1,3 @@
-1778423078.2017167|Efecto del zinc en la longevidad
-1778444348.4825377|El poder del Rosmarinus officinalis en la longevidad
-1778494250.6135137|Envejecimiento celular y senescencia
 1778515561.0451295|La dieta mediterránea extiende la vida: las pruebas definitivas
 1778534607.8439994|Vitamina D: la hormona solar que regula 200 genes del envejecimiento
 1778579024.1276338|Ejercicio de alta intensidad y telómeros
@@ -76,3 +73,4 @@
 1783419535.6387463|Protección solar y longevidad: el hábito que más frena el envejecimiento de la piel
 1783501676.3741982|Yoga y telómeros: la práctica ancestral con evidencia antiedad
 1783591482.4710724|Cerdeña: por qué los hombres sardos viven tanto como las mujeres
+1783678703.1575027|Ayuno prolongado de 3 días: la regeneración inmunitaria según Valter Longo
