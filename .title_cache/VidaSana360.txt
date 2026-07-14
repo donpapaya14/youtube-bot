@@ -1,4 +1,3 @@
-1778791388.164525|El mito de que los huevos suben el colesterol
 1778835571.1424398|Los beneficios probados de la cúrcuma para la inflamación articular
 1778877221.139698|Bacterias intestinales y pérdida de grasa
 1778920043.25948|El efecto de 10 minutos de meditación diaria en el cerebro
@@ -113,3 +112,4 @@
 1783882916.0283744|Postura y Hormonas 🏋️
 1783935976.8869948|El potencial antiinflamatorio del aceite de pescado
 1783971552.0570555|Postura y Hormonas 🏋️
+1784017225.1931033|El impacto de la música en la recuperación de cirugías y el dolor
