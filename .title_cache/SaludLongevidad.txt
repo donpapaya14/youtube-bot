@@ -1,5 +1,3 @@
-1778962547.5372546|VO2max: el mejor predictor de cuántos años vivirás
-1779007502.2789116|Glucosa postprandial: los picos de azúcar que te envejecen
 1779027592.4048898|Hormesis: el principio de que lo que no te mata te hace más fuerte
 1779050288.4198663|Estrés oxidativo: la batalla que libran tus células cada segundo
 1779102625.1166852|El nervio vago: el cable que conecta tu cerebro con todo tu cuerpo
@@ -66,3 +64,4 @@
 1783937333.8232393|Ultrasonido enfocado: la tecnología que destruye células senescentes sin cirugía
 1784019153.6735888|Fascia: la red de tejido conectivo que determina tu movilidad y dolor
 1784105160.7235773|Inositol: la molécula que mejora sueño, ansiedad y resistencia a insulina
+1784192242.7523265|El test del sitting-rising: la prueba de 5 segundos que predice tu mortalidad
