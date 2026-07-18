@@ -1,6 +1,3 @@
-1779102625.1166852|El nervio vago: el cable que conecta tu cerebro con todo tu cuerpo
-1779121209.769002|Grasa visceral: la grasa invisible que acorta tu vida
-1779138763.6958115|Apnea del sueño: el trastorno silencioso que roba 10 años de vida
 1779187310.5261283|El papel del aceite de oliva en la longevidad
 1779206363.4487295|Omega-3 EPA vs DHA: funciones diferentes y cuánto necesitas de cada uno
 1779224737.6735642|Coenzima Q10: la molécula energética que decrece con la edad
@@ -64,3 +61,4 @@
 1784105160.7235773|Inositol: la molécula que mejora sueño, ansiedad y resistencia a insulina
 1784192242.7523265|El test del sitting-rising: la prueba de 5 segundos que predice tu mortalidad
 1784277505.5454335|Sulforafano: el compuesto del brócoli más potente que cualquier suplemento
+1784362647.7936425|Reprogramación Yamanaka: borrar el envejecimiento celular sin borrar la identidad
