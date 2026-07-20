@@ -1,4 +1,3 @@
-1779340595.9924593|Optimal Home Temperature Setting for Energy Savings
 1779382152.205337|Why oven self-clean mode can break your oven
 1779392871.9648046|The bedroom temp that gives you 20% better sleep
 1779425283.5745459|How to silence a squeaky floor without ripping it up
@@ -124,3 +123,4 @@
 1784409450.8422458|Cómo organizar tu congelador en zonas para encontrar todo en 10 segundos
 1784474209.7789986|Por qué frotar medio limón por la tabla de cortar elimina olores y bacterias
 1784496149.77667|Cómo el vinagre descalcifica la alcachofa de la ducha y mejora el chorro
+1784564103.63173|El dato que demuestra que tu esponja de cocina es el objeto más sucio de tu casa
