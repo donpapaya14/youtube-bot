@@ -1,6 +1,3 @@
-1779359187.153882|Fases del sueño: qué pasa en tu cerebro durante cada ciclo
-1779380369.105283|Patrón de sueño asociado a longevidad
-1779398608.4958584|Las 9 marcas del envejecimiento que puedes controlar
 1779444141.9051547|Okinawa: por qué la isla japonesa tiene 5 veces más centenarios
 1779484604.648464|Metformina: el fármaco para diabetes que podría frenar el envejecimiento
 1779525877.2358086|Curcumina y biodisponibilidad: por qué comer cúrcuma sola no funciona
@@ -58,3 +55,4 @@
 1784277505.5454335|Sulforafano: el compuesto del brócoli más potente que cualquier suplemento
 1784362647.7936425|Reprogramación Yamanaka: borrar el envejecimiento celular sin borrar la identidad
 1784541527.921501|Parasomnia y bruxismo: los problemas del sueño que no conoces
+1784626239.2033856|La exposición a la radiación cósmica en aviones
