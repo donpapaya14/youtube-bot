@@ -1,6 +1,3 @@
-1779444141.9051547|Okinawa: por qué la isla japonesa tiene 5 veces más centenarios
-1779484604.648464|Metformina: el fármaco para diabetes que podría frenar el envejecimiento
-1779525877.2358086|Curcumina y biodisponibilidad: por qué comer cúrcuma sola no funciona
 1779545428.5613222|La universidad de Harvard encuentra relación entre la ingesta de nitratos y la longevidad
 1779569203.0775712|Epigenética: cómo tu estilo de vida cambia la expresión de tus genes
 1779614474.1690297|Insulina: la hormona que envejece cuando está crónicamente elevada
@@ -56,3 +53,4 @@
 1784362647.7936425|Reprogramación Yamanaka: borrar el envejecimiento celular sin borrar la identidad
 1784541527.921501|Parasomnia y bruxismo: los problemas del sueño que no conoces
 1784626239.2033856|La exposición a la radiación cósmica en aviones
+1784711725.585376|Vitamina C y colágeno: por qué Linus Pauling estaba parcialmente correcto
